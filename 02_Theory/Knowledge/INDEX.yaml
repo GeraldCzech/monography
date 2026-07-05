@@ -1,0 +1,803 @@
+sequences:
+  review: 5
+  evidence: 118
+  src: 46
+claim_sequences:
+  WG: 31
+  C: 21
+  IA: 1
+  SI: 3
+  AR: 1
+  S: 1
+  CA: 1
+  N: 1
+reviews:
+  REVIEW-000001:
+    stem: LoitRev_Warm_Glow_Giving
+    added: '2026-07-05T16:13:13+00:00'
+  REVIEW-000002:
+    stem: LoitRev_Warm_Glow_Giving
+    added: '2026-07-05T16:58:16+00:00'
+  REVIEW-000003:
+    stem: LoitRev_Warm_Glow_Giving
+    added: '2026-07-05T17:28:32+00:00'
+  REVIEW-000004:
+    stem: LoitRev_Warm_Glow_Giving
+    added: '2026-07-05T18:21:30+00:00'
+  REVIEW-000005:
+    stem: LoitRev_Warm_Glow_Giving
+    added: '2026-07-05T18:45:20+00:00'
+sources:
+  SRC-000001:
+    dedup_key: andreoni_1990
+    bibtex_key: Andreoni1990_SRC-000001
+    reviews:
+    - REVIEW-000002
+  SRC-000002:
+    dedup_key: crumpler_2008
+    bibtex_key: CrumplerGrossman2008_SRC-000002
+    reviews:
+    - REVIEW-000002
+  SRC-000003:
+    dedup_key: grossman_2024
+    bibtex_key: GrossmanLevy2024_SRC-000003
+    reviews:
+    - REVIEW-000002
+  SRC-000004:
+    dedup_key: luccasen_2017
+    bibtex_key: LuccasenGrossman2017_SRC-000004
+    reviews:
+    - REVIEW-000002
+  SRC-000005:
+    dedup_key: list_2021
+    bibtex_key: List2021_SRC-000005
+    reviews:
+    - REVIEW-000002
+  SRC-000006:
+    dedup_key: andreoni_1989
+    bibtex_key: Andreoni1989_SRC-000006
+    reviews:
+    - REVIEW-000002
+  SRC-000007:
+    dedup_key: fraser_2018
+    bibtex_key: Fraser2018_SRC-000007
+    reviews:
+    - REVIEW-000002
+  SRC-000008:
+    dedup_key: fraser_2022
+    bibtex_key: Fraser2022_SRC-000008
+    reviews:
+    - REVIEW-000002
+  SRC-000009:
+    dedup_key: chaabouni_2020
+    bibtex_key: Chaabouni2020_SRC-000009
+    reviews:
+    - REVIEW-000002
+  SRC-000010:
+    dedup_key: bianchi_2023
+    bibtex_key: Bianchi2023_SRC-000010
+    reviews:
+    - REVIEW-000002
+  SRC-000011:
+    dedup_key: wilhelm_2014
+    bibtex_key: Wilhelm2014_SRC-000011
+    reviews:
+    - REVIEW-000002
+  SRC-000012:
+    dedup_key: andreoni_1990
+    bibtex_key: Andreoni1990_SRC-000012
+    reviews:
+    - REVIEW-000003
+  SRC-000013:
+    dedup_key: crumpler_2008
+    bibtex_key: CrumplerGrossman2008_SRC-000013
+    reviews:
+    - REVIEW-000003
+  SRC-000014:
+    dedup_key: grossman_2024
+    bibtex_key: GrossmanLevy2024_SRC-000014
+    reviews:
+    - REVIEW-000003
+  SRC-000015:
+    dedup_key: luccasen_2017
+    bibtex_key: LuccasenGrossman2017_SRC-000015
+    reviews:
+    - REVIEW-000003
+  SRC-000016:
+    dedup_key: list_2021
+    bibtex_key: List2021_SRC-000016
+    reviews:
+    - REVIEW-000003
+  SRC-000017:
+    dedup_key: harbaugh_1998
+    bibtex_key: Harbaugh1998_SRC-000017
+    reviews:
+    - REVIEW-000003
+  SRC-000018:
+    dedup_key: wilhelm_2014
+    bibtex_key: Wilhelm2014_SRC-000018
+    reviews:
+    - REVIEW-000003
+  SRC-000019:
+    dedup_key: fraser_2018
+    bibtex_key: Fraser2018_SRC-000019
+    reviews:
+    - REVIEW-000003
+  SRC-000020:
+    dedup_key: fraser_2022
+    bibtex_key: Fraser2022_SRC-000020
+    reviews:
+    - REVIEW-000003
+  SRC-000021:
+    dedup_key: chaabouni_2020
+    bibtex_key: Chaabouni2020_SRC-000021
+    reviews:
+    - REVIEW-000003
+  SRC-000022:
+    dedup_key: andreoni_1990
+    bibtex_key: Andreoni1990_SRC-000022
+    reviews:
+    - REVIEW-000004
+  SRC-000023:
+    dedup_key: crumpler_2008
+    bibtex_key: CrumplerGrossman2008_SRC-000023
+    reviews:
+    - REVIEW-000004
+  SRC-000024:
+    dedup_key: bianchi_2023
+    bibtex_key: Bianchi2023_SRC-000024
+    reviews:
+    - REVIEW-000004
+  SRC-000025:
+    dedup_key: grossman_2024
+    bibtex_key: GrossmanLevy2024_SRC-000025
+    reviews:
+    - REVIEW-000004
+  SRC-000026:
+    dedup_key: harbaugh_2007
+    bibtex_key: Harbaugh2007_SRC-000026
+    reviews:
+    - REVIEW-000004
+  SRC-000027:
+    dedup_key: list_2021
+    bibtex_key: List2021_SRC-000027
+    reviews:
+    - REVIEW-000004
+  SRC-000028:
+    dedup_key: wilhelm_2014
+    bibtex_key: Wilhelm2014_SRC-000028
+    reviews:
+    - REVIEW-000004
+  SRC-000029:
+    dedup_key: luccasen_2017
+    bibtex_key: LuccasenGrossman2017_SRC-000029
+    reviews:
+    - REVIEW-000004
+  SRC-000030:
+    dedup_key: fraser_2018
+    bibtex_key: Fraser2018_SRC-000030
+    reviews:
+    - REVIEW-000004
+  SRC-000031:
+    dedup_key: fraser_2022
+    bibtex_key: Fraser2022_SRC-000031
+    reviews:
+    - REVIEW-000004
+  SRC-000032:
+    dedup_key: chaabouni_2020
+    bibtex_key: Chaabouni2020_SRC-000032
+    reviews:
+    - REVIEW-000004
+  SRC-000033:
+    dedup_key: andreoni_1989
+    bibtex_key: Andreoni1989_SRC-000033
+    reviews:
+    - REVIEW-000005
+  SRC-000034:
+    dedup_key: andreoni_1990
+    bibtex_key: Andreoni1990_SRC-000034
+    reviews:
+    - REVIEW-000005
+  SRC-000035:
+    dedup_key: crumpler_2008
+    bibtex_key: CrumplerGrossman2008_SRC-000035
+    reviews:
+    - REVIEW-000005
+  SRC-000036:
+    dedup_key: grossman_2024
+    bibtex_key: GrossmanLevy2024_SRC-000036
+    reviews:
+    - REVIEW-000005
+  SRC-000037:
+    dedup_key: harbaugh_1998
+    bibtex_key: Harbaugh1998_SRC-000037
+    reviews:
+    - REVIEW-000005
+  SRC-000038:
+    dedup_key: harbaugh_2007
+    bibtex_key: Harbaugh2007_SRC-000038
+    reviews:
+    - REVIEW-000005
+  SRC-000039:
+    dedup_key: bianchi_2023
+    bibtex_key: Bianchi2023_SRC-000039
+    reviews:
+    - REVIEW-000005
+  SRC-000040:
+    dedup_key: wilhelm_2014
+    bibtex_key: Wilhelm2014_SRC-000040
+    reviews:
+    - REVIEW-000005
+  SRC-000041:
+    dedup_key: luccasen_2017
+    bibtex_key: LuccasenGrossman2017_SRC-000041
+    reviews:
+    - REVIEW-000005
+  SRC-000042:
+    dedup_key: list_2021
+    bibtex_key: List2021_SRC-000042
+    reviews:
+    - REVIEW-000005
+  SRC-000043:
+    dedup_key: fraser_2018
+    bibtex_key: Fraser2018_SRC-000043
+    reviews:
+    - REVIEW-000005
+  SRC-000044:
+    dedup_key: fraser_2022
+    bibtex_key: Fraser2022_SRC-000044
+    reviews:
+    - REVIEW-000005
+  SRC-000045:
+    dedup_key: chaabouni_2020
+    bibtex_key: Chaabouni2020_SRC-000045
+    reviews:
+    - REVIEW-000005
+  SRC-000046:
+    dedup_key: grd_2021
+    bibtex_key: Grd2021_SRC-000046
+    reviews:
+    - REVIEW-000005
+evidence:
+  EVID-000001:
+    review: REVIEW-000001
+    type: report
+  EVID-000002:
+    review: REVIEW-000002
+    type: positive
+  EVID-000003:
+    review: REVIEW-000002
+    type: positive
+  EVID-000004:
+    review: REVIEW-000002
+    type: positive
+  EVID-000005:
+    review: REVIEW-000002
+    type: positive
+  EVID-000006:
+    review: REVIEW-000002
+    type: positive
+  EVID-000007:
+    review: REVIEW-000002
+    type: positive
+  EVID-000008:
+    review: REVIEW-000002
+    type: positive
+  EVID-000009:
+    review: REVIEW-000002
+    type: positive
+  EVID-000010:
+    review: REVIEW-000002
+    type: positive
+  EVID-000011:
+    review: REVIEW-000002
+    type: positive
+  EVID-000012:
+    review: REVIEW-000002
+    type: positive
+  EVID-000013:
+    review: REVIEW-000002
+    type: positive
+  EVID-000014:
+    review: REVIEW-000002
+    type: positive
+  EVID-000015:
+    review: REVIEW-000002
+    type: positive
+  EVID-000016:
+    review: REVIEW-000002
+    type: positive
+  EVID-000017:
+    review: REVIEW-000002
+    type: positive
+  EVID-000018:
+    review: REVIEW-000002
+    type: mixed
+  EVID-000019:
+    review: REVIEW-000002
+    type: mixed
+  EVID-000020:
+    review: REVIEW-000002
+    type: negative
+  EVID-000021:
+    review: REVIEW-000002
+    type: negative
+  EVID-000022:
+    review: REVIEW-000002
+    type: mixed
+  EVID-000023:
+    review: REVIEW-000002
+    type: mixed
+  EVID-000024:
+    review: REVIEW-000002
+    type: positive
+  EVID-000025:
+    review: REVIEW-000002
+    type: positive
+  EVID-000026:
+    review: REVIEW-000002
+    type: positive
+  EVID-000027:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000028:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000029:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000030:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000031:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000032:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000033:
+    review: REVIEW-000002
+    type: neutral
+  EVID-000034:
+    review: REVIEW-000003
+    type: positive
+  EVID-000035:
+    review: REVIEW-000003
+    type: positive
+  EVID-000036:
+    review: REVIEW-000003
+    type: positive
+  EVID-000037:
+    review: REVIEW-000003
+    type: positive
+  EVID-000038:
+    review: REVIEW-000003
+    type: positive
+  EVID-000039:
+    review: REVIEW-000003
+    type: positive
+  EVID-000040:
+    review: REVIEW-000003
+    type: positive
+  EVID-000041:
+    review: REVIEW-000003
+    type: positive
+  EVID-000042:
+    review: REVIEW-000003
+    type: positive
+  EVID-000043:
+    review: REVIEW-000003
+    type: mixed
+  EVID-000044:
+    review: REVIEW-000003
+    type: mixed
+  EVID-000045:
+    review: REVIEW-000003
+    type: negative
+  EVID-000046:
+    review: REVIEW-000003
+    type: negative
+  EVID-000047:
+    review: REVIEW-000003
+    type: mixed
+  EVID-000048:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000049:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000050:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000051:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000052:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000053:
+    review: REVIEW-000003
+    type: neutral
+  EVID-000054:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000055:
+    review: REVIEW-000004
+    type: positive
+  EVID-000056:
+    review: REVIEW-000004
+    type: positive
+  EVID-000057:
+    review: REVIEW-000004
+    type: positive
+  EVID-000058:
+    review: REVIEW-000004
+    type: positive
+  EVID-000059:
+    review: REVIEW-000004
+    type: positive
+  EVID-000060:
+    review: REVIEW-000004
+    type: positive
+  EVID-000061:
+    review: REVIEW-000004
+    type: positive
+  EVID-000062:
+    review: REVIEW-000004
+    type: positive
+  EVID-000063:
+    review: REVIEW-000004
+    type: positive
+  EVID-000064:
+    review: REVIEW-000004
+    type: positive
+  EVID-000065:
+    review: REVIEW-000004
+    type: positive
+  EVID-000066:
+    review: REVIEW-000004
+    type: positive
+  EVID-000067:
+    review: REVIEW-000004
+    type: positive
+  EVID-000068:
+    review: REVIEW-000004
+    type: positive
+  EVID-000069:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000070:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000071:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000072:
+    review: REVIEW-000004
+    type: positive
+  EVID-000073:
+    review: REVIEW-000004
+    type: positive
+  EVID-000074:
+    review: REVIEW-000004
+    type: negative
+  EVID-000075:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000076:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000077:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000078:
+    review: REVIEW-000004
+    type: mixed
+  EVID-000079:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000080:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000081:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000082:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000083:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000084:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000085:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000086:
+    review: REVIEW-000004
+    type: neutral
+  EVID-000087:
+    review: REVIEW-000005
+    type: neutral
+  EVID-000088:
+    review: REVIEW-000005
+    type: positive
+  EVID-000089:
+    review: REVIEW-000005
+    type: positive
+  EVID-000090:
+    review: REVIEW-000005
+    type: positive
+  EVID-000091:
+    review: REVIEW-000005
+    type: positive
+  EVID-000092:
+    review: REVIEW-000005
+    type: positive
+  EVID-000093:
+    review: REVIEW-000005
+    type: positive
+  EVID-000094:
+    review: REVIEW-000005
+    type: positive
+  EVID-000095:
+    review: REVIEW-000005
+    type: positive
+  EVID-000096:
+    review: REVIEW-000005
+    type: positive
+  EVID-000097:
+    review: REVIEW-000005
+    type: positive
+  EVID-000098:
+    review: REVIEW-000005
+    type: positive
+  EVID-000099:
+    review: REVIEW-000005
+    type: positive
+  EVID-000100:
+    review: REVIEW-000005
+    type: positive
+  EVID-000101:
+    review: REVIEW-000005
+    type: mixed
+  EVID-000102:
+    review: REVIEW-000005
+    type: positive
+  EVID-000103:
+    review: REVIEW-000005
+    type: positive
+  EVID-000104:
+    review: REVIEW-000005
+    type: positive
+  EVID-000105:
+    review: REVIEW-000005
+    type: positive
+  EVID-000106:
+    review: REVIEW-000005
+    type: mixed
+  EVID-000107:
+    review: REVIEW-000005
+    type: mixed
+  EVID-000108:
+    review: REVIEW-000005
+    type: mixed
+  EVID-000109:
+    review: REVIEW-000005
+    type: negative
+  EVID-000110:
+    review: REVIEW-000005
+    type: positive
+  EVID-000111:
+    review: REVIEW-000005
+    type: mixed
+  EVID-000112:
+    review: REVIEW-000005
+    type: negative
+  EVID-000113:
+    review: REVIEW-000005
+    type: positive
+  EVID-000114:
+    review: REVIEW-000005
+    type: neutral
+  EVID-000115:
+    review: REVIEW-000005
+    type: neutral
+  EVID-000116:
+    review: REVIEW-000005
+    type: neutral
+  EVID-000117:
+    review: REVIEW-000005
+    type: neutral
+  EVID-000118:
+    review: REVIEW-000005
+    type: neutral
+claims:
+  WG-000001:
+    review: REVIEW-000001
+    concept: Warm Glow Giving
+  WG-000002:
+    review: REVIEW-000001
+    concept: Impure Altruism
+  WG-000003:
+    review: REVIEW-000001
+    concept: Incomplete Crowd-Out
+  WG-000004:
+    review: REVIEW-000001
+    concept: Warm Glow Giving
+  WG-000005:
+    review: REVIEW-000001
+    concept: Warm Glow Giving
+  WG-000006:
+    review: REVIEW-000001
+    concept: Warm Glow Giving
+  WG-000007:
+    review: REVIEW-000001
+    concept: Self-Image in Giving
+  WG-000008:
+    review: REVIEW-000001
+    concept: Social Image in Giving
+  WG-000009:
+    review: REVIEW-000001
+    concept: Self-Image and Social Image
+  WG-000010:
+    review: REVIEW-000001
+    concept: Donor-Benefit Framing
+  WG-000011:
+    review: REVIEW-000001
+    concept: Earned Income Effect
+  WG-000012:
+    review: REVIEW-000001
+    concept: Cause-Related Marketing
+  WG-000013:
+    review: REVIEW-000001
+    concept: Donation Size in Cause-Related Marketing
+  WG-000014:
+    review: REVIEW-000001
+    concept: Religious Giving
+  WG-000015:
+    review: REVIEW-000001
+    concept: Cultural Context
+  WG-000016:
+    review: REVIEW-000001
+    concept: Moral Relativism
+  WG-000017:
+    review: REVIEW-000001
+    concept: Warm Glow Giving and Effective Altruism
+  WG-000018:
+    review: REVIEW-000001
+    concept: Warm Glow Giving and Brand Equity
+  WG-000019:
+    review: REVIEW-000001
+    concept: Warm Glow and Brand Trust
+  WG-000020:
+    review: REVIEW-000001
+    concept: Warm Glow and Brand Authenticity
+  WG-000021:
+    review: REVIEW-000001
+    concept: Warm Glow and Donation Intention
+  WG-000022:
+    review: REVIEW-000001
+    concept: Warm Glow and TPB/IBM
+  WG-000023:
+    review: REVIEW-000001
+    concept: Warm Glow and Information Opacity
+  WG-000024:
+    review: REVIEW-000001
+    concept: Warm Glow and Brand-Self Congruence
+  WG-000025:
+    review: REVIEW-000001
+    concept: Warm Glow and Habit
+  C-000001:
+    review: REVIEW-000002
+    concept: Warm glow giving
+  C-000002:
+    review: REVIEW-000002
+    concept: Impure altruism
+  C-000003:
+    review: REVIEW-000002
+    concept: Self-image utility
+  C-000004:
+    review: REVIEW-000002
+    concept: Social-image utility
+  C-000005:
+    review: REVIEW-000002
+    concept: Observability of giving
+  C-000006:
+    review: REVIEW-000002
+    concept: Fundraising framing
+  C-000007:
+    review: REVIEW-000002
+    concept: Source of funds
+  C-000008:
+    review: REVIEW-000002
+    concept: Warm glow decay / long-term dynamics
+  C-000009:
+    review: REVIEW-000002
+    concept: Cause-related marketing skepticism
+  C-000010:
+    review: REVIEW-000002
+    concept: Cultural and religious moderation
+  C-000011:
+    review: REVIEW-000002
+    concept: Digital giving environments
+  C-000012:
+    review: REVIEW-000002
+    concept: Warm glow under uncertainty
+  C-000013:
+    review: REVIEW-000002
+    concept: Anticipated warm glow
+  C-000014:
+    review: REVIEW-000003
+    concept: Warm glow giving / Impure altruism
+  C-000015:
+    review: REVIEW-000003
+    concept: Warm glow giving under zero marginal impact
+  C-000016:
+    review: REVIEW-000003
+    concept: Warm-glow-oriented fundraising appeals
+  C-000017:
+    review: REVIEW-000003
+    concept: Self-image maintenance
+  C-000018:
+    review: REVIEW-000003
+    concept: Social-image signalling
+  C-000019:
+    review: REVIEW-000003
+    concept: Source of funds / earned income effect
+  C-000020:
+    review: REVIEW-000003
+    concept: Skepticism / warm glow cooling effect
+  C-000021:
+    review: REVIEW-000003
+    concept: Cultural and religious boundary conditions of warm glow
+  WG-000026:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  WG-000027:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  IA-000001:
+    review: REVIEW-000005
+    concept: Impure Altruism
+  SI-000001:
+    review: REVIEW-000005
+    concept: Self-Image Motivation
+  SI-000002:
+    review: REVIEW-000005
+    concept: Social-Image Motivation
+  SI-000003:
+    review: REVIEW-000005
+    concept: Social-Image Motivation
+  AR-000001:
+    review: REVIEW-000005
+    concept: Affective Response to Giving
+  WG-000028:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  WG-000029:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  WG-000030:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  S-000001:
+    review: REVIEW-000005
+    concept: Skepticism
+  WG-000031:
+    review: REVIEW-000005
+    concept: Warm Glow Giving
+  CA-000001:
+    review: REVIEW-000005
+    concept: Choice Architecture
+  N-000001:
+    review: REVIEW-000005
+    concept: Nudging
+concepts:
+  Warm_Glow_Giving:
+    theory_integration: true
+    ontology_candidate: true
+bibliography:
+  master_bib: Knowledge/Bibliography/master.bib
+  total_entries: 46

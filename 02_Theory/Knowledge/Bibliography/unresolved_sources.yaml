@@ -1,0 +1,416 @@
+total_unresolved: 46
+sources:
+- id: SRC-000001
+  authors: Andreoni
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000001.md
+- id: SRC-000002
+  authors: Crumpler & Grossman
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000002.md
+- id: SRC-000003
+  authors: Grossman & Levy
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000003.md
+- id: SRC-000004
+  authors: Luccasen, & Grossman
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000004.md
+- id: SRC-000005
+  authors: List et al.
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000005.md
+- id: SRC-000006
+  authors: Andreoni
+  year: 1989
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000006.md
+- id: SRC-000007
+  authors: Fraser
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000007.md
+- id: SRC-000008
+  authors: Fraser
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000008.md
+- id: SRC-000009
+  authors: Chaabouni et al.
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000009.md
+- id: SRC-000010
+  authors: Bianchi et al.
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000010.md
+- id: SRC-000011
+  authors: Wilhelm et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000011.md
+- id: SRC-000012
+  authors: Andreoni
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000012.md
+- id: SRC-000013
+  authors: Crumpler & Grossman
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000013.md
+- id: SRC-000014
+  authors: Grossman & Levy
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000014.md
+- id: SRC-000015
+  authors: Luccasen & Grossman
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000015.md
+- id: SRC-000016
+  authors: List et al.
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000016.md
+- id: SRC-000017
+  authors: Harbaugh
+  year: 1998
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000017.md
+- id: SRC-000018
+  authors: Wilhelm et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000018.md
+- id: SRC-000019
+  authors: Fraser
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000019.md
+- id: SRC-000020
+  authors: Fraser
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000020.md
+- id: SRC-000021
+  authors: Chaabouni et al.
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000021.md
+- id: SRC-000022
+  authors: Andreoni
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000022.md
+- id: SRC-000023
+  authors: Crumpler & Grossman
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000023.md
+- id: SRC-000024
+  authors: Bianchi et al.
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000024.md
+- id: SRC-000025
+  authors: Grossman & Levy
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000025.md
+- id: SRC-000026
+  authors: Harbaugh et al.
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000026.md
+- id: SRC-000027
+  authors: List et al.
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000027.md
+- id: SRC-000028
+  authors: Wilhelm et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000028.md
+- id: SRC-000029
+  authors: Luccasen & Grossman
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000029.md
+- id: SRC-000030
+  authors: Fraser
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000030.md
+- id: SRC-000031
+  authors: Fraser
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000031.md
+- id: SRC-000032
+  authors: Chaabouni et al.
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000032.md
+- id: SRC-000033
+  authors: Andreoni
+  year: 1989
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000033.md
+- id: SRC-000034
+  authors: Andreoni
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000034.md
+- id: SRC-000035
+  authors: Crumpler & Grossman
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000035.md
+- id: SRC-000036
+  authors: Grossman & Levy
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000036.md
+- id: SRC-000037
+  authors: Harbaugh
+  year: 1998
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000037.md
+- id: SRC-000038
+  authors: Harbaugh et al.
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000038.md
+- id: SRC-000039
+  authors: Bianchi et al.
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000039.md
+- id: SRC-000040
+  authors: Wilhelm et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000040.md
+- id: SRC-000041
+  authors: Luccasen & Grossman
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000041.md
+- id: SRC-000042
+  authors: List et al.
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000042.md
+- id: SRC-000043
+  authors: Fraser
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000043.md
+- id: SRC-000044
+  authors: Fraser
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000044.md
+- id: SRC-000045
+  authors: Chaabouni et al.
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000045.md
+- id: SRC-000046
+  authors: Gråd et al.
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000046.md
