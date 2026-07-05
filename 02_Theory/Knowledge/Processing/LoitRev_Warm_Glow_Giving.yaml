@@ -1,0 +1,21 @@
+id: REVIEW-WG-001
+source_file: LoitRev_Warm_Glow_Giving.docx
+markdown_file: LoitRev_Warm_Glow_Giving.md
+concepts:
+  - Warm Glow Giving
+  - Impure Altruism
+  - Self-Image
+  - Social Image
+status: synthesized
+pipeline:
+  raw: done
+  markdown: done
+  synthesis: done
+  evidence: pending
+  claims: pending
+  theory_integration: pending
+  ontology_candidate: pending
+generated_artifacts:
+  synthesis: literature/synthesized/LoitRev_Warm_Glow_Giving.md
+next_action: generate evidence objects and atomic claim files
+notes: First successful test of the BEBA literature synthesis workflow.
