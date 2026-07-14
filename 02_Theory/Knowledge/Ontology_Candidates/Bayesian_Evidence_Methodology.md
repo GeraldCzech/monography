@@ -2,7 +2,10 @@
 concept: Bayesian_Evidence_Methodology
 review: REVIEW-000112
 theory_source: Theory_Integration/Bayesian_Evidence_Methodology.md
-status: candidate
+status: accepted
+review_status: reviewed
+reviewed_at: '2026-07-14T16:19:00.634203+00:00'
+reviewed_by: human
 ---
 
 # Concept

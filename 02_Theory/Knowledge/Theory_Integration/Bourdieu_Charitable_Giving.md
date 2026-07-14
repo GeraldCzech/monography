@@ -11,7 +11,10 @@ claim_ids:
 - H-000007
 - F-000003
 - SC-000019
-status: candidate
+status: accepted
+review_status: reviewed
+reviewed_at: '2026-07-14T16:21:16.788428+00:00'
+reviewed_by: human
 ---
 
 # Input Reviewed

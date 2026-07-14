@@ -1,270 +1,270 @@
 review_id: REVIEW-000020
 source_file: /home/gerald/research/literature/markdown/Nonprofit Brand Equity Analysis.md
 stem: Nonprofit Brand Equity Analysis
-started: '2026-07-13T18:52:14.655762+00:00'
-finished: '2026-07-13T18:52:14.655904+00:00'
+started: '2026-07-14T16:22:54.022060+00:00'
+finished: '2026-07-14T16:22:54.022194+00:00'
 decisions:
 - obj_type: claims
   obj_id: NB-000021
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NB-000021.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655778+00:00'
+  timestamp: '2026-07-14T16:22:54.022087+00:00'
   notes: ''
 - obj_type: claims
   obj_id: NB-000022
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NB-000022.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655783+00:00'
+  timestamp: '2026-07-14T16:22:54.022093+00:00'
   notes: ''
 - obj_type: claims
   obj_id: NB-000023
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NB-000023.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655787+00:00'
+  timestamp: '2026-07-14T16:22:54.022096+00:00'
   notes: ''
 - obj_type: claims
   obj_id: NB-000024
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NB-000024.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655790+00:00'
+  timestamp: '2026-07-14T16:22:54.022098+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BA-000005
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BA-000005.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655805+00:00'
+  timestamp: '2026-07-14T16:22:54.022101+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BA-000006
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BA-000006.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655808+00:00'
+  timestamp: '2026-07-14T16:22:54.022103+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BI-000010
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BI-000010.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655811+00:00'
+  timestamp: '2026-07-14T16:22:54.022106+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BP-000003
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BP-000003.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655813+00:00'
+  timestamp: '2026-07-14T16:22:54.022108+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BR-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BR-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655816+00:00'
+  timestamp: '2026-07-14T16:22:54.022110+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BT-000003
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BT-000003.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655818+00:00'
+  timestamp: '2026-07-14T16:22:54.022113+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BT-000004
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BT-000004.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655821+00:00'
+  timestamp: '2026-07-14T16:22:54.022115+00:00'
   notes: ''
 - obj_type: claims
   obj_id: CO-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/CO-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655824+00:00'
+  timestamp: '2026-07-14T16:22:54.022118+00:00'
   notes: ''
 - obj_type: claims
   obj_id: CO-000002
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/CO-000002.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655826+00:00'
+  timestamp: '2026-07-14T16:22:54.022120+00:00'
   notes: ''
 - obj_type: claims
   obj_id: MI-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/MI-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655828+00:00'
+  timestamp: '2026-07-14T16:22:54.022122+00:00'
   notes: ''
 - obj_type: claims
   obj_id: VC-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/VC-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655831+00:00'
+  timestamp: '2026-07-14T16:22:54.022125+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BT-000005
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BT-000005.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655833+00:00'
+  timestamp: '2026-07-14T16:22:54.022128+00:00'
   notes: ''
 - obj_type: claims
   obj_id: PQ-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/PQ-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655836+00:00'
+  timestamp: '2026-07-14T16:22:54.022130+00:00'
   notes: ''
 - obj_type: claims
   obj_id: L-000001
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/L-000001.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655838+00:00'
+  timestamp: '2026-07-14T16:22:54.022132+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BI-000011
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BI-000011.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655841+00:00'
+  timestamp: '2026-07-14T16:22:54.022134+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BC-000002
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BC-000002.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655844+00:00'
+  timestamp: '2026-07-14T16:22:54.022136+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BC-000003
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BC-000003.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655846+00:00'
+  timestamp: '2026-07-14T16:22:54.022139+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BC-000004
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BC-000004.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655849+00:00'
+  timestamp: '2026-07-14T16:22:54.022141+00:00'
   notes: ''
 - obj_type: claims
   obj_id: BC-000005
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/BC-000005.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655851+00:00'
+  timestamp: '2026-07-14T16:22:54.022143+00:00'
   notes: ''
 - obj_type: claims
   obj_id: DB-000003
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/DB-000003.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655854+00:00'
+  timestamp: '2026-07-14T16:22:54.022145+00:00'
   notes: ''
 - obj_type: claims
   obj_id: M-000002
   file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/M-000002.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655856+00:00'
+  timestamp: '2026-07-14T16:22:54.022148+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000479
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000479.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655859+00:00'
+  timestamp: '2026-07-14T16:22:54.022150+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000480
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000480.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655861+00:00'
+  timestamp: '2026-07-14T16:22:54.022152+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000481
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000481.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655864+00:00'
+  timestamp: '2026-07-14T16:22:54.022155+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000482
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000482.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655866+00:00'
+  timestamp: '2026-07-14T16:22:54.022157+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000488
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000488.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655868+00:00'
+  timestamp: '2026-07-14T16:22:54.022159+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000489
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000489.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655870+00:00'
+  timestamp: '2026-07-14T16:22:54.022161+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000490
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000490.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655873+00:00'
+  timestamp: '2026-07-14T16:22:54.022163+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000491
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000491.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655875+00:00'
+  timestamp: '2026-07-14T16:22:54.022166+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000492
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000492.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655877+00:00'
+  timestamp: '2026-07-14T16:22:54.022168+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000493
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000493.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655880+00:00'
+  timestamp: '2026-07-14T16:22:54.022170+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000494
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000494.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655882+00:00'
+  timestamp: '2026-07-14T16:22:54.022172+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000495
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000495.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655884+00:00'
+  timestamp: '2026-07-14T16:22:54.022175+00:00'
   notes: ''
 - obj_type: evidence
   obj_id: EVID-000508
   file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-000508.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655887+00:00'
+  timestamp: '2026-07-14T16:22:54.022177+00:00'
   notes: ''
 - obj_type: sources
   obj_id: SRC-000121
   file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000121.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655889+00:00'
+  timestamp: '2026-07-14T16:22:54.022179+00:00'
   notes: ''
 - obj_type: sources
   obj_id: SRC-000122
   file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000122.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655891+00:00'
+  timestamp: '2026-07-14T16:22:54.022182+00:00'
   notes: ''
 - obj_type: sources
   obj_id: SRC-000123
   file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000123.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655894+00:00'
+  timestamp: '2026-07-14T16:22:54.022184+00:00'
   notes: ''
 - obj_type: sources
   obj_id: SRC-000124
   file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000124.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655896+00:00'
+  timestamp: '2026-07-14T16:22:54.022186+00:00'
   notes: ''
 - obj_type: theory
   obj_id: Nonprofit_Brand_Equity_Analysis
   file: /home/gerald/research/monography/02_Theory/Knowledge/Theory_Integration/Nonprofit_Brand_Equity_Analysis.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655898+00:00'
+  timestamp: '2026-07-14T16:22:54.022188+00:00'
   notes: ''
 - obj_type: ontology
   obj_id: Nonprofit_Brand_Equity_Analysis
   file: /home/gerald/research/monography/02_Theory/Knowledge/Ontology_Candidates/Nonprofit_Brand_Equity_Analysis.md
   decision: accepted
-  timestamp: '2026-07-13T18:52:14.655901+00:00'
+  timestamp: '2026-07-14T16:22:54.022191+00:00'
   notes: ''

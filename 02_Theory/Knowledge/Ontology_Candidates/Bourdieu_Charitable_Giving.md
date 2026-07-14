@@ -2,7 +2,10 @@
 concept: Bourdieu_Charitable_Giving
 review: REVIEW-000110
 theory_source: Theory_Integration/Bourdieu_Charitable_Giving.md
-status: candidate
+status: accepted
+review_status: reviewed
+reviewed_at: '2026-07-14T16:21:18.901980+00:00'
+reviewed_by: human
 ---
 
 # Concept

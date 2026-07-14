@@ -9,7 +9,10 @@ claim_ids:
 - LP-000001
 - KG-000001
 - BM-000008
-status: candidate
+status: accepted
+review_status: reviewed
+reviewed_at: '2026-07-14T16:18:56.913713+00:00'
+reviewed_by: human
 ---
 
 # Input Reviewed
