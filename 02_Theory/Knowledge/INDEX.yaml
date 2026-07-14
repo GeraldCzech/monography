@@ -1,13 +1,13 @@
 sequences:
-  review: 119
-  evidence: 2158
-  src: 1133
+  review: 123
+  evidence: 2220
+  src: 1184
   trust: 583
 claim_sequences:
-  BE: 77
+  BE: 81
   A: 14
   PB: 35
-  BI: 53
+  BI: 54
   S: 20
   TR: 30
   CD: 6
@@ -38,14 +38,14 @@ claim_sequences:
   LV: 1
   AT: 4
   BP: 31
-  BA: 83
+  BA: 84
   BF: 16
   OR: 6
   SB: 4
   DI: 13
   BT: 37
   T: 3
-  SC: 24
+  SC: 26
   BC: 43
   DB: 10
   IM: 2
@@ -85,12 +85,12 @@ claim_sequences:
   SS: 9
   CG: 6
   IF: 2
-  TS: 2
+  TS: 3
   TI: 1
   FB: 1
   BB: 1
   EB: 9
-  BR: 18
+  BR: 20
   CO: 10
   MI: 5
   VC: 5
@@ -103,11 +103,11 @@ claim_sequences:
   IG: 1
   BO: 16
   RR: 1
-  BD: 12
+  BD: 14
   RP: 2
   BL: 12
   BU: 4
-  H: 9
+  H: 11
   LM: 1
   BV: 6
   MV: 4
@@ -154,7 +154,7 @@ claim_sequences:
   NM: 2
   NC: 1
   NS: 3
-  F: 3
+  F: 4
   RI: 5
   PM: 4
   PN: 1
@@ -187,12 +187,17 @@ claim_sequences:
   ET: 1
   JC: 1
   LP: 1
-  KG: 1
+  KG: 2
   VP: 1
   D: 5
   MD: 1
   IV: 3
   P: 1
+  PS: 2
+  MR: 1
+  FO: 1
+  EP: 2
+  EW: 1
 reviews:
   REVIEW-000001:
     stem: LitRev_BE-IBM
@@ -581,6 +586,18 @@ reviews:
   REVIEW-000119:
     stem: science-of-philanthropy-cleanup-bekkers-2026
     added: '2026-07-14T14:42:47+00:00'
+  REVIEW-000120:
+    stem: Bourdieu, Spenden, Freiwilligenarbeit, Blutspende
+    added: '2026-07-14T15:43:54+00:00'
+  REVIEW-000121:
+    stem: ETO Methodology_ Bayesian Evidence Synthesis
+    added: '2026-07-14T15:47:40+00:00'
+  REVIEW-000122:
+    stem: Litrev_ETO_Bayes_BEBA
+    added: '2026-07-14T15:51:05+00:00'
+  REVIEW-000123:
+    stem: NPO Brand Equity und Spendenverhalten
+    added: '2026-07-14T15:54:05+00:00'
 sources:
   SRC-000001:
     dedup_key: wu_2020
@@ -4762,6 +4779,191 @@ sources:
     bibtex_key: LamberaaMRiener2015_SRC-001133
     reviews:
     - REVIEW-000119
+  SRC-001148:
+    dedup_key: breezeb_2013
+    bibtex_key: BreezeB2013_SRC-001148
+    reviews:
+    - REVIEW-000120
+  SRC-001149:
+    dedup_key: ostrowerf_1995
+    bibtex_key: OstrowerF1995_SRC-001149
+    reviews:
+    - REVIEW-000120
+  SRC-001150:
+    dedup_key: schervishpg_1997
+    bibtex_key: SchervishPG1997_SRC-001150
+    reviews:
+    - REVIEW-000120
+  SRC-001151:
+    dedup_key: barmane_2007
+    bibtex_key: BarmanE2007_SRC-001151
+    reviews:
+    - REVIEW-000120
+  SRC-001152:
+    dedup_key: wiepkingp_2010
+    bibtex_key: WiepkingP2010_SRC-001152
+    reviews:
+    - REVIEW-000120
+  SRC-001153:
+    dedup_key: taylorr_2005
+    bibtex_key: TaylorR2005_SRC-001153
+    reviews:
+    - REVIEW-000120
+  SRC-001154:
+    dedup_key: mettem_2013
+    bibtex_key: MetteM2013_SRC-001154
+    reviews:
+    - REVIEW-000120
+  SRC-001155:
+    dedup_key: deanj_2016
+    bibtex_key: DeanJ2016_SRC-001155
+    reviews:
+    - REVIEW-000120
+  SRC-001156:
+    dedup_key: karakayalis_2017
+    bibtex_key: KarakayaliS2017_SRC-001156
+    reviews:
+    - REVIEW-000120
+  SRC-001157:
+    dedup_key: vogelc_2018
+    bibtex_key: VogelC2018_SRC-001157
+    reviews:
+    - REVIEW-000120
+  SRC-001158:
+    dedup_key: hustinxlgrubbaramederp_2022
+    bibtex_key: HustinxLGrubbARamederPShachar2022_SRC-001158
+    reviews:
+    - REVIEW-000120
+  SRC-001159:
+    dedup_key: titmussrm_1970
+    bibtex_key: TitmussRM1970_SRC-001159
+    reviews:
+    - REVIEW-000120
+  SRC-001160:
+    dedup_key: healyk_2000
+    bibtex_key: HealyK2000_SRC-001160
+    reviews:
+    - REVIEW-000120
+  SRC-001161:
+    dedup_key: gillespietw_2002
+    bibtex_key: GillespieTWHillyer2002_SRC-001161
+    reviews:
+    - REVIEW-000120
+  SRC-001162:
+    dedup_key: busbyh_2010
+    bibtex_key: BusbyH2010_SRC-001162
+    reviews:
+    - REVIEW-000120
+  SRC-001163:
+    dedup_key: charbonneauj_2012
+    bibtex_key: CharbonneauJSmith2012_SRC-001163
+    reviews:
+    - REVIEW-000120
+  SRC-001164:
+    dedup_key: suarezm_2019
+    bibtex_key: SuarezMValentin2019_SRC-001164
+    reviews:
+    - REVIEW-000120
+  SRC-001165:
+    dedup_key: kahnemand_2011
+    bibtex_key: KahnemanD2011_SRC-001165
+    reviews:
+    - REVIEW-000120
+  SRC-001166:
+    dedup_key: ajzeni_1991
+    bibtex_key: AjzenI1991_SRC-001166
+    reviews:
+    - REVIEW-000120
+  SRC-001167:
+    dedup_key: bourdieup_1977
+    bibtex_key: BourdieuP1977_SRC-001167
+    reviews:
+    - REVIEW-000120
+  SRC-001168:
+    dedup_key: howsonc_2006
+    bibtex_key: HowsonCUrbach2006_SRC-001168
+    reviews:
+    - REVIEW-000121
+  SRC-001169:
+    dedup_key: higginsjpt_2002
+    bibtex_key: HigginsJPTSpiegelhalter2002_SRC-001169
+    reviews:
+    - REVIEW-000121
+  SRC-001170:
+    dedup_key: roverc_2020
+    bibtex_key: RoverC2020_SRC-001170
+    reviews:
+    - REVIEW-000121
+  SRC-001171:
+    dedup_key: royallr_1997
+    bibtex_key: RoyallR1997_SRC-001171
+    reviews:
+    - REVIEW-000121
+  SRC-001172:
+    dedup_key: jayneset_2003
+    bibtex_key: JaynesET2003_SRC-001172
+    reviews:
+    - REVIEW-000121
+  SRC-001173:
+    dedup_key: smithb_2003
+    bibtex_key: SmithB2003_SRC-001173
+    reviews:
+    - REVIEW-000121
+  SRC-001174:
+    dedup_key: cohenj_1994
+    bibtex_key: CohenJ1994_SRC-001174
+    reviews:
+    - REVIEW-000122
+  SRC-001175:
+    dedup_key: edwardswlindmanh_1963
+    bibtex_key: EdwardsWLindmanHSavage1963_SRC-001175
+    reviews:
+    - REVIEW-000122
+  SRC-001176:
+    dedup_key: goodmansn_1999
+    bibtex_key: GoodmanSN1999_SRC-001176
+    reviews:
+    - REVIEW-000122
+  SRC-001177:
+    dedup_key: higginsjptthomasjchandlerjcumpstonmlitpagemj_2019
+    bibtex_key: HigginsJPTThomasJChandlerJCumpstonMLiTPageMJWelch2019_SRC-001177
+    reviews:
+    - REVIEW-000122
+  SRC-001178:
+    dedup_key: jeffreyrc_1983
+    bibtex_key: JeffreyRC1983_SRC-001178
+    reviews:
+    - REVIEW-000122
+  SRC-001179:
+    dedup_key: moutonj_1990
+    bibtex_key: MoutonJMarais1990_SRC-001179
+    reviews:
+    - REVIEW-000122
+  SRC-001180:
+    dedup_key: straussa_1998
+    bibtex_key: StraussACorbin1998_SRC-001180
+    reviews:
+    - REVIEW-000122
+  SRC-001181:
+    dedup_key: suppefhrsg_1977
+    bibtex_key: SuppeFHrsg1977_SRC-001181
+    reviews:
+    - REVIEW-000122
+  SRC-001182:
+    dedup_key: sundarsstamuldj_2014
+    bibtex_key: SundarSSTamulDJWu2014_SRC-001182
+    reviews:
+    - REVIEW-000123
+  SRC-001183:
+    dedup_key: kylandern_2012
+    bibtex_key: KylanderNStone2012_SRC-001183
+    reviews:
+    - REVIEW-000123
+  SRC-001184:
+    dedup_key: netemeyerrgkrishnanbpulligcwanggyagcimdeandricksj_2004
+    bibtex_key: NetemeyerRGKrishnanBPulligCWangGYagciMDeanDRicksJWirth2004_SRC-001184
+    reviews:
+    - REVIEW-000123
 evidence:
   EVID-000001:
     review: REVIEW-000001
@@ -11237,6 +11439,192 @@ evidence:
   EVID-002158:
     review: REVIEW-000119
     type: neutral
+  EVID-002159:
+    review: REVIEW-000120
+    type: positive
+  EVID-002160:
+    review: REVIEW-000120
+    type: positive
+  EVID-002161:
+    review: REVIEW-000120
+    type: positive
+  EVID-002162:
+    review: REVIEW-000120
+    type: positive
+  EVID-002163:
+    review: REVIEW-000120
+    type: neutral
+  EVID-002164:
+    review: REVIEW-000120
+    type: negative
+  EVID-002165:
+    review: REVIEW-000120
+    type: mixed
+  EVID-002166:
+    review: REVIEW-000120
+    type: mixed
+  EVID-002167:
+    review: REVIEW-000120
+    type: positive
+  EVID-002168:
+    review: REVIEW-000120
+    type: positive
+  EVID-002169:
+    review: REVIEW-000120
+    type: positive
+  EVID-002170:
+    review: REVIEW-000120
+    type: positive
+  EVID-002171:
+    review: REVIEW-000120
+    type: positive
+  EVID-002172:
+    review: REVIEW-000120
+    type: positive
+  EVID-002173:
+    review: REVIEW-000121
+    type: positive
+  EVID-002174:
+    review: REVIEW-000121
+    type: positive
+  EVID-002175:
+    review: REVIEW-000121
+    type: positive
+  EVID-002176:
+    review: REVIEW-000121
+    type: positive
+  EVID-002177:
+    review: REVIEW-000121
+    type: positive
+  EVID-002178:
+    review: REVIEW-000121
+    type: positive
+  EVID-002179:
+    review: REVIEW-000121
+    type: positive
+  EVID-002180:
+    review: REVIEW-000121
+    type: positive
+  EVID-002181:
+    review: REVIEW-000121
+    type: positive
+  EVID-002182:
+    review: REVIEW-000121
+    type: positive
+  EVID-002183:
+    review: REVIEW-000121
+    type: positive
+  EVID-002184:
+    review: REVIEW-000121
+    type: positive
+  EVID-002185:
+    review: REVIEW-000121
+    type: positive
+  EVID-002186:
+    review: REVIEW-000121
+    type: positive
+  EVID-002187:
+    review: REVIEW-000121
+    type: mixed
+  EVID-002188:
+    review: REVIEW-000121
+    type: positive
+  EVID-002189:
+    review: REVIEW-000121
+    type: mixed
+  EVID-002190:
+    review: REVIEW-000121
+    type: neutral
+  EVID-002191:
+    review: REVIEW-000121
+    type: neutral
+  EVID-002192:
+    review: REVIEW-000121
+    type: neutral
+  EVID-002193:
+    review: REVIEW-000122
+    type: positive
+  EVID-002194:
+    review: REVIEW-000122
+    type: positive
+  EVID-002195:
+    review: REVIEW-000122
+    type: positive
+  EVID-002196:
+    review: REVIEW-000122
+    type: positive
+  EVID-002197:
+    review: REVIEW-000122
+    type: positive
+  EVID-002198:
+    review: REVIEW-000122
+    type: positive
+  EVID-002199:
+    review: REVIEW-000122
+    type: positive
+  EVID-002200:
+    review: REVIEW-000122
+    type: positive
+  EVID-002201:
+    review: REVIEW-000122
+    type: positive
+  EVID-002202:
+    review: REVIEW-000122
+    type: positive
+  EVID-002203:
+    review: REVIEW-000122
+    type: positive
+  EVID-002204:
+    review: REVIEW-000122
+    type: neutral
+  EVID-002205:
+    review: REVIEW-000122
+    type: mixed
+  EVID-002206:
+    review: REVIEW-000122
+    type: neutral
+  EVID-002207:
+    review: REVIEW-000123
+    type: positive
+  EVID-002208:
+    review: REVIEW-000123
+    type: positive
+  EVID-002209:
+    review: REVIEW-000123
+    type: neutral
+  EVID-002210:
+    review: REVIEW-000123
+    type: positive
+  EVID-002211:
+    review: REVIEW-000123
+    type: positive
+  EVID-002212:
+    review: REVIEW-000123
+    type: positive
+  EVID-002213:
+    review: REVIEW-000123
+    type: positive
+  EVID-002214:
+    review: REVIEW-000123
+    type: positive
+  EVID-002215:
+    review: REVIEW-000123
+    type: positive
+  EVID-002216:
+    review: REVIEW-000123
+    type: neutral
+  EVID-002217:
+    review: REVIEW-000123
+    type: positive
+  EVID-002218:
+    review: REVIEW-000123
+    type: negative
+  EVID-002219:
+    review: REVIEW-000123
+    type: neutral
+  EVID-002220:
+    review: REVIEW-000123
+    type: mixed
 claims:
   BE-000001:
     review: REVIEW-000001
@@ -15052,6 +15440,78 @@ claims:
   R-000015:
     review: REVIEW-000119
     concept: Reputation
+  SC-000025:
+    review: REVIEW-000120
+    concept: Symbolic Capital
+  H-000010:
+    review: REVIEW-000120
+    concept: Habitus
+  SC-000026:
+    review: REVIEW-000120
+    concept: Symbolic Capital
+  BE-000078:
+    review: REVIEW-000120
+    concept: Behavioural Enablement
+  PS-000001:
+    review: REVIEW-000120
+    concept: Pro-social Behaviour
+  H-000011:
+    review: REVIEW-000120
+    concept: Habitus
+  PS-000002:
+    review: REVIEW-000120
+    concept: Pro-social Behaviour
+  F-000004:
+    review: REVIEW-000120
+    concept: Field
+  BE-000079:
+    review: REVIEW-000121
+    concept: Bayesian Evidence Synthesis
+  MR-000001:
+    review: REVIEW-000121
+    concept: Middle-Range Theory
+  FO-000001:
+    review: REVIEW-000121
+    concept: Formal Ontology
+  EP-000001:
+    review: REVIEW-000121
+    concept: ETO Pipeline
+  TS-000003:
+    review: REVIEW-000121
+    concept: Traditional Synthesis Methods
+  EP-000002:
+    review: REVIEW-000121
+    concept: ETO Pipeline
+  BR-000019:
+    review: REVIEW-000122
+    concept: BEBA Research Design
+  BR-000020:
+    review: REVIEW-000122
+    concept: BEBA Research Design
+  EW-000001:
+    review: REVIEW-000122
+    concept: ETO Workflow
+  BE-000080:
+    review: REVIEW-000122
+    concept: Bayesian Evidence Aggregation
+  KG-000002:
+    review: REVIEW-000122
+    concept: Knowledge Graph Representation
+  BA-000084:
+    review: REVIEW-000123
+    concept: Brand Awareness
+  BI-000054:
+    review: REVIEW-000123
+    concept: Brand Image
+  BD-000013:
+    review: REVIEW-000123
+    concept: Brand Differentiation
+  BD-000014:
+    review: REVIEW-000123
+    concept: Brand Differentiation
+  BE-000081:
+    review: REVIEW-000123
+    concept: Brand-Enabled Behaviour
 concepts:
   Warm_Glow_Giving:
     theory_integration: true
@@ -15389,9 +15849,21 @@ concepts:
   science_of_philanthropy_cleanup_bekkers_2026:
     theory_integration: true
     ontology_candidate: true
+  Bourdieu_Spenden_Freiwilligenarbeit_Blutspende:
+    theory_integration: true
+    ontology_candidate: true
+  ETO_Methodology_Bayesian_Evidence_Synthesis:
+    theory_integration: true
+    ontology_candidate: true
+  Litrev_ETO_Bayes_BEBA:
+    theory_integration: true
+    ontology_candidate: true
+  NPO_Brand_Equity_und_Spendenverhalten:
+    theory_integration: true
+    ontology_candidate: true
 bibliography:
   master_bib: Knowledge/Bibliography/master.bib
-  total_entries: 811
+  total_entries: 848
 integrated_reviews:
 - REVIEW-000001
 - REVIEW-000005
@@ -15502,6 +15974,10 @@ integrated_reviews:
 - REVIEW-000116
 - REVIEW-000117
 - REVIEW-000118
+- REVIEW-000120
+- REVIEW-000121
+- REVIEW-000122
+- REVIEW-000123
 trusts:
   TRUST-000001:
     source_ref: SRC-000001
