@@ -1,0 +1,40 @@
+---
+title: "BEBA — Nonprofit Brand Equity as a Brand-Enabled Behaviour Architecture"
+subtitle: "Arbeitsdokument der Dissertation — Gerald Czech"
+---
+
+# Willkommen
+
+Dieses Dokument ist der kombinierte Arbeitsstand der BEBA-Dissertation.
+
+Es enthält:
+
+- Das Forschungsprogramm und die theoretische Architektur
+- Kapitelentwürfe im aktuellen Bearbeitungsstand
+- Kapitelbezogene Research Compass Dokumente
+- Wissensbasis-Referenz (Konstrukte, Glossar)
+- Architecture Decision Records
+- BEBA-OS Systemhandbuch für Gerald und KI-Agenten
+
+**Hinweis:** Dies ist ein lebendiges Arbeitsdokument. Entwürfe sind als solche
+gekennzeichnet. Empirische Werte werden aus der BrandEquityPipeline
+referenziert — nicht aus dem Gedächtnis rekonstruiert.
+
+## Leitfrage
+
+> Wie werden Nonprofit-Marken verhaltenssteuernd wirksam unter Bedingungen
+> epistemischer Unsicherheit?
+
+## Logik des Dokuments
+
+```
+Entscheidung unter Unsicherheit
+  → Informationsasymmetrie
+  → Credence Goods
+  → Signalling
+  → Nonprofit-Marken
+  → Brand Equity
+  → Überzeugungsbildung
+  → Verhaltensausführung
+  → Ressourcenmobilisierung
+```

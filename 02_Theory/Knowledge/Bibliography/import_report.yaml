@@ -1,0 +1,335 @@
+timestamp: '2026-07-09T04:45:11.694736+00:00'
+input_directory: /home/gerald
+recursive: false
+overwrite: false
+dry_run: false
+files_processed: 1
+entries_parsed: 834
+duplicate_entries: 0
+sources_matched: 270
+conflicts: 607
+sources_enriched: 106
+sources_unchanged: 164
+unmatched_entries: 564
+master_bib_entries: 515
+warnings: []
+unmatched:
+- key: '.2003'
+  author: ''
+  year: '2003'
+  title: ''
+- key: Nationalrat.2024
+  author: Nationalrat
+  year: '2024'
+  title: Bundesgesetz \"uber die Anerkennung des \"Osterreichischen Roten Kreuzes
+    und den Schutz des Zeichens des Roten Kreuzes (
+- key: Neumayr.2012
+  author: Neumayr, Michaela
+  year: ''
+  title: 'Giving in Austria: Einflussverhalten auf das Spendenverhalten der \"osterreichischen
+    Bev\"olkerung'
+- key: Neumayr.2019
+  author: Neumayr, Michaela and Handy, Femida
+  year: '2019'
+  title: 'Charitable Giving: What Influences Donors'' Choice Among Different Causes?'
+- key: Neumayr.2023
+  author: Neumayr, Michaela and Pennerstorfer, Astrid
+  year: '2023'
+  title: 'The Income Elasticity of Charitable Giving: Evidence from Austria'
+- key: Neumayr.2012b
+  author: Neumayr, Michaela and Schober, Christian
+  year: ''
+  title: 'Giving in Austria: Einflussfaktoren auf das Spendeverhalten der \"osterreichischen
+    Bev\"olkerung'
+- key: Newman.2014
+  author: Newman, Daniel A.
+  year: '2014'
+  title: 'Missing Data: Five Practical Guidelines'
+- key: Nationalrat.1961
+  author: Nationalrat
+  year: ''
+  title: 'Bundesabgabenordnung: BAG'
+- key: NicoleODonnell.2023
+  author: Nicole O'Donnell and Yanni Ma and Yoon-Joo Lee and Minhee Choi
+  year: '2023'
+  title: 'Corporate social advocacy and brand authenticity: Evaluating the influences
+    of promise types and value congruence'
+- key: NoeliaSalidoAndres.2020
+  author: 'Noelia Salido-Andres and {Marta Rey--Garc\''ia} and {L. I. \''Alvarez-Gonz\''alez} '
+  year: '2020'
+  title: 'Mapping the Field of Donation-Based Crowdfunding for Charitable Causes:
+    Systematic Review and Conceptual Framework'
+- key: '.2012'
+  author: ''
+  year: '2012'
+  title: Nonprofit and Voluntary Sector Quarterly
+- key: Nowak.2006
+  author: Nowak, Linda and Thach, Liz and Olsen, Janeen E.
+  year: '2006'
+  title: 'Wowing the millennials: creating brand equity in the wine industry'
+- key: Nyagadza.2021
+  author: Nyagadza, Brighton and Kadembo, Ernest M. and Makasi, Africa
+  year: '2021'
+  title: 'When corporate brands tell stories: A signalling theory perspective'
+- key: O.Surucu.2019
+  author: O. Surucu and {Y\"uksel \"Ozt\"urk} and F. Okumus and Anil Bilgihan
+  year: '2019'
+  title: 'Brand awareness, image, physical quality and employee behavior as building
+    blocks of customer-based brand equity: Conseq'
+- key: Obada.2024
+  author: Obadă, Daniel-Rare{\cs} and Dabija, Dan-Cristian and C\^ampian, Veronica
+  year: '2024'
+  title: Predictors of Social Media Users' Intention to Donate Online Towards International
+    NGOs in the Fake News Era
+- key: OECD.2008
+  author: OECD
+  year: '2008'
+  title: 'Handbook on Constructing Composite Indicators: Methodology and User Guide'
+- key: Oh.2020
+  author: 'Oh, Travis Tae and Keller, Kevin Lane and Neslin, Scott A. and Reibstein,
+    David '
+  year: '2020'
+  title: The past, present, and future of brand research
+- key: Oliveira.2023
+  author: de Oliveira, Marta Olivia Rovedder and Heldt, Rodrigo and Silveira, Cleo
+    Schmitt
+  year: '2023'
+  title: Brand equity chain and brand equity measurement approaches
+- key: Nationalrat.1952
+  author: Nationalrat
+  year: ''
+  title: 'Genfer Abkommen zum Schutze der Opfer des Krieges: Genfer Abkommen \"uber
+    die Behandlung der Kriegsgefangenen vom 12. Au'
+- key: NanYe.2015
+  author: Nan Ye and Lefa Teng and Ying Yu and Ying-Ying Wang
+  year: '2015'
+  title: '``What''s in it for me?'''': The effect of donation outcomes on donation
+    behavior'
+- key: MontanoDanielE.andDanutaKasprzyk.2015
+  author: Montano, Daniel E., and Danuta Kasprzyk
+  year: '2015'
+  title: Theory of reasoned action, theory of planned behavior, and the integrated
+    behavioral model
+- key: Morin.2016
+  author: Morin, Alexandre J. S. and Arens, A. Katrin and Marsh, Herbert W.
+  year: '2016'
+  title: A Bifactor Exploratory Structural Equation Modeling Framework for the Identification
+    of Distinct Sources of Construct-Re
+- key: MuhammadAdnan.2025
+  author: Muhammad Adnan and {V. {\cC}ak\ir} and Umair Naseer and Nazakat Khan
+  year: '2025'
+  title: 'Green Purchase Intentions in Emerging Markets: A Theory of Planned Behavior
+    Perspective on Consumer Behavior and Brand D'
+- key: MuhammadIbrahimAbdullah.2018
+  author: Muhammad Ibrahim Abdullah and M. Sarfraz and Ayesha Arif and Afshan Azam
+  year: '2018'
+  title: AN EXTENSION OF THE THEORY OF PLANNED BEHAVIOR TOWARDS BRAND EQUITY AND PREMIUM
+    PRICE
+- key: MuhammadKashif.2015
+  author: Muhammad Kashif and E. C. D. Run
+  year: '2015'
+  title: 'Money donations intentions among Muslim donors: an extended theory of planned
+    behavior model'
+- key: MuhammadKashif.2015b
+  author: Muhammad Kashif and Syamsulang Sarifuddin and Azizah Hassan
+  year: '2015'
+  title: 'Charity donation: intentions and behaviour'
+- key: MunishKumarTiwari.2010
+  author: Munish Kumar Tiwari
+  year: '2010'
+  title: Separation of brand equity and brand value
+- key: Muthen.2002
+  author: Muth\'en, Linda K. and Muth\'en, Bengt O.
+  year: '2002'
+  title: How to Use a Monte Carlo Study to Decide on Sample Size and Determine Power
+- key: Myers.1996
+  author: Myers, J. H.
+  year: '1996'
+  title: Segmentation and Positioning for Strategic Marketing Decisions
+- key: Nachnamenichtvorhanden.2017
+  author: '[Nachname nicht vorhanden], Sandeep Kumar and [Nachname nicht vorhanden],
+    Sidhes'
+  year: '2017'
+  title: 'DOES PROMOTION MIX REALLY HELP TO ENHANCE BRAND EQUITY: A LITERATURE REVIEW'
+- key: Morvinski.2022
+  author: Morvinski, Coby and Lupoli, Matthew and Amir, On
+  year: '2022'
+  title: Social Information Decreases Giving in Late-Stage Fundraising Campaigns
+- key: MilesThompson.2022
+  author: Miles Thompson and F. Bond and Joda Lloyd and Samantha Anslow and Emily
+    Berry
+  year: '2022'
+  title: Exploring the role of contextual behavioural science variables and education
+    in the prosocial domain of global poverty a
+- key: OliverCruzMilan.2021
+  author: '{Oliver Cruz-Mil\''an}'
+  year: '2021'
+  title: Assessing the role of venturesomeness in a destination consumer-based brand
+    equity model
+- key: Operator.
+  author: Operator
+  year: ''
+  title: 4 Tingting\_ang.qxd
+- key: PhyllisXueWang.2022
+  author: Phyllis Xue Wang and Yijie Wang and Yuwei Jiang
+  year: '2022'
+  title: Gift or Donation? Increase the Effectiveness of Charitable Solicitation Through
+    Framing Charitable Giving as a Gift
+- key: PingGui.2022
+  author: Ping Gui and Zufeng Yang and Jun Che
+  year: '2022'
+  title: Research on the path choice behavior of donated materials under major epidemics
+- key: Plumeyer.2019
+  author: Plumeyer, Anja and Kottemann, Pascal and B\"oger, Daniel and Decker, Reinhold
+  year: '2019'
+  title: 'Measuring brand image: a systematic review, practical guidance, and future
+    research directions'
+- key: Podsakoff.2003
+  author: 'Podsakoff, Philip M. and MacKenzie, Scott B. and Lee, Jeong-Yeon and Podsakoff, '
+  year: '2003'
+  title: 'Common method biases in behavioral research: a critical review of the literature
+    and recommended remedies'
+- key: Podsakoff.2012
+  author: Podsakoff, Philip M. and MacKenzie, Scott B. and Podsakoff, Nathan P.
+  year: '2012'
+  title: Sources of method bias in social science research and recommendations on
+    how to control it
+- key: Ponzi.2011
+  author: Ponzi, Leonard J. and Fombrun, Charles J. and Gardberg, Naomi A.
+  year: '2011'
+  title: 'RepTrak\texttrademark Pulse: Conceptualizing and Validating a Short-Form
+    Measure of Corporate Reputation'
+- key: Popper.2005
+  author: Popper, Karl R.
+  year: '2005'
+  title: Logik der Forschung
+- key: Post.2020
+  author: Post, Corinne and Sarala, Riikka and Gatrell, Caroline and Prescott, John
+    E.
+  year: '2020'
+  title: Advancing Theory with Review Articles
+- key: PeterR.Blake.2018
+  author: Peter R. Blake
+  year: '2018'
+  title: 'Giving what one should: explanations for the knowledge-behavior gap for
+    altruistic giving'
+- key: Prakash.2010
+  author: Prakash, Aseem and Gugerty, Mary Kay
+  year: '2010'
+  title: Trust but verify? Voluntary regulation programs in the nonprofit sector
+- key: PutiHalimah.2025
+  author: Puti Halimah and Uud Wahyudin and Trie Damayanti
+  year: '2025'
+  title: Analysis of Customer-Based Brand Equity Strategy Through The Digital Branding
+    Process in The Social Sharing Happiness Ca
+- key: R.Algharabat.2017
+  author: 'R. Algharabat and Nripendra P. Rana and Yogesh Kumar Dwivedi and A. Alalwan
+    and '
+  year: '2017'
+  title: 'The effect of telepresence, social presence and involvement on consumer
+    brand engagement: An empirical study of non-prof'
+- key: R.Algharabat.2020
+  author: 'R. Algharabat and Nripendra P. Rana and A. Alalwan and A. Baabdullah and
+    Ashish '
+  year: '2020'
+  title: Investigating the antecedents of customer brand engagement and consumer-based
+    brand equity in social media
+- key: R.Biscaia.2016
+  author: R. Biscaia and S. Ross and Masayuki Yoshida and A. Correia and A. Rosado
+    and {J.
+  year: '2016'
+  title: Investigating the role of fan club membership on perceptions of team brand
+    equity in football
+- key: RachelBocquet.2020
+  author: Rachel Bocquet and {Ga\"elle Cotterlaz-Rannard} and Michel Ferrary
+  year: '2020'
+  title: How Do NPOs Get Funding? A Business Model Perspective Based on the Conversion
+    of Symbolic Capital
+- key: RachelleM.Santos.2025
+  author: Rachelle M. Santos and Reynold A. Campo and Marjori DG dela Cruz and Remus
+    M. Mo
+  year: '2025'
+  title: Intentions of Potential Partners to Participate in a Donation Program
+conflict_details:
+- 'SRC-000299: ''authors'' = ''Bendapudi, Neeli; Singh, Surendra N.; Bendapudi, V''
+  ≠ BibTeX ''Neeli Bendapudi and Surendra N. Singh and and Venk'''
+- 'SRC-000449: ''authors'' = ''Netemeyer, Richard G.; Krishnan, Balaji; Pullig, C''
+  ≠ BibTeX ''Netemeyer, Richard G. and Krishnan, Balaji and Pul'''
+- 'SRC-000102: ''authors'' = ''Neumayr'' ≠ BibTeX ''Neumayr, Michaela'''
+- 'SRC-000101: ''authors'' = ''Neumayr and Pennerstorfer'' ≠ BibTeX ''Neumayr, Michaela
+  and Pennerstorfer, Astrid'''
+- 'SRC-000101: ''year'' = ''2020'' ≠ BibTeX ''2021'''
+- 'SRC-000101: ''pages'' = ''551-577'' ≠ BibTeX ''551--577'''
+- 'SRC-000037: ''authors'' = ''Ngo and others'' ≠ BibTeX ''Ngo, L. and Gregory, G.
+  and Miller, Ryan and Lu, L'''
+- 'SRC-000190: ''authors'' = ''Nogueira, Santarém, and Gomes'' ≠ BibTeX "Nogueira,
+  Mafalda and Santar\\''em, Francisco and Go"'
+- 'SRC-000076: ''authors'' = ''Nguyen and others'' ≠ BibTeX ''Nguyen, C. and Faulkner,
+  M. and Yang, S. and Willi'''
+- 'SRC-000022: ''authors'' = ''Millán and others'' ≠ BibTeX "Mill\\''an, \\''Angel
+  and Retamosa, Marta and Carranza"'
+- 'SRC-000022: ''year'' = ''2023'' ≠ BibTeX ''2024'''
+- 'SRC-000022: ''journal'' = ''Voluntas'' ≠ BibTeX ''VOLUNTAS: International Journal
+  of Voluntary and N'''
+- 'SRC-000384: ''authors'' = ''Mitchell, G., & Clark, C.'' ≠ BibTeX ''Mitchell, S.-L.'''
+- 'SRC-000384: ''year'' = ''2020'' ≠ BibTeX ''2023'''
+- 'SRC-000384: ''authors'' = ''Mitchell, G., & Clark, C.'' ≠ BibTeX ''Mitchell, Ronald
+  K. and Agle, Bradley R. and Wood,'''
+- 'SRC-000384: ''year'' = ''2020'' ≠ BibTeX ''1997'''
+- 'SRC-000415: ''authors'' = ''Mitchell, R., & Clark, T.'' ≠ BibTeX ''Mitchell, Sarah-Louise
+  and Clark, Moira'''
+- 'SRC-000415: ''authors'' = ''Mitchell, R., & Clark, T.'' ≠ BibTeX ''Mitchell, Sarah-Louise
+  and Clark, Moira'''
+- 'SRC-000091: ''authors'' = ''Mittelman and Rojas‐Méndez'' ≠ BibTeX ''Mittelman,
+  Robert'''
+- 'SRC-000091: ''year'' = ''2018'' ≠ BibTeX ''2016'''
+- 'SRC-000091: ''title'' = ''Why Canadians Give to Charity: An Extended Theory ''
+  ≠ BibTeX ''Charitable Giving to Distant Others: An extended t'''
+- 'SRC-000091: ''doi'' = ''10.1007/s12208-018-0197-3'' ≠ BibTeX ''10.22215/etd/2016-11300'''
+- 'SRC-000091: ''authors'' = ''Mittelman and Rojas‐Méndez'' ≠ BibTeX "Mittelman, Robert
+  and Rojas-M\\''endez, Jos\\''e"'
+- 'SRC-000091: ''title'' = ''Why Canadians Give to Charity: An Extended Theory ''
+  ≠ BibTeX ''Why Canadians give to charity: an extended theory '''
+- 'SRC-000091: ''issn'' = ''18651992'' ≠ BibTeX ''1865-1984'''
+- 'SRC-000091: ''authors'' = ''Mittelman and Rojas‐Méndez'' ≠ BibTeX "Mittelman, Ronen
+  and Rojas-M\\''endez, Jos\\''e"'
+- 'SRC-000153: ''authors'' = ''Morgan and Hunt'' ≠ BibTeX ''Morgan, Robert M. and
+  Hunt, Shelby D.'''
+- 'SRC-000462: ''authors'' = ''Napoli, J.'' ≠ BibTeX ''Napoli, Julie'''
+- 'SRC-000490: ''authors'' = ''Mulyanegara, A. R.'' ≠ BibTeX ''Mulyanegara, Riza Casidy'''
+- 'SRC-000234: ''authors'' = ''M’zungu, Merrilees, and Miller'' ≠ BibTeX "M''zungu,
+  Simon D. M. and Merrilees, Bill and Mille"'
+- 'SRC-000009: ''authors'' = ''Grossman and Levy'' ≠ BibTeX ''Philip J. Grossman and
+  Jonathan Levy'''
+- 'SRC-000009: ''year'' = ''2022'' ≠ BibTeX ''2024'''
+- 'SRC-000009: ''title'' = "It''s Not You (Well, it is a Bit You), It''s Me: Sel"
+  ≠ BibTeX "It''s not you (well, it is a bit you), it''s me: Sel"'
+- 'SRC-000009: ''journal'' = ''SSRN Electronic Journal'' ≠ BibTeX ''PloS one'''
+- 'SRC-000009: ''doi'' = ''10.2139/ssrn.4008134'' ≠ BibTeX ''10.1371/journal.pone.0300868'''
+- 'SRC-000285: ''authors'' = ''Pope, J. A., Isely, E. S., & Asamoa-Tutu, F.'' ≠ BibTeX
+  ''Pope, Jennifer A. and Isely, Elaine Sterrett and A'''
+- 'SRC-000010: ''authors'' = ''Luccasen, and Grossman'' ≠ BibTeX ''{R. Andrew Luccasen
+  III} and P. Grossman'''
+- 'SRC-000010: ''title'' = ''Warm‐Glow Giving: Earned Money and the Option to T''
+  ≠ BibTeX ''Warm--Glow Giving: Earned Money and the Option to '''
+- 'SRC-000010: ''journal'' = ''ERN: Other Macroeconomics: Monetary & Fiscal Polic''
+  ≠ BibTeX ''ERN: Other Macroeconomics: Monetary \\& Fiscal Poli'''
+- 'SRC-000025: ''authors'' = ''Ramayanti and others'' ≠ BibTeX ''Ramayanti Ramayanti
+  and P. Kurnia and Anggun Peson'''
+- 'SRC-000284: ''authors'' = ''Ouellette & Wood'' ≠ BibTeX ''Ouellette, Judith A.
+  and Wood, Wendy'''
+- 'SRC-000009: ''authors'' = ''Grossman and Levy'' ≠ BibTeX ''P. Grossman and Jonathan
+  Levy'''
+- 'SRC-000274: ''authors'' = ''Pappu, R., Quester, P. G., & Cooksey, R. W.'' ≠ BibTeX
+  ''Pappu, Ravi and Quester, Pascale G. and Cooksey, R'''
+- 'SRC-000274: ''title'' = ''Consumer-based brand equity: improving the measure''
+  ≠ BibTeX ''Consumer--based brand equity: improving the measur'''
+- 'SRC-000213: ''authors'' = ''Park et al.'' ≠ BibTeX ''Park, C. Whan and Macinnis,
+  Deborah J. and Prieste'''
+- 'SRC-000087: ''authors'' = ''Paschina'' ≠ BibTeX ''Paschina, Sara'''
+- 'SRC-000107: ''authors'' = ''Mikul and Mittal'' ≠ BibTeX ''Mikul and Mittal, Ishwar'''
+- 'SRC-000040: ''authors'' = ''Michel and Rieunier'' ≠ BibTeX "Michel, G\\''eraldine
+  and Rieunier, Sophie"'
+- 'SRC-000040: ''year'' = ''2015'' ≠ BibTeX ''2014'''
+- 'SRC-000040: ''doi'' = ''10.1007/978-3-319-10864-3_14'' ≠ BibTeX ''10.1007/978-3-319-10864-3\\textunderscore
+  14'''

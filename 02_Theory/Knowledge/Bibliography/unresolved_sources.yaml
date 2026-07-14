@@ -1,416 +1,3272 @@
-total_unresolved: 46
+total_unresolved: 406
 sources:
-- id: SRC-000001
-  authors: Andreoni
-  year: 1990
-  status: stub
+- id: SRC-000112
+  authors: Tuominen, P.
+  year: '1999'
+  status: accepted
   missing_fields:
   - doi
-  - title
+  file: Sources/SRC-000112.md
+- id: SRC-000130
+  authors: Bridson and Evans
+  year: 2004
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000130.md
+- id: SRC-000134
+  authors: Aaker, David A.
+  year: '1991'
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000134.md
+- id: SRC-000135
+  authors: Dobni and Zinkhan
+  year: '1990'
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000135.md
+- id: SRC-000136
+  authors: Salamon
+  year: '2002'
+  status: accepted
+  missing_fields:
+  - doi
   - journal
-  file: Sources/SRC-000001.md
-- id: SRC-000002
-  authors: Crumpler & Grossman
+  file: Sources/SRC-000136.md
+- id: SRC-000155
+  authors: Czech
+  year: '2026'
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000155.md
+- id: SRC-000158
+  authors: Bourdieu
+  year: 1982
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000158.md
+- id: SRC-000160
+  authors: Sargeant & Woodliffe
+  year: 2007
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000160.md
+- id: SRC-000161
+  authors: Roff-Marsh
   year: 2008
-  status: stub
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000161.md
+- id: SRC-000170
+  authors: Yaping et al.
+  year: 2023
+  status: rejected
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000002.md
-- id: SRC-000003
-  authors: Grossman & Levy
+  file: Sources/SRC-000170.md
+- id: SRC-000173
+  authors: Balaji et al.
+  year: 2016
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000173.md
+- id: SRC-000174
+  authors: Yameen et al.
+  year: 2020
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000174.md
+- id: SRC-000175
+  authors: Panda et al.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000175.md
+- id: SRC-000177
+  authors: Rossiter & Percy
+  year: '1987'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000177.md
+- id: SRC-000178
+  authors: Schmitt
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000178.md
+- id: SRC-000186
+  authors: Hager and Hedberg
+  year: 2016
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000186.md
+- id: SRC-000194
+  authors: de Chernatony et al.
+  year: '2006'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000194.md
+- id: SRC-000216
+  authors: Spence
+  year: 1974
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000216.md
+- id: SRC-000217
+  authors: Jacoby et al.
+  year: 1977
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000217.md
+- id: SRC-000220
+  authors: Chapleo
+  year: 2013
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000220.md
+- id: SRC-000221
+  authors: Keller
+  year: 2001
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000221.md
+- id: SRC-000243
+  authors: American Marketing Association, Committee on Definitions.
+  year: '1960'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000243.md
+- id: SRC-000244
+  authors: Doyle
+  year: 1994
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000244.md
+- id: SRC-000245
+  authors: Kotler et al.
+  year: '1996'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000245.md
+- id: SRC-000246
+  authors: Styles & Ambler
+  year: 1995
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000246.md
+- id: SRC-000271
+  authors: Aaker, David A.
+  year: '1991'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000271.md
+- id: SRC-000276
+  authors: Aaker, D. A.
+  year: 1991
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000276.md
+- id: SRC-000281
+  authors: Bennett & Sargeant
+  year: 2005
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000281.md
+- id: SRC-000286
+  authors: Clarke, R. & Mount, J.
+  year: 2000
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000286.md
+- id: SRC-000288
+  authors: Padanyi, P. & Gainer, B.
+  year: 2004
+  status: rejected
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000288.md
+- id: SRC-000290
+  authors: Gwin, C. R.
+  year: 2000
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000290.md
+- id: SRC-000293
+  authors: Keller, Kevin Lane
+  year: 2000
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000293.md
+- id: SRC-000294
+  authors: Clark, Herbert H.; Marshall, Catherine R.
+  year: '1981'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000294.md
+- id: SRC-000297
+  authors: Saxton, J. Gregory
+  year: 1994
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000297.md
+- id: SRC-000303
+  authors: Michaelidou et al.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000303.md
+- id: SRC-000311
+  authors: Hyun Baek & Whitehill King
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000311.md
+- id: SRC-000313
+  authors: York, P.
+  year: 2015
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000313.md
+- id: SRC-000314
+  authors: Novotný, J.; Lukeš, M.
+  year: '2008'
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000314.md
+- id: SRC-000315
+  authors: Salamon, L.
+  year: 2013
+  status: needs_revision
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000315.md
+- id: SRC-000318
+  authors: Mead, G. H.
+  year: 1934
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000318.md
+- id: SRC-000319
+  authors: Fishbein, M., & Ajzen, I.
+  year: '1975'
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000319.md
+- id: SRC-000323
+  authors: Rosenhan, D. L.
+  year: 1970
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000323.md
+- id: SRC-000324
+  authors: Oliner, S. P., & Oliner, P. M.
+  year: 1988
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000324.md
+- id: SRC-000327
+  authors: Kearns, K. P.
+  year: 2014
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000327.md
+- id: SRC-000328
+  authors: O’Neill, M.
+  year: 2009
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000328.md
+- id: SRC-000329
+  authors: Feng, N., Neely, D., & Slatten, L.
+  year: 2016
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000329.md
+- id: SRC-000338
+  authors: Huang, C. C., & Ku, H. Y.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000338.md
+- id: SRC-000340
+  authors: Nah, S., & Saxton, G. D.
+  year: 2013
+  status: rejected
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000340.md
+- id: SRC-000341
+  authors: Sun, Y., & Asencio, H.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000341.md
+- id: SRC-000342
+  authors: Álvarez-González, L. I., Garcia-Merino, T., & Barreiro-Gen, M.
+  year: 2017
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000342.md
+- id: SRC-000343
+  authors: Gazley, B., & Guo, C.
+  year: 2020
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000343.md
+- id: SRC-000346
+  authors: Jung, K., Ali, F., & Lee, H.
+  year: 2022
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000346.md
+- id: SRC-000347
+  authors: Hopkins, L., Roster, C., & Wood, C.
+  year: 2014
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000347.md
+- id: SRC-000348
+  authors: Boenigk, S., & Schuchardt, V.
+  year: 2015
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000348.md
+- id: SRC-000349
+  authors: Dessart, L.
+  year: 2017
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000349.md
+- id: SRC-000351
+  authors: Hou, J., Zhang, J., & Li, J.
+  year: 2018
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000351.md
+- id: SRC-000353
+  authors: Lin, Y.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000353.md
+- id: SRC-000355
+  authors: Jiang, H., Luo, Y., & Kulemeka, O.
+  year: 2016
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000355.md
+- id: SRC-000357
+  authors: Despard, M. R.
+  year: 2017
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000357.md
+- id: SRC-000360
+  authors: Rosch, E.
+  year: 1978
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000360.md
+- id: SRC-000362
+  authors: Bennett, R., & Gabriel, H.
+  year: 2003
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000362.md
+- id: SRC-000369
+  authors: Laidler-Kylander, N.; Quelch, J. A.; Simonin, B. L.
+  year: 2007
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000369.md
+- id: SRC-000379
+  authors: Herlin, H.
+  year: 2015
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000379.md
+- id: SRC-000381
+  authors: Bekkers
+  year: 2010
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000381.md
+- id: SRC-000382
+  authors: Piper & Schnepf
+  year: 2008
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000382.md
+- id: SRC-000383
+  authors: Burnett
+  year: 1981
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000383.md
+- id: SRC-000390
+  authors: Baxendale, S., et al.
+  year: 2015
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000390.md
+- id: SRC-000391
+  authors: Brodie, R. J., et al.
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000391.md
+- id: SRC-000393
+  authors: Porter, M. E., & Kramer, M. R.
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000393.md
+- id: SRC-000394
+  authors: Porter, M. E., & Kramer, M. R.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000394.md
+- id: SRC-000396
+  authors: Alhashem, A., Mbzogu, J., & Cruickshank, P.
+  year: 2020
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000396.md
+- id: SRC-000397
+  authors: Sharma, G.
+  year: 2021
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000397.md
+- id: SRC-000399
+  authors: Singh, S., & Dhir, S.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000399.md
+- id: SRC-000400
+  authors: Bandyopadhyay, C., & Ray, S.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000400.md
+- id: SRC-000401
+  authors: Bonar, E., & Karlsson, J.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000401.md
+- id: SRC-000402
+  authors: Haase, M.
+  year: 2021
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000402.md
+- id: SRC-000403
+  authors: Krishna, A.
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000403.md
+- id: SRC-000404
+  authors: Davies, I. A., & Doherty, B.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000404.md
+- id: SRC-000405
+  authors: O’Shaughnessy, J., & O’Shaughnessy, N. J.
+  year: 2007
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000405.md
+- id: SRC-000406
+  authors: Varey, R. J.
+  year: 2010
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000406.md
+- id: SRC-000408
+  authors: Rego, F. G. A., de Farias, S. A., & de Souza, A. A.
+  year: 2021
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000408.md
+- id: SRC-000409
+  authors: Koschate-Fischer, N., Stefan, I. V., & Hoyer, W. D.
+  year: 2016
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000409.md
+- id: SRC-000410
+  authors: Bandyopadhyay, C., & Ray, S.
+  year: 2020
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000410.md
+- id: SRC-000411
+  authors: Essiz, O., & Senyuz, Z. H.
+  year: 2023
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000411.md
+- id: SRC-000413
+  authors: Nascimento, S., Lenzi, G. G., Bulgacov, S., & de Souza, J. C.
+  year: 2021
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000413.md
+- id: SRC-000414
+  authors: Sigala, M.
+  year: 2019
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000414.md
+- id: SRC-000417
+  authors: Muñoz, P., & Kimmitt, J.
+  year: 2019
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000417.md
+- id: SRC-000418
+  authors: Dilotsotlhe, N., & Duh, H.
+  year: 2021
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000418.md
+- id: SRC-000420
+  authors: Kaplan, R. S.
+  year: 2001
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000420.md
+- id: SRC-000421
+  authors: Sawhill, J. C., & Williamson, D.
+  year: 2001
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000421.md
+- id: SRC-000423
+  authors: Parasuraman, A., Zeithaml, V. A., & Berry, L. L.
+  year: 1988
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000423.md
+- id: SRC-000424
+  authors: Shapiro, B. P.
+  year: 2010
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000424.md
+- id: SRC-000433
+  authors: Foreman, S.
+  year: 1999
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000433.md
+- id: SRC-000438
+  authors: Zarantonello, Lia; Pauwels-Delassus, Véronique
+  year: 2015
+  status: accepted
+  missing_fields:
+  - journal
+  file: Sources/SRC-000438.md
+- id: SRC-000443
+  authors: Albert, Noel; Merunka, Dwight; Valette-Florence, Pierre
+  year: 2009
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000443.md
+- id: SRC-000445
+  authors: Patwardhan, Hemant; Balasubramanian, S. K.
+  year: 2011
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000445.md
+- id: SRC-000448
+  authors: Vázquez, Rodolfo; Del Río, A. Belén; Iglesias, Victor
+  year: 2002
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000448.md
+- id: SRC-000450
+  authors: Rossiter, John R.
+  year: 2002
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000450.md
+- id: SRC-000451
+  authors: Rossiter, John R.
+  year: 2012
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000451.md
+- id: SRC-000455
+  authors: Keller, Kevin Lane
+  year: 2001
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000455.md
+- id: SRC-000458
+  authors: Burnett & Wood
+  year: 1988
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000458.md
+- id: SRC-000460
+  authors: Liu, G., Chapleo, C., Ko, W. W., & Ngugi, I. K.
+  year: 2015
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000460.md
+- id: SRC-000461
+  authors: Deci, E. L., & Ryan, R. M.
+  year: 2004
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000461.md
+- id: SRC-000471
+  authors: Chouliaraki, L.
+  year: 2013
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000471.md
+- id: SRC-000478
+  authors: Wong, H. Y., Merrilees, B.
+  year: 2008
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000478.md
+- id: SRC-000480
+  authors: Bridson, K., Evans, J.
+  year: 2004
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000480.md
+- id: SRC-000483
+  authors: Huang, Y-Y., Tsai, Y-S.
+  year: 2013
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000483.md
+- id: SRC-000484
+  authors: Rentschler, R., Bridson, K., Evans, J.
+  year: 2011
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000484.md
+- id: SRC-000485
+  authors: Hirvonen, S., Laukkanen, T.
+  year: 2014
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000485.md
+- id: SRC-000488
+  authors: Gyrd-Jones, R., Merrilees, B., Miller, D.
+  year: 2013
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000488.md
+- id: SRC-000489
+  authors: Baxter, J., Kerr, G., Clarke, R.
+  year: 2013
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000489.md
+- id: SRC-000493
+  authors: O’Cass, A., & Ngo, L. V.
+  year: 2009
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000493.md
+- id: SRC-000494
+  authors: Tuominen, M., Rajala, A., & Möller, K.
+  year: 2009
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000494.md
+- id: SRC-000501
+  authors: Herzlinger, R. E.
+  year: 1996
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000501.md
+- id: SRC-000502
+  authors: Salamon, L. M.
+  year: 2002
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000502.md
+- id: SRC-000503
+  authors: Light, P. C.
+  year: 2003
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000503.md
+- id: SRC-000504
+  authors: Dees, J. G., & Anderson, B. B.
+  year: 2003
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000504.md
+- id: SRC-000505
+  authors: Smith, S. R., & Grønbjerg, K. A.
+  year: 2006
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000505.md
+- id: SRC-000506
+  authors: Handy, F., Cnaan, R. A., Hustinx, L., Kang, C., Brudney, J. L., Haski-Leventhal,
+    D., Holmes, K., Meijs, L. C. P. M., Pessi, A. B., Ranade, B., Yamauchi, N., &
+    Zrinscak, S.
+  year: 2010
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000506.md
+- id: SRC-000507
+  authors: Schlesinger, M., Mitchell, S., & Gray, B. H.
+  year: 2004
+  status: needs_revision
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000507.md
+- id: SRC-000508
+  authors: Kissane, R. J.
+  year: 2003
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000508.md
+- id: SRC-000509
+  authors: Nogueira, S., Santarém, F., & Gomes, S.
+  year: 2019
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000509.md
+- id: SRC-000512
+  authors: Liao-Troth, M. A.
+  year: 2001
+  status: rejected
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000512.md
+- id: SRC-000514
+  authors: Marin, L.; Ruiz, S.; Rubio, A.
+  year: 2008
+  status: needs_revision
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000514.md
+- id: SRC-000515
+  authors: Camarero, C.; Garrido, M. J.
+  year: 2011
+  status: needs_revision
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000515.md
+- id: SRC-000525
+  authors: Neary, J.
+  year: 2017
+  status: rejected
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000525.md
+- id: SRC-000530
+  authors: Čačija, L. N.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000530.md
+- id: SRC-000533
+  authors: Huang, S.-L., & Ku, H.-H.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000533.md
+- id: SRC-000554
+  authors: Anwar, S., & Gulzar, A.
+  year: 2011
+  status: accepted
+  missing_fields:
+  - doi
+  file: Sources/SRC-000554.md
+- id: SRC-000594
+  authors: Luo, Y., & Talay, C.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000594.md
+- id: SRC-000599
+  authors: Murillo-Acuña, K.
+  year: 2013
+  status: accepted
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000599.md
+- id: SRC-000637
+  authors: Chapman et al.
+  year: 2025
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000637.md
+- id: SRC-000638
+  authors: Rivis & Sheeran
+  year: 2003
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000638.md
+- id: SRC-000639
+  authors: McEachan et al.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000639.md
+- id: SRC-000640
+  authors: Helferich et al.
+  year: 2023
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000640.md
+- id: SRC-000641
+  authors: Melnyk et al.
+  year: 2019
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000641.md
+- id: SRC-000642
+  authors: Morren & Grinstein
+  year: 2021
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000642.md
+- id: SRC-000643
+  authors: Manning
+  year: 2009
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000643.md
+- id: SRC-000644
+  authors: Miller & Prentice
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000644.md
+- id: SRC-000645
+  authors: Albarracín et al.
   year: 2024
-  status: stub
+  status: accepted
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000003.md
-- id: SRC-000004
-  authors: Luccasen, & Grossman
+  file: Sources/SRC-000645.md
+- id: SRC-000646
+  authors: Brewer et al.
+  year: 2017
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000646.md
+- id: SRC-000647
+  authors: Fischer & Karl
+  year: 2021
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000647.md
+- id: SRC-000648
+  authors: Melnyk et al.
+  year: 2021
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000648.md
+- id: SRC-000660
+  authors: Gigerenzer & Goldstein
+  year: 2002
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000660.md
+- id: SRC-000661
+  authors: Sargeant, Ford & West
+  year: 2006
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000661.md
+- id: SRC-000662
+  authors: Richter, Schömann et al.
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000662.md
+- id: SRC-000663
+  authors: Randle & Dolnicar
+  year: 2019
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000663.md
+- id: SRC-000664
+  authors: Sundar et al.
+  year: 2014
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000664.md
+- id: SRC-000665
+  authors: Netemeyer et al.
+  year: 2004
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000665.md
+- id: SRC-000666
+  authors: Bekkers & Wiepking
+  year: 2011
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000666.md
+- id: SRC-000667
+  authors: Breeze
+  year: 2013
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000667.md
+- id: SRC-000668
+  authors: Barman
+  year: 2007
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000668.md
+- id: SRC-000669
+  authors: Ostrower
+  year: 1995
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000669.md
+- id: SRC-000670
+  authors: Mette
+  year: 2013
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000670.md
+- id: SRC-000671
+  authors: Charbonneau & Smith
+  year: 2012
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000671.md
+- id: SRC-000672
+  authors: Gillespie & Hillyer
+  year: 2002
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000672.md
+- id: SRC-000673
+  authors: Vogel
+  year: 2018
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000673.md
+- id: SRC-000674
+  authors: Schervish
+  year: 1997
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000674.md
+- id: SRC-000675
+  authors: Taylor
+  year: 2005
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000675.md
+- id: SRC-000676
+  authors: Karakayali
+  year: 2017
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000676.md
+- id: SRC-000677
+  authors: Dean
+  year: 2016
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000677.md
+- id: SRC-000678
+  authors: Healy
+  year: 2000
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000678.md
+- id: SRC-000679
+  authors: Busby
+  year: 2010
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000679.md
+- id: SRC-000680
+  authors: Suarez & Valentin
+  year: 2019
+  status: accepted
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-000680.md
+- id: SRC-000687
+  authors: __PLACEHOLDER__
+  year: 2002
+  status: stub
+  missing_fields:
+  - title
+  - journal
+  file: Sources/SRC-000687.md
+- id: SRC-000693
+  authors: __PLACEHOLDER__
   year: 2017
   status: stub
   missing_fields:
-  - doi
   - title
   - journal
-  file: Sources/SRC-000004.md
-- id: SRC-000005
-  authors: List et al.
-  year: 2021
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000005.md
-- id: SRC-000006
-  authors: Andreoni
-  year: 1989
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000006.md
-- id: SRC-000007
-  authors: Fraser
-  year: 2018
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000007.md
-- id: SRC-000008
-  authors: Fraser
-  year: 2022
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000008.md
-- id: SRC-000009
-  authors: Chaabouni et al.
+  file: Sources/SRC-000693.md
+- id: SRC-000709
+  authors: 'Leonilde Conceição da Silva, Emerson Wagner Mainardes, Arilda Magna
+
+    Campagnaro Teixeira, & Lindemberg Costa Júnior ('
   year: 2020
   status: stub
   missing_fields:
-  - doi
-  - title
   - journal
-  file: Sources/SRC-000009.md
-- id: SRC-000010
-  authors: Bianchi et al.
+  file: Sources/SRC-000709.md
+- id: SRC-000716
+  authors: Ajzen, I., & Schmidt, P. (
+  year: 2020
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000716.md
+- id: SRC-000721
+  authors: Deephouse, D. L., & Suchman, M. (
+  year: 2008
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000721.md
+- id: SRC-000734
+  authors: Mittelman, R. (
+  year: 2016
+  status: active
+  missing_fields:
+  - journal
+  file: Sources/SRC-000734.md
+- id: SRC-000735
+  authors: Neumayr, M., & Pennerstorfer, A. (
   year: 2023
   status: stub
   missing_fields:
-  - doi
-  - title
   - journal
-  file: Sources/SRC-000010.md
-- id: SRC-000011
-  authors: Wilhelm et al.
+  file: Sources/SRC-000735.md
+- id: SRC-000745
+  authors: Wiepking, P., & Bekkers, R. (
+  year: 2012
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000745.md
+- id: SRC-000746
+  authors: Yuan, K.‑H., & Bentler, P. M. (
+  year: 2000
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000746.md
+- id: SRC-000747
+  authors: Anderson, D. R., Sweeney, D. J., & Williams, T. A. (
+  year: 2007
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000747.md
+- id: SRC-000748
+  authors: Castro, C. B., Armario, E. M., & Del Rio, M. E. S. (
+  year: 2005
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000748.md
+- id: SRC-000749
+  authors: Hankinson, P. (
+  year: 2001
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000749.md
+- id: SRC-000750
+  authors: Riecken, G., Babakus, E., & Yavas, U. (
+  year: 1994
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000750.md
+- id: SRC-000751
+  authors: Aaker, D.A. (
+  year: 1991
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000751.md
+- id: SRC-000752
+  authors: Clarksona, P., Daviesa, S., Challisa, D., Donnellyb, M., & Beechc, R. (
+  year: 2009
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000752.md
+- id: SRC-000753
+  authors: Copyright ©
+  year: 2012
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000753.md
+- id: SRC-000754
+  authors: Edelman. (
+  year: 2019
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000754.md
+- id: SRC-000755
+  authors: Decker R, Trusov M (
+  year: 2010
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000755.md
+- id: SRC-000757
+  authors: Akingbola, K. (
+  year: 2013
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000757.md
+- id: SRC-000758
+  authors: Bernardi, C. L., & Alhamdan, N. (
+  year: 2022
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000758.md
+- id: SRC-000759
+  authors: Felício, J. A., Martins Gonçalves, H., & da Conceição Gonçalves, V. (
+  year: 2013
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000759.md
+- id: SRC-000760
+  authors: "Journal of Voluntary and Nonprofit Organizations, 29(3), 558–573. https://doi.org/10.1007/\n\
+    \   s11266-017-9912-7\nKatz, H. ("
+  year: 2018
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000760.md
+- id: SRC-000761
+  authors: Men, L. R., & Tsai, W. H. S. (
+  year: 2014
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000761.md
+- id: SRC-000762
+  authors: Wymer, W., Knowles, P., & Gomes, R. (
+  year: 2014
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000762.md
+- id: SRC-000763
+  authors: Barwise, P., & Meehan, S. (
+  year: 2004
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000763.md
+- id: SRC-000764
+  authors: Mandel, N., & Johnson, E. J. (
+  year: 2002
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000764.md
+- id: SRC-000765
+  authors: Sargeant, A. (
+  year: 2009
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000765.md
+- id: SRC-000766
+  authors: Achabou, M. A., Dekhili, S., & Codini, A. P. (
+  year: 2020
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000766.md
+- id: SRC-000767
+  authors: Bagnoli, L., & Megali, C. (
+  year: 2011
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000767.md
+- id: SRC-000768
+  authors: Eng, T. Y., Ozdemir, S., Gupta, S., & Kanungo, R. P. (
+  year: 2020
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000768.md
+- id: SRC-000769
+  authors: Jarneving, B. (
+  year: 2005
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000769.md
+- id: SRC-000770
+  authors: Lichtenthaler, U. (
+  year: 2021
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000770.md
+- id: SRC-000771
+  authors: Mongeon, P., & Hus, A. P. (
+  year: 2016
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000771.md
+- id: SRC-000772
+  authors: Silva, M., Khan, Z., Vorley, T., & Zeng, J. (
+  year: 2020
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000772.md
+- id: SRC-000773
+  authors: Toledano, M., & Riches, M. (
+  year: 2014
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000773.md
+- id: SRC-000774
+  authors: Gold, J. (
+  year: 2023
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000774.md
+- id: SRC-000775
+  authors: White, K., Poulsen, B. E., & Hyde, M. K. (
+  year: 2017
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000775.md
+- id: SRC-000776
+  authors: Marcos, A., & Coelho, A. (
+  year: 2021
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000776.md
+- id: SRC-000777
+  authors: Kusuma, H., & Anafisati, V. (
+  year: 2020
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000777.md
+- id: SRC-000779
+  authors: Lee, Z., Spry, A., Ekinci, Y., & Vredenburg, J. (
+  year: 2023
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000779.md
+- id: SRC-000780
+  authors: Parris, D., & Guzmán, F. (
+  year: 2022
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000780.md
+- id: SRC-000781
+  authors: Wu, X., Wu, T., Guo, X., & Yang, H. (
+  year: 2025
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000781.md
+- id: SRC-000782
+  authors: Yen, W.-H., Caskey, D., & Warden, C. A. (
+  year: 2022
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000782.md
+- id: SRC-000783
+  authors: Shen, Z., Li, H., & Zhang, Y. (
+  year: 2025
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000783.md
+- id: SRC-000784
+  authors: Luo, X., Rindﬂeisch, A., & Tse, D. K. (
+  year: 2007
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000784.md
+- id: SRC-000785
+  authors: 'institution”, Journal of Business Research, doi: 10.1016/j.
+
+    jbusres'
+  year: 2019
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000785.md
+- id: SRC-000786
+  authors: Edell, J., & Burke, M. (
+  year: 1987
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000786.md
+- id: SRC-000787
+  authors: 'REFERENCES
+
+    * Indicates that the study was both part of the
+
+    sample and cited in the text
+
+    *Ahmad, N. and Khan, D.G. ('
   year: 2014
   status: stub
   missing_fields:
-  - doi
-  - title
   - journal
-  file: Sources/SRC-000011.md
-- id: SRC-000012
-  authors: Andreoni
-  year: 1990
+  file: Sources/SRC-000787.md
+- id: SRC-000791
+  authors: 'non profit organizations during COVID 19. Annals of Public and Cooperative
+    Economics. https://doi.org/10.1111/apce.70043
+
+    Harken, S., Mertins, V., & Urselmann, M. ('
+  year: 2025
   status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000012.md
-- id: SRC-000013
-  authors: Crumpler & Grossman
-  year: 2008
+  missing_fields: []
+  file: Sources/SRC-000791.md
+- id: SRC-000793
+  authors: 'the Resilience of the Third Sector. VOLUNTAS: International Journal of
+    Voluntary and Nonprofit Organizations, 31, 238 - 249.
+
+    https://doi.org/10.1007/s11266-018-00087-z
+
+    Pennerstorfer, A., Reitzinger, S'
+  year: 2020
   status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000013.md
-- id: SRC-000014
-  authors: Grossman & Levy
-  year: 2024
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000014.md
-- id: SRC-000015
-  authors: Luccasen & Grossman
-  year: 2017
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000015.md
-- id: SRC-000016
-  authors: List et al.
+  missing_fields: []
+  file: Sources/SRC-000793.md
+- id: SRC-000794
+  authors: 'Organizations, 1-15. https://doi.org/10.1007/s11266-020-00234-5
+
+    Reitzinger, S., & Pennerstorfer, A. ('
   year: 2021
   status: stub
+  missing_fields: []
+  file: Sources/SRC-000794.md
+- id: SRC-000795
+  authors: '15, 445 - 466. https://doi.org/10.1007/s11628-021-00447-8
+
+    Schweitzer, R. ('
+  year: 2022
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000795.md
+- id: SRC-000796
+  authors: 'Forschung, 74, 497 - 535. https://doi.org/10.1007/s41471-022-00146-8
+
+    Stötzer, S., Martin, S. F., & Broidl, C. ('
+  year: 2021
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000796.md
+- id: SRC-000797
+  authors: Adam, A.-F., & Fayolle, A. (
+  year: 2015
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000797.md
+- id: SRC-000800
+  authors: Caruana, R., Carrington, M. J., & Chatzidakis, A. (
+  year: 2016
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000800.md
+- id: SRC-000809
+  authors: Jekauc, D., Voelkle, M., Giurgiu, M., & Nigg, C. R. (
+  year: 2024
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000809.md
+- id: SRC-000817
+  authors: Aaker, D.A. and Joachimsthaler, E
+  year: 2000
+  status: stub
   missing_fields:
   - doi
-  - title
-  - journal
-  file: Sources/SRC-000016.md
-- id: SRC-000017
-  authors: Harbaugh
+  file: Sources/SRC-000817.md
+- id: SRC-000820
+  authors: Gronroos, C
+  year: 2000
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000820.md
+- id: SRC-000823
+  authors: Normann, R. and Ramirez, R
+  year: 1993
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000823.md
+- id: SRC-000826
+  authors: Kapferer, J.N
+  year: 2004
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000826.md
+- id: SRC-000828
+  authors: de Chernatony, L. and Riley, F.D.O
   year: 1998
   status: stub
   missing_fields:
   - doi
-  - title
-  - journal
-  file: Sources/SRC-000017.md
-- id: SRC-000018
-  authors: Wilhelm et al.
+  file: Sources/SRC-000828.md
+- id: SRC-000830
+  authors: de Chernatony, L
+  year: 1999
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000830.md
+- id: SRC-000831
+  authors: Simeos, C. and Dib, S
+  year: 2001
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000831.md
+- id: SRC-000832
+  authors: Gulati, S
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000832.md
+- id: SRC-000833
+  authors: Ulrich, D. and Smallwood, N
+  year: 2007
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-000833.md
+- id: SRC-000840
+  authors: Friedman, M., Vanden Abeele, P., & De Vos, K
+  year: 1992
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000840.md
+- id: SRC-000843
+  authors: Sullivan, A
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000843.md
+- id: SRC-000844
+  authors: This content downloaded from 195.78.108.38 on Sun, 22 Jun
   year: 2014
   status: stub
   missing_fields:
   - doi
-  - title
   - journal
-  file: Sources/SRC-000018.md
-- id: SRC-000019
-  authors: Fraser
-  year: 2018
+  file: Sources/SRC-000844.md
+- id: SRC-000845
+  authors: Midlarsky, Elizabeth
+  year: 1991
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000845.md
+- id: SRC-000846
+  authors: SOCIAL PSYCHOLOGY Blood Componentsin the United States, 35:802-12
+  year: 1992
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000846.md
+- id: SRC-000848
+  authors: VolunteerWork."AmericanSociological Review62:694-713. Wuthnow,Robert
+  year: 1991
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000848.md
+- id: SRC-000849
+  authors: Lichang Lee receivedhis Master'sdegreein 1992 and his PhD. degreein 1997
+    fromthe His master'sthesiswas based on of Wisconsin-Madison. of Sociology,University
+    Department overthefirstyear examinedchange
+  year: 1995
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000849.md
+- id: SRC-000850
+  authors: Ministry of Civic Affairs of P.R. China, “Statistic data of civic affairs
+    of China”, http://www.mca.gov.cn
+  year: 2009
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000019.md
-- id: SRC-000020
-  authors: Fraser
-  year: 2022
+  file: Sources/SRC-000850.md
+- id: SRC-000851
+  authors: M. Wang, X.J. Jia, “Development of Chinese NGO”, Management World
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000851.md
+- id: SRC-000852
+  authors: 'M. Zhang, “Public involvement is essence of philanthropy: survey of Chinese
+    philanthropy”, Worker Daily'
+  year: 2006
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000020.md
-- id: SRC-000021
-  authors: Chaabouni et al.
-  year: 2020
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000021.md
-- id: SRC-000022
-  authors: Andreoni
-  year: 1990
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000022.md
-- id: SRC-000023
-  authors: Crumpler & Grossman
-  year: 2008
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000023.md
-- id: SRC-000024
-  authors: Bianchi et al.
-  year: 2023
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000024.md
-- id: SRC-000025
-  authors: Grossman & Levy
-  year: 2024
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000025.md
-- id: SRC-000026
-  authors: Harbaugh et al.
+  file: Sources/SRC-000852.md
+- id: SRC-000853
+  authors: Y. T. Chen, P L. F.an, H. Wu ,”How do the firms drive the development of
+    philanthropy?” http://www.51cmc.com
   year: 2007
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000026.md
-- id: SRC-000027
-  authors: List et al.
+  file: Sources/SRC-000853.md
+- id: SRC-000854
+  authors: 'S. K. Ranganathan, W. H. Henley, “Determinants of charitable donation
+    intentions: A structural equation model”, International Journal of Nonprofit and
+    Voluntary Sector Marketing'
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000854.md
+- id: SRC-000855
+  authors: A. Sargeant, J. B. Ford, D. C. West, “Perceptual determinants of nonprofit
+    giving behavior”, Journal of Business Research
+  year: 2006
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000855.md
+- id: SRC-000856
+  authors: 'A. Sargeant, L. Woodliffe, “Gift giving: an interdisciplinary review”,
+    International Journal of Nonprofit and Voluntary Sector Marketing'
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000856.md
+- id: SRC-000857
+  authors: 'J.S. Glaser, The United Way Scandal – An Insiders Account of What Went
+    Wrong and Why. New York: John Wiley and Sons'
+  year: 1994
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000857.md
+- id: SRC-000858
+  authors: 'A. Sargeant, D. C West, J. B. Ford, “Does perception matter?: An empirical
+    analysis of donor behavior”, The Service Industries Journal'
+  year: 2004
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000858.md
+- id: SRC-000859
+  authors: 'A Sargeant, J. B. Ford, J. Hudson, “Charity Brand Personality: The Relationship
+    With Giving Behavior”, Nonprofit and Voluntary Sector Quarterly'
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000859.md
+- id: SRC-000860
+  authors: 'J. D. Hou, L. Y. Du, Z. L. Tian, “The effects of nonprofit brand equity
+    on individual giving intention: Mediating by the self-concept of individual donor”,
+    International Journal of Nonprofit and Volun'
+  year: 2009
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000860.md
+- id: SRC-000861
+  authors: M. Amos, “Empirical analysis of motives underlying contributions to charity”,
+    Atlantic Economic Journal
+  year: 1982
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000861.md
+- id: SRC-000862
+  authors: 'S.E. Beatty, L.R. Kahl., P. Homer, “Personal values and gift giving behaviors:
+    A study across cultures”, Journal of Business Research'
+  year: 1991
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000862.md
+- id: SRC-000863
+  authors: 'J. Andreoni, “The Economics of Philanthropy”, In International Encyclopedia
+    of the Social and Behavioral Sciences, Smelser N.J., Baltes P.B. Eds. London:
+    Elsevier'
+  year: 2001
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000863.md
+- id: SRC-000864
+  authors: 'A. Sargeant, “Charity giving: Towards a model of donor behavior”, Journal
+    of Marketing Management'
+  year: 1999
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000864.md
+- id: SRC-000865
+  authors: 'P. Kotler, R.N. Clarke, Marketing for Health Care Organizations, NJ: Prentice
+    Hall'
+  year: 1987
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000865.md
+- id: SRC-000866
+  authors: J. Saxton, “A strong charity brand comes from strong beliefs and values”,
+    Journal of Brand Management
+  year: 1996
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000866.md
+- id: SRC-000867
+  authors: J.W Harvey, K.F. McCrohan, “Fundraising costs – Societal implications for
+    philanthropies and their supporters”, Business and Society
+  year: 1988
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000867.md
+- id: SRC-000868
+  authors: 'M. Warwick, Raising Money by Mail: Strategies for Growth and Financial
+    Stability, Berkeley, CA: Strathmoor Press'
+  year: 1994
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-000868.md
+- id: SRC-000869
+  authors: 'B. T. Venable, G. M. Rose, V. D. Bush, F.W. Gilbert, “The role of brand
+    personality in charitable giving: An assessment and validation”, Journal of the
+    Academy of Marketing Science'
+  year: 2005
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000869.md
+- id: SRC-000870
+  authors: 'J. B. Faircloth, “Factors influencing nonprofit resource provider support
+    decisions: Applying the brand equity concept to nonprofits”, Journal of Marketing'
+  year: 2005
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000870.md
+- id: SRC-000871
+  authors: Chaker, A.M
+  year: 2009
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000871.md
+- id: SRC-000872
+  authors: Dato-on, M.C., Keller, E.W., & Shaw, D
+  year: 2008
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000872.md
+- id: SRC-000873
+  authors: ABS
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000873.md
+- id: SRC-000876
+  authors: Hoefﬂer, S. and Keller, K
+  year: 2003
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000876.md
+- id: SRC-000877
+  authors: 'brands: a comparison of Barnardo’s and BBC children in need”, Journal
+    of Product & Brand Management, Vol. 24 No. 2, pp. 134-146. Michaelidou, N., Micevski,
+    M., Kadic-Maglajlic, S., Budhathoki, T. and '
+  year: 2019
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000877.md
+- id: SRC-000879
+  authors: Van Kerckhove, A., Vermeir, I. and Geuens, M
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000879.md
+- id: SRC-000880
+  authors: Balochi, H., Hadizadeh-Talasaz, F., Bahri, N., & Mohammadzadeh, F
+  year: 2023
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000880.md
+- id: SRC-000881
+  authors: Journal of Applied Social Psychology, 43, 201-213. https://doi.org/10.1111/j.1559-1816.2012.00998.x
+    Shaamirova, S., Pulatova, M., & Tursunov, A. B
+  year: 2026
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000881.md
+- id: SRC-000882
+  authors: Torrent Sellens, J., Salazar-Concha, C., Ficapal Cusí, P., & Saigí-Rubió,
+    F
   year: 2021
   status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000027.md
-- id: SRC-000028
-  authors: Wilhelm et al.
-  year: 2014
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000028.md
-- id: SRC-000029
-  authors: Luccasen & Grossman
+  missing_fields: []
+  file: Sources/SRC-000882.md
+- id: SRC-000884
+  authors: Downloaded by Cornell University Library At 02:11 04 July
   year: 2017
   status: stub
   missing_fields:
   - doi
-  - title
   - journal
-  file: Sources/SRC-000029.md
-- id: SRC-000030
-  authors: Fraser
-  year: 2018
+  file: Sources/SRC-000884.md
+- id: SRC-000886
+  authors: Bird, M., Channon, C., and Ehrenberg, A. S. C
+  year: 1970
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000886.md
+- id: SRC-000887
+  authors: Research, Vol 69 No. 11, pp. 5479-5489. Christodoulides, G., Cadogan, J.W.,
+    and Veloutsou, C
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000887.md
+- id: SRC-000888
+  authors: Dobni, D., and Zinkhan, G. M
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000888.md
+- id: SRC-000889
+  authors: of Brand Management, Vol 10 No. 6, pp. 421-445. Hoyer, W.D
+  year: 1984
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000889.md
+- id: SRC-000890
+  authors: Krystallis, A., and Chrysochou, P
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000890.md
+- id: SRC-000891
+  authors: Murray, K.B., and Schlater, J.L
+  year: 1990
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000891.md
+- id: SRC-000892
+  authors: altering brand evaluations”, Journal of Consumer Research, Vol. 17 No.
+    3, pp. 26376. ------, and Hutchinson, J., W
+  year: 1985
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000892.md
+- id: SRC-000894
+  authors: Stocchi, L., Driesener, C., and Nencyz-Thiel, M
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000894.md
+- id: SRC-000895
+  authors: consumer-based brand equity scale”, Journal of Marketing Theory and Practice,
+    Vol 10 No. 1, pp. 46-62. Wright, M., Sharp, A., and Sharp, B
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000895.md
+- id: SRC-000896
+  authors: (adapted from Nedungadi and Hutchinson
+  year: 1985
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000896.md
+- id: SRC-000897
+  authors: Brand image (question based on Dreisener and Romaniuk
+  year: 2006
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000897.md
+- id: SRC-000898
+  authors: Purchase propensity (transformed into market share, based on the rationale
+    of Wright, Sharp and Sharp
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000898.md
+- id: SRC-000900
+  authors: Downloaded from nvs.sagepub.com at GEORGIAN COURT UNIV on March 27
+  year: 2015
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000030.md
-- id: SRC-000031
-  authors: Fraser
+  file: Sources/SRC-000900.md
+- id: SRC-000901
+  authors: Charity Commision UK
+  year: 2012
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000901.md
+- id: SRC-000902
+  authors: Homburg, C., Wieseke, J., Lukas, B. A., & Mikolon, S
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  file: Sources/SRC-000902.md
+- id: SRC-000965
+  authors: Rocha, A., & Monteiro, L
+  year: 2023
+  status: stub
+  missing_fields: []
+  file: Sources/SRC-000965.md
+- id: SRC-000974
+  authors: Metawie, M., & Mostafa, R
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000974.md
+- id: SRC-000977
+  authors: Wu, L
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000977.md
+- id: SRC-000978
+  authors: Anggraeni, Y., & Kuklienė, L
+  year: 2024
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000978.md
+- id: SRC-000979
+  authors: Chapman, C., Louis, W., Masser, B., & Thomas, E
   year: 2022
   status: stub
   missing_fields:
-  - doi
-  - title
   - journal
-  file: Sources/SRC-000031.md
-- id: SRC-000032
-  authors: Chaabouni et al.
+  file: Sources/SRC-000979.md
+- id: SRC-000980
+  authors: Knowles, S., Hyde, M., & White, K
+  year: 2012
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000980.md
+- id: SRC-000981
+  authors: Mittelman, R., & Rojas‐Méndez, J
+  year: 2018
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000981.md
+- id: SRC-000982
+  authors: Van Steenburg, E., & Spears, N
+  year: 2021
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000982.md
+- id: SRC-000983
+  authors: Van Teunenbroek, C., Bekkers, R., & Beersma, B
   year: 2020
+  status: stub
+  missing_fields:
+  - journal
+  file: Sources/SRC-000983.md
+- id: SRC-000994
+  authors: De, D
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000994.md
+- id: SRC-000995
+  authors: Hanaysha, J., Abdullah, H. H., & Ghani, N. H. A
+  year: 2013
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000995.md
+- id: SRC-000999
+  authors: Wu, L
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-000999.md
+- id: SRC-001000
+  authors: De, D
+  year: 2021
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-001000.md
+- id: SRC-001014
+  authors: Jeffrey
+  year: 1965
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000032.md
-- id: SRC-000033
-  authors: Andreoni
+  file: Sources/SRC-001014.md
+- id: SRC-001015
+  authors: Royall
+  year: 1997
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001015.md
+- id: SRC-001016
+  authors: Cohen
+  year: 1994
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001016.md
+- id: SRC-001017
+  authors: Suppe
+  year: 1977
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001017.md
+- id: SRC-001018
+  authors: Mouton & Marais
+  year: 1988
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001018.md
+- id: SRC-001021
+  authors: Eisenhardt
   year: 1989
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000033.md
-- id: SRC-000034
-  authors: Andreoni
+  file: Sources/SRC-001021.md
+- id: SRC-001022
+  authors: Gioia, D. A., Corley, K. G., & Hamilton, A. L.
+  year: 2013
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001022.md
+- id: SRC-001023
+  authors: Ehrlinger, L., & Wöß, W.
+  year: 2016
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001023.md
+- id: SRC-001024
+  authors: Edwards, Lindman & Savage
+  year: 1963
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001024.md
+- id: SRC-001025
+  authors: Goodman
+  year: 1999
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001025.md
+- id: SRC-001028
+  authors: Higgins et al.
+  year: 2019
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001028.md
+- id: SRC-001029
+  authors: Noy, N. F., & McGuinness, D. L.
+  year: 2001
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001029.md
+- id: SRC-001030
+  authors: Strauss & Corbin
   year: 1990
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000034.md
-- id: SRC-000035
-  authors: Crumpler & Grossman
-  year: 2008
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000035.md
-- id: SRC-000036
-  authors: Grossman & Levy
-  year: 2024
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000036.md
-- id: SRC-000037
-  authors: Harbaugh
-  year: 1998
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000037.md
-- id: SRC-000038
-  authors: Harbaugh et al.
-  year: 2007
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000038.md
-- id: SRC-000039
-  authors: Bianchi et al.
-  year: 2023
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000039.md
-- id: SRC-000040
-  authors: Wilhelm et al.
-  year: 2014
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000040.md
-- id: SRC-000041
-  authors: Luccasen & Grossman
-  year: 2017
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000041.md
-- id: SRC-000042
-  authors: List et al.
-  year: 2021
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000042.md
-- id: SRC-000043
-  authors: Fraser
-  year: 2018
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000043.md
-- id: SRC-000044
-  authors: Fraser
-  year: 2022
-  status: stub
-  missing_fields:
-  - doi
-  - title
-  - journal
-  file: Sources/SRC-000044.md
-- id: SRC-000045
-  authors: Chaabouni et al.
+  file: Sources/SRC-001030.md
+- id: SRC-001031
+  authors: Röver
   year: 2020
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000045.md
-- id: SRC-000046
-  authors: Gråd et al.
+  file: Sources/SRC-001031.md
+- id: SRC-001034
+  authors: Merton, R. K.
+  year: 1968
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001034.md
+- id: SRC-001035
+  authors: Howson & Urbach
+  year: 2006
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001035.md
+- id: SRC-001039
+  authors: Tamma, V. A. M.
+  year: 2001
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001039.md
+- id: SRC-001040
+  authors: Higgins & Spiegelhalter
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001040.md
+- id: SRC-001041
+  authors: Andreoni, J.
+  year: 1989
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001041.md
+- id: SRC-001042
+  authors: Andreoni, J.
+  year: 1990
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001042.md
+- id: SRC-001043
+  authors: Chan, M., & Feldman, G.
+  year: 2025
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001043.md
+- id: SRC-001044
+  authors: Chapman, C., Louis, W., Masser, B., & Thomas, E. F.
+  year: 2022
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001044.md
+- id: SRC-001045
+  authors: Etheredge, H.
+  year: 2021
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001045.md
+- id: SRC-001046
+  authors: Eyigunlu, M.
+  year: 2023
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001046.md
+- id: SRC-001047
+  authors: Faseur, T., De Bock, T., & Timmermans, G.
+  year: 2025
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001047.md
+- id: SRC-001048
+  authors: Ferrara, I., & Missios, P.
+  year: 2020
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001048.md
+- id: SRC-001049
+  authors: Gabriel, I.
+  year: 2017
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001049.md
+- id: SRC-001050
+  authors: Glazer & Konrad
+  year: 1996
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001050.md
+- id: SRC-001051
+  authors: Harvey, C., Gordon, J., & Maclean, M.
+  year: 2020
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001051.md
+- id: SRC-001052
+  authors: Hill, T. E.
+  year: 2021
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001052.md
+- id: SRC-001053
+  authors: Hou, J., Du, L., & Tian, Z.
+  year: 2009
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001053.md
+- id: SRC-001054
+  authors: Jaafar, S. B.
+  year: 2025
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001054.md
+- id: SRC-001055
+  authors: Martin, M. W.
+  year: 1994
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-001055.md
+- id: SRC-001056
+  authors: McGoey, L.
+  year: 2021
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001056.md
+- id: SRC-001057
+  authors: Mukherjee, S.
+  year: 2013
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001057.md
+- id: SRC-001058
+  authors: Pearlman, S.
+  year: 2023
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001058.md
+- id: SRC-001059
+  authors: Sargeant, A., Ford, J. B., & Hudson, J.
+  year: 2008
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001059.md
+- id: SRC-001060
+  authors: Small, D. A., Loewenstein, G., & Slovic, P.
+  year: 2007
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001060.md
+- id: SRC-001061
+  authors: White, K., Habib, R., & Hardisty, D. J.
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-001061.md
+- id: SRC-001062
+  authors: Silke Boenigk, Amelie Knaus, Laura Hesse, Carolin Saltzmann, Tom Neukirchen
+  year: 2025
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-001062.md
+- id: SRC-001063
+  authors: Keyt, J., Yavas, U., & Riecken, G.
+  year: 2002
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001063.md
+- id: SRC-001064
+  authors: Schlegelmilch, B. B., Diamantopoulos, A., & Love, A.
+  year: 1997
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001064.md
+- id: SRC-001065
+  authors: Sargeant, A., Ford, J., & West, D.
+  year: 2000
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001065.md
+- id: SRC-001066
+  authors: Andreoni, James
+  year: 1989
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001066.md
+- id: SRC-001067
+  authors: Andreoni, James
+  year: 1990
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001067.md
+- id: SRC-001068
+  authors: Bekkers, René & Wiepking, Pamala
+  year: 2010
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001068.md
+- id: SRC-001069
+  authors: Berkey, Brian
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001069.md
+- id: SRC-001070
+  authors: Cordelli, Chiara
+  year: 2016
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001070.md
+- id: SRC-001071
+  authors: Cordelli, Chiara
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001071.md
+- id: SRC-001072
+  authors: Darwall, Stephen
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001072.md
+- id: SRC-001073
+  authors: Friedman, Milton
+  year: 1970
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001073.md
+- id: SRC-001074
+  authors: Heath, Joseph
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001074.md
+- id: SRC-001075
+  authors: Hill, Jr., Thomas E.
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001075.md
+- id: SRC-001076
+  authors: Lechterman, T. M.
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001076.md
+- id: SRC-001077
+  authors: Lechterman, T. M., Saunders-Hastings, E., & Reich, R.
+  year: 2024
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001077.md
+- id: SRC-001078
+  authors: MacAskill, William
+  year: 2019
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001078.md
+- id: SRC-001079
+  authors: Mauss, Marcel
+  year: 1990
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001079.md
+- id: SRC-001080
+  authors: Nozick, Robert
+  year: 1974
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001080.md
+- id: SRC-001081
+  authors: Pettit, Philip
+  year: 1997
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001081.md
+- id: SRC-001082
+  authors: Pevnick, Ryan
+  year: 2013
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001082.md
+- id: SRC-001083
+  authors: Pevnick, Ryan
+  year: 2016
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001083.md
+- id: SRC-001084
+  authors: Reich, Rob
+  year: 2018
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001084.md
+- id: SRC-001085
+  authors: Rubenstein, Jennifer
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001085.md
+- id: SRC-001086
+  authors: Saunders-Hastings, Emma
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001086.md
+- id: SRC-001087
+  authors: Setiya, Kieran
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001087.md
+- id: SRC-001088
+  authors: Singer, Peter
+  year: 1972
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001088.md
+- id: SRC-001089
+  authors: Singer, Peter
+  year: 2019
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001089.md
+- id: SRC-001090
+  authors: Small, Deborah A., Loewenstein, George & Slovic, Paul
+  year: 2007
+  status: active
+  missing_fields:
+  - doi
+  file: Sources/SRC-001090.md
+- id: SRC-001091
+  authors: Tarsney, Christian
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001091.md
+- id: SRC-001092
+  authors: Taylor, Robert S.
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001092.md
+- id: SRC-001093
+  authors: Keller
+  year: 2026
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  file: Sources/SRC-001093.md
+- id: SRC-001094
+  authors: Keller et al.
+  year: 2002
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001094.md
+- id: SRC-001095
+  authors: Woodside & Walser
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001095.md
+- id: SRC-001096
+  authors: Bekkers et al.
+  year: 2026
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001096.md
+- id: SRC-001097
+  authors: Simmons, Nelson & Simonsohn
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001097.md
+- id: SRC-001098
+  authors: Gelman & Loken
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001098.md
+- id: SRC-001099
+  authors: Nuijten et al.
+  year: 2016
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001099.md
+- id: SRC-001100
+  authors: Ferguson & Heene
+  year: 2012
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001100.md
+- id: SRC-001101
+  authors: Franco et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001101.md
+- id: SRC-001102
+  authors: O’Boyle et al
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001102.md
+- id: SRC-001103
+  authors: Chopra et al.
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001103.md
+- id: SRC-001104
+  authors: Muradchanian et al.
+  year: 2023
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001104.md
+- id: SRC-001105
+  authors: Fanelli
+  year: 2010
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001105.md
+- id: SRC-001106
+  authors: Fanelli
+  year: 2012
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001106.md
+- id: SRC-001107
+  authors: Schäfer & Schwarz
+  year: 2019
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001107.md
+- id: SRC-001108
+  authors: Rosenthal
+  year: 1979
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001108.md
+- id: SRC-001109
+  authors: Open Science Collaboration
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001109.md
+- id: SRC-001110
+  authors: Camerer et al.
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001110.md
+- id: SRC-001111
+  authors: Tyner et al.
+  year: 2026
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001111.md
+- id: SRC-001112
+  authors: Ioannidis, Stanley, & Doucouliagos
+  year: 2017
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001112.md
+- id: SRC-001113
+  authors: Kvarven, Strømland & Johannesson
+  year: 2020
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001113.md
+- id: SRC-001114
+  authors: Smith
+  year: 2010
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001114.md
+- id: SRC-001115
+  authors: Stephen
+  year: 2022
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001115.md
+- id: SRC-001116
+  authors: Hopewell et al.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001116.md
+- id: SRC-001117
+  authors: Brembs
+  year: 2018
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001117.md
+- id: SRC-001118
+  authors: Nuijten & Epskamp
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001118.md
+- id: SRC-001119
+  authors: Lakens & DeBruine
+  year: 2026
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001119.md
+- id: SRC-001120
+  authors: Bekkers & Wiepking
+  year: 2007
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001120.md
+- id: SRC-001121
+  authors: Retraction Watch
+  year: 2024
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001121.md
+- id: SRC-001122
+  authors: Chatterjee et al.
+  year: 2013
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001122.md
+- id: SRC-001123
+  authors: Sanna et al.
+  year: 2011
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001123.md
+- id: SRC-001124
+  authors: Wang et al.
+  year: 2012
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001124.md
+- id: SRC-001125
+  authors: Decety et al.
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001125.md
+- id: SRC-001126
+  authors: Shariff et al.
+  year: 2016
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001126.md
+- id: SRC-001127
+  authors: Bekkers, R., and others
+  year: 2026
+  status: stub
+  missing_fields:
+  - doi
+  - journal
+  file: Sources/SRC-001127.md
+- id: SRC-001128
+  authors: Newman, G. & Shen, Y. J.
+  year: 2012
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001128.md
+- id: SRC-001129
+  authors: Lesner, M. & Rasmussen, M.
+  year: 2014
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001129.md
+- id: SRC-001130
+  authors: Trachtman, H., and others
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001130.md
+- id: SRC-001131
+  authors: Adena, M. & Huck, S.
+  year: 2019
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001131.md
+- id: SRC-001132
+  authors: Grieder, M., Schmitz, J., & Schubert, C.
   year: 2021
   status: stub
   missing_fields:
   - doi
   - title
   - journal
-  file: Sources/SRC-000046.md
+  file: Sources/SRC-001132.md
+- id: SRC-001133
+  authors: Lamberaa, M. & Riener, G.
+  year: 2015
+  status: stub
+  missing_fields:
+  - doi
+  - title
+  - journal
+  file: Sources/SRC-001133.md

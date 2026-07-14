@@ -1,0 +1,41 @@
+---
+title: "Einführung"
+---
+
+# Über das BEBA-OS Systemhandbuch
+
+Dieses Handbuch dokumentiert das **BEBA Research Operating System (BEBA-OS)** — die technische und wissenschaftliche Infrastruktur der Dissertation *Nonprofit Brand Equity as a Brand-Enabled Behaviour Architecture (BEBA)*.
+
+## Zweck
+
+Dieses Dokument richtet sich an:
+
+- **Gerald Czech** als primären Nutzer und Forscher
+- **KI-Agenten** (Claude Code und ähnliche Systeme), die im Repository arbeiten
+- Zukünftige Mitarbeitende, die das System übernehmen oder erweitern
+
+## Prinzip
+
+> Git ist die Forschungswahrheit. Was nicht committed ist, existiert nicht.
+
+KI-Modelle sind austauschbare Linsen. Theorie, Begriffe und Entscheidungen werden im Repository versioniert — nicht in Chatverläufen.
+
+## Wie dieses Handbuch zu lesen ist
+
+| Kapitel | Inhalt |
+|---|---|
+| Vision | Was BEBA-OS ist und warum es so gebaut ist |
+| Grundprinzipien | Invariante Regeln für Mensch und KI |
+| Gesamtarchitektur | Die drei Repositorien und ihre Abgrenzung |
+| Verzeichnisstruktur | Vollständiger Verzeichnisbaum |
+| Knowledge Objects | Alle Wissensbausteine mit Feldbeschreibungen |
+| Literaturpipeline | Die 7 Verarbeitungsschritte |
+| Ingestion | Wie neue Literatur ins System kommt |
+| AI-Architektur | Provider, Dispatcher, Routing |
+| Prompts | Prompt-Loader und Protokolle |
+| Qualitätssicherung | Validator, Regression, YAML |
+| Bibliographie | Sources, BibTeX, master.bib |
+| Evidenzmodell | Strukturiertes Evidenzformat |
+| Roadmap | Umgesetzte und geplante Funktionen |
+| ADRs | Architecture Decision Records |
+| Glossar | Kanonische Begriffe |

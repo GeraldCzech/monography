@@ -1,0 +1,73 @@
+project:
+  type: book
+  output-dir: _html
+
+book:
+  title: "BEBA — Nonprofit Brand Equity als verhaltenssteuernde Architektur"
+  subtitle: "Arbeitsdokument der Dissertation"
+  author: "Gerald Czech"
+  date: "2026-07-05"
+  language: de
+  repo-url: https://github.com/GeraldCzech/monography
+  chapters:
+    - index.qmd
+
+    - part: "Forschungsprogramm"
+      chapters:
+        - 00_MASTER_OUTLINE.md
+        - 01_THEORETICAL_MAP.md
+        - RESEARCH_COMPASS.md
+        - RESEARCH_STATUS.md
+        - RESEARCH_DASHBOARD.md
+
+    - part: "Kapitelentwürfe"
+      chapters:
+        - 05_Chapters/01_introduction.md
+        - 05_Chapters/02_charitable_decisions_under_uncertainty.md
+
+    - part: "Research Compass"
+      chapters:
+        - 09_ResearchCompass/chapter-01.md
+        - 09_ResearchCompass/chapter-02.md
+        - 09_ResearchCompass/chapter-03.md
+        - 09_ResearchCompass/chapter-04.md
+
+    - part: "Wissensbasis-Referenz"
+      chapters:
+        - ConstructLedger.md
+        - glossary.md
+
+    - part: "Architecture Decision Records"
+      chapters:
+        - 10_ADRs/ADR-0001-repo-as-source-of-truth.md
+        - 10_ADRs/ADR-0002-separate-empirical-pipeline.md
+
+    - part: "BEBA-OS Systemhandbuch"
+      chapters:
+        - docs/BEBA-OS/index.qmd
+        - docs/BEBA-OS/00_Vision.md
+        - docs/BEBA-OS/01_Grundprinzipien.md
+        - docs/BEBA-OS/02_Gesamtarchitektur.md
+        - docs/BEBA-OS/03_Verzeichnisstruktur.md
+        - docs/BEBA-OS/04_Knowledge_Objects.md
+        - docs/BEBA-OS/05_Literaturpipeline.md
+        - docs/BEBA-OS/06_Ingestion.md
+        - docs/BEBA-OS/07_AI_Architektur.md
+        - docs/BEBA-OS/08_Prompts.md
+        - docs/BEBA-OS/09_Qualitaetssicherung.md
+        - docs/BEBA-OS/10_Bibliographie.md
+        - docs/BEBA-OS/11_Evidenzmodell.md
+        - docs/BEBA-OS/12_Roadmap.md
+        - docs/BEBA-OS/13_Architecture_Decision_Records.md
+        - docs/BEBA-OS/14_Glossar.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 2
+    lang: de
+    code-fold: false
+    link-external-icon: false

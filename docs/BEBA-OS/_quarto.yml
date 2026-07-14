@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: _html
+
+book:
+  title: "BEBA-OS Systemhandbuch"
+  subtitle: "Betriebsdokumentation für Gerald Czech und KI-Agenten"
+  author: "Gerald Czech"
+  date: "2026-07-05"
+  language: de
+  chapters:
+    - index.qmd
+    - 00_Vision.md
+    - 01_Grundprinzipien.md
+    - 02_Gesamtarchitektur.md
+    - 03_Verzeichnisstruktur.md
+    - 04_Knowledge_Objects.md
+    - 05_Literaturpipeline.md
+    - 06_Ingestion.md
+    - 07_AI_Architektur.md
+    - 08_Prompts.md
+    - 09_Qualitaetssicherung.md
+    - 10_Bibliographie.md
+    - 11_Evidenzmodell.md
+    - 12_Roadmap.md
+    - 13_Architecture_Decision_Records.md
+    - 14_Glossar.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    lang: de

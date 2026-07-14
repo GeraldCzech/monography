@@ -1,0 +1,99 @@
+review_id: REVIEW-000064
+source_file: /home/gerald/research/literature/markdown/Does non-profit brand image
+  mean the same across cultures_ An exploratory evaluation of non-profit brand image
+  in three countries.md
+stem: Does non-profit brand image mean the same across cultures_ An exploratory evaluation
+  of non-profit brand image in three countries
+started: '2026-07-11T20:15:04.600181+00:00'
+finished: '2026-07-11T20:15:04.600238+00:00'
+decisions:
+- obj_type: claims
+  obj_id: NP-000002
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NP-000002.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600197+00:00'
+  notes: ''
+- obj_type: claims
+  obj_id: NP-000003
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NP-000003.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600202+00:00'
+  notes: ''
+- obj_type: claims
+  obj_id: NP-000004
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NP-000004.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600205+00:00'
+  notes: ''
+- obj_type: claims
+  obj_id: NP-000005
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NP-000005.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600208+00:00'
+  notes: ''
+- obj_type: claims
+  obj_id: NP-000006
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Claims/NP-000006.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600210+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001548
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001548.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600213+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001549
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001549.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600215+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001550
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001550.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600218+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001551
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001551.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600220+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001552
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001552.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600222+00:00'
+  notes: ''
+- obj_type: evidence
+  obj_id: EVID-001553
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Evidence/EVID-001553.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600225+00:00'
+  notes: ''
+- obj_type: sources
+  obj_id: SRC-000303
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000303.md
+  decision: rejected
+  timestamp: '2026-07-11T20:15:04.600227+00:00'
+  notes: ''
+- obj_type: sources
+  obj_id: SRC-000211
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Sources/SRC-000211.md
+  decision: accepted
+  timestamp: '2026-07-11T20:15:04.600229+00:00'
+  notes: ''
+- obj_type: theory
+  obj_id: Does_non_profit_brand_image_mean_the_same_across_cultures_An_exploratory_evaluation_of_non_profit_brand_image_in_three_countries
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Theory_Integration/Does_non_profit_brand_image_mean_the_same_across_cultures_An_exploratory_evaluation_of_non_profit_brand_image_in_three_countries.md
+  decision: skipped
+  timestamp: '2026-07-11T20:15:04.600232+00:00'
+  notes: ''
+- obj_type: ontology
+  obj_id: Does_non_profit_brand_image_mean_the_same_across_cultures_An_exploratory_evaluation_of_non_profit_brand_image_in_three_countries
+  file: /home/gerald/research/monography/02_Theory/Knowledge/Ontology_Candidates/Does_non_profit_brand_image_mean_the_same_across_cultures_An_exploratory_evaluation_of_non_profit_brand_image_in_three_countries.md
+  decision: skipped
+  timestamp: '2026-07-11T20:15:04.600234+00:00'
+  notes: ''

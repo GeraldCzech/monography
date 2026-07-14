@@ -1,1 +1,4 @@
 .context/
+
+/.quarto/
+**/*.quarto_ipynb

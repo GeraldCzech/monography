@@ -1,617 +1,918 @@
 ---
 concept: Warm_Glow_Giving
-review: REVIEW-000005
-claim_count: 14
+review: REVIEW-000001
+claim_count: 18
 claim_ids:
-- WG-000026
-- WG-000027
-- IA-000001
-- SI-000001
-- SI-000002
-- SI-000003
-- AR-000001
-- WG-000028
-- WG-000029
-- WG-000030
+- BE-000001
+- BE-000002
+- A-000001
+- A-000002
+- A-000003
+- PB-000001
+- PB-000002
+- PB-000003
+- BI-000001
+- BI-000002
 - S-000001
-- WG-000031
-- CA-000001
-- N-000001
-status: candidate
+- BE-000003
+- TR-000001
+- CD-000001
+- CD-000002
+- CD-000003
+- CD-000004
+- CD-000005
+status: accepted
+review_status: reviewed
+reviewed_at: '2026-07-05T20:25:11.772805+00:00'
+reviewed_by: human
 ---
 
 # Input Reviewed
 
-Reviewed candidate claim set on **Warm Glow Giving / Impure Altruism / Self-Image Motivation / Social-Image Motivation / Affective Response to Giving / Skepticism / Choice Architecture / Nudging**, including claims:
+Candidate claim set `REVIEW-000001` concerning integration of customer-based brand equity constructs with IBM/TPB-style behavioural models.
 
-- WG-000026 to WG-000031
-- IA-000001
-- SI-000001 to SI-000003
-- AR-000001
-- S-000001
-- CA-000001
-- N-000001
+The reviewed claims cover:
 
-Source base: SRC-000033 to SRC-000046.  
-Review: REVIEW-000005.  
-Status: candidate.
+- Brand equity as a multidimensional construct
+- Brand image, associations, personality as antecedents of attitude
+- Awareness, trust, perceived quality as antecedents of perceived behavioural control
+- Direct and indirect effects of brand equity on behavioural intention
+- Satisfaction as partial mediator
+- Trust as a central relational dimension
+- Configural/processual representations of brand equity
+- Contextual moderators including culture, price perception, demographics, omnichannel quality, and ecological consciousness
+
+Object type reviewed: **Claim set / theory integration candidate**  
+Status of input: **candidate**  
+Primary BEBA relevance: **Individual behavioural enablement under uncertainty**
+
+---
 
 # Core Theoretical Implication
 
-The reviewed claim set strengthens BEBA by identifying **warm glow** as a central individual-level behavioural reinforcement mechanism through which nonprofit brands can become behaviourally effective even when donors cannot verify, observe, or causally assess beneficiary outcomes.
+The claim set strengthens BEBA’s central proposition that brand equity should not be treated merely as a perceptual marketing asset, but as a **behaviour-enabling architecture** that can shape behavioural intention through multiple routes.
 
-The core implication is that nonprofit brand equity should not be theorised only as trust, awareness, reputation, perceived impact, or relational attachment. It must also account for the donor’s private utility from the act of giving itself.
+The strongest theoretical implication is that nonprofit brand equity may operate in three ways:
 
-This supports BEBA’s behavioural premise:
+1. **Upstream antecedent route**  
+   Brand equity dimensions influence deliberative behavioural constructs such as attitude and perceived behavioural control.
 
-> Nonprofit brands become effective not only by representing organisational quality or social impact, but by structuring, cueing, legitimising, and reinforcing behaviour under uncertainty.
+2. **Direct enablement route**  
+   Overall brand equity may affect behavioural intention beyond standard IBM/TPB constructs.
 
-Warm glow provides a mechanism by which giving can remain behaviourally attractive even when:
+3. **Relational uncertainty-reduction route**  
+   Trust, perceived quality, and satisfaction appear to reduce perceived uncertainty about whether acting with, for, or through the organisation is worthwhile, effective, or safe.
 
-- marginal impact is objectively absent or uncertain,
-- outcome information is incomplete,
-- donors cannot directly observe beneficiary effects,
-- giving is partially self-oriented,
-- affective and identity rewards are salient.
+This supports the BEBA framing of nonprofit brands as behavioural infrastructures that help stakeholders act under uncertainty, rather than merely as symbolic identities or reputational assets.
 
-However, the claim set also introduces important qualifications. Warm glow is not a universal or unlimited mechanism. It is moderated by observability, income source, perceived authenticity, religious or moral obligation structures, choice architecture, and possibly the framing of donation size in cause-related marketing contexts.
+---
 
 # BEBA Layer Affected
 
 ## Primary Layer: Individual
 
-The strongest implications are at the **Individual** layer.
+Most claims operate at the individual stakeholder level:
 
-Affected individual-level mechanisms include:
+- Attitude formation
+- Perceived behavioural control
+- Behavioural intention
+- Trust
+- Satisfaction
+- Brand awareness
+- Brand associations
+- Brand image
+- Perceived quality
 
-- affective reinforcement,
-- private utility,
-- self-image motivation,
-- social-image motivation,
-- identity-consistent action,
-- donation decision initiation,
-- donation amount escalation,
-- behavioural persistence under impact uncertainty.
-
-Warm glow helps explain why individuals may donate even when they cannot establish a direct relationship between their contribution and measurable beneficiary outcomes.
+These affect how stakeholders evaluate, understand, and enact brand-related behaviours.
 
 ## Secondary Layer: Organisational
 
-The claim set also affects the **Organisational** layer because nonprofit organisations and brands can make warm glow more or less salient through:
+The claim `BE-000003` introduces a configural understanding of brand equity as consisting of:
 
-- fundraising appeal design,
-- emotional self-benefit framing,
-- donor recognition practices,
-- public/private giving architectures,
-- nudges,
-- choice architecture,
-- brand touchpoint design.
+- Brand building
+- Brand understanding
+- Brand relationship blocks
 
-This suggests that warm glow is not merely an individual trait or internal psychological state. It can be **activated, amplified, inhibited, or redirected** through organisational brand architecture.
+This supports BEBA’s architectural interpretation of brand equity as a structured organisational capability rather than a single stakeholder perception.
 
-## Tertiary Layer: Market
+## Secondary Layer: Societal / Contextual
 
-The claim on cause-related marketing suggests a **Market**-level qualification. In commercial–prosocial contexts, visible prosocial commitments can produce skepticism or cooling effects. This matters for BEBA because nonprofit brand effectiveness may differ when the brand is embedded in hybrid market arrangements, corporate partnerships, or cause-related marketing campaigns.
+The context dependency claims indicate that BEBA should account for moderation by:
 
-## Tertiary Layer: Societal
+- Culture
+- Stakeholder demographics
+- Value orientations
+- Economic perception
+- Channel environment
 
-The claim concerning religious or moral obligations affects the **Societal** layer. In strong moral, religious, or institutional giving regimes, standard warm glow models may lose explanatory power or require modification. Giving may be driven less by private affective reward and more by obligation, duty, norm compliance, or institutionalised moral identity.
+This affects BEBA’s boundary conditions and prevents universalist claims about nonprofit brand effectiveness.
+
+---
 
 # Existing Claims Supported
 
-The claim set supports several likely BEBA assumptions and theoretical commitments.
+Based on the provided claim set, the following BEBA assumptions are supported.
 
-## 1. Behaviour before brand
-
-Supported by:
-
-- WG-000026
-- WG-000027
-- IA-000001
-- AR-000001
-
-Warm glow supports the BEBA principle that nonprofit brands matter because they enable behaviour, not merely because they generate favourable attitudes.
-
-The donor’s behaviour may be reinforced by the act of giving itself, independent of verified public-good provision.
-
-## 2. Brand equity as behavioural architecture
+## 1. Brand equity improves behavioural explanation beyond standard behavioural models
 
 Supported by:
 
-- WG-000029
-- SI-000001
-- SI-000002
-- SI-000003
-- CA-000001
-- N-000001
+- `BE-000001`
+- `BI-000001`
+- `BI-000002`
 
-The reviewed claims support the idea that brand equity can be understood as an architecture that shapes behavioural conditions. Nonprofit brands can make giving emotionally rewarding, identity-consistent, socially visible, easy to enact, and normatively appropriate.
+The reviewed claims support the proposition that integrating brand equity into IBM/TPB-type frameworks improves explanation of behavioural intention.
 
-## 3. Effectiveness under uncertainty
+## 2. Nonprofit brand equity should be treated as multidimensional
 
 Supported by:
 
-- WG-000026
-- WG-000027
-- IA-000001
+- `BE-000002`
+- `BE-000003`
+- `TR-000001`
 
-Warm glow directly supports BEBA’s current research question:
+The evidence supports an architectural interpretation of brand equity as a configuration of perceptual, relational, quality-related, and processual dimensions.
 
-> How do nonprofit brands become behaviourally effective under conditions of uncertainty?
-
-If donors derive private utility from giving, then nonprofit brands do not need to fully eliminate uncertainty in order to enable action. They can reduce behavioural hesitation by making the act of giving feel meaningful, identity-consistent, emotionally rewarding, or socially valued.
-
-## 4. Nonprofit brand effectiveness is not reducible to objective impact
+## 3. Brand perceptions shape behavioural evaluations before intention formation
 
 Supported by:
 
-- WG-000026
-- WG-000027
-- IA-000001
+- `A-000001`
+- `A-000002`
+- `A-000003`
 
-The evidence suggests that donation behaviour cannot be explained solely by perceived or actual beneficiary outcomes. Donors may act even when their marginal contribution has no impact on total funds received by the charity.
+Brand image, associations, and personality appear to influence attitudes toward brand-related behaviours.
 
-This supports BEBA’s distinction between:
-
-- objective outcome impact,
-- perceived impact,
-- behavioural reinforcement,
-- symbolic/identity value,
-- affective donor reward.
-
-## 5. Donor-centred psychological rewards matter
+## 4. Brand equity may reduce behavioural friction
 
 Supported by:
 
-- IA-000001
-- SI-000001
-- SI-000002
-- AR-000001
+- `PB-000001`
+- `PB-000002`
+- `PB-000003`
 
-The claim set supports a model in which nonprofit brand equity depends partly on whether the brand enables donors to experience themselves as moral, generous, socially valued, or emotionally rewarded actors.
+Awareness, trust, and perceived quality may influence perceived behavioural control, suggesting that brand equity can make action feel more possible, effective, or manageable.
+
+## 5. Trust is central to nonprofit brand-enabled behaviour under uncertainty
+
+Supported by:
+
+- `TR-000001`
+- `PB-000002`
+- `S-000001`
+
+Trust appears not only as a brand equity dimension but also as a mechanism through which uncertainty is reduced and behavioural confidence is strengthened.
+
+## 6. BEBA requires contextual moderation
+
+Supported by:
+
+- `CD-000001`
+- `CD-000002`
+- `CD-000003`
+- `CD-000004`
+- `CD-000005`
+
+The claim set supports a context-sensitive rather than universal model of nonprofit brand effectiveness.
+
+---
 
 # Existing Claims Challenged
 
-## 1. Challenge to purely impact-based nonprofit brand equity
+No direct contradiction to BEBA is present in the reviewed material. However, several claims qualify or constrain BEBA’s stronger assumptions.
 
-The warm glow claim set challenges any BEBA formulation that treats nonprofit brand equity as primarily or exclusively dependent on perceived organisational effectiveness, measurable beneficiary outcomes, or impact credibility.
+## 1. Direct brand equity effects should not be assumed to dominate
 
-WG-000026 and WG-000027 indicate that donation can occur independently of marginal public-good provision.
+`BI-000002` suggests that brand equity works both directly and indirectly through IBM/TPB constructs. This challenges any overly simple BEBA claim that brand equity primarily bypasses deliberative behavioural mechanisms.
 
-Implication:
+## 2. Brand equity may require stakeholder experience to sustain behaviour
 
-> Impact perception is important, but it is not sufficient as the sole explanatory mechanism for nonprofit brand effectiveness.
+`S-000001` suggests that satisfaction partially mediates the relationship between brand equity and behavioural outcomes. This qualifies a purely perception-based model and implies that brand equity may depend on confirmatory experiences.
 
-## 2. Challenge to pure altruism assumptions
+## 3. Brand effectiveness is contingent
 
-IA-000001 challenges any assumption that charitable behaviour is primarily motivated by pure altruism.
+The context dependency claims challenge any universal BEBA formulation. Cultural, demographic, channel, economic, and value-based factors may change which brand equity dimensions matter most.
 
-The reviewed claims suggest that donors often combine:
+## 4. Commercial brand equity evidence may not transfer directly to nonprofit settings
 
-- concern for beneficiaries,
-- self-image reward,
-- emotional reward,
-- social-image reward,
-- identity affirmation.
+The claims appear to rely on customer-based brand equity and consumer behavioural models. Their transfer to nonprofit stakeholder behaviour is theoretically plausible but should remain conditional unless nonprofit-specific evidence is available.
 
-Implication:
+Recommended wording:  
+**Not sufficiently covered in the reviewed literature** whether these pathways hold identically for donors, volunteers, beneficiaries, members, or advocacy publics in nonprofit contexts.
 
-> BEBA should avoid modelling donors as either purely altruistic or purely self-interested. The more appropriate candidate mechanism is impure altruism.
-
-## 3. Challenge to linear visibility assumptions
-
-SI-000002, SI-000003, WG-000030, and S-000001 challenge a simple assumption that greater public visibility always strengthens giving.
-
-Visibility may increase social-image motivation, but excessive publicity or perceived inauthenticity may generate skepticism and reduce warm glow.
-
-Implication:
-
-> Observability is ambivalent. It can amplify giving through social signalling, but it can also inhibit giving when it triggers perceived inauthenticity.
-
-## 4. Challenge to universal warm glow models
-
-WG-000031 challenges the generality of standard warm glow models in contexts shaped by strong religious, moral, or institutional obligations.
-
-Implication:
-
-> Warm glow may be less explanatory where giving is structured by duty, obligation, ritual, communal expectation, or religious normativity.
-
-## 5. Challenge to “bigger is better” prosocial signalling
-
-WG-000030 challenges the assumption that larger or more publicised prosocial commitments always produce stronger positive responses.
-
-In cause-related marketing contexts, smaller donation sizes may sometimes generate warm glow more effectively than large, highly publicised donation sizes.
-
-Implication:
-
-> BEBA should distinguish between credible prosocial enablement and over-signalled prosocial display.
+---
 
 # New Candidate Claims
 
-The reviewed material supports several possible BEBA candidate claims.
+## Candidate Claim 1: Brand equity as behavioural augmentation
 
-## Candidate Claim 1: Warm glow as behavioural reinforcement
+**Statement:**  
+Nonprofit brand equity may augment behavioural models by adding perceptual, relational, and quality-related enablers that explain behavioural intention beyond attitude, subjective norms, and perceived behavioural control.
 
-**Claim:** Warm glow functions as an individual-level behavioural reinforcement mechanism through which nonprofit brands can enable giving under uncertainty.
+**Status:** Candidate  
+**Layer:** Individual  
+**Relationship type:** Supports / extends  
+**Confidence:** Medium to high, depending on nonprofit-specific evidence
 
-**Status:** Candidate.  
-**Confidence:** High, based on WG-000026, WG-000027, IA-000001, AR-000001.
+---
 
-## Candidate Claim 2: Nonprofit brands can activate private utility from giving
+## Candidate Claim 2: Trust as uncertainty-reduction mechanism
 
-**Claim:** Nonprofit brands can increase behavioural effectiveness by making the donor’s private emotional, moral, or identity-related benefits from giving salient.
+**Statement:**  
+Trust functions as a central mechanism through which nonprofit brand equity reduces stakeholder uncertainty and increases perceived ability or willingness to act.
 
-**Status:** Candidate.  
-**Confidence:** Medium to high, based on WG-000029, SI-000001, AR-000001.
+**Status:** Candidate  
+**Layer:** Individual  
+**Relationship type:** Foundational  
+**Confidence:** High conceptually; empirical confidence depends on nonprofit-specific evidence
 
-## Candidate Claim 3: Impure altruism is a better behavioural assumption than pure altruism
+---
 
-**Claim:** BEBA should model charitable giving as frequently driven by impure altruism, combining beneficiary-oriented concern with donor-centred psychological reward.
+## Candidate Claim 3: Brand awareness as cognitive availability for action
 
-**Status:** Candidate.  
-**Confidence:** High, based on IA-000001.
+**Statement:**  
+Brand awareness may enable behaviour by increasing the cognitive availability of action opportunities and reducing the effort required to identify a credible organisation or behavioural pathway.
 
-## Candidate Claim 4: Observability has dual effects
+**Status:** Candidate  
+**Layer:** Individual  
+**Relationship type:** Mechanism candidate  
+**Confidence:** Medium
 
-**Claim:** Observability can amplify donation behaviour by activating social-image motivation, but may inhibit warm glow when it triggers perceived inauthenticity or excessive publicity.
+---
 
-**Status:** Candidate.  
-**Confidence:** Medium, based on SI-000002, SI-000003, S-000001, WG-000030.
+## Candidate Claim 4: Perceived quality as efficacy cue
 
-## Candidate Claim 5: Brand-enabled warm glow is bounded by moral-institutional contexts
+**Statement:**  
+Perceived organisational, service, or impact quality may strengthen stakeholder behavioural intention by increasing confidence that action through the nonprofit will be effective.
 
-**Claim:** Warm glow mechanisms are weaker or differently structured in contexts where giving is governed by strong religious, moral, or institutional obligations.
+**Status:** Candidate  
+**Layer:** Individual / Organisational  
+**Relationship type:** Mechanism candidate  
+**Confidence:** Medium
 
-**Status:** Candidate.  
-**Confidence:** Low to medium, based on WG-000031.
+---
 
-## Candidate Claim 6: Choice architecture modifies but does not eliminate warm glow
+## Candidate Claim 5: Satisfaction as confirmation mechanism
 
-**Claim:** Donation behaviour is sensitive to choice architecture, but residual warm glow can persist even when alternative self-benefiting or charity-reducing options are available.
+**Statement:**  
+Satisfaction may mediate or stabilize the relationship between nonprofit brand equity and repeated stakeholder behaviour by confirming prior expectations and reducing future uncertainty.
 
-**Status:** Candidate.  
-**Confidence:** Medium, based on CA-000001.
+**Status:** Candidate  
+**Layer:** Individual  
+**Relationship type:** Qualifies  
+**Confidence:** Medium
 
-## Candidate Claim 7: Nudges and warm glow may be complementary
+---
 
-**Claim:** External nudges can complement warm glow motivations rather than necessarily crowding them out, but the interaction requires careful boundary modelling.
+## Candidate Claim 6: Brand equity as configural architecture
 
-**Status:** Candidate.  
-**Confidence:** Low, based on N-000001.
+**Statement:**  
+Nonprofit brand equity should be modelled as a configuration of brand building, brand understanding, and brand relationship components rather than as a single linear antecedent of intention.
+
+**Status:** Candidate  
+**Layer:** Organisational / Individual  
+**Relationship type:** Foundational  
+**Confidence:** Medium
+
+---
+
+## Candidate Claim 7: Contextual contingency of brand-enabled behaviour
+
+**Statement:**  
+The behavioural effectiveness of nonprofit brand equity is moderated by cultural context, stakeholder characteristics, value orientations, economic perceptions, and channel experience.
+
+**Status:** Candidate  
+**Layer:** Individual / Market / Societal  
+**Relationship type:** Boundary condition  
+**Confidence:** Medium
+
+---
 
 # Boundary Conditions
 
-The reviewed claim set introduces several boundary conditions for BEBA.
+The reviewed claim set introduces several important boundary conditions for BEBA.
 
-## 1. Observability
+## 1. Cultural context
 
-Relevant claims:
+Claim:
 
-- SI-000002
-- SI-000003
+- `CD-000001`
 
-Social-image motivation appears to depend on whether giving is observable. Private giving and public giving should therefore be treated as different behavioural architectures.
+Implication:  
+Brand equity dimensions may not have equal behavioural importance across cultural settings. BEBA should avoid assuming that trust, awareness, perceived quality, or symbolic associations function identically across societies.
 
-BEBA implication:
+## 2. Economic perception
 
-> Public brand touchpoints may activate social-image mechanisms that are absent or weaker in private donation contexts.
+Claim:
 
-## 2. Perceived authenticity
+- `CD-000002`
 
-Relevant claims:
+Implication:  
+Although price perception is more directly commercial than nonprofit-oriented, an analogous nonprofit boundary condition may be **perceived cost of action**, including time, effort, donation amount, reputational exposure, or emotional burden.
 
-- S-000001
-- WG-000030
+## 3. Stakeholder demographics
 
-Warm glow may be reduced when prosocial behaviour appears inauthentic, excessively publicised, or instrumentally self-serving.
+Claim:
 
-BEBA implication:
+- `CD-000003`
 
-> Brand-enabled giving must remain credible. If brand communication overemphasises the donor’s virtue or the organisation’s prosocial display, it may trigger skepticism.
+Implication:  
+Age, income, education, prior experience, religious background, political orientation, or life stage may moderate how brand equity translates into nonprofit behaviour.
 
-## 3. Source of funds
+## 4. Channel integration and digital/hybrid environments
 
-Relevant claim:
+Claim:
 
-- WG-000028
+- `CD-000004`
 
-Donations from earned income may generate stronger warm glow than donations from windfall income.
+Implication:  
+Nonprofit brand equity may become behaviourally effective only when channel experience supports action. Weak donation interfaces, inconsistent messaging, or fragmented volunteer onboarding may weaken the brand-to-behaviour pathway.
 
-BEBA implication:
+## 5. Value-based stakeholder orientation
 
-> The psychological meaning of the donated resource matters. Giving may be more reinforcing when donors perceive the donation as involving personally earned sacrifice.
+Claim:
 
-## 4. Moral or religious obligation
+- `CD-000005`
 
-Relevant claim:
+Implication:  
+Ecological consciousness generalises to a broader BEBA-relevant condition: stakeholders’ moral, social, political, or cause-related orientations may moderate the behavioural effects of nonprofit brand equity.
 
-- WG-000031
+## 6. Behaviour type
 
-In contexts governed by strong giving obligations, warm glow may not be the primary mechanism or may be embedded within a broader duty-based architecture.
+Not sufficiently covered in the reviewed literature.
 
-BEBA implication:
+BEBA should distinguish between:
 
-> BEBA should not assume that all giving is voluntary in the same psychological sense. Obligation-based giving may follow a different behavioural logic.
+- Donating
+- Volunteering
+- Membership
+- Advocacy
+- Service use
+- Recommending
+- Participating
+- Trusting
+- Sharing information
+- Long-term commitment
 
-## 5. Choice architecture
+The brand equity mechanism may differ across these behaviours.
 
-Relevant claim:
+## 7. Stakeholder role
 
-- CA-000001
+Not sufficiently covered in the reviewed literature.
 
-Donation behaviour changes when individuals are given options that alter the moral or financial structure of the decision.
+The same brand equity dimension may function differently for:
 
-BEBA implication:
+- Donors
+- Volunteers
+- Beneficiaries
+- Employees
+- Members
+- Institutional funders
+- Policy actors
+- Local communities
 
-> Brand effects should be studied together with the behavioural choice environment, not as isolated attitudinal effects.
-
-## 6. Cause-related marketing context
-
-Relevant claims:
-
-- WG-000030
-- S-000001
-
-Warm glow effects may behave differently when nonprofit giving is mediated by commercial brands or corporate partnerships.
-
-BEBA implication:
-
-> Hybrid commercial–nonprofit settings may introduce skepticism, attribution problems, and perceived instrumentalisation.
-
-## 7. Donation decision stage
-
-Relevant claims:
-
-- SI-000001
-- SI-000002
-
-Self-image concerns may increase the likelihood of donating, while social-image concerns may increase donation amount among those who have already decided to give.
-
-BEBA implication:
-
-> BEBA should distinguish between mechanisms that affect donation initiation and mechanisms that affect donation magnitude.
+---
 
 # Model Competition Implications
 
-The reviewed claim set has strong implications for competing explanatory models within BEBA.
+The reviewed claims affect BEBA model competition in several ways.
 
-## 1. Impact-based model versus warm-glow model
+## 1. BEBA versus pure IBM/TPB models
 
-The claim set strengthens a competing model in which giving is driven by affective and identity reinforcement rather than by perceived beneficiary impact alone.
+The strongest implication is that pure IBM/TPB models may be underspecified when brand-mediated uncertainty is relevant.
 
-Possible model distinction:
+BEBA adds explanatory constructs such as:
 
-- **Impact Model:** Donors give because they believe their contribution improves beneficiary outcomes.
-- **Warm Glow Model:** Donors give because the act of giving provides private emotional or identity utility.
-- **Impure Altruism Model:** Donors give because both beneficiary concern and private reward are active.
+- Brand trust
+- Awareness
+- Associations
+- Perceived quality
+- Satisfaction
+- Brand relationship strength
 
-BEBA should likely treat the impure altruism model as the stronger baseline than either pure impact or pure warm glow alone.
+This supports model competition between:
 
-## 2. Private reinforcement model versus social signalling model
+- Standard IBM/TPB model
+- Brand equity-augmented IBM/TPB model
+- BEBA architecture model
 
-The distinction between self-image and social-image claims suggests competition between:
+## 2. Direct-effect versus mediated-effect models
 
-- private self-reward mechanisms,
-- public social-signalling mechanisms.
+The evidence supports testing competing pathways:
 
-Private giving may be better explained by self-image and affective reward. Public giving may involve social-image motivation, recognition, status, and observability.
+### Model A: Fully mediated model
 
-## 3. Brand trust model versus behavioural reinforcement model
+Brand equity affects intention only through:
 
-Warm glow introduces a possible bypass around trust-based explanations.
+- Attitude
+- Subjective norms
+- Perceived behavioural control
+- Satisfaction
 
-Donors may give because giving feels good or affirms identity, even when they lack detailed knowledge of organisational effectiveness.
+### Model B: Partially mediated model
 
-This does not make trust irrelevant, but it means trust may not be necessary in all giving situations.
+Brand equity affects intention both directly and indirectly.
 
-## 4. Nudge model versus intrinsic motivation model
+### Model C: Configural BEBA model
 
-N-000001 suggests that nudges do not necessarily crowd out warm glow. This raises a model competition issue:
+Different brand equity dimensions enable behaviour through distinct mechanisms, such as:
 
-- Do nudges substitute for warm glow?
-- Do nudges amplify warm glow?
-- Do nudges operate independently?
-- Do nudges crowd out intrinsic donor reward under some conditions?
+- Awareness → cognitive availability
+- Trust → uncertainty reduction
+- Quality → efficacy belief
+- Associations → meaning alignment
+- Satisfaction → confirmation and retention
 
-Current status: Not sufficiently covered in the reviewed literature.
+The reviewed claims favour at least a **partially mediated** or **configural** interpretation over a simple fully mediated model.
 
-## 5. Moral obligation model versus impure altruism model
+## 3. Universal model versus contingent model
 
-WG-000031 introduces a competing explanation in religious or moral giving contexts.
+The context dependency claims support model competition between:
 
-In these contexts, donation may be better explained by:
+- Universal BEBA model
+- Culturally moderated BEBA model
+- Stakeholder-segment moderated BEBA model
+- Channel-contingent BEBA model
+- Value-orientation moderated BEBA model
 
-- obligation,
-- duty,
-- identity embedded in religious or moral community,
-- norm compliance,
-- fear of moral failure,
-- ritualised giving.
+BEBA should therefore include moderation hypotheses or boundary-condition logic rather than only direct structural paths.
 
-This may not invalidate warm glow, but it reduces its sufficiency as a general model.
+## 4. Commercial transfer model versus nonprofit-specific model
+
+The reviewed material appears rooted in customer-based brand equity and consumer behaviour traditions. BEBA should explicitly compete two interpretations:
+
+### Commercial transfer interpretation
+
+Nonprofit brand equity works similarly to commercial customer-based brand equity.
+
+### Nonprofit-specific uncertainty interpretation
+
+Nonprofit brand equity works differently because nonprofit behaviour often involves uncertain impact, moral motivation, weak feedback, asymmetric information, and trust-dependent action.
+
+BEBA’s distinctive contribution lies in the second interpretation.
+
+---
 
 # Ontology Candidate Implications
 
-The reviewed claim set should likely generate or refine several ontology candidates.
+The claim set suggests several ontology candidate implications.
 
-## Candidate Concept: Warm Glow Giving
+## Candidate Concepts to Add or Refine
 
-**Object type:** Concept / Mechanism candidate  
-**Layer:** Individual  
-**Proposed role in BEBA:** Behavioural reinforcement mechanism.
+### 1. Brand Equity
 
-Possible canonical definition candidate:
+Should remain a central construct but be specified as multidimensional and behaviour-enabling.
 
-> Warm glow giving refers to the private utility or positive affective reward that individuals derive from the act of donating, independent of the objective public-good impact of their contribution.
+Possible canonical refinement:
 
-Status should remain candidate until manually reviewed against existing canonical definitions.
+> Nonprofit brand equity is a stakeholder-perceived and organisationally enabled architecture of meanings, trust relations, quality cues, and action affordances that increases the likelihood of stakeholder behaviour under uncertainty.
 
-## Candidate Concept: Impure Altruism
+This is only a candidate formulation and should not replace any canonical definition without glossary and ConstructLedger review.
 
-**Object type:** Concept / Theory-adjacent mechanism candidate  
-**Layer:** Individual  
-**Proposed role in BEBA:** Motivational model combining beneficiary concern and donor-centred reward.
+---
 
-Possible definition candidate:
+### 2. Trust
 
-> Impure altruism refers to charitable motivation in which giving is driven by both concern for beneficiary outcomes and private psychological benefits to the donor.
+Should be treated as a core relational mechanism, not merely as one brand association among others.
 
-## Candidate Concept: Self-Image Motivation
+Candidate role:
 
-**Object type:** Concept / Mechanism candidate  
-**Layer:** Individual  
-**Proposed role in BEBA:** Donation initiation mechanism.
+- Uncertainty-reduction mechanism
+- Relational brand equity dimension
+- Antecedent of perceived behavioural control
+- Possible direct antecedent of behavioural intention
 
-Possible definition candidate:
+---
 
-> Self-image motivation refers to the donor’s desire to act consistently with a valued moral or prosocial self-concept.
+### 3. Perceived Behavioural Control
 
-## Candidate Concept: Social-Image Motivation
+Should be linked to brand-enabled action feasibility.
 
-**Object type:** Concept / Mechanism candidate  
-**Layer:** Individual / Social interaction  
-**Proposed role in BEBA:** Donation magnitude and observability-sensitive signalling mechanism.
+Candidate BEBA-specific interpretation:
 
-Possible definition candidate:
+> Perceived behavioural control captures the stakeholder’s belief that acting with or through the nonprofit is possible, manageable, and likely to be effective.
 
-> Social-image motivation refers to the donor’s desire to be perceived by others as moral, generous, or prosocial.
+---
 
-## Candidate Concept: Observability
+### 4. Brand Awareness
 
-**Object type:** Boundary condition / Contextual moderator  
-**Layer:** Individual / Organisational / Social  
-**Proposed role in BEBA:** Determines whether social-image mechanisms can be activated.
+Should be represented as more than recognition.
 
-Possible definition candidate:
+Candidate BEBA mechanism:
 
-> Observability refers to the degree to which a donor’s giving behaviour is visible to relevant others.
+- Cognitive availability
+- Action-pathway salience
+- Reduction of search effort
 
-## Candidate Concept: Skepticism
+---
 
-**Object type:** Inhibitor / Boundary condition  
-**Layer:** Individual / Market  
-**Proposed role in BEBA:** Reduces or blocks warm glow when prosocial behaviour is perceived as inauthentic or excessively publicised.
+### 5. Perceived Quality
 
-Possible definition candidate:
+Needs nonprofit adaptation.
 
-> Skepticism refers to doubt about the authenticity, motives, or credibility of a prosocial action, appeal, or brand communication.
+Commercial perceived quality should not be imported directly. In nonprofit contexts, relevant forms may include:
 
-## Candidate Relationship: Brand Touchpoint activates Warm Glow
+- Perceived organisational quality
+- Perceived service quality
+- Perceived impact quality
+- Perceived ethical quality
+- Perceived competence
 
-**Object type:** Relationship candidate  
-**Proposed relationship:** Brand communication / fundraising appeal `activates` warm glow.  
-**Supported by:** WG-000029.
+---
 
-## Candidate Relationship: Observability moderates Social-Image Motivation
+### 6. Satisfaction
 
-**Object type:** Relationship candidate  
-**Proposed relationship:** Observability `moderates` the effect of social-image motivation on donation behaviour.  
-**Supported by:** SI-000002, SI-000003.
+Should be considered a confirmation and retention mechanism.
 
-## Candidate Relationship: Skepticism inhibits Warm Glow
+Possible ontology status:
 
-**Object type:** Relationship candidate  
-**Proposed relationship:** Skepticism `inhibits` warm glow.  
-**Supported by:** S-000001, WG-000030.
+- Mediator candidate
+- Post-experience evaluation
+- Repetition-enabling mechanism
 
-## Candidate Relationship: Moral Obligation modifies Warm Glow
+---
 
-**Object type:** Relationship candidate  
-**Proposed relationship:** Moral/religious obligation `modifies` or `competes with` warm glow as an explanation of giving.  
-**Supported by:** WG-000031.
+### 7. Context Dependency
+
+Should likely remain an ontology candidate or relationship class.
+
+Potential subtypes:
+
+- Cultural contingency
+- Stakeholder-segment contingency
+- Channel contingency
+- Value-orientation contingency
+- Economic/action-cost contingency
+
+---
+
+### 8. Behavioural Intention
+
+Should remain distinguished from actual behaviour.
+
+The reviewed claims concern intention; BEBA should avoid overclaiming actual behavioural effects unless verified behavioural data are available.
+
+---
 
 # Recommendation
 
-## 1. Integrate warm glow as a candidate BEBA mechanism
+## Integration Recommendation
 
-Warm glow should be treated as a serious candidate mechanism within the BEBA architecture, especially at the Individual layer.
+Integrate this claim set into BEBA as a **candidate theory integration memo** supporting the individual-layer mechanism of brand-enabled behavioural intention.
 
 Recommended status:
 
-> Candidate mechanism for explaining nonprofit brand-enabled giving under uncertainty.
+> Candidate support for BEBA’s individual-level behavioural enablement architecture, especially the proposition that nonprofit brand equity operates through both deliberative behavioural constructs and direct uncertainty-reduction mechanisms.
 
-It should not yet be made canonical unless the repository’s existing theory files and glossary are updated through the appropriate review process.
+## Recommended Theoretical Use
 
-## 2. Use impure altruism as the preferred motivational framing
+Use this material to strengthen the following BEBA arguments:
 
-BEBA should avoid a binary opposition between altruism and self-interest. The reviewed claim set supports **impure altruism** as the more theoretically useful framing.
+1. Brand equity can improve behavioural explanation beyond standard IBM/TPB models.
+2. Nonprofit brand equity should be modelled as multidimensional.
+3. Trust should be central in BEBA.
+4. Brand equity may affect both attitude and perceived behavioural control.
+5. BEBA should model direct, mediated, and moderated pathways.
+6. Context matters; nonprofit brand effectiveness is not universal.
+7. Commercial brand equity evidence should be translated cautiously into nonprofit theory.
 
-Recommended formulation:
+## Recommended Caution
 
-> Nonprofit giving often combines perceived beneficiary benefit with donor-centred affective, moral, identity, or social rewards.
+Do not yet treat these claims as canonical BEBA claims unless:
 
-## 3. Distinguish private and public donation architectures
+- Source records `SRC-000001` to `SRC-000006` are verified.
+- The reviewed literature is checked for nonprofit specificity.
+- The claims are mapped to existing canonical construct definitions.
+- Any measurement implications are reviewed against the ConstructLedger.
+- Any definitional changes are handled through glossary and ADR/DecisionLog processes.
 
-The claims on self-image, social-image, and observability imply that BEBA should distinguish between:
+## Recommended Next Step
 
-- private giving architecture,
-- public giving architecture,
-- recognised giving architecture,
-- commercially mediated prosocial giving architecture.
+Create a candidate integration file rather than modifying canonical ontology or construct files directly.
 
-This distinction is important because different mechanisms may dominate in each context.
+Suggested object type:
 
-## 4. Add skepticism as an inhibitor candidate
+> Theory Integration Memo
 
-Skepticism should be modelled as a possible inhibitor of brand-enabled warm glow, especially where prosocial action is highly publicised, commercially embedded, or perceived as inauthentic.
+Suggested target directory:
 
-Recommended candidate relationship:
-
-> Skepticism inhibits the conversion of prosocial brand cues into warm glow.
-
-## 5. Treat religious and moral obligation as a boundary condition
-
-WG-000031 should not be overgeneralised because confidence is low. However, it is theoretically important because it prevents BEBA from assuming that warm glow explains all giving contexts.
-
-Recommended treatment:
-
-> Moral or religious obligation should be retained as a boundary condition and possible competing mechanism.
-
-## 6. Do not collapse warm glow into brand attitude
-
-Warm glow should not be treated as merely a positive attitude toward the nonprofit brand. It is more specifically a reward derived from the act of giving.
-
-Recommended distinction:
-
-- **Brand attitude:** evaluation of the organisation or brand.
-- **Warm glow:** private utility from the donor’s own giving act.
-- **Perceived impact:** belief that giving produces beneficiary benefit.
-- **Trust:** belief that the organisation will act competently and appropriately.
-- **Self-image motivation:** desire to maintain a valued self-concept.
-- **Social-image motivation:** desire to be seen positively by others.
-
-## 7. Create candidate theory integration file before canonical update
-
-Recommended object type:
-
-> Theory Integration / Concept Integration Candidate
-
-Recommended target directory, subject to repository conventions:
-
-> `02_Theory/Concept_Workspace/` or `02_Theory/Theory_Integration/`
+> `02_Theory/Integration_Memos/`
 
 Suggested filename:
 
-> `Warm_Glow_Giving_BEBA_Integration_Candidate.md`
+> `BEBA_Theory_Integration_Brand_Equity_IBM_TPB_REVIEW-000001.md`
 
-No canonical ontology or glossary update should be made until manually reviewed.
+Suggested status:
 
-## 8. Possible ADR trigger
+> `candidate`
 
-An ADR may be required if BEBA’s core architecture is changed to formally include warm glow as a canonical mechanism.
+Suggested follow-up actions:
 
-ADR trigger condition:
+1. Verify all six source records.
+2. Identify which sources are nonprofit-specific and which are commercial/consumer-based.
+3. Map each claim to BEBA constructs in the ConstructLedger.
+4. Create or update ontology candidates for:
+   - Trust as uncertainty-reduction mechanism
+   - Brand awareness as cognitive availability
+   - Perceived quality as efficacy cue
+   - Satisfaction as confirmation mechanism
+   - Context dependency as boundary condition
+5. Test model competition implications later against verified empirical pipeline outputs.
 
-> If warm glow is elevated from candidate mechanism to canonical BEBA mechanism, this affects the theory architecture and should be recorded as an architectural/theoretical decision.
+## Integration from REVIEW-000001
 
-## 9. ConstructLedger implication
+**Integrated:** 2026-07-05T20:25:21.651378+00:00
 
-If warm glow, self-image, social-image, skepticism, or observability are later operationalised empirically, the ConstructLedger should be updated.
+**Accepted claims (18):**
+- BE-000001: Integrating customer-based brand equity constructs into IBM/TPB frameworks increases the explanatory
+- BE-000002: Customer-based brand equity functions as a multi-dimensional construct comprising perceptual, relati
+- A-000001: Brand image is a significant antecedent of attitude toward a brand-related behaviour.
+- A-000002: Brand associations are significant antecedents of attitude toward a brand-related behaviour.
+- A-000003: Brand personality is a significant antecedent of attitude toward a brand-related behaviour.
+- PB-000001: Brand awareness influences perceived behavioural control in integrated brand equity and IBM/TPB mode
+- PB-000002: Brand trust influences perceived behavioural control in integrated brand equity and IBM/TPB models.
+- PB-000003: Perceived brand quality influences perceived behavioural control in integrated brand equity and IBM/
+- BI-000001: Overall brand equity has a direct positive effect on behavioural intention.
+- BI-000002: Customer-based brand equity influences behavioural intention both directly and indirectly through IB
+- S-000001: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- BE-000003: Brand equity can be represented as a configural process consisting of brand building, brand understa
+- TR-000001: Trust is a recurring relational dimension of customer-based brand equity in integrated brand equity 
+- CD-000001: Cultural dimensions moderate the relative importance of brand equity blocks for behavioural outcomes
+- CD-000002: Consumer price perception moderates the relationship between brand equity dimensions and purchase in
+- CD-000003: Customer demographics moderate the strength of the relationship between brand equity and behaviour.
+- CD-000004: Omnichannel integration quality alters the pathways between brand equity and behavioural outcomes.
+- CD-000005: Ecological consciousness alters the pathways between brand equity and behavioural outcomes.
 
-Current recommendation:
+**Accepted evidence (29):**
+- EVID-000001: Incorporating brand equity as a multi-dimensional latent construct enhances the explanatory and pred
+- EVID-000002: Brand equity is not treated as a mandatory component of the Integrated Model of Behaviour but as an 
+- EVID-000003: Brand image, brand personality, and brand associations are reported as significant predictors of att
+- EVID-000004: Brand awareness, trust, and perceived quality often influence perceived behavioural control and can 
+- EVID-000005: Overall brand equity has a direct positive effect on behavioural intention beyond indirect effects t
+- EVID-000006: Brand equity can serve as a heuristic or cognitive shortcut that simplifies consumer decision-making
+- EVID-000007: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- EVID-000008: Brand equity builds expectations that, when met, lead to satisfaction and subsequent behaviour.
+- EVID-000009: Brand equity can be modelled as a configural process involving brand building, brand understanding, 
+- EVID-000010: Brand equity is broadly treated as a multi-dimensional construct involving perceptual inputs, relati
+- EVID-000011: Simple unidimensional measures of brand equity are insufficient for modelling behavioural effects.
+- EVID-000012: Cognitive and affective components of brand equity, especially brand image and associations, are ant
+- EVID-000013: The literature does not highlight direct empirical contradictions or major theoretical disagreements
+- EVID-000014: Researchers use different configurations of brand equity dimensions and map them to IBM constructs i
+- EVID-000015: The lack of a unified standardized model has produced a proliferation of bespoke CBBE-IBM/TPB models
+- EVID-000016: Cultural dimensions such as individualism and collectivism moderate the relative importance of brand
+- EVID-000017: Consumer price perception can moderate the relationship between brand equity dimensions and purchase
+- EVID-000018: Customer demographics can moderate the strength of the relationship between brand equity and behavio
+- EVID-000019: Omnichannel integration quality can alter the pathways and strength of brand-equity-related behaviou
+- EVID-000020: Consumers’ ecological consciousness can alter the pathways and strength of brand-equity-related beha
+- EVID-000021: Most reviewed studies are cross-sectional, creating a lack of longitudinal validation for integrated
+- EVID-000022: There is a need to develop and validate more standardized integrated models to improve comparability
+- EVID-000023: The role of digital and social media platforms in shaping CBBE-IBM pathways is not fully explored, e
+- EVID-000024: The impact of negative or ambivalent brand perceptions, such as brand hate or skepticism, on behavio
+- EVID-000025: For nonprofit contexts, the reviewed findings imply that brand equity may consist of interconnected 
+- EVID-000026: For nonprofit contexts, brand equity dimensions may operate upstream of conscious behavioural delibe
+- EVID-000027: Under uncertainty about whether a donation will make a difference, a strong trusted nonprofit brand 
+- EVID-000028: Trust appears frequently as a core dimension of brand equity in the reviewed literature.
+- EVID-000029: A brand’s behavioural effectiveness is contingent on environmental and contextual moderators rather 
 
-> No ConstructLedger change unless measurement mappings or empirical constructs are introduced.
+**Accepted sources (6):**
+- SRC-000001: Wu et al. (2020)
+- SRC-000002: Zheng et al. (2025)
+- SRC-000003: Rambocas et al. (2017)
+- SRC-000004: Chatzipanagiotou et al. (2019)
+- SRC-000005: Yeğin & Ikram (2022)
+- SRC-000006: Singh et al. (2023)
 
-## 10. Summary recommendation
+## Integration from REVIEW-000001
 
-The warm glow claim set should be integrated into BEBA as a **candidate individual-level behavioural reinforcement mechanism** that explains how nonprofit brands can enable giving under uncertainty without relying solely on verified impact, trust, or rational public-good contribution logic. It strengthens BEBA’s behavioural architecture but also requires boundary conditions for observability, authenticity, income source, choice architecture, commercial mediation, and moral/religious obligation.
+**Integrated:** 2026-07-05T20:25:36.460397+00:00
+
+**Accepted claims (18):**
+- BE-000001: Integrating customer-based brand equity constructs into IBM/TPB frameworks increases the explanatory
+- BE-000002: Customer-based brand equity functions as a multi-dimensional construct comprising perceptual, relati
+- A-000001: Brand image is a significant antecedent of attitude toward a brand-related behaviour.
+- A-000002: Brand associations are significant antecedents of attitude toward a brand-related behaviour.
+- A-000003: Brand personality is a significant antecedent of attitude toward a brand-related behaviour.
+- PB-000001: Brand awareness influences perceived behavioural control in integrated brand equity and IBM/TPB mode
+- PB-000002: Brand trust influences perceived behavioural control in integrated brand equity and IBM/TPB models.
+- PB-000003: Perceived brand quality influences perceived behavioural control in integrated brand equity and IBM/
+- BI-000001: Overall brand equity has a direct positive effect on behavioural intention.
+- BI-000002: Customer-based brand equity influences behavioural intention both directly and indirectly through IB
+- S-000001: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- BE-000003: Brand equity can be represented as a configural process consisting of brand building, brand understa
+- TR-000001: Trust is a recurring relational dimension of customer-based brand equity in integrated brand equity 
+- CD-000001: Cultural dimensions moderate the relative importance of brand equity blocks for behavioural outcomes
+- CD-000002: Consumer price perception moderates the relationship between brand equity dimensions and purchase in
+- CD-000003: Customer demographics moderate the strength of the relationship between brand equity and behaviour.
+- CD-000004: Omnichannel integration quality alters the pathways between brand equity and behavioural outcomes.
+- CD-000005: Ecological consciousness alters the pathways between brand equity and behavioural outcomes.
+
+**Accepted evidence (29):**
+- EVID-000001: Incorporating brand equity as a multi-dimensional latent construct enhances the explanatory and pred
+- EVID-000002: Brand equity is not treated as a mandatory component of the Integrated Model of Behaviour but as an 
+- EVID-000003: Brand image, brand personality, and brand associations are reported as significant predictors of att
+- EVID-000004: Brand awareness, trust, and perceived quality often influence perceived behavioural control and can 
+- EVID-000005: Overall brand equity has a direct positive effect on behavioural intention beyond indirect effects t
+- EVID-000006: Brand equity can serve as a heuristic or cognitive shortcut that simplifies consumer decision-making
+- EVID-000007: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- EVID-000008: Brand equity builds expectations that, when met, lead to satisfaction and subsequent behaviour.
+- EVID-000009: Brand equity can be modelled as a configural process involving brand building, brand understanding, 
+- EVID-000010: Brand equity is broadly treated as a multi-dimensional construct involving perceptual inputs, relati
+- EVID-000011: Simple unidimensional measures of brand equity are insufficient for modelling behavioural effects.
+- EVID-000012: Cognitive and affective components of brand equity, especially brand image and associations, are ant
+- EVID-000013: The literature does not highlight direct empirical contradictions or major theoretical disagreements
+- EVID-000014: Researchers use different configurations of brand equity dimensions and map them to IBM constructs i
+- EVID-000015: The lack of a unified standardized model has produced a proliferation of bespoke CBBE-IBM/TPB models
+- EVID-000016: Cultural dimensions such as individualism and collectivism moderate the relative importance of brand
+- EVID-000017: Consumer price perception can moderate the relationship between brand equity dimensions and purchase
+- EVID-000018: Customer demographics can moderate the strength of the relationship between brand equity and behavio
+- EVID-000019: Omnichannel integration quality can alter the pathways and strength of brand-equity-related behaviou
+- EVID-000020: Consumers’ ecological consciousness can alter the pathways and strength of brand-equity-related beha
+- EVID-000021: Most reviewed studies are cross-sectional, creating a lack of longitudinal validation for integrated
+- EVID-000022: There is a need to develop and validate more standardized integrated models to improve comparability
+- EVID-000023: The role of digital and social media platforms in shaping CBBE-IBM pathways is not fully explored, e
+- EVID-000024: The impact of negative or ambivalent brand perceptions, such as brand hate or skepticism, on behavio
+- EVID-000025: For nonprofit contexts, the reviewed findings imply that brand equity may consist of interconnected 
+- EVID-000026: For nonprofit contexts, brand equity dimensions may operate upstream of conscious behavioural delibe
+- EVID-000027: Under uncertainty about whether a donation will make a difference, a strong trusted nonprofit brand 
+- EVID-000028: Trust appears frequently as a core dimension of brand equity in the reviewed literature.
+- EVID-000029: A brand’s behavioural effectiveness is contingent on environmental and contextual moderators rather 
+
+**Accepted sources (6):**
+- SRC-000001: Wu et al. (2020)
+- SRC-000002: Zheng et al. (2025)
+- SRC-000003: Rambocas et al. (2017)
+- SRC-000004: Chatzipanagiotou et al. (2019)
+- SRC-000005: Yeğin & Ikram (2022)
+- SRC-000006: Singh et al. (2023)
+
+## Integration from REVIEW-000001
+
+**Integrated:** 2026-07-13T18:58:06.034611+00:00
+
+**Accepted claims (18):**
+- BE-000001: Integrating customer-based brand equity constructs into IBM/TPB frameworks increases the explanatory
+- BE-000002: Customer-based brand equity functions as a multi-dimensional construct comprising perceptual, relati
+- A-000001: Brand image is a significant antecedent of attitude toward a brand-related behaviour.
+- A-000002: Brand associations are significant antecedents of attitude toward a brand-related behaviour.
+- A-000003: Brand personality is a significant antecedent of attitude toward a brand-related behaviour.
+- PB-000001: Brand awareness influences perceived behavioural control in integrated brand equity and IBM/TPB mode
+- PB-000002: Brand trust influences perceived behavioural control in integrated brand equity and IBM/TPB models.
+- PB-000003: Perceived brand quality influences perceived behavioural control in integrated brand equity and IBM/
+- BI-000001: Overall brand equity has a direct positive effect on behavioural intention.
+- BI-000002: Customer-based brand equity influences behavioural intention both directly and indirectly through IB
+- S-000001: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- BE-000003: Brand equity can be represented as a configural process consisting of brand building, brand understa
+- TR-000001: Trust is a recurring relational dimension of customer-based brand equity in integrated brand equity 
+- CD-000001: Cultural dimensions moderate the relative importance of brand equity blocks for behavioural outcomes
+- CD-000002: Consumer price perception moderates the relationship between brand equity dimensions and purchase in
+- CD-000003: Customer demographics moderate the strength of the relationship between brand equity and behaviour.
+- CD-000004: Omnichannel integration quality alters the pathways between brand equity and behavioural outcomes.
+- CD-000005: Ecological consciousness alters the pathways between brand equity and behavioural outcomes.
+
+**Accepted evidence (29):**
+- EVID-000001: Incorporating brand equity as a multi-dimensional latent construct enhances the explanatory and pred
+- EVID-000002: Brand equity is not treated as a mandatory component of the Integrated Model of Behaviour but as an 
+- EVID-000003: Brand image, brand personality, and brand associations are reported as significant predictors of att
+- EVID-000004: Brand awareness, trust, and perceived quality often influence perceived behavioural control and can 
+- EVID-000005: Overall brand equity has a direct positive effect on behavioural intention beyond indirect effects t
+- EVID-000006: Brand equity can serve as a heuristic or cognitive shortcut that simplifies consumer decision-making
+- EVID-000007: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- EVID-000008: Brand equity builds expectations that, when met, lead to satisfaction and subsequent behaviour.
+- EVID-000009: Brand equity can be modelled as a configural process involving brand building, brand understanding, 
+- EVID-000010: Brand equity is broadly treated as a multi-dimensional construct involving perceptual inputs, relati
+- EVID-000011: Simple unidimensional measures of brand equity are insufficient for modelling behavioural effects.
+- EVID-000012: Cognitive and affective components of brand equity, especially brand image and associations, are ant
+- EVID-000013: The literature does not highlight direct empirical contradictions or major theoretical disagreements
+- EVID-000014: Researchers use different configurations of brand equity dimensions and map them to IBM constructs i
+- EVID-000015: The lack of a unified standardized model has produced a proliferation of bespoke CBBE-IBM/TPB models
+- EVID-000016: Cultural dimensions such as individualism and collectivism moderate the relative importance of brand
+- EVID-000017: Consumer price perception can moderate the relationship between brand equity dimensions and purchase
+- EVID-000018: Customer demographics can moderate the strength of the relationship between brand equity and behavio
+- EVID-000019: Omnichannel integration quality can alter the pathways and strength of brand-equity-related behaviou
+- EVID-000020: Consumers’ ecological consciousness can alter the pathways and strength of brand-equity-related beha
+- EVID-000021: Most reviewed studies are cross-sectional, creating a lack of longitudinal validation for integrated
+- EVID-000022: There is a need to develop and validate more standardized integrated models to improve comparability
+- EVID-000023: The role of digital and social media platforms in shaping CBBE-IBM pathways is not fully explored, e
+- EVID-000024: The impact of negative or ambivalent brand perceptions, such as brand hate or skepticism, on behavio
+- EVID-000025: For nonprofit contexts, the reviewed findings imply that brand equity may consist of interconnected 
+- EVID-000026: For nonprofit contexts, brand equity dimensions may operate upstream of conscious behavioural delibe
+- EVID-000027: Under uncertainty about whether a donation will make a difference, a strong trusted nonprofit brand 
+- EVID-000028: Trust appears frequently as a core dimension of brand equity in the reviewed literature.
+- EVID-000029: A brand’s behavioural effectiveness is contingent on environmental and contextual moderators rather 
+
+**Accepted sources (6):**
+- SRC-000001: Wu and others (2020)
+- SRC-000002: Zheng and others (2025)
+- SRC-000003: Rambocas and others (2017)
+- SRC-000004: Chatzipanagiotou and others (2019)
+- SRC-000005: Yeğin and Ikram (2022)
+- SRC-000006: Singh and others (2023)
+
+## Integration from REVIEW-000001
+
+**Integrated:** 2026-07-13T18:58:39.862034+00:00
+
+**Accepted claims (18):**
+- BE-000001: Integrating customer-based brand equity constructs into IBM/TPB frameworks increases the explanatory
+- BE-000002: Customer-based brand equity functions as a multi-dimensional construct comprising perceptual, relati
+- A-000001: Brand image is a significant antecedent of attitude toward a brand-related behaviour.
+- A-000002: Brand associations are significant antecedents of attitude toward a brand-related behaviour.
+- A-000003: Brand personality is a significant antecedent of attitude toward a brand-related behaviour.
+- PB-000001: Brand awareness influences perceived behavioural control in integrated brand equity and IBM/TPB mode
+- PB-000002: Brand trust influences perceived behavioural control in integrated brand equity and IBM/TPB models.
+- PB-000003: Perceived brand quality influences perceived behavioural control in integrated brand equity and IBM/
+- BI-000001: Overall brand equity has a direct positive effect on behavioural intention.
+- BI-000002: Customer-based brand equity influences behavioural intention both directly and indirectly through IB
+- S-000001: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- BE-000003: Brand equity can be represented as a configural process consisting of brand building, brand understa
+- TR-000001: Trust is a recurring relational dimension of customer-based brand equity in integrated brand equity 
+- CD-000001: Cultural dimensions moderate the relative importance of brand equity blocks for behavioural outcomes
+- CD-000002: Consumer price perception moderates the relationship between brand equity dimensions and purchase in
+- CD-000003: Customer demographics moderate the strength of the relationship between brand equity and behaviour.
+- CD-000004: Omnichannel integration quality alters the pathways between brand equity and behavioural outcomes.
+- CD-000005: Ecological consciousness alters the pathways between brand equity and behavioural outcomes.
+
+**Accepted evidence (29):**
+- EVID-000001: Incorporating brand equity as a multi-dimensional latent construct enhances the explanatory and pred
+- EVID-000002: Brand equity is not treated as a mandatory component of the Integrated Model of Behaviour but as an 
+- EVID-000003: Brand image, brand personality, and brand associations are reported as significant predictors of att
+- EVID-000004: Brand awareness, trust, and perceived quality often influence perceived behavioural control and can 
+- EVID-000005: Overall brand equity has a direct positive effect on behavioural intention beyond indirect effects t
+- EVID-000006: Brand equity can serve as a heuristic or cognitive shortcut that simplifies consumer decision-making
+- EVID-000007: Customer satisfaction partially mediates the relationship between brand equity and behavioural outco
+- EVID-000008: Brand equity builds expectations that, when met, lead to satisfaction and subsequent behaviour.
+- EVID-000009: Brand equity can be modelled as a configural process involving brand building, brand understanding, 
+- EVID-000010: Brand equity is broadly treated as a multi-dimensional construct involving perceptual inputs, relati
+- EVID-000011: Simple unidimensional measures of brand equity are insufficient for modelling behavioural effects.
+- EVID-000012: Cognitive and affective components of brand equity, especially brand image and associations, are ant
+- EVID-000013: The literature does not highlight direct empirical contradictions or major theoretical disagreements
+- EVID-000014: Researchers use different configurations of brand equity dimensions and map them to IBM constructs i
+- EVID-000015: The lack of a unified standardized model has produced a proliferation of bespoke CBBE-IBM/TPB models
+- EVID-000016: Cultural dimensions such as individualism and collectivism moderate the relative importance of brand
+- EVID-000017: Consumer price perception can moderate the relationship between brand equity dimensions and purchase
+- EVID-000018: Customer demographics can moderate the strength of the relationship between brand equity and behavio
+- EVID-000019: Omnichannel integration quality can alter the pathways and strength of brand-equity-related behaviou
+- EVID-000020: Consumers’ ecological consciousness can alter the pathways and strength of brand-equity-related beha
+- EVID-000021: Most reviewed studies are cross-sectional, creating a lack of longitudinal validation for integrated
+- EVID-000022: There is a need to develop and validate more standardized integrated models to improve comparability
+- EVID-000023: The role of digital and social media platforms in shaping CBBE-IBM pathways is not fully explored, e
+- EVID-000024: The impact of negative or ambivalent brand perceptions, such as brand hate or skepticism, on behavio
+- EVID-000025: For nonprofit contexts, the reviewed findings imply that brand equity may consist of interconnected 
+- EVID-000026: For nonprofit contexts, brand equity dimensions may operate upstream of conscious behavioural delibe
+- EVID-000027: Under uncertainty about whether a donation will make a difference, a strong trusted nonprofit brand 
+- EVID-000028: Trust appears frequently as a core dimension of brand equity in the reviewed literature.
+- EVID-000029: A brand’s behavioural effectiveness is contingent on environmental and contextual moderators rather 
+
+**Accepted sources (6):**
+- SRC-000001: Wu and others (2020)
+- SRC-000002: Zheng and others (2025)
+- SRC-000003: Rambocas and others (2017)
+- SRC-000004: Chatzipanagiotou and others (2019)
+- SRC-000005: Yeğin and Ikram (2022)
+- SRC-000006: Singh and others (2023)
+
+## Integration from REVIEW-000002
+
+**Integrated:** 2026-07-13T18:58:44.604695+00:00
+
+**Accepted claims (12):**
+- WG-000001: A significant portion of charitable giving is motivated by the private, non-pecuniary utility an ind
+- IA-000001: Charitable giving is better explained by an impure altruism model that combines concern for recipien
+- WG-000002: Individuals donate even when their contribution has no marginal effect on the charity’s total funds.
+- SI-000001: Self-image motives primarily increase the likelihood that an individual participates in charitable g
+- SI-000002: Social-image motives primarily increase the amount donated among individuals who have already decide
+- SI-000003: Observable charitable giving generates social approval or prestige by signaling prosocial traits to 
+- WG-000003: Donating personally earned funds generates greater warm glow utility than donating windfall funds.
+- FA-000001: Fundraising appeals that emphasize the donor’s emotional benefit generate higher participation or do
+- CR-000001: In cause-related marketing contexts, donation amounts perceived as too large or overly publicized in
+- WG-000004: Consumer skepticism negatively moderates the warm glow effect in cause-related marketing contexts.
+- WG-000005: The option to take resources from a charity reduces but does not eliminate warm glow giving.
+- RG-000001: Warm glow utility does not fully explain charitable giving in some religious contexts where duty or 
+
+**Accepted evidence (25):**
+- EVID-000030: Warm glow giving is reported as private, non-pecuniary utility or emotional satisfaction derived fro
+- EVID-000031: Warm glow is reported as a form of impure altruism in which donor satisfaction is a key driver along
+- EVID-000032: Individuals donate even when their contribution has no marginal impact on the charity’s total funds.
+- EVID-000033: A large body of experimental evidence, especially crowd-out designs, supports warm glow as a distinc
+- EVID-000034: The impure altruism model is reported to describe most donation behaviour more accurately than a pur
+- EVID-000035: Donors are reported to be motivated by both concern for others and the private utility of giving.
+- EVID-000036: Self-image enhancement is reported as a primary psychological mechanism generating warm glow utility
+- EVID-000037: Self-image motives primarily affect the likelihood of participating in charitable giving.
+- EVID-000038: Social-image management is reported as a psychological mechanism generating warm glow utility when g
+- EVID-000039: Social-image cues tend to increase the amount donated among individuals who have already decided to 
+- EVID-000040: Donating earned income generates greater warm glow utility than donating windfall income.
+- EVID-000041: Fundraising appeals emphasizing the donor’s self-benefit can outperform appeals focused solely on re
+- EVID-000042: Fundraising appeals can be optimized by targeting warm glow.
+- EVID-000043: A donation amount perceived as too large or overly publicized in cause-related marketing can trigger
+- EVID-000044: Consumer skepticism can reduce the warm glow effect and subsequent purchase intention in cause-relat
+- EVID-000045: Giving within certain religious contexts may be driven by moral frameworks such as duty or salvation
+- EVID-000046: The explanatory power of warm glow may be moderated by cultural or religious norms that prescribe di
+- EVID-000047: The presence of an option to take from a charity reduces but does not eliminate warm glow giving.
+- EVID-000048: The precise affective nature and emotional components of warm glow remain under investigation.
+- EVID-000049: Cross-cultural variation in warm glow motivations remains underexplored.
+- EVID-000050: The long-term sustainability of warm glow effects over time is not well understood.
+- EVID-000051: The impact of digital fundraising, social media, and crowdfunding environments on warm glow mechanis
+- EVID-000052: Further research is needed to integrate warm glow with religious, moral, and identity-based framewor
+- EVID-000053: Field or natural experiments on the effect of earned versus windfall income on donation behaviour ou
+- EVID-000054: An individual’s motivation to donate is reported as better described by an impure altruism model tha
+
