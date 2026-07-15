@@ -27,3 +27,31 @@ Dies ist die zentrale Wissens- und Schreibbasis für die BEBA-Monographie. Es en
 
 - `monography`: Theorie, Monographie, Kapitel, Publikationsstrategie.
 - `BrandEquityPipeline`: R-Code, CFA/SEM, targets, DuckDB, Quarto-Reporting.
+- `BEBA-Tools`: Python-Tooling — ETO-Pipeline, Trust/Potency-System, Evidence Verification.
+
+## Evidence Verification
+
+Die Verifikationspipeline prüft alle EVID-Objekte automatisch gegen die Originalquellen:
+
+```bash
+# PDFs bereitstellen:
+rsync -av /lokaler/pdf/ordner/ server:research/monography/02_Theory/Knowledge/Papers/
+# ODER: export PAPERLIB_PAPERS_DIR=~/Documents/MeinePDFs
+
+# Pipeline starten:
+cd ~/research/BEBA-Tools && beba verify run
+
+# Status:
+beba verify status
+```
+
+Ergebnisse werden als `verification_status` direkt in die EVID-Front-Matter geschrieben.
+Dokumentation: `BEBA-Tools/docs/VERIFICATION_PIPELINE.md`
+
+## Wissens-Pipeline (ETO)
+
+```
+Raw literature → EVID → Claims → Theory_Integration → Ontology → Chapters
+```
+
+Niemals direkt von Literatur zu Kapitel. Kapitel entstehen aus verifizierten Claims.
