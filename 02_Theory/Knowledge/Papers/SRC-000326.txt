@@ -1,0 +1,1911 @@
+Journal of Nonprofit & Public Sector Marketing
+
+ISSN: 1049-5142 (Print) 1540-6997 (Online) Journal homepage: https://www.tandfonline.com/loi/wnon20
+
+In Nonprofits We Trust? A Large-Scale Study on the
+Public’s Trust in Nonprofit Organizations
+Annika Becker, Silke Boenigk & Jurgen Willems
+To cite this article: Annika Becker, Silke Boenigk & Jurgen Willems (2019): In Nonprofits We
+Trust? A Large-Scale Study on the Public’s Trust in Nonprofit Organizations, Journal of Nonprofit &
+Public Sector Marketing, DOI: 10.1080/10495142.2019.1707744
+To link to this article: https://doi.org/10.1080/10495142.2019.1707744
+
+Published online: 24 Dec 2019.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=wnon20
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+https://doi.org/10.1080/10495142.2019.1707744
+
+In Nonprofits We Trust? A Large-Scale Study on the
+Public’s Trust in Nonprofit Organizations
+Annika Becker1, Silke Boenigk1, and Jurgen Willems
+
+2
+
+1
+Department of socioeconomics, Universität Hamburg, Hamburg, Germany; 2Department of
+management, Wirtschaftsuniversität Wien, Vienna, Austria
+
+ABSTRACT
+
+KEYWORDS
+
+Nonprofit organizations highly depend on the public’s trust for
+legitimacy and support, to ultimately further their missions.
+Despite its high importance, little is known about the trustbuilding processes of the general public. In this study, we develop
+and test a multilevel study design to provide deeper insights into
+the public’s trust in nonprofit organizations and its relevant determinants. We used a comprehensive data set of 4,072 dyads, with
+survey data from 1,686 individuals and organizational data related
+to 102 German NPOs to investigate the different trust-building
+components: (1) individual public trust evaluation in NPO, (2)
+individual (trustor) context, and (3) organizational (trustee) context.
+The results of the analysis reveal unexpected differences in the
+importance of the different components for explaining the public’s
+trust in nonprofit organizations. Results show that the individual
+context is as relevant as the individual public trust evaluation, but
+the organizational context is far less important.
+
+Public trust; trust building;
+determinants of trust;
+nonprofit marketing;
+multilevel analysis
+
+Introduction
+“Despite the diversity among NPOs, there is one thing that they have in common–public trust is their most valuable asset” (Kearns, 2014, p. 265). On the one
+hand, many nonprofit organizations depend highly on the public’s trust because
+only a well-trusted organization receives social support in the form of monetary
+and voluntary contributions (e.g., Alhidari et al., 2018; Furneaux & Wymer, 2015;
+Hager & Hedberg, 2016; O’Neill, 2009). From a public’s perspective, the output
+of nonprofit organizations is difficult to quantify unambiguously (Willems,
+Jegers, & Faulk, 2016), and the mission orientation leads to stakeholders relying
+heavily on relational trust in their interactions with nonprofit organizations
+(Kearns, 2014). On the other hand, the nonprofit sector maintains its status as
+the most trusted one (Edelman, 2019; Laidler-Kylander, Quelch, & Simonin,
+2007). Due to the non-distribution constraint, according to which nonprofits are
+not allowed to distribute profit to private parties, the public ascribes them higher
+levels of trustworthiness compared to other institutions or sectors (Hansmann,
+CONTACT Annika Becker
+annika.becker@uni-hamburg.de
+Hamburg, Hamburg, Germany
+© 2019 Taylor & Francis
+
+Department of socioeconomicsUniversität
+
+2
+
+A. BECKER ET AL.
+
+1980). A growing number of scandals in nonprofit sectors worldwide, however,
+challenges the notion of inherent nonprofit trust (Prakash & Gugerty, 2010).
+Recent incidences in some of the most respected organizations such as WWF
+International’s allegations of human rights violations or Oxfam’s Haiti scandal
+severely threaten public’s perceptions of nonprofit organizations (Chisolm, 2008;
+Rimington, 2018; Willems & Faulk, 2019). Not only do these scandals harm the
+reputation and trustworthiness of the single organization concerned, they cause
+negative spillover effects also to other organizations in the sector (Archambeault
+& Webber, 2018; Slatten, Guidry, & Austin, 2011).
+Given its high importance, research on trust in nonprofit organizations has
+gained growing interest among scholars over the past years. Beginning with
+discussions on the general significance and role of trust in the nonprofit sector
+(Hansmann, 2003; Ortmann & Schlesinger, 2003; Rose-Ackerman, 1996), nonprofit scholars recently focused on specific stakeholder groups centering donor
+trust, and its relationship with outcomes such as donor commitment
+(MacMillan, Money, Money, & Downing, 2005; Naskrent & Siebelt, 2011;
+Sargeant & Lee, 2004), or donation behavior (Hager & Hedberg, 2016;
+Sargeant & Lee, 2004). In another recently published study, Knapp, Sprinkle,
+Urick, and Delaney-Klinger (2019) evaluate the trusting behavior among the
+internal stakeholder group of employees of nonprofit organizations.
+In contrast, less is known about the public’s trust in nonprofit organizations
+(Bryce, 2007), and “[…] prevailing theoretical discussion and empirical study of
+the effects of trust suffer from confusion over different dimensions of trust”
+(Hager & Hedberg, 2016, p. 164). Herein, the very same approaches to address
+both donor and public trust have been used, which equates the general public
+with nonprofit stakeholders that are directly related to the organization through
+actual experiences and transactions, and stronger relationships, respectively
+(Boenigk, 2014). Sargeant and Lee (2002, p. 81), however, find empirical evidence that “trust may operate at two levels distinguishing donors from nondonors”, leading to a corresponding need for differentiated marketing and
+management approaches (Sargeant, 2009). This study goes beyond this rather
+narrow perspective, and a (more or less) established trust relationship between
+a donor, volunteer, or beneficiary and a nonprofit organization, but focuses on
+the public as a specific non-relational trust reference.
+The latest trend in trust research relates to the development of strategies and
+tools for organizational trust-building (Bekkers, 2003; Farwell, Shier, & Handy,
+2018; Prakash & Gugerty, 2010). Particularly, nonprofit governance and accountability approaches are emerging that seek to send signals of quality and trustworthiness to an increasingly skeptical public (Slatten et al., 2011). Feng, Neely, and
+Slatten (2016) and Becker (2018), for example, provide empirical evidence for the
+benefits of voluntary nonprofit accountability in the form of using accreditation
+tools, in terms of evoking higher levels of public trust toward nonprofit organizations. However, still little is known about what determines public perceptions of
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+3
+
+trust in organizations (Jones & Shah, 2015), and the organizational determinants
+have been most prominent in prior research. This study seeks to better understand
+the public’s trust in organizations, thereby questioning the effectiveness of organizational efforts alone to build and restore the public’s trust. From the fundraising
+literature, for instance, we know that various individual factors, including religion,
+gender or education are important determinants for pro-social behavior toward
+nonprofit organizations (Bekkers & Wiepking, 2011; Wiepking & Bekkers, 2012;
+Wymer, 2012). In this study, we thus include the context of both parties involved in
+the trust process, namely the trustor (individuals of the general public) and the
+trustee (nonprofit organization), thereby providing a more comprehensive perspective on trust.
+Considering these gaps in nonprofit trust research, we aim to provide
+deeper insights into the trust-building processes among the general public
+and the relevant determinants that explain the public’s trust in nonprofit
+organizations. Thus, our first research question is:
+RQ 1: How is trust built among the general public, and which components are
+most important to explain public’s trust in nonprofit organizations?
+To answer this question, we conducted a large multilevel study with survey
+data from 1,686 respondents and organizational data related to 102 nonprofit
+organizations. Assuming that both organizational and individual determinants are somewhat important, our second research question is:
+RQ 2: Which of the individual and organizational determinants explain the
+public’s trust in a nonprofit organization most?
+In the next section, we provide a literature review that leads in to our
+proposed public trust framework, with its different trust-building determinants.
+The framework builds on the combination of two theoretical perspectives:
+attribution theory (Kelley, 1967; see also Geigenmüller & Greschuchna, 2011)
+and social identity theory (Tajfel & Turner, 1979; see also Fehrler & Kosfeld,
+2013), and allows for a holistic view on the public’s trust in nonprofit organizations. We then show the most trusted nonprofit organizations and test various
+influential determinants of public trust in a nonprofit organization with the use
+of multilevel modeling. Finally, we discuss the findings and provide nonprofit
+scholars and marketers with deeper insights into the mechanisms behind the
+public’s trust in nonprofit organizations, and approaches to successfully build
+and maintain public trust.
+
+4
+
+A. BECKER ET AL.
+
+Theoretical foundation and hypotheses
+Public trust framework
+
+Previous studies from organizational science mostly conceptualized and
+measured trust in (nonprofit) organizations as a two-dimensional construct.
+The first dimension relates to positive expectations of trustworthiness
+(Morgan & Hunt, 1994). In this domain, scholars refer to generally positive
+trust-related expectations such as ability/competence, benevolence, and
+integrity/honesty of an organization. The second dimension is the willingness
+to accept vulnerability, which comes with an element of risk. Widely used
+across the research community, we draw on a definition that explicitly
+focuses on the first dimension. Specifically, we refer to Morgan and Hunt’s
+conceptualization of trust as “existing when one party has confidence in an
+exchange partner’s reliability and integrity” (1994, p. 23). We also integrate
+Feldheim and Wang’s (2004) notion that public trust is based primarily on
+each interaction between the individual stakeholder and the nonprofit organization but ultimately is an aggregate, reflecting the attitudes of the overall
+public toward a nonprofit organization. To sum up, trust is thus based on the
+anticipated capacity of the nonprofit organization to satisfy each individual
+stakeholder’s expectation regarding reliability, credibility and general reputation (Aurier & N’Goala, 2010).
+Based on this definition, Figure 1 shows the developed framework of
+public trust in a nonprofit organization in an overview. Our conceptual
+framework builds on the assumption that the public’s trust in nonprofit
+organizations depends on the aggregation of each individual’s trust evaluation, as well as organizational and individual trust-building determinants. It
+follows that to provide a holistic view of public trust in nonprofit organizations, each of the aforementioned components (or methodologically speaking: levels) needs to be considered. In the following subsections, we discuss
+the underlying rationale for the framework and derive specific hypotheses.
+Importance of three different components for explaining public’s trust
+
+Most studies on trust in nonprofit organizations center the individual
+trust evaluation toward a nonprofit organization, focusing on the individual as a donor (e.g. MacMillan et al., 2005; Naskrent & Siebelt, 2011). On
+the contrary, in our framework the individual stems from the general
+public with no strong direct relationship with the organization through
+actual experiences and transactions. If no strong relationship between an
+individual and a specific organization exists yet, attribution theory is one
+common theoretical foundation that argues that specific attributions about
+the organization, in particular about its trustworthiness, are the most
+relevant factor to build up trust (Geigenmüller & Greschuchna, 2011). If
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+5
+
+Figure 1. Public trust framework.
+
+the individual’s expectations of the organization’s trustworthiness are
+positive, and he or she is willing to enter into an uncertain exchange
+relationship with the organization, trust is primed to develop (Schilke &
+Cook, 2013; Schoorman, Mayer, & Davis, 2007). Therefore, the core of
+public trust in a nonprofit organization is an aggregate of trust evaluations that each individual has made toward the nonprofit organization.
+Thus, our first hypothesis is the following:
+Hypothesis 1. The individual trust evaluation has the largest influence on the
+public’s trust in a nonprofit organization, compared to the individual (trustor)
+and the organizational (trustee) context.
+In addition to the trust evaluation, there is evidence about the significance of the individual (trustor) and organizational (trustee) context in
+determining the public’s trust in nonprofit organizations. Focusing on the
+individual context, the underlying rationale is that trust should vary across
+relationships and within persons (Schoorman et al., 2007), and trust
+evaluations vary strongly within individuals. According to social identity
+theory (Tajfel & Turner, 1979), the individual context including sociodemographics relates closely to the individuals’ social identity, which helps
+individuals define themselves according to their group affiliations, such
+that it also helps them evaluate their relationships. It then follows that
+
+6
+
+A. BECKER ET AL.
+
+individual social identity affects trust relationships with organizations,
+insofar as individuals value those nonprofit organizations better that
+embody their social identities (Ashforth & Mael, 1989). We, therefore,
+hypothesize, as follows:
+Hypothesis 2. The individual (trustor) context has a positive influence on the
+individual trust evaluation of a nonprofit organization.
+Social identity theory further explains that individuals possess greater trust
+in nonprofit organizations if they could highly identify with the organizational context, and its values and missions. Herein, attribution theory among
+cue utilization theory (Kelley, 1967; see also Geigenmüller & Greschuchna,
+2011) provides a valuable framework for explaining the process of how
+individuals attribute trustworthiness to nonprofit organizations. That is,
+individuals assess a variety of intrinsic and extrinsic cues, and thereby derive
+expectations about the future organizational trustworthiness. In situations
+where a strong relationship has not developed yet and prior experiences with
+the nonprofit organization are lacking, extrinsic cues in the form of NPOrelated attributes such as accountability or mission focus provide essential
+orientation (Geigenmüller & Greschuchna, 2011). Therefore, our third
+hypothesis is the following:
+Hypothesis 3. The organizational (trustee) context has a positive influence on
+the individual trust evaluation of a nonprofit organization.
+Influence of individual and organizational determinants on public’s trust
+
+For both the individual and organizational context, prior research, respectively, claimed specific determinants to be of particular relevance in the
+context of affecting public’s trust; they are explained in the following.
+Individual determinants
+Individual determinants refer to the specific personal background of each
+person, reflected in sociodemographics. With an extensive literature review,
+Bekkers and Wiepking (2011) and Wiepking and Bekkers (2012) identify
+a wide range of evidence of the importance of sociodemographic characteristics for pro-social behavior toward nonprofit organizations, and so in trustrelated relationships, including age, gender, education, household size,
+income, religion, and citizenship. Against the background of general trusting
+behavior, an early study from Stolle (1998) shows, for example, that more
+educated people tend to generally trust more, and that different age groups
+across different countries trust less or more, respectively (Nieminen et al.,
+2008; Stolle, 1998). In another study, Delhey and Newton (2005) provide
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+7
+
+evidence for the impact of the religious background on the individual trusting propensity. We, therefore, hypothesize, as follows:
+Hypothesis 4. Individual determinants in the form of sociodemographics
+influence the individual trust evaluation of a nonprofit organization.
+Organizational determinants
+Academic research has particularly highlighted three organizational determinants – accountability, mission, and history & size – that are relevant to
+public trust. Accountability: In Germany, nonprofit organizations are not
+obliged to report their annual financial statements publicly, though such
+forms of accountability are crucial to maintaining the public’s trust
+(Greiling, 2007). Feng et al. (2016) and Becker (2018)furthermore show
+that external mechanisms, such as accreditation systems, can enhance public’s trust in nonprofit organizations. Therefore, organizations increasingly
+devote efforts to demonstrating their transparency and trustworthiness with
+various labels, certifications, and other accreditation tools (Bekkers, 2003;
+Farwell et al., 2018; Furneaux & Wymer, 2015). A prestigious, nationally
+endorsed donor accreditation might affect trust relationships.
+Mission
+A nonprofit organization’s mission identifies its long-term objective and determines its strategic direction (McDonald, 2007), and is thus also relevant to
+public trust. Missions can vary greatly across organizations, with substantially
+different meanings and relevance for various stakeholders (Willems, Jegers, &
+Faulk, 2016). For example, religiousness in a mission can have distinct impacts
+on people’s trust (Fehrler & Kosfeld, 2013; Wiepking & Bekkers, 2012). Social
+identity theory suggests that when people have a special interest in a particular
+topic, such as the environmental sector or children’s welfare, they identify more
+strongly with organizations that make these topics part of their mission and are
+more likely to support organizations with missions that reflect those connections
+(Fehrler & Kosfeld, 2013; James & Wiepking, 2008).
+History and size
+The history and size of the nonprofit organization (i.e., organization’s age
+and revenues) also appear crucial for trust. The organization’s age provides
+information about how established and historically anchored it is, such that
+age likely informs the organization’s trustworthiness (Wiedmann, Hennigs,
+Schmidt, & Wuestefeld, 2011). Growth by an organization also signals to
+external stakeholders that it has been successful and that others trust and
+support this organization. In addition, organizational size in the form of total
+revenues (depending on the specific nonprofit organization; e.g. public funds,
+
+8
+
+A. BECKER ET AL.
+
+private donations, or profitable private-nonprofit-partnerships) provides
+information about the efficiency and success of the nonprofit organization
+(Furneaux & Wymer, 2015). Such information then support conclusions
+about the current state of the nonprofit organization and its future forecasts.
+Taken all organizational determinants together, we therefore predict:
+Hypothesis 5a-c. Organizational determinants – (a) accountability, (b) mission, and (c) history & size – influence the individual trust evaluation of
+a nonprofit organization.
+
+Method
+Data collection and sample
+
+Our data set includes survey data from 1,686 respondents and organizational
+data related to the 102 best known nonprofit organizations in Germany (see
+Appendix). The first part of our data set, the individual survey data, is
+extracted from a larger brand equity study (Boenigk, 2014). In that study,
+nonprofit brand equity is conceptualized as having three dimensions, and
+trust is one focal concept besides two other concepts, awareness and commitment. In this study, we solely focus on the public’s trust toward nonprofit
+brands. Data collection took place in 2015. The selection included both
+national and regional nonprofit organizations and covered a broad spectrum
+of organizational missions. In a first step, respondents (the general public)
+could indicate, from the full list of 102 nonprofit organizations, which ones
+they already had heard of (awareness level). In a comparative evaluation, they
+then evaluated the trustworthiness of up to three of the nonprofit organizations they were familiar with, which resulted in 4,072 evaluations toward 102
+nonprofit organizations. Considering the relative context in which evaluations are made is important because individuals trust in nonprofit organizations relative to other organizations, and on the basis of comparisons.
+Comparative evaluations provide a more realistic perspective, such that
+when a reputational scandal harms the trustworthiness of one nonprofit
+organization, negative spill-over effects often exist for other, similar organizations (Archambeault & Webber, 2018; Slatten et al., 2011). In the framework, we hence integrated a comparative element. These methodological
+considerations are consistent with recommendations for comparative evaluations in organizational and marketing science (Olsen, 2002). To limit the
+trust evaluations to three per individual was necessary, due to time limitations and the recognition that most respondents knew only a few
+organizations.
+The second part of our data set relies on a document analysis to gain
+further information about the organizational context of the 102 nonprofit
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+9
+
+brands. To examine the organization’s accountability, mission, history, and
+size, we evaluated externally available data (DZI, 2014), including the webpages and annual reports of all nonprofit organizations and documents that
+offer insights into the organization’s accountability.
+Measures
+Trust evaluation: individual public’s trust in NPO
+Two main approaches were most often used to measure trust in organizations: (1) measurement of expectations and opinions about the trustworthiness, (2) measurement of trusting behaviors (Shamir & Lapidot, 2003,
+p. 469). In our case, the behavioral measurement approach is problematic
+because a typical characteristic of the general public is that there is no
+willingness to extra-role engagement with a specific nonprofit organization.
+We hence measured individual trust in an organization, using a scale
+developed by Sargeant and Woodliffe (2007), which is commonly used in
+nonprofit trust research. The trust variable was operationalized with three
+items in a reflective measure−(1) I trust this organization to always act in
+the best interests of the cause. (2) I trust this organization to conduct its
+operations ethically. (3) I trust this organization to use donated funds
+appropriately−using a 7-point Likert scale anchored at “strongly disagree”
+(1) and “strongly agree” (7). To assess the measurement quality of our main
+construct, we ran confirmatory factor analysis using AMOS. The results in
+Table 1 provide evidence of the measure’s sound psychometric properties.
+The Cronbach’s α value exceeds with .93 the recommended threshold value
+of .70, indicating high internal consistency variables (Nunnally & Bernstein,
+1994). The composite reliability and average variance extracted also were
+with .93 and .82 above the suggested threshold values of .60 and .50,
+respectively (Bagozzi, Yi, & Phillips, 1991).
+Individual context and determinants
+To assess the individual context, we included several sociodemographic
+characteristics in the survey (see Table 1). Age was measured in years; gender
+was operationalized as a dummy variable (0 = female, 1 = male). For
+education, we used several categories, ranging from “no degree” to “PhD”
+at the highest level. Household size reflected the number of persons in the
+household. For income, we determined monthly net income in Euros, and we
+operationalized religion with a dummy to indicate if the respondent had any
+religious affiliation (0 = no religious affiliation, 1 = religious affiliation).
+Citizenship was another dummy variable, according to whether the respondent was of German nationality or not (0 = German, 1 = foreigner).
+
+10
+
+A. BECKER ET AL.
+
+Table 1. Measurement items and descriptive analysis.
+Trust Component
+N
+%
+M
+SD
+Trust Evaluation: Individual Public’s Trust in NPO [AVE = .82; CR = .93; α 4,072
+= 0.93]
+(up to 3 comparative trust evaluations per individual)
+I trust this nonprofit brand to always act in the best interests of the cause.
+5.12 1.38
+I trust this nonprofit brand to conduct its operations ethically.
+5.13 1.37
+I trust this nonprofit brand to use donated funds appropriately.
+5.05 1.40
+Individual Context and Determinants
+1,686
+Sociodemographic Characteristics
+Age
+14–19
+152 9.02
+20–29
+300 17.79
+30–39
+284 16.84
+40–49
+382 22.66
+50–59
+401 23.78
+60–64
+167 9.91
+Gender
+Female
+845 50.12
+Male
+841 49.88
+Education
+No degree/not yet a degree
+98
+5.81
+Completed school education
+418 24.79
+Apprenticeship
+772 45.79
+Bachelor’s/master’s/diploma
+350 20.76
+MBA/PhD
+48
+2.85
+Household size
+1 person
+398 23.61
+2 persons
+577 34.22
+3 persons
+361 21.41
+4 persons
+251 14.89
+5 persons
+75
+4.45
+6 and more persons
+24
+1.42
+Monthly net income
+No income
+71
+4.21
+<1,000 euros
+430 25.50
+1,000–3,999 euros
+927 54.98
+> 4,000 euros
+88
+5.22
+Missing responses
+170 10.08
+Religion
+Religious affiliation
+898 53.26
+No religious affiliation
+788 46.74
+Citizenship
+German
+1,630 96.68
+Foreigner
+56
+3.32
+Organizational Context and Determinants
+102
+Accountability
+DZI Seal-of-Approval
+42 41.18
+Mission focusA
+Disaster, development and social services
+56 54.90
+Education
+10
+9.80
+Human rights
+8
+7.84
+Children
+25 24.51
+Health and combating of life-threatening diseases
+10
+9.80
+Environment & animals
+17 16.67
+Religion
+21 20.59
+Other
+16 15.69
+History and size
+Age
+49.76 36.40
+Total revenues (millions of Euros)
+90
+198
+Log (total revenues)
+7.28 0.84
+M = mean; SD = standard deviation; AVE = average variance extracted; CR = composite reliability.
+α = Cronbach’s alpha. A Organizations could be assigned to several mission categories.
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+11
+
+Organizational context and determinants
+At the organizational level, we measured accountability according to whether
+the organization carries the so-called “DZI Seal-of-Approval”, using
+a dummy variable (0 = no DZI in 2014, 1 = DZI in 2014). The DZI Seal-ofApproval is a Germany-wide renowned accreditation and widely regarded as
+a strong quality signal that the nonprofit organization deals carefully and
+responsibly with funds it receives (DZI, 2014), with an appropriate amount
+of overall overhead cost (not higher than 30% of a raised Euro). As such, it
+constitutes an important quality label for organizations from the nonprofit
+sector to show their transparency and increase public trust. We measured the
+organization’s mission focus with several dummy variables, categorizing the
+wide variety of possible missions following the United Nations Sustainable
+Development Goals (United Nations, 2019) (0 = not fitting this mission
+category, 1 = fitting this mission category). Table 1 contains a list of the
+measurement items and variables, as well as their descriptive statistics. Each
+nonprofit organization had at least one specific mission focus and fit
+a specific mission category, but it also could be assigned to several categories.
+Finally, we measured the history of the organization in years since its
+founding, and we used the organization’s total revenues (mainly from
+2013) to quantify its size. Because normal distribution was not reached,
+data relating to total revenues were log-transformed.
+Data analysis
+
+In our conceptual framework, public trust is the dependent variable, which
+is influenced by determinants from both the individual and organizational
+context. The multitude of comparative trust evaluations (at level 1) creates
+an appropriate data structure for performing a multilevel analysis of trust
+of various organizations by individuals (Gonzalez-Roma & Hernandez,
+2017; Kozlowski & Klein, 2000). Herein, the dependent variable of public
+trust is nested in the individual and organizational context, which represents the multilevel, or more precisely the cross-level, structure of our
+data set.
+To address our two research questions, we took a step-wise approach to the
+data analysis. First, we specified the levels at which public trust in nonprofit
+organizations is situated and verified if significant variances occur at each of the
+three levels (level 1, and contextual levels 2a and 2b). In this process, we calculated
+the intra-class correlation (ICC 1), which expresses the relative proportion of level
+variances by calculating the proportion of significant variance at the organizational or individual contextual level, compared with the overall variance of the
+individual public’s trust in NPO. The calculation of the ICC 1 values is based on
+null models without fixed-effect independent variables. ICC accordingly depicts
+the amount of significant contextual level variance, divided by the amount of
+
+12
+
+A. BECKER ET AL.
+
+residual variance for the dependent variable. In the context of effectiveness, ICC
+has been frequently used to quantify within-group agreement (Boyer & Verma,
+2000), yet its use is not limited to the agreement function and can be used also in
+other contexts (Rasbash, Charlton, Browne, Healy, & Cameron, 2005). It follows
+that with these calculations, we can test which level in our framework explains
+most. Thus, we are able to answer H1, H2, and H3.
+Second, we analyzed the specific cross-level effects with a multilevel regression analysis. More generally speaking, we assessed if and which individual and
+organizational determinants were influencing the individual’s trust evaluation of
+a nonprofit organization. Herein, a multilevel approach is appropriate because it
+allows for the simultaneous examination of the effects between variables on
+different levels. Using these considerations, we tested the hypotheses with two
+separate multilevel regression analyses, one for each cross-level combination
+(with MLwiN: Rasbash et al., 2005). Although similar results could be obtained
+from a single, integrated analysis, such as a nonhierarchical multilevel structure
+(MCMC approach in Rasbash et al., 2005), we decided to report the two separate
+analyses, because the main findings do not differ, but with this approach, we
+could adopt a much broader, accepted, and standardized estimation (including
+the reporting format).
+For the first regression analysis, the 4,072 trust evaluations are nested in
+1,686 individuals, and we include individual determinants reflecting their
+age, gender, education, household size, income, religion, and citizenship.
+With this analysis, we test Hypothesis 4. Then, in the second analysis, the
+4,072 trust assessments are nested in 102 nonprofit organizations, and we
+include the organizational determinants – accreditation, mission, and history
+and size. This analysis relates to the test of Hypothesis 5a-c.
+
+Results
+Descriptives
+
+Table 2 shows the results for the 40 most trusted nonprofit brands ranked by
+the mean value of the trust evaluation. In the ranking, only nonprofit brands
+with more than 20 evaluations are shown, and the list, therefore, does not
+imply any claim to completeness for the German nonprofit sector. The
+descriptive results indicate that with a mean value of 5.58, the German José
+Carreras Leukemia Foundation had the highest public trust value within the
+selected sample of 40 organizations. Additional high-scoring nonprofit
+brands are the Children’s Missionary Organization “Sternsinger” [5.56],
+German Society of Multiple Sclerosis [5.55], German Leukemia Research
+Aid – Initiative for Children with Cancer [5.54], Aktion Lichtblicke [5.53],
+German Emergency Doctors [5.50], Herzenswünsche [5.48], German AIDS
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+13
+
+Table 2. Top 40 most trusted nonprofit brands in Germany.
+Nonprofit brand names (English translation, if suitable)
+N Evaluationa
+1 German José Carreras Leukemia Foundation
+152
+2 Children’s Missionary Organization “Sternsinger”
+72
+3 German Society of Multiple Sclerosis
+65
+4 German Leukemia Research Aid – Initiative for Children with
+119
+Cancer
+5 Aktion Lichtblicke
+93
+6 German Emergency Doctors
+215
+7 Herzenswünsche
+58
+8 German AIDS Foundation
+23
+9 German Association for Child Protection
+289
+10 Karl Heinz Böhm Foundation
+107
+11 Schweitzer Children’s Village
+39
+12 v. Bodelschwingh Institutions Bethel
+95
+13 Hamburger Tafel
+32
+14 Federal Association for People with Intellectual Disabilities
+336
+15 Worldwide Help for Children
+44
+16 German Red Cross
+40
+17 German Foundation for Monument Protection
+87
+18 German Committee for UNICEF
+41
+19 Kindernothilfe
+25
+20 Robert Bosch Foundation
+20
+21 Children’s Fund for Children in the Third World
+128
+22 ChildFund Germany
+36
+23 RTL Children in Need Foundation
+102
+24 German Children’s Fund
+39
+25 WEISSER RING
+22
+26 BILD helps “A Heart for Children”
+336
+27 Aktion Mensch
+21
+28 CARE Germany-Luxembourg
+113
+29 Int. Conf. f. Youth/Social Work, Education/Labor Market Services
+56
+30 German War Graves Commission
+76
+31 German Heart Foundation
+46
+32 Aktion Deutschland Hilft
+41
+33 ADVENIAT
+53
+34 McDonald’s Children’s Charity
+20
+35 Diakonie Katastrophenhilfe
+37
+36 Kolping Society of Germany
+205
+37 German Young Men’s Christian Association (YMCA)
+259
+38 The social welfare organization of Germany’s Protestant churches
+21
+39 Greenpeace
+27
+40 German National Academic Foundation
+27
+
+Public trust
+(Mean)
+5.58
+5.56
+5.55
+5.54
+5.53
+5.50
+5.48
+5.48
+5.42
+5.34
+5.28
+5.27
+5.26
+5.24
+5.19
+5.13
+5.12
+5.12
+5.12
+5.12
+5.10
+5.10
+5.01
+5.00
+4.98
+4.95
+4.95
+4.94
+4.92
+4.91
+4.87
+4.85
+4.81
+4.75
+4.75
+4.72
+4.70
+4.70
+4.67
+4.58
+
+a
+
+Only nonprofit brands with more than 20 evaluations are shown in this ranking. The list, therefore, does not
+imply any claim to completeness.
+
+Foundation [5.48], German Association for Child Protection [5.42], and Karl
+Heinz Böhm Foundation [5.34].
+The descriptive results provide a first direction toward which of the
+organizational determinants might be relevant in the context of public
+trust. The results indicate that particularly nonprofit organizations with
+a mission focus on health and combating of life-threatening diseases or
+a mission focus on children score comparatively high on public trust.
+Regarding accountability, and accreditation in particular, the descriptive
+
+14
+
+A. BECKER ET AL.
+
+Table 3. Results on importance of levels.
+Intraclass correlation (ICC 1)
+Level
+Level 2a
+Level 1
+Level 2b
+
+Individual context
+Individual public’s trust in NPO
+Organizational context
+
+Level 1 compared
+to Level 2a
+50.91%***
+49.09%***
+
+Level 1 compared
+to Level 2b
+93.62%***
+6.38%***
+
+***p < .001.
+
+results show that nine out of the 10 most trusted nonprofit brands are
+accredited by an external institution, and carry the “DZI Seal-of-Approval”.
+With respect to the organizational history and size, the highest-ranking
+nonprofit brands range from 17 to 169 years, with revenues in the scope
+between 1,416 thousand Euros and 70,443 thousand Euros.
+
+Importance of three different components for explaining public’s trust
+
+To test the importance of each trust component (or more precisely level) in
+comparison to one another, we first appraised the respective ICC 1 values for
+both levels, respectively, and tested for their significance (both ICC 1 values
+were significant with p < .001). To discern the importance of each level, we
+then focused on the size of the ICC 1 values. For the first analysis, in which
+trust evaluations were nested within individuals, the results show that 49.09%
+relates to the individual’s trust evaluations in one of the three possible
+nonprofit organizations, whereas 50.91% of variance is situated at the individual context. For the second analysis, in which trust evaluations were
+nested within organizations, only 6.38% of the variance is situated at the
+organizational context, and 93.62% refers to the individual public’s trust in
+a nonprofit organization. Given the comparatively high ICC 1 values of
+49.09% and 93.62%, public trust in a nonprofit organization depends mostly
+on the specific relationship between the individual and the organization, and
+is thus based on a multitude of individual opinions toward the nonprofit
+organization. It follows that Hypothesis 1 is confirmed. Additionally, the
+individual context does not only influence the individual trust evaluation, but
+plays a major role for explaining public trust and therewith Hypothesis 2 is
+supported by the data. In contrast, the organizational context is least relevant,
+yet significant, for explaining public trust. It follows that Hypothesis 3 is also
+supported by the data. Table 3 provides an overview of the results of this
+analysis.
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+15
+
+Table 4. Results of the multilevel regression analysis.
+Individual
+Determinants
+Level 2a
+Independent
+Variables
+Intercept
+Sociodemographic
+Characteristics
+Age
+Gender
+Education
+Household size
+Monthly net
+income
+Religion
+Citizenship
+
+Δχ2 (d.f. = 10)
+
+Public Trust
+0.818***
+
+0.089***
+-0.168**
+0.032
+0.084***
+-0.049*
+0.081
+0.258
+
+Δχ2 = 31.489***
+
+Organizational
+Determinants
+Level 2b
+Independent Variables
+Intercept
+Accountability
+Accreditation
+Mission Focus
+Disaster, development & social
+services
+Education
+Human rights
+Children
+Health & combating of lifethreatening diseases
+Environment & animals
+Religion
+History & Size
+Age
+Log(total revenues)
+Fit Statistics:
+Δχ2 (d.f. = 7)
+
+Public Trust
+1.042***
+0.202*
+0.011
+
+-0.194
+-0.012
+0.165*
+0.177
+-0.124
+-0.386***
+0.002*
+-0.029
+Δχ2 = 1,288.273***
+
+* p < .05; ** p < .01; *** p < .001. Note: N = 4,072 trust evaluations from N = 1,686 respondents, relating to
+N = 102 nonprofit organizations.
+
+Influence of individual and organizational determinants on public’s trust
+
+Table 4 provides an overview of the results of the multilevel regression
+analysis. Noting the change in the −2log likelihood, we chose the alternative
+models, over the null models, because they provided a significant model
+improvement in the chi-square test (p < .001) (Rasbash et al., 2005). With
+respect to the hypothesized cross-level effects, we found some significant
+individual and organizational determinants, in general support of our proposition that both contexts are relevant and that public trust in nonprofit
+organizations depends on these determinants, at different levels.
+The results for the individual context model identify four significant sociodemographic characteristics: age, gender, household size, and income. Older
+persons express more trust (.089; p < .001), and men, compared with women,
+score lower in their trust (−.168; p < .01). Households with more members, such as
+families or flat-sharing communities, trust more (.084; p < .001). Finally, income
+has a significant effect on trust, such that low-income people trust more (−.049;
+p < .05). In contrast, for citizenship, education levels, and religion, we find no
+noteworthy effects. It follows that Hypothesis 4 is (partially) supported by the data.
+In the results for the organizational context, we find that the organizational
+determinants, namely accountability, mission, as well as history and size all
+
+16
+
+A. BECKER ET AL.
+
+influence public trust in nonprofit organizations. Precisely, the accreditation, DZI
+Seal-of-Approval, has a significant influence on trust (.202; p < .05). Several
+mission categories score higher than others; in particular, nonprofit organizations
+that focus on children in their missions are significantly more trusted than others
+(.165; p < .05). However, organizations with a religious mission are comparatively
+less trusted by the general public than organizations without such a focus (−.386;
+p < .001). The history of a nonprofit organization also relates to the public’s trust
+(.002; p < .05). This effect is small but still relevant, in that some organizations are
+more than a century old. Finally, we find no noteworthy effects of the organization’s total revenues. To sum up, Hypotheses 5a-c are thus supported by the data.
+Table 5 provides an overview of all hypotheses supported.
+Concluding discussion and future research
+Overall, the key findings of our study reveal considerable differences in the
+importance of the different trust-building components, or levels, for explaining
+the public’s trust. Given the comparatively high ICC 1 values of 49.09% and
+93.62%, public trust in a nonprofit organization depends mostly on the specific
+relationship between the individual and the nonprofit organization. This might
+stem from the fact that a person’s trust evaluation mainly builds from characteristics of his or her actual trust relationship and experiences he or she has with each
+single organization. This view is widely supported in trust research, given the high
+importance of trust at the so-called individual level (Fulmer & Gelfand, 2012).
+However, with an ICC 1 value of 50.91%, a person’s individual background
+appears to determine assessments of the trustworthiness of a nonprofit organization substantially. It follows that when a person evaluates several relationships
+with different organizations; his or her background influences such evaluations
+similarly. The high importance of the individual context for the public’s trust
+might be due to the fact that trust varies widely according to each person’s
+characteristic qualities (see also Lewicki, Tomlinson, & Gillespie, 2006). Our
+results are based on an investigation of mostly sociodemographic characteristics,
+and we found age, gender, income, and household size to be relevant as older,
+female, and low-income people and those from larger households are more likely
+to trust nonprofit organizations. Yet, given the comparatively high ICC 1 values of
+49.09% versus 50.91; the public’s trust is nearly equally based on a multitude of
+individual beliefs and expectations toward the organization.
+The varying effects among people’s sociodemographic characteristics regarding
+their interactions in trustful relationships might stem from different mechanisms
+such as solicitation, value, cost mechanisms, and awareness of need that work
+differently among persons. In the context of pro-social behavior toward nonprofit
+organizations, and philanthropic behavior, in particular, existent studies typically
+show a positive relationship with age (for an extensive literature overview, see
+Bekkers & Wiepking, 2011). While there is no certain agreement about the
+
+Research Questions
+RQ1 How is trust built among the general public, and which
+components are most important to explain public’s trust in
+nonprofit organizations?
+
+H
+Hypotheses
+supported
+H1 The individual trust evaluation has the largest influence on the public’s trust in a
+Yes
+nonprofit organization, compared to the individual (trustor) and the organizational
+(trustee) context.
+H2 The individual (trustor) context has a positive influence on the individual trust
+Yes
+evaluation of a nonprofit organization.
+H3 The organizational (trustee) context has a positive influence on the individual trust
+Yes
+evaluation of a nonprofit organization.
+RQ2 Which of the individual and organizational determinants explain the H4 Individual determinants in the form of sociodemographics influence the individual
+Yes
+public’s trust in a nonprofit organization most?
+trust evaluation of a nonprofit organization.
+H5a Organizational determinants in the form of (a) accountability influence the
+Yes
+individual trust evaluation of a nonprofit organization.
+H5b Organizational determinants in the form of (b) mission influence the individual trust
+Yes
+evaluation of a nonprofit organization.
+H5c Organizational determinants in the form of (c) history & size influence the individual
+Yes
+trust evaluation of a nonprofit organization.
+
+Table 5. Overview of hypotheses supported.
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+17
+
+18
+
+A. BECKER ET AL.
+
+correlation of specific age ranges and pro-social behavior, most studies find that
+older individuals are typically more pro-socially engaged, while this effect decreases
+at higher ages; due to life-cycle or cohort effects. Regarding gender, existent
+empirical studies show varying results; some confirming our study’s results in
+that women are more like to engage in pro-social behavior toward nonprofit
+organizations (e.g., with regard to giving or volunteering behavior, see Einolf,
+2011). Rhoads (2005) argues that women tend to have a greater capacity when it
+comes to the principle of care, empathic concern and higher prosocial values, yet,
+little is known about the underlying mechanisms (De Wit & Bekkers, 2016).
+The relationship between income and pro-social behavior toward nonprofit
+organizations, and giving behavior, in particular, has been of large study interest,
+showing a positive relationship between wealth and the amount donated. When
+it comes to trusting behavior, little is known about the rationale of low-income
+individuals trusting more. One possible mechanism might relate to the awareness of need, given that an individual’s sense of affinity with other low-income
+individuals being targeted by the nonprofit organization might impact his or her
+trusting behavior. In the context of giving behavior, Bennett (2012) finds the
+sense of an individual’s affinity with other low-income individuals and general
+beliefs about how unfairly society treats the poor exerted significant impacts on
+giving behavior; whereas this effect was influenced by the person’s educational
+level. Lastly, individuals from larger households tend to pose higher levels of
+trust toward nonprofit organizations. Large households usually contain (more)
+children, and having children increases the awareness of need, and families are
+also more likely exposed to solicited offers (Wiepking & Bekkers, 2012).
+Moreover, with an ICC 1 value of 6.38%, our study reveals less relative importance of the organizational context regarding public’s trust. It follows that each
+organizational context influences trustors only on a small scale in a similar way.
+One reason for this effect might be that nonprofit organizations, compared to
+commercial business or public organizations, possess per se higher trust values
+(Edelman, 2019), and nonprofit organizations’ perception relating to trustworthiness is rather similar among the general public. Within the context of low
+organizational context relevance, we found that well-established organizations,
+and organizations with a specific mission as well as those that are accredited,
+achieve comparatively higher levels of trust. This might stem from the fact that
+well-established organizations have generated greater awareness and familiarity
+among the public which results in higher trust. Besides, the importance of the
+respective nonprofit organization’s mission, and particularly when it relates to
+supporting children’s welfare, may stem from mechanisms such as higher awareness of need, higher solicitation, or greater consistency between the individual’s
+and organization’s values. Lastly, accreditation and other attempts to show
+a nonprofit organization’s transparency and trustworthiness might be important
+for the general public as such certificates reduce risks in trustful exchange
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+19
+
+relationships, and thus help trustors to weigh up cost and benefits regarding
+entering such relationships.
+Research implications
+
+As a point of departure, this study complements and specifies undifferentiated
+notions in previous research about the public’s trust in nonprofit organizations,
+and beyond that, in organizations in general. Thereby, our study offers a more
+complex perspective on trust and contributes to trust research in three main ways.
+First, although nonprofit organizations depend particularly on trust, the academic
+discussion is rather unilateral, largely focusing on a single stakeholder group.
+Compared to mainly donor trust, public trust has been only focused on more
+recently. Considering its increasing practical relevance, more scholars are starting
+to investigate the public’s trust in nonprofit organizations. Still, from the few
+studies, most investigations take a conceptual perspective (e.g., Bryce, 2007;
+O’Neill, 2009), or focus on the rather dominant organizational context (Farwell
+et al., 2018; Furneaux & Wymer, 2015). In contrast, we provide empirical insights
+into the trust-building processes among the general public, including both trust
+parties’ context. As our results show, public trust essentially demands a broad and
+more comprehensive perspective, revealing that this complex phenomenon
+emerges not just from a single determinant but rather results from the interaction
+of multiple causes.
+This leads to our second contribution, the investigation of public trust in
+nonprofit organizations from a so-called multilevel perspective. To the best of
+our knowledge, this study is the first to address, conceptually and empirically,
+the issue of trust in nonprofit organizations across different levels of analysis. In
+line with other studies (e.g., Jones & Shah, 2015; Schilke & Cook, 2013), our
+study offers empirical evidence, gathered from a large sample of individuals and
+nonprofit organizations in Germany, that the public’s trust in nonprofit organizations is situated at different levels and that certain contextual determinants
+are relevant to this trust. The trust concept thus should not be limited to a single
+conceptual or operational level. Several levels in combination can be relevant. As
+the public’s trust in nonprofit organizations depends mostly on the specific
+relationship between the individual and the nonprofit organization, this finding
+has major methodological and conceptual consequences for studies that focus
+on trust as an organizational-level construct. Multiple individual opinions are
+needed to assess public trust in an organization, and specific relational and
+individual elements need to be considered to develop a full, thorough understanding of an organization’s trustworthiness. Yet few trust studies use multilevel investigations, or explicitly examine trust in individual and organizational
+contexts (Jones & Shah, 2015). Our findings among other studies from organizational science, in turn, highlight the need for in-depth analyses (see also,
+Fulmer & Gelfand, 2012; Mayer, Davis, & Schoorman, 1995).
+
+20
+
+A. BECKER ET AL.
+
+Third, in nonprofit management and marketing research, organizational
+efforts to build and restore public trust are prominent. Besides the organizational context, the importance of individual characteristics for pro-social
+behavior toward nonprofit organizations has been highlighted. Little is
+known about the interrelation between these contextual components and
+the public trust evaluations, and most previous studies focus on the latter
+component alone. The expectations at this level support the subjective nature
+of trust, as it is embedded in attribution and social identity theories. Both
+these theories also are context dependent, such that different findings and
+propositions likely arise from different contexts. We clarify how some contextual elements explain this diversity. Further research also could incorporate more details about specific backgrounds and context while applying
+attribution and social identity theories to nonprofit organizations.
+Managerial implications
+
+The study results provide bases for some useful recommendations for managers and marketers of all kinds of organizations, but nonprofit organizations
+in particular. A key recommendation is that nonprofit marketers should
+regard public trust as a complex entity, influenced by determinants on several
+levels. To capture the full potential of efforts to increase public trust in their
+organizations, marketers should apply a more integrated approach in practice, with tactics at both the organizational and individual contextual levels.
+Noting the low variance in the organizational context and the widely varying
+individual opinions about any single nonprofit organization, marketers
+should take sociodemographic characteristics into account and refrain from
+applying any one-size-fits-all strategy to increase trust.
+At the organizational contextual level, our findings suggest that accreditation
+that indicates the transparency and trustworthiness of nonprofit organizations can
+increase trust in those. Therefore, nonprofit organizations should apply for the
+DZI Seal-of-Approval or corresponding seals and certificates in other nations. For
+nonprofit organizations whose mission relates to children’s welfare, marketers
+should highlight the mission in their marketing efforts. Similarly, if the nonprofit
+organization has been well established and reached an advanced age, this status
+should be communicated to the public. This organizational context thus offers
+a range of trust-building actions, but they are relatively less important than the
+factors that constitute the individual context. We recommend that nonprofit
+marketers carefully consider whether to devote effort, financial resources, and
+time to apply for certificates or develop new marketing campaigns.
+Finally, at the individual contextual level, nonprofit marketers should
+recognize the potential benefits of segmenting their stakeholder groups. In
+particular, they should consider how to develop targeted marketing campaigns for different stakeholders that will increase their trust in the
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+21
+
+organizations. A sociodemographic segmentation should focus mainly on
+individual stakeholders’ ages, gender, net income, and household size. The
+stakeholder groups that exhibit the greatest potential are younger men,
+wealthy people, and those from single-person households.
+
+Limitations and further research
+
+Some limitations of this study suggest directions for further research, beyond
+those indicated by our findings. First, we find that the individual context is
+highly relevant for explaining trust in nonprofit organizations, because
+50.91% of variance relates to this level. But this study focuses on sociodemographic characteristics at the individual level, so we cannot explain all
+the variance. That is, we identify the importance of this level but can only
+account for one relevant contextual component, such that we were forced to
+neglect others. Recent studies, for example, highlighted the relevance of trust
+contextualization within broader social and institutional trust (Farwell et al.,
+2018; Hager & Hedberg, 2016), in that each trust evaluation of a nonprofit
+organization is influenced by these broader forms of trust. Further research
+could include additional variables at this level, such as an individual’s unique
+trust-related and psychographic characteristics.
+Second, nonprofit organizations with religious missions are comparatively less
+trusted by the general public than organizations without such a mission (coefficient = −0.386). At first glance, this strong effect may seem surprising, especially
+because many nonprofit organizations operate in affiliation with churches and
+other religious organizations (Weisbrod, 1988). We posit that a series of church
+scandals in Germany might have created negative spillover effects on churchrelated organizations. In addition, differences between the general public and
+certain stakeholder groups might result in different effects; for example, people
+with a religious background reacted differently to a nonprofit organization with
+a religious mission than those with a non-religious background. This finding is
+interesting for further research; a thorough investigation was beyond the scope of
+this study. We encourage researchers to investigate the fit between individual and
+organizational contextual elements, by examining specific individual–organizational trust matches. These limitations and avenues for research together indicate
+the relevance of additional studies on trust in various contexts; we consider it
+a very promising area for trust research. This initial evidence should, we hope,
+stimulate and contribute to the much needed discussion about an integrated view
+of trust in nonprofit organizations.
+
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+22
+
+A. BECKER ET AL.
+
+ORCID
+Jurgen Willems
+
+http://orcid.org/0000-0002-4439-3948
+
+References
+Alhidari, I. S., Veludo-de-Oliveira, T. M., Yousafzai, S. Y., & Yani-de-Soriano, M. (2018).
+Modeling the effect of multidimensional trust on individual monetary donations to
+charitable organizations. Nonprofit and Voluntary Sector Quarterly, 47, 623−644.
+Archambeault, D. S., & Webber, S. (2018). Fraud survival in nonprofit organizations:
+Empirical evidence. Nonprofit Management and Leadership, 29, 29−46. doi:10.1002/
+nml.2018.29.issue-1
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. Academy of
+Management Review, 14, 20−39. doi:10.5465/amr.1989.4278999
+Aurier, P., & N’Goala, G. (2010). The differing and mediating roles of trust and relationship
+commitment in service relationship maintenance and development. Journal of the Academy
+of Marketing Science, 38, 303−325. doi:10.1007/s11747-009-0163-z
+Bagozzi, R. P., Yi, Y., & Phillips, L. W. (1991). Assessing construct validity in organizational
+research. Administrative Science Quarterly, 36, 421−458. doi:10.2307/2393203
+Becker, A. (2018). An experimental study of voluntary nonprofit accountability and effects on
+public trust, reputation, perceived quality, and donation behavior. Nonprofit and Voluntary
+Sector Quarterly, 47, 562−582.
+Bekkers, R. (2003). Trust, accreditation and philanthropy in the Netherlands. Nonprofit and
+Voluntary Sector Quarterly, 32, 596−615. doi:10.1177/0899764003258102
+Bekkers, R., & Wiepking, P. (2011). Who gives? A literature review of predictors of charitable
+giving part one: Religion, education, age and socialisation. Voluntary Sector Review, 2, 337‒
+365. doi:10.1332/204080511X6087712
+Bennett, R. (2012). Why urban poor donate: A study of low-income charitable giving in
+London. Nonprofit and Voluntary Sector Quarterly, 41(5), 870‒891. doi:10.1177/
+0899764011419518
+Boenigk, S. (2014). Introduction to the special issue on innovative nonprofit relationship
+marketing. International Journal of Nonprofit and Voluntary Sector Marketing, 19, 53‒56.
+Boyer, K. K., & Verma, R. (2000). Multiple raters in survey-based operations management
+research: A review and tutorial. Production and Operations Management, 9, 128−140.
+doi:10.1111/j.1937-5956.2000.tb00329.x
+Bryce, H. J. (2007). The public’s trust in nonprofit organizations: The role of relationship
+marketing and management. California Management Review, 49, 112−131. doi:10.2307/
+41166408
+Chisolm, L. B. (2008). What would the princess want? Nonprofit Management and
+Leadership, 18, 377‒380. doi:10.1002/(ISSN)1542-7854
+De Wit, A., & Bekkers, R. (2016). Exploring gender differences in charitable giving: The
+Dutch case. Nonprofit and Voluntary Sector Quarterly, 45(4), 741–761. doi:10.1177/
+0899764015601242
+Delhey, J., & Newton, K. (2005). Predicting cross-national levels of social trust: Global pattern
+or Nordic exceptionalism? European Sociological Review, 12, 311–327. doi:10.1093/esr/
+jci022
+DZI [German central institute for social issues]. (2014). DZI Seal for Approval. Retrieved from
+http://www.dzi.de/dzi-institut/verlag/spenden-almanach/
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+23
+
+Edelman. (2019). Edelman trust barometer 2019. Retrieved from https://www.edelman.com/
+trust-barometer
+Einolf, C. J. (2011). Gender differences in the correlates of volunteering and charitable giving.
+Nonprofit and Voluntary Sector Quarterly, 40(6), 1092−1112. doi:10.1177/
+0899764010385949
+Farwell, M. M., Shier, M. L., & Handy, F. (2018). Explaining trust in Canadian charities: The
+influence of public perceptions of accountability, transparency, familiarity and institutional
+trust. VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, 1−15.
+online first. doi:10.1007/s11266-018-00046-8
+Fehrler, S., & Kosfeld, M. (2013). Can you trust the good guys? Trust within and between
+groups with different missions. Economics Letters, 121, 400−404. doi:10.1016/j.
+econlet.2013.09.007
+Feldheim, M. A., & Wang, X. (2004). Ethics and public trust: Results from a national survey.
+Public Integrity, 6, 63−75.
+Feng, N. C., Neely, D. G., & Slatten, L. A. D. (2016). Accountability standards for nonprofit
+organizations: Do organizations benefit from certification programs? International Journal
+of Public Administration, 39, 470−479. doi:10.1080/01900692.2015.1023444
+Fulmer, C. A., & Gelfand, M. J. (2012). At what level and in whom we trust: Trust across
+multiple organizational levels. Journal of Management, 38, 1167−1230. doi:10.1177/
+0149206312439327
+Furneaux, C., & Wymer, W. (2015). Public trust in Australian charities: Accounting for cause
+and effect. Third Sector Review, 21, 99−127.
+Geigenmüller, A., & Greschuchna, L. (2011). How to establish trustworthiness in initial
+service encounters. Journal of Marketing Theory and Practice, 19, 391−406. doi:10.2753/
+MTP1069-6679190403
+Gonzalez-Roma, V., & Hernandez, A. (2017). Multilevel modeling: Research-based lessons for
+substantive researchers. Annual Review of Organizational Psychology and Organizational
+Behavior, 4, 183−210. doi:10.1146/annurev-orgpsych-041015-062407
+Greiling, D. (2007). Trust and performance management in non-profit organizations. The
+Innovation Journal: Public Sector Innovation Journal, 12, 9−32.
+Hager, M. A., & Hedberg, E. C. (2016). Institutional trust, sector confidence, and charitable
+giving. Journal of Nonprofit & Public Sector Marketing, 28(2), 164−184. doi:10.1080/
+10495142.2015.1011508
+Hansmann, H. (2003). The role of trust in nonprofit enterprise. In H. K. Anheier &
+A. Ben-Ner (Eds.), The study of the nonprofit enterprise (pp. 115–122). New York, NY:
+US Springer.
+Hansmann, H. B. (1980). The role of nonprofit enterprise. The Yale Law Journal, 89, 835–901.
+doi:10.2307/796089
+James, R. N., & Wiepking, P. (2008). A comparative analysis of educational donors in the
+Netherlands. International Journal of Educational Advancement, 8, 71−78. doi:10.1057/
+ijea.2008.9
+Jones, S. L., & Shah, P. P. (2015). Diagnosing the locus of trust: A temporal perspective for
+trustor, trustee, and dyadic influences on perceived trustworthiness. Journal of Applied
+Psychology, 101, 392−414.
+Kearns, K. P. (2014). Ethical challenges in nonprofit organizations: Maintaining public trust.
+In H. G. Frederickson & R. K. Ghere (Eds.), Ethics in public management (pp. 265‒292).
+London: Routledge.
+Kelley, H. H. (1967). Attribution theory in social psychology. Nebraska Symposium on
+Motivation, 15, 192–238.
+
+24
+
+A. BECKER ET AL.
+
+Knapp, J. R., Sprinkle, T. A., Urick, M. J., & Delaney-Klinger, K. A. (2019). The belonging
+model of trust. Nonprofit Management and Leadership. online first. doi: 10.1002/
+nml.21370
+Kozlowski, S. W. J., & Klein, K. J. (2000). A multilevel approach to theory and research in
+organizations. Contextual, temporal, and emergent processes. In K. J. Klein &
+S. W. J. Kozlowski (Eds.), Multilevel theory, research, and methods in organizations,
+foundations, extensions, and new directions (pp. 3−90). San Francisco, CA: Jossey-Bass.
+Laidler-Kylander, N., Quelch, J. A., & Simonin, B. L. (2007). Building and valuing global
+brands in the nonprofit sector. Nonprofit Management and Leadership, 17, 253−277.
+doi:10.1002/nml.149
+Lewicki, R. J., Tomlinson, E. C., & Gillespie, N. (2006). Models of interpersonal trust
+development: Theoretical approaches, empirical evidence, and future directions. Journal
+of Management, 32, 991−1022. doi:10.1177/0149206306294405
+MacMillan, K., Money, K., Money, A., & Downing, S. (2005). Relationship marketing in the
+not-for-profit sector: An extension and application of the commitment–Trust theory.
+Journal of Business Research, 58, 806‒818. doi:10.1016/j.jbusres.2003.08.008
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational
+trust. Academy of Management Review, 20, 709−734. doi:10.5465/amr.1995.9508080335
+McDonald, R. E. (2007). An investigation of innovation in nonprofit organizations: The role
+of organizational mission. Nonprofit and Voluntary Sector Quarterly, 36, 256−281.
+doi:10.1177/0899764006295996
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship
+marketing. Journal of Marketing, 58, 20−38. doi:10.1177/002224299405800302
+Naskrent, J., & Siebelt, P. (2011). The influence of commitment, trust, satisfaction, and
+involvement on donor retention. VOLUNTAS: International Journal of Voluntary and
+Nonprofit Organizations, 22, 757‒778. doi:10.1007/s11266-010-9177-x
+Nieminen, T., Martelin, T., Koskinen, S., Simpura, J., Alanen, E., Härkänen, T., & Aromaa, A.
+(2008). Measurement and socio-demographic variation of social capital in a large
+population-based survey. Social Indicators Research, 85, 405‒423.
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory (3rd ed.). New York, NY:
+McGraw-Hill.
+O’Neill, M. (2009). Public confidence in charitable nonprofits. Nonprofit and Voluntary
+Sector Quarterly, 38, 237‒269.
+Olsen, S. O. (2002). Comparative evaluation and the relationship between quality, satisfaction, and repurchase loyalty. Journal of the Academy of Marketing Science, 30, 240−249.
+doi:10.1177/0092070302303005
+Ortmann, A., & Schlesinger, M. (2003). Trust, repute, and the role of nonprofit enterprise. In
+H. K. Anheier & A. Ben-Ner (Eds.), The study of the nonprofit enterprise (pp. 77‒114).
+New York, NY: US Springer.
+Prakash, A., & Gugerty, M. K. (2010). Trust but verify? Voluntary regulation programs in the
+nonprofit sector. Regulation & Governance, 4, 22‒47.
+Rasbash, J., Charlton, C., Browne, W. J., Healy, M., & Cameron, B. (2005). MLwiN version
+2.02. Centre for Multilevel Modelling, University of Bristol, Bristol.
+Rhoads, S. E. (2005). Taking sex differences seriously. San Francisco, CA: Encounter Books.
+Rimington, J. (2018). Five tips to avoid a scandal like Oxfam Great Britain’s. Stanford Social
+Innovation Review. Retrieved from https://ssir.org/articles/entry/five_tips_to_avoid_a_scan
+dal_like_oxfam_great_britain
+Rose-Ackerman, S. (1996). Altruism, nonprofits, and economic theory. Journal of Economic
+Literature, 34, 701‒728.
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+25
+
+Sargeant, A. (2009). Marketing management for nonprofit organizations (3rd ed.). Oxford:
+Oxford University Press.
+Sargeant, A., & Lee, S. (2002). Improving public trust in the voluntary sector: An empirical
+analysis. International Journal of Nonprofit and Voluntary Sector Marketing, 7, 68−83.
+doi:10.1002/(ISSN)1479-103X
+Sargeant, A., & Lee, S. (2004). Donor trust and relationship commitment in the U.K. charity
+sector: The impact on behavior. Nonprofit and Voluntary Sector Quarterly, 33, 185‒202.
+doi:10.1177/0899764004263321
+Sargeant, A., & Woodliffe, L. (2007). Building donor loyalty: The antecedents and role of
+commitment in the context of charity giving. Journal of Nonprofit and Public Sector
+Marketing, 18, 47−68. doi:10.1300/J054v18n02_03
+Schilke, O., & Cook, K. S. (2013). A cross-level process theory of trust development in
+interorganizational relationships. Strategic Organization, 11, 281−303. doi:10.1177/
+1476127012472096
+Schoorman, F. D., Mayer, R. C., & Davis, J. H. (2007). An integrative model of organizational
+trust: Past, present, and future. Academy of Management Review, 32, 344−354. doi:10.5465/
+amr.2007.24348410
+*** self-identifying reference that will be added at the end of the review process.
+Shamir, B., & Lapidot, Y. (2003). Trust in organizational superiors: Systematic and collective
+considerations. Organization Studies, 24, 463−491. doi:10.1177/0170840603024003912
+Slatten, L. A. D., Guidry, B. N., & Austin, W. (2011). Accreditation and certification in the
+non-profit sector: Organizational and economic implications. Organization Management
+Journal, 8, 112−127. doi:10.1057/omj.2011.17
+Stolle, D. (1998). Bowling together, bowling alone. The development of generalized trust in
+voluntary associations. Political Psychology, 19, 497–526. doi:10.1111/0162-895X.00115
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In
+W. G. Austin & S. Worchel (Eds.), The social psychology of intergroup relations (pp. 33
+−47). Monterey, CA: Brooks/Cole.
+United Nations. (2019). UN sustainable development goals. Retrieved from https://www.un.
+org/sustainabledevelopment/sustainable-development-goals/
+Weisbrod, B. A. (1988). The nonprofit economy. Cambridge, MA: Harvard University Press.
+Wiedmann, K. P., Hennigs, N., Schmidt, S., & Wuestefeld, T. (2011). The importance of
+brand heritage as a key performance driver in marketing management. Journal of Brand
+Management, 19, 182−194. doi:10.1057/bm.2011.36
+Wiepking, P., & Bekkers, R. (2012). Who gives? A literature review of predictors of charitable
+giving. Part two: Gender, family composition and income. Voluntary Sector Review, 3, 217
+−245. doi:10.1332/204080512X649379
+Willems, J., & Faulk, L. (2019). Does voluntary disclosure matter when organizations violate
+stakeholder trust?. Journal of behavioral public administration, 2.
+Willems, J., Jegers, M., & Faulk, L. (2016). Organizational effectiveness reputation in the nonprofit sector. Public Performance & Management Review, 39, 454−475.
+Wymer, W. (2012). Gender differences in social support in the decision to volunteer.
+International Review on Public and Nonprofit Marketing, 9, 19−26.
+
+26
+
+A. BECKER ET AL.
+
+Appendix
+Organization sample and corresponding contextual characteristics (N = 102)
+
+Nonprofit brand names (English translation, if suitable)
+1
+Aktion Deutschland Hilft
+2
+Aktion Lichtblicke
+3
+Aktion Mensch
+4
+Animal Welfare Association Arche 90
+5
+Attac Association
+6
+Bible TV Foundation
+7
+BILD helps “A Heart for Children”
+8
+Bread for the World – Protestant Development Service
+9
+CARE Germany-Luxembourg
+10 Charity Aid to the Church in Need
+11 ChildFund Germany
+12 Children’s Fund for Children in the Third World
+13 Children’s Missionary Organization “Sternsinger”
+14 Diakonie Katastrophenhilfe
+15 Engineers Without Borders
+16 Episcopal Campaign ADVENIAT
+17 Episcopal Relief Organization Misereor
+18 Federal Agency for Technical Relief
+19 Federal Association for People with Intellectual Disabilities
+20 Federal Association for the Protection of Animals
+21 Federal Foundation for the Environment
+22 foodwatch
+23 Four Paws
+24 Friends of the Earth Germany (BUND)
+25 Fundraising Group of Mary’s sisters
+26 General German Automobile Club
+27 German Academic Exchange Service
+28 German Agro Action
+29 German AIDS Foundation
+30 German Animal Welfare Association
+31 German Association for Child Protection
+32 German Association for Nature Conservation
+33 German Bone Marrow Donor Center
+34 German Cancer Aid
+35 German Caritas Association
+36 German Children’s Fund
+37 German Committee for AIESEC
+38 German Committee for UNICEF
+39 German Emergency Doctors
+40 German Federal Association of Dinner Tables
+41 German Foundation for Monument Protection
+42 German Foundation for World Population
+43 German Heart Foundation
+44 German José Carreras Leukemia Foundation
+45 German Leukemia Research Aid – Initiative for Children with
+Cancer
+46 German Maritime Search and Rescue Service
+47 German National Academic Foundation
+
+DZIa Missionb
+1
+a
+1
+d
+0
+d
+0
+f
+0
+c
+0
+gh
+0
+d
+1
+ag
+0
+a
+1
+g
+1
+ad
+1
+ad
+1
+adg
+1
+ag
+0
+a
+1
+ag
+1
+ag
+0
+af
+1
+a
+0
+f
+0
+f
+0
+c
+0
+f
+0
+f
+1
+adg
+0
+ah
+0
+b
+1
+a
+1
+e
+1
+f
+0
+cd
+0
+f
+0
+e
+0
+e
+1
+ag
+0
+cd
+0
+b
+1
+acd
+1
+a
+1
+a
+0
+h
+1
+a
+0
+e
+1
+e
+1
+de
+
+Agec
+4
+17
+51
+25
+12
+14
+37
+56
+35
+68
+37
+40
+169
+63
+12
+54
+57
+65
+57
+53
+25
+13
+27
+40
+41
+112
+90
+53
+28
+134
+62
+116
+24
+41
+28
+43
+59
+62
+36
+20
+30
+24
+36
+20
+20
+
+Revd
+82,511
+3,923
+46,018
+254,000
+n.a.
+9,017
+19,068
+263,385
+25,587
+9,036
+7,978
+512,000
+70,443
+61,446
+679,000
+38,408
+178,200
+178,800
+10,038
+536,000
+134,203
+2,033
+13,117
+19,406
+15,888
+949,746
+469,662
+152,412
+2,299
+24,053
+1,467
+31,725
+9,985
+81,100
+138,943
+5,995
+n.a.
+96,869
+3,664
+6,111
+41,573
+6,720
+10,196
+n.a.
+11,904
+
+1
+0
+
+150
+90
+
+40,606
+79,221
+
+aeh
+b
+
+(Continued )
+
+JOURNAL OF NONPROFIT & PUBLIC SECTOR MARKETING
+
+27
+
+(Continued).
+Nonprofit brand names (English translation, if suitable)
+DZIa Missionb
+48 German National Association of Worldshops
+0
+afh
+49 German Red Cross
+1
+ac
+50 German Section of amnesty international
+0
+c
+51 German Society of Multiple Sclerosis
+1
+e
+52 German UNESCO commission
+0
+bh
+53 German War Graves Commission
+0
+ah
+54 German Young Men’s Christian Association YMCA)
+1
+g
+55 Greenpeace
+0
+f
+56 Hamburger Tafel
+0
+a
+57 Hans Böckler Foundation
+0
+b
+58 Heinrich Böll Foundation
+0
+cf
+59 Hermann-Gmeiner-Fonds – SOS Children’s VillagesWorldwide
+1
+adg
+60 Herzenswünsche
+1
+d
+61 Hinz&Kunzt gemeinnützige Verlags- und Vertriebs GmbH
+0
+a
+62 Int. Conf. f. Youth/Social Work, Education/Labor Market Services
+0
+abh
+63 International Fund for Animal Welfare
+0
+f
+64 Islamic Relief Germany
+0
+ag
+65 Karl Heinz Böhm Foundation
+1
+a
+66 Kindernothilfe
+1
+ad
+67 Kolping Society of Germany
+0
+ag
+68 Konferenz für Kirchliche Bahnhofsmission
+0
+ag
+69 Konrad Adenauer Foundation
+0
+abgh
+70 Maltese Charity Service
+0
+ag
+71 McDonald’s Children’s Charity
+1
+de
+72 Michael Stich Foundation
+0
+e
+73 OXFAM Germany
+1
+a
+74 Paritätisches Bildungswerk Bundesverband
+0
+ab
+75 PETA Germany
+0
+f
+76 Plan International Germany
+1
+ad
+77 Red Aid
+0
+h
+78 Robert Bosch Foundation
+0
+bh
+79 ROBIN WOOD
+0
+f
+80 Rosa Luxemburg Foundation
+0
+bh
+81 RTL Children in Need Foundation
+1
+ad
+82 Salvation Army in Germany
+1
+ag
+83 Save the Children Germany
+1
+ad
+84 Schweitzer Children’s Village
+0
+ad
+85 SOS Children’s Villages
+1
+adg
+86 St. John Ambulance Brigade
+1
+adg
+87 TERRA MATER
+0
+f
+88 terre des hommes Germany
+1
+ad
+89 The social welfare organization of Germany’s Protestant churches 0
+ag
+90 Transfair, Society for the Promotion of Fair Trade with Third World 0
+ah
+91 Transparency International Germany
+0
+h
+92 UN Refugee Aid Organization
+1
+a
+93 v. Bodelschwingh Institutions Bethel
+0
+a
+94 Viva con Agua de Sankt Pauli
+0
+f
+95 Voluntary Fire Brigade
+0
+ah
+96 WEISSER RING
+0
+ah
+97 Worker’s Samaritan Association of Germany
+0
+a
+98 Workers Welfare
+0
+a
+99 World Vision Germany
+1
+adg
+100 World Wide Fund for Nature Germany
+0
+f
+
+Agec
+Revd
+40 877,000
+94 136,195
+54
+17,396
+63
+1,416
+65
+n.a.
+96
+29,499
+133 10,031
+35
+54,582
+21
+n.a.
+38
+65,000
+29
+51,562
+52 137,497
+23
+1,693
+22
+1,963
+66 514,800
+29
+10,069
+19
+15,271
+34
+9,346
+56
+58,229
+13
+n.a.
+105
+n.a.
+60 136,035
+62 284,786
+28
+13,036
+21
+n.a.
+20
+8,508
+51
+n.a.
+22
+4,173
+26 324,629
+40
+n.a.
+51
+98,272
+33 960,000
+25
+43,280
+18
+15,344
+150 21,324
+11
+15,848
+58
+2,180
+60 254,673
+63 703,102
+19
+1,640
+48
+22,033
+166
+n.a.
+23
+7,337
+22 355,000
+35
+9,371
+148
+4,181
+9
+1,248
+n.a.
+n.a.
+39
+18,554
+106 1,285,263
+17
+4,583
+36
+80,466
+52
+64,080
+
+(Continued )
+
+28
+
+A. BECKER ET AL.
+
+(Continued).
+Nonprofit brand names (English translation, if suitable)
+101 Worldwide Help for Children
+102 wünschdirwas
+
+DZIa Missionb Agec
+0
+ad
+44
+1
+ad
+26
+
+Revd
+n.a.
+n.a.
+
+Notes: German NPO names are available on request; n.a. = data not available.
+Organizations that carried the “DZI Seal-of-Approval” in 2014 indicated with “1”.
+b
+Organizational mission focus: (a) desaster, development and social services, (b) education, (c) human rights,
+(d) children, (e) health and combating of life-threatening diseases, (f) environment and animals, (g)
+religion, (h) other.
+c
+Age of the organization in years since its founding.
+d
+Organization’s total revenues (mainly from 2013) in thousand Euros.
+a
+
+

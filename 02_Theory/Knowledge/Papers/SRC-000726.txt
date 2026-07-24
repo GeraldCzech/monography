@@ -1,0 +1,2447 @@
+ARTICLE IN PRESS
+
+Nature Communications
+
+https://doi.org/10.1038/s41467-026-70230-8
+
+Article in Press
+
+Meta-analyses on charitable giving clarify evidence
+for empathic and effective altruism
+Matthew J. Hornsey, Jessica L. Spence & Cassandra M. Chapman
+
+Received: 2 May 2024
+Accepted: 23 February 2026
+
+S
+
+We are providing an unedited version of this manuscript to give early access to its
+findings. Before final publication, the manuscript will undergo further editing. Please
+note there may be errors present which affect the content, and all legal disclaimers
+apply.
+
+PR
+
+ES
+
+Cite this article as: Hornsey, M.J.,
+Spence, J.L., Chapman, C.M. Metaanalyses on charitable giving clarify
+evidence for empathic and effective
+altruism. Nat Commun (2026).
+https://doi.org/10.1038/
+s41467-026-70230-8
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+If this paper is publishing under a Transparent Peer Review model then Peer
+Review reports will publish with the final article.
+
+© The Author(s) 2026. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit
+to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not
+have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+ARTICLE IN PRESS
+
+Meta-analyses on charitable giving clarify evidence for empathic and effective altruism
+
+Matthew J. Hornsey1
+
+University of Queensland Business School, Brisbane, Australia
+
+PR
+
+1
+
+ES
+
+Cassandra M. Chapman1
+
+S
+
+Jessica L. Spence1
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+Corresponding author: Matthew J. Hornsey, University of Queensland Business School, University of
+Queensland, Brisbane, Australia m.hornsey@uq.edu.au
+
+ARTICLE IN PRESS
+
+Abstract
+Effective altruists argue that charitable giving is over-influenced by empathic responses and should
+instead be guided by cost-benefit analyses about the effectiveness of giving. To provide insight into the
+extent to which empathy and effectiveness are associated with charitable giving in the population, two
+meta-analyses are conducted, synthesising 416 effect sizes from 124 papers sampling 74,797
+participants. Here we show that effectiveness, r = .34, SE = .04, 95%CIs [.28, .40], and empathy, r =
+
+S
+
+.25, SE = .02, CIs [.21, .29], both positively relate to charitable giving overall. However, prediction
+
+ES
+
+intervals reveal significant heterogeneity. Moderation analyses reveal one crucial caveat to the overall
+
+PR
+
+association between effectiveness and charitable giving: although the mean effect is relatively large
+
+IN
+
+when effectiveness is measured, r = .42, CIs [.35, .48], manipulated effectiveness has a weak effect, r =
+.03, CIs [-.10, .17]. Our findings suggest that while people may self-perceive as effective altruists, they
+
+TI
+
+C
+
+LE
+
+give like empathic ones, a disjunction that calls for deeper causal investigation.
+
+A
+
+R
+
+KEY WORDS: effective altruism; empathy; charitable giving; empathy-altruism hypothesis
+
+ARTICLE IN PRESS
+
+Meta-analyses on charitable giving clarify evidence for empathic and effective altruism
+
+Introduction
+Understanding why and to what extent people engage in charitable giving has long been a
+preoccupation of social scientists.1 One reason for this is that charitable giving serves an important
+function in sustaining a healthy and inclusive society. Estimated at over $470 billion per year in the U.S.
+alone2, charitable giving funds help, care, and services in ways that cannot be readily substituted
+
+ES
+
+S
+
+through commercial or government activities. As such, charitable giving is designed to enrich lives, and
+
+PR
+
+in many cases to save lives. Another reason charitable giving has preoccupied scholars is its symbolic
+value in signifying the degree to which people engage in kindness and compassion to others.
+
+IN
+
+Understanding charitable giving helps us understand who we are as humans, and how we express our
+
+LE
+
+humanity.
+
+C
+
+One of the biggest debates about charitable giving – both within and outside academia – is
+
+TI
+
+whether people rely too much on their “heart” when giving, and not enough on their “head”. In his book
+
+A
+
+R
+
+Against Empathy3 – and in high-profile opinion pieces4 – Paul Bloom makes the case that empathy is a
+poor moral guide to charitable giving. In line with the empathy-altruism hypothesis5,6, Bloom agrees
+that empathy plays a role in activating the motivation to do good. However, it also leads us to make
+ineffective or unfair charitable decisions, focusing on issues that respond to our immediate emotional
+triggers rather than grounding our compassion in rational deliberation about which causes do most good
+(i.e., effectiveness considerations). Consistent with this notion, effective altruism scholars propose
+decision-making frameworks for judging how effective one’s giving will be such as “How many people
+benefit, and by how much?” and “What are the chances of success?”7-9 Although earlier critiques
+positioned empathy and effectiveness as competing motives, recent evidence suggests they may be
+mutually reinforcing, particularly when empathic concern is broadened to include distant others and is
+guided by reasoning about impact.10-13
+
+ARTICLE IN PRESS
+
+To assess research on the association between charitable giving, effectiveness, and empathy, a
+key distinction lies between studies that rely on self-reports of these constructs and studies that
+experimentally manipulated them. While the debate about the role of empathy in charitable giving has
+gained increasing attention in recent years, prior syntheses have excluded experimental designs, making
+this comparison unclear. When it comes to effectiveness, this distinction becomes especially salient
+given high-profile experiments suggesting that donors have relatively little appetite to seek out
+
+S
+
+information about welfare impact14, and that when it is provided effectiveness information has limited
+
+ES
+
+impact on charitable giving15 and choice of charities16.
+
+PR
+
+The goal of this paper is to add an important missing piece to the debate: meta-analyses of the
+
+IN
+
+extent to which charitable responses are, in fact, associated with empathy and perceived effectiveness.
+By combining the voices of thousands of participants sampled by hundreds of researchers across several
+
+LE
+
+decades, one is in a stronger position to distinguish signal from noise when examining the associations
+
+TI
+
+C
+
+between charitable giving, empathy, and effectiveness. We emphasise that the goal of this paper is not
+
+R
+
+to compare empathy and effectiveness directly. There are too few studies that measure both constructs
+
+A
+
+within the same sample, and the fields from which these constructs originate use different
+operationalisations. Instead, our aim is to provide a descriptive and independent synthesis of the extent
+to which each construct is associated with charitable giving, and under what conditions.
+Before doing so, some definitional clarification is required. Empathy is a multi-dimensional
+construct, one that is often used interchangeably with constructs such as sympathy and compassion. A
+particularly important distinction is made between “emotional empathy”, which Bloom refers to as
+“feeling what you believe other people feel – experiencing what they experience” (p.3)3 and “cognitive
+empathy”, which is variously referred to in the literature as social intelligence, theory of mind, and
+perspective taking. In Against Empathy, Bloom makes it clear that his case is primarily about the limits
+of affective empathy. So although we meta-analyse all operationalisations of empathy here, we note that
+
+ARTICLE IN PRESS
+
+it is affective empathy that is most closely aligned to the debate that inspired the current paper. As
+illustrated below, empathy has been operationalised in many different ways (e.g., cognitive versus
+affective; dispositional versus situational; experimentally versus correlationally) and drilling down into
+the patterns for each helps illuminate the different ways in which empathy may be associated with
+charitable giving. Empirical synthesis is overdue: the first meta-analysis on the link between empathy
+and prosocial behaviour was published nearly 40 years ago, and incorporated only a handful of studies
+
+S
+
+on charitable giving.17 Subsequent syntheses have not examined experimental work, focusing
+
+ES
+
+exclusively on correlational links between measures of empathy and questionnaire measures of
+
+PR
+
+dispositional pro-social behaviour18,19 or between measures of empathy and resource allocations in lab-
+
+IN
+
+based games such as the Dictator Game and the Prisoner’s Dilemma20.
+In extracting data for the effectiveness meta-analysis, we excluded the related literature on
+
+LE
+
+efficiency, that is, the proportion of money that goes to beneficiaries as opposed to being absorbed by
+
+TI
+
+C
+
+administrative costs.21,22 We made this decision in line with the arguments of effective altruism
+
+R
+
+advocates, who make it clear that the efficiency of a charity should not be a primary criterion for
+
+A
+
+judging whether it is effective (i.e., a charity for which 99.99% of income is funnelled directly towards a
+pointless mission is efficient but not effective)7. Instead, we meta-analyse studies that measure or
+manipulate variables sometimes referred to as “response efficacy”, “perceived donation efficacy”, or
+“perceived impact of donation”: constructs that are measured through items such as “How much good
+do you think you can do by donating money to this organisation?” or “To what extent do you think that
+your donation would make a positive difference?”
+Finally, we restricted our analysis to charitable giving, as distinct from other forms of prosocial
+behaviour. We defined charitable giving as “voluntary contributions of money that benefit people
+outside the giver’s family”.1 We had two reasons for restricting the analysis to charitable giving. First, it
+is an operationalisation of giving that most closely aligns to the effective altruism movement, which is
+
+ARTICLE IN PRESS
+
+best known for providing moral context around which charities to support financially. Second, by
+restricting the range to one domain of prosocial behaviour, we reduce statistical noise and unwanted
+heterogeneity associated with comparing effect sizes across different behaviours.23 Patterns of altruism
+across domains (e.g., donating money versus blood versus time) are psychologically distinct24, so
+focusing just on charitable giving leaves us in a better position to make like-for-like comparisons
+between studies.
+
+S
+
+Here, we show through two meta-analyses that empathy is a robust correlate of charitable giving
+
+ES
+
+and reliably increases generosity when experimentally evoked. Perceived effectiveness, on the other,
+
+PR
+
+hand predicts giving strongly at the self-report level and weakly under experimental manipulation. We
+
+IN
+
+conclude that people give like empathic altruists even when they see themselves as effective ones, a
+pattern that sharpens the empirical context within which debates about effective altruism unfold.
+
+LE
+
+Results
+
+TI
+
+C
+
+We followed the Preferred Reporting Items for Systematic Reviews and Meta-analyses
+
+R
+
+(PRISMA)25,26 to identify quantitative research on (1) the association between effectiveness and
+
+A
+
+charitable giving and (2) the association between empathy and charitable giving. PRISMA flowcharts,
+summarising the screening process, are presented in Supplementary Figs. S1 and S2. Full reference lists
+for papers included in the empathy and effectiveness meta-analyses are included in the Supplementary
+file.
+Pearson’s correlation (r) was used to represent the association between charitable giving and the
+two variables of interest: effectiveness and empathy. To approximate a normal sampling distribution,
+Pearson r correlations were transformed to Fisher’s z correlations for analyses. For ease of
+interpretation, we report values transformed back to Pearson r correlations. Given that the majority of
+articles included in both meta-analyses reported multiple dependent effect sizes, we employed a three-
+
+ARTICLE IN PRESS
+
+level meta-analytic approach to calculate the overall effect size and perform moderator analyses. All
+tests of significance are 2-tailed unless otherwise specified.
+We examined publication bias in two ways: visual inspection of the Funnel Plots (where
+asymmetry may indicate publication bias) and Egger’s Sandwich test, which was used given the
+presence of dependent effect sizes. As can be seen in Fig. 1, no clear or systematic asymmetry is shown
+for either meta-analysis. Consistent with visual inspection, Egger’s tests were non-significant for both
+
+S
+
+effectiveness (p = .260) and empathy (p = .804), indicating no statistical evidence of a pattern indicating
+
+ES
+
+publication bias.
+
+PR
+
+Heterogeneity and treatment of moderators.
+
+IN
+
+We calculated I2 (the proportion of total variance in study results due to heterogeneity rather
+than sampling error) which suggested a high degree of heterogeneity for both the effectiveness (96%)
+
+LE
+
+and empathy (92%) meta-analysis. To determine if the within-paper variance (Level 2) and between-
+
+TI
+
+C
+
+paper variance (Level 3) were significant, two one-tailed log-likelihood-ratio tests were performed.
+
+R
+
+These tests compared the fit of the three-level model (which accounted for variance at Levels 2 and 3) to
+
+A
+
+the fit of a two-level model in which variance at only one of the levels was freely estimated. Significant
+variance in effect sizes was observed at both the within-paper level (both ps < .001) and between-paper
+level (both ps < .001). Using Cheung’s27 formula, 2.48% of the total variance in the association between
+effectiveness and charitable giving, and 5.46% of the variance in the association between empathy and
+charitable giving, was attributed to sampling variance. Considerably more variance is attributable to
+within-paper variance (32.33% in the effectiveness analysis, 24.11% in the empathy meta-analysis) and
+between-paper variance (65.19% for effectiveness, 70.43% for empathy). In addition to estimating the
+overall effect size, we calculated the prediction interval for each meta-analysis. Prediction intervals
+estimate the likely range of effect sizes that might be observed in future studies with similar
+characteristics. The range of effect sizes was r = -.17 to r = .71 for effectiveness and r = -.14 and r = .57
+
+ARTICLE IN PRESS
+
+for empathy. These heterogeneity tests indicate that the true effects vary significantly across papers and
+measures, and that future studies on these associations may report correlations that vary widely.
+Moderation analyses identify likely causes of this heterogeneity. To account for the potential
+issue of multicollinearity, we followed Hox and colleagues’ recommendation to first test for the effect
+of each potential moderator separately using univariate models.28 We then conducted multiple
+moderator analyses on a single model that included all significant moderators identified in the univariate
+
+S
+
+analyses for each meta-analysis.
+
+ES
+
+In the main body of this manuscript, we discuss moderators that are most relevant from a
+
+PR
+
+theoretical and/or practical perspective. For the sake of thoroughness, however, we also ran ancillary
+
+IN
+
+moderation analyses based on sample characteristics: the proportion of women in the sample; the
+average age of participants; whether data were collected in Western, Educated, Industrialised, Rich, and
+
+LE
+
+Democratic (WEIRD) or non-WEIRD countries29; whether the sample comprised students or non-
+
+TI
+
+C
+
+students; and whether the sample was collected using online or offline methods. These analyses are
+
+R
+
+reported in the bottom half of Tables 1 and 2. In short, none of these sampling characteristics were
+
+A
+
+statistically significant moderators of the association between effectiveness and charitable giving (all ps
+> .35) or the association between empathy and charitable giving (all ps > .08) and so we do not
+elaborate on these analyses further.
+Effectiveness
+Overall, a medium-sized positive association was found between effectiveness and charitable
+giving, r = .34, p < .001, t = 9.85, 95% CIs[.28, .40]. However, as can be seen in Table 1, three
+moderators significantly qualified this conclusion. First, the association was significantly stronger when
+charitable giving was self-reported (e.g., willingness to donate, future intentions to donate, self-reported
+past giving; r = .38, p < .001) than when studies used behavioural measures of giving (e.g., direct
+observations of giving in the field, the amount of a study payment that the participant donated; r = .27, p
+
+ARTICLE IN PRESS
+
+< .001). Second, the association was significantly stronger when participants reported their likelihood of
+giving (r = .37, p < .001) compared to when participants reported a monetary value of giving (r = .29, p
+< .001). Third, the association between effectiveness and charitable giving was only significant when
+effectiveness was measured (r = .42, p < .001). When effectiveness was manipulated, the average effect
+was trivial in size and statistically non-significant (r = .03, p = .612).
+Finally, we examined whether the different operationalisations of effectiveness corresponded to
+
+S
+
+differences in strength of association. In the literature, the dominant operationalisation was what we
+
+ES
+
+refer to here as donation effectiveness, a construct that is sometimes referred to as “response efficacy”,
+
+PR
+
+“perceived donation efficacy”, or “perceived impact of donation”. What unites these operationalisations
+is that they refer to the extent that the donation will be effective in achieving positive outcomes
+
+IN
+
+(example item: “How much good do you think you can do by donating money to this organisation?”).
+
+LE
+
+However, as can be seen in Table 1, at least three other operationalisations exist in the literature. What
+
+TI
+
+C
+
+we label as charity effectiveness refers to perceptions of the effectiveness of charities in general
+
+R
+
+(measured by items such as "Charitable organisations have been quite successful in helping the needy").
+
+A
+
+What we label as collective effectiveness refers to perceptions of the extent to which collectives can
+make a difference (e.g., “I think together we can successfully change things in relation to this issue”)
+whereas personal effectiveness refers to perceptions of whether participants can personally make a
+difference (e.g., “I think it seems possible to make a big difference"). Regardless of how effectiveness
+was operationalised, a significant and positive association was found, the strength of which did not
+differ reliably across dimensions.
+Following Hox and colleagues’ recommendations28, we extended the three-level meta-regression
+model to simultaneously include the moderators identified to be significant in the univariate analyses
+(i.e., measured vs manipulated, self-report vs behaviour, likelihood vs value). The multiple moderator
+analysis was significant, F(3,150) = 15.51, p < .001, revealing a significant unique moderating effect of
+
+ARTICLE IN PRESS
+
+measured vs manipulated effectiveness on the overall association between effectiveness and giving (see
+Table 3 for number of effect sizes and statistical output).
+Consistent with the univariate analyses, when effects of the other significant moderators were
+taken into account, the association between effectiveness and charitable giving was again only
+significant when effectiveness was measured (and not when effectiveness was manipulated). However,
+the other moderators (self-report vs behaviour, likelihood vs value) were no longer significant. A
+
+S
+
+possible explanation is that these variables covaried with the measured versus manipulated distinction.
+
+ES
+
+Specifically, experimental studies were more likely to employ behavioural outcomes (rather than self-
+
+PR
+
+reports) and assess donation value (rather than likelihood), which may have suppressed the independent
+
+IN
+
+contributions of these moderators in the full model. In this context, the available data make it difficult to
+completely disentangle their unique effects within the multivariate analysis.
+
+LE
+
+Empathy
+
+TI
+
+C
+
+Overall, a medium-sized positive association was found between empathy and charitable giving,
+
+R
+
+r = .25, p < .001, t = 11.55, 95% CIs[.21, .29]. Contrary to the pattern of the effectiveness meta-analysis,
+
+A
+
+there was no statistically significant difference in the strength of that association depending on whether
+empathy was measured or manipulated (both rs = .25, both ps < .001; see Table 2). As in the
+effectiveness meta-analysis, the association between empathy and charitable giving was significantly
+stronger when giving was self-reported (r = .27, p < .001) than when studies used behavioural measures
+of giving (r = .22, p < .001). The association was also significantly stronger when giving was measured
+in terms of likelihood of giving (r = .29, p < .001) versus the monetary value that participants gave
+(r=.21, p<.001). Moreover, a stronger association was found when empathy was operationalised
+situationally (i.e., as a state variable; r = .27, p < .001) than when it was measured dispositionally (i.e.,
+as a trait variable; r = .20, p < .001).
+
+ARTICLE IN PRESS
+
+A final moderator was the dimension of empathy that was being captured. A common critique of
+the field is that researchers’ use of the term “empathy” glosses over theoretically meaningful
+distinctions. In our systematic review, the dominant operationalisation was what we label here as
+emotional empathy, incorporating constructs united by a focus on emotion felt toward a group or
+individual in need (variously described in the literature as “compassion”, “sympathy”, “empathic
+concern”, or “affective empathy”). As can be seen in Table 2, the strongest association between
+
+S
+
+empathy and charitable giving emerged when empathy was operationalised this way (r = .27, p < .001).
+
+ES
+
+Significantly weaker than this (but still significant; r = .20, p < .001) were effect sizes in studies in
+
+PR
+
+which empathy was operationalised in a more cognitive way (e.g., as a form of perspective taking
+
+IN
+
+toward a group or individual in need but without any reference to emotion). Finally, some studies
+measured empathy as personal distress without explicitly linking that distress to a target group. Most of
+
+LE
+
+these were drawn from studies using the personal distress sub-factor of the Interpersonal Reactivity
+
+TI
+
+C
+
+Index, which incorporates items such as “Being in a tense emotional situation scares me”.30 When
+
+R
+
+operationalised this way, empathy shared a relatively small association with charitable giving (r = .09, p
+
+A
+
+= .005), significantly weaker than for the other two dimensions.
+We extended the three-level meta-regression model to simultaneously include the moderators
+identified to be significant in the univariate analyses (i.e., state vs trait, dimension of empathy, selfreport vs behaviour, likelihood vs value). The multiple moderator analysis was significant, F(5,228) =
+20.15, p < .001, revealing a significant unique moderating effect of state vs trait empathy, dimension of
+empathy, and likelihood vs value on the overall association between empathy and giving (see Table 4
+for number of effect sizes and statistical output).
+When effects of the other significant moderators were accounted for, studies that measured state
+empathy yielded a significantly stronger relation compared to studies that measured trait empathy.
+Similarly, an identical pattern of findings to the univariate analyses emerged for the dimension of
+
+ARTICLE IN PRESS
+
+empathy and likelihood vs value moderators: studies that measured emotional empathy and cognitive
+empathy yielded a significantly stronger association than those that measured personal distress, and
+studies that captured giving likelihood yielded a significantly stronger association compared to those
+that captured giving value. In this model, however, the self-report vs behaviour moderator was no longer
+significant.
+Discussion
+
+S
+
+We meta-analysed 416 effect sizes from 74,797 participants to answer two fundamental
+
+ES
+
+questions: To what extent is empathy associated with charitable giving?; and To what extent is
+
+PR
+
+effectiveness associated with charitable giving? Consistent with the empathy-altruism hypothesis5,6,
+
+IN
+
+empathy shared a small-to-medium sized association with charitable giving (r = .25). This association
+was statistically robust across a wide range of samples and operationalisations of charitable giving,
+
+LE
+
+although significant heterogeneity was observed. The association was strongest when empathy was
+
+TI
+
+C
+
+operationalised in terms of its emotional components, but remained reliable even among studies that
+
+R
+
+measured the cognitive components of empathy or operationalised empathy as a dispositional tendency
+
+A
+
+to experiencing distress, unrelated to a particular target. Importantly, there was no statistically
+significant difference in the average effect regardless of whether empathy was measured or manipulated.
+So not only did people’s self-reports of empathy predict their charitable giving, but experimenters’
+invocations of empathy successfully increased charitable giving. In sum, the empirical research
+indicates that people are indeed influenced by empathy when making decisions about charitable giving.
+Although charitable giving is a valid and well-studied expression of altruism, it is only one form
+among many. It remains an open question whether the patterns we observe here generalise to other
+forms of altruism that carry higher personal costs, such as organ donation, stem cell registration, or
+direct physical aid. For instance, Rhoads and colleagues found that self-reported empathic concern was
+not a consistent predictor of real-world extraordinary altruism in these domains across six populations of
+
+ARTICLE IN PRESS
+
+altruistic individuals.31 Charitable giving may be more strongly influenced by empathy because it is (a)
+low-cost, (b) normatively endorsed, and (c) easily enacted. Additionally, some other forms of prosocial
+behaviour (e.g., volunteering, organ donation, sperm donation) provide more direct payoffs to the
+“giver” and so may be less empathically motivated.32-34 We encourage future research to test whether
+the role of empathy in charitable giving is driven by these contextual features, and to explore whether
+different psychological profiles underlie high-cost versus low-cost altruism.
+
+S
+
+In our second meta-analysis we found a medium-to-large association between perceived
+
+ES
+
+effectiveness and charitable giving (r = .42). Despite this, manipulations of effectiveness did not have a
+
+PR
+
+statistically significant effect on charitable giving. In short, we identify an apparent “effectiveness
+
+IN
+
+paradox”: people self-report in ways that imply effectiveness is very important to them but there was no
+statistically significant effect of actual effectiveness information presented in experiments.
+
+LE
+
+Why would there be such a discrepancy between the correlational and experimental evidence for
+
+TI
+
+C
+
+the role of effectiveness? One possible answer is that the corpus of experimental studies is simply too
+
+R
+
+small to draw reliable conclusions (this part of the meta-analysis was built on 29 effect sizes, far fewer
+
+A
+
+than available for the correlational analyses). We acknowledge this limitation, although it is possible
+also that the small number of studies is a consequence rather than a cause of the null result. In the
+context of a high-profile debate about effective altruism – one that straddles across disciplines within
+academia but also has extended beyond academia – one might think that experimental tests of
+effectiveness manipulations would be low-hanging fruit for researchers in this space. The surprisingly
+small number of studies available to the meta-analysis suggests potential for a file drawer problem:
+researchers do not seek to progress their null results of publication because they may be (mis)construing
+them as “failed” experiments that are not diagnostic of real-world behaviours.
+With a modest body of work to draw on, it is also possible that the size of the overall association
+is unreasonably diluted due to subtle manipulations. Speaking against this explanation, however, most
+
+ARTICLE IN PRESS
+
+of the effect sizes contained in this section of the meta-analysis were face-valid and relatively blatant.
+For example, 19 of the 29 effect sizes came from studies in which participants were taught about
+effective altruism in much the same way as effective altruists themselves present their arguments to the
+public (e.g., the cost of training a guide dog versus the cost of preventing blindness in developing
+countries35; comparing the donation response to the “Baby Jessica” incident in Texas with the much
+larger number of lives that could be saved through other causes4). In most of these paradigms,
+
+S
+
+participants are then directed to choose donation amounts for a charity described as being highly
+
+ES
+
+effective (versus no information), often using charities that directly correspond to the effective altruism
+
+PR
+
+lessons provided in the experimental stimuli. We conducted a posthoc meta-analysis of the effect sizes
+
+IN
+
+in which participants were taught about effective altruism. The meta-analysis of just these effect sizes
+revealed a larger overall effect (r = .10) although this was still non-significant, p = .230, t = 1.24,
+
+LE
+
+95%CIs[-.07, .27]. The fact that blatant manipulations such as these have relatively muted effects on
+
+C
+
+charity decisions – manipulations which explicitly seek to direct participants to more effective choices
+
+A
+
+effectiveness paradox.
+
+R
+
+TI
+
+and willingly invite demand characteristics – suggests a more psychological explanation for the
+
+One such psychological explanation is that people have limited (and imperfect) insight into the
+drivers of their own behaviour. Decades of research in social psychology have described how selfperception is vulnerable to bias, often skewed in ways that preserve an image of ourselves as both
+prosocial and logical.36 For example, it seems reasonable that people want to think of themselves as
+driven by genuinely altruistic motives rather than by the “warm glow” or emotional utility that
+donations provide. Faced with this self-expectation, it is possible that people rationalise their giving
+behaviours as effective even when they are primarily driven by less analytical motives (i.e., the causal
+path flows “backwards” from giving to effectiveness). This could help account for why correlational
+effects for effectiveness would be larger than experimental effects.
+
+ARTICLE IN PRESS
+
+Another possibility is that people see effectiveness as relevant in an abstract sense, but when
+making specific charitable decisions they de-prioritise effectiveness in a mindful and explicit way. It has
+been argued previously that many donors see their giving behaviour as a signal of personal choice, and
+for this reason actively embrace the notion that it should be based on what is personally meaningful to
+them rather than what might be most effective in the world.16 In the words of Caviola and colleagues,
+“For many, a donor choosing a charity is more like a gourmand choosing a restaurant than a doctor
+
+S
+
+prescribing a treatment”.37
+
+ES
+
+Further clues for the effectiveness paradox can be found in the parallel literature on pro-
+
+PR
+
+environmental behaviour. That literature reveals strong and consistent evidence that people’s proenvironmental behaviours are positively associated with perceptions that their individual actions can
+
+IN
+
+make a difference in terms of mitigating climate change.38 However, there is no consistent evidence that
+
+LE
+
+experimenters can increase pro-environmental behaviour by promoting individual efficacy.39,40 In other
+
+TI
+
+C
+
+words, the pattern resembles what was uncovered in the current manuscript: strong correlational
+
+R
+
+evidence for the role of effectiveness but non-significant experimental evidence. In making sense of this
+
+A
+
+pattern, some theorists have disputed the classic assumption that ratings of effectiveness flow on from
+an analytical process: an effortful, mindful, and rational process of weighing up the inputs and outputs
+of an action. Rather, a case has been made that effectiveness perceptions are formed through nonanalytical processes: vulnerable to motivated reasoning, infused with emotion, susceptible to social
+desirability and identity-expressive concerns, and difficult to change through instruction.41 If this
+reasoning is translated into the current context, it might help explain why the correlational evidence for
+effectiveness as a correlate of charitable giving does not translate into useful interventions. Specifically,
+self-reports of effectiveness may reflect primarily non-analytic considerations (e.g., emotion, identity,
+rationalisation) whereas experimental manipulations work from the flawed assumption that people
+
+ARTICLE IN PRESS
+
+engage deliberative mental algorithms about effectiveness, processes that can be honed and improved
+through explicit instruction.
+As for any synthesis of existing evidence, limitations of our meta-analysis are a distillation of the
+limitations of the field. We re-emphasise that meta-analytic syntheses cannot make a definitive
+statement about whether instruction about effectiveness can have a causal influence on charitable
+giving. Failure to detect experimental effects does not equate to disproof of causality, and experimental
+
+S
+
+null results can arise from numerous factors (e.g., manipulation weakness, psychological reactance,
+
+ES
+
+entrenched priors). Weak experimental effects may also be due to contextual features such as the
+
+PR
+
+absence of side-by-side comparisons, variation in donor norms, or limited ecological validity in some
+
+IN
+
+lab paradigms. Rather than ruling out an influence of information about effectiveness, the data highlight
+a tension in the literature: despite robust correlational evidence suggesting that perceived effectiveness
+
+LE
+
+predicts giving, experimental attempts to shift perceptions of effectiveness frequently fail to influence
+
+TI
+
+C
+
+donation behaviour. This is a pattern that raises questions rather than one that resolves them, and we call
+
+R
+
+for more nuanced and ecologically valid experimental work to explore potential causal pathways (e.g.,
+
+A
+
+longer-term, field-based interventions, or studies that leverage existing variation in perceived
+effectiveness). Future research should also explore how different dimensions of study quality (e.g.,
+ecological validity, risk of bias, design strength, attrition) may affect conclusions in this area. In sum,
+our effect sizes should not be treated as literal estimates of variance explained in real-world contexts,
+but rather as indicators of the extent to which these constructs are currently leveraged successfully in
+both correlational and experimental work. This distinction highlights the current limits of effectivenessbased interventions and the need for more ecologically valid research in this domain.
+Table 1 reveals another clear limitation in the literature: an extreme restriction of range in terms
+of cultural samples. Strikingly, all but 6 of the 151 effect sizes in the effectiveness library were drawn
+from so-called WEIRD nations. Going forward, there needs to be much stronger representation from
+
+ARTICLE IN PRESS
+
+non-Western samples if the field can get a comprehensive understanding of this global issue. On the
+upside, over 80% of the effect sizes were drawn from non-student samples, and 32% measured actual
+donation behaviour as opposed to an intention or some other proxy of behaviour. Although many
+researchers’ choices are presumably constrained by lack of funding, it does suggest a reasonable
+quorum of evidence drawn from real behaviour among community samples.
+Finally, we note that although empathy and effectiveness are often discussed in parallel – both in
+
+S
+
+public discourse and in theoretical debates – there are currently too few studies that measure both
+
+ES
+
+constructs within the same design to allow formal statistical comparisons between them. This limits the
+
+PR
+
+extent to which we can directly evaluate their relative contributions to charitable giving. We therefore
+
+IN
+
+encourage future research to explicitly examine both constructs within the same studies, using consistent
+measures and parallel designs, to allow more direct comparisons of their predictive value.
+
+LE
+
+In sum, the current analysis sheds light on the current state of evidence regarding two
+
+TI
+
+C
+
+fundamental questions: To what extent is charitable giving associated with empathy? And to what extent
+
+R
+
+is charitable giving associated with effectiveness? The data provide a reliable answer to the first
+
+A
+
+question: empathy is a moderately strong predictor of charitable giving, and interventions that draw on
+the power of empathy are generally successful. The data provide an intriguing answer to the second
+question: people self-report to be effective altruists, but there is little evidence that their charitable
+decisions are, in fact, influenced by effectiveness information. We emphasise that answering these
+questions do not constitute a “test” of the arguments summarised above about effective altruism and the
+limitations of empathy: the arguments are complex and not reducible to simple empirical associations
+between constructs. However, answering these questions will go some of the way to laying a
+descriptive, empirical context within which philosophical arguments about effective altruism – and
+practical interventions to improve the impact of charity efforts – can be situated.
+Methods
+
+ARTICLE IN PRESS
+
+Search strategy
+Literature searches were initially run in November 2019 and the search was refreshed in
+December 2022. The search was conducted across four databases: the two largest multidisciplinary
+academic databases (Scopus and Web of Science) plus content-relevant databases in business
+(ABI/Inform) and psychology (PsycINFO). For both libraries we used search terms nested around
+charitable giving (donation*, donate, donor*, philanthrop*, charitable, "not for profit*", "non profit*",
+
+S
+
+nonprofit*, NGO*, "non governmental", “third sector” , "charit*") and the factor of interest:
+
+ES
+
+effectiveness (“effective altruism”, “effective giving”, "donation effective*", “charity effective*”,
+
+PR
+
+“nonprofit effective*”, efficacy, competence, "impact of gift", "donation impact", “nonprofit impact”,
+
+IN
+
+“charity impact”), and empathy (empath*, sympath*, compassion*). Searches were based on title,
+abstract, and keywords. Results were supplemented through snowballing from reference lists and open
+
+LE
+
+calls for unpublished data distributed through X and mailing lists of the Association for Research on
+
+TI
+
+C
+
+Nonprofit Organizations and Voluntary Action, American Marketing Association, and Society for
+
+R
+
+Personality and Social Psychology. To help identify relevant grey literature, we also screened the first
+
+A
+
+20 pages (200 results) in Google Scholar (consistent with standard practice)42 using the same search
+terms identified in the database searching.
+Inclusion criteria and screening
+To be eligible for inclusion, studies needed to include a quantitative measure of charitable giving
+(as part of correlational or experimental designs), be reported in English, and published 1980 or later.
+Correlational studies allowed us to estimate the strength of naturalistic associations, while experimental
+studies enabled us to examine causal effects of manipulating empathy or effectiveness on giving
+behaviour. We excluded purely qualitative, theoretical, or descriptive studies because they do not
+provide effect sizes or statistical associations necessary for meta-analysis. Similarly, we did not include
+studies based on simulation models, ethnographic observation, or administrative records without direct
+
+ARTICLE IN PRESS
+
+measurement of the psychological constructs of interest, as these designs do not allow for computation
+of comparable quantitative associations.
+In these meta-analyses, we coded for several moderators. In doing so, we defined intention
+likelihood as a self-reported assessment of the likelihood or willingness to donate to a charitable cause
+(e.g., “How likely are you to donate to this organisation?”). Value was defined as the monetary value
+participants reported they would donate or actually donated. We distinguished between measured
+
+S
+
+giving, where donation behaviours or intentions were assessed without experimental manipulation of the
+
+ES
+
+constructs of interest, and manipulated giving, where donation behaviours or intentions were measured
+
+PR
+
+after an experimental manipulation aimed at influencing empathy or perceived effectiveness. Self-report
+
+IN
+
+measures refer to participants’ stated responses to survey items about their donation intentions or
+behaviour (e.g., likelihood of donating or intended donation amount), whereas behavioural measures
+
+LE
+
+involve participants making actual donation decisions, typically involving real or incentivised financial
+
+TI
+
+C
+
+contributions.
+
+R
+
+There were no limits on age or nationality of participants. Papers that were not full-length
+
+A
+
+articles (e.g., book reviews, books, conference abstracts, corrections, legal judgements) were not
+included. The second and third authors screened texts for eligibility on title and then again on abstract,
+resolving discrepancies through discussion. Both screeners had experience conducting and publishing
+meta-analyses previously. Screening on the full text was conducted by the second author. For articles
+less than 10 years old that did not report bivariate effect sizes, we emailed authors to request this
+information.
+Analytic strategy
+Following the screening process, data on the association between effectiveness and charitable
+giving were analysed from 47 papers, comprising 81 independent samples and 157 effect sizes (N =
+32,116). Data on the association between empathy and charitable giving were analysed from 77 papers,
+
+ARTICLE IN PRESS
+
+comprising 105 independent samples and 259 effect sizes (N = 42,681). Where an experiment both
+manipulated and measured effectiveness (for example as a manipulation check) both effect sizes were
+included (one in the “manipulated” category and one in the “measured” category).
+We employed a three-level meta-analytic approach to calculate the overall effect size and
+perform moderator analyses. To determine the appropriate level at which to model statistical
+dependence among effect sizes, we compared alternative multilevel random-effects structures and
+
+S
+
+modelled dependence at the paper level; model comparisons and sensitivity analyses are reported in the
+
+ES
+
+OSF supplement. The total variance is partitioned into three components: sampling variance (Level 1),
+
+PR
+
+within-paper variance reflecting dependence among studies in the same article (Level 2), and betweenpaper variance (Level 3), thereby appropriately accounting for the clustering of effect sizes. To conduct
+
+IN
+
+our analyses, we followed the procedures outlined by Assink and Wibbelink43 and used the rma.mv
+
+LE
+
+function of the Metafor package44 in the R environment (version 4.4.0)45. We used a multilevel random
+
+TI
+
+C
+
+effects model, and restricted maximum likelihood estimation method to calculate all model parameters.
+
+A
+
+intervals46.
+
+R
+
+The t-distribution was used to test individual regression coefficients and for calculating confidence
+
+The type of bivariate effect size extracted depended on study design, but we typically extracted
+Pearson’s correlation coefficients (r) for correlational studies or Cohen’s ds for experimental studies. In
+situations where these values were not provided by the study, we used test statistics (e.g., means and
+standard deviations, F-values, frequency data) to calculate effect sizes. All effect sizes were transformed
+to Pearson r correlations for the meta-analysis (see OSF for effect size conversion formulas).
+A leave-one-out analysis did not identify any studies that influenced the overall findings. To
+check for extreme effect sizes that may disproportionately influence the results, we screened for those
+with standardised scores larger than 3.29 or smaller than 3.29.47 No outliers were identified in the
+effectiveness meta-analysis, and only one outlier was identified in the empathy meta-analysis.
+
+ARTICLE IN PRESS
+
+Regardless of whether this effect size was included or excluded, analyses yielded similar findings, so we
+opted to include this effect size in all subsequent analyses.
+Data availability statement
+The data are publicly available on the Open Science Framework:
+https://doi.org/10.17605/OSF.IO/QZ9AX. 48
+Code availability statement
+
+S
+
+Analyses were conducted through R, using code that is viewable on the Open Science Framework:
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+PR
+
+ES
+
+https://doi.org/10.17605/OSF.IO/QZ9AX. 48
+
+ARTICLE IN PRESS
+
+References
+1
+
+Bekkers, R. & Wiepking, P. A literature review of empirical studies of philanthropy: Eight
+mechanisms that drive charitable giving. Nonprofit and Voluntary Sector Quarterly 40, 924-973,
+doi:10.1177/0899764010380927 (2011).
+
+2
+
+Giving USA Foundation. (2021). Giving USA 2021: The Annual Report on Philanthropy for the
+Year 2020.
+Bloom, P. Against empathy: The case for rational compassion. (Ecco Books, 2016).
+
+4
+
+Bloom, P. The baby in the well: The case against empathy. In The New Yorker (2013).
+
+5
+
+Batson, C. D. Altruism in humans. (Oxford University Press, 2011).
+
+6
+
+Batson, C. D. et al. Empathic joy and the empathy-altruism hypothesis. Journal of Personality
+
+IN
+
+PR
+
+ES
+
+S
+
+3
+
+and Social Psychology 61 3, 413-426 (1991).
+
+MacAskill, W. Doing good better: How effective altruism can help you make a difference.
+
+LE
+
+7
+
+TI
+
+C
+
+(Gotham Books, 2015).
+
+Ord, T. in Effective altruism: Philosophical issues (eds H. Greaves & T. Pummer) 29-36 (2019).
+
+9
+
+Singer, P. The most good you can do: How effective altruism is changing ideas about living
+
+A
+
+R
+
+8
+
+ethically. (Yale University Press, 2015).
+10
+
+Everett, J. A. C., Faber, N. S., Savulescu, J. & Crockett, M. J. The costs of being
+consequentialist: Social inference from instrumental harm and impartial beneficence. Journal of
+Experimental Social Psychology 79, 200-216, https://doi.org/10.1016/j.jesp.2018.07.004 (2018).
+
+11
+
+Fowler, Z., Law, K. F. & Gaesser, B. Against empathy bias: The moral value of equitable
+empathy. Psychological Science 32, 766-779, doi:10.1177/0956797620979965 (2021).
+
+12
+
+Law, K. F., Amormino, P., Marsh, A. A. & O’Connor, B. B. Ethical reasoning versus empathic
+bias: A false dichotomy? Trends in Cognitive Sciences 28, 1-4,
+https://doi.org/10.1016/j.tics.2023.10.006 (2024).
+
+ARTICLE IN PRESS
+
+13
+
+Law, K. F., Campbell, D. & Gaesser, B. Biased benevolence: The perceived morality of
+effective altruism across social distance. Personality and Social Psychology Bulletin 48, 426444, doi:10.1177/01461672211002773 (2022).
+
+14
+
+Metzger, L. & Günther, I. Making an impact? The relevance of information on aid effectiveness
+for charitable giving. A laboratory experiment. Journal of Development Economics 136, 18-33,
+https://doi.org/10.1016/j.jdeveco.2018.08.015 (2019).
+Karlan, D. & Wood, D. H. The effect of effectiveness: Donor response to aid effectiveness in a
+
+S
+
+15
+
+Berman, J. Z., Barasch, A., Levine, E. E. & Small, D. A. Impediments to effective altruism: The
+
+IN
+
+16
+
+PR
+
+https://doi.org/10.1016/j.socec.2016.05.005 (2017).
+
+ES
+
+direct mail fundraising experiment. Journal of Behavioral and Experimental Economics 66, 1-8,
+
+role of subjective preferences in charitable giving. Psychological Science 29, 834-844,
+
+C
+
+Eisenberg, N. & Miller, P. The relation of empathy to prosocial and related behaviors.
+
+TI
+
+17
+
+LE
+
+doi:10.1177/0956797617747648 (2018).
+
+Ding, F. & Lu, Z. Association between empathy and prosocial behavior: A systematic review
+
+A
+
+18
+
+R
+
+Psychological Bulletin 101, 91-119, doi:10.1037/0033-2909.101.1.91 (1987).
+
+and meta-analysis. Advances in Psychological Science 24, 1159 (2016).
+19
+
+Yin, Y. & Wang, Y. Is empathy associated with more prosocial behaviour? A meta-analysis.
+Asian Journal of Social Psychology 26, 3-22, https://doi.org/10.1111/ajsp.12537 (2023).
+
+20
+
+Thielmann, I., Spadaro, G. & Balliet, D. Personality and prosocial behavior: A theoretical
+framework and meta-analysis. Psychological Bulletin 146, 30-90, doi:10.1037/bul0000217
+(2020).
+
+21
+
+Hung, C., Hager, M. A. & Tian, Y. Do donors penalize nonprofits with higher non-program
+costs? A meta-analysis of donor overhead aversion. Nonprofit and Voluntary Sector Quarterly
+52, 1587-1608, doi:10.1177/08997640221138260 (2023).
+
+ARTICLE IN PRESS
+
+22
+
+Ryazanov, A. A. & Christenfeld, N. J. S. On the limited role of efficiency in charitable giving.
+Nonprofit and Voluntary Sector Quarterly 47, 939-959, doi:10.1177/0899764018773899 (2018).
+
+23
+
+Kontopantelis, E., Springate, D. A. & Reeves, D. A re-analysis of the Cochrane Library data:
+The dangers of unobserved heterogeneity in meta-analyses. PLOS ONE 8, e69930,
+doi:10.1371/journal.pone.0069930 (2013).
+
+24
+
+Lee, L., Piliavin, J. A. & Vaughn, R. A. C. Giving time, money, and blood: Similarities and
+
+Moher, D. et al. Preferred reporting items for systematic review and meta-analysis protocols
+
+ES
+
+25
+
+S
+
+differences. Social Psychology Quarterly 62, 276-290, doi:10.2307/2695864 (1999).
+
+Page, M. J. et al. The PRISMA 2020 statement: an updated guideline for reporting systematic
+
+IN
+
+26
+
+PR
+
+(PRISMA-P) 2015 statement. Systematic Reviews 4, 1-9, doi:10.1186/2046-4053-4-1 (2015).
+
+reviews. BMJ, n71 (2021).
+
+Cheung, M. W. Modeling dependent effect sizes with three-level meta-analyses: A structural
+
+LE
+
+27
+
+TI
+
+C
+
+equation modeling approach. Psychological Methods 19, 211-229, doi:10.1037/a0032968
+
+Hox, J. J., Moerbeek, M. & Van de Schoot, R. Multilevel analysis: Techniques and applications.
+
+A
+
+28
+
+R
+
+(2014).
+
+2nd edn, (Routledge, 2010).
+29
+
+Henrich, J., Heine, S. J. & Norenzayan, A. Most people are not WEIRD. Nature 466, 29 (2010).
+
+30
+
+Davis, M. Measuring individual differences in empathy: Evidence for a multidimensional
+approach. Journal of Personalilty and Social Psychology 44, 113-126, doi:10.1037/00223514.44.1.113 (1983).
+
+31
+
+Rhoads, S. A. et al. Unselfish traits and social decision-making patterns characterize six
+populations of real-world extraordinary altruists. Nature Communications 14, 1807,
+doi:10.1038/s41467-023-37283-5 (2023).
+
+ARTICLE IN PRESS
+
+32
+
+Clary, E. G. et al. Understanding and assessing the motivations of volunteers: A functional
+approach. Journal of Personality and Social Psychology 74, 1516-1530, doi:10.1037//00223514.74.6.1516 (1998).
+
+33
+
+France, C. R., France, J. L., Ysidron, D. W. & Samstein, B. Assessing motivations for non-living
+and living organ donation among individuals with and without a history of blood donation.
+Transfusion Medicine 32, 120-127, https://doi.org/10.1111/tme.12854 (2022).
+Areias, J., Gato, J. & Moura-Ramos, M. Motivations and attitudes of men towards sperm
+
+S
+
+34
+
+ES
+
+donation: Whom to donate and why? Sexuality Research and Social Policy 19, 147-158,
+
+Singer, P. The why and how of effective altruism,
+
+IN
+
+35
+
+PR
+
+doi:10.1007/s13178-020-00531-0 (2022).
+
+<https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?language=e
+
+C
+
+Dunning, D. Self-insight: Roadblocks and detours on the path to knowing thyself. (Psychology
+
+TI
+
+36
+
+LE
+
+n> (2013).
+
+Caviola, L., Schubert, S. & Greene, J. D. The psychology of (in)effective altruism. Trends in
+
+A
+
+37
+
+R
+
+Press, 2005).
+
+Cognitive Science 25, 596-607, doi:10.1016/j.tics.2021.03.015 (2021).
+38
+
+Kim, S., Jeong, S.-H. & Hwang, Y. Predictors of pro-environmental behaviors of American and
+Korean students: The application of the Theory of Reasoned Action and Protection Motivation
+Theory. Science Communication 35, 168-188, doi:10.1177/1075547012441692 (2013).
+
+39
+
+Hornsey, M. J. & Fielding, K. S. A cautionary note about messages of hope: Focusing on
+progress in reducing carbon emissions weakens mitigation motivation. Global Environmental
+Change 39, 26–34 (2016).
+
+40
+
+Hornsey, M. J., Chapman, C. M. & Oelrichs, D. M. Ripple effects: Can information about the
+collective impact of individual actions boost perceived efficacy about climate change? Journal
+
+ARTICLE IN PRESS
+
+of Experimental Social Psychology 97, 104217, https://doi.org/10.1016/j.jesp.2021.104217
+(2021).
+41
+
+Hornsey, M. J., Chapman, C. M. & Oelrichs, D. M. Why it is so hard to teach people they can
+make a difference: Climate change efficacy as a non-analytic form of reasoning. Thinking &
+Reasoning 28, 327-345, doi:10.1080/13546783.2021.1893222 (2022).
+
+42
+
+Haddaway, N. R., Collins, A. M., Coughlin, D. & Kirk, S. The role of Google Scholar in
+
+S
+
+evidence reviews and its applicability to grey literature searching. PLOS ONE 10, e0138237,
+
+Assink, M. & Wibbelink, C. J. Fitting three-level meta-analytic models in R: A step-by-step
+
+PR
+
+43
+
+ES
+
+doi:10.1371/journal.pone.0138237 (2015).
+
+IN
+
+tutorial. Quantitative Methods for Psychology 12, 154-174, doi:10.20982/tqmp.12.3.p154
+(2016).
+
+R Core Team (2025). R: A Language and Environment for Statistical Computing. R Foundation
+
+R
+
+45
+
+TI
+
+Software 36, 1-48 (2010).
+
+LE
+
+Viechtbauer, W. Conducting meta-analyses in R with the metafor package. Journal of Statistical
+
+C
+
+44
+
+A
+
+for Statistical Computing, Vienna, Austria. https://www.R-project.org/.
+46
+
+Knapp, G. & Hartung, J. Improved tests for a random effects meta-regression with a single
+covariate. Statistics in Medicine 22, 2693-2710, doi:10.1002/sim.1482 (2003).
+
+47
+
+Tabachnik, B. G. & Fidell, L. S. Using multivariate statistics. (Pearson, 2013).
+
+48.
+
+Hornsey, M. J., Spence, J.L., & Chapman, C. M. Meta-analyses show robust evidence that
+people are empathic altruists and weak evidence that they are effective altruists. OSF,
+https://doi.org/10.17605/OSF.IO/QZ9AX, 2025.
+
+ARTICLE IN PRESS
+
+Acknowledgements: Funding to support this research was acquired through an Australian Research
+Council Fellowship (DE220100903) awarded to the 3rd author and an Australian Research Council
+Linkage grant (LP200200046) awarded to the 1st and 3rd authors.
+Author contributions:
+C.C. and M.H. acquired funding and conceived the study. C.C. supervised the project and led data
+coding. J.S. conducted the data extraction, formal analyses, and visualisation. M.H. wrote the first draft
+of the manuscript. All authors contributed to reviewing and editing subsequent drafts.
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+PR
+
+ES
+
+S
+
+Competing interests: The authors declare no competing interests.
+
+ARTICLE IN PRESS
+
+Table 1
+Moderators of the Overall Association between Effectiveness and Charitable Giving
+
+F(1,155)=32.22, p<.001
+
+95% CIs
+
+t0
+
+p
+
+Measured
+
+128
+
+.42
+
+.35, .48
+
+11.61
+
+<.001
+
+Manipulated
+
+29
+
+.03
+
+-.10, .16
+
+0.51
+
+.612
+
+Effectiveness Type
+
+157
+
+Donation effectiveness
+
+85
+
+.35
+
+.28, .41
+
+9.41
+
+<.001
+
+Charity effectiveness
+
+30
+
+.30
+
+.18, .40
+
+5.12
+
+<.001
+
+Collective effectiveness
+
+9
+
+.25
+
+S
+
+Measured v/ Manipulated 157
+
+r/β
+
+.08, .41
+
+2.89
+
+.004
+
+Personal effectiveness
+
+33
+
+.36
+
+.26, .45
+
+7.04
+
+<.001
+
+Self-report v/ Behaviour
+
+157
+
+Self-report
+
+106
+
+.38
+
+.32, .44
+
+10.77
+
+<.001
+
+Behavioural
+
+51
+
+PR
+
+Moderation omnibus test
+
+.27
+
+.19, .35
+
+6.34
+
+<.001
+
+Likelihood v/ Value
+
+155
+
+Likelihood
+
+106
+
+.37
+
+.30, .43
+
+10.34
+
+<.001
+
+Value
+
+48
+
+LE
+
+k
+
+.29
+
+.21, .36
+
+7.09
+
+<.001
+
+% Women
+
+147
+
+F(1,145)=0.89, p=.348
+
+-.00
+
+-.01, -.00
+
+--
+
+.348
+
+Mean Age
+
+115
+
+F(1,113)=0.13, p=.723
+
+-.00
+
+-.01, .01
+
+--
+
+.723
+
+Pub. status
+
+157
+
+F(1,155)=4.40, p=.038
+
+A
+
+Moderator variable
+
+148
+
+.36
+
+.30, .42
+
+10.31
+
+<.001
+
+Unpublished
+
+9
+
+.14
+
+-.08, .34
+
+1.27
+
+.207
+
+Sample nation
+
+151
+
+Non-WEIRD
+
+6
+
+.40
+
+.17, .59
+
+3.31
+
+.001
+
+WEIRD
+
+145
+
+.34
+
+.28, .41
+
+9.49
+
+<.001
+
+Online v/ offline
+
+157
+
+Offline
+
+35
+
+.31
+
+.18, .43
+
+4.64
+
+<.001
+
+Online
+
+122
+
+.35
+
+.28, .42
+
+8.86
+
+<.001
+
+Student v/ other
+
+157
+
+Non-student
+
+131
+
+.34
+
+.27, .40
+
+9.13
+
+<.001
+
+Student
+
+26
+
+.36
+
+.22, .48
+
+5.03
+
+<.001
+
+Published
+
+IN
+
+F(1,155)=7.48, p=.007
+
+C
+
+F(1,152)=6.20, p=.014
+
+TI
+
+R
+
+ES
+
+F(3,153)=1.04, p=.379
+
+F(1,149)=0.27, p=.603
+
+F(1,155)=0.35, p=.553
+
+F(1,155)=0.09, p=.769
+
+Notes. For continuous moderators, we report β (i.e., estimated regression coefficient) which conveys the increase in mean r
+(mean effect size denoting the association between effectiveness and charitable giving) for a unit increase in a given
+moderator variable. For categorical moderators, we report the mean r for each level of a given moderator variable. For each
+category of moderator variable, the reference variable is listed first. Text in bold are moderation tests.
+k = number of effect sizes contributing to analysis.
+
+ARTICLE IN PRESS
+
+t0 = difference in mean r with zero
+
+Table 2
+Moderators of the Overall Association between Empathy and Charitable Giving
+Moderation omnibus test
+
+Measured v/ Manipulated 259
+
+F(1,257)=0.01, p=.910
+
+r/β
+
+95% CIs
+
+t0
+
+p
+
+Measured
+
+245
+
+.25
+
+.21, .29
+
+11.40
+
+<.001
+
+Manipulated
+
+14
+
+.25
+
+.15, .35
+
+4.66
+
+<.001
+
+State v/ Trait Empathy
+
+256
+
+State empathy
+
+162
+
+.27
+
+.23, .31
+
+12.07
+
+<.001
+
+Trait empathy
+
+94
+
+.20
+
+.15, .25
+
+7.55
+
+<.001
+
+Dimension of Empathy
+
+234
+
+Cognitive empathy
+
+51
+
+ES
+
+k
+
+.20
+
+.15, .25
+
+7.49
+
+<.001
+
+Emotional empathy
+
+156
+
+.27
+
+.22, .30
+
+12.52
+
+<.001
+
+Personal distress
+
+27
+
+.09
+
+.03, .15
+
+2.86
+
+.005
+
+Self-report v/ Behaviour
+
+259
+
+Self-report
+
+155
+
+.27
+
+.22, .31
+
+11.59
+
+<.001
+
+Behavioural
+
+104
+
+.22
+
+.17, .27
+
+8.22
+
+<.001
+
+Likelihood v/ Value
+
+254
+
+Likelihood
+
+124
+
+.29
+
+.24, .33
+
+12.05
+
+<.001
+
+Value
+
+130
+
+.21
+
+.17, .26
+
+8.80
+
+<.001
+
+% Women
+
+R
+
+Moderator variable
+
+PR
+
+F(2,231)=26.12, p<.001
+
+S
+
+F(1,254)=7.06, p=.008
+
+LE
+
+IN
+
+F(1,257)=3.95, p=.048
+
+TI
+
+C
+
+F(1,252)=12.08, p=.001
+
+F(1,221)=1.30, p=.256
+
+.00
+
+-.00, .00
+
+--
+
+.256
+
+174
+
+F(1,172)=1.04, p=.309
+
+.00
+
+-.01, .00
+
+--
+
+.309
+
+Pub. status
+
+259
+
+--
+
+Published
+
+257
+
+Unpublished
+
+2
+
+Sample nation
+
+243
+
+Non-WEIRD
+
+30
+
+.21
+
+.10, .31
+
+3.80
+
+<.001
+
+WEIRD
+
+213
+
+.25
+
+.20, .30
+
+10.31
+
+<.001
+
+Online v/ offline
+
+245
+
+Offline
+
+175
+
+.23
+
+.18, .28
+
+8.60
+
+<.001
+
+Online
+
+70
+
+.29
+
+.23, .35
+
+9.27
+
+<.001
+
+Student v/ other
+
+259
+
+Non-student
+
+170
+
+.24
+
+.19, .28
+
+9.75
+
+<.001
+
+Student
+
+89
+
+.28
+
+.21, .34
+
+7.57
+
+<.001
+
+Mean Age
+
+A
+
+223
+
+F(1,241)=0.62, p=.430
+
+F(1,243)=2.93, p=.088
+
+F(1,257)=1.00, p=.317
+
+ARTICLE IN PRESS
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+PR
+
+ES
+
+S
+
+Notes. For continuous moderators, we report β (i.e., estimated regression coefficient) which conveys the increase in mean r
+(mean effect size denoting the association between empathy and charitable giving) for a unit increase in a given moderator
+variable. For categorical moderators, we report the mean r for each level of a given moderator variable. For each category of
+moderator variable, the reference variable is listed first. Text in bold are moderation tests.
+k = number of effect sizes contributing to analysis.
+t0 = difference in mean r with zero
+
+ARTICLE IN PRESS
+
+Table 3
+Statistical Output from the Multiple Moderator Analysis of the Association between Effectiveness and
+Charitable Giving
+
+Reference
+Category
+
+Measured v/ Manipulated
+Manipulated
+
+Measured
+
+Self-report v/ Behaviour
+Behavioural
+
+Self-report
+
+Likelihood v/ Value
+Value
+
+Likelihood
+
+β
+
+Notes.
+For all
+
+t
+
+p
+
+-.39
+
+-.50
+
+-.27
+
+-6.19
+
+<.001
+
+-.05
+
+-.16
+
+.05
+
+-1.04
+
+.299
+
+-.04
+
+-.13
+
+-0.80
+
+.425
+
+ES
+
+S
+
+Moderator
+
+95% CI
+Lower
+Upper
+
+.05
+
+LE
+
+IN
+
+PR
+
+moderators (in bold), we report β (the regression coefficient), which reflects the difference in mean r (the mean effect size
+denoting the association between effectiveness and charitable giving) between the comparison category and the reference
+category. We also report 95% confidence intervals for these regression coefficients. All moderators are dummy-coded, with
+the reference category noted; t = significance of the moderator in relation to the reference category. This analysis was based
+on 154 effect sizes.
+
+Table 4
+
+TI
+
+C
+
+Statistical Output from the Multiple Moderator Analysis of the Association between Empathy and
+
+Moderator
+
+A
+
+R
+
+Charitable Giving
+
+Reference
+Category
+
+State v/ Trait
+State
+
+Trait
+
+Dimension of Empathy
+Cognitive Empathy
+Emotional Empathy
+
+Personal Distress
+
+Self-report v/ Behaviour
+Behavioural
+
+Self-report
+
+Likelihood v/ Value
+Value
+
+Likelihood
+
+β
+
+95% CI
+Lower
+Upper
+
+Notes.
+For all
+
+t
+
+p
+
+.08
+
+.04
+
+.12
+
+3.65
+
+<.001
+
+.10
+.18
+
+.05
+.13
+
+.15
+.22
+
+3.74
+7.35
+
+<.001
+<.001
+
+.02
+
+-.03
+
+.07
+
+0.73
+
+.465
+
+-.11
+
+-.15
+
+-.07
+
+-5.02
+
+<.001
+
+moderators (in bold), we report β (the regression coefficient), which reflects the difference in mean r (the mean effect size
+denoting the association between empathy and charitable giving) between the comparison category and the reference
+category. We also report 95% confidence intervals for these regression coefficients. All moderators are dummy-coded, with
+the reference category noted; t = significance of the moderator in relation to the reference category. This analysis was based
+on 234 effect sizes.
+
+ARTICLE IN PRESS
+
+Figure Captions
+Fig. 1. Tests of publication bias. Funnel plot plotting Fisher’s z against the standard error from the
+effect sizes included in the meta-analyses on effectiveness (top panel) and empathy (bottom panel).
+
+Editor Summary
+
+PR
+
+ES
+
+S
+
+There is debate about whether charitable giving is driven more by empathy or by reasoning about effectiveness.
+Here, the authors show via meta-analysis that both correlate with giving, but only empathy reliably boosts
+giving when experimentally increased.
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+Peer review information: Nature Communications thanks Cory Clark, Falk Lieder and the other, anonymous,
+reviewer(s) for their contribution to the peer review of this work. A peer review file is available.
+
+A
+
+R
+
+TI
+
+C
+
+LE
+
+IN
+
+PR
+
+ES
+
+S
+
+ARTICLE IN PRESS
+
+

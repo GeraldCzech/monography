@@ -1,0 +1,1388 @@
+Journal of Brand Management (2021) 28:186–198
+https://doi.org/10.1057/s41262-020-00224-4
+
+ORIGINAL ARTICLE
+
+Exploring brand purpose dimensions for non‑profit organizations
+Abas Mirzaei1
+
+· Cynthia M. Webster1 · Helen Siuki1
+
+Revised: 17 October 2019 / Accepted: 24 November 2020 / Published online: 12 January 2021
+© The Author(s), under exclusive licence to Springer Nature Limited part of Springer Nature 2021
+
+Abstract
+Adopting and clearly communicating a higher purpose has become a key priority for many brands. More and more commercial organizations see purposeful branding as the next competitive advantage and are aligning themselves with a worthy cause
+or societal issue. Non-profit organizations (NPOs), which arguably are inherently purpose-driven, should also be leveraging
+the power of brand purpose. This paper studies brand purpose within the NPO space and explores different dimensions of
+purpose communicated through social media, namely Facebook. Twenty brands across five broad NPO categories of Community Development, Education/Children, Culture, International and Environment were chosen. Four key purpose dimensions
+emerged: CHANGE, SUPPORT, EMPOWER, and FIGHT. Further analysis of the diversification versus concentration of
+these purpose dimensions indicated that only a few of the brands communicated a single purpose on their Facebook page.
+Most NPO brands examined adopted a multidimensional brand purpose. This study adds to the brand communication literature and offers managerial implications for NPOs considering brand purpose strategies.
+Keywords Brand purpose · Non-profit branding · Social branding · NPO brand personality
+
+Introduction
+With the exponential growth of non-profit organizations
+(NPOs) over the past four decades, in both number and
+diversity, from 300,000 in 1967 to 1.56 million in 2016
+(McKeever 2019), differentiation has become a crucial task
+for NPOs. While adopting a higher purpose is becoming a
+new competitive edge for commercial brands, NPOs, naturally higher-purpose natives, are struggling to unlock their
+potential and appeal to a wider target audiences.
+Branding as a key strategy to capture consumer attention
+and promote community engagement in prosocial behaviors
+has gained momentum in the non-profit sector (Shehu et al.
+2016). Research shows NPOs that communicate their core
+values and positive intentions tend to have higher levels of
+engagement (Tapp et al. 1999), charitable giving (Venable
+et al. 2005; Sargeant et al. 2008), fundraising efforts (Hou
+* Abas Mirzaei
+Abas.mirzaei@mq.edu.au
+Cynthia M. Webster
+Cynthia.webster@mq.edu.au
+Helen Siuki
+Helen.siuki@mq.edu.au
+1
+
+Macquarie University Business School, Sydney, Australia
+
+Vol:.(1234567890)
+
+et al. 2009; Sargeant et al. 2008), volunteer recruitment, and
+retention rates (Faircloth 2005; Randle et al. 2013). Over the
+past few years, many NPOs have realized the importance
+of employing branding strategies to facilitate the associated
+benefits. Adopting human-like characteristics and brand
+personalities, for instance, are being practiced by NPOs.
+Usefulness, efficiency, and dynamism (Michel and Rieunier
+2012), and affect, reliability, and ethicality (Michaelidou
+et al. 2015a) are among dimensions of brand personality and
+image adopted by NPOs. However, NPOs, built on higher
+purpose, have the potential to go beyond brand personality
+and leverage on their purpose. NPOs have societal purpose
+encoded in their DNA that can be clearly communicated to
+attract a wider and younger generation of donors, talent, and
+contributors which is a main challenge for NPOs.
+In the for-profit sector, commercial brands are increasingly moving into the space of purposeful branding, using
+‘woke’ communications to take a stance and draw attention
+to social or environmental issues. From Benetton’s groundbreaking, controversial “Colors” campaign tackling racism, AIDS, religious oppression and the death sentence to
+more recent examples like Nike’s ‘Dream Crazy’ campaign,
+Gillette’s ‘The Best Men Can Be’, and Adidas’s ‘What Do
+You Represent?’, more and more brands are stepping out of
+their comfort zone and aligning with worthy causes to show
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+
+consumers how much they care about the community (Oster
+2018). Competing on purpose is now seen as a new driver of
+growth with up to 75% of growth coming from brands with
+a higher social purpose (Bloomberg 2019).
+Despite its importance and relevance in recent years,
+brand purpose and its different dimensions have not been
+explored in depth, especially in the non-profit sector (Greyser and Urde 2019). The aims of this article, therefore, are to
+examine multiple brands across five different NPO categories addressing the following research objectives: (RQ1) to
+explore the key dimensions of brand purpose communicated
+by NPOs on their social media, (RQ2) to understand how
+purpose dimensions vary across brands in different NPO
+categories and (RQ3) to study the degree of concentration
+and heterogeneity of social media communicated brand purpose in different NPO categories. A deeper understanding of
+brand purpose within the sector gives NPOs a basis to make
+decisions on adopting a higher order purpose that resonates
+with their brand, their stakeholders and is appropriate to the
+category in which they operate.
+This is the first study to explore NPO social media communicated brand purpose across different non-profit categories, breaking down the sector and investigating the
+cultivated distinctions among brand purpose across the
+Community Development, Education/Children, Culture,
+International, and Environment categories. Given the everincreasing number of non-profit organizations and the subsequent increase in competition for donations and talent,
+identifying and communicating non-profit brand purpose is
+becoming an important strategy in differentiating charitable
+organizations. Therefore, this research fills an important gap
+in the NPO branding literature offering both theoretical and
+empirical contributions. It provides an overarching perspective on the importance of going beyond adopting humanlike characteristics and personalities and adopting a higher
+purpose that can be used as NPOs vision reference point.
+Moreover, this paper highlights the importance of effectively
+and proactively communicating the NPO’s higher purpose
+on their social media platforms. While different NPOs across
+different sectors may adopt different purposes, the findings
+of this study contribute toward a better understanding of key
+dimensions of purposefulness that can be adopted by NPOs.
+Our findings also contribute to the NPO branding literature
+by providing a spotlight on the diversity and the similarity
+of brand purpose dimensions being communicated on NPOs
+social media.
+We first start with a literature review to distinguish brand
+purpose from other brand-related concepts such as brand
+image, meaning, and personality. Building on this foundation, we describe the social media dataset and text mining
+analytic approach used to explore NPO brand purpose. We
+then present our results on the main dimensions of communicated brand purpose in the non-profit sector and offer
+
+187
+
+actionable insights to assist NPOs to develop and clearly
+communicate their brand purpose.
+
+Brand purpose
+Purpose sits at the core of a brand’s identity. It is the essence
+of the brand, what it stands for, the inspirational reason the
+brand exists beyond making a profit (Kramer 2017). Like
+other abstract brand concepts, such as brand personality,
+brand purpose is one way to attract and connect with consumers. Research shows consumers associate brands with
+both their personal and social identities influencing their
+actions, evaluations and consumption experiences (Escalas
+and Bettman 2005; Scaraboto and Fischer 2013). Brand purpose and personality are both considered as firm-centered
+brand building components. Brand purpose, the ‘why’ of
+the brand, is tightly linked to the brand’s culture and values.
+Whereas brand personality is the ‘who’ of the brand, the set
+of human traits that forms the brand’s character, style and
+tone (Greyser and Urde 2019). Together with the brand’s
+core personality, a clearly articulated purpose shapes the
+vision, goals, and strategies providing guidance and direction (Gartenberg et al. 2019).
+Theoretically, brand purpose can be purely profit maximization; however, the concept of a higher social purpose has
+gained traction. Brands are encouraged to go beyond functional benefits and wealth creation to focus on broader, more
+aspirational commitments that have an impact and make a
+difference in people’s lives (Aaker 2014; Quinn and Thakor 2018). Purpose can provide an umbrella framework for
+examining the role of business in society (Hollensbe et al.
+2014). Standing for a higher purpose is becoming a competitive advantage, linking brand purpose to future growth
+drivers (Vila and Bharadwaj 2017).
+This shift to adopt a higher purpose has resulted in a
+change of tone in leading brands’ marketing campaigns and
+skepticism by consumers. A key criticism of commercial
+brands adopting a higher purpose is the lack of authenticity and relevance. This cynical view is due in part to some
+consumers seeing this as an attempt by commercial brands,
+mainly concerned with the bottom line, as a new marketing
+tool to win progressive target audiences. In other words,
+commercial brands’ motivations in adopting a higher purpose may be seen ingenuine and profit oriented. We should
+note that some commercial brands, such as Patagonia and
+The North Face, have been successful incorporating a higher
+purpose.
+In the non-profit sector, however, there tends to be a less
+cynical view toward NPOs’ motivations, as NPOs are higher
+purpose natives. NPOs are socially conscious serving society and working for the common good. Environmental protection, delivering emergency medical aid, defending human
+
+188
+
+rights, and safeguarding cultural heritage are among the
+social purposes advanced by NPOs like Sierra Club, Doctors without Borders, Amnesty International and the Global
+Heritage Fund. With the lack of authenticity out of the equation for most reputable NPOs, effective communication of
+a clear higher purpose is crucial in appealing to and attracting a wider target audiences. Yet, no research to date has
+examined NPO brand purpose. Much of the NOP research
+instead examines the related brand concepts of brand image,
+personality, and meaning.
+
+Brand personality, image, and meaning
+Consumers tend to treat brands as if they are human. Brands
+are described as trustworthy, fair, and virtuous, or on the
+other end of the spectrum unreliable, dishonest, and unethical. Relying on visual, verbal, or rhetorical cues, consumers
+evaluate different brands as potential candidates to start a
+relationship and connect with brands they share human-like
+characteristics, personalities, meanings, and mindsets. As
+consumers, we develop relationship with brands and bring
+our feelings to such relationships. We give brands credit or
+blame them for their actions, we label them the coolest or
+dullest, we even troll them. The consumer–brand relationship has become more important than ever (Batra 2019).
+The process of forming a consumer–brand relationship
+starts with finding human-like features in brands. Consumers may notice a human-like name, gender, face or a
+human-like voice (Amazon Alexa, Michelin Man) which
+may influence their decisions and choices. For example,
+Hur et al. (2015), examining the impact of products with
+human-face features on consumers desire to try a tempting
+product, found that high-calorie cookies with human shape
+and name, reduced the conflict between consumption desire
+and self-control. As another example, in a computer game
+study, Kim et al. (2016) found laptops with a human face
+on the screen-reduced players’ perceived level of autonomy
+which in turn reduced their level of enjoyment. Besides tangible and objective brand features, consumers also look for
+subjective and conceptual human-like cues, categorizing
+brands based on their personality traits, and the meanings
+they communicate.
+In evaluating brand meanings, consumers have different perspectives and motivations and thus form different
+conscious and subconscious expectations. Brands that go
+beyond providing functional benefits and offer symbolized
+“meanings” that enable consumers to form and express their
+desired identity are the most appealing to consumers (Malär
+et al. 2011; Batra 2019). Some consumers see brands as a
+tool for self-improvement, while others use brands to communicate their desired selves.
+
+A. Mirzaei et al.
+
+The level of overlap between the consumer and abstract
+brand concepts like image, personality, and meaning
+becomes extremely important and costly to miss (Malär
+et al. 2011). This is because consumers start evaluating the
+extent to which those human-like features are in sync with
+their own personalities, meanings, and sense of self. Offering human-like characteristics with a high overlap, therefore, can contribute to the formation of a consumer–brand
+relationship. The congruity is crucial in further developing the relationship, and the greater the overlap, the closer,
+stronger, and more positive the relationship (Park and John
+2010; Batra et al. 2012).
+Brand concepts, therefore, are key reference points for
+the level of brand attachment versus brand avoidance in consumer–brand relationships. Previous research in brand personality has provided several categorizations. After Aaker’s
+(1997) seminal paper on brand personality conceptualization, offering categories such as sincerity, excitement, and
+ruggedness, others have tried to overcome the shortcomings of Aaker’s brand personality dimensions, examining
+several personality traits such as integrity, sincerity, excitement, sophistication, and trendiness. Criticizing the lack
+of generalizability and its loose definition (Geuens et al.
+2009; Avis et al. 2014; Rauschnabel et al. 2016), several
+researchers have provided alternative brand personality
+dimensions. Geuens et al. (2009) proposed responsibility, activity, aggressiveness, simplicity, and emotionality
+as dimensions of brand personality. Freling et al. (2011)
+proposed three dimensions for brand personality, including
+favorability, originality, and clarity. On the most basic level,
+Malone and Fiske (2013) show consumers’ perceptions of
+brand personalities can be classified into two key categories:
+warmth (associated with brand characteristics) and competence (related to the brand’s ability).
+
+Non‑profit brand personality, image,
+and meaning
+Similar to commercial brands, communicating the right
+brand personalities, images and meanings can also lead to
+benefits for brands operating in the non-profit sector. Positive
+NPO brand perceptions can lead to engaging the community
+in prosocial behaviors (Shehu et al. 2016) and increasing the
+level of charitable giving (Venable et al. 2005; Sargeant et al.
+2008). It can also influence fundraising efforts (Hou et al.
+2009; Sargeant et al. 2008), volunteer recruitment, and talent
+retention rates (Faircloth 2005).
+While there is extensive research on commercial brands,
+few studies investigate non-profit brands, with much of the
+research based on commercial brand conceptualizations.
+This is despite their differences with NPOs, providing social
+benefits for the community compared to commercial brands’
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+
+economic priorities. Work on NPO brand personality dimensions is mostly informed by Aaker’s (1997) brand personality conceptualization. Examining non-profit stakeholders’
+brand personality perceptions in a series of studies, Venable
+et al. (2005) found that charity brands also have human-like
+personalities; however, the types differ compared to commercial brands. While sophistication and ruggedness are
+similar to commercial brands, Venable et al. (2005) identified integrity and nurturance as two new charity brand personality dimensions.
+Sargeant et al. (2008) extend the research on NPO brand
+personality and propose general personality dimensions
+shared by non-profits, like benevolence, support, progression, and conservatism. The conservatism dimension, in
+particular, is referred to organizations that are identified by
+participants as devout, holy, and religious. Conservatism
+was found to be mainly applied to NPOs such as church
+and parachurch. Moreover, the majority of respondents in
+the study were over 40 years old, with 36% being 60+ years
+old. This suggests that conservatism was perceived as an
+important personality trait, mostly by older participants
+evaluating the personality of churches and parachurches.
+Sargeant et al. (2008) also suggest NPOs can communicate
+distinctive personalities based on two main categories: emotional engagement and performance. Brands can generate
+emotional engagement through strong, bold, fun, and inspiring traits, while standing out based on performance requires
+a brand to be associated with traits like prudent, efficient,
+and effective. To differentiate themselves, the researchers
+recommend charities focus on emotional engagement, charity voice, character of service, and the extent to which the
+organization is perceived as traditional, however, brands
+best incorporate shared personality dimensions like benevolence, and progression to signal their position within the
+NPO sector. While Sargeant et al’s (2008) findings offer a
+general recommendation toward incorporating personality
+dimensions, they suggest prioritizing the progression dimension over conservatism in order to appeal to younger target
+audiences.
+Previous research also suggests that to appeal to the
+younger generation on social media, brands focusing on
+altruistic, other-oriented motivations are more effective than
+brands promoting self-driven ends. Paulin et al.’s (2014) findings suggest focusing on higher purposes such as being supportive and caring can result in greater empathetic identification with social causes (Paulin et al. 2014). Consumer social
+responsibility is also another angle that has been looked at to
+understand younger generations’ participation in social initiatives. Johnson and Chattaraman (2019) suggest that supporting
+others and getting involved in socially responsible participation among young consumers have both social-signaling and
+self-signaling abilities. Millennials, however, have mixed
+reputation when it comes to prosocial behaviors. On the one
+
+189
+
+hand, they are known for the Me Me Me generation who only
+care about themselves (Cleary 2017; Stein 2013); on the other
+hand, there are studies suggesting millennials are generous
+(Schulte 2015) or even the most generous and the most careful
+(Calderwood 2017). Koczanski and Rosen (2019), conducting a panel study, analyzed the charitable donation behavior
+of younger generations vs. previous generations. They found
+that subject to factors such as making a gift and the economic
+background, millennials give substantially more than older
+generations. However, the catch is that millennials are less
+likely to make a donation at all (Koczanski, and Rosen 2019).
+Kovic and Hänsli (2018) analyzing the difference in attitudes
+toward non-profit organizations among different generations
+(Baby Boomers, Generation X, and Millennials) found minor
+intergenerational differences. According to Kovic and Hänsli
+(2018), millennials are as interested in and willing to engage
+with NPOs as previous generations. Recent research finds that
+social media platforms such as Facebook can be a useful tool
+in order to get the word out about non-profit organizations
+and to recruit episodic volunteers among millennials (Lee
+2020). Using the Minnesota Adolescent Community Cohort
+Study database, Lee (2020) examining the impact of millennials’ Facebook usage and volunteering in civic engagement
+found a bell-shaped relationship. This suggests that a moderate
+Facebook engagement online can result in offline participation
+in associated activities and volunteering. Thus, it is crucial
+for brands to provide prosocial content on social media that
+potentially can result in greater engagement of millennials in
+charitable and socially responsible activities.
+Bennett and Gabriel (2003) take a slightly different
+approach and look at NPO brand image and reputation. They
+suggest compassion, idealism, and taking a non-political
+stance as some of the key dimensions. Michel and Rieunier (2012) also focus on NPO brand image and propose
+usefulness, efficiency, affect, and dynamism as successful strategies. Michaelidou et al. (2015b) further validated
+and extended Michel and Rieunier’s (2012) brand image
+categorization and proposed usefulness, efficiency, affect,
+dynamism, reliability, and ethicality as dimensions of charity brand image. Table 1 provides a summary of non-profit
+brand personality measurements. As shown in Table 1, the
+lack of higher order purpose is evident, as the majority of
+brand personality, meaning, and image dimensions are functional and emotional, with no clear contribution to the community, having a positive influence on society, or being a
+part of a larger purpose-driven change initiative.
+
+Data and methodology
+To explore how brand purpose is communicated within the
+NPO sector, we studied four brands within five different
+non-profit categories using Charity Navigator classification.
+
+190
+
+A. Mirzaei et al.
+
+Table 1  Summary of main non-profit brand personality/image conceptualization
+Authors
+
+Brand personality/image
+
+Methodology
+
+Non-profit sector/organizations
+
+Bennett and Gabriel (2003)
+
+Compassion
+Reputation
+Dynamism
+Popularity
+Political orientation
+Idealism
+Focus on beneficiaries
+Integrity
+Ruggedness
+Sophistication
+Nurturance
+Benevolence
+Progression
+Conservatism
+Emotional Engagement
+Tradition
+Service
+Voice
+Usefulness
+Efficiency
+Affect
+Dynamism
+Usefulness
+Efficiency
+Affect
+Dynamism
+Reliability
+Ethicality
+
+Quantitative (survey)
+
+Oxfam, The Royal Society for the Prevention of
+Cruelty to Animals (RSPCA), Barnardos, The
+Cancer Research Campaign, the National Society for the Prevention of Cruelty to Children
+(NSPCC), SCOPE
+
+Qualitative (interview,
+focus group) quantitative (survey)
+
+Health, environment/rights, and arts/humanities
+
+Quantitative (survey)
+
+Visual impairment (V.I.), children, animal welfare
+
+Qualitative (interview)
+Quantitative (survey)
+
+Red Cross, The AFM-Téléthon (French Muscular
+Dystrophy Association), UNICEF, Handicap
+International, Doctors Without Borders
+
+Quantitative (survey)
+
+Barnardo’s
+BBC Children
+
+Venable et al. (2005)
+
+Sargeant et al. (2008)
+
+Michel and Rieunier (2012)
+
+Michaelidou et al. (2015a)
+
+The selected NPOs were among the top 100 NPOs overall
+(according to TOPNONPROFIT.COM), and therefore top
+in their own categories. Moreover, among the top NPOs,
+we chose the ones with an active Facebook presence, those
+that regularly posted content on their Facebook page. The
+non-profit brands within each category are as follows:
+Community Development (Ashoka, Do Something, Global
+Giving, Kiva), Education/Children (Barnardos, Pencils of
+Promise, Room to Read, Save the Children), International
+(Acumen, Charity Water, Direct Relief, United Way), Culture (Art Institute of Chicago, Metropolitan Museum of Art
+(Met), Museum of Modern Art (MoMA), New York Public
+Library (NYPL)) and Environment (Green Peace, Nature
+Conservancy, Oceana, Sierra Club). All 20 selected nonprofit brands had active Facebook brand pages and posted
+regularly. Data consisted of brand communicated text posted
+by the 20 brands on their respective Facebook brand pages.
+For each non-profit brand, their latest 150 recent posts were
+retrieved, for a total of 3000 posts.
+Leximancer was used to analyze the text. Leximancer is
+a text analysis method based on the Latent Dirichlet Allocation (LDA) approach which uses a nonlinear machine learning algorithm together with a clustering algorithm to identify
+key concepts, themes, and their interrelationships (Smith and
+Humphreys 2006). This approach was particularly suitable
+
+for this research as it allowed us to identify the most frequent
+brand concepts and to capture the co-occurrence of brand
+purpose themes that emerged from the Facebook posts.
+Data analysis proceeded as follows. First, we separately
+conducted LDA in Leximancer for each brand to discover
+key concepts, followed by a visual mapping to explore
+the themes. This step was repeated for all brands in each
+category.
+Second, after identification and exploration, we classified
+brand concepts into brand purpose and meaning/personality.
+In doing so, we classified attributes and adjectives describing “who” the brand wants to be into brand personality.
+Adjectives like innovative, wise, sustainable, and charitable, for instance, were classified as the brand personality a
+brand is willing to communicate to their target audiences.
+We also classified the verbs used in communicating the mission and the “why” of the brand under brand purpose. Verbs
+like change, transform, empower, and support, signaling the
+ultimate goal of the brand, were classified as purpose.
+Third, we then delved deeper into NPO purpose, breaking down purpose into its main dimensions. In doing so,
+we first used Leximancer to generate the key concepts
+and attributes. We then coded the attributes into purpose
+dimensions. There were two coders involved in this initiative; interreliability test was carried out, in which the
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+
+list of Leximancer-generated attributes were coded into
+four main purpose dimensions by two coders and a Kappa
+score was calculated to examine the degree of agreement
+between them. A Kappa score of 90% indicated a strong
+agreement, placing the Kappa score in the ‘almost perfect’
+agreement (Landis and Koch 1977; Carneiro and Garbero
+2018).” The purpose score for each brand was calculated
+based on the ratio of the number of times a purpose dimension appeared for a brand to the total number of times
+across all brands. For instance, Charity: Water scored 0.03
+for the purpose SUPPORT, at it appeared six times for
+Charity: Water, and 205 times in total across 20 brands
+(6/205 = 0.03).
+Fourth, we mapped each brand across the four different NPO categories based on the identified brand purpose
+dimensions, illustrating the extent to which brand purpose
+dimensions vary across non-profit categories.
+Fifth, to assess the heterogeneity of brand purpose dimensions, which is the extent to which a dimension is dominant
+for each brand in each category, we calculated the level of
+purpose concentration (or the degree of variation) using the
+Herfindahl concentration index (HHI). To assess the extent
+to which a purpose dimension is dominant within a brand,
+following Tirunillai and Tellis (2014), we used the Herfindahl index which is a measure of concentration. In doing so,
+we first computed the percentage share, the relative percentage of a communicated purpose:
+
+Percentage share (𝛼) ∶
+
+191
+
+HHI =
+
+n
+∑
+
+𝛼2.
+
+1
+
+Results
+Table 2 shows the key brand concepts with the highest frequency and relevance that emerged from the analysis. Many
+of these concepts are consistent with brand personality and
+image concepts like sustainable, innovative, social, moral,
+and committed. While some of these concepts are shared
+across non-profit categories, each sector also communicates
+its own distinct concepts. As shown in Fig. 1, being innovative, for instance, is shared across all four categories, followed by committed as the second most popular concept
+which is common across three non-profit categories. Passionate, social, sustainable, honor, and different are communicated in at least two categories. We also find different
+non-profit categories have their own unique communicated
+meanings. Being adventurous, for example, is tied to the
+environment category, while activist is communicated by
+community development brands whereas being moral and
+diverse are associated with charities in the international
+category.
+Addressing the first research question, ‘exploring the key
+dimensions of brand purpose communicated by NPOs, it
+
+Number of times a dimension was communicated by brand X
+Total Number of times all dimensions were communicated by the brand
+
+We then calculated HHI as the average percentage share
+across brands within a sector:
+
+was found that in addition to adopting certain personalities
+and images, non-profit brands in different categories push
+
+Table 2  NPO brand purpose and personality/image across categories
+Sector
+
+Purpose
+
+International
+
+Action, aid, care, challenge, change, education, impact
+Make a difference, emergency, fund, help, inspire, learn, opportunity, philanthropy, power, provide, safe, supply, support
+Education (children)
+Act (urgently), care, change, educate, empower, give hope,
+help, impact, inspire, lifesaving, protect, provide, support,
+transform
+Community development Care, challenge, change
+Changemakers, collaboration, empower, help, hope, impact,
+inspire, opportunity, provide, support, transform
+Environment
+
+Culture
+
+Action, challenge, change
+Defend, make a difference, discover, emergency, fight, help,
+impact, inspire, justice, opportunity, power, protect, provide,
+stop
+Learn, inspire, impact, explore, stop, help, change, fund, support, power
+
+Personality/image
+Innovation, committed
+Honor, passionate, moral, rugged, generous, diverse
+Innovation
+Different, social
+Emotional
+Innovation, committed, different, honor, passionate,
+social, sustainable
+Activist, charitable, collective, creative, dedicated,
+green, leading, powerful, safe, wise
+Innovation, committing
+Sustainable
+Adventure, clean, environmental, renewable
+Modern, ancient, artistic, contemporary, important,
+special, social, perfect, exclusive, creative
+
+192
+Fig. 1  Commonality of brand
+concepts across NPOs
+
+A. Mirzaei et al.
+4
+
+3
+
+2
+
+for social, economic or environmental purposes. Some are
+common across the five categories, and some are unique
+to each. While adjectives describe brand personalities and
+images, adjectives are used for perceived brand attitudes.
+Brand purpose is communicated with verbs that describe
+the mission and vision of an NPO. Saving lives, empowering
+community, providing opportunity, and educating people are
+among some of the common purposes that emerged from
+the analysis of brand content on Facebook. While NPOs in
+the Environment category heavily focus on fighting against
+deforestation and extinction, NPOs in Community Development tend to focus on providing shelters and supporting the
+homeless to help change and transform their situation. Purpose in the Education/Children and International categories
+similarly focuses on caring, helping, changing, and supporting those in need. However, in the culture sector, empowering through educating was the key purpose.
+
+Fig. 2  From brand purpose to
+brand personality and positioning
+
+Safe
+
+Wise
+
+Rugged
+
+Powerful
+
+Renewable
+
+Moral
+
+Green
+
+Leading
+
+Generous
+
+Environmental
+
+Diverse
+
+Emotional
+
+Dedicated
+
+Creative
+
+Collective
+
+Clean
+
+Charitable
+
+Adventure
+
+Activist
+
+Sustainable
+
+Social
+
+Honor
+
+Passionate
+
+Different
+
+Committed
+
+0
+
+Innovation
+
+1
+
+As shown in Fig. 2, mapping the combination of brand
+purpose and other brand concepts can provide a broader
+picture of what a non-profit brand stands for and is trying
+to communicate. For instance, a non-profit brand can adopt
+empowering as its brand purpose and choose being wise
+as its personality and therefore communicate a wise brand
+that dedicates its efforts in empowering the community. As
+another example, a brand in the Education/Children sector,
+with the purpose of protecting and supporting children, may
+adopt an innovative and emotional brand personality with
+fighting against abuse and exploitation as its purpose.
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+
+193
+
+Dimensions of non‑profit brand purpose
+communicated on social media
+In order to more specifically address the first research question on the key dimensions of NPO purpose, all the identified brand purpose types in Table 2 were further classified to develop a broader set of non-profit brand purpose
+dimensions. Based on the similarity of purpose concepts, we
+extract four main dimensions of non-profit brand purposes.
+For instance, as shown in Table 3, concepts like make a difference, impact, transform, and lifesaving are classified into
+an overall purpose dimension of ‘CHANGE’. Concepts like
+aid, care, provide, supply, and help form the second main
+purpose dimension of ‘SUPPORT’. The third dimension of
+non-profit brand purpose ‘EMPOWER’ is based on concepts
+like opportunity, empower, educate/learn, and challenge.
+The final purpose dimension ‘FIGHT’ includes concepts
+like fight, stop, protect, act, and defend.
+Figure 3 maps the five non-profit categories on the main
+non-profit purpose dimensions based on the average number of times each of the concepts is listed in Table 3. For
+instance, the number of times the ‘Support’ purpose dimension emerged in its underlying concepts such as aid, care,
+provide is first calculated for each brand and then averaged across four brands in each sector. As shown in Fig. 3,
+‘FIGHT’ appears as the main purpose for brands in the Environment sector, while ‘SUPPORT’ is the key purpose for the
+Education/Children category. Purpose for the culture category has the least diversity and mostly focused on one main
+purpose, that of inspiring and empowering through educating. Overall, the results indicate Community Development
+NPOs heavily communicate ‘EMPOWER’ and ‘CHANGE’
+as its two key purpose dimensions while International NPOs
+seem to center on all four purpose dimensions.
+To address the RQ2, better understanding how purpose
+dimensions vary across brands in different NPO categories, Table 4 compares the distribution of purpose dimensions across the five non-profit categories. A review shows
+the variation in purpose dimensions and the concentration
+of dimension in different sectors. As shown in Table 4,
+based on the number of concepts found for each purpose,
+
+CHANGE
+0.25
+0.2
+0.15
+0.1
+0.05
+FIGHT
+
+SUPPORT
+
+0
+
+EMPOWER
+International
+
+Education (Children)
+
+Environment
+
+Culture
+
+Community Development
+
+Fig. 3  Non-profit brand purpose dimensions across five sectors
+
+certain dimensions like SUPPORT and CHANGE are
+common across all sectors and FIGHT is more unique to
+the Environment sector.
+Comparing brands in each category, Fig. 4 shows purpose consistency among the non-profit brands in the Education/Children and Environment categories. Brands in
+Education/Children are mostly focused on the SUPPORT
+and EMPOWERING dimensions of purpose, and less
+focused on the CHANGE and FIGHT dimensions (Fig. 4,
+Panel B). In contrast, non-profit brands in Environment
+appear to be heavily communicating the components of
+FIGHT as a key purpose dimension (Fig. 4, Panel D).
+Unlike Education/Children, Culture, and Environment,
+where NPOs communicate one or two purpose dimensions,
+brands in the International and Community Development
+categories are more diverse and connected to multiple
+purpose dimensions. In the Community Development
+category, for instance, CHANGE and EMPOWER are the
+key purpose dimensions for Ashoka, while Do Something
+communicates the FIGHT dimension of purpose, and
+Kiva’s main purpose is EMPOWER (Fig. 4, Panel C). The
+Culture sector is relatively less purpose focused based on
+the social media communicated content.
+
+Table 4  Distribution of purpose dimensions across different nonprofit categories
+
+Table 3  Main dimensions of NPO purpose
+Change
+
+Support
+
+Empower
+
+Fight
+
+Change
+Make a difference
+Lifesaving
+Impact
+Give hope
+Transform
+
+Support
+Aid
+Care
+Provide
+Supply
+Fund
+Help
+
+Empower
+Opportunity
+Power
+Challenge
+Educate/learn
+Inspire
+
+Fight
+Stop
+Protect
+Act/emergency
+Defend
+
+Change
+Support
+Empower
+Fight
+
+International
+
+ComEducation/chil- munity
+developdren
+ment
+
+Environment
+
+Culture
+
+3
+7
+4
+1
+
+6
+4
+2
+2
+
+3
+2
+2
+4
+
+2
+3
+3
+1
+
+4
+4
+2
+–
+
+194
+
+A. Mirzaei et al.
+
+International
+
+Education (Children)
+
+CHANGE
+0.15
+0.1
+0.05
+FIGHT
+
+SUPPORT
+
+0
+
+FIGHT
+
+Charity: Water
+
+Direct Relief
+
+United Way
+
+Barnardos
+
+Community Development
+
+0.3
+0.2
+0.1
+SUPPORT
+
+0
+
+FIGHT
+
+Do Something
+
+Room to Read
+
+Save the Children
+
+CHANGE
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+SUPPORT
+
+EMPOWER
+
+EMPOWER
+Ashoka
+
+Pencils of Promise
+
+Environment
+
+CHANGE
+0.4
+
+FIGHT
+
+SUPPORT
+
+EMPOWER
+
+EMPOWER
+Acumen
+
+CHANGE
+0.25
+0.2
+0.15
+0.1
+0.05
+0
+
+Global Giving
+
+Green Peace
+
+Kiva
+
+Nature Conservancy
+
+Oceana
+
+Sierra Club
+
+Culture
+CHANGE
+0.15
+0.1
+0.05
+FIGHT
+
+SUPPORT
+
+0
+
+EMPOWER
+Art Institute of Chicago
+
+MET
+
+MoMA
+
+NYPL
+
+Fig. 4  a–e Average popularity of purpose dimensions for each brand across five sectors
+
+Heterogeneity and concentration of purpose
+In order to address RQ3, examining the degree of concentration and heterogeneity of social media communicated
+brand purpose in different NPO categories, we employed
+Herfindahl index (HHI). HHI is an opposite measure for
+diversity; a low HHI score indicates a diverse communicated brand purpose with high heterogeneity. On the other
+hand, a high HHI score reflects a high concentration and
+
+low purpose diversity. As shown in Table 5, column 2, the
+index varies across brands in different sectors, from 29%
+for Nature Conservancy to 82% for Barnardos. The results
+show that with a few exceptions, most brands across four
+sectors are communicating a moderate level of purpose
+diversity and are less focused on just one purpose dimension. United Way for instance with only a 35% concentration index score communicates three purpose dimensions,
+as opposed to Barnardos with a very high concentration
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+Table 5  Concentration and
+heterogeneity of purpose
+dimensions across non-profit
+brands
+
+Brands
+
+195
+HHI concentra- Heterogeneity
+tion index
+
+International
+Acumen
+Charity: water
+Direct relief
+United way
+
+64.73
+56.79
+50.22
+34.95
+
+Low
+Moderate
+Moderate
+High
+
+Education (children)
+Barnardos
+Pencils of promise
+Room to Read
+Save the Children
+
+82.26
+42.32
+64.88
+63.00
+
+Low
+High
+Moderate
+Moderate
+
+Community development
+Ashoka
+Do Something
+Global Giving
+Kiva
+
+45.30
+52.66
+52.00
+41.27
+
+Moderate
+Moderate
+Moderate
+High
+
+Environment
+Green Peace
+Nature Conservancy
+Oceana
+Sierra Club
+
+58.00
+29.58
+51.79
+52.66
+
+Moderate
+High
+Moderate
+Moderate
+
+Culture
+Art Institute of Chicago
+Metropolitan Museum of Art (met)
+Museum of Modern Art (MoMA)
+New York Public Library (NYPL)
+
+54.45
+12.50
+32.67
+37.50
+
+Moderate
+High
+High
+High
+
+and strongly communicating one purpose dimension,
+SUPPORT.
+Looking at the average HHI score, Education/Children with
+the highest average HHI suggests that brands in this category
+communicate more clearly about their brand purpose and are
+focused on one or two dimensions. For instance, EMPOWER
+is the dominant purpose for Room to Read, while SUPPORT
+is the dominant purpose for Save the Children. In Community Development, Kiva’s low HHI core suggests that Kiva is
+communicating a diverse range of purpose dimensions, from
+EMPOWER to CHANGE to SUPPORT, with a high purpose
+heterogeneity.
+
+Sector mean
+
+Sector STD
+
+51.67
+
+12.63
+
+63.11
+
+16.35
+
+47.81
+
+5.48
+
+48.01
+
+12.59
+
+34.28
+
+17.26
+
+Discussion and implications
+Similar to different types of interactions and relationships
+we have with other people, we also develop relationships
+with brands (Keller 2012). With thousands of brands to
+interact with every day, it is difficult if not impossible for
+people to develop deep and meaningful, or intense relationships with all brands. Thus, consumers choose those
+brands that resonate with them, that they feel more in sync
+with, and relate to, both at a personal and social level (Keller 2012; Schmitt 2012). To win the hearts and minds of
+
+196
+
+consumers, brands need to become relevant (Aaker 2012).
+Consumers may develop attachments with brands if they
+find brands provide two types of benefits: intensity (i.e.,
+the depth of the psychological bond in the customer–self
+relationship) and activity (i.e., the behavioral changes
+occurring through such a deep bond) (Keller 2012). In
+the non-profit sector, the ‘activity’ dimension of being
+attached to target audiences is even more important, as
+an element of behavioral support is expected in the form
+of volunteering, donating, retail purchase, or encouraging
+others to become involved in the cause or social issue.
+Communicating key brand concepts and brand purposes
+that target audiences can relate to is therefore crucial in
+developing brand relationships.
+This study not only adds to the previous literature on
+brand image and personality, it also contributes to the underresearched area of brand purpose, in particular, for non-profit
+brands. This is the first study to explore non-profit brand
+purpose dimensions. With an increasing interest in adopting higher order purpose, going beyond functional benefits
+and communicating a purpose that reflects an organization’s
+role in society, it is crucial to understand different aspects of
+purposefulness. This article explores different dimensions
+of brand purpose communicated by NPOs across five different sectors, International, Education (Children), Community Development, Culture and Environment. Analyzing
+the Facebook posts content, communicated by NPOs on their
+Facebook brand page, this article identifies four non-profit
+brand purpose dimensions.
+Brands in each sector communicate a range of purposes
+such as providing aid, making a difference, supporting,
+empowering, or changing and saving lives. This research
+explored four key brand purpose dimensions including
+CHANGE, SUPPORT, EMPOWER, and FIGHT. The purpose CHANGE encompasses concepts like making a difference, lifesaving, impact and transforming. EMPOWERING
+as another purpose contains opportunity, power, challenge,
+and inspire. The purpose SUPPORT is based on concepts
+such as help, fund, supply, aid, and care. FIGHT, the final
+and fourth dimension explored on social media, communicates actions such as stop, fight, protect, act, and defend.
+The purpose dimensions are mostly shared across the five
+NPO sectors. In particular, EMPOWER is a key purpose for
+Culture, Community Development, and Education/Children
+sectors, while CHANGE is a common purpose among the
+International NPO sector and Community Development.
+However, the purpose FIGHT is a dominant purpose for
+NPOs in the Environment sector, whereas SUPPORT is
+the leading purpose among NPOs in the Education/Children sector. While there is overlap in the communicated
+brand purpose across NPOs, each non-profit category has
+at least one dominant purpose. The degree of concentration in adopting and communicating purposeful content on
+
+A. Mirzaei et al.
+
+social media is highest in the Environment sector. Unlike
+other sectors, the Environment sector is heavily focused on
+the FIGHT purpose. This is followed by the Community
+Development sector, heavily concentrating on two purposes,
+EMPOWER, and CHANGE. The Culture sector has the
+least purpose-driven Facebook communication, scoring low
+across different dimensions. Empowering, through inspiring
+and educating, is the most communicated purpose in the
+Culture sector; however, it still requires greater attention as it
+scored low on purpose dimensions relative to other sectors.
+Overall, understanding the choices of brand purpose for
+NPOs in different categories provides alternative solutions
+for brands seeking clear and meaningful communication
+strategies. Besides brand personalities and images explored
+in previous studies, NPOs can adopt a higher order purpose
+dimension discovered in this study, one that resonates with
+their stakeholders and appropriate to the category in which
+they operate.
+This research provides three implications that NPO
+marketing managers communicating their purpose should
+consider:
+1. Purpose as an umbrella While so many brands may still
+choose to adopt personality and image characteristics
+such as sophisticated, innovative, humble, funny, or
+compassionate, a higher purpose can be adopted as an
+overarching umbrella meaning, encompassing brand personality and image. For instance, an NPO may choose
+EMPOWER as its higher purpose, and then adopt innovation, or committed, or wise as its brand personality
+and image. Similarly, a brand with personalities like
+green, social, and sustainable can choose CHANGE or
+SUPPORT as their higher purpose.
+2. Diversification versus concentration of purpose The
+findings of this study provide a platform for NPO managers to decide on the extent to which they are willing to pursue a multidimensional purpose or adopt a
+single purpose, communicating the most relevant and
+expected purpose. As this is the first study to explore
+purpose diversification versus concentration, the findings of this paper can help NPOs to make a more visionary decision on the strategic choices they should make
+about their organization’s purpose. The findings of this
+research provide organizations with a four-dimensional
+perspective toward adopting a higher purpose. Whether
+an NPO decides to only focus on one dimension, or a
+mix of purposes, that is a strategic decision to be made
+before planning any execution. In other words, an NPO’s
+execution plan to run a purpose-injected campaign will
+depend on their choice of purpose, which is a strategic organization-level decision. A single-purpose (e.g.,
+EMPOWER) or a multipurpose (e.g., EMPOWER, and
+SUPPORT) strategy may be resulted in implementing
+
+Exploring brand purpose dimensions for non‑profit organizations﻿	
+
+a series of branding communications in line with the
+strategic purpose, to avoid diluting brand purpose and
+confusing consumers.
+3. Extending purpose dimensions In order to improve the
+relevance of NPOs to new target audiences and tapping
+into new markets, the four NPO brand purpose dimensions explored in this study can be used as a reference
+point and guide NPOs to extend their purpose dimensions communicating other purpose aspects. This will
+enable NPOs to synchronize their corporate purpose
+with their target audiences.
+Given that purposefulness can be perceived by target audiences as authentic vs desperate and phony, it is crucial to
+have a strategic view toward the choice of purpose that resonates the best with each target audience and fits the organization’s personality and positioning. Our findings can provide
+managers with key categories of purpose choices, enabling
+them to implement a cohesive purpose-driven approach in
+the NPOs communicated messages, choosing the right purpose, and the right approach (diversification vs concentration). Overall, in this study we offered a new perspective
+toward building brand positioning. While many NPOs currently employ brand personalities and images to position
+their brand, and to appeal to their target audiences, we argue
+that building brand positioning through adopting higher purpose has a greater potential to resonate with target audiences,
+in particular younger audiences. Effectively and consistently
+communicating the NPO’s brand purpose aligned with their
+mission should be given priority compared to personality
+and image to position the NPOs contribution to the society
+and to build long-term relationships with target audiences.
+Future research may consider correlating the social network posts findings with external data signaling the effectiveness of the strategies (for example, purpose diversity vs.
+homogeneity). One possibility to do so is correlating data on
+NPOs relative performance on social networks posts. Doing
+this may increase the prescriptive value of such exploratory
+research.
+
+Compliance with ethical standards
+Conflict of interest The authors declare that they have no conflict of
+interest.
+
+References
+Aaker, D. 2014. Aaker on branding: 20 principles that drive success.
+New York: Morgan James Publishing.
+Aaker, D.A. 2012. Win the brand relevance battle and then build competitor barriers. California Management Review 54 (2): 43–57.
+
+197
+Aaker, J.L. 1997. Dimensions of brand personality. Journal of Marketing Research 34 (3): 347–356.
+Avis, M., S. Forbes, and S. Ferguson. 2014. The brand personality of
+rocks: A critical evaluation of a brand personality scale. Marketing Theory 14 (4): 451–475.
+Batra, R. 2019. Creating brand meaning: a review and research
+agenda. Journal of Consumer Psychology 29 (3): 535–546.
+Batra, R., A. Ahuvia, and R.P. Bagozzi. 2012. Brand love. Journal
+of Marketing 76 (2): 1–16.
+Bennett, R., and H. Gabriel. 2003. Image and reputational characteristics of UK charitable organizations: an empirical study.
+Corporate Reputation Review 6 (3): 276–289.
+Bloomberg. 2019. Unilever CEO on woke washing, mission, trade
+war, and Brexit. https ​ : //www.bloom ​ b erg.com/news/video​
+s/2019-06-20/unile​ver-ceo-on-woke-washi​n g-missi​o n-trade​
+-war-brexi​t-video​.
+Calderwood, I. (2017, December 18). Millennials are the most generous and most careful when donating to charity, study finds.
+Global Citizen. Retrieved from https​://www.globa​lciti​zen.org/
+en/conte​nt/mille​nnial​s-chari​ty-donat​ions-givin​g-chris​tmas/.
+Carneiro, B., and A. Garbero. 2018. Supporting impact with evidence:
+A content analysis of project completion reports. The Journal of
+Development Studies 54 (8): 1426–1449.
+Cleary, B. (2017, January 6). Millennials are entitled, narcissistic,
+and lazy. Daily Mail Australia. Retried from http://www.daily​
+mail.co.uk/news/artic​le-40936​70/Mille​nnial​s-entit​led-narci​ssist​
+ic-lazy-s-not-fault​-Exper​t-claim​s-child​-wins-prize​-socia​l-media​
+-left-Gen-Y-unabl​e-deal-real-world​.html.
+Escalas, J.E., and J.R. Bettman. 2005. Self-Construal, reference
+groups, and brand meaning. Journal of Consumer Research 32
+(3): 378–389.
+Faircloth, J.B. 2005. Factors influencing nonprofit resource provider
+support decisions: Applying the brand equity concept to nonprofits. Journal of Marketing Theory and Practice 13 (3): 1–15.
+Freling, T.H., J.L. Crosno, and D.H. Henard. 2011. Brand personality
+appeal: Conceptualization and empirical validation. Journal of
+the Academy of Marketing Science 39 (3): 392–406.
+Gartenberg, C., A. Prat, and G. Serafeim. 2019. Corporate purpose
+and financial performance. Organization Science 30 (1): 1–18.
+Geuens, M., B. Weijters, and K. De Wulf. 2009. A new measure of
+brand personality. International Journal of Research in Marketing 26 (2): 97–107.
+Greyser, S.A., and M. Urde. 2019. What does your corporate brand
+stand for? It’s harder to create a strong identity for an entire
+company than for a product. This tool kit can help you get there.
+Harvard Business Review 97 (1): 80–88.
+Hollensbe, E., C. Wookey, L. Hickey, G. George, and C.V. Nichols.
+2014. Organizations with purpose. Academy of Management
+Journal 57 (5): 1227–1234.
+Hou, J., L. Du, and Z. Tian. 2009. The effects of nonprofit brand
+equity on individual giving intention: mediating by the selfconcept of individual donor. International Journal of Nonprofit
+and Voluntary Sector Marketing 14 (3): 215–229.
+Hur, J.D., M. Koo, and W. Hofmann. 2015. When temptations come
+alive: How anthropomorphism undermines self-control. Journal
+of Consumer Research 42 (2): 340–358.
+Johnson, O., and V. Chattaraman. 2019. Conceptualization and measurement of millennial’s social signaling and self-signaling for
+socially responsible consumption. Journal of Consumer Behaviour 18 (1): 32–42.
+Keller, K.L. 2012. Understanding the richness of brand relationships:
+Research dialogue on brands as intentional agents. Journal of
+Consumer Psychology 22 (2): 186–190.
+Kim, S., R.P. Chen, and K. Zhang. 2016. Anthropomorphized helpers
+undermine autonomy and enjoyment in computer games. Journal
+of Consumer Research 43 (2): 282–302.
+
+198
+Koczanski, P., and H.S. Rosen. 2019. Are millennials really particularly
+selfish? Preliminary evidence from a cross-sectional sample in
+the philanthropy panel study. American Behavioral Scientist 63
+(14): 1965–1982.
+Kovic, M., and N. Hänsli. 2018. Do millennials care about NPOs?
+Intergenerational differences in attitudes towards nonprofit organizations. VOLUNTAS: International Journal of Voluntary and
+Nonprofit Organizations 29 (5): 1112–1127.
+Kramer, M. 2017. Brand purpose: The navigational code for growth.
+Journal of Brand Strategy 6 (1): 46–54.
+Landis, J., and G. Koch. 1977. The measurement of observer agreement
+for categorical data. Biometrics 33 (1): 159–174.
+Lee, Y.J. 2020. Facebooking alone? Millennials’ use of social network
+sites and volunteering. Nonprofit and Voluntary Sector Quarterly
+49 (1): 203–217.
+Malär, L., H. Krohmer, W.D. Hoyer, and B. Nyffenegger. 2011. Emotional brand attachment and brand personality: The relative importance of the actual and the ideal self. Journal of Marketing 75
+(4): 35–52.
+Malone, C., and S.T. Fiske. 2013. The human brand: How we relate to
+people, products, and companies. New York: Wiley.
+McKeever, B. 2019. The non-profit sector in brief. National Centre
+for Charitable Statistics. https​://nccs.urban​.org/proje​ct/nonpr​ofitsecto​r-brief​. Accessed 10 May 2019.
+Michaelidou, N., M. Micevski, and J.W. Cadogan. 2015a. An evaluation of nonprofit brand image: Towards a better conceptualization and measurement. Journal of Business Research 68 (8):
+1657–1666.
+Michaelidou, N., M. Micevski, and N.T. Siamagka. 2015b. Consumers’
+intention to donate to two children’s charity brands: A comparison
+of Barnardo’s and BBC Children in Need. Journal of Product &
+Brand Management 24 (2): 134–146.
+Michel, G., and S. Rieunier. 2012. Nonprofit brand image and typicality influences on charitable giving. Journal of Business Research
+65 (5): 701–707.
+Oster, E. 2018. Majority of consumers want brands to take a stand
+on social and political issues. AdWeek, January 12. https​://www.
+adweek​ .com/brand-​ market​ ing/majori​ ty-of-consum
+​ ers-want-brand​
+s-to-take-a-stand​-on-socia​l-and-polit​ical-issue​s-accor​ding-tonew-study​/.
+Park, J.K., and D.R. John. 2010. Got to get you into my life: Do
+brand personalities rub off on consumers? Journal of Consumer
+Research 37 (4): 655–669.
+Paulin, M., R.J. Ferguson, N. Jost, and J.M. Fallu. 2014. Motivating
+millennials to engage in charitable causes through social media.
+Journal of Service Management 25 (3): 334–348.
+Quinn, R.E., and A.V. Thakor. 2018. Creating a purpose-driven organization. Harvard Business Review 2018: 78–85.
+Randle, M., F. Leisch, and S. Dolnicar. 2013. Competition or collaboration? The effect of non-profit brand image on volunteer recruitment strategy. Journal of Brand Management 20 (8): 689–704.
+Rauschnabel, P.A., N. Krey, B.J. Babin, and B.S. Ivens. 2016. Brand
+management in higher education: the university brand personality
+scale. Journal of Business Research 69 (8): 3077–3086.
+Sargeant, A., J. Hudson, and D.C. West. 2008. Conceptualizing brand
+values in the charity sector: the relationship between sector, cause
+and organization. Service Industries Journal 28 (5): 615–632.
+Scaraboto, D., and E. Fischer. 2013. Frustrated fatshionistas: An institutional theory perspective on consumer quests for greater choice
+in mainstream markets. Journal of Consumer Research 39 (6):
+1234–1257.
+Schmitt, B. 2012. The consumer psychology of brands. Journal of
+Consumer Psychology 22 (1): 7–17.
+Schulte, B. 2015, June 24. Millennials are more generous than anybody realizes. Washington Post. Retried from https​://www.washi​
+
+A. Mirzaei et al.
+ngton​post.com/news/wonk/wp/2015/06/24/mille​nnial​s-are-actua​
+lly-more-gener​ous-than-anybo​dy-reali​zes/?nored​irect​=on&utm_
+term=.15efe​c40f0​f4.
+Shehu, E., J.U. Becker, A.C. Langmaack, and M. Clement. 2016. The
+brand personality of nonprofit organizations and the influence of
+monetary incentives. Journal of Business Ethics 138 (3): 589–600.
+Smith, A.E., and M.S. Humphreys. 2006. Evaluation of unsupervised
+semantic mapping of natural language with Leximancer concept
+mapping. Behavior Research Methods 38 (2): 262–279.
+Stein, J. 2013, May 20. Millennials: The Me Me Me generation. Time
+Magazine. Retrieved from http://time.com/247/mille​nnial​s-theme-me-me-gener​ation​/.
+Tapp, A., G. Lindsay, and R. Sorrell. 1999. Towards a branding framework for cause-, funding-and need-oriented charities. Journal of
+Marketing Communications 5 (1): 39–50.
+Tirunillai, S., and G.J. Tellis. 2014. Mining marketing meaning from
+online chatter: Strategic brand analysis of big data using latent dirichlet allocation. Journal of Marketing Research 51 (4): 463–479.
+Venable, B.T., G.M. Rose, V.D. Bush, and F.W. Gilbert. 2005. The
+role of brand personality in charitable giving: an assessment and
+validation. Journal of the Academy of Marketing Science 33 (3):
+295–312.
+Vila, O.R., and S. Bharadwaj. 2017. Competing on social purpose:
+Brands that win by tying mission to growth. Harvard Business
+Review 95: 94–101.
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+Dr. Abas Mirzaei is a Senior Lecturer in Marketing at Macquarie Business School. His area of expertise is branding, woke marketing, and
+brand activism. His work has been published in academic journals such
+as Journal of Brand Management, European Journal of Marketing,
+Journal of Advertising Research, and Journal of Retailing and Consumer Services. His work on ‘woke’ branding has been received well,
+and appeared in The Conversation, Inside Retail, Inside FMCG, SBS,
+NITV, ABC News, BBC Radio, SMH, Marketing Magazine, Mumbrella, AdNews, Medium, and many others. Abas is a recipient of the
+best branding paper award from Australian and New Zealand Academy
+of Marketing Conference. Abas’s course “Visionary leadership, identity & motivation: Become a meaning maker” has attracted more than
+15000 learners on Coursera. He has introduced a long-term oriented
+marketing performance metric, Brand Health Index (BHI), and Behavioral Brand Evaluation Typology, and also Advertising Spending Diets.
+A/Prof Cynthia M. Webster Cynthia M. Webster is an associate professor of marketing at the Macquarie Business School, Sydney, Australia.
+Her research interests focus on consumer value and engagement, social
+network analysis, branding and social marketing. She has published in
+such journals as Industrial Marketing Management, Journal of Brand
+Management, Journal of Business Research, Social Networks, Psychology and Marketing, and the Journal of Macromarketing. She is
+an associate editor of Journal of Consumer Behaviour and is a regular
+reviewer for top marketing journals.
+Dr. Helen Siuki Helen Siuki is an assistant professor of marketing at
+the Department of Marketing, Macquarie Business School, Sydney,
+Australia. Helen’s research interests include digital and social media
+marketing, e-WOM, branding, consumer engagement and motivations.
+Helen’s work has been published/under review in journals such as Journal of Brand Management and Psychology & Marketing.
+
+

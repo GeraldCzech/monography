@@ -1,0 +1,3400 @@
+Working Paper Number 82
+January 2006
+Tax policies to promote private charitable
+giving in DAC countries
+By David Roodman and Scott Standley
+
+Abstract
+Researchers have written hundreds of papers on the causes and consequences of official foreign aid,
+while paying almost no attention to private overseas giving, by individuals, universities, foundations,
+and corporations. Yet private giving is significant—some $15.5 billion/year, compared to more than
+$60 billion/year in public giving—and is in no small part an outcome of public policy. In most rich
+countries, tax deductions and credits lower the “price” of charity to donors. And governments with low
+tax revenue/GDP ratios leave more money in private pockets for private charity. To correct the nearcomplete lack of information on this de facto aid policy, we survey officials of 21 donor nations on the
+use of tax incentives to promote private charity. From the results, we develop an index of the overall
+incentive for private charity, expressed as a percentage increase over the hypothetical giving level
+absent incentives. France’s tax code creates the largest price incentive while those of Austria, Finland,
+and Sweden offer none. Factoring in the income effect of the tax ratio, Australia, Ireland, Germany,
+and the United States move to the top, with combined price and income effects sufficient to double
+private giving. As a result, tax policy appears to have nearly doubled private overseas giving from
+donor countries in 2003, from a counterfactual $8.0 billion. Two-thirds of the $7.5 billion increase
+occurred in the United States. Of that, nearly 40% appears to be U.S. charity to Israel. According to
+21-country scatter plots, countries with lower church attendance and more faith in the national
+legislature have lower taxes (stronger income effect), but average levels of targeted tax incentives.
+Income (GDP/capita) does correlate with private overseas aid/capita, but also with public aid/capita, so
+that the two aid flows are complementary in magnitude.
+
+The Center for Global Development is an independent think tank that works to reduce global poverty and inequality
+through rigorous research and active engagement with the policy community.
+
+Use and dissemination of this Working Paper is encouraged, however reproduced copies may not be used for
+commercial purposes. Further usage is permitted under the terms of the Creative Commons License. The views
+expressed in this paper are those of the author and should not be attributed to the directors or funders of the Center
+for Global Development.
+
+www.cgdev.org
+
+1
+An electronic copy of this paper is available at: http://ssrn.com/abstract=984021
+
+Tax policies to promote private charitable giving in DAC countries
+David Roodman and Scott Standley1
+Center for Global Development
+February 2006
+
+Public finances are one of the best starting points for an investigation of a society. The spirit of a
+people, its cultural level, its social structure, the deeds its policy may prepare—all this and more is
+written in its fiscal history, stripped of all phrases. He who knows how to listen to the message here
+discerns the thunder of world history more clearly than anywhere else.
+—Joseph Schumpeter2
+
+The hardest thing in the world to understand is the income tax.
+—Albert Einstein
+1.
+
+Introduction
+
+Private charitable giving from rich countries to poor countries is an important component of
+foreign aid, broadly defined. According to the Organization for Economic Cooperation and
+Development/Development Assistance Committee (OECD/DAC), non-governmental
+organizations (NGOs) based in the 22 donor countries that are members of DAC delivered over
+$15 billion worth of private aid in 2003,3 more than official bilateral assistance from every
+individual DAC country except the United States.4
+Evidence also suggests that governments can influence the level of private giving from their
+citizens through tax policy (Feldstein and Taylor 1976; Clotfelter 1985; Schiff 1990; Greene and
+McClelland 2001; Brooks 2004; Gilbert 2005). Specifically, private giving is encouraged by a
+low tax ratio as a share of GDP—which leaves citizens more money to spend on charity—and by
+targeted tax incentives that lower the “price” of donations. Thus private giving to developing
+countries is partly an outcome of public policy.
+But while there is a rather exhaustive body of research on many other aspects of foreign aid,
+private charitable flows from rich countries to poor countries have received scant attention.
+Many studies have examined the tax treatment of charitable contributions, but most deal only
+with the impact of tax incentives in the United States and nearly all fail to differentiate between
+1
+
+David Roodman (droodman@cgdev.org) is a Research Fellow and Scott Standley (sstandley@cgdev.org) is a
+Research Assistant at the Center for Global Development. We thank William Cline and Todd Moss for helpful
+comments on an earlier draft.
+2
+Quote from Mulgan and Murray (1993), Reconnecting Taxation (London: Demos).
+3
+OECD/DAC (2005a). The $15 billion figure sums net grants from NGOs to both Part I and Part II countries as
+defined by the OECD/DAC, which excludes official aid channeled through NGOs. The most recent available year
+with available data in each country is used (17 countries use 2003 data).
+4
+Public assistance here refers to the combined bilateral Overseas Development Assistance (ODA) and Overseas
+Assistance (OA) from 21 DAC countries in 2003. By definition, OA goes to “Part II” countries, which are former
+Eastern Bloc nations or countries that are relatively rich, such as Israel. OECD/DAC (2005a).
+
+2
+An electronic copy of this paper is available at: http://ssrn.com/abstract=984021
+
+international and domestic donations. Cross-country analyses of the impact of tax policy on
+giving for development, meanwhile, are virtually non-existent. In sum, tax policy, as it affects
+international private giving, is an important yet largely ignored aspect of aid policy.
+This paper presents the results of an attempt to narrow this gap in knowledge. Between
+November 2004 and March 2005 the Center for Global Development conducted a data-gathering
+exercise on DAC country tax policies. Through a survey of DAC country embassy and tax
+officials, we compiled comparable data on the use of tax incentives to promote private charitable
+giving across 21 DAC countries and used the data to estimate the contribution of tax policies to
+observed private donations to developing countries.5
+Following this introduction, Section 2 gives an overview of the data landscape for private
+charitable giving. Section 3 describes the two main ways government tax policy can influence
+private decisions to give. Section 4 presents our data collection methodology and reviews key
+results. Section 5 estimates the impact of tax policies on giving among DAC countries. Section 6
+examines some suggestive relationships of federal tax policies with societal factors that influence
+the development of those policies and with actual giving levels. Section 7 concludes.
+2.
+
+Private charitable giving from DAC countries to the developing world
+
+Before considering specific tax policies that affect private giving, it is useful to develop a sense
+of the size of charitable flows. Available data on private charitable aid from rich country citizens
+to poor countries appear relatively low-quality, but even conservative estimates leave little doubt
+that the flow is substantial.
+A full accounting of the level of finance flowing from all rich countries has been limited to date
+by several factors. Tracking private donations in any country is inherently difficult. Each
+charitable donation is a private decision made by an individual, and no government can account
+for all the many private transactions that take place across a country and make up a nation’s total
+charitable giving. Tracking from the recipient side is also difficult given the number of private
+organizations that receive donations.
+Attempts to estimate total private giving generally use one of three data sources: tax returns,
+household surveys, or surveys of intermediary organizations that channel private donations. Each
+method has drawbacks and each can offer a different picture of total giving from a country. Tax
+return data almost certainly undercount total giving, as only those donations claimed for
+deductions or credits are included. In the United States, taxpayers must itemize to claim a
+charitable tax deduction, and most taxpayers would not benefit from itemizing. As a result, tax
+return data excludes any donations by non-itemizers as well as donations not claimed as
+deductions. Even if this flaw is not significant and available tax data give an accurate estimate of
+a nation’s total charitable giving, these data still say nothing about the ultimate destination of
+gifts. As long as a donation goes to a qualified charity, the use of the gift by the charity does not
+matter for tax reporting purposes, meaning that estimates of international charitable flows are not
+possible from tax data.
+5
+
+All DAC countries were surveyed except Luxembourg.
+
+3
+
+Household surveys of giving help fill some of these gaps, but they too have limitations. While
+surveys can include questions to separate out the destination of giving to allow for estimates of
+international development assistance, they rely on the accuracy of self-reported data from
+respondents who are likely to exaggerate their amount of charity donated (Andreoni 2005;
+Institute for Philanthropy 2005; Independent Sector 2004). The use of different survey
+methodologies also limits the comparability of giving studies. Most available estimates calculate
+only giving in a single country and make no attempt to compare across countries. Government
+agencies and nonprofits from individual DAC countries estimate the amount of charity flowing
+from their borders, but each uses its own definition of “charitable giving” as well as unique
+methodologies to calculate their estimates. What is considered charitable giving in one country
+may not necessarily count in others. These definitional problems are even more problematic for
+estimating international flows. Generally, studies divide gifts by sector and include
+“international” donations as one possible outlet of charitable finance. Since nearly all estimates
+cover only a single donor country, attempts to compare across countries involve the combination
+of different methodologies and different meanings of “international development” donations.
+The nature of estimating private charity makes it difficult to obtain consensus estimates of giving
+even for a single country. For example, recent estimates of U.S. giving to developing countries
+range from $1 billion to $19 billion (See Section 2.2).
+Private giving can also be estimated by surveying intermediary organizations that send money
+overseas, the main channel by which private charity is delivered to poor countries. Most
+intermediaries keep detailed financial records of their operating expenses and sources of
+financial support. There are also a limited number of groups making overseas grants, certainly
+far fewer than individual households donating money. This means that, in practical terms,
+surveying organizations is easier and perhaps more accurate than surveying households. Of
+course, surveys cannot cover all of the organizations making overseas grants. But in most
+countries a small number of large organizations are probably responsible for most of the total
+assistance, making it possible to survey a select number of groups to come up with an estimate of
+giving that accounts for most private charity flowing to poor countries.
+The Development Assistance Committee (DAC) collects the most comprehensive cross-country
+estimates of private giving to developing countries. DAC data counts giving channeled through
+NGOs based in sending countries, including donations by individuals and foundations but
+leaving out official aid channeled through NGOs. The DAC collects these data from donorcountry governments, meaning that each government chooses the methodology for estimating the
+assistance reported to the DAC. For example, DAC data for the United States comes from
+balance of payments information and surveys of organizations that send money overseas
+compiled by the government.
+Even these data, however, are flawed and unlikely fully representative of the true value of
+private giving to poor countries. Despite attempts for a standardized collection process, DAC
+data are still not collected on a comparable basis in each country. While the dataset gives the
+impression of uniform comparability, member countries remain responsible for the data and
+differences in reporting charitable giving from one country to another compromise the accuracy
+of the DAC database. Most likely, these reporting defects cause the DAC data to undercount
+total giving. Despite these flaws, the DAC data reports each donor-country’s best attempt to
+
+4
+
+estimate the amount of NGO assistance flowing from their borders. This and the difficulty in
+finding comparable alternative data across countries makes the DAC the most useful source for
+rough estimates of charitable giving from rich countries to poor countries.
+2.1.
+
+Grants from DAC country NGOs
+
+According to the DAC, NGOs based in the 22 DAC countries delivered $15.5 billion worth of
+private assistance in 2003.6 The DAC line item “net grants by NGOs” sums expenditure by
+national NGOs working in development assistance and relief together with any additional
+contributions in kind made to developing countries, multilateral organizations (e.g., proceeds to
+UNICEF from Christmas card sales), or international NGOs. This category includes most
+overseas private charitable giving since most is channeled through development NGOs.7 It is also
+believed that most foundation expenditure on development is included in the DAC data on NGO
+grants (OECD/DAC 2003). In order to avoid double counting of NGO activity financed by
+government contributions, the DAC also subtracts donor government grants or subsidies to
+national NGOs in its calculation.
+The $15.5 billion figure is the sum of net grants from NGOs in all DAC countries to both “Part
+I” and “Part II” countries. Data for 2003 is not available for all countries, so we use the most
+recent available year of data for each country (17 countries have 2003 data at this writing).8
+According to the DAC, the list of Part I countries includes most economies typically categorized
+as “developing countries.” Nearly all of these Part I countries fall below the World Bank’s
+threshold for “high-income country” ($9,386 GNI per capita in 2003). Part II countries,
+meanwhile, are former Eastern Bloc nations or countries that are relatively rich, such as Israel.
+While there is no standard path to graduation, the DAC reviews the list every three years and a
+country with a per capita income falling above the World Bank high-income country threshold
+for three consecutive years normally graduates to Part II, though exceptions are made depending
+on DAC analysis of each country’s development and resource status.9
+Seventy percent of DAC private aid goes to Part I countries. The 22 DAC countries delivered
+around $11.1 billion to Part I countries and another $4.4 billion to the richer Part II countries in
+the most recent year with available data for each country (Table 1). This split is somewhat
+misleading, however, as most DAC countries give almost exclusively to the poorest recipients.
+The United States stands out as the one notable exception. In 2003 the United States gave $4.3
+billion to Part II countries (97% of total Part II flows), which U.S. government sources hint is
+mostly to Israel. Part II giving accounted for 40% of the U.S. total. The country with the next
+highest share of giving to Part II countries was Austria, at 15% ($13 million).10
+
+6
+
+OECD/DAC (2005a).
+See DAC Statistical Reporting Directives for full explanation. OECD/DAC (2000).
+8
+There are four countries with data from a year other than 2003: Denmark (2001), France (1995), Norway (2002),
+and Spain (1998).
+9
+See OECD/DAC (2005b), DAC List of Aid Recipients, www.oecd.org/dac/stats/daclist.
+10
+Germany gave $100 million to Part II countries in 2003 (10% of total German giving), the second highest level in
+the DAC. No other country gave more than $13 million.
+7
+
+5
+
+Table 1. DAC country NGO grants to developing countries (US$ million, most recent year)
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+Total
+
+Year
+2003
+2003
+2003
+2003
+2001
+2003
+1995
+2003
+2003
+2003
+2003
+2003
+2003
+2003
+2003
+2002
+2003
+1998
+2003
+2003
+2003
+2003
+
+Part I
+
+Part II
+
+337
+71
+165
+566
+17
+13
+280
+1,008
+8
+283
+27
+335
+7
+379
+18
+452
+4
+133
+23
+280
+389
+6,326
+11,122
+
+0
+13
+0
+0
+2
+1
+0
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+5
+4,254
+4,387
+
+Total
+337
+84
+165
+566
+19
+14
+280
+1,108
+8
+283
+28
+335
+7
+379
+18
+452
+4
+133
+23
+292
+394
+10,580
+15,509
+
+Source: OECD/DAC (2005a).
+
+American citizens give the most in absolute terms; American NGOs delivered $10.6 billion in
+grants to developing countries in 2003. Germany was next with $1.1 billion. At the bottom of the
+rankings, Portuguese citizens gave $4 million and Greeks gave $8 million, according to the data
+their governments reported to DAC.
+The picture changes when looking at giving per person (Table 2). In 2003, Americans gave $37
+per person, less than Norway11, Ireland and Switzerland. Italy joins Greece and Portugal at the
+bottom; all three countries gave less than $1 per person during 2003.
+
+11
+
+Norway’s giving figure is for 2002.
+
+6
+
+Table 2. DAC country NGO grants to Part I and Part II countries, per capita and per unit
+GDP (most recent year)
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Luxembourg
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+
+Giving per
+capita (US$)
+$16.97
+$10.38
+$15.94
+$17.89
+$3.56
+$2.67
+$4.69
+$13.42
+$0.68
+$70.93
+$0.48
+$2.63
+$15.04
+$23.34
+$4.54
+$99.01
+$0.38
+$3.23
+$2.62
+$39.68
+$6.64
+$36.38
+
+Giving/GDP
+(%)
+0.06%
+0.03%
+0.05%
+0.07%
+0.01%
+0.01%
+0.02%
+0.05%
+0.00%
+0.18%
+0.00%
+0.01%
+0.03%
+0.07%
+0.02%
+0.20%
+0.00%
+0.02%
+0.01%
+0.09%
+0.02%
+0.10%
+
+Source: OECD/DAC (2005a); World Bank (2005).
+
+These data, as mentioned earlier, probably undercount actual giving. But even using the
+conservative DAC figures, private charity from rich country citizens is clearly a significant
+source of finance for developing countries. According to the DAC estimates, if charitable
+contributions were a country, as it were, they would be the world’s second-largest donor. Table 3
+gives bilateral Net Aid Transfers in 2003 of both Overseas Development Assistance (ODA) and
+Overseas Assistance (OA) by the 22 DAC countries. Net Aid Transfers (NAT) is a modified
+version of the DAC ODA/OA variable, which more sharply measures actual transfers of
+resources to receiving countries.12 ODA counts all assistance delivered to Part I countries while
+OA counts assistance to Part II countries. Though substantially smaller than total government
+foreign aid, private finance flowing into developing countries can be an important complement to
+official government aid.
+
+12
+
+In contrast, ODA is a capital flow concept, which does not net out interest received. See Roodman (2005b) for a
+full explanation of the calculation of net transfers.
+
+7
+
+Table 3. Private giving versus Net Aid Transfers to developing countries (US$ million,
+2003)
+Rank
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Country
+United States
+1
+Total DAC private giving
+United Kingdom
+Japan
+Germany
+France
+Netherlands
+Sweden
+Norway
+Canada
+Denmark
+Italy
+Spain
+Switzerland
+Australia
+Belgium
+Finland
+Austria
+Ireland
+Greece
+Portugal
+Luxembourg
+New Zealand
+
+Part I (ODA)
+14,448
+11,122
+6,156
+6,014
+5,154
+3,902
+3,680
+2,235
+2,020
+1,933
+1,740
+1,834
+1,842
+1,262
+1,212
+1,098
+558
+464
+504
+362
+312
+194
+165
+
+Part II (OA)
+1,341
+4,387
+72
+-337
+368
+1,231
+153
+105
+48
+44
+115
+15
+5
+66
+2
+29
+40
+80
+1
+21
+0
+4
+1
+
+Total
+15,789
+15,509
+6,228
+5,676
+5,522
+5,133
+3,833
+2,341
+2,068
+1,978
+1,855
+1,850
+1,847
+1,329
+1,214
+1,127
+598
+544
+505
+383
+313
+198
+166
+
+Note: 1 All private giving data from 2003 except: Denmark (2001), France (1995), Norway (2002), and Spain (1998).
+Source: OECD/DAC (2005a); Roodman (2005b).
+
+2.2.
+
+Alternative estimates of charitable giving to developing countries
+
+A large collection of studies has estimated giving in certain countries. Many of these national
+estimates differ dramatically with the DAC data. For example, some estimates of U.K charitable
+giving are much higher than those provided to the DAC. A study co-sponsored by the Charities
+Aid Foundation (CAF) and the National Council of Voluntary Organizations (NCVO)—an
+umbrella body for the voluntary sector—found that U.K. giving to “overseas relief” in 2004
+comprised 8% of total charitable giving. This comes to £656 million ($1.2 billion USD),13 nearly
+three times the DAC number. These data come from surveys of private donors, so they do not
+include official aid channeled through NGOs.
+Individual giving estimates are not, however, uniformly higher than DAC figures.14 In Australia,
+charity research organization Givewell estimated that in 2001 Australians donated 1.8 billion
+AUD ($1.3 billion USD)—nearly the same amount as the DAC. Of this total, $718 million AUD
+($526 million USD) were claimed as tax deductions.15 Canada’s National Survey of Giving,
+13
+
+CAF and NCVO (2005).
+There are studies of giving for many DAC countries. Some other examples include “Charitable Giving and
+Volunteering in the Republic of Ireland,” National College of Ireland; and “Giving in the Netherlands,” Center for
+the Study of Philanthropy and Volunteering, 2001.
+15
+See “Giving Statistics at a Glance,” www.givewell.com.au.
+14
+
+8
+
+Volunteering and Participating (NSGVP) found that 3% of Canadian private donations went to
+“international” organizations in 2000.16 This comes to $147 million CAD ($124 million USD),
+only one-third the DAC estimate. The Canadian survey uses the International Classification of
+Nonprofit Organizations (ICNPO) developed by the Johns Hopkins Comparative Nonprofit
+Sector Project to code recipient organizations. The ICNPO system groups organizations into 12
+major activity groups. The “international” category includes “organizations promoting cultural
+understanding between peoples of various countries and historical backgrounds, as well as those
+providing emergency relief and promoting development and welfare abroad.”17
+Estimates of U.S. giving to developing countries range widely, though some common patterns
+emerge from the data. Americans as a group give around 2% of their income annually, a level
+that has hardly changed over the last 30 years.18 According to the American Association of FundRaising Counsel’s (AAFRC’s) Giving USA, the share of donated income in 1974 was 1.8% and
+in 1995 it was 1.9%. Nearly every study also finds that only a very small share of total American
+charity goes to international recipients. Estimates between 1993 and 2005 routinely calculate
+international giving at around 2% of total U.S. charity. Most recently, Giving USA 2004
+estimates that 2% of American donations went to international charities in 2003—the smallest
+share out of 10 possible sectors.19
+One estimate of American giving comes from IRS tax return data. According to these data
+Americans claimed $139 billion worth of charitable deductions in 2001 (the most recent year
+with available public data). This probably undercounts total giving since IRS data include only
+donations claimed by those that itemize their tax returns. The AAFRC estimates that Americans
+gave $159 billion in 2001, $20 billion more than the IRS total. This gap might be explained by
+donations of non-itemizers (the Giving USA figure includes both IRS data on charitable
+deductions and estimates of giving by non-itemizers). This difference is relatively small,
+however, and suggests that IRS deduction data captures most American giving. In an earlier
+study the Independent Sector (2003) finds that itemizers give significantly more than nonitemizers. But a small portion of this assistance goes to developing countries. According to
+Giving USA 2004, Americans gave $4.8 billion internationally in 2003—less than half the DAC
+estimate of $10 billion.20
+A much higher calculation of U.S. private giving comes from Adelman, Norris, and Weicher
+(2005) of the Hudson Institute. According to this widely publicized estimate,21 total U.S. private
+16
+
+Lasby and McIver (2004).
+Salamon and Anheier (1996).
+18
+See Independent Sector (2004), AAFRC (2004), and Clotfelter (1997).
+19
+Samples of studies of other DAC countries find that international giving is typically a higher share of total giving
+than in the United States and Canada. Available estimates are that it comprises 10% in the United Kingdom and
+18% in the Netherlands. See CAF and NCVO (2005) and Burger and Decker (2001).
+20
+AAFRC (2005). Contributions made in 2004 for relief after the December tsunami are a very small portion of the
+estimated total, less than one-half of 1 percent. Much of the tsunami relief giving will appear in 2005, and, at
+between $1.5 billion and $2.5 billion, tsunami relief contributions likely will be a low percentage of the total
+estimated charitable contributions for that year, but might lead to an increase in total international donations.
+21
+This and prior estimates by the authors have been quoted widely in the press and publicly adopted by USAID in,
+for example, the USAID report Foreign Aid in the National Interest: Promoting Freedom, Security, and
+Opportunity. USAID Administrator Andrew S. Natsios has also referred to these figures in public remarks (e.g.,
+17
+
+9
+
+assistance to developing countries amounted to $22 billion in 2003.22 This figure includes $8
+billion from religious organizations, $3 billion from foundations, $3 billion from corporations,
+$2 billion from colleges and universities, $3 billion in nonprofits, and $3 billion in volunteer
+time.
+This work illustrates the difficulty in obtaining consistent estimates across countries due to
+differing methodologies. There is very little documentation of the sources for the Adelman et al.
+figures and the underlying assumptions are not made clear. One of the biggest problems concerns
+the issue of double-counting, which the DAC attempts to handle by netting out government
+grants to NGOs. It is not clear, however, that the Adelman et al. calculation addresses this
+problem. For example, the authors’ calculation includes estimates of giving from nonprofits
+taken from individual NGO financial statements, but much of the operating budgets of American
+NGOs come from the U.S. federal government. CARE, one of the largest American development
+NGOs, receives 60% of its funding from the U.S. government. Catholic Relief Services, another
+large U.S. development NGO, receives 78% of its funding from the government.23 And given
+these probable sources of overcounting, the Adelman et al. estimate is actually not so different
+from the DAC. Excluding the value of volunteer time—since we are measuring actual financial
+assistance—the authors estimate actual private assistance of $18.7 billion in 2003. Including both
+Part I and Part II countries, the DAC figure for 2003 is $10.6 billion.
+The difficulties are not unique to the United States. In Japan, Matsubara and Todoroki (2003)
+assert that there exist no adequate sources of data which can be used to make a direct comparison
+with the figures from Giving USA. Recent estimates by government and independent agencies
+range dramatically, from under $300 million to over $8 billion.24
+On balance, while there is a real danger of overestimating private giving, the DAC figures appear
+conservative. As a result, so are the estimates we will make of the aggregate aid contribution of
+tax policy.
+3.
+
+How tax policies affect private charitable giving
+
+Tax policy can influence the level of private charitable donations in two ways: (1) through
+targeted tax incentives that lower the “price” of giving; and (2) via lower taxes overall, which
+leave citizens and corporations with more after-tax income to give to charity. Targeted tax
+incentives, usually income tax deductions or credits, increase giving through a “price effect,”
+during a speech at the Heritage Foundation on 1/7/03). Examples of recent press coverage include The New York
+Times (1/4/05), Seattle Post-Intelligencer (1/5/05) and Foreign Policy magazine (2004).
+22
+The authors’ original estimate also includes remittances—money sent by migrants living in the U.S. back to their
+home country—as U.S. private assistance to developing countries. Remittances account for nearly two-thirds of their
+total assistance figure ($40 billion). Though important, remittances are clearly a different type of finance. The source
+is developing country migrants themselves rather than American citizens. Even the most inclusive estimate of what
+constitutes private charitable giving should not include remittances from developing-country migrants.
+23
+See transcript of “U.S. Aid: Generous or Stingy? A Debate Between Carol Adelman, Hudson Institute and Steve
+Radelet, Center for Global Development,” January 13, 2005, http://www.cgdev.org/doc/event%20docs/1.13.05us%20aid/0113aid_debatetrans1.pdf.
+24
+According to Matsubara and Todoroki (2003), the data most frequently used in Japan to estimate total giving are
+contributions deducted from taxes published by the National Tax Agency.
+
+10
+
+where a dollar of forgone after-tax income funds more than a dollar of charity. For deductions,
+the “price effect” reduces the price of a gift by the marginal tax rate. Lower average taxes,
+meanwhile, increase private charitable giving through an “income effect,” where individuals and
+corporations have more after-tax income to spend on charitable donations.
+3.1.
+
+“Price effect” of tax incentives
+
+Feldstein and Taylor (1976) find that the tax treatment of charitable contributions substantially
+influences the volume of donations in the United States. Clotfelter (1985) concludes that while
+taxes are not the most important determinant of individual contributions, both charitable
+deductions and changes in marginal tax rates are significant factors in determining the size and
+distribution of charitable giving.25 Schiff (1990) similarly stresses that government fiscal policy
+can have an impact on charitable giving through both incentives and changes in tax rates.
+There are three main tax bases that are modified to create incentives for giving: (1) income; (2)
+capital gains; and (3) estate bequests. Sub-national governments also enact their own tax
+incentives to encourage giving. For example, in the United States individual states have their
+own tax regulations, including the use of credits or deductions to promote private charity. This
+paper considers only incentives at the national level.
+(1)
+
+Income tax incentives
+
+There are two types of income tax incentives that reduce the price of giving: tax deductions and
+tax credits. Deductions reduce the amount of income taxed while credits reduce the tax due. In
+the United States, for example, taxpayers can deduct the full amount of a charitable gift from
+their taxable incomes if they itemize their tax returns.26 In effect, the price of the gift is reduced
+by the amount that would have been due on the income, which is proportional to the marginal tax
+rate. Marginal tax rates on income in the United States range from 10% to 35%. For Americans
+in the top income bracket with incomes above $336,550, the 2006 marginal tax rate is 35%.27 If
+someone from this tax bracket gives $100 to charity and takes the charitable deduction, they save
+$35 in taxes. The net cost of the gift becomes $65.28 Meanwhile, Canadian taxpayers can take a
+federal tax credit equal to 17% of the first $200 donated to registered charities in a taxation year,
+and 29% for amounts beyond the first $200. In Canada, a $100 donation results in a 17% federal
+tax credit, bringing the price of that giving to $83.
+(2)
+
+Estate tax incentives
+
+Some countries that levy taxes on estate bequests exempt or reduce the tax rate for gifts to
+charity. Estate tax incentives operate in much the same way as income tax deductions in that the
+25
+
+Clotfelter (1985) also finds empirical evidence that both the price and income effect cause people to increase
+charitable giving.
+26
+There is a ceiling on the amount of eligible donations in the U.S. In 2004, Americans could claim 50% of taxable
+income as a charitable deduction.
+27
+IRS (2005a).
+28
+Currently, itemized deductions are phased out (reduced) as income rises. Starting in 2006, the deduction phase-out
+will be reduced by one-third. In 2008, it will be reduced by two-thirds. And in 2010, the phase-out will disappear
+entirely.
+
+11
+
+estate tax reduces the cost of charitable donations relative to the cost of other bequests. Under
+current U.S. law charitable bequests are 100% deductible, though the 2001 Tax Act started a
+gradual phase-out of the estate tax beginning in 2002 until full repeal in 2010 before reverting
+back to pre-2001 rates in 2011.
+The preponderance of evidence suggests that U.S. estate tax incentives promote charitable gifts
+(Bakija and Gale 2003). As with income tax incentives, the price of the charitable bequest falls
+by the marginal estate tax rate. Though only a small percentage of decedents are subject to the
+estate tax, the marginal tax rates are high and exemption from the estate tax can as a result create
+strong financial incentives for charitable transfers at death (Clotfelter 1997). For the 2004 tax
+year, the U.S. federal estate tax applied to net estates in excess of $1.5 million and the top
+marginal estate tax rate was 48%. The independent U.S. Congressional Budget Office (CBO)
+estimated in 2004 that the estate tax leads affluent individuals to donate more than they
+otherwise would. Since estate tax liability is reduced through donations made both during life
+and at death, the CBO (2004) asserts that, as of 2000, estate tax repeal would have reduced
+charitable contributions made during life by between 6 percent and 11 percent and would have
+led to a reduction in charitable bequests of 16 percent to 28 percent. Bakija and Gale (2003) of
+the Brookings-Urban Tax Policy Center and Greene and McCleland (2001) similarly find that
+repeal of the estate tax would reduce charitable bequests. But Schervish (2001) argues that repeal
+of the estate tax would increase charitable gifts by increasing overall wealth, bringing income
+effect–increases in giving greater than the decline from the lost price effect. This seems unlikely,
+however, given the strength of the 48% price incentive.
+(3)
+
+Capital gains tax incentives
+
+Capital gains tax exemptions can also induce charitable donations. In the United States donations
+of stock may actually be the “cheapest” method of giving, as givers can take advantage of both
+income tax deductions and capital gains deductions. According to the IRS (2003), securities
+donated to charity are not subject to any capital gains taxes—neither for the donor nor for the
+charity upon sale of the stock. In other words, all donations of appreciated stock held for at least
+one year do not incur capital gains levies, effectively permitting a double incentive for giving:
+first through avoidance of a capital gains tax and then through the allowed income tax deduction.
+The gain is not counted as taxable income but the donation is deductible from taxable income.29
+As a result, the higher the capital gains tax rate, the cheaper charitable donations of stock are
+relative to the cost of selling the stock (or donating an equivalent amount in cash). For example,
+stock worth $100 is cheaper to the individual as a charitable donation than both $100 in a cash
+donation and selling the stock and donating the proceeds (an action that incurs capital gains
+taxes). In 2004, the maximum tax rate on gains from the sale of capital assets held for more than
+12 months in the United States was 15%.30
+3.2.
+
+“Income effect” of low tax ratios
+
+Government tax policy can also increase private charitable giving through an “income effect.”
+Simply stated, when the tax-GDP ratio is lower, individuals and corporations have more after-tax
+29
+30
+
+See Randolph (1999) for an overview of the double incentive.
+IRS (2005b).
+
+12
+
+income to give to charity (Clotfelter 1985; Brooks 2004). In this way, however, the marginal and
+average tax rates can create opposite incentives to give. High marginal tax rates increase the
+incentive to give through the price effect in countries where tax deductions are offered, but high
+average tax rates decrease the incentive to give through the income effect of more in-pocket
+income.
+4.
+
+New data on DAC country tax policies
+
+While the tax treatment of charitable contributions has been heavily studied, most analyses deal
+primarily with estimating price elasticities of giving and most concern tax treatment only in the
+United States.31 But to understand the role of domestic tax policy in encouraging public giving,
+consistent cross-country data on the specific issues detailed above are needed. However,
+comprehensive information on fiscal policies, treatment of charitable donations, and private
+giving trends across individual countries is not available in a single location. Tax policy as it
+affects international private giving remains a largely ignored aspect of foreign aid policy.
+To partly fill this gap in knowledge, between November 2004 and March 2005 CGD conducted a
+data-gathering exercise on DAC country tax policies. The bulk of the new data come from
+responses to a cross-country survey of DAC embassy and tax officials.
+4.1.
+
+Methodology: Cross-country survey of national tax policies
+
+In order to compile tax data in a manner suitable for cross-country comparison and analysis, in
+November 2004 CGD circulated a survey of national tax policy to all 22 DAC countries except
+Luxembourg. (A sample survey is attached in Appendix 1.)
+While the tax code influences charitable donations in two ways, our survey focused on the use of
+targeted tax incentives to promote giving. Charitable deductions and credits reflect direct effort
+on the part of a government to promote private donations. Clotfelter (1997) asserts that the price
+effect of giving is the most important component of the overall predicted effect on giving in
+almost any simulation of tax changes and, as a result, has received particular scrutiny in most
+statistical analyses of the impact of tax policies on giving. Despite this there is no comprehensive
+source detailing the use of tax incentives across different countries. By comparison, there are
+good data from the OECD on national tax ratios that allow for easy comparisons across DAC
+countries.
+With this in mind, our survey concentrated on the use of price incentives to promote giving in
+each of the three ways described earlier: income tax incentives, estate tax incentives, and capital
+gains incentives. In addition to basic questions on how countries use each type of incentive,
+several other aspects of tax policy were explored.
+Taxpayer qualification. In some countries not all taxpayers qualify for tax incentives. For
+example, in the United States only taxpayers who itemize their income tax deductions
+qualify. According to the IRS (2004) around one-third of American taxpayers itemize,
+31
+
+There are many elasticity estimates in the U.S. For examples, see Tiehan (2001), Clotfelter (1985), Steinberg
+(1990) and Andreoni (2001).
+
+13
+
+leaving the rest unable to claim charitable deductions. In general, only the relatively welloff can benefit from itemization and, though low and middle-income people typically
+give a higher share of their income to charity than the wealthy, the bulk of total donations
+come from the richest segment of society. Schervish and Havens (2003) find that the top
+25% of American households (those with incomes above $70,000) give 70% of total
+charitable gifts while a 2004 Independent Sector study finds that the wealthiest
+Americans are “most likely to itemize their deductions.”32 The survey thus sought
+information on restrictions in place that limit the ability of taxpayers to take advantage of
+incentives as well as estimates of the number of eligible taxpayers.
+Floors and ceilings. The imposition of floors or ceilings on donation eligibility by
+governments can influence giving. For example, in order to qualify for incentives in
+Ireland contributions must be at least €250. Incentive restrictions also work in the other
+direction. In Denmark taxpayers can only deduct up to 5,000 DKK ($787 USD). While
+measuring the exact effect of these restrictions on giving is difficult, it is not
+unreasonable to conclude that caps on eligible donations can limit the amount of gifts.
+To complement our survey data, we also consulted tax regulations and statistical offices at the
+individual country level as well as the European Tax Handbook 2004 published by the
+International Bureau of Fiscal Documentation (IBFD). The European Tax Handbook is a
+compendium of general tax code information across all European countries, the United States,
+and Canada. The various sources allowed us to create a relatively complete dataset of tax policies
+for most of the 21 countries in our sample.
+4.2.
+
+Evidence on the use of price incentives
+
+Data from the two key resources (CGD tax survey and European Tax Handbook) combine for a
+fairly comprehensive overview of the use of tax incentives to promote giving across the DAC.
+Out of 21 countries, 13 completed the survey. Response quality ranged considerably. Generally,
+information on income and estate tax incentives was more complete than information on capital
+gains tax incentives. Some respondents, including Switzerland and Australia, reported that good
+data did not exist for most of our questions.
+In addition to data on government’s use of different tax incentives, we also explored whether
+taxpayers commonly take advantage of these incentives. This type of information is not available
+for all countries. But, for example, tax deduction data from the IRS and survey data from both
+the Independent Sector and AAFRC illustrate the extent to which Americans claim federal tax
+incentives. Using this data, we can make several broad conclusions about both government and
+taxpayer use of price incentives that promote private charitable giving.
+(1)
+
+Income tax deductions are the most common incentive
+
+Eighteen of our 21 countries employ some type of income tax incentive, making it the
+most common (Table 4). Of the 18, 12 allow taxpayers a full tax deduction on charitable
+gifts. The other six use tax credits. The value of the credits ranges widely by country, but
+32
+
+Independent Sector (2004).
+
+14
+
+most are worth between 25% and 33% of the contribution. Canada, New Zealand,
+Portugal and Spain all offer tax credits in this range. At the bottom end of the scale, Italy
+gives a 19% credit. France offers taxpayers 60%, easily the largest. Only Austria, Finland
+and Sweden offer no income incentive. It should be kept in mind that some of the
+incentives in Table 4 are more complex than the table seems to suggest, the restriction of
+the U.S. deduction to itemizers being one example.
+Table 4. Summary of income tax incentives to promote private charitable giving
+Deduction (12)
+Australia
+Belgium
+Denmark
+Germany
+Greece
+Ireland
+Japan
+Netherlands
+Norway
+Switzerland
+United Kingdom
+United States
+
+(2)
+
+Credit (6)
+Canada (29%)
+France (60%)
+Italy (19%)
+New Zealand (33%)
+Portugal (25%)
+Spain (25%)
+
+No Incentive (3)
+Austria
+Finland
+Sweden
+
+Estate tax exemptions also common
+
+Though less prevalent than income tax incentives, exempting charitable bequests from estate
+taxes is also common in many DAC countries (Table 5). Six countries do not tax estates:
+Australia, Canada, Italy, New Zealand, Portugal and Switzerland. Of the remaining 15 that have
+an estate tax, 11 offer some sort of incentive for bequests to charity—ranging from full
+exemption to a reduced tax rate. For example, nine countries, including the United Kingdom and
+the United States, completely exempt charitable bequests from substantial inheritance tax rates.
+Instead of a full exemption, the Netherlands and Austria offer reduced tax rates for charitable
+bequests, both around one-third the in tax rate for bequests to relatives. Denmark, Finland,
+Norway and Sweden tax estates but offer no relief for donations to charitable organizations.
+Table 5. Summary of estate tax incentives to promote private charitable giving
+Full exemption (9)
+Belgium
+France
+Germany
+Greece
+Ireland
+Japan
+Spain
+United Kingdom
+United States
+
+Partial exemption (2)
+Netherlands (11% charity rate vs. 30% standard)
+Austria (5% vs. 15%)
+
+No exemption (4)
+Denmark
+Finland
+Norway
+Sweden
+
+No estate tax (6)
+Australia
+Canada
+Italy
+New Zealand
+Portugal
+Switzerland
+
+But bequests do not appear to be a major source of charitable giving. Where data is available,
+estate bequests appear small compared to donations from living individuals. According to Giving
+USA 2004, estate bequests accounted for only 9% of total American charitable giving ($23
+billion) in 2003. By comparison, living individuals contributed almost 75% of the total ($160
+billion). Foundations and corporations were responsible for the remainder. The CBO concurs,
+
+15
+
+estimating that bequests totaled just 8% of total donations with $16 billion out of $196 billion in
+2000 (CBO 2004). A similar pattern is seen in Australia. Givewell (2005) estimates that bequests
+account for just 4% of the total income of charities.
+The effect of the estate tax on international giving, however, may be even less consequential.
+According to Giving USA, charitable bequests figure almost exclusively as gifts to educational
+institutions, medical research institutions, museums, and private foundations. If this is true, even
+if bequests amount to $23 billion in charitable donations annually very little of this probably
+goes to international causes. This suggests that the impact of estate tax exemptions as a price
+incentive to give internationally is small.
+(3)
+
+Unclear use and impact of capital gains tax incentives
+
+Income tax breaks and estate tax exemptions appear to be the main methods used by DAC
+countries to actively promote giving through their tax code. The role of capital gains incentives is
+more complicated, but these do not appear to be as common, nor play a large role either. Many
+countries have no special capital gains tax, some treating capital gains as regular income—
+meaning that capital gains deductions use the same regulations as income tax deductions—and
+others not taxing capital gains at all. Some countries that tax capital gains, meanwhile, only give
+deductions for cash gifts.
+There is very little cross-country data on the share breakdown between donations of stock versus
+donations of cash. Where data does exist, stock donations make up a small share of total private
+giving. According to IRS public data, in the United States non-cash contributions—which
+include donations of securities—are not the major source of charitable deductions (IRS 2004). In
+2001 U.S. taxpayers claimed approximately $139 billion worth of charitable deductions. Of this
+total, approximately 76% came as cash donations. Meanwhile, non-cash donations comprised
+24% of total deductions, or $38 billion. While $38 billion is far from a trivial amount, non-cash
+donations include not only securities but property and in-kind gifts as well. Non-cash donations
+are heavily skewed to the higher income bracket, even more so than cash contributions. Of the
+$38 billion total, 71% came from people making more than $100,000. Nearly 25% came from
+those with an income above $10 million. Since donations of appreciated securities are viewed as
+the most cost-effective means for taxpayers to contribute to charity, capital gains taxes may be an
+important consideration for wealthy Americans when making their giving decisions. But, based
+on our preliminary evidence, the majority of taxpayers still make most donations in cash.
+(4)
+
+Use of ceilings
+
+Most countries in our sample cap eligible deductions and credits (Table 6). In countries where
+high-income people account for most charity in the aggregate, caps might substantially limit the
+incentive effect. According to the Independent Sector (2004), Americans with incomes above $1
+million are “most likely to give major gifts and to consider the tax consequences when doing so.”
+There is also the likely existence of a 20-80 rule—at least before incentives enter the picture—
+where 20% of the people give 80% of the money. Schervish and Havens (2003) find that the top
+25% of American households give 70% of total charitable gifts. If this same pattern holds in
+other countries, caps could greatly limit the incentive to give.
+
+16
+
+Table 6. Ceilings on eligible donations
+No ceiling (3)
+Australia
+Ireland
+United Kingdom
+
+"High" ceiling (12)
+Belgium (10% of income)
+Canada (60% of income)
+France (20% of income)
+Germany (5% of income)
+Greece (10% of income)
+Italy (€2,065)
+Japan (25% of income)
+Netherlands (10% of income)
+Portugal (15% of income)
+Spain (10% of income)
+Switzerland (10% of income)
+United States (50% of income)
+
+"Low" ceiling (3)
+Denmark (5,000 DKK)
+New Zealand (630 NZD)
+Norway (6,000 NOK)
+
+No price incentive (3)
+Austria
+Finland
+Sweden
+
+Of the 18 countries that offer a targeted income tax incentive, 15 cap eligible deductions. Only
+Australia, Ireland and the United Kingdom place no limit on the amount of donation eligible for
+charitable tax incentives. Most ceilings range between 10% and 25% of income. Belgium,
+France, Greece33, Japan, Netherlands, Portugal, Spain and Switzerland all cap eligible donations
+in this range. The United States and Canada employ the highest ceilings, at 50% and 60%,
+respectively. Italy caps donations at €2,065 and Germany at 5% of income. While these caps are
+at high enough levels that they probably do not limit contributions by average donors, they may
+influence giving decisions by the richest members of a society. Most caps are formulated as
+shares of taxable income, which can be deceptively small for the richest donors, who earn a large
+portion of their income through the appreciation of securities, which is only considered taxable
+income when the securities are sold. On the other and, at least in the United States and for now,
+itemized deductions are phased out (reduced) anyway as income rises. Starting in 2006, the
+deduction phase-out will be reduced by one-third. In 2008, it will be reduced by two-thirds. And
+in 2010, the phase-out will disappear entirely.
+Low ceilings almost certainly reduce donations in three countries: Denmark, Norway and New
+Zealand. New Zealand caps eligible donations at $630 NZD ($433 USD), Denmark at 5,000
+DKK ($787 USD), and Norway at 6,000 NOK ($909 USD).34
+A comparison of New Zealand and U.S. tax return data suggests New Zealand’s low ceiling on
+donation eligibility affects the level of donations. Private giving in New Zealand does not range
+in absolute terms nearly as much across income groups as it does in the United States. In New
+Zealand in 1999, the top income group claimed only 6% of total deductions while comprising
+5% of the total returns claiming deductions.35 In the United States, meanwhile, people with
+incomes above $100,000 claimed 54% of all charitable deductions in 2001.36 This same group
+comprised 25% of the total returns filed claiming deductions. The large difference between the
+two countries might be due to the low maximum rebate offered in New Zealand, a level easily
+reached by people in many income brackets. Such a low ceiling might flatten the overall
+distribution and restrict total giving of the high-income population.
+33
+
+Uniquely, Greece gives full deductibility up to a certain amount (€2950) and imposes a low tax (10%) on
+contributions above the threshold.
+34
+Norway changed the cap to 12,000 NOK in 2005.
+35
+New Zealand Inland Revenue, “1999 IR3 and IR5 Returns with Donations Rebate - by taxable income.”
+36
+IRS (2004).
+
+17
+
+(5)
+
+Scandinavian outliers
+
+Only two countries offer no charitable tax break: Finland and Sweden. And though Denmark and
+Norway both offer income tax incentives, they both place restrictive caps on eligible deductions.
+Denmark, Finland, Norway and Sweden are also the only four countries in the sample that tax
+estates but offer no deduction for charitable bequests. This group of countries stands apart from
+most of their DAC peers. Section 6 explores the deep causes of this difference.
+5.
+
+Estimates of the impact of tax policies on private giving
+
+Given the size of private aid to poor countries and the ability of governments to design tax
+policies that affect these flows, it is worth considering the actual impact of tax policies on giving.
+As in Roodman (2004), we estimate the proportional increase in giving caused by each country’s
+tax policies, compare that to actual giving, and then work backwards to estimate how much
+giving would have occurred in the absence of the policies and how much is a credit to their
+presence. We have revised the methodology to take account of credits and caps, and have
+updated the data. The calculation is the basis for the inclusion of private giving in the 2005
+Commitment to Development Index (Roodman 2005a).37
+The approach taken here will seem simplistic to some and too sophisticated to others. To make
+the calculations practical, we make several simplifying assumptions: taxpayers are treated as a
+single representative agent, complicated tax provisions are standardized and simplified, rough
+tax rate estimates are used, certain fixed elasticities are assumed, and charitable giving to
+developing countries is treated the same as charitable giving in general.
+5.1.
+
+“Price effect” estimates
+
+Only income tax incentives are included in our calculation. As detailed earlier, several countries
+give tax exemptions for charitable bequests, but the lack of data on the breakdown in giving by
+type of gift across countries combined with evidence that estate bequests do not constitute the
+major source of giving lead us to exclude bequests from our calculation. The same is true for
+capital gains tax incentives, which are also not included here.
+We translate the presence of an income tax incentive into an estimate of the increase in charitable
+giving in three steps. First, we express the tax measure as a price effect. For credits, this step is
+straightforward. Canada’s 29% tax credit, for example, reduces the price of giving by 29%. For
+deductions, we used a crude but available proxy for the marginal income tax rate faced by the
+households with above-average incomes that appear to generate most charity. This proxy is the
+typical marginal income tax rate for workers at 167% of the income level of the average
+production worker from the OECD Tax Database (OECD 2005). For example, this tax rate is
+31.4% for the United States in 2003, so deductibility of charitable giving in the United States is
+treated as reducing the price by 31.4%.
+
+37
+
+See www.cgdev.org for full 2005 CDI results and background papers.
+
+18
+
+The second step is to factor in whether the deduction or credit is capped. In countries where
+high-income, high-giving people account for most charity in the aggregate, caps can severely
+limit the incentive effect in practice. Precisely how much, however, is hard to know, especially
+because there is little information about the distribution of giving by income group outside the
+United States. Given the uncertainty, we factor caps in coarsely, by taking the simple average of
+the below- and above-threshold price incentives. For most countries with caps, the abovethreshold price incentive is 0—there is no tax incentive to exceed the cap—so the price effect is
+halved. The exception is Greece, which offers full deductibility up to €2950 each year, then
+imposes a 10% tax above that limit. Since Greece’s representative marginal income tax is 25.2%,
+the above-threshold price incentive is the difference between this and the special tax rate, i.e.,
+15.2%. So the simple average of the below- and above-threshold rates for Greece is 20.2%.
+Finally, having estimated the price effect, we couple it with an estimate of the price elasticity of
+giving. Research puts it at around 0.5 in the United States (Andreoni 2001). Thus, if a
+representative individual in the United States faces a price effect of 31.4%, full deductibility of
+charitable contributions multiplies giving by a factor of (1 – 0.314)–0.5 = 1.208, for a 20.8%
+increase. (See Table 7). Overall, we find that the French tax credit results in 58% more charitable
+donations, the highest on the list. The Netherlands is next with a 44% increase in giving resulting
+from a full income tax deduction. Of the 18 countries with some type of income tax incentive,
+New Zealand’s appears weakest. New Zealand allows taxpayers a 33% tax credit for charitable
+gifts, but only on donations up to $630 NZD ($433 USD). According to our methodology, this
+cap reduces the value of the tax incentive to 16.7%, leading to an increase in giving of only 10%.
+Table 7. Estimates of price incentives
+
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+
+Tax
+deduction?
+Yes
+No
+Yes
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+
+Marginal
+income
+tax rate,
+20031
+48.5%
+31.7%
+45.1%
+39.4%
+54.3%
+44.5%
+25.4%
+50.1%
+25.2%
+42.0%
+46.6%
+20.4%
+52.0%
+39.0%
+41.5%
+24.0%
+26.2%
+51.2%
+22.9%
+22.0%
+31.4%
+
+Tax
+credit?
+0.0%
+0.0%
+0.0%
+29.0%
+0.0%
+0.0%
+60.0%
+0.0%
+0.0%
+0.0%
+19.0%
+0.0%
+0.0%
+33.3%
+0.0%
+25.0%
+25.0%
+0.0%
+0.0%
+0.0%
+0.0%
+
+Increase in
+Deduction or
+giving with
+Tax
+credit
+capped?
+incentive2 incentive3
+No
+48.5%
+39.3%
+No
+0.0%
+0.0%
+No
+45.1%
+35.0%
+No
+29.0%
+18.7%
+Yes
+27.2%
+17.2%
+No
+0.0%
+0.0%
+No
+60.0%
+58.1%
+No
+50.1%
+41.6%
+No
+20.2%
+11.9%
+No
+42.0%
+31.3%
+No
+19.0%
+11.1%
+No
+20.4%
+12.1%
+No
+52.0%
+44.3%
+Yes
+16.7%
+9.5%
+Yes
+20.7%
+12.3%
+No
+25.0%
+15.5%
+No
+25.0%
+15.5%
+No
+0.0%
+0.0%
+No
+22.9%
+13.9%
+No
+22.0%
+13.2%
+No
+31.4%
+20.8%
+
+Notes: 1 Marginal income tax rate for single individual at 167% income level of the average production worker. 2 Uniquely,
+Greece gives full deductibility up to a certain amount (€2950) and imposes a low tax (10%) on contributions above the threshold.
+The tax incentive is therefore computed as the average of the below- and above-threshold incentives. 3 Assumed price elasticity
+of giving is –0.5. Increase in giving calculated according to the formula: (100% – tax incentive%)–0.5–100%.
+Sources: OECD (2005), Table I.1; OECD (2004); authors' calculations.
+
+19
+
+5.2.
+
+“Income effect” estimates
+
+We use a similar method to estimate the effect of lower taxes. In countries where the overall tax
+ratio is lower, individuals have more money to give to charity. Thus, while high marginal tax
+rates increase the incentive to give when we look at the price effects of tax deductions, high
+average tax rates decrease the incentive to give when we look at income effects. Tax ratio data
+are from the OECD Revenue Statistics 1965-2003 (OECD 2004). To reward countries for lower
+tax ratios, we need a baseline against which to define lowness. We choose Sweden’s 2000 tax
+ratio, the highest among the 21 scored countries in 2000 (the last year with data available for the
+first edition of the CDI). We combine this with an estimate of the income elasticity of giving of
+1.1 (Andreoni 2001). The United States, to continue the example from the previous section, is
+treated as having reduced its total tax burden in 2002, the last year with data available for
+calculations done here, from Sweden’s 2000 ratio of 53.8% to the actual U.S. ratio of 26.4%.
+This hypothetically raises the privately claimed share of GDP from 46.2% to 73.6%, an increase
+of 59.3%. As a result, the lower U.S. tax burden is estimated to multiply charity by
+
+Table 8 gives the results of applying this formula to all DAC countries. Countries with the lowest
+tax ratios—including Japan, the United States, and Ireland—are of course rewarded most for
+leaving private citizens more money in-pocket to donate to charity.
+Table 8. Income effect estimates
+1
+Country
+Tax revenue/GDP Increase in giving
+Australia
+32%
+54%
+Austria
+44%
+24%
+Belgium
+46%
+18%
+Canada
+34%
+48%
+Denmark
+49%
+12%
+Finland
+46%
+19%
+France
+44%
+24%
+Germany
+36%
+43%
+Greece
+36%
+43%
+Ireland
+28%
+62%
+Italy
+43%
+27%
+Japan
+26%
+68%
+Netherlands
+39%
+35%
+New Zealand
+35%
+46%
+Norway
+44%
+25%
+Portugal
+34%
+48%
+Spain
+36%
+44%
+Sweden
+50%
+9%
+Switzerland
+30%
+57%
+United Kingdom
+36%
+44%
+United States
+26%
+67%
+Notes: 1 Assumed income elasticity of giving = 1.1. Increase in giving calculated according to the formula: (100% – tax ratio% /
+100%–53.8%)1.1 –100%, where 53.8% is the tax ratio for Sweden in the base year of 2000.
+Sources: OECD (2005), Table I.1; OECD (2004); authors' calculations.
+
+20
+
+5.3.
+
+Combined effect of tax policies on private giving
+
+We next combine our estimates of the price and income effects to calculate the total effect of
+fiscal policy on charitable giving. Since in the elasticity framework effects are multiplicative, the
+proper way to combine the effects is by multiplication. In the U.S. case, the multipliers combine
+to 1.208 × 1.669 = 2.015. We then divide this overall multiplier into observed giving in order to
+estimate giving in the absence of favorable policies. As described in Section 2, we use “grants by
+NGOs” to both Part I and Part II countries from DAC Table 1 as our measure of private giving.
+For the United States, observed giving of $10.58 billion in 2003 happens to be 2.015 times $5.25
+billion, so U.S. policy is credited for the difference, $5.33 billion.
+These results suggest that tax policy is playing a major role in increasing private giving. Table 9
+gives the combined increase of the two types of fiscal policies that influence private giving.
+Charitable giving in Sweden, with no tax incentive and the highest tax ratio, is apparently 9%
+higher in 2003 due to current tax policy than it would in the counterfactual (all of this increase
+comes from a decline in the tax ratio since 2000). This is the lowest figure among the countries
+studied. Finland and Austria, the other two countries without price incentives, have the next two
+lowest increases in giving due to fiscal policy with 19% and 24%, respectively. But fiscal policy
+appears to significantly increase private giving in other DAC countries. Private aid to developing
+countries appears to be over twice as high in Australia, Ireland, Germany, and the United States
+thanks to favorable tax policies. In these four countries, tax policy increased charitable giving by
+a combined $6.2 billion.
+Across all 21 countries, giving is perhaps nearly $7.5 billion more due to favorable tax policies
+(Table 9). Part I countries receive $5.3 billion of this additional assistance, with most of the rest
+apparently being U.S. flows to Israel. Against the benchmark of Sweden’s policies in 2000
+(tax/GDP of 53.8% and no incentives), tax policy is doubling private giving. More than twothirds of the increase takes place in the United States. While this is a substantial total, private
+giving is still small compared to public aid. In 2003, Net Aid Transfers from DAC countries to
+Part I and Part II countries totaled $60 billion. Most countries still give substantially more public
+than private aid. In seven DAC countries—Denmark, Finland, France, Greece, Italy, Portugal
+and Sweden—private giving comprises less than 10% of total net transfers. Private giving
+appears biggest relative to public aid in the United States and Ireland.
+
+21
+
+Table 9. Increase in private giving developing countries due to tax policies
+Increase in giving from tax policies
+
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+
+Private giving to Part I countries only
+
+Private giving to Part I and Part II countries
+
+% increase in
+Giving
+Current Giving -- Giving in absense attributed to tax Current Giving -- Giving in absense
+Increase in giving because of
+smaller
+policies (US$ Grants by NGOs of favorable tax
+Combined Grants by NGOs of favorable tax
+giving with
+government2
+mn)6
+increase3
+(US$ mn)4
+(US$ mn)4
+policies (US$ mn)5
+policies (US$ mn)5
+incentive1
+39.3%
+54.2%
+114.9%
+337
+157
+180
+337
+157
+0.0%
+23.6%
+23.6%
+71
+58
+14
+83
+67
+35.0%
+17.8%
+58.9%
+165
+104
+61
+165
+104
+18.7%
+48.3%
+76.0%
+566
+322
+244
+565
+321
+18
+17.2%
+11.7%
+30.9%
+17
+13
+4
+14
+0.0%
+19.0%
+19.0%
+13
+11
+2
+13
+11
+280
+58.1%
+23.6%
+95.4%
+280
+143
+137
+143
+41.6%
+43.1%
+102.6%
+1,008
+498
+511
+1,107
+546
+11.9%
+43.4%
+60.5%
+8
+5
+3
+7
+4
+31.3%
+61.9%
+112.6%
+283
+133
+150
+283
+133
+11.1%
+27.0%
+41.1%
+27
+19
+8
+27
+19
+12.1%
+68.4%
+88.7%
+335
+178
+158
+335
+178
+44.3%
+35.3%
+95.2%
+379
+194
+185
+379
+194
+9.5%
+45.8%
+59.7%
+18
+11
+7
+18
+11
+451
+12.3%
+24.8%
+40.2%
+452
+322
+129
+322
+15.5%
+48.3%
+71.2%
+4
+2
+2
+3
+2
+132
+15.5%
+44.1%
+66.4%
+133
+80
+53
+79
+0.0%
+8.6%
+8.6%
+23
+22
+2
+23
+21
+13.9%
+57.2%
+79.0%
+280
+157
+124
+291
+163
+13.2%
+43.6%
+62.6%
+389
+239
+150
+393
+242
+20.8%
+66.9%
+101.5%
+6,326
+3,139
+3,187
+10,580
+5,249
+
+Total giving due to favorable tax policies (US$ mn)
+Total giving in absence of favorable tax policies (US$ mn)
+Overall % increase from favorable tax policies
+
+Part I
+5,309
+5,805
+91%
+
+Part I + Part II
+7,510
+7,980
+94%
+
+Notes: 1 From Table 7. 2 From Table 8. 3 Increase in giving calculated according to the formula: (1+Price incentive increase) ×
+(1+Income effect increase) – 1. 4 Most recent year of available data. 5 Calculated according to the formula: (Combined increase) /
+(1+Current giving). 6 Calculated according to the formula: (Current giving) – (Giving in absence of tax policies).
+Sources: OECD/DAC (2005a); Roodman (2005a); Roodman (2005b); authors’ calculations.
+
+But while private giving is relatively large compared to government aid in the United States, it is
+not large compared to public aid delivered by other countries. Table 10 gives private giving per
+capita and net transfers per capita to Part I countries. While the United States gives $22 per
+person annually in private charity to the world’s poorest countries, nine DAC countries give
+more than $100 per person annually in public foreign aid. U.S. private giving per capita is less
+than public aid per capita from every DAC country.
+
+22
+
+Giving
+attributed to
+tax policies
+(US$ mn)6
+180
+16
+61
+244
+4
+2
+137
+561
+3
+150
+8
+157
+185
+7
+129
+1
+53
+2
+128
+151
+5,331
+
+Table 10. Private giving and public aid to developing countries (2003)
+
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+
+Transfers to Part I countries only
+Transfers to Part I and Part II countries
+Per capita transfers to Part I countries
+Pvt giving
+Pvt giving
+Pvt giving
+Current Giving -- attributed to
+Current Giving -- attributed to
+attributed to tax
+NAT (US$ Grants by NGOs tax policies NAT per capita Pvt giving per
+policies per
+NAT (US$ Grants by NGOs tax policies
+(US$ mn)
+mn)
+(US$ mn)1
+(US$ mn)
+(US$)
+capita (US$)
+capita (US$)
+mn)
+(US$ mn)1
+1,212
+337
+180
+1,214
+337
+180
+60.95
+16.97
+9.07
+464
+71
+14
+544
+84
+16
+57.38
+8.83
+1.68
+1,098
+165
+61
+1,127
+165
+61
+105.84
+15.94
+5.91
+1,933
+566
+244
+1,978
+566
+244
+61.12
+17.89
+7.73
+19
+1,740
+17
+4
+1,855
+4
+322.99
+3.14
+0.74
+558
+13
+2
+598
+14
+2
+107.04
+2.40
+0.38
+280
+3,902
+280
+137
+5,133
+137
+65.29
+4.69
+2.29
+5,154
+1,008
+511
+5,522
+1,108
+561
+62.44
+12.21
+6.19
+362
+8
+3
+383
+8
+3
+32.83
+0.68
+0.26
+504
+283
+150
+505
+283
+150
+126.08
+70.93
+37.57
+1,834
+27
+8
+1,850
+28
+8
+31.82
+0.47
+0.14
+6,014
+335
+158
+5,676
+335
+157
+47.14
+2.63
+1.23
+3,680
+379
+185
+3,833
+379
+185
+226.86
+23.34
+11.39
+18
+165
+18
+7
+166
+7
+41.27
+4.54
+1.70
+2,020
+452
+129
+2,068
+452
+129
+442.77
+99.01
+28.37
+4
+312
+4
+2
+313
+1
+29.90
+0.38
+0.16
+1,842
+133
+53
+1,847
+133
+53
+44.81
+3.23
+1.29
+2,235
+23
+2
+2,341
+23
+2
+249.57
+2.62
+0.21
+1,262
+280
+124
+1,329
+292
+128
+171.76
+38.12
+16.82
+6,156
+389
+150
+6,228
+394
+151
+103.76
+6.55
+2.52
+14,448
+6,326
+3,187
+15,789
+10,580
+5,331
+49.68
+21.75
+10.96
+
+Notes: 1 Most recent year of available data. There are four countries with private giving data from a year other than 2003:
+Denmark (2001), France (1995), Norway (2002), and Spain (1998).
+Sources: OECD/DAC (2005a); Roodman (2005b); World Bank (2005).
+
+Table 11 shows that adding to official aid the private giving attributable to public policy—or
+even adding all private giving—does not greatly change the usual league table of donors ranked
+by aid/GDP. Ireland and the United States donate the most as a share of GDP. But the sum of
+private donations and public net transfers from the United States to Part I countries was still just
+0.19% of GDP in 2003, placing it 18th among our 21 DAC countries.
+Table 11. Private giving and public aid to Part I countries, per unit GD P (2003)
+Country
+Australia
+Austria
+Belgium
+Canada
+Denmark
+Finland
+France
+Germany
+Greece
+Ireland
+Italy
+Japan
+Netherlands
+New Zealand
+Norway
+Portugal
+Spain
+Sweden
+Switzerland
+United Kingdom
+United States
+
+NAT (% Pvt giving (%
+GDP)
+GDP)1
+0.23%
+0.06%
+0.18%
+0.03%
+0.36%
+0.05%
+0.23%
+0.07%
+0.82%
+0.01%
+0.34%
+0.01%
+0.22%
+0.02%
+0.21%
+0.04%
+0.21%
+0.00%
+0.33%
+0.18%
+0.12%
+0.00%
+0.14%
+0.01%
+0.72%
+0.07%
+0.21%
+0.02%
+0.91%
+0.20%
+0.21%
+0.00%
+0.22%
+0.02%
+0.74%
+0.01%
+0.39%
+0.09%
+0.34%
+0.02%
+0.13%
+0.06%
+
+Pvt giving
+from tax
+policies (%
+GDP)
+0.03%
+0.01%
+0.02%
+0.03%
+0.00%
+0.00%
+0.01%
+0.02%
+0.00%
+0.10%
+0.00%
+0.00%
+0.04%
+0.01%
+0.06%
+0.00%
+0.01%
+0.00%
+0.04%
+0.01%
+0.03%
+
+NAT + Pvt
+NAT + Pvt
+giving from
+giving (% tax policies (%
+GDP)
+GDP)
+0.30%
+0.27%
+0.21%
+0.19%
+0.42%
+0.38%
+0.29%
+0.25%
+0.83%
+0.82%
+0.35%
+0.35%
+0.24%
+0.23%
+0.26%
+0.24%
+0.21%
+0.21%
+0.51%
+0.43%
+0.13%
+0.13%
+0.15%
+0.14%
+0.79%
+0.76%
+0.23%
+0.22%
+1.12%
+0.97%
+0.21%
+0.21%
+0.24%
+0.23%
+0.75%
+0.74%
+0.48%
+0.43%
+0.36%
+0.35%
+0.19%
+0.16%
+
+Notes: 1 Most recent year of available data. There are four countries with private giving data from a year other than 2003:
+Denmark (2001), France (1995), Norway (2002), and Spain (1998).
+Sources: World Bank (2005); OECD/DAC (2005a); Roodman (2005b).
+
+23
+
+5.4.
+
+Outstanding data issues
+
+Even with the new data, major gaps remain in our understanding of the relationship between
+private giving and tax incentives. No two households are in exactly the same financial position,
+and the tax codes present different incentives to different households and, of course, different
+people respond to the same incentives differently. Giving patterns by income group in each
+country, however, remain largely unavailable. We also use only elasticity estimates from the
+United States and do not differentiate between international and private donations. Finally, not
+enough countries contributed answers to the question of eligibility to allow it to be
+incorporated.38 With this in mind, better cross-country data on giving patterns among income
+groups and elasticity estimates—including for international giving—would improve our
+calculations.
+6.
+
+The causes and consequences of tax policies that affect private giving
+
+In this section, we explore some interesting and plausible hypotheses about the causes and
+consequences of tax policies that influence charitable giving, as measured above. First, we
+consider how certain societal characteristics may affect the strength of price incentives and tax
+ratios. Second, we examine the relationship of these tax policies and other societal characteristics
+with actual giving levels. Since the sample is just 21 countries, all of the results are merely
+suggestive.
+6.1.
+
+Correlates of tax policies
+
+Tax codes reflect the wide range of issues and beliefs that represent dominant societal norms and
+social characteristics. How tax codes come to be designed and implemented may be as much a
+public concern as the consequences of tax systems (Kay 1990). We thus explore simple
+relationships between tax incentives and four societal characteristics: (1) national income; (2)
+population; (3) religious participation; and (4) confidence in government.
+(1)
+
+Tax incentives and income
+
+First, we consider the relationship between a country’s income and the extent to which the tax
+system favors private charity. Countries with higher incomes per capita may not need to offer tax
+incentives to reduce the price of giving since citizens already have more money available to
+donate (Billitteri 1999). To study this relationship, we compare 2003 GNI per capita in our 21
+DAC countries with both the level of price incentive and the tax ratio.
+The strength of the price incentive has very little observable relationship with income (Figure 1).
+Rich countries appear just as likely to employ strong price incentives as poor countries. In a
+simple regression on the level of price incentive, the coefficient on log income per capita is 0.12
+with a t-score of 0.59.
+
+38
+
+Australia, however, claimed that around 35% of taxpayers itemized in 2001—a figure similar to U.S. estimates of
+33%.
+
+24
+
+.6
+
+Figure 1. Income and tax incentives
+FRA
+
+NLD
+DEU AUS
+
+Price incentive
+.4
+.2
+
+BEL
+IRL
+
+PRT
+
+CAN
+DNK
+
+ESP
+
+GRC
+
+ITA
+
+NZL
+
+0
+
+10
+
+NOR
+
+AUT
+
+FIN
+SWE
+
+9.8
+
+CHE
+
+GBR
+JPN
+
+USA
+
+10.2
+Log income per capita
+
+10.4
+
+10.6
+
+co ef = 0.12; se = 0.21; t = 0.59
+
+Sources: World Bank (2005) and authors’ calculations.
+
+There similarly appears to be very little relationship between a country’s per capita income and
+its citizens’ tax ratio (Figure 2). The richest countries in the sample have both the smallest and
+largest governments. In a simple regression on tax ratio, the coefficient on log income per capita
+is 0.00 with a t-score of 0.01.
+
+.5
+
+Figure 2. Income and tax/GDP ratio
+SWE
+
+DNK
+
+.45
+Tax ratio
+.4
+.35
+
+BEL
+
+FIN
+
+AUT
+
+FRA
+ITA
+
+NOR
+
+NLD
+
+GRC
+
+DEU
+GBR
+
+ESP
+NZL
+
+CAN
+
+PRT
+
+.3
+
+AUS
+CHE
+
+IRL
+
+.25
+
+JPN
+
+9.8
+
+10
+
+USA
+
+10.2
+Log income per capita
+
+10.4
+
+co ef = 0.00; se = 0.09; t = 0.01
+
+Sources: World Bank (2005) and OECD (2004).
+
+25
+
+10.6
+
+(2)
+
+Tax incentives and population
+
+We next explore the role of country size in determining the level of income tax incentives. There
+may be several reasons why larger countries have lower tax ratios. Alesina and Spolaore (2003)
+argue that there are significant economies of scale for many state-provided services, including
+defense, infrastructure, and tax administration. In general, more-populous countries can afford
+proportionally smaller government by spreading costs over many taxpayers. There may also be
+non-economic factors that lead larger countries to lower average tax rates. People in countries
+with larger populations may feel more disconnected from the central government, which plays
+less of a central role in citizen’s lives. Such countries might be less likely to impose a higher tax
+ratio on their citizen’s—who are less likely to accept such an interventionist government—and,
+similarly, may be more likely to offer tax incentives to promote the private allocation of
+charitable wealth. To analyze this relationship, we compare 2003 population in our 21 DAC
+countries with both the price incentive and the tax ratio.
+Based on these data, there is not a strong relationship between population and the strength of
+price incentives (Figure 3). In a simple regression on the level of price incentive, the coefficient
+on log population is 0.04 with a t-score of 1.37. While this represents a slightly positive
+association between larger populations and stronger income tax incentives, this relationship is
+not significant at the 10% level.
+
+.6
+
+Figure 3. Population and tax incentives
+FRA
+
+NLD
+AUS
+
+DEU
+
+BEL
+
+Price incentive
+.2
+.4
+
+IRL
+
+NOR
+
+USA
+
+CAN
+
+DNK
+CHE
+
+PRT
+
+ESP
+GBR
+ITA
+
+GRC
+
+NZL
+
+0
+
+FIN
+
+15
+
+JPN
+
+AUT
+SWE
+
+16
+
+17
+18
+Log population
+
+19
+
+20
+
+coef = 0.04; se = 0.03; t = 1.37
+
+Sources: World Bank (2005) and authors’ calculations.
+
+But more populous countries appear to have smaller governments (Figure 4). In a simple
+regression on tax ratio, the coefficient on log population is –0.02 with a t-score of –1.89, which
+is significant at the 10% level. Japan and the United States—the two most populous countries in
+the DAC—also impose the lowest tax ratios on their citizens. Conversely, the much smaller
+Scandinavian countries—along with Austria and Belgium—tax their citizens at much higher
+26
+
+levels. This relationship is not particularly robust based on our small sample, as dropping Japan
+causes it to lose significance.
+
+.5
+
+Figure 4. Population and tax/GDP ratio
+SWE
+DNK
+
+.45
+
+FIN
+
+Tax ratio
+.35
+.4
+
+NOR
+
+BEL
+
+FRA
+ITA
+
+AUT
+
+NLD
+
+ESP GBR DEU
+
+GRC
+
+NZL
+
+PRT
+
+CAN
+
+.3
+
+AUS
+
+CHE
+IRL
+
+.25
+
+JPN
+
+15
+
+16
+
+19
+
+18
+17
+Log population
+
+USA
+
+20
+
+co ef = -0.02; se = 0.01; t = -1.89
+
+Sources: World Bank (2005) and OECD (2004).
+
+(3)
+
+Tax incentives and religious participation
+
+Next we look at the relationship with religious faith and practice. Brooks (2003) asserts that
+highly religious people differ from people with secular leanings in their view of the
+government’s proper role in providing social welfare. He cites results from the National Opinion
+Research Center’s 1996 General Social Survey, which found that less-religious people in the
+U.S. support greater public spending for social programs—even if it means higher taxation—at
+higher rates than religious people. Meanwhile, religiously active people support private,
+charitable alternatives over public-sector social welfare provision.39
+To assess the relationship between religious faith and tax policy, we use data on church
+attendance compiled by the World Values Survey to proxy for the “religiosity” of each country.
+Specifically, we compare the strength of the price incentive and the tax ratio to the percentage of
+the study sample answering the question, “How often do you attend religious services?” with
+“more than once a week” or “once a week.”40
+Highly religious societies appear as likely to offer strong price incentives as societies whose
+citizens are not active religiously (Figure 5). Ireland, the country with the highest level of church
+attendance in the sample, employs a very high price incentive. But so does France, where church
+attendance is less than 10%. Similarly, Japan and Norway, where church attendance is less than
+39
+40
+
+See National Opinion Research Center, http://www.norc.uchicago.edu/projects/gensoc1.asp.
+Inglehart et al. (2004). See Question F028.
+
+27
+
+5%, offer a similar tax incentive as Italy, where church attendance exceeds 40%. In a simple
+regression on the level of price incentive, the coefficient on church attendance is 0.18 with a tscore of 0.67.
+
+.6
+
+Figure 5. Church attendance and tax incentives
+FRA
+
+NLD
+DEU AUS
+BEL
+
+Price incentive
+.2
+.4
+
+IRL
+
+NOR
+JPN
+
+CHE
+GBR
+GRC
+NZL
+
+SWE
+FIN
+
+0
+
+USA
+
+CAN
+
+DNK
+
+0
+
+ESP
+
+PRT
+ITA
+
+AUT
+
+.6
+
+.4
+
+.2
+
+Church attendance
+co ef = 0.18; se = 0.26; t = 0.67
+
+Sources: World Values Survey 2004 and authors’ calculations.
+
+Highly religious countries do appear to collect lower taxes as a share of GDP (Figure 6). With
+the exception of Japan, countries where church attendance is lowest appear to be those where the
+tax ratio is largest. Conversely, countries with the highest church attendance, such as Ireland and
+the United States, have the smallest tax ratios. In a simple regression on the tax ratio, the
+coefficient on church attendance is –0.24 with a t-score of –2.35, which is significant at the 5%
+level.
+
+28
+
+.5
+
+SWE
+DNK
+
+.45
+
+Figure 6. Church attendance and tax/GDP ratio
+
+FIN
+
+BEL
+
+NORFRA
+
+AUT
+
+Tax ratio
+.35
+.4
+
+ITA
+
+NLD
+GBR
+GRC
+DEU
+NZL
+
+ESP
+CAN
+
+PRT
+
+.3
+
+AUS
+CHE
+IRL
+
+.25
+
+JPN
+
+0
+
+USA
+
+.2
+
+.4
+
+.6
+
+Church attendance
+co ef = -0.24; se = 0.10; t = -2.35
+
+Sources: World Values Survey 2004 and OECD (2004).
+
+(4)
+
+Tax incentives and confidence in government
+
+We look finally at the relationship between tax policy and faith in government. Declining trust in
+government creates a demand for reducing the government’s role in society and replacing many
+of its functions with private firms and the nongovernmental sector (Nye 1997). States whose
+citizens have confidence in their government to make decisions in the best interest of society,
+meanwhile, are probably likely to accept the higher taxes that allow the state to deliver more
+services. The flipside, though, is that they may see less need for the government to encourage
+private citizens to take initiative in helping those in need. Such societies probably pay higher
+taxes, and are also less likely to place as high a premium on the need for private resources to help
+the poor, preferring public institutions to allocate resources. We again use data from the World
+Values Survey to explore the relationship between faith in government and the tax code. Our
+proxy for faith in government is the share of respondents expressing either “a great deal” or
+“quite a lot” of confidence in their national legislature.41
+Confidence in the legislature appears to have an ambiguous relationship with the strength of
+charitable price incentives (Figure 7). In a simple regression on the level of price incentive, the
+coefficient on confidence in parliament is –0.07 with a t-score of –0.22. Citizens in Austria and
+Finland, two of only three countries without a price incentive, have nearly the same level of
+confidence in their parliaments as the French, who receive the strongest incentive for giving.
+Norway, whose citizens express the most confidence in their government, gives a similar price
+incentive as the three countries expressing the least faith in their governments: New Zealand,
+Japan and Greece.
+
+41
+
+Inglehart et al. (2004). See Question E075.
+
+29
+
+.6
+
+Figure 7. Confidence in the legislature and tax incentives
+FRA
+
+NLD
+
+AUS DEU
+BEL
+
+Price incentive
+.2
+.4
+
+IRL
+
+USA
+CAN
+
+JPN GRC
+NZL
+
+GBR
+ITA
+
+DNK
+PRT
+ESP
+CHE
+
+0
+
+AUT FIN
+
+.2
+
+NOR
+
+SWE
+
+.4
+.6
+Confidence in parliament
+
+.8
+
+co ef = -0.07; se = 0.33; t = -0.22
+
+Sources: World Values Survey 2004 and authors’ calculations.
+
+Societies where citizens have confidence in their governments, meanwhile, pay substantially
+higher taxes (Figure 8). In only three countries—Norway, the Netherlands, and Sweden—do at
+least half of the population express confidence in the national legislature. Citizens of each pay a
+relatively high share of their income in taxes. In Australia, Ireland, and Japan, meanwhile,
+confidence in the legislature is less than 30% while tax revenue as a share of GDP is only a
+fraction of what it is in countries such as Sweden and Denmark. In a simple regression on tax
+ratio, the coefficient on confidence in parliament is 0.30 with a t-score of 2.41, which is
+significant at the 5% level.
+
+30
+
+.5
+
+Figure 8. Confidence in the legislature and tax/GDP ratio
+SWE
+DNK
+
+.45
+
+BEL
+
+FIN
+
+AUT
+FRA
+
+NOR
+
+Tax ratio
+.4
+.35
+
+ITA
+
+NLD
+
+DEU
+GBR
+
+GRC
+
+ESP
+
+NZL
+
+CAN
+
+PRT
+
+.3
+
+AUS
+CHE
+
+IRL
+
+.25
+
+JPN
+
+.2
+
+USA
+
+.4
+.6
+Confidence in parliament
+
+.8
+
+co ef = 0.30; se = 0.12; t = 2.41
+
+Sources: World Values Survey 2004 and OECD (2004).
+
+While the strength of price incentives appears to have a weak relationship with our tested
+societal characteristics, the observed relationship between the tax ratio and both religious
+participation and faith in government within a country appears strong, suggesting that where
+people place their faith might affect the development of tax policies. Societies that trust public
+institutions to provide social services and deliver public goods appear correspondingly more
+willing to pay higher taxes to maintain these relationships. Highly religious societies, on the
+other hand, also tend to be places where trust in the state has broken down. These countries place
+a greater emphasis on individual responsibility and have less faith in the central government to
+provide for social welfare. This prevailing view results in a more remote association with the
+central government and, consequently, a lower tax ratio.
+6.2.
+
+Correlates of private international giving
+
+We next consider the relationship between observed giving outcomes and three variables that
+might influence individual decisions to give to developing countries: (1) tax policies; (2) national
+income; and (3) official foreign aid.
+(1)
+
+Tax policies and private giving
+
+As described earlier, in theory, both types of tax incentives lead to more giving. To see if the
+relationship is strong and obvious, we first plot the strength of price incentives against log
+average annual private giving to developing countries per capita from 2000 to 2003 as measured
+by the DAC (Figure 9).42 Higher price incentives do indeed appear associated with more private
+giving, though this relationship is not particularly strong. Countries with the highest price
+42
+
+Private giving is defined here, again, as the sum of donations to Part I and Part II countries in the most recent year
+with available data. OECD/DAC (2005a).
+
+31
+
+incentives—including the Netherlands, Germany, Australia and Belgium—have some of the
+highest per capita giving rates while countries with the weakest charitable incentives place
+toward the bottom of the rankings. In a simple regression on log giving per capita, the coefficient
+on the level of price incentive is 2.94 with a t-score of 1.68, which is significant at the 10% level.
+In Section 5.1 we used an elasticity estimate of –0.5 to calculate the price effect of tax incentives.
+In order to compare our results with this estimate, we also regress log (1 – price incentive) on log
+average annual private giving per capita from 2000 to 2003. This regression results in a
+coefficient of –1.9 with a t-score of –2.06, which is significant at the 5% level. This suggests a
+price elasticity of –1.9, meaning that a 1% decrease in the price of a charitable gift leads to a
+2.1% increase in donations. This figure may be overstated, as it makes no attempt to control for
+other factors that affect charitable donations. Moreover, this result comes from a cross-country
+dataset while our earlier estimate derives from variation within the United States, and it is
+within-variation country that is more relevant for analyzing the impact of incentives on giving.
+But despite these differences, our result supports the existence of a price effect for charitable
+giving.
+Figure 9. Tax incentives and private giving per capita
+4
+
+NOR
+IRL
+
+Log private giving per capita
+1
+2
+3
+
+CHE
+
+USA
+NLD
+BEL AUS
+DEU
+
+AUT
+GBR
+
+CAN
+DNK
+
+NZL
+
+FRA
+ESP
+
+SWE
+FIN
+
+0
+
+JPN
+
+GRC
+ITA
+
+-1
+
+PRT
+
+0
+
+.2
+
+.4
+
+.6
+
+Price incentive
+co ef = 2.94; se = 1.75; t = 1.68
+
+Source: OECD/DAC (2005a) and authors’ calculations.
+
+But a strong income effect resulting from low tax ratios does not emerge from these data. We
+next plot the tax ratio versus log average private giving per capita from 2000 to 2003 (Figure 10).
+While there is a slight downward trend, the relationship is not very significant. The United
+States, Ireland and Switzerland give among the most private aid and also have the smallest tax
+ratios. However, giving is high even in countries with high tax ratios. Many factors beyond
+income factor into individual decisions to give to charity but, according to these data, lower taxes
+do not appear to be a major influence on private donations. In a simple regression on log giving
+per capita, tax ratio has a coefficient of –2.88 and a t-score of –0.67.
+
+32
+
+Figure 10. Tax/GDP ratio and private giving per capita
+4
+
+NOR
+IRL
+CHE
+
+Log private giving per capita
+1
+2
+3
+
+USA
+
+NLD
+AUS
+
+BEL
+
+DEU
+AUT
+
+CAN
+GBR
+
+DNK
+
+NZL
+
+FRA
+
+ESP
+
+SWE
+FIN
+
+0
+
+JPN
+
+GRC
+
+ITA
+
+-1
+
+PRT
+
+.25
+
+.3
+
+.35
+
+.4
+
+.45
+
+.5
+
+Tax ratio
+co ef = -2.88; se = 4.32; t = -0.67
+
+Source: OECD/DAC (2005a) and OECD (2004)
+
+(2)
+
+Income and private giving
+
+Income may also be a determinant of the level of private charitable donations; people in
+wealthier countries likely give more than those in relatively poorer countries. We assess this
+relationship by plotting 2003 GNI per capita against average private giving to developing
+countries per capita from 2000 to 2003. As expected, richer countries give more private
+assistance to developing countries (Figure 11). In a simple regression on log private giving per
+capita, the coefficient on log income per capita is 5.92 with a t-score of 5.57, which is significant
+at the 1% level.
+This result represents an elasticity estimate of 5.92: a 1% increase in income leads to a 5.9%
+increase in private giving to developing countries. In Section 5.2 we used an income elasticity
+estimate of just 1.1, from the academic literature. The same caveats apply here as with our earlier
+price elasticity estimate. Our regression is a simple relationship between only two variables and
+makes no attempt to account for the influence of other factors that influence decisions to give to
+charity beyond only income. For example, there is no attempt to control for tax incentives, which
+appear mildly and positively correlated with income (Figure 1); controlling for them would
+lower the coefficient on income here. Our result is also derived from a cross-country comparison
+whereas the earlier estimate was for an individual country. But this result supports the existence
+of an income effect on private giving where higher income leads to more charity.
+
+33
+
+Figure 11. Income and private giving per capita
+4
+
+NOR
+IRL
+
+Log private giving per capita
+1
+2
+3
+
+CHE
+
+USA
+
+NLD
+BEL
+DEU AUS
+AUT
+CAN
+GBR
+DNK
+NZL
+
+FRA
+
+ESP
+
+JPN
+
+0
+
+SWE
+FIN
+
+GRC
+
+ITA
+
+-1
+
+PRT
+
+9.8
+
+10
+
+10.2
+Log income per capita
+
+10.4
+
+10.6
+
+co ef =5.92; se = 1.06; t = 5.57
+
+Source: OECD/DAC (2005a); World Bank (2005)
+
+(3)
+
+Public aid and private giving
+
+Finally, some argue that private assistance substitutes for foreign aid (Adelman 2003). Instead of
+relying on the government to allocate aid abroad, citizens make private decisions about the
+destination and use of their foreign assistance dollars. To examine this question, we plot the
+relationship between public net transfers per capita and average private giving per capita across
+our 21 DAC countries (Figure 12).
+Figure 12. Private giving per capita and government foreign aid per capita
+4
+
+NOR
+IRL
+
+Log private giving per capita
+1
+2
+3
+
+USA
+
+CHE
+NLD
+
+BEL
+
+AUS
+DEU
+AUT
+CAN
+
+DNK
+
+GBR
+NZL
+
+FRA
+
+ESP
+
+SWE
+FIN
+
+0
+
+JPN
+
+ITAGRC
+
+-1
+
+PRT
+
+3.5
+
+4
+
+4.5
+5
+Log net aid transfers per capita
+
+coef = 1.06; se = 0.32; t = 3.33
+
+34
+
+5.5
+
+6
+
+Source: OECD/DAC (2005a); Roodman (2005b).
+
+The data does not suggest that private charity serves as a substitute for public foreign aid. Indeed,
+private giving and public giving have a strong positive relationship. In a simple regression on log
+private giving per capita, the coefficient on log public net transfers per capita is 1.06 with a tscore of 3.33, which is significant at the 5% level.
+7.
+
+Conclusion
+
+Though private charity does not appear to be substituting for public foreign aid in most DAC
+countries, the size of private development assistance flowing from rich countries to poor
+countries is substantial. Rich country governments, meanwhile, can increase the level of charity
+donated by their citizens through modifications in national tax codes. While the full effect of
+government tax policy on private charity from rich countries to poor countries remains poorly
+understood, the amount of private assistance donated is at least partly an outcome of public
+policy.
+We find evidence suggesting the operation of both a price effect and an income effect on the
+amount of private development assistance from DAC countries. Nearly every DAC country uses
+its tax code to increase private charity. All but three countries in our survey currently offer some
+type of price incentive that reduces the cost of charitable gifts. Citizens in countries with stronger
+targeted income tax incentives appear to give more private charity to poor countries. And though
+evidence of an income effect resulting directly from lower average taxes is weak, we do find that
+richer countries overall also give more private charity. The strength of price incentives,
+meanwhile, appears to have a weak relationship with our tested societal characteristics, including
+income, population, religious participation and confidence in the legislature. But the observed
+relationship between the tax ratio and both church attendance and confidence in the legislature
+appears strong, suggesting that where people place their faith might affect the development of
+tax policies. Countries where confidence in the national legislature is high tend to have larger tax
+ratios while countries where religious participation is high tend to have smaller tax ratios.
+According to our rough estimates, tax incentives—which include both the strength of price
+incentives and the effect of lower taxes—increased private charitable giving from DAC countries
+to developing countries by some $7.5 billion in 2003, equivalent to 13% of total Net Aid
+Transfers from DAC countries. $5.3 billion of this additional assistance went to Part I countries,
+with most of the rest going to Israel. Private citizens respond to changes in the tax code in ways
+that lead to more private assistance for poor countries. Tax policy that favors private giving is,
+therefore, de facto aid policy and deserves to be seen as such, both in the public debate and in
+academic study.
+
+35
+
+References
+Adelman, C. (2003). “The Privatization of Foreign Aid: Reassessing National Largesse,”
+Foreign Affairs (November/December).
+Adelman, C., J. Norris, and J. Weicher (2005). America’s Total Economic Engagement with the
+Developing World: Rethinking the Uses and Nature of Foreign Aid. New York: Hudson Institute.
+Alesina, A. and E. Spolaore (2003). The Size of Nations. Cambridge, MA: MIT Press.
+American Association of Fund-Raising Council (AAFRC) Trust for Philanthropy (2004). Giving
+USA 2004. Indianapolis, IN: AAFRC.
+American Association of Fund-Raising Council (AAFRC) Trust for Philanthropy (2005). Giving
+USA 2005. Indianapolis, IN: AAFRC.
+Andreoni, J. (2001). “Economics of philanthropy,” International Encyclopedia of the Social and
+Behavioral Sciences.
+Andreoni, J. (2005). “Philanthropy,” forthcoming in Handbook of Giving, Reciprocity and
+Altruism, L.A. Gerard-Varet, S. Kolm and J.M. Ythier, eds. Amsterdam: Elsevier/North-Holland.
+Bakija, J. and W. Gale (2003). “Effects of Estate Tax Reform on Charitable Giving,” Tax policy
+issues and options, Washington, DC: Urban-Brookings Tax Policy Center.
+Billitteri, T. (1999). “Moving Giving Off the Dime,” The Chronicle of Philanthropy (October).
+Brooks, A. (2003). “Religious Faith and Charitable Giving,” Policy Review 121.
+Brooks, A. (2004). “The Effects of Public Policy on Private Charity,” Administration and Society
+36(2): 166-185.
+Burger, A. and P. Dekker (2001). “The Nonprofit Sector in the Netherlands,” Working
+Document 70, Den Haag: Sociaal en Cultureel Planbureau.
+Center for Global Development (2005). “U.S. Aid: Generous or Stingy? A Debate Between
+Carol Adelman, Hudson Institute and Steve Radelet, Center for Global Development,”
+Transcript, January 13, 2005, Washington, DC: Center for Global Development,
+http://www.cgdev.org/doc/event%20docs/1.13.05-us%20aid/0113aid_debatetrans1.pdf.
+Center for the Study of Philanthropy and Volunteering (2001). Giving in the Netherlands.
+Amsterdam: Center for the Study of Philanthropy and Volunteering.
+Charities Aid Foundation and National Council of Voluntary Organizations (2005). UK Giving
+2004/2005. London, UK and Kent UK: Charities Aid Foundation and National Council of
+Voluntary Organizations.
+
+36
+
+Clotfelter, C. (1985). Federal Tax Policy and Charitable Giving. Chicago: University of Chicago
+Press.
+Clotfelter, C. (1997). “The Economics of Giving,” in J.W. Barry and B.V. Manno (eds.) Giving
+Better, Giving Smarter. Washington, DC: National Commission on Philanthropy and Civic
+Renewal.
+Congressional Budget Office (2004). The Estate Tax and Charitable Giving. Washington, DC:
+CBO.
+European Foundation Centre (2002). Foundations in the European Union: Profiling Legal and
+Fiscal Environments. Brussels: European Foundation Centre.
+European Foundation Centre (2004). Foundations in 15 European Union countries—legal and
+tax comparative overview: Highlights. Brussels: European Foundation Centre.
+Feldstein, M., and A. Taylor (1976). “The income tax and charitable contributions,”
+Econometrica 44(6): 1201-1222.
+Gilbert, N. (2005). “The ‘Enabling State’? From Public to Private Responsibility for Social
+Protection: Pathways and Pitfalls,” Background note for the OECD Directorate for Employment,
+Labour and Social Affairs, Paris: OECD.
+Givewell (2005). Giving Statistics at a Glance: Important statistics on the state of Australian
+philanthropy. www.givewell.org.au.
+Greene, P. and R. McClelland (2001). “Taxes and Charitable Giving,” National Tax Journal
+54(3): 433-453.
+International Bureau of Fiscal Documentation (2004). European Tax Handbook 2004.
+Amsterdam: IBFD.
+Independent Sector (2003). Deducting Generosity: The effect of charitable tax incentives on
+giving. Washington, DC: Independent Sector.
+Independent Sector (2004). Giving and Volunteering in the United States 2004. Washington, DC:
+Independent Sector.
+Inglehart, R., M. Basanez, J. Diez-Medrano, L. Halman, and R. Luijkx (2004). Human Beliefs
+and Values: a cross-cultural sourcebook based on the 1999-2002 values surveys. Mexico City:
+Siglo XXI Editores.
+Institute for Philanthropy (2005). The Return of Philanthropy. London: Institute for
+Philanthropy.
+
+37
+
+Irish Revenue (2003). “Scheme of Tax Relief for Donation to Eligible Charities and Other
+Approved Bodies, Under Section 848a, Taxes Consolidation Act 1997,” http://www.revenue.ie/.
+Kay, J. (1990). “Tax Policy: A Survey,” The Economic Journal 100(399): 18-75.
+Lasby, D. and D. McIver (2004). Where Canadians Donate: Donating by Type of Organization.
+Toronto: Canadian Centre for Philanthropy.
+Matsubara, A. and H. Todoroki (2003). Japan’s ‘Culture of Giving’ and Nonprofit
+Organizations. Tokyo: The Japan Foundation Center for Global Partnership.
+Mulgan, G. and R. Murray (1993). Reconnecting Taxation. London: Demos.
+National College of Ireland (2003). Reaching Out: Charitable Giving and Volunteering in the
+Republic of Ireland. Dublin: National College of Ireland.
+National Opinion Research Center (1996). General Social Survey.
+http://www.norc.uchicago.edu/projects/gensoc1.asp
+Natsios, A. (2003). Remarks to the Heritage Foundation, 1/7/03.
+New Zealand Inland Revenue (1999). “1999 IR3 and IR5 Returns with Donations Rebate - by
+taxable income.”
+Nye, J. (1997). “In Government We Don’t Trust.” Foreign Policy 108: 99–111.
+OECD (2004). Revenue Statistics 1965-2003. Paris: OECD.
+OECD (2005). OECD Tax Database.
+OECD/DAC (2000). DAC Statistical Reporting Directives,
+www.oecd.org/dac/stats/dac/directives. Paris: OECD/DAC.
+OECD/DAC (2003). “Philanthropic Foundations and Development Co-operation,” Off-print of
+the DAC Journal 2003, Volume 4, No. 3. Paris: OECD/DAC.
+OECD/DAC (2005a). DAC database.
+OECD/DAC (2005b). DAC List of Aid Recipients, www.oecd.org/dac/stats/daclist. Paris:
+OECD/DAC.
+Randolph, R. (1999). “Charitable Deductions.” The Encyclopedia of Taxation and Tax Policy.
+Roodman, D. (2004) “An Index of Donor Performance,” CGD Working Paper Number 42,
+Washington, DC: Center for Global Development.
+
+38
+
+Roodman, D. (2005a). “The Commitment to Development Index: 2005 Edition.” Washington,
+DC: Center for Global Development.
+Roodman, D. (2005b) “An Index of Donor Performance,” CGD Working Paper Number 67,
+Washington, DC: Center for Global Development.
+Salamon, L. and H. Anheier (1996). “The International Classification of Nonprofit
+Organizations: ICNPO-Revision 1, 1996,” Working Papers of the Johns Hopkins Comparative
+Nonprofit Sector Project Number 19, Baltimore: The Johns Hopkins Institute for Policy Studies.
+Schervish, P. (2001). “Philanthropy Can Thrive Without Estate Tax,” Chronicle of Philanthropy
+(January).
+Schervish, P. and J. Havens (2003). “New Findings on the Patterns of Wealth and Philanthropy,”
+Center on Wealth and Philanthropy Working Paper, Boston: Center on Wealth and Philanthropy.
+Schiff, J. (1990). Charitable Giving and Government Policy: An Economic Analysis. Westport,
+CT: Greenwood Press.
+Steinberg, R. (1990). “Taxes and Giving: New Findings,” Voluntas 1 (1): 1-25.
+Tiehan, L. (2001). “Tax Policy and Charitable Contributions of Money,” National Tax Journal,
+54(4): 707-723.
+UK Inland Revenue (2003). “Help Sheet IR342,”
+http://www.hmrc.gov.uk/pdfs/2002_03/tax_return/ir342.pdf.
+USAID (2003). Foreign Aid in the National Interest: Promoting Freedom, Security, and
+Opportunity. Washington, DC: USAID.
+US Department of the Treasury, Internal Revenue Service (2003). “Charitable Contributions,”
+Publication 526. Washington, DC: Government Printing Office.
+US Department of the Treasury, Internal Revenue Service (2004). Statistics of Income—2001,
+Individual Income Tax Return Statistics. Washington, DC: Government Printing Office.
+US Department of the Treasury, Internal Revenue Service (2005a). Form 1040-ES. Estimated
+Tax for Individuals. Washington, DC: Government Printing Office.
+US Department of the Treasury, Internal Revenue Service (2005b). Topic 409 – Capital Gains
+and Losses. Washington, DC: Government Printing Office.
+World Bank (2005). World Development Indicators.
+
+39
+
+Appendix 1. Sample copy of national tax policy survey
+
+SURVEY OF TAX INCENTIVES TO PROMOTE CHARITABLE GIVING
+Part I: Income Tax Deductions
+1. Does your country offer income tax deductions—a reduction in taxable income—for
+charitable giving? If yes, what is a representative marginal tax rate for those who are
+likely responsible for the most giving?
+2. Does your country offer income tax credits—a reduction in tax liability—for charitable
+giving? If yes, what is the value of the credit? (Please list all credits available.)
+3. Are there restrictions on which income tax payers qualify for tax incentives? (For
+example, in the United States, only people who itemize their deductions can claim
+charitable deductions.) If yes, please estimate what percentage of the population qualifies
+for tax incentives.
+3. Is there a maximum donation that is eligible for a tax incentive? This could be an
+absolute amount (such as the excess of donations over $2000 is not eligible) or a
+maximum percent of income (such as the excess of donations worth more than 10% of
+income is not eligible.)
+Part II: Estate Tax
+1. Does your country have an estate tax? If yes, what is a representative marginal tax rate
+for those who are likely responsible for the most giving?
+2. Does your country offer a tax deduction or tax credit for charitable bequests?
+If yes, what is the value? (Please list all available.)
+3. Are there restrictions on which taxpayers qualify for tax incentives?
+If yes, please estimate what percentage of the population qualifies.
+4. Is there a maximum bequest that is eligible for a tax incentive? This could be an absolute
+amount (such as the excess of bequests over $2000 is not eligible) or a maximum percent
+of income (such as the excess of bequests worth more than 10% of income is not
+eligible.)
+
+Part III: Capital Gains Tax
+1. Does your country have a capital gains tax separate from the income tax? If yes, what is
+the representative tax rate?
+2. Does your country offer a tax deduction for non-cash charitable contributions (such as
+appreciated securities)? If yes, what is the value of the deduction?
+
+40
+
+3. Is there a maximum non-cash contribution that is eligible for a tax incentive? This could
+be an absolute amount (such as the excess of donations of securities worth over $2000 is
+not eligible) or a maximum percent of income (such as the excess of donations of
+securities worth more than 10% of income is not eligible.)
+
+Part IV: General Questions
+1. Please provide any additional comments on tax incentives for charitable giving in your
+country that might not be captured by this questionnaire.
+2. In general, what is the breakdown in charitable giving between various methods of
+donation? (For example, what proportion of total giving comes from living individual
+cash donations, charitable bequests, appreciated securities, etc.?)
+3. Are there any datasets or additional information on giving patterns or tax incentives in
+your country?
+
+41
+
+

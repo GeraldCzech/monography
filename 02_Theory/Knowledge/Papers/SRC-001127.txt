@@ -1,0 +1,1803 @@
+The Science of Philanthropy Cleanup
+Rene Bekkersa, Max Littela, Stephanie Koolen-Maasa, Hoda Fahimpourb, Arthur Gautierc, Wahideh
+Achbaria
+a
+
+Center for Philanthropic Studies, Department of Sociology, VU Amsterdam, the Netherlands
+
+b
+
+Independent researcher
+
+c
+
+ESSEC Business School
+
+7 July 2026
+[9867 words, excluding appendices]
+
+Abstract
+Research has documented a large number of conditions that affect charitable giving practices. To what
+extent is the science of philanthropy self-correcting, and which findings on charitable giving hold up against
+the scrutiny of scientific criticism? We answer these questions with an empirical assessment of statistical
+irregularities, retractions and replications of published findings. We find that in research on giving
+retractions and replications are less common than in research in other fields, and that statistical errors are
+more common. About 60% of replications yield similar conclusions as preceding studies. Previous findings
+on material benefits and social rewards for giving are less likely to replicate, while findings on material costs
+and solicitation are more likely to replicate. In the interest of a robust knowledge base for fundraising, we
+call for more replications and we suggest that journals adopt registered reports - in principle acceptance of
+publication before results are known - as a solution to publication bias.
+
+Correspondence, Contributions, and Open Science
+Correspondence: r.bekkers@vu.nl. This paper relies on research plans presented previously (Bekkers, 2022a,
+2024a) and includes results presented previously (Table 1: 2024b; replication prevalence: Bekkers, 2024c;
+p-value analysis: Littel, 2025). Contributor Role Taxonomy (CRediT) statement: Funding acquisition,
+Conceptualization, Methodology, Formal analysis, Visualization, Writing – original draft, Project
+administration and Supervision: RB; Writing - Review and Editing: RB, WA, AG; Software: RB and ML;
+Validation: ML and SKM; Investigation and Data curation: RB, ML, SKM, AG, HF. The authors did not
+use generative artificial intelligence in the creation of this paper. The authors acknowledge helpful
+suggestions from Michaela Neumayr on a previous version, help from Marlou Ramaekers with data
+curation, and from Ji Ma with software. Data and software used to produce the results reported in this paper
+as well as supplementary materials are available at https://osf.io/5thj9
+
+1
+
+Introduction
+In 2012, Boyan Slat, a first year aerospace engineering student in the Netherlands, came up with a clever idea
+to remove pollution from the world’s oceans: a ship could gather plastic waste floating around, and bring it
+back ashore so that it can be recycled. The world’s oceans are a truly global collective good: they are crucial
+for planetary health, but no one’s particular ownership or responsibility to protect. All creatures, great and
+small, benefit from less pollution and higher ocean water quality.
+The current state of science is similar to the plastic waste problem in many ways. We all benefit from clear
+waters in science. But more than a decade after the Open Science Collaboration (2015) showed that half of
+replications of seminal studies show very different results than their predecessors, it is clear that science is in a
+knowledge production crisis. The production of scientific papers has grown at a strong pace, but the
+reliability of research has not increased: a recent massive attempt to replicate research findings in the social
+and behavioral sciences again found that half of previous research findings was not replicated (Tyner et al.,
+2026).
+Similar to the ocean clean up initiative, the current paper illustrates the potential of a simple solution that
+can identify waste in the ocean of knowledge on why people give. The solution is to screen the large number
+of published findings, to identify studies that attempted to replicate previous findings, and compare their
+results: replications with similar results as preceding studies reflect robust regularities and reliable knowledge
+(see also Hartshorne & Schachner, 2012). Especially independent replications - attempts to replicate findings
+by other researchers - are informative. Similar to the concern that the ocean clean up does not eliminate the
+causes of the environmental crisis, this initiative is not a solution to the knowledge production crisis. But it
+does give readers – scientists and practitioners alike – a simple tool to evaluate the reliability of published
+research, and that’s important for our collective scientific health.
+An important source of knowledge in science generally are evidence syntheses, such as meta-analyses and
+narrative systematic reviews (Siddaway, Wood & Hedges, 2019). One systematic review of the literature on
+charitable giving (Bekkers & Wiepking, 2011) distinguished eight mechanisms driving donations. Each
+mechanism is a category of interventions, i.e., a set of levers that fundraisers can pull to attract donations.
+The regularities emerging from studies that have tested these interventions are that donors give more (often)
+when 1) they are aware of a clear need for donations; 2) when they are explicitly being asked to give; 3) when
+the material costs of giving are lower and the material benefits are higher; 4) when they care about the
+well-being of beneficiaries; 5) when they receive social benefits for giving and avoid social costs for not
+giving; 6) when they receive psychological benefits for giving and avoid psychological costs for not giving; 7)
+when the cause they support matches their values; and 8) when they perceive donations as more effective
+and efficient.
+
+Previous research
+With the current paper we aim to raise the bar for what counts as reliable evidence in research on charitable
+giving. To guide our attempts to locate reliable findings, we rely on findings from the newly emerged fields
+
+2
+
+of meta science, research on research, and bibliometrics. Here we give a brief overview of the relevant
+literature.
+First, we broadly define replications as attempts to repeat findings from previous studies. This definition is
+not limited to hypothesis-testing research, and includes exploratory and descriptive research. Replications
+come in 4 varieties: 1) verification: researchers analyze the same data as a preceding study, with the same
+methods and models; 2) robustness analyses: re-analysis of the same data with different methods and models;
+3) reproduction: researchers analyze new data with the same methods and models; and 4) generalization:
+analysis of new data with different methods and models (Freese & Peterson, 2017).
+In a recent attempt to reanalyze findings from 600 papers published in 62 journals in the social and
+behavioral sciences (Miske et al., 2026), researchers could locate data and code for only 144 papers.
+Reproductions with new data often produce different results (Tyner et al., 2026). The literature review on
+mechanisms driving charitable giving that we revisit here (Bekkers & Wiepking, 2011) described some
+features of the populations and contexts, but did not include a quality appraisal of included studies.
+Meta science findings (Open Science Collaboration, 2015; Holzmeister et al., 2024; Youyou, Yang & Uzzi,
+2023) suggest three categories of reasons why replications find different results than preceding studies. A first
+category of reasons we label unique findings. Studies reporting findings in unique contexts, for specific
+regions or subgroups of populations, or in unusual circumstances are unlikely to be encountered again
+when researchers attempt to do the study again in other times, regions, populations and circumstances. A
+second category of reasons is the quality of preceding studies. Studies containing statistical errors are less
+likely to be replicated. Studies reporting weaker effect sizes, with smaller numbers of observations and lower
+statistical power are less likely to be successfully reproduced in new data. A third category of reasons is the
+process of publication, peer review, and citation. Studies based on weak evidence but reporting significantly
+positive findings - i.e., supporting the hypotheses - are more likely to be published and cited than studies
+reporting null-findings or negative results. Such biases distort our view of truly reliable research, and create
+the impression that research is more replicable than it actually is.
+
+1. Unique findings
+There may be good reasons in the realities we study that explain why repeating a study can produce entirely
+different results. Preceding findings may reflect uniquely local patterns that do not reflect general regularities
+in human behavior. Testing the same hypothesis with other data can produce radically different results
+because the association truly differs between samples drawn from other populations. For charitable giving,
+interventions that generally tend to work in experiments among participants in lab studies or surveys does
+not guarantee positive results in each and every campaign fundraisers organize. The effects may be very
+different in practice. In addition, peculiarities of donor groups, public perceptions of fundraising
+organizations, and the causes that they raise donations for will create heterogeneity in treatment effects.
+Below we investigate to what extent replications produce results that differ from preceding findings as a
+result of differences in study populations and contexts.
+
+3
+
+2. Research quality
+Honest mistakes. Sometimes researchers make errors, for example in copying results from statistical software
+to the word processors they use to write manuscripts. This is one source of the inconsistencies between
+reported p-values and test statistics that we quantify below. Sometimes researchers also forget to include
+details in their manuscripts that are crucial for the results. The academic community tolerates honest
+mistakes, especially if authors step forward to identify and correct them. Error detection and correction is a
+sign of integrity.
+Researcher degrees of freedom. Replication failures and weaker associations in replications may also be related
+to researcher degrees of freedom in preceding studies (Simmons, Nelson & Simonsohn, 2011; Gelman &
+Loken, 2014). Data collection and analysis involve a large number of decisions: the choice of measurement
+instruments, treatment of outliers, and other data preprocessing choices, the selection, application and
+interpretation of analytical models and statistical tests. Fiddling with the analysis to obtain significant results
+is known as p-hacking (Simmons, Nelson, & Simonsohn, 2011). In the presence of incentives to report
+strong, significant and positive results, researchers will attempt to obtain them, and withhold negative results
+and null-findings. Gross inconsistencies in p-values are more common in statistical tests reported as
+significant than in tests reported as not significant, suggesting a systematic bias favoring positive results
+(Nuijten et al., 2016). Below we explore how often p-values in research on charitable giving are inconsistent
+with test statistics, and whether they contain a similar bias toward positive results.
+
+3. The publication process
+Published research is more often reporting positive results than unpublished research. Many relevant
+research findings never see the light of day, and those that stay in the shadows tend to tell us mostly which
+interventions are not working. Studies published in journals are more likely to report positive findings than
+studies that remain unpublished, as a result of author, editor, and reviewer behaviors (Ferguson & Heene,
+2012; Franco et al., 2014; O’Boyle et al, 2017; Chopra et al., 2024). In economics, authors at all levels of
+seniority as well as editors believe that significant results submitted to journals are more likely to get
+published (Chopra et al., 2024). A survey in multiple fields suggests that authors are more likely to submit
+significant results for publication, and both reviewers and editors prefer them (Muradchanian et al., 2023).
+The excess of positive results supporting the hypotheses in published research – approaching 95% in some
+disciplines (Fanelli, 2010, 2012; Schäfer & Schwarz, 2019) indicates that negative or null results are withheld
+from publication in file drawers (Rosenthal, 1979). Publication bias implies an asymmetry in the reliability
+of findings: positive findings are less reliable than negative findings. If there is no study reporting a
+theoretically plausible effect, it is very unlikely that the effect actually exists. The grains of salt added in the
+process of publication imply that reported findings cannot be trusted if no one attempted to replicate them.
+A recurrent finding in replications is that they tend to produce statistically significant associations much less
+often than their predecessors. Replication studies in the social and behavioral sciences find different results
+about half of the time (Open Science Collaboration, 2015; Camerer et al., 2018; Tyner et al., 2026).
+Replications also tend to find substantially weaker effect sizes than the studies they attempt to replicate, so
+4
+
+that meta-analytic effects based solely on published research are likely inflated (Ioannidis, Stanley, &
+Doucouliagos, 2017; Kvarven, Strømland & Johannesson, 2020).
+Evidence syntheses that summarize results of previous research on charitable giving in systematic literature
+reviews and meta-analyses typically report findings in articles published in scientific journals. As a result, the
+available systematic literature reviews are likely to provide a distorted picture: because negative findings are
+obscured, the conclusions of review articles are biased toward positive results. We do not know how strong
+publication bias is in research on charitable giving. Systematic literature reviews that include unpublished
+studies typically do not analyze differences between published and unpublished studies. In the analyses
+below we explore how often results in studies on giving are supportive of the study hypotheses, and whether
+the tendency to report positive results differs between replications and preceding studies, as well as between
+studies published in journals and those that remained unpublished.
+A commonly used proxy for research quality is publication status: a study published in a journal or book
+that employs peer review is commonly believed to be ‘better’ than an unpublished study. Unfortunately, the
+peer review system of quality control is not fortified enough to keep out the bad science (Smith, 2010).
+Journals continue to rely on unpaid volunteers for reviews, and typically do not specify how reviewers
+should evaluate manuscripts, nor provide training in how to detect bad science. Studies that compared
+manuscripts submitted and accepted for publication (Stephen, 2022; Hopewell et al., 2014) found that they
+do not change much during the review period, indicating that the added value of review is small. Even the
+most prestigious journals have trouble keeping the bad science out of their pages (Brembs, 2018). As a result,
+the publication of a paper is no guarantee that the research is reliable, even when it is in Science or Nature
+(Camerer et al., 2018). The clearest cases of this filtering failure are retractions, where the flaws in a study
+become apparent only after publication. Below we examine how often, and for what reasons, research on
+charitable giving is retracted; we then identify, review and analyze replication studies in this field.
+
+Data and Methods
+This section briefly presents the data and methods we used to identify and code (1) retractions; (2)
+consistency of test statistics, and (3) replications. See Appendix A for details.
+Retractions. To identify retractions of research on charitable giving, we (RB) searched Google Scholar, using
+the six keywords (“charitable behavior”, “charitable giving”, “prosocial behavior”, “philanthropy”,
+“altruism”, and “donations”) from Bekkers & Wiepking (2011) plus “retract*”.
+Test statistics. To estimate the prevalence of inconsistencies in test statistics associated with p-values in
+research on giving, we applied the Statcheck module (Nuijten & Epskamp, 2024) integrated in metacheck
+(Lakens & DeBruine, 2026) to a large corpus of papers included in OpenAlex. First, one of the authors (RB)
+defined the corpus to include all studies in OpenAlex that cited at least one out of 24 seed publications (see
+Appendix B) reflecting the eight mechanisms in giving behavior described in Bekkers & Wiepking (2011).
+Next, one of the authors (ML) compiled a corpus of 7,412 studies included in OpenAlex citing these seed
+publications, and downloaded the largest possible number of publications from the corpus through Zotero,
+obtaining pdf files for 3,702 publications. Next, we (ML) ran Statcheck on these pdfs. Because Statcheck can
+5
+
+only process papers that adhere to journal article reporting standards of the American Psychological
+Association (APA), it could not process all papers.
+Replications. To identify replications, we developed a method to identify replications from large volumes of
+research in two stages. In the first stage, we (RB) created a coding scheme and manually screened 1,213
+Google Scholar search results for “charitable behavior” for terms related to replication and identified 34
+replications. 25 replications analyzed charitable giving as a dependent variable, representing 0.5% of all 4,858
+search results for charitable behavior. In the second stage, we (HF, AG, RB) modified this method to screen
+a more targeted selection of 340 search results for “charitable giving” mentioning replication, identifying
+another 28 replications analyzing charitable giving as a dependent variable. Finally, we added 13 replications
+to the analysis that had not shown up in our search results but that we knew existed.
+
+Results
+The generic increase in the number of publications researchers produce also holds in the field of research on
+philanthropy and charitable giving. The number of studies that researchers produce each year is very large
+and has grown strongly in the past decades (see Appendix A). The comprehensive overview of all studies on
+conditions that affect charitable giving published in 2007 (Bekkers & Wiepking, 2007) included about 500
+studies, assembled from seven keyword searches in Google Scholar that yielded less than 5,000 search results.
+Due to increasing productivity in science, repeating this effort for studies that appeared after 2007 would be
+humanly impossible. Meanwhile, thousands of studies on charitable giving appear each year. In 2021, no less
+than 89,000 studies on donations appeared according to Google Scholar. For the same year, 35,300
+publications on altruism appeared, 27,000 on philanthropy, 17,100 on prosocial behavior, 4,270 on
+charitable giving, and 467 on charitable behavior. It has become virtually impossible to keep track of the
+current state of knowledge. Since the year 2000, when the number of studies on charitable behavior was
+only 40 and on prosocial behavior 1,580, the number of publications has grown more than tenfold.
+
+How often is research on giving retracted?
+In Google Scholar we searched for retracted publications on charitable giving, using the six keywords from
+the mechanisms review plus “retract*” to identify studies that mentioned retracted, retracting, or retraction.
+We found 36 studies on charitable giving published between 2007 and 2022 that publishers retracted. We
+found no retracted studies on giving that were published before the year 2007.
+In science overall, the total number of retracted studies in the database of Retraction Watch (2024) for the
+same period was 52,464. The retraction rate of studies on charitable giving was 0.069%. The number of
+retractions per year has increased strongly over the years. For studies on charitable giving, in contrast, we see
+a downward trend after the peak in 2010 (see Figure 1). For the period until 2014, studies on charitable
+giving are 0.010% of all retracted studies; for the period after 2014, they are 0.044%.
+Two authors (RB and SKM) coded the retracted studies. 24 retracted studies (62%) were published in
+journals, the remaining 15 were conference abstracts. 26 retracted studies (67%) were empirical papers, the
+6
+
+remaining 13 were not reporting analyses of data. The majority of retracted empirical studies on giving (n =
+22, 85%) did not analyze individual charitable giving as a dependent variable. Instead, these studies analyzed
+giving intentions, perceptions of the behavior of others, or corporate social responsibility. We located 31 of
+the 39 retracted studies in the Retraction Watch database, which contained the country of the first author,
+and the stated reason for retraction. The majority of retracted studies on charitable giving were from China
+(n = 17, 55%), similar to the proportion for the entire database of retractions (52%). Almost half (14 of 31)
+retracted studies on giving stated ‘peer review concerns’ or ‘breach of policy by author’ as a reason for
+retraction. In the entire database of retractions, these reasons are much less common (17% of all cases).
+
+Figure 1: Total number of retractions per year of publication, and the retraction rate for studies on charitable
+giving
+
+All retracted empirical studies that analyzed charitable giving as a dependent variable were published in
+psychology. Three of them – Chatterjee et al., 2013), Sanna et al. (2011) and Wang et al. (2012) – were
+retracted for fraudulent data. The retraction of Decety et al. (2015) deserves mentioning because the authors
+requested it after a reanalysis of the study data by other authors (Shariff et al., 2016) produced different
+results. The preceding findings were due to a coding error. In this case, independent scrutiny of data shared
+by the authors enabled the correction of the study findings.
+Most retracted studies were rarely cited, if ever: in Google Scholar, 15 retracted publications had citation
+counts of 0. Three quarters were cited less than 20 times. In all, studies on charitable behavior are rarely
+retracted; retracted studies are rarely cited, and the retraction rate is declining. These findings may be
+
+7
+
+interpreted two fundamentally different ways. One interpretation is that research on charitable giving is
+trustworthy and reliable. Apparently publishers find little cause for retraction of research on giving. Another
+option is that research on giving has not received much scrutiny, and is therefore less likely to be retracted.
+Retractions tell us something about the peer review process. The flaws in the retracted studies were serious
+enough to warrant withdrawal, but reviewers did not catch them before publication. As stated above, almost
+half of the retractions stated "peer review concerns" or "breach of policy by author" as the reason, compared
+to only 17% in the entire database. Peer review apparently does not reliably keep bad science out, and in
+some cases, the problem lies in the review process or in author misconduct.
+Availability of data greatly facilitates error detection. Yet transparency about data in the field of research on
+charitable giving is low. In 2023, less than half of empirical research papers in five journals (Voluntary Sector
+Review, Nonprofit Management and Leadership, Voluntas, NVSQ, and the Journal of Philanthropy and
+Marketing) provided any references to the data analyzed (Bekkers, 2023). Articles in NML and NVSQ were
+most likely to contain links to datafiles or information about data availability, but such information was
+given in only one out of five articles.
+
+How often does research on charitable giving misreport p-values?
+Of 667 publications that Statcheck could process, 306 (46%) produced some form of error. In 86 papers
+(13%) decision errors were found, where reported significance levels were different from the computed
+significance levels implied by the test statistics. Papers typically report multiple p-values. Of all 6,999
+p-values checked, 776 (11%) were errors, and 128 were decision errors (1.8%). Both proportions are rather
+high compared to previous estimates for communication science (8.8% and 1.3%, respectively) and social
+psychology (8.7% and 1.5%, respectively; Vermeulen et al., 2015). Also they are higher than for psychology as
+a whole (9.7% and 1.4%, respectively; Nuijten et al., 2016).
+89 of the 128 decision errors (70%) were favoring the study hypotheses, such that the authors incorrectly
+claimed a statistically significant relationship, when the test statistics actually indicated a non-significant
+relationship. This proportion is also higher than in communication science (65%; Vermeulen et al., 2015).
+We do not have a good explanation why the error rates in studies on giving are higher than in (social)
+psychology and communication science, and why a higher proportion of the errors are favoring study
+hypotheses. These two findings may reflect both honest mistakes as well as researcher degrees of freedom.
+Honest mistakes may have occurred in transcribing results from software to manuscripts. Researchers
+studying charitable giving may have received less training in statistics. It is also possible that studies on giving
+contain more errors because peer reviewers and editors are less able to detect such errors. The pronounced
+skew toward errors that favor the hypotheses suggests researcher degrees of freedom.
+
+What characterizes studies attempting to replicate previous findings?
+In research on charitable giving, replications are rare: they represent less than 1% of the total number of
+publications, which is less than in most other disciplines of the social and behavioral sciences (Bekkers,
+8
+
+2024c). Among the 66 studies that replicated studies on charitable giving as a dependent variable, 39 studies
+(59%) found results that were similar to the preceding study, 27 did not: 17 studies reported null findings,
+and 10 studies reported findings in contrast to the preceding study. These results are similar to results of a
+recent attempt to replicate a large number of findings from the social and behavioral sciences (Tyner et al.,
+2026).
+Unique findings. The majority of studies that sought to replicate a previous study on charitable behavior
+attempted to generalize the findings by using different data and conducting a different analysis than the
+preceding study (n = 41, 64%). Among these studies, the majority of replication results (n = 25, 61%)
+supported the preceding findings. Among the 25 studies that attempted to replicate a previous finding with
+either the same data or the same method, a similar proportion produced findings in line with previous
+results (n = 14, 56%). The difference is not significant (χ2 = .159, df = 1, p = .690).
+Publication process. 48 studies that attempted to replicate preceding findings on charitable giving were
+published in journal articles or book chapters (73%), 18 were not: 7 were dissertations, master theses or
+bachelor theses; 11 were working papers, preprints, or conference contributions. Among the 39 studies
+replicating previous findings that found results in line with the replicated study, a clear majority (n = 29,
+74%) was published. Among the 27 studies that found null or negative results, a similar proportion of
+studies (n = 19, 70%) was published. The difference is not significant (χ2 = .128, df = 1, p = .721).
+
+What can we learn from replications of research on giving?
+We present the reliable findings from replications by the primary mechanism examined in Table 1. Among
+the 66 studies on charitable behavior and charitable giving that attempted to replicate previous findings (see
+Appendix C) 60 examined at least one of the eight mechanisms. Attention to the mechanisms was unevenly
+distributed: material costs and benefits (19 replications), psychological costs and benefits (15), and efficacy
+(7) were most likely to be the primary mechanism examined.
+In the replications we identified, there is no reliable evidence supporting the regularities as stated in Bekkers
+& Wiepking (2011) on awareness of need, altruism, reputation, and values. The lack of reliable evidence for
+these mechanisms is not a result of a lack of research. There are plenty of studies, but there are no
+replications with similar results as the claims presented in Bekkers & Wiepking (2011) from studies that
+measured donations.
+Awareness of need. The highly cited “identifiable victim effect” (Jenni & Loewenstein, 1997), suggests that
+people find it easier to process information about the needs of a single individual than about the needs of a
+large number of individuals. Yet replications in field experiments (Lesner & Rasmussen, 2014;
+Thomas‐Walters & Raihani, 2017) do not find evidence for the original claim that opportunities to donate
+to a single, identifiable victim produce more donations than opportunities to donate to multiple, statistical
+victims. A recent registered report (Vu et al., 2024) also did not find support for the identified victim effect.
+In one field experiment, contemplation of needs of victims in prayer did not increase donations (Greenway,
+Schnitker, & Shepherd, 2018).
+
+9
+
+Table 1. Reliable findings from replications of studies on charitable giving, by primary mechanism
+Mechanism
+
+n
+
+Reliable findings
+
+Awareness of
+
+3
+
+-
+
+Solicitation
+
+4
+
+More giving after direct verbal requests (Andreoni et al., 2017)
+
+Material costs
+
+15
+
+More giving when the price of giving is lower (Davis et al., 2005), though
+
+need
+
+and benefits
+
+tax-price effects are smaller in France (Fack & Landais, 2010), Germany (Huck &
+Rasul, 2011), and the UK (Almunia et al., 2020)
+Less giving when donors receive material benefits (Naeem & Zaman, 2009, 2016;
+Newman & Shen, 2012)
+
+Altruism
+
+5
+
+Most donors do not give for purely altruistic reasons (Gangullia et al., 2020)
+
+Reputation
+
+6
+
+Cues of being watched do not increase giving (Saunders et al., 2016; Ekström,
+2012)
+Public recognition did not affect donations (Jung et al, 2023; Denis, Pecheux, &
+Warlop, 2020) or reduced donations (Lambarraa & Riener, 2015)
+
+Psychological
+
+19
+
+benefits
+
+More giving when price reductions are presented as matches instead of rebates
+(Bekkers, 2015; Davis et al., 2005; Sasaki, Kurokawa & Ohtake, 2022)
+More giving when people think about one unit first, and how many to give next
+(Marcinkiewicz, 2016; Diederich et al., 2021)
+Depicting a single, identified victim does not raise more money than multiple,
+statistical victims (Hart, Lane & Chinn, 2018)
+Sense of control explains why giving time is more attractive than giving money
+(Costillo & Malkoc, 2022)
+
+Values
+
+1
+
+-
+
+Efficacy
+
+7
+
+More giving when the overhead costs of fundraising organizations are lower
+(Gneezy et al., 2014)
+More giving when donations are more likely to help reach a fundraising target
+(Verhaert & Van den Poel, 2012)
+
+Altruism. Results of replication studies show that most people do not donate for purely altruistic reasons. In
+laboratory experiments with very clear instructions to students show that some of them indeed allocate
+funds provided to them in ways that maximize the well-being of others (Gandullia et al., 2020) as one would
+predict from pure altruism (Ottoni-Wilhelm, Vesterlund, & Xie, 2017). However, in ordinary situations,
+most donors do not respond to changes in the need for contributions when nonprofit organizations lose or
+gain government grants (De Wit & Bekkers, 2017, 2020). When customers can benefit a charity at no cost to
+themselves, they tend to do so, but they do not pay more to yield a larger benefit for the charity (Jung et al.,
+2017). A large field experiment in Alaska appealing to benefits for recipients (List et al., 2021) found that
+they raised less donations than appeals to the benefits for donors.
+
+10
+
+Reputation. The often cited result from an experiment among a lab study among a small sample of students
+that cues of being watched would increase donations (Haley & Fessler, 2005) is not reliable. A field
+experiment in Japan found it only when previous donations were larger (Oda & Ichihashi, 2016). It did not
+emerge from multiple follow-up experiments among larger numbers of participants, with null-findings in
+both online experiments (Bekkers, 2011; Saunders et al., 2016) as well as in field experiments (Ekström,
+2012; Jung et al., 2023).
+The claim that public recognition increases donations was neither replicated in a large set of field
+experiments in US shops (Jung et al, 2023), nor in an online experiment among Facebook users in France
+(Denis, Pecheux, & Warlop, 2020). Announcing that in-kind donations of books would be publicized did
+not increase donations in a field experiment in the UK (Cotterill, John & Richardson, 2013). Observability
+of donations did not increase gifts in a field experiment in cinemas in Germany (Dannenberg,
+Johansson-Stenman & Wetzel, 2022). Observability reduced giving among muslims in Morocco (Lamberaa
+& Riener, 2015), a finding that the authors attribute to giving norms discouraging public display of charity.
+In a registered report replicating a study on donor preferences, participants in an online experiment
+preferred charities that would keep donations anonymous (Chan & Feldman, 2025).
+Values. There is strong evidence that they are correlated with donation behavior (Bekkers &
+Ottoni-Wilhelm, 2016; Nilsson, Erlandsson & Västfjäll, 2020). Yet most field experiments - an exception is
+Grodeck & Schoenegger (2023) - have not found positive effects of moral appeals on donation behavior
+(Frohly et al., 2026). This pattern of results suggests that people with more prosocial values give more, but
+that reminding people of prosocial values does not make them give more. The highly cited finding that
+higher social class individuals display lower levels of giving behavior (Piff et al., 2010), potentially as a result
+of higher greed, narcissism and lower prosocial values, has met with failures to replicate (Korndörfer, Egloff
+& Schmukle, 2015; Stamos et al., 2020).
+We did find some evidence supporting the regularities on solicitation, material costs and benefits,
+psychological benefits, and efficacy. At the same time, we also found evidence qualifying or in two cases even
+consistently rejecting the regularities reported in preceding studies.
+Solicitation. Direct solicitations yielded more donations in two large field experiments in the US. At the same
+time, the same experiments showed that a quarter of persons did not open the door (Dellavigna, List &
+Malmendier, 2012). About one third of consumers in a supermarket in Boston avoided exposure to
+fundraisers (Andreoni, Rao & Trachtman, 2017) when they knew they would ask them to donate. The
+latter finding was not replicated in Alaska, where entering the supermarket through another door exposed
+shoppers to more extreme cold (Trachtman et al., 2015). Opera house donors in Germany gave 42% less
+when they knew a second solicitation would be coming (Adena & Huck, 2019). Students in Switzerland
+gave 33% less when solicited twice vs once (Grieder, Schmitz & Schubert, 2021). In a field experiment in
+Denmark, sending reminders to regular donors increased donations, but also unsubscriptions (Damgaard &
+Gravert, 2018). An analysis of panel survey data in the Netherlands (Bekkers, 2026) revealed that conversion
+rates of direct solicitations declined strongly in the past 20 years.
+
+11
+
+Material costs and benefits. For material costs, we found clear support of the regularity that price reductions
+encourage donations (Bekkers, 2015; Davis et al., 2005; Zhang, 2023). Tax price studies (Fack & Landais,
+2010; Almunia et al., 2020) and experiments (Huck & Rasul, 2011) tend to find smaller estimates than in
+previous research (Karlan & List, 2007; Peloza & Steel, 2005). For material benefits, a study in Pakistan that
+sought to repeat preceding findings that material benefits would encourage donations actually found the
+opposite result: unconditional gifts reduced giving (Naeem & Zaman, 2009, published in 2016). An
+experiment on thank you gifts found that they reduced donations among existing donors in the US
+(Newman & Shen, 2012; also see Fang & Bian, 2022).
+Psychological costs and benefits. In a ‘stress-test’ of preceding findings (Eckel & Grossman, 2003), the framing
+as price reductions in the form of matches by third parties rather than as rebates produced more giving in a
+replication study (Davis et al., 2005). A field test with earned money among survey participants in the
+Netherlands found that matches attract more donations than rebates (Bekkers, 2015). Similar results
+emerged from a study in Japan (Sasaki et al., 2022). Finally, a field experiment in Germany among donors to
+an opera house (Huck & Rasul, 2011) also found that matches increase donations.
+The finding that people give more when they think about one unit first, and how many to give next (Hsee et
+al., 2013) found support in two replications (Marcinkiewicz, 2016; Diederich et al., 2022; also see Diederich
+et al., 2023; Epperson et al., 2025). Two studies measuring donations in hypothetical situations (Karlsson et
+al., 2020; Maier et al., 2023) also found support for the unit asking effect.
+A series of replications (Kessler & Meier, 2014) suggest that effects of cognitive load manipulations
+(Loewenstein & Small, 2007) on giving are limited to situations in which people are not exposed to other
+information.
+Effects of mortality salience on giving have been much weaker in independent replications (Bruine de Bruin
+& Ulqinako, 2021; Roberts & Maxfield, 2019) than previously reported (Jonas, Schimel, Greenberg &
+Pyszczynski, 2002). One study in Norway measuring donation preferences found no effect (Sætrevik &
+Sjåstad, 2022).
+Field experiments with social information treatments have resulted in much smaller (Van Teunenbroek &
+Bekkers, 2019) or no effects (Murphy et al., 2015) than previously reported (Croson & Shang, 2008; Shang
+& Croson, 2009).
+Efficacy. In line with preceding results, replications have found that donors are responsive to information
+about the overhead costs of fundraising organizations, and give more when overhead costs are lower
+(Gneezy, Keenan & Gneezy, 2014; Portillo & Stinn, 2018; Charles, Sloan & Schubert, 2020). This finding
+also emerges from a study measuring willingness to donate (Hung, Berrett, & Ma, 2025). In addition, one
+experiment attempting to replicate findings on seed money - an intervention successfully applied by Boyan
+Slat to fund the Ocean Cleanup - found that participants give more often when their donations are more
+likely to help reach a fundraising target (Verhaert & Van den Poel, 2012).
+
+12
+
+Discussion
+Limitations: what are we missing in this analysis?
+To identify the largest possible number of replications, we used Google Scholar because this is the most
+comprehensive database of research (Martín-Martín et al., 2021). Compared to other databases such as
+Scopus and OpenAlex, Google Scholar includes research reports from a larger variety of sources such as
+dissertations, working papers, and preprints. The results indicate that these sources are particularly valuable
+because they tend to report less positive results. Relying on less comprehensive databases, we would have
+failed to find them, thereby sustaining the biases in the publication process that create the illusion that most
+studies support the hypotheses.
+Despite the comprehensiveness of our search strategy, the findings reported above are limited to a relatively
+small proportion of the entire body of published research on conditions that affect charitable giving. There
+will be studies that attempt to repeat previous findings on conditions that are affecting giving behavior that
+we did not find with the keywords “charitable behavior” and “charitable giving”.
+Furthermore, because our search strategy only produced studies that explicitly mentioned terms related to
+replication of research, the results may not fully represent the population of studies that can be considered
+to repeat previous findings. Authors repeating previous research may not always present their studies as
+such, especially if they work in a field where novelty has a high premium. In addition, when their results are
+different from the preceding study, they can anticipate pushback from the preceding study authors if they
+were to be invited to review the repeated study findings.
+Both limitations imply that our overview is incomplete. It is quite likely that we are missing insights on
+giving just because they used slightly different terms. Furthermore, we did not estimate effect sizes in
+replications and preceding studies. Our findings on publication bias have sobering implications for
+systematic reviews and meta-analyses that rely solely on published research. They should be read with
+caution.
+In our assessment of replications, we did not quantify effect sizes and compare them with the replicated
+studies. Our impression is that effect sizes in replication studies are smaller than in the studies they
+replicated, as in mass replication efforts (Open Science Collaboration, 2015; Camerer et al., 2018; Tyner et
+al., 2026). Particularly in studies testing the mechanisms of solicitation, material costs, reputation, and
+psychological costs and benefits replications found weaker effects than preceding studies.
+In the analysis of p-values we were limited by the software we used. We could only analyze studies for which
+we could download the full text and to manuscripts that adhered to APA reporting guidelines. Also, we
+could not analyze p-values from tables. Ideally we would also have analyzed p-values reported in
+unpublished research, and in journals that do not require compliance with APA guidelines. The error rate
+among all studies is likely to be higher than among those that we could analyze.
+
+13
+
+Future research: What’s next?
+It will not come as a surprise that the first recommendation for future research is that the current study
+should be repeated. The current results do not represent the entire field of research on philanthropy. A
+complete science of philanthropy cleanup should revisit all research on philanthropy, including studies on
+the organization and the effects of philanthropy. The field of research on giving is growing so fast that it is
+no longer feasible to collect, summarize, review, and analyze all studies by hand. Future work can use
+computational social science tools (Ma et al., 2023) to automate the identification and classification of
+replications. The database that we created for the current project by manually coded features of replications
+and preceding studies can serve as training data in the development of rule-based algorithms.
+Our second recommendation is that researchers should replicate findings on charitable giving more
+frequently and consistently, and should actively look for replications of promising findings before acting
+upon them in practice. Without the replications covered in the current paper, readers would have continued
+to believe that watching eyes, public recognition of donations, identified victims, and thank you gifts
+increase donations.
+A third recommendation is that future evidence syntheses should compare effect sizes in replications and
+preceding studies. In our sample, published studies did not present more positive results than unpublished
+studies. However, replications tended to find weaker main effects than the studies they replicated. To learn
+which interventions have reliable effects, it is important to have the complete picture. Registered reports are
+a solution to this problem. After a stringent peer review of the thoroughness of the design and methods,
+authors of registered reports can be sure of publication of their findings, regardless of whether they are
+positive, negative, or null. In psychology, only 44% of registered reports provide support for the study
+hypothesis, while 96% of traditional studies support the hypothesis (Scheel, Schijen & Lakens, 2021).
+A fourth recommendation is that peer review of research on charitable giving should enhance the scrutiny of
+statistical results. The field of nonprofit and philanthropy research has recently begun to discuss open
+science practices that may help to improve the reliability of knowledge (Bekkers et al., 2025). Nonprofit &
+Voluntary Sector Quarterly introduced a data and code review policy for manuscripts reporting results from
+experiments, requiring computational verification that the data and code produce the results reported in the
+manuscript (Bekkers, 2020). We recommend that journals publishing research based on other sources of
+data should also scrutinize numerical data and code before publication. In the disciplines that are more often
+sharing data and code, replication rates are higher (Miske et al., 2026). Our analyses of inconsistencies in
+p-values indicated that almost half of published studies we could process include errors. Even though
+authors, reviewers, editors, and journal production staff can easily identify them, these errors were not
+caught in peer review. This kind of error is just one example of a large number of questionable research
+practices that pollute the body of knowledge on giving. Using metacheck (DeBruine & Lakens, 2026) at the
+preprint stage or in peer review can prevent these errors.
+
+14
+
+Conclusion
+We find that both retractions and replications are rare in research on conditions that affect charitable giving.
+Furthermore, we find that reporting errors in statistical tests in research on charitable giving are more
+common than in other fields, and that they are more often favoring the hypotheses. Even if the errors are
+honest mistakes, their prevalence indicates that quality control mechanisms in research on charitable giving
+are working less effectively than in other fields.
+We answered our question which interventions have reliable effects on charitable giving behavior by a
+rigorous removal of all studies for which we have no evidence from replications by other scholars confirming
+the preceding results. We found that about 60% of replications yield similar conclusions as preceding studies,
+in line with recent replication attempts in the social and behavioral sciences (Tyner et al., 2026). Reductions
+of material costs, exposing people to direct solicitations, unit asking, matching, and lower overhead costs
+have reliably positive results in independent replications. We find that published findings on reputation and
+material benefits in charitable giving do not hold up against the scrutiny of scientific criticism through
+replications. Finally, we find no evidence for publication bias in replications. It is good to know that the
+science of philanthropy is self-correcting: researchers published replication failures, for instance with respect
+to reputation and material benefits. Increasing the scrutiny of research on charitable giving and publishing
+replications regardless of results in registered reports will further improve the robustness and reliability of
+research on charitable giving.
+
+15
+
+References
+References to replications analyzed are in Appendix C
+
+Aria, M., Le T., Cuccurullo, C., Belfiore, A. & Choe, J. (2024). openalexR: An R-Tool for Collecting
+Bibliometric Data from OpenAlex. The R Journal, 15(4), 167-180. https://doi.org/10.32614/RJ-2023-089.
+Bekkers, R. (2020). A Data Transparency Policy for Results Based on Experiments. July 8, 2020.
+https://renebekkers.wordpress.com/2020/07/08/a-data-transparency-policy-for-results-based-on-experimen
+ts/
+Bekkers, R. (2022a). Stained glass: A Critical Assessment of Transparency in Nonprofit Research. Research
+plan presented at the 51st ARNOVA Conference, November 18, 2022. https://osf.io/4re7g
+Bekkers, R. (2022b). Ten Meta Science Insights to Deal With the Credibility Crisis in the Social Sciences.
+SocArxiv Preprint, https://osf.io/preprints/socarxiv/rm4p8/
+Bekkers, R. (2023). Transparency in Nonprofit and Philanthropy Research. 11th ERNOP Conference,
+Zagreb, 29 June 2023. https://osf.io/kqd2j
+Bekkers, R. (2024a). Eight Mechanisms, Seventeen Years Later. November 7, 2024.
+https://renebekkers.wordpress.com/2024/11/07/eight-mechanisms-seventeen-years-later/
+Bekkers, R. (2024b). What We Really Know About Why People Give. ERNOP Webinar, December 11,
+2024. https://osf.io/jegvd
+Bekkers, R. (2024c). How often do we replicate previous research?
+https://renebekkers.wordpress.com/2024/03/08/how-often-do-we-replicate-previous-research/ March 8,
+2024.
+Bekkers, R. (2026). Prosocial values for the philanthropic commons. In: Understanding our Philanthropic
+Commons, edited by Brenda Bushouse, Brent Never, and Robert Christensen. Cambridge University Press.
+https://osf.io/mwkca/files/uyv3b
+Bekkers, R., Chapman, C., Prosser, A., Wiepking, P. & Meyer, M. (2025). Let us be clear: Why and how to
+improve data and methods transparency in nonprofit research. Voluntas, 36(4): 473 - 482.
+https://doi.org/10.1007/s11266-025-00736-0
+Bekkers, R. & Ottoni-Wilhelm, M. (2016). Principle of Care and Giving to Help People in Need. European
+Journal of Personality, 30(3): 240-257. http://dx.doi.org/10.1002/per.2057
+Bekkers, R. & Wiepking, P. (2007). Generosity and Philanthropy: A Literature Review. Report
+commissioned by the John Templeton Foundation.
+https://renebekkers.files.wordpress.com/2011/08/bekkers_wiepking_generosity_07.pdf
+
+16
+
+Bekkers, R. & Wiepking, P. (2011). A Literature Review of Empirical Studies of Philanthropy: Eight
+Mechanisms that Drive Charitable Giving. Nonprofit and Voluntary Sector Quarterly, 40(5): 924-973.
+https://doi.org/10.1177/0899764010380927
+Boyce, V., Mathur, M., & Frank, M. C. (2023). Eleven years of student replication projects provide evidence
+on the correlates of replicability in psychology. Royal Society Open Science, 10(11), 231240.
+https://doi.org/10.1098/rsos.231240
+Brembs, B. (2018). Prestigious Science Journals Struggle to Reach Even Average Reliability. Frontiers of
+Human Neuroscience, 12(37): 1‐7. https://doi.org/10.3389/fnhum.2018.00037
+Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., … & Wu, H. (2018).
+Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015.
+Nature Human Behaviour, 2(9), 637-644. https://doi.org/10.1038/s41562-018-0399-z
+Chan, M., & Feldman, G. (2025). Factors impacting effective altruism: Revisiting heuristics and biases in
+charity in a replication and extension registered report of Baron and Szymanska (2011). Royal Society Open
+Science, 12(5), 250290. https://doi.org/10.1098/rsos.250290
+Chatterjee, P., Rose, R. L., & Sinha, J. (2013). RETRACTED ARTICLE: Why money meanings matter in
+decisions to donate time and money. Marketing Letters, 24, 109-118.
+https://doi.org/10.1007/s11002-012-9215-0
+Chopra, F., Haaland, I., Roth, C., & Stegmann, A. (2024). The null result penalty. The Economic Journal,
+134(657), 193-219. https://doi.org/10.1093/ej/uead060
+Cotterill, S., John, P., & Richardson, L. (2013). The Impact of a Pledge Request and the Promise of
+Publicity: A Randomized Controlled Trial of Charitable Donations. Social Science Quarterly, 94(1),
+200–216. https://doi.org/10.1111/j.1540-6237.2012.00896.x
+Croson, R., & Shang, J. Y. (2008). The impact of downward social information on contribution decisions.
+Experimental Economics, 11(3), 221-233. https://doi.org/10.1007/s10683-007-9191-z
+Decety, J., Cowell, J. M., Lee, K., Mahasneh, R., Malcolm-Smith, S., Selcuk, B., & Zhou, X. (2015).
+RETRACTED: The Negative Association between Religiousness and Children’s Altruism across the
+World. Current Biology, 25(22), 2951-2955.
+https://www.cell.com/current-biology/fulltext/S0960-9822(15)01167-7
+DellaVigna, S., List, J. A., & Malmendier, U. (2012). Testing for altruism and social pressure in charitable
+giving. Quarterly Journal of Economics, 127(1), 1-56. https://doi.org/10.1093/qje/qjr050
+Denis, E., Pecheux, C., & Warlop, L. (2020). When public recognition inhibits prosocial behavior: The case
+of charitable giving. Nonprofit and Voluntary Sector Quarterly, 49(5), 951-968.
+https://doi.org/10.1177/0899764020911203
+
+17
+
+De Wit, A., & Bekkers, R. (2017). Government support and charitable donations: A meta-analysis of the
+crowding-out hypothesis. Journal of Public Administration Research and Theory, 27(2), 301-319.
+https://doi.org/10.1093/jopart/muw044
+De Wit, A., & Bekkers, R. (2020). Can charitable donations compensate for a reduction in government
+funding? The role of information. Public Administration Review, 80(2), 294-304.
+https://doi.org/10.1111/puar.13154
+Diederich, J., Epperson, R., and Goeschl, T. (2023). How to design the ask? Funding units vs. giving money.
+AWI Discussion Paper No. 698, Heidelberg University.
+https://archiv.ub.uni-heidelberg.de/volltextserver/33827/1/Diederich_Epperson_Goeschl_2023_dp731.pd
+f
+Eckel, C. C., & Grossman, P. J. (2003). Rebate versus matching: does how we subsidize charitable
+contributions matter? Journal of Public Economics, 87(3-4), 681-701.
+https://doi.org/10.1016/S0047-2727(01)00094-9
+Epperson, R., Diederich, J., & Goeschl, T. (2025). How to Design the Ask? Funding Units vs. Giving
+Money. Management Science, 71(4), 2830-2846. https://doi.org/10.1287/mnsc.2021.00157
+Fanelli, D. (2010). “Positive” results increase down the hierarchy of the sciences. PloS One, 5(4), e10068.
+https://doi.org/10.1371/journal.pone.0010068
+Fanelli, D. (2012). Negative results are disappearing from most disciplines and countries. Scientometrics,
+90(3), 891-904. https://doi.org/10.1007/s11192-011-0494-7
+Ferguson, C. J., & Heene, M. (2012). A vast graveyard of undead theories: Publication bias and
+psychological science’s aversion to the null. Perspectives on Psychological Science, 7(6), 555-561.
+https://doi.org/10.1177/1745691612459059
+Franco, A., Malhotra, N., & Simonovits, G. (2014). Publication bias in the social sciences: Unlocking the file
+drawer. Science, 345(6203), 1502-1505. https://doi.org/10.1126/science.1255484
+Freese, J., & Peterson, D. (2017). Replication in social science. Annual Review of Sociology, 43, 147-165.
+https://doi.org/10.1146/annurev-soc-060116-053450
+Frohly, C., Galbiati, R., Henry, E., & Jacquemet, N. (2026). Forced to face the truth: A meta-analysis on the
+effectiveness of moral reminders. https://shs.hal.science/halshs-05456784/
+Gelman, A., & Loken, E. (2014). The statistical crisis in science data-dependent analysis—a “garden of
+forking paths”—explains why many statistically significant comparisons don’t hold up. American Scientist,
+102(6), 460-465. https://www.jstor.org/stable/43707868
+Jonas, E., Schimel, J., Greenberg, J., & Pyszczynski, T. (2002). The Scrooge effect: Evidence that mortality
+salience increases prosocial attitudes and behavior. Personality and Social Psychology Bulletin, 28(10),
+1342-1353. https://doi.org/10.1177/014616702236834
+
+18
+
+Korndörfer, M., Egloff, B., & Schmukle, S. C. (2015). A large scale test of the effect of social class on
+prosocial behavior. PLoS One, 10(7), e0133193. https://doi.org/10.1371/journal.pone.0133193
+Gneezy, U., Keenan, E. A., & Gneezy, A. (2014). Avoiding overhead aversion in charity. Science, 346(6209),
+632-635. https://doi.org/10.1126/science.1253932
+Grodeck, B., & Schoenegger, P. (2023). Demanding the morally demanding: Experimental evidence on the
+effects of moral arguments and moral demandingness on charitable giving. Journal of Behavioral and
+Experimental Economics, 103, 101988. https://doi.org/10.1016/j.socec.2023.101988
+Harbaugh, W. T. (1998). The prestige motive for making charitable transfers. American Economic Review,
+88(2), 277-282. https://www.jstor.org/stable/116933
+Hart, P.S., Lane, D., & Chinn, S. (2018). The elusive power of the individual victim: Failure to find a
+difference in the effectiveness of charitable appeals focused on one compared to many victims. PLoS ONE,
+13(7): e0199535. https://doi.org/10.1371/journal.pone.0199535
+Hartshorne, J. K., & Schachner, A. (2012). Tracking replicability as a method of post-publication open
+evaluation. Frontiers in Computational Neuroscience. 6, 8, https://doi.org/10.3389/fncom.2012.00008
+Holzmeister, F., Johannesson, M., Böhm, R., Dreber, A., Huber, J., & Kirchler, M. (2024). Heterogeneity
+in effect size estimates. Proceedings of the National Academy of Sciences, 121(32), e2403490121.
+https://doi.org/10.1073/pnas.2403490121
+Hopewell, S., Collins, G. S., Boutron, I., Yu, L. M., Cook, J., Shanyinde, M., ... & Altman, D. G. (2014).
+Impact of peer review on reports of randomised trials published in open peer review journals: retrospective
+before and after study. BMJ, 349. https://doi.org/10.1136/bmj.g4145
+Hsee, C. K., Zhang, J., Lu, Z. Y., & Xu, F. (2013). Unit asking: A method to boost donations and beyond.
+Psychological Science, 24(9), 1801-1808. https://doi.org/10.1177/0956797613482947
+Ioannidis, J., Stanley, T. D., & Doucouliagos, H. (2017). The Power of Bias in Economics Research.
+Economic Journal, 127(605): F236-F265. https://doi.org/10.1111/ecoj.12461
+Jenni, K. E., & Loewenstein, G. F. (1997). Explaining the Identifiable Victim Effect. Journal of Risk and
+Uncertainty, 14, 235–257. https://doi.org/10.1023/A:1007740225484
+Kühberger, A., Fritz, A., & Scherndl, T. (2014). Publication bias in psychology: A diagnosis based on the
+correlation between effect size and sample size. PLoS One, 9(9), e105825.
+https://doi.org/10.1371/journal.pone.0105825
+Kvarven, A., Strømland, E. & Johannesson, M. (2020). Comparing meta-analyses and preregistered
+multiple-laboratory replication projects. Nature Human Behavior, 4: 423-434.
+https://doi.org/10.1038/s41562-019-0787-z
+Lakens, D. & DeBruine, L. (2026). metacheck: Check Scientific Papers for Best Practices.
+https://github.com/scienceverse/metacheck
+
+19
+
+Lambarraa, F., & Riener, G. (2015). On the norms of charitable giving in Islam: Two field experiments in
+Morocco. Journal of Economic Behavior & Organization, 118, 69-84.
+https://doi.org/10.1016/j.jebo.2015.05.006
+Lesner, T. H., & Rasmussen, O. D. (2014). The identifiable victim effect in charitable giving: evidence from
+a natural field experiment. Applied Economics, 46(36), 4409-4430.
+https://doi.org/10.1080/00036846.2014.962226
+List, J. A., Murphy, J. J., Price, M. K., & James, A. G. (2021). An experimental test of fundraising appeals
+targeting donor and recipient benefits. Nature Human Behaviour, 5(10), 1339-1348.
+https://doi.org/10.1038/s41562-021-01095-8
+Littel, M.J. (2025). Misinterpretation of p-values in philanthropy research. https://osf.io/9v5km
+Loewenstein, G., & Small, D. A. (2007). The scarecrow and the tin man: The vicissitudes of human
+sympathy and caring. Review of General Psychology, 11(2), 112-126.
+https://doi.org/10.1037/1089-2680.11.2.112
+Ma, J., Ebeid, I.A., De Wit, A., Xu, M., Yang, Y., Bekkers, R. & Wiepking, P. (2023). Computational Social
+Science for Nonprofit Studies: Developing a Toolbox and Knowledge Base for the Field. Voluntas, 34: 52-63.
+https://osf.io/g9d8u/
+Martín-Martín, A., Thelwall, M., Orduna-Malea, E., & Delgado López-Cózar, E. (2021). Google Scholar,
+Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI: a multidisciplinary
+comparison of coverage via citations. Scientometrics, 126(1), 871-906.
+https://doi.org/10.1007/s11192-020-03690-4
+Miske et al. (2026). Investigating the reproducibility of the social and behavioural sciences. Nature, 652:
+126–134. https://doi.org/10.1038/s41586-026-10203-5
+Karlsson, H., Hellström, S., Moche, H., & Västfjäll, D. (2020). Unit Asking—a method for increasing
+donations: A replication and extension. Judgment and Decision Making, 15(6), 989-993.
+https://doi.org/10.1017/S1930297500008184
+Muradchanian, J., Hoekstra, R., Kiers, H., & van Ravenzwaaij, D. (2023). The role of results in deciding to
+publish: A direct comparison across authors, reviewers, and editors based on an online survey. PLoS One,
+18(10), e0292279. https://doi.org/10.1371/journal.pone.0292279
+Nilsson, A., Erlandsson, A., & Västfjäll, D. (2020). Moral foundations theory and the psychology of
+charitable giving. European Journal of Personality, 34(3), 431-447.
+https://journals.sagepub.com/doi/pdf/10.1002/per.2256
+Nuijten, M. B. & Epskamp, S. (2024). statcheck: Extract statistics from articles and recompute p-values. R
+package version 1.5.0. Web implementation at https://statcheck.io
+
+20
+
+Nuijten, M. B., Hartgerink, C. H., Van Assen, M. A., Epskamp, S., & Wicherts, J. M. (2016). The
+prevalence of statistical reporting errors in psychology (1985–2013). Behavior Research Methods, 48(4),
+1205-1226. https://doi.org/10.3758/s13428-015-0664-2
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science,
+349(6251). https://doi.org/10.1126/science.aac4716
+Ottoni-Wilhelm, M., Vesterlund, L., & Xie, H. (2017). Why do people give? Testing pure and impure
+altruism. American Economic Review, 107(11), 3617-3633. https://doi.org/10.1257/aer.20141222
+Piff, P. K., Kraus, M. W., Côté, S., Cheng, B. H., & Keltner, D. (2010). Having less, giving more: the
+influence of social class on prosocial behavior. Journal of Personality and Social Psychology, 99(5), 771-784.
+https://doi.org/10.1037/a0020092
+Portillo, J. E., & Stinn, J. (2018). Overhead aversion: Do some types of overhead matter more than others?
+Journal of Behavioral and Experimental Economics, 72, 40-50. https://doi.org/10.1016/j.socec.2017.11.003
+Retraction Watch (2024). Retraction Watch Database. New York: the Center for Research Integrity.
+Downloaded on 4 November 2024. https://gitlab.com/crossref/retraction-watch-data
+Rosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3),
+638-641. https://doi.org/10.1037/0033-2909.86.3.638
+Sætrevik, B., & Sjåstad, H. (2022). Mortality salience effects fail to replicate in traditional and novel
+measures. Meta-psychology, 6. https://doi.org/10.15626/MP.2020.2628
+Sanna, L. J., Chang, E. C., Miceli, P. M., & Lundberg, K. B. (2011). RETRACTED: Rising up to higher
+virtues: Experiencing elevated physical height uplifts prosocial actions. Journal of Experimental Social
+Psychology, 47, 472–476. https://doi.org/10.1016/j.jesp.2010.12.013
+Schäfer, T., & Schwarz, M. A. (2019). The meaningfulness of effect sizes in psychological research:
+Differences between sub-disciplines and the impact of potential biases. Frontiers in Psychology, 10, 813.
+https://doi.org/10.3389/fpsyg.2019.00813
+Scheel, A. M., Schijen, M. R., & Lakens, D. (2021). An excess of positive results: Comparing the standard
+Psychology literature with Registered Reports. Advances in Methods and Practices in Psychological Science,
+4(2). https://doi.org/10.1177/25152459211007467
+Shang, J., & Croson, R. (2009). A field experiment in charitable contribution: The impact of social
+information on the voluntary provision of public goods. The Economic Journal, 119(540), 1422-1439.
+https://doi.org/10.1111/j.1468-0297.2009.02267.x
+Shariff, A. F., Willard, A. K., Muthukrishna, M., Kramer, S. R., & Henrich, J. (2016). What is the
+association between religious affiliation and children’s altruism?. Current Biology, 26(15), R699-R700.
+https://doi.org/10.1016/j.cub.2016.06.031
+
+21
+
+Siddaway, A. P., Wood, A. M., & Hedges, L. V. (2019). How to do a systematic review: a best practice guide
+for conducting and reporting narrative reviews, meta-analyses, and meta-syntheses. Annual Review of
+Psychology, 70(1), 747-770. https://doi.org/10.1146/annurev-psych-010418-102803
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in
+data collection and analysis allows presenting anything as significant. Psychological Science, 22(11),
+1359-1366. https://doi.org/10.1177/0956797611417632
+Smith, R. (2010). Classical peer review: an empty gun. Breast Cancer Research, 12 (S4), S13.
+https://doi.org/10.1186/bcr2742
+Stamos, A., Lange, F., Huang, S. C., & Dewitte, S. (2020). Having less, giving more? Two preregistered
+replications of the relationship between social class and prosocial behavior. Journal of Research in
+Personality, 84, 103902. https://doi.org/10.1016/j.jrp.2019.103902
+Stephen, D. (2022). Peer reviewers equally critique theory, method, and writing, with limited effect on the
+final content of accepted manuscripts. Scientometrics, 127(6), 3413-3435.
+https://doi.org/10.1007/s11192-022-04357-y
+Trachtman, H., Steinkruger, A., Wood, M., Wooster, A., Andreoni, J., Murphy, J. J., & Rao, J. M. (2015).
+Fair weather avoidance: Unpacking the costs and benefits of “avoiding the ask”. Journal of the Economic
+Science Association, 1(1), 8-14. https://doi.org/10.1007/s40881-015-0006-2
+Tyner, A.H., Abatayo, A.L., Daley, M., et al. (2026). Investigating the replicability of the social and
+behavioural sciences. Nature, 652: 143–150. https://doi.org/10.1038/s41586-025-10078-y
+Vermeulen, I., Beukeboom, C. J., Batenburg, A., Avramiea, A., Stoyanov, D., van de Velde, B., & Oegema,
+D. (2015). Blinded by the light: How a focus on statistical “significance” may cause p-value misreporting and
+an excess of p-values just below . 05 in communication science. Communication Methods and Measures,
+9(4), 253-279. https://doi.org/10.1080/19312458.2015.1096333
+Wang, C. C., Cheng, Y. Y., Chiou, W. B., & Kung, C. C. (2012). Shame for money: Shame enhances the
+incentive value of economic resources–RETRACTED. Judgment and Decision Making, 7(1), 77-85.
+https://doi.org/10.1017/S1930297500001856
+Youyou, W., Yang, Y., & Uzzi, B. (2023). A discipline-wide investigation of the replicability of Psychology
+papers over the past two decades. Proceedings of the National Academy of Sciences, 120(6), e2208863120.
+https://doi.org/10.1073/pnas.2208863120
+
+22
+
+Appendix A. Data and Methods details
+To identify the largest possible number of replications and retractions of studies on charitable giving, we
+searched Google Scholar. We used the exact same search terms as in Bekkers & Wiepking (2011): “charitable
+behavior”, “charitable giving”, “prosocial behavior”, “philanthropy”, “altruism”, and “donations”. Figure
+A1 shows the growth of the number of search results for these 6 keywords in the period 2000 - 2023 in
+searches conducted in November 2024. For “charitable behavior”, the increase from 40 results in 2000 to
+503 in 2023 represents a growth of 1258%. For “charitable giving”, the growth from 522 in 2000 to 4,570 in
+2023 is 522%. Strong growth is also evident for “prosocial behavior” from 1,580 in 2000 to 18,600 in 2023
+(1177%). For the other keywords growth rates are somewhat smaller: 413% for “philanthropy”, 280% for
+“altruism”, and 231% for “donations”. In all years, the largest set of results emerged for “donations”,
+exceeding 90,000 in 2020. The number of results for “donations” amounted to 1.5 million results over the
+period 2000-2023. The number of search results for the keywords “philanthropy”, “altruism” and
+“donations” declined somewhat after 2020, while “charitable behavior” and “charitable giving” continued to
+grow. We note that discrepancies will arise when these searches are conducted again because Google
+continuously updates the Scholar database, adding newly indexed records and reordering the ranks of search
+results.
+
+Figure A1. Number of results in Google Scholar for 6 keywords, 2000-2023
+
+The figure shows the number of search results in Google Scholar for six of the seven keywords used in Bekkers & Wiepking (2007; 2011). Note
+that the vertical axis is displayed on a logarithmic (base 10) scale.
+Source: search conducted on 4 November 2024, reported in Bekkers (2024b), https://osf.io/5thj9/files/jxkgs.
+
+23
+
+Identifying retractions of studies on charitable giving
+To identify studies on charitable giving that were retracted, we (RB) searched Google Scholar in November
+2024 for the 6 keywords, adding “retracted” and “retraction”. These searches produced a total number of n
+= 204,000 records, including duplicates. For each search, RB manually screened the titles and abstracts
+displayed, until three pages of results in a row did not include retracted studies. Links to search strings are on
+tab “GS Results” and metadata of retracted studies are on tab “All” of https://osf.io/5thj9/files/ywvth.
+Assessments of retracted studies (by SKM and RB) are in https://osf.io/5thj9/files/k3gwn. On 4 November
+2024 we downloaded the Retraction Watch database and matched the retracted studies identified through
+the Google Scholar search. The Stata do file https://osf.io/5thj9/files/jrucw produces the results reported in
+the manuscript and additional results. The output log including all results is https://osf.io/5thj9/files/xdrc3.
+
+Identifying inconsistent test statistics and decision errors in research on charitable giving
+We fully report the data and methods used to identify inconsistencies in test statistics reported in research on
+charitable giving in Littel (2025), https://osf.io/9v5km. We (RB) created a stratified purposive sample of 24
+articles, reflecting 2 to 4 key publications for each of the eight mechanisms in charitable giving Bekkers and
+Wiepking (2011). We provide the list of seed articles below. Next, we (ML) used the snowball function of
+the ROpenalex package (Aria et al., 2024) and identified 7412 papers that cited at least one of the seed
+articles. The pdfs of 3702 of these papers could be downloaded automatically by Zotero. We (ML) applied
+the R package metacheck (DeBruine & Lakens, 2026) to convert the pdfs into XML files, enabling targeted
+search for test statistics and assessment of their consistency with the statchek module (Nuijten & Epskamp,
+2024). A limitation of statcheck is that it can only process manuscripts adhering to reporting guidelines for
+statistical tests issued by the American Psychological Association. The APA guidelines are used in journals
+within the discipline of psychology and related fields. General interest journals such as Science, the
+Proceedings of the National Academy of Sciences (PNAS), Nature, Nature Human Behavior, and journals of
+disciplines other than psychology, notably economics, public administration, biology, and sociology, do not
+require authors to report statistical tests according to the APA guidelines. Articles in these journals are more
+likely to report p-values in tables with symbols such as asterisks (*) for various significance levels. Statcheck
+cannot process p-values reported in this manner. As a result, statcheck could only analyze a minority of
+studies (n = 659, 18%) citing one of the seed articles.
+In the pdfs in which statcheck detected precise p-values and test statistics, 306 (46.4%) contained some kind
+of erroneous test statistic or p-value. An error was classified as a decision error when it made the difference
+between being above or below the common .05 threshold. For example, if the reported p-value is .045 while
+the computed p-value is .055, this constitutes a decision error since one of them is statistically significant at
+the conventional p = .05 threshold, while the other is not. A decision error was classified as favoring the
+study hypothesis when the reported result of the statistical supports the hypothesis while the computed
+p-value does not.
+
+24
+
+Appendix B. Seed articles for citation search in OpenAlex
+Alpizar, F., Carlsson, F., & Johansson-Stenman, O. (2008). Does context matter more for hypothetical than
+for actual contributions? Evidence from a natural field experiment. Experimental Economics, 11(3),
+299–314. https://doi.org/10.1007/s10683-007-9194-9
+Basil, D. Z., Ridgway, N. M., & Basil, M. D. (2006). Guilt appeals: The mediating effect of responsibility.
+Psychology and Marketing, 23(12), 1035–1054. https://doi.org/10.1002/mar.20145
+Bennett, R. (2003). Factors underlying the inclination to donate to particular types of charity. International
+Journal of Nonprofit and Voluntary Sector Marketing, 8(1), 12–29. https://doi.org/10.1002/nvsm.198
+Dolinski, D., Grzyb, T., Olejnik, J., Prusakowski, S., & Urban, K. (2005). Let’s Dialogue About Penny:
+Effectiveness of Dialogue Involvement and Legitimizing Paltry Contribution Techniques. Journal of Applied
+Social Psychology, 35(6), 1150–1170. https://doi.org/10.1111/j.1559-1816.2005.tb02164.x
+Doob, A. N., & McLaughlin, D. S. (1989). Ask and You Shall be Given: Request Size and Donations to a
+Good Cause. Journal of Applied Social Psychology, 19(12), 1049–1056.
+https://doi.org/10.1111/j.1559-1816.1989.tb01238.x
+Fong, C. M. (2007). Evidence from an Experiment on Charity to Welfare Recipients: Reciprocity, Altruism
+and the Empathic Responsiveness Hypothesis. The Economic Journal, 117(522), 1008–1024.
+https://doi.org/10.1111/j.1468-0297.2007.02076.x
+Freedman, J. L., & Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique.
+Journal of Personality and Social Psychology, 4(2), 195–202. https://doi.org/10.1037/h0023552
+Haley, K. J., & Fessler, D. M. T. (2005). Nobody’s watching? Evolution and Human Behavior, 26(3),
+245–256. https://doi.org/10.1016/j.evolhumbehav.2005.01.002
+Harbaugh, W. T., Mayr, U., & Burghart, D. R. (2007). Neural Responses to Taxation and Voluntary Giving
+Reveal Motives for Charitable Donations. Science, 316(5831), 1622–1625.
+https://doi.org/10.1126/science.1140738
+Jackson, N. C., & Mathews, R. M. (1995). Using Public Feedback to Increase Contributions to a
+Multipurpose Senior Center. Journal of Applied Behavior Analysis, 28(4), 449–455.
+https://doi.org/10.1901/jaba.1995.28-449
+Karlan, D., & List, J. A. (2007). Does Price Matter in Charitable Giving? Evidence from a Large-Scale
+Natural Field Experiment. American Economic Review, 97(5), 1774–1793.
+https://doi.org/10.1257/aer.97.5.1774
+Kingma, B. R. (1989). An Accurate Measurement of the Crowd-out Effect, Income Effect, and Price Effect
+for Charitable Contributions. Journal of Political Economy, 97(5), 1197–1207.
+https://doi.org/10.1086/261649
+
+25
+
+Lindskold, S., Forte, R. A., Haake, C. S., & Schmidt, E. K. (1977). The Effects of Directness of Face-to-Face
+Requests and Sex of Solicitor on Streetcorner Donations. The Journal of Social Psychology, 101(1), 45–51.
+https://doi.org/10.1080/00224545.1977.9923982
+List, J. A., & Lucking‐Reiley, D. (2002). The Effects of Seed Money and Refunds on Charitable Giving:
+Experimental Evidence from a University Capital Campaign. Journal of Political Economy, 110(1), 215–233.
+https://doi.org/10.1086/324392
+List, J. A., Murphy, J. J., Price, M. K., & James, A. G. (2021). An experimental test of fundraising appeals
+targeting donor and recipient benefits. Nature Human Behaviour, 5(10), 1339-1348.
+https://doi.org/10.1038/s41562-021-01095-8
+Okten, C., & Weisbrod, B. A. (2000). Determinants of donations in private nonprofit markets. Journal of
+Public Economics, 75(2), 255–272. https://doi.org/10.1016/S0047-2727(99)00066-3
+Pancer, S. M., McMullen, L. M., Kabatoff, R. A., Johnson, K. G., & Pond, C. A. (1979). Conflict and
+avoidance in the helping situation. Journal of Personality and Social Psychology, 37(8), 1406–1411.
+https://doi.org/10.1037/0022-3514.37.8.1406
+Parsons, L. M. (2007). The Impact of Financial Information and Voluntary Disclosures on Contributions
+to Not-For-Profit Organizations. Behavioral Research in Accounting, 19(1), 179–196.
+https://doi.org/10.2308/bria.2007.19.1.179
+Payne, A. A. (1998). Does the government crowd-out private donations? New evidence from a sample of
+non-profit firms. Journal of Public Economics, 69(3), 323–345.
+https://doi.org/10.1016/S0047-2727(98)00005-X
+Peloza, J., & Steel, P. (2005). The Price Elasticities of Charitable Contributions: A Meta-Analysis. Journal of
+Public Policy & Marketing, 24(2), 260–272. https://doi.org/10.1509/jppm.2005.24.2.260
+Satow, K. L. (1975). Social approval and helping. Journal of Experimental Social Psychology, 11(6), 501–509.
+https://doi.org/10.1016/0022-1031(75)90001-3
+Small, D. A., & Simonsohn, U. (2008). Friends of Victims: Personal Experience and Prosocial Behavior.
+Journal of Consumer Research, 35(3), 532–542. https://doi.org/10.1086/527268
+Wagner, C., & Wheeler, L. (1969). Model, need, and cost effects in helping behavior. Journal of Personality
+and Social Psychology, 12(2), 111–116. https://doi.org/10.1037/h0027569
+Wilhelm, M.O., & Bekkers, R. (2010). Helping Behavior, Dispositional Empathic Concern, and the
+Principle of Care. Social Psychology Quarterly, 73(1): 11-32. https://doi.org/10.1177/0190272510361435
+
+26
+
+Identifying replications
+To identify replications, we first used two rule-based search strategies on Google Scholar. To keep the scope
+of our efforts within feasible bounds, we started our search for replications in studies indexed under the
+keyword “charitable behavior” because it produced the smallest number of results. Within this set, we
+followed an inclusive approach. We added the wildcard character * after the stem of replicate, searching for
+“replicat*”, so that we would find studies that contained “replicated”, “replicate”, “replicates”, “replicating”,
+and “replication”. Having learned from this search that a large proportion of search results merely
+mentioned replication but were not actual replications themselves, we used a more restrictive approach for
+the keyword “charitable giving”. We added only those replications that had not shown up in the previous
+search. Finally, we added replications we knew about that had not yet been identified through the rule-based
+searches. Figure A2 gives an overview of our search efforts.
+
+Figure A2. Identified, screened, and included studies
+
+For all replication studies, we created the coding scheme below and assessed all studies. The resulting dataset
+is available at https://osf.io/5thj9/files/zucw3, and the code producing the results reported is at
+https://osf.io/5thj9/files/t3puq. The output is at https://osf.io/5thj9/files/e9jqu.
+
+27
+
+Replications of studies on “charitable behavior”
+In November 2024, we (RB) searched Google Scholar for “replicat*” to identify terms related to replication
+in research reports on “charitable behavior” from the years 2005-2023, producing 1,213 results. Citation
+counts, bibliographic details of replications and further details are on tab “"charitable behavior" replicat” of
+https://osf.io/5thj9/files/jxkgs.
+We stratified the results by year of publication and screened them in four steps: 1) we manually inspected all
+titles and text fragments; 2) for studies that we deemed likely to repeat a previous study we visited the URLs
+and read the abstracts; 3) if the abstract suggested that the study repeated a previous study, we downloaded
+the full text; 4) we searched the full text and coded the meaning of the sentences containing “replicat*”.
+Among the 1,213 search results we identified, 34 results actually replicated a previous study. We removed 2
+working papers of which the published version also showed up in the search. In our main analysis we leave
+out 7 studies that did not analyze charitable giving behavior as a dependent variable, but instead examined
+intentions to give, or used it as an independent variable. Appendix B below lists the 25 unique results with
+prefix [A].
+Mentions of terms related to replication increased strongly, but the number of actual replications hardly
+increased (see Figure A3). We interpret this pattern as a growing frequency of mentions as an increasing
+awareness of the importance of replication, and a growing gap with the actual practice of replication.
+A3. Number of results in Google Scholar for “charitable behavior” + replicat* and actual replications,
+2000-2023
+
+The figure shows the number of search results in Google Scholar in November 2024 for “charitable behavior” and replication per year, and the
+number of actual replications. Source: https://osf.io/5thj9/files/jxkgs.
+
+28
+
+For each year, RB counted how terms related to replication were mentioned. For 1,179 search results on
+“charitable behavior” and “replicat*”, the abstracts and full text search results indicated that the studies did
+not repeat a previous study by other scholars. Across all years, about 31% of the search results were ‘internal
+replications’, building on previous findings by the same authors (“Study 2 partly replicates the findings of
+Study 1”). For about 15% of the search results terms related to replication were recommendations for future
+research, typically in the discussion section (“future research should replicate our findings”). For 6% of the
+search results terms related to replication appeared in the literature review section (“Previous replication
+attempts have been unsuccessful”). Five percent (5%) of search results were studies that did not measure
+charitable giving. Most of the other mentions occurred in sentences offering substantive examples (e.g.,
+replication of DNA), discussion of the robustness of study findings (“subsample analyses replicating our
+main analyses”) or the application of study findings in practice (“our results may be replicated in fundraising
+campaigns”). For one third of the results (33%), the study title and text fragment did not contain content
+indicating that the study was repeating a previous study. For a subset of these results we looked up the full
+text to check the assumption that they were not replications, and found no studies that were replications. In
+the screening of search results we noticed that studies self-identifying as a replication in the title or abstract
+were much more likely to be replications than studies that mentioned terms related to replication elsewhere
+in the text.
+
+Replications of studies on “charitable giving”
+We (RB, HF, AG) repeated the steps above for “charitable giving”, in a refined search, adding only
+“replication” to get more relevant results. In November and December 2024, the search resulted in 17,300
+search results. RB screened the first 15 pages containing 150 results, identified 20 replications, and coded
+them. In May 2026, the number of search results had increased to 18,500, and the rank order had changed.
+AG and HF screened the first 34 pages containing 340 results, identified 8 more replications of studies that
+qualified our criteria, and coded them. Appendix B lists them with prefix [B]. Due to time constraints, we
+had to stop screening the results after 34 pages. As a result, the review is not complete, and we may have
+missed some replications. We did notice that the number of actual replications declined strongly after page
+30. Pages 30 - 34 yielded only 2 replications that satisfied our criteria and which we had not found
+previously.
+Complementing the results from the two replicable search strategies, we also included 13 replications [C]
+that we knew about, but had not yet shown up in the search results.
+
+29
+
+Coding scheme
+Variable
+
+Label
+
+Coding instructions
+
+stID
+
+study identifier
+
+count indicator
+
+URL
+
+the URL of the DOI
+of the study
+
+Look for URLs starting with https://doi.org/. Avoid URLs
+unique to VU Amsterdam or your university library
+
+DOI
+
+the digital object
+identifier of the
+replication study
+
+only the DOI number, without DOI:
+
+pubyear
+
+year of initial
+publication
+
+year of online first / early publication if the study appeared
+online before it appeared in a printed edition
+
+reference
+
+bibliographic reference copy and paste from Google Scholar, check page numbers
+
+GScit
+
+number of citations in
+Google Scholar
+
+enter the number "cited by"
+
+Studypub
+
+type of publication
+
+follow Item Type values in Zotero:1 = Journal article, 2 =
+Thesis, 3 = Preprint or working paper, 4 = Conference Paper
+
+whichstudy
+
+for papers reporting
+multiple studies:
+which study was
+coded
+
+enter the number of the study that you coded
+
+empirical
+
+the study presents new
+analyses of empirical
+data, either newly
+collected or existing
+data
+
+Conceptual studies developing a theory or hypothesis and
+studies summarizing previous research without a new
+analysis are coded 0. For papers that do not report on
+empirical analyses the columns DV and following are not
+relevant, they should be left blank (not 0).
+
+DV
+
+the dependent variable
+is philanthropic
+behavior by
+individuals or
+households
+
+Studies on corporate philanthropy and corporate social
+responsibility (CSR) are coded 0. Studies on giving
+intentions, hypothetical behavior, and studies on donations
+of substances of human origin (blood, organs) are coded 0.
+Studies on philanthropy as an independent variable are
+coded 0.
+
+givobs
+
+giving is observed by
+researchers or
+registered in a database
+
+Studies in which giving behavior was a binding choice in
+experiments and surveys are coded 1, studies with register
+data in which donations are recorded in donor databases are
+coded 1, case studies in which researchers observed giving
+behavior are coded 1, studies with surveys in which
+participants self-reported giving behavior or intentions are
+coded 0
+
+30
+
+givselfrep
+
+giving is self-reported
+by study participants
+
+Studies with surveys in which participants self-reported
+giving behavior or intentions are coded 1
+
+mech1
+
+the study tests the
+effect of awareness of
+need
+
+only if DV = 1; studies about the effects of information
+about recipients, the size of the problem addressed by the
+charity, number of victims. Studies on framing effects in this
+type of information are about psychological costs/benefits
+(mechanism 6)
+
+mech2
+
+the study tests the
+effect of solicitation
+
+only if DV = 1; studies about the effects of various types of
+requests for donations, including the legitimation of paltry
+contributions (LPC), door-in-the-face (DITF),
+foot-in-the-mouth and other compliance strategies involving
+costs are about material costs (mechanism 3); studies about
+the social costs and benefits of giving are about reputation
+(mechanism 5); studies about the psychological costs and
+benefits of various compliance strategies are mechanism 6
+
+mech3
+
+the study tests the
+effect of material costs
+or benefits
+
+only if DV = 1; studies about (tax) price effects, thank you
+gifts, rewards in crowdfunding campaigns
+
+mech4
+
+the study tests the
+effect of altruism
+
+only if DV = 1; studies about altruism, i.e. how giving
+responds to the well-being of recipients in experiments, and
+changes in funding sources in experiments and annual
+reports (crowding in/crowding out). Studies testing
+relationships between giving and survey scales measuring
+altruistic values should be coded 0 if they do not measure
+actual changes in giving as a result of responses to the
+well-being of recipients. These studies test mechanism 7
+(values)
+
+mech5
+
+the study tests the
+effect of reputation
+
+only if DV = 1; studies about social costs and benefits of
+giving, i.e. watching eyes, public observability
+
+mech6
+
+the study tests the
+effect of psychological
+costs or benefits
+
+only if DV = 1; studies about the (anticipated) psychological
+costs and benefits of giving: emotions such as empathy,
+shame, pride, guilt; cognitive biases such as gain/loss,
+rebate/matching framing effects; perceptions of ingroups
+and outgroups
+
+mech7
+
+the study tests the
+effect of values
+
+only if DV = 1; studies about prosocial values, altruistic
+values, moral values, politics, world views
+
+mech8
+
+the study tests the
+effect of efficacy
+
+only if DV = 1; studies about the effectiveness and impact of
+charities
+
+experiment
+
+the study has an
+experimental design
+
+observations are allocated to treatment or control groups, in
+an online, lab, field or natural setting
+
+31
+
+cross
+
+the study has a
+cross-sectional design
+
+if experiment = 0: comparison of individuals or groups at
+one single point in time
+
+panel
+
+the study has a
+longitudinal design
+
+if experiment = 0: comparison of the same individuals or
+groups at multiple points in time
+
+survey
+
+the study relies on data note that many experiments also rely on surveys, e.g. to
+from a survey
+measure respondent characteristics, attention checks, and
+manipulation checks
+
+studyn
+
+number of
+observations in the
+study
+
+including observations that were not used in the analysis due
+to missing data, excluded as outliers, or for other reasons
+
+hypo
+
+the study contains at
+least one hypothesis
+
+the hypothesis is stated explicitly in the introduction or
+theory section of the paper or in the preregistration
+
+hypo1text
+
+H1 as formulated in
+the paper
+
+copy the text of the hypothesis as it appears in the paper
+
+H1stats
+
+the test statistics of the
+first hypothesis test
+
+copy the statistics of the first hypothesis test on charitable
+giving
+
+H1n
+
+the number of
+observations in the
+first hypothesis test
+
+as reported in the text, or if not reported in the text, infer the
+number from a table of results or the number of degrees of
+freedom
+
+replication
+
+the study presents a
+replication
+
+regardless of whether the replication concerns charitable
+giving as a DV; studies mentioning replication as worthwhile
+are coded 0
+
+verification
+
+the study reports on
+the same data with the
+same analysis as a
+previous study
+
+only code if replication = 1
+
+robustness
+
+the study reports on
+the same data with a
+different analysis as a
+previous study
+
+only code if replication = 1
+
+reproduction
+
+the study reports on
+different data with the
+same analysis as a
+previous study
+
+only code if replication = 1
+
+generalization
+
+the study reports on
+different data with a
+different analysis as a
+previous study
+
+only code if replication = 1
+
+32
+
+targetref
+
+bibliographic reference Look for URLs starting with https://doi.org/. Avoid URLs
+of the original study
+unique to VU Amsterdam or other university libraries
+which was replicated
+
+targetDOI
+
+DOI of the original
+study which was
+replicated
+
+only the DOI number, without DOI:
+
+targetcit
+
+number of citations of
+original study in
+Google Scholar
+
+enter the number "cited by"
+
+targetn
+
+number of
+observations in the
+study that was
+replicated
+
+as reported in the text, or if not reported in the text, infer the
+number from a table of results or the number of degrees of
+freedom
+
+prereg
+
+the replication
+mentions that it has a
+pre-registration
+
+code any pre-registration as 1, including OSF, As Predicted,
+or ResearchBox
+
+preregdev
+
+the replication report
+deviates from the
+pre-registration
+
+code any deviation as 1
+
+datashared
+
+the source data of the
+replication are
+available
+
+the article itself or website provides a URL where the data
+are actually available
+
+dataURL
+
+the replication report
+contains a reference to
+a URL where the
+source data are
+available
+
+e.g., "data for this study are publicly available at www.osf.io/"
+
+dataref
+
+the bibliography of the code only references to datasets as 1. code references to
+replication contains a
+codebooks, user manuals and publications about the data as
+reference to the dataset 0
+
+datadesc
+
+the reference to the
+source data is a
+publication describing
+the data
+
+code references to codebooks, user manuals and publications
+about the data as 1
+
+dataname
+
+the reference to the
+source data is to the
+name of the dataset
+
+e.g., "we used data from the Giving in the Netherlands Panel
+Survey"
+
+33
+
+codeshared
+
+the replication report
+or repository shares
+the code producing
+the results reported
+
+the article itself or website provides a URL where the code is
+actually available
+
+coderuns
+
+the shared code is
+executable
+
+if codeshare = 1
+
+publishedversion
+
+only if unpublished: URL of published version
+
+remark
+
+any noteworthy things you see
+
+34
+
+Appendix C. Replication studies on charitable giving from three sources
+[A] Google Scholar search for “replicat*” + “charitable behavior”
+[B] Google Scholar search for “replication” + “charitable giving”
+[C] other sources
+
+[C] Adena, M., & Huck, S. (2019). Giving once, giving twice: A two-period field experiment on
+intertemporal crowding in charitable giving. Journal of Public Economics, 172, 127-134.
+https://doi.org/10.1016/j.jpubeco.2019.01.002
+[B] Ahumada, B., Chen, Y., Gupta, N., Hyde, K., Lepper, M., Mathews, W., Silveus, N., Vesterlund, L.,
+Weidman, T., Wilson, A., Winichakul, K. P., & Zhou, L. (2022). Well Excuse Me! Replicating and
+Connecting Excuse-Seeking Behaviors. Smith College, Economics Faculty Publications.
+https://scholarworks.smith.edu/eco_facpubs/103
+[C] Almunia, M., Guceri, I., Lockwood, B., & Scharf, K. (2020). More giving or more givers? The effects of
+tax incentives on charitable donations in the UK. Journal of Public Economics, 183, 104114.
+https://doi.org/10.1016/j.jpubeco.2019.104114
+[A] Andreoni, J., Rao, J. M., & Trachtman, H. (2017). Avoiding the ask: A field experiment on altruism,
+empathy, and charitable giving. Journal of Political Economy, 125(3), 625-653.
+https://doi.org/10.1086/691703
+[B] Apinunmahakul, A., Barham, V., & Devlin, R. A. (2009). Charitable Giving, Volunteering, and the Paid
+Labor Market. Nonprofit and Voluntary Sector Quarterly, 38(1), 77–94.
+https://doi.org/10.1177/0899764008315845
+[B] Bakija, J. (2000). Distinguishing Transitory and Permanent Price Elasticities of Charitable Giving with
+Pre-Announced Changes in Tax Law. Department of Economics Working Papers, Department of
+Economics Working Papers, Article 2000–06. https://ideas.repec.org//p/wil/wileco/2000-06.html
+[B] Bakija, J., & McClelland, R. (2005). Timing vs. Long-run Charitable Giving Behavior: Reconciling
+Divergent Approaches and Estimates (Working Paper Nos. 2005–08; Department of Economics Working
+Papers). Department of Economics, Williams College.
+https://EconPapers.repec.org/RePEc:wil:wileco:2005-08
+[C] Bekkers, R. (2011). Do Two Eyes See More Generosity Than One? Watching Eyes, Gender, and Giving.
+Paper presented at the 14th International Conference on Social Dilemmas, Amsterdam, July 7, 2011.
+https://osf.io/preprints/psyarxiv/pseu2_v1
+[B] Bekkers, R. (2015). When and Why Matches are More Effective Subsidies Than Rebates. Pp. 183-211 in
+Deck, C. Fatas, E., & Rosenblat, T. (Eds.). Research in Experimental Economics, Volume 18: Replication in
+Economic Experiments. Emerald Group Publishing. https://doi.org/10.1108/S0193-230620150000018007
+
+35
+
+[C] Bruine de Bruin, W., & Ulqinaku, A. (2021). Effect of mortality salience on charitable donations:
+Evidence from a national sample. Psychology and Aging, 36(4), 415–420.
+https://doi.org/10.1037/pag0000478
+[C] Charles, C., Sloan, M. F., & Schubert, P. (2020). If someone else pays for overhead, do donors still care?
+American Review of Public Administration, 50(4-5), 415-427. https://doi.org/10.1177/0275074020913989
+[B] Costello, J. P., & Malkoc, S. A. (2022). Why Are Donors More Generous with Time Than Money? The
+Role of Perceived Control over Donations on Charitable Giving. Journal of Consumer Research, 49(4),
+678–696. https://doi.org/10.1093/jcr/ucac011
+[B] Damgaard, M. T., & Gravert, C. (2018). The hidden costs of nudging: Experimental evidence from
+reminders in fundraising. Journal of Public Economics, 157, 15–26.
+https://doi.org/10.1016/j.jpubeco.2017.11.005
+[B] Dannenberg, A., Johansson‐Stenman, O., & Wetzel, H. (2022). Status for the good guys: An experiment
+on charitable giving. Economic Inquiry, 60(2), 721–740. https://doi.org/10.1111/ecin.13039
+[A] Davis, D. D., Millner, E. L., & Reilly, R. J. (2005). Subsidy schemes and charitable contributions: a
+closer look. Experimental Economics, 8, 85-106. https://doi.org/10.1007/s10683-005-0867-y
+[A] Desai, R. M., & Kharas, H. The Wisdom of Crowd-funders: What motivates cross-border development
+aid? Global Economy and Development Working Paper 64.
+https://ciaotest.cc.columbia.edu/wps/bi/0030384/f_0030384_24557.pdf
+[B] Dickert, S., Kleber, J., Västfjäll, D., & Slovic, P. (2016). Mental Imagery, Impact, and Affect: A
+Mediation Model for Charitable Giving. PLoS One, 11(2), e0148274.
+https://doi.org/10.1371/journal.pone.0148274
+[A] Diederich, J., Eckel, C. C., Epperson, R., Goeschl, T., & Grossman, P. J. (2022). Subsidizing unit
+donations: Matches, rebates, and discounts compared. Experimental Economics, 25(2), 734-758.
+https://doi.org/10.1007/s10683-021-09732-9
+[A] Dur, R., & van Lent, M. (2018). Serving the public interest in several ways: Theory and
+empirics. Labour Economics, 51, 13-24. https://doi.org/10.1016/j.labeco.2017.11.002
+[A] Efendic, E., Bartoš, F., Vranka, M. A., & Bahník, Š. (2019). Unpacking the justifiability of dishonesty:
+Behavioral and process-tracing investigation. https://psyarxiv.com/rn85h/download/?format=pdf
+[A] Einolf, C. J. (2006). The roots of altruism: A gender and life course perspective. University of Virginia.
+[B] Ekström, M. (2012). Do watching eyes affect charitable giving? Evidence from a field experiment.
+Experimental Economics, 15(3), 530–546. https://doi.org/10.1007/s10683-011-9312-6
+[C] Fack, G., & Landais, C. (2010). Are tax incentives for charitable giving efficient? Evidence from France.
+American Economic Journal: Economic Policy, 2(2), 117-141. https://doi.org/10.1257/pol.2.2.117
+
+36
+
+[B] Fang, Z., & Bian, Y. (2022). Another reason for the counterintuitive effects of thank-you gifts on
+charitable giving. Frontiers in Psychology, 13, 908556. https://doi.org/10.3389/fpsyg.2022.908556
+[A] Forbes, R. (2019). Alumni Giving: How Does Gender Matter? Lycoming College honors thesis.
+https://www.lycoming.edu/library/archives/honorspdfs/forbes_rebecca2019.pdf
+[B] Gandullia, L., Lezzi, E., & Parciasepe, P. (2020). Replication with MTurk of the experimental design by
+Gangadharan, Grossman, Jones & Leister (2018): Charitable giving across donor types. Journal of Economic
+Psychology, 78, 102268. https://doi.org/10.1016/j.joep.2020.102268
+[B] Greenway, T. S., Schnitker, S. A., & Shepherd, A. M. (2018). Can Prayer Increase Charitable Giving?
+Examining the Effects of Intercessory Prayer, Moral Intuitions, and Theological Orientation on Generous
+Behavior. The International Journal for the Psychology of Religion, 28(1), 3–18.
+https://doi.org/10.1080/10508619.2017.1406790
+[C] Grieder, M., Schmitz, J., & Schubert, R. (2021). Asking to give: moral licensing and pro-social behavior
+in the aggregate. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3920355
+[B] Huang, Q., Li, D., Zhou, C., Xu, Q., Li, P., & Warren, C. M. (2021). Multivariate pattern analysis of
+electroencephalography data reveals information predictive of charitable giving. NeuroImage, 242, 118475.
+https://doi.org/10.1016/j.neuroimage.2021.118475
+[B] Huck, S., & Rasul, I. (2011). Matched fundraising: Evidence from a natural field experiment. Journal of
+Public Economics, 95(5–6), 351–362. https://doi.org/10.1016/j.jpubeco.2010.10.005
+[A] Janssen, W. & Valkenburg, S. J. (2016). Trust and Charitable Behavior: A Study about the Effects of
+Trust on Charitable Behavior in the Netherlands. Bachelor's thesis, Utrecht University.
+https://studenttheses.uu.nl/bitstream/handle/20.500.12932/23781/Valkenburg,%20S.%20-%20Scriptie.pd
+f?sequence=2
+[A] Jung, M. H., Nelson, L. D., Gneezy, U., & Gneezy, A. (2017). Signaling virtue: Charitable behavior
+under consumer elective pricing. Marketing Science, 36(2), 187-194.
+https://doi.org/10.1287/mksc.2016.1018
+[A] Jung, M. H., Saccardo, S., Gneezy, A., & Nelson, L. D. (2023). Image concerns and generosity: field
+evidence and predictions. http://dx.doi.org/10.2139/ssrn.4323906
+[B] Kammermann, B., Türkay, S., Johnson, D., & Tobin, S. J. (2024). Do videogame rewards influence
+players’ subsequent prosocial engagement? A preregistered partial replication study on the role of reward
+and reasoning. International Journal of Human-Computer Studies, 181, 103143.
+https://doi.org/10.1016/j.ijhcs.2023.103143
+[B] Kessler, J. B., & Meier, S. (2014). Learning from (failed) replications: Cognitive load manipulations and
+charitable giving. Journal of Economic Behavior & Organization, 102, 10–13.
+https://doi.org/10.1016/j.jebo.2014.02.005
+
+37
+
+[B] Kim, M. (2013). Are Charitable Giving and Religious Attendance Complements or Substitutes? The
+Role of Measurement Error. Journal of Policy Analysis and Management, 32(2), 373–390.
+https://doi.org/10.1002/pam.21687
+[B] Livingston, J. A., & Rasulmukhamedov, R. (2023). On the Interpretation of Giving in Dictator Games
+When the Recipient is a Charity. Journal of Economic Behavior & Organization, 208, 275–285.
+https://doi.org/10.1016/j.jebo.2023.01.025
+[A] Lopez, J. J., Mohapatra, R. P., & Prew, P. (2017). Regional Patterns of Giving in the United States
+during the Great Recession. International Journal of Culture and History, 3 (4): 219, 226.
+https://www.researchgate.net/profile/Paul-Prew/publication/322597818_Regional_Patterns_of_Giving_i
+n_the_United_States_during_the_Great_Recession/links/61dc63c7323a2268f99631e8/Regional-Patterns
+-of-Giving-in-the-United-States-during-the-Great-Recession.pdf
+[A] Luccasen, A. & Grossman, P.J. (2013). A robust test of warm glow giving and spiteful pleasure in a “real
+donation” experiment with and without earned endowments. Monash University Department of
+Economics Discussion Paper 29/13.
+https://www.monash.edu/business/economics/research/publications/2013/2913robustluccasengrossman.p
+df
+[A] Marcinkiewicz, M. (2016). Increasing charitable donations: The limits of the unit asking effect.
+Villanova University. https://www.proquest.com/openview/858f5aa23a41a1ec479bfb9388012098/
+[A] Margolis, M.F., & Sances, M.W. (2017). Partisan differences in nonpartisan activity: The case of
+charitable giving. Political Behavior, 39, 839-864. https://doi.org/10.1007/s11109-016-9382-4
+[A] Mayorga, M.W. (2019). An Introspection Intervention for Perceived Inefficacy in Charitable Giving.
+Doctoral dissertation, University of Oregon.
+https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/24903/Mayorga_oregon_0171A_12496.
+pdf?sequence=1&isAllowed=y
+[B] Murphy, J. J., Batmunkh, N., Nilsson, B., & Ray, S. (2015). The Impact of Social Information on the
+Voluntary Provision of Public Goods: A Replication Study. Pp. 41–50 in: Deck, C. Fatas, E., & Rosenblat,
+T. (Eds.). Research in Experimental Economics, Volume 18: Replication in Economic Experiments. Emerald
+Group Publishing. https://doi.org/10.1108/S0193-230620150000018002
+[A] Naeem, S., & Zaman, A. (2016). Charity and gift exchange: Cultural effects. Voluntas, 27, 900-919.
+https://doi.org/10.1007/s11266-015-9655-2
+[C] Newman, G. E., & Shen, Y. J. (2012). The counterintuitive effects of thank-you gifts on charitable
+giving. Journal of Economic Psychology, 33(5), 973-983. https://doi.org/10.1016/j.joep.2012.05.002
+[B] Oda, R., & Ichihashi, R. (2016). Effects of Eye Images and Norm Cues on Charitable Donation: A Field
+Experiment in an Izakaya. Evolutionary Psychology, 14(4), 1474704916668874.
+https://doi.org/10.1177/1474704916668874
+
+38
+
+[A] Rahwan, Z., Hauser, O. P., Kochanowska, E., & Fasolo, B. (2018). High stakes: A little more cheating, a
+lot less charity. Journal of Economic Behavior & Organization, 152, 276-295.
+https://doi.org/10.1016/j.jebo.2018.04.021
+[C] Roberts, J. R., & Maxfield, M. (2019). Mortality salience and age effects on charitable donations.
+American Behavioral Scientist, 63(14), 1863-1884. https://doi.org/10.1177/0002764219850864
+[C] Sasaki, S., Kurokawa, H., & Ohtake, F. (2022). An experimental comparison of rebate and matching in
+charitable giving: The case of Japan. Japanese Economic Review, 73(1), 147-177.
+https://doi.org/10.1007/s42973-021-00085-9
+[A] Saunders, T. J., Taylor, A. H., & Atkinson, Q. D. (2016). No evidence that a range of artificial
+monitoring cues influence online donations to charity in an MTurk sample. Royal Society Open
+Science, 3(10), 150710. https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.150710
+[B] Schervish, P. G., Coutsoukis, P. E., & Havens, J. J. (1998). Social participation and charitable giving
+revisited: Replication of a multivariate analysis. Annual Meeting of the Association for Research on
+Nonprofit Organizations and Voluntary Action, 2–4.
+https://www.academia.edu/download/79874739/socialparticipation.pdf
+[B] Schmukle, S. C., Korndörfer, M., & Egloff, B. (2019). No evidence that economic inequality moderates
+the effect of income on generosity. Proceedings of the National Academy of Sciences, 116(20), 9790–9795.
+https://doi.org/10.1073/pnas.1807942116
+[B] Schönegger, P., & Wagner, J. (2019). The moral behavior of ethics professors: A replication-extension in
+German-speaking countries. Philosophical Psychology, 32(4), 532–559.
+https://doi.org/10.1080/09515089.2019.1587912
+[A] Sekścińska, K., Trzcińska, A., & Maison, D. (2023). Charity campaigns with promotion-framed goals
+are more effective than those with prevention-framed goals. PLoS One, 18(8), e0286028.
+https://doi.org/10.1371/journal.pone.0286028
+[B] Simpson, B., Irwin, K., & Lawrence, P. (2006). Does a “Norm of Self-Interest” Discourage Prosocial
+Behavior? Rationality and Quid Pro Quo in Charitable Giving. Social Psychology Quarterly, 69(3), 296–306.
+https://doi.org/10.1177/019027250606900306
+[B] Sisco, M. R., & Weber, E. U. (2019). Examining charitable giving in real-world online donations. Nature
+Communications, 10(1), 3968. https://doi.org/10.1038/s41467-019-11852-z
+[B] Smith, R. W., Faro, D., & Burson, K. A. (2013). More for the Many: The Influence of Entitativity on
+Charitable Giving. Journal of Consumer Research, 39(5), 961–976. https://doi.org/10.1086/666470
+[A] Sparks, A. M., Fessler, D. M., & Holbrook, C. (2019). Elevation, an emotion for prosocial contagion, is
+experienced more strongly by those with greater expectations of the cooperativeness of others. PLoS
+One, 14(12), e0226071. https://doi.org/10.1371/journal.pone.0226071
+
+39
+
+[B] Spiteri, G. W. (2022). Does the evaluability bias hold when giving to animal charities? Judgment and
+Decision Making, 17(2), 315–330. https://doi.org/10.1017/S1930297500009128
+[A] Stinn, J. L. (2018). Donor Attitudes Toward Overhead Costs and the Effects on Nonprofit
+Organizations. Doctoral dissertation, The Florida State University.
+https://diginole.lib.fsu.edu/islandora/object/fsu:647306/datastream/PDF/view
+[A] Thomas‐Walters, L., & J Raihani, N. (2017). Supporting conservation: The roles of flagship species and
+identifiable victims. Conservation Letters, 10(5), 581-587. https://doi.org/10.1111/conl.12319
+[C] Van Teunenbroek, P.S.C. & Bekkers, R. (2019). Follow the Crowd: Social Information and
+Crowdfunding Donations in a Large Field Experiment. Journal of Behavioral Public Administration, 3(1):
+1-17. https://doi.org/10.30636/jbpa.31.87
+[A] Verhaert, G. A., & Van den Poel, D. (2012). The role of seed money and threshold size in optimizing
+fundraising campaigns: Past behavior matters!. Expert Systems with Applications, 39(18), 13075-13084.
+https://doi.org/10.1016/j.eswa.2012.04.088
+[C] Vu, L., Molho, C., Soraperra, I., Fiedler, S., & Shalvi, S. (2024). Giving (in) to help an identified person.
+Journal of Experimental Social Psychology, 110, 104557. https://doi.org/10.1016/j.jesp.2023.104557
+[C] Yörük, B. K. (2010). Charitable giving by married couples revisited. Journal of Human Resources, 45(2),
+497-516. https://doi.org/10.3368/jhr.45.2.497
+[A] Zhang, L. (2023). Combining Experiments and Structural Econometrics to Understand Motives for
+Charitable Giving. The University of Alabama.
+https://ir.ua.edu/bitstreams/e6f46f87-23fe-4fa2-89d3-f9c2a8ccc838/download
+
+40
+
+Appendix D. Further Exploratory Analyses
+Small study bias. Studies with a small number of observations can produce strong effects, purely as a result
+of chance, while in reality no reliable effect exists. Small samples favor positive results (Loken & Gelman,
+2017). Many studies in the social and behavioral sciences are underpowered (Ioannidis, Stanley &
+Doucouliagos, 2017; Arel-Bundock et al., 2022; Maxwell, 2004). Replications tend to have larger numbers
+of observations (Tyner et al., 2026).
+The median number of observations in 59 replicated studies for which we could find this information was
+405. We find no evidence that a smaller number of observations is associated with replications finding
+different results than preceding studies. In fact, the median number of observations in 36 replications that
+produced results in the same direction as the replicated study was 248, lower than the median number of
+observations of 573 in 23 replications that produced null findings or results running counter to the
+replicated study. This result is due to differences between experiments and other studies. Results of the 32
+replications of results from 48 experiments were in line with the replicated study (63%). Of the 18
+replications with a non-experimental design, 9 results were in line with previous findings (50%). The
+difference is not significant (χ2 = 3.825, df = 1, p = .050).
+The median number of observations in 42 replicated experiments was 181, in the 18 other studies the
+median number of observations was 3572. Median regression indicates that the number of observations in
+replicated studies are not associated with results of replications having similar or different results, when the
+difference in study designs is taken into account (coefficient: -117 (SE: 1410.279), t = -0.08, p = .934).
+Citation counts. A commonly used proxy for research quality is the number of citations that a study has
+received, which partly reflects the impact factor of the journal that published the study. However, more
+highly cited research is not more replicable than less cited research (Youyou, Yang, & Uzzi, 2023). In fact,
+studies in the Open Science Collaboration (2015) that were not successfully replicated were cited more often
+than studies that did replicate well (Serra-Garcia & Gneezy, 2021).
+We find no evidence that citation counts differ between replicated studies that replications found similar
+results for and replications with null-findings or negative results. The median number of citations in Google
+Scholar for 39 previous studies that replications found similar results for was 27; for the 27 other studies the
+median number of citations to the previous study was 33. The median number of citations to experiments
+(27) was similar to that of studies with non-experimental designs (33). Median regression indicates that the
+number of citations for replicated studies is not different for replications having similar or different results,
+when the difference in study designs is taken into account (coefficient: 8 (SE: 16.570), t = 0.48, p = .630).
+Changes after peer review. A common questionable research practice is ‘harking’, hypothesizing after results
+are known (Kerr, 1998). A recent study in Germany suggests that about half of published hypotheses in the
+social, behavioral and economic studies analyzing large population survey data are formulated after results
+are known (Poppa et al., 2025). A study in the field of management research (O’Boyle, Banks &
+Gonzalez-Mulé, 2017) suggests that peer review - especially at journals ranked as ‘more prestigious’ introduces questionable research practices such as adding or deleting data points, covariates, and hypotheses.
+
+41
+
+In our set of replications, most studies that were available as a working paper or preprint did not change
+substantially when they were published. Sometimes dissertation advisors appear as co-authors on journal
+article publications (e.g., Portillo & Stinn, 2018). We found one piece of evidence for ‘hypothesizing after
+results are known’ as a result of peer review: Margolis & Sances (2017) support a hypothesis that was absent
+in the working paper (Margolis & Sances, 2015), while the empirical analyses did not change. The working
+paper stated that “partisanship and ideology may not determine overall levels of giving, [but] political
+differences may affect where partisans choose to donate” (emphasis in original). The published version states
+“we hypothesize that conservatives and Republicans will give more to charity than liberals and Democrats”.
+
+References
+Arel-Bundock, V., Briggs, R. C., Doucouliagos, H., Mendoza Aviña, M., & Stanley, T. D. (2026).
+Quantitative Political Science Research is Greatly Underpowered. Journal of Politics, 88(1): 36-46.
+https://doi.org/10.1086/734279
+Kerr, N. L. (1998). HARKing: Hypothesizing after the results are known. Personality and Social Psychology
+Review, 2(3), 196-217. https://doi.org/10.1207/s15327957pspr0203_4 ​
+Loken, E., & Gelman, A. (2017). Measurement error and the replication crisis. Science, 355(6325), 584-585.
+https://doi.org/10.1126/science.aal3618
+Margolis, M.F., & Sances, M.W. (2015). Partisan differences in charitable giving: Evidence from
+individual-level survey data. https://www.michelemargolis.com/uploads/2/0/2/0/20207607/giving.pdf
+Maxwell, S. E. (2004). The Persistence of Underpowered Studies in Psychological Research: Causes,
+Consequences, and Remedies. Psychological Methods, 9(2), 147–163.
+https://doi.org/10.1037/1082-989X.9.2.147
+O’Boyle Jr, E. H., Banks, G. C., & Gonzalez-Mulé, E. (2017). The chrysalis effect: How ugly initial results
+metamorphosize into beautiful articles. Journal of Management, 43(2), 376-399.
+https://doi.org/10.1177/0149206314527133
+Poppa, C., Nießen, D., Daikeler, J., Silber, H., Weiß, B., & Richter, D. (2025). The Tip of the Iceberg?
+Insights into the Prevalence of Publication Bias in Two Probability-Based Academic Panels.
+https://doi.org/10.31234/osf.io/bj3g9_v1
+Serra-Garcia, M., & Gneezy, U. (2021). Nonreplicable publications are cited more than replicable ones.
+Science Advances, 7(21), eabd1705. https://doi.org/10.1126/sciadv.abd1705
+
+42
+
+

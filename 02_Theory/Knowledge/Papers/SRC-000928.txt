@@ -1,0 +1,770 @@
+Journal of Economic Psychology 30 (2009) 490–499
+
+Contents lists available at ScienceDirect
+
+Journal of Economic Psychology
+journal homepage: www.elsevier.com/locate/joep
+
+Warm glow and charitable giving: Why the wealthy do not give more
+to charity?
+John W. Mayo *, Catherine H. Tinsley 1
+Georgetown University, McDonough School of Business, Washington, DC 20057, United States
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 22 February 2007
+Received in revised form 9 June 2008
+Accepted 12 June 2008
+Available online 9 September 2008
+
+JEL classiﬁcation:
+D64
+D63
+PsyclNFO classiﬁcation:
+3020
+Keywords:
+Altruism
+Warmglow
+Giving
+
+a b s t r a c t
+Attempts to understand the economic and psychological motivations for charitable giving
+date at least back to Adam Smith (1759). In his Theory of Moral Sentiments, Smith attempts
+to explain why and how an individual or household will feel sympathy for other less welloff individuals or households. At the heart of Smith’s analysis is the general proposition
+that sympathy (and presumably discernible actions based on that sympathy) is embodied
+in the ability of an individual to imagine, from his own perspective, the plight of the less
+well-off household. In this paper we posit a model of charitable giving that is predicated
+on this basic proposition that we believe lies at the center of explaining the pattern of charitable giving in the United States. In particular, we suggest that understanding the fundamental human and economic drivers of giving requires us to consider the nature and
+determinants of the ‘‘warm glow” a household experiences when making charitable donations to other households. We borrow from cognitive psychologists’ research into how people judge reward distributions and infer causality of such distributions to explain when
+households are more and less likely to experience this warm glow. Speciﬁcally, we explain
+how biased perceptions of effort and luck, as the causes of reward distributions, will systematically reduce warm glow of high-income households, which may help explain the
+essentially ﬂat relationship between income and percentage donations to charity.
+Ó 2008 Elsevier B.V. All rights reserved.
+
+1. Introduction
+Attempts to understand the economic and psychological motivations for charitable giving date back at least to Adam
+Smith (1759). In his Theory of Moral Sentiments, Smith attempts to explain why and how an individual or household will
+feel sympathy for other less well-off individuals or households. At the heart of Smith’s analysis is the general proposition
+that sympathy (and presumably discernible actions based on that sympathy) is embodied in the ability of an individual
+to imagine, from his own perspective, the plight of the less well-off household. He argues that ‘‘As we have no immediate
+experience of what other men feel, we can form no idea of the manner in which they are affected, but by conceiving what
+we ourselves should feel in the like situation. Though our brother is upon the rack, as long as we ourselves are at ease, our
+senses will never inform us what he suffers. . .[I]t is by the imagination only that we can form any conception of what are his
+sensations” [Smith (1759, p. 3)]
+
+* Corresponding author. Tel.: +1 202 687 6972.
+E-mail addresses: MayoJ@Georgetown.edu (J.W. Mayo), TinsleyC@Georgetown.edu (C.H. Tinsley).
+1
+Tel.: +1 202 687 2524.
+0167-4870/$ - see front matter Ó 2008 Elsevier B.V. All rights reserved.
+doi:10.1016/j.joep.2008.06.001
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+491
+
+In this paper, we posit a model of charitable giving that builds upon Smith’s basic proposition and which we believe may
+be central to explaining the pattern of charitable giving in the United States. In particular, by integrating Smith’s original
+insights and research from modern cognitive psychology into an economic model of household utility embodying a ‘‘warm
+glow” from charitable giving, it is possible to advance our understanding of the fundamental human and economic drivers of
+such giving. This synthesis permits insights beyond those available from any one approach. Speciﬁcally, while warm glow, a
+concept adopted by Andreoni (1989), Andreoni (1990) has advanced our understanding of important dimensions of charitable giving, the micro-psychological foundations of this concept and its implications have yet to be fully explored. At the same
+time, the focus of Smith was on ‘‘sympathy”, a concept related to, but conceptually distinct from, the concept of ‘‘warm
+glow.” Speciﬁcally, Smith describes sympathy as ‘‘our fellow-feelings with the sufferings. . .of others.” (p. 61) Sympathy,
+therefore, merely permits an individual to appreciate or ‘‘feel” the plight of another. Warm glow, however, stems not merely
+from the ability to sympathize, but rather from the prospect of rectifying under-rewarded effort by those for whom one sympathizes. In this regard, we posit that one may feel sympathy for a poor household but little or no warm glow to the extent
+that the poor household is perceived to be receiving its ‘‘just rewards.” See also, the related inquiries into the nature and
+causes of empathy, e.g., Eisenberg and Miller (1987), as well as Batson (1987), Batson (1991), and Batson, Eklund, Chermok,
+Hoyt, and Ortiz (2007). Finally, the signiﬁcant attention of cognitive psychologists has until now not been focused on the
+implications of cognition for charitable giving.
+Accordingly, to advance our understanding, we consider the nature and determinants of this warm glow, which requires
+us to explore how households assess the merits of making charitable donations to other households. Along the way, we draw
+from cognitive psychologists’ research on how people judge reward distributions and infer the causality of such distributions
+to explain when households are, and are not, more likely to experience this warm glow. In particular, we introduce two wellestablished results from cognitive psychology, the self-serving attribution bias and the fundamental attribution error, into a
+domain that has, heretofore, been limited by the application of solely economic concepts.2 The result is, we believe, a richer
+and more robust understanding of the mechanisms that drive the relationship between personal income and charitable giving.
+Our paper is organized as follows. First, we brieﬂy provide a background discussion and describe the literature to date
+that has focused on charitable giving. In this section, we point out that while a number of intriguing questions have been
+addressed regarding the pattern of charitable giving, other fundamental questions remain unanswered, if not altogether
+unaddressed. Next, we turn to a model of charitable giving that builds upon the development of warm glow as a determinant
+of charitable giving. In particular, while earlier research has indicated the potential importance of warm glow as a determinant of charitable giving, especially vis-à-vis traditional models of altruism, our focus is on how variations in household income may alter the extent of warm glow and fundamentally dampen the effects of income growth on charitable giving.
+2. Background
+At a very basic level, charitable giving may be thought of as somewhat paradoxical. That is, to the extent that the standard
+assumption of economic behavior – self-interest- is not abandoned, it may be thought that any level of charitable giving is
+anomalous (for exceptions, see Bernheim, Schleifer, and Summers (1985) and Speigel and Menahem (1995)). As has been
+pointed out, however, households may be characterized by altruism, whereby the welfare of other less well-off households
+may enter directly into a household’s utility function (see, e.g. Roberts, 1984, as well as the compelling experimental evidence of altruism found in Andreoni (1995), Andreoni and J. (2002), Palfrey and Prisbey (1997)). More recently, a variation
+of household altruism to emerge in the literature is the proposition that households are driven to charitable causes not simply by pure altruism but also by an (impure) ‘‘warm glow” enjoyed by the mere act of making charitable donations.3 Regardless of whether altruism is modeled as ‘‘pure” or ‘‘impure” however, its existence can certainly help explain the nominal
+anomaly of why charitable giving occurs.
+Models of altruism have proceeded to advance our understanding on a number of dimensions that are central to charitable giving by households, and have focused attention on a number of important issues, such as the debate as to whether
+governmental provision of charitable goods and services will crowd out private charitable donations, see, e.g., Andreoni
+(1990), Bernheim and Douglas (1986), Bergstrom, Blume, and H. (1986), Roberts (1984), and McClelland (1989). This investigation has obvious implications for the relationship between tax policies and charitable giving. Accordingly, much of the
+literature is focused on key features of the tax code, such as its income progressivity and the deductibility of donations on
+charitable giving, and how these tax characteristics may be thought to affect charitable giving under alternative models of
+household utility.4
+This focus on the effects of the tax code on charitable giving, however, leaves several basic questions unanswered. Principal among these, one may reasonably ask why it is that charitable giving by households displays such remarkable stability
+
+2
+Psychologists have, of course, developed a rich literature on the underlying affects of sympathy and empathy, which may stand as precursors to an
+understanding of the economics of philanthropy. See, e.g., Batson (1987), Batson (1991), Davis (1994) and Batson et al. (2007). This literature, however, is
+largely silent on the economic behaviors, such as charitable giving, that stem from such concepts.
+3
+See Andreoni (1989), Andreoni (1990). See also Palfrey and Prisbey (1997) and Andreoni and Miller (2002) who provide experimental evidence regarding
+the relative importance of warm glow as a driver of households’ altruistic behavior. Other ‘‘impure” altruistic avenues to have emerged in the literature include
+‘‘signaling” and ‘‘prestige” motivations. See Glazer and Konrad (1996) and Harbaugh (1998), respectively.
+4
+For a thorough discussion of the structure of the federal tax code and charitable donations, see Auten, Clotfelter, and Schmalbeck (2000).
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+5k
+
+>1
+M
+
+10 10k
+k
+to
+15 15k
+k
+to
+20
+20
+k
+k
+to
+25
+25
+k
+k
+to
+30 30k
+k
+to
+40 40k
+k
+to
+50 50
+k
+k
+to
+75
+75
+k
+to k
+10
+10
+0k
+0k
+to
+20
+20
+0k
+0k
+to
+50
+50
+0
+0k k
+to
+1M
+
+5
+4
+3
+2
+1
+0
+to
+
+Percentage
+
+492
+
+($)
+
+2.5
+2
+1.5
+1
+0.5
+20
+02
+
+19
+86
+19
+90
+19
+94
+19
+98
+
+19
+82
+
+78
+19
+
+19
+
+19
+
+74
+
+0
+70
+
+Percent of Personal
+Income
+
+Fig. 1. Individual giving by adjusted gross income. Source: The Center on Philanthropy (2004).
+
+Year
+Fig. 2. Individual giving by year. Source: The Center on Philanthropy (2004).
+
+both with respect to cross-sectional and intertemporal variations in household income. For example, as seen in Fig. 1, household donations to charity display relatively little variation in donation rates across wide ranges of income.5 Similarly, as seen
+in Fig. 2, the proportion of income going to charity has remained relatively stable over time despite considerable increases in per
+capita income over time.6
+Thus, despite a well-recognized diminishing marginal propensity to consume with increases in income, a seemingly natural alternative to personal consumption, viz., charitable giving, does not seem to increase at anything more than proportionately. Moreover, the proportionality of charitable giving and income occurs in the presence of a U.S. tax code that
+effectively reduces the price of charitable giving to markedly less than a dollar per dollar donated, the precise amount of
+the discount depending on the household’s marginal tax bracket. Despite these cost reductions for giving, that increase as
+income increases, Clotfelter (2002) reports an early consensus range on the income elasticity of charitable giving of between
+.4 and .8. That is, a ten percent increase in household income will, to the best of our knowledge, generate increased contributions to charity on the order of 4–8%. This suggests that but for the tax provisions that reduce the price of charitable donations, such donations would (as a share of income) decline with increases in household income. Similarly, data show that the
+vast majority (80%) of the contributions made by the very wealthy come from only 5% of these households. That is, 95% of
+the highest income households ($1M and over) give relatively less to charity then their lower income counterparts. In fact,
+the median propensity to give steadily decreases as income increases (Auten & Rudney, 1990).Thus, the observed stability
+may actually understate the insensitivity of the majority of households towards increasing charitable donations as income
+levels rise.
+In the next section of the paper, we develop a model that is intended to offer some preliminary insights into why it is that
+charitable giving may not be more robustly responsive to household income.
+
+5
+As seen in Fig. 1, the wealthiest and lowest income households tend to have higher donation rates than those with moderate, good and upper incomes
+levels. The uptick of donation rates at both extremes has received separate attention. At the lowest end, it has been suggested that the uptick is attributable to
+donations by elderly families with low adjusted gross income but higher levels of permanent income or wealth. See Clotfelter (2002). A number of nuances of
+the upper extreme end of the income distribution also appear to apply. For a discussion, see Auten, Clotfelter and Schmalbeck (2000).
+6
+Because there have been numerous changes to the federal and state tax codes over the years covered by Figure 2, the observed stability of donation rates
+over time must be viewed as more suggestive than dispositive.
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+493
+
+3. A model of charitable giving
+The simplest models of charitable giving typically begin with the proposition that households care not only about their
+own ‘‘narrow” self-interest but also with the welfare of other, less well-off, households (see, e.g., Becker (1974), pp. 1084–
+1085). That is, the utility of household i in such models is typically speciﬁed as
+
+U ¼ Uðxi1 ; xi2 . . . xin ; xj Þ:
+
+ð1Þ
+
+where xi, i = 1. . .n represents consumption of goods 1. . .n by household i and xj is the level of consumption of a set of households that are less well-off than household i.
+As noted, however, this speciﬁcation of household utility ignores important social interactions that may profoundly inﬂuence the proclivity to make charitable contributions (Becker, 1974). For example, in a simple speciﬁcation of pure altruism,
+changes in the provision of goods supplied to household j, whether achieved by public transfer payments or by donations
+from alternative private sources, are directly substitutable for private charitable donations by household i (see Warr,
+1982; Roberts, 1984).
+In recognition of the potential shortcomings of this approach, (Andreoni, 1989) proffered a model in which utility of
+household i is speciﬁed as
+
+U ¼ Uðxi ; Y; g i Þ;
+
+ð2Þ
+
+where xi represents private consumption by i, Y represents the total supply of charitable giving, and gi represents utility in
+the form of a ‘‘warm glow” associated with charitable giving. Given the introduction of warm glow as an argument in the
+household utility function, Andreoni is able to demonstrate, consistent with empirical evidence, that prior theoretical research pointing towards complete crowding out of private charitable giving by public sector programs no longer holds. Thus,
+the introduction of the concept of warm glow seems to hold considerable promise for advancing our insights into the empirical evidence surrounding charitable giving.
+Importantly, while it may seem somewhat intuitive that households experience a warm glow from making charitable
+contributions, no particular justiﬁcation or extended discussion of this potentially critical determinant of charitable giving
+has been offered to date. That is, with the exception of Smith (1759), who (while not using the term ‘‘warm glow”) spends
+considerable time discussing the various human characteristics and factors that may give rise to ‘‘sympathy” among fellow
+men, no exploration has ensued regarding the characteristics of this phenomenon or its implications for understanding the
+income-charity relationship7 (see the discussion in Smith (1759, pp. 3–13)).
+In the model that follows, we offer some initial thoughts on the phenomena of warm glow. We draw upon both economics and cognitive psychology to offer some preliminary insights into the determinants of warm glow and how warm glow
+may mediate the relationship between income and charitable giving. Prior to the development of our model, however, it
+is important to note that we limit the scope of our analysis in several fundamental ways. First, our model abstracts from
+tax considerations entirely, by focusing exclusively on the relationship of warm glow to household income. Moreover, we
+do not distinguish between current income ﬂows and past accumulations of income (i.e., wealth), though the literature
+on mental accounts (Thaler, 1985; Shefrin & Statman, 1984) suggests that accumulated income, or wealth, might be more
+vulnerable to the discounting biases we discuss later. Of course, in making this abstraction, we do not mean to imply that
+tax considerations are unimportant as determinants of charitable giving. Rather, our model is simply focused on more basic
+aspects of human interaction. To the extent that our presentation of the determinants of warm glow is plausible, models that
+subsequently investigate the tax consequences of our variant of the warm glow model may readily follow. Second, we consider only charitable donations by individuals. That is, ours is not a model that purports to explain charitable donations by
+foundations. Third, while Becker (1974) has made clear that charitable giving may be thought of as an example of the more
+general theory of social interactions, including intra-family transfers, our focus is on the motivations for charitable contributions that are made between ‘‘unrelated” individuals. By focusing on transfers between unrelated individuals, we circumvent the interesting, but in this instance inapplicable, ‘‘exchange” motive for transfers wherein donations are made as a quid
+pro quo to recipients.8
+Given these qualiﬁcations, we now specify a utility function for a household A to be
+
+U ¼ UðX A ; Y B ; xÞ;
+
+ð3Þ
+
+where XA is a vector of goods consumed by household A, YB is the total supply of charity provided to household (or set of
+households) B (presumed to be less well off), and x represents the warm glow A experiences from making charitable contributions. More speciﬁcally, we deﬁne warm glow to be the positive affect experienced by the prospect of donating to others. Although this warm glow exists apart from the aggregate supply of charity received by household B, most households are
+likely to assume that their contributions increase the total supply of charity received.
+The foundations for understanding the warm glow phenomenon can be found in the cognitive psychological literature.
+Speciﬁcally, warm glow is most likely to arise because donating to those less fortunate is thought to (at least partially)
+7
+
+See, e.g., Smith (1759, pp. 3–13.).
+For an engaging discussion of such a ‘‘strategic” motivation for such transfers, see Bernheim et al. (1985). For an empirical examination of the importance of
+altruism versus strategic motivations for private income transfers, see Cox (1987).
+8
+
+494
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+M
+
+A
+
+M
+
+} εB
+
+M’
+
+B
+O
+
+eBM’
+
+eB
+
+e
+
+Fig. 3. Warm glow and unrewarded effort.
+
+restore a perceived injustice in the original distribution of resources (i.e., relative income levels). Equity theory (Adams,
+1963; Homans, 1961) posits that judgments of the fairness of a given distribution will reﬂect one’s perceptions of parties’
+effort levels. And, indeed, experiments show that people are satisﬁed with their outcomes to the degree that they perceive
+the distribution of rewards to be proportional to parties’ effort (see e.g., Lane and Messe (1971) and Garrett and Libby
+(1973)). Both over-rewarded and under-rewarded individuals feel discomfort and will take actions to restore an equity balance (see, e.g., Walster, Berscheid, and Walster (1973), Walster, Walster, and Berscheid (1978), Lowenstein, Thompson, and
+Bazerman (1989)). This suggests that warm glow will arise from donating to someone whose effort is perceived to have been
+under-rewarded.
+Given this basis for understanding warm glow, we can then turn to the economic framework within which households
+make decisions regarding charitable giving. Household A maximizes utility subject to a standard budget constraint. The total
+budget constraint MA is determined by the level of effort e exerted in the market by household A and random shocks e, that
+may be thought of as either ‘‘good luck” (e > 0) or ‘‘bad luck” (e < 0).
+
+MA ¼ f ðeA Þ þ e;
+
+where
+
+of
+> 0 and e  Nð0; rÞ:
+oe
+
+ð4Þ
+
+Household B, which we assume to be less well-off than household A also faces a budget constraint,
+
+MB ¼ f ðeB Þ þ e;
+
+ð5Þ
+
+where household B is subject to the same effort-income function f(e) as household A and similarly is subject to the same
+prospects for either good or bad luck.9 As a recipient of charity, however, household B’s total income consists of both earned
+income MB and charity received C. Thus,
+
+M0B ¼ MB þ C;
+C ¼ Cðx; p; M A Þ;
+
+where
+
+ð6Þ
+
+and p is the price of charitable giving
+
+ð7Þ
+
+Finally, recall that x, warm glow, will be a function of household A’s perceptions (denoted with an *) of household B’s
+situation. Speciﬁcally, to the extent that A perceives B’s effort to be under-rewarded, A will have warm glow in anticipation
+of donating to B. Note that in our approach, we do not distinguish between warm glow as an a priori affect that stems from
+the anticipation of making a charitable donation to an under-rewarded household and the ex post emotion that springs from
+having made such a donation. As observed by Loewenstein, Weber, Hsee, and Welch (2001), current research on the psychology of decision making has revealed that anticipated emotions (to be felt in the future) can trigger behavior a priori.Thus, we
+can model A’s warm glow as a function of A’s perception of both B’s effort and B’s luck. Formally, this can be speciﬁed as10
+
+x ¼ gðeB ; eB Þ; where
+
+
+
+og
+oeB
+
+
+> 0;
+
+o2 g
+oeB2
+
+!
+
+
+< 0 and
+
+og
+oeB
+
+
+6 0:
+
+ð8Þ
+
+Assuming linearity of Eqs. (4) and (5), we can see the generation of warm glow graphically in Fig. 3. Speciﬁcally, in Fig. 3,
+we see the income-effort relationship as OM. As depicted, household A is seen to be on OM at point A, while household B is
+seen to have experienced bad luck (e < 0). The deviation of B from OM creates an ‘‘unrewarded effort” by B and thus warm
+glow toward B.11 This source of warm glow can be seen in either of two ways. Speciﬁcally, x can be seen to arise directly from
+9
+For purposes of the present model effort levels are exogenously determined. This permits us to focus our inquiry on the extent to which luck (good or bad)
+affects warm glow and, thus, charitable donations.
+10
+We specify (o2 g=oe2B < 0) because as effort (and, therefore, income) of household B increases and B moves out of poverty it is reasonable to believe that the
+incremental warm glow from further effort (income) by B will decline.
+11
+To the degree that unrewarded effort provides the basis for x, eB > 0 will decrease warm glow toward B for any given level of effort exerted by B.
+Speciﬁcally, it may be thought by A to be the source of ‘‘superrewarded” effort for B, thus dampening the degree of warm glow toward B.
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+495
+
+the vertical distance (eB) between B and OM. Alternatively, note that, from A’s perspective, B’s income (M’) is less than dictated
+by B’s effort (the positive horizontal gap given by eB–eBM0 , where eBM0 is the ‘‘no luck” effort associated with income M’). Note
+that with this speciﬁcation of warm glow, the proposition that income drives charitable donations represents an under-speciﬁed
+model. First, as seen in Fig. 3 it is not income differentials per se that create warm glow, but rather the perception of unrewarded
+effort. Second, as reﬂected in Eq. (7), income (MA) creates the ability for household A to rectify the perceived injustice stemming
+from B’s unrewarded effort. Yet charitable donations (C) require both this ability12 and warm glow, which is driven by (and an
+enactment of) the need to restore equity.
+Note that holding everything else constant in Fig. 3, as household B’s luck decreases (and hence it’s income decreases), A
+should feel more and more warm glow towards B. Were this the complete basis for understanding warm glow, it should be
+the case that the relatively more wealthy (higher relative income) should enjoy a higher level of warm glow toward the poor;
+with the result that households with higher incomes should contribute proportionately more to charity. That is, as Eq. (7)
+implies, charitable giving should increase as ability increases (meaning, as income increases and the price of giving decreases). The data presented in Figs. 1 and 2, however, (together with the fact of tax-induced decreases in the price of charity
+as incomes increase, as well as a decreasing median propensity to give as incomes increase) suggest that warm glow must
+decrease as income increases. Our next arguments explain why this is so.
+The central problem is that to this point we have assumed that A can accurately identify B’s situation and its underlying
+causes. Our model so far assumes that if B’s low income is due to B’s lack of effort, A can accurately identify the indolence of
+B, and, conversely, if B’s plight is due to bad luck then A also can identify that cause of B’s low income and will feel warm glow
+for B. As observed by Adam Smith (1759), however, although sympathy springs from an understanding of another’s situation,
+our ability to understand this situation is always highly imperfect. In the case at hand, for example, it is implausible to assume that household A will be able to accurately decompose the degree to which effort and luck are responsible for B’s low
+income.13 As we explain below, A’s inability to decompose the role of luck and effort in B’s income is inﬂuenced by A’s income.
+Moreover, it is this critical relationship between A’s income and A’s inferences of B’s effort and luck that explain why warm
+glow, and hence charitable donations, do not increase more robustly with increases in income.
+Given the central role of e and e in the determination of x and given the inability of household A to accurately decompose
+household B’s income-effort function, the issue remains regarding how it is that A fashions its assessment of B’s situation.14
+Prior research has demonstrated a general tendency to form opinions regarding other’s situations based upon one’s own situation and experiences15 (see, e.g., Schneider, Hastorf, and Ellsworth (1970) and Adam (2000)). This ego-centric perception gives
+rise to well-established regularities in households’ behavior toward others. Speciﬁcally, when assessing causality of one’s own
+reward, inferences tend to be characterized by a ‘‘self-serving attribution bias” Miller and Ross (1975), Mullen and Riordan
+(1988), and Fletcher and Ward (1988), because people tend to attribute their own successes to (their own) effort and their failures to (random) bad luck. Second, when assessing the causality of another’s reward, one’s inferences are biased by the ‘‘fundamental attribution error” (Heider, 1958; Ross, 1977), meaning people tend to overestimate another’s dispositional qualities
+and underestimate situational forces.
+These biases provide two compelling implications for understanding warm glow. First, as has been amply demonstrated,
+there is a standard tendency of humans to attribute any good fortune that befalls them to their own actions, (Chen, Yates, &
+McGinnies, 1988; McCallum & Schopler, 1984; Schlenker, Hallam, & McCown, 1983). That is, there will be a general tendency
+to attribute to one’s own effort a portion of one’s income that is, in fact, derived from good luck. Second, people will underestimate the role of luck in assessing the cause of another’s bad outcome (Chen et al., 1988; Lord & Zimbardo, 1985). That is,
+bad luck that befalls others will be mistakenly attributed to others’ actions, in this case lack of effort.
+The combined effects of the fundamental attribution error, self-serving attribution bias, and A’s inability to decompose B’s
+effort and luck can be seen graphically in Fig. 4. Speciﬁcally, suppose that A has good luck (eA > 0) while, as previously assumed, B has bad luck (eB < 0). In this case, the consequence of the fundamental attribution error is that household A will
+attribute B’s situation to be the result of B’s effort, discounting the role that bad luck may have played in giving rise to B’s
+impoverished situation. Graphically, A observes B’s income level (M0 ) and assumes that it is generated by the income-effort
+function with eB = 0.16 Thus, absent any other distortions, A imputes to B, effort eBM0 rather than B’s true effort eB. Thus, A mistakenly attributes to indolence B’s low income level when in fact some portion of the low income is due to the presence of bad
+luck.
+
+12
+
+This ability is reﬂected by the household’s income and the price of giving, p.
+Considerable research into the economic and political causes of income inequality at the national and international levels exists and has been ably
+summarized by Burtless and Jencks (2003). While such macro-level perspectives help inform, they do not provide particular guidance to households as to the
+decomposition of income distributions that are attributable to effort and luck, respectively. Indeed, to our knowledge, our effort is the ﬁrst to focuses on the
+attribution by individuals of the sources of inequality and the consequences of those attributions.
+14
+Our model here parallels the literature on public transfers to the poor. That literature implicitly recognizes that government (acting on behalf of society’s
+wealthy) is limited in its abilities to accurately decompose the poor’s observed income into its respective effort and luck components (see, e.g., Stephen (1995)).
+This inability has created considerable support for implementing preliminary screening (e.g., work requirements) as a prerequisite to such public transfers.
+15
+This tendency to consider the situation of others from one’s own perspective has similarly found its way into the formal economic concept of fairness. See,
+e.g., BaumolPlease provide the book tiltle for reference Baumol (1986). (1986) discussion of envy in the context of the development of the concept of
+superfairness.
+16
+Here we assume complete discounting by A of the bad luck experienced by B. The argument holds, however, with less than complete discounting.
+13
+
+496
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+M
+M*
+
+A
+
+εA
+
+M
+
+}εB
+
+M’
+
+B
+O
+
+eBM’’ eBM’
+
+eB
+
+eA
+
+e
+
+Fig. 4. Warm glow with attribution biases.
+
+M
+
+A
+A’
+
+M*
+M*’
+M
+
+} εB
+
+M’
+
+B
+O
+
+eBM’’ eBM’
+
+eB
+
+eA’ , eA e
+
+Fig. 5. Luck-induced-income growth and warm glow.
+
+In addition, the propensity demonstrated by the self-serving bias is for A to attribute its level of income received to its
+own efforts. That is, A will discount its own good luck. In this event, A’s perception of the income-effort function is given
+by OM* rather than OM. This exacerbates the reduction in warm glow brought about by the simple discounting of B’s bad
+luck. That is, A believing that the income-effort function is OM* and projecting that B has been unaffected by luck, means
+that A perceives B’s effort level to be eBM00 Thus, relative to the case where households can accurately decompose other households’ income into their respective effort and luck components, the consequence of the self-serving attribution bias and fundamental attribution error is that warm glow toward B is reduced. The total distortion in A’s perceptions of B’s effort is given
+in Fig. 4 by eB  eBM00 Of this total distortion, eB  eBM0 is due to A’s discounting of B’s bad luck (the fundamental attribution
+error), while eBM’  eBM’’ is due to A’s discounting of its own good luck (self-serving attribution bias).
+As both these biases are enabled by the inability of households to accurately discern effort (e) from random good or bad
+luck (e), we can then see that the effects of luck – with its consequent impact on income – will cause warm glow to diminish
+with income. Consider, for instance, Fig. 5, which replicates Fig. 4 but now allows two high income households each with the
+same level of effort enjoy, alternatively, ‘‘good” and ‘‘great” luck, represented by A0 and A. While both households will experience the self-serving attribution and fundamental attribution biases, the extent of perceived unrewarded effort by household B will be higher for the lower of the two high income households. This, in turn, will cause, xA0 > xA. Alternatively stated,
+as the level of (luck-induced, but unperceived as such) income increases, the propensity for warm-glow-induced charitable
+donations will decline. Because (luck-induced) changes in income also alter the ability, and, hence likelihood, of making
+charitable donations (see Eq. (7)], the ultimate relationship between income and the magnitude of charitable giving is fundamentally empirical in nature. Nonetheless, the effects that we have identiﬁed here will tend, ceteris paribus, to reduce the
+propensity for charitable contributions as luck-induced income increases.
+Finally, we turn to the issue of how the individual effects that we have demonstrated are likely to aggregate over a population of households. In particular, recall from Eq. (4) that MA = f(eA) + e, where of/oe > 0 and e  N(0,r). Without loss of
+generality, consider a population of individuals with, say, a uniform distribution of effort ranging from 0 to 100, luck distributed N(0,15), and a linear parameterization of Eq. (4) such that MA = e + e. We can then simulate the reward distribution
+for a population of households. The results generate a distribution of monetary rewards with some incomes above an
+arbitrarily chosen M* (call these wealthy households) and some below M* (call these poor households). We expect that
+wealthy households are more likely to have been the beneﬁciaries of good luck (e > 0) than low income households and
+that low income households are more likely to have been the recipients of bad luck (e < 0). That is, Prob
+(e > 0|M > M*) > Prob (e > 0|M<M*) and Prob (e < 0|M<M*) > Prob (e < 0|M > M*). Initially assuming that M* = 75, we construct
+
+497
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+Probability that Household is
+Recipient of Good Luck
+
+100.00%
+90.00%
+80.00%
+70.00%
+60.00%
+
+Rich
+
+50.00%
+
+Poor
+
+40.00%
+30.00%
+20.00%
+10.00%
+0.00%
+50
+
+60
+
+70
+80
+Rich Threshold
+
+90
+
+100
+
+Fig. 6. Assumes r = 10.
+
+a computer-generated simulation of a reward distribution for a population of 5000 households. The results reveal that
+within the set of wealthy households, the likelihood of being the recipient of good luck was signiﬁcantly higher than
+the likelihood of being wealthy and having no luck or bad luck (66.78% vs. 33.22%). Thus, it will be the case that the
+self-serving attribution bias will – on average – be made more manifest in wealthy households (whom have been more
+likely to have been the recipients of good luck) than lower income households. Similarly, among poor households, the likelihood of being unlucky (54.48%) exceeds the likelihood of being the recipient of good or no luck (45.52%). Finally, iterations of this simulation while varying M* produces Fig. 6, which reveals that as we increase the value of M*, the likelihood
+that a wealthy household will have been the recipient of bias-inducing good luck increases.17 The consequence is that the
+wealthy households will, on average, be more exposed to the fundamental attribution error in their assessments of the underrewarded efforts of poor households. The collective consequence then is that wealthy households will be prone to a diminution in warm glow and, hence, charitable giving. Note that it is easy to see that the results here are independent of the
+particular values chosen for M* and r. Speciﬁcally, by simulating these results for variations in the values of M* and r, we
+ﬁnd that the prob (e > 0|M > M*) > prob (e > 0|M < M*) and prob (e < 0|M < M*) > prob (e < 0|M > M*) hold for the full range of
+values for Prob (e > 0|M > M*) > prob (e > 0|M < M*) and Prob (e < 0|M < M*) > prob (e < 0|M > M*).18
+4. Conclusion
+The introduction of the concept of warm glow as a standard argument in household utility functions has created new
+opportunities to better understand the underlying economics of charitable giving. Despite this promise, however, the fundamental underpinnings of the concept and the implications of these underpinnings have not been explored to this point.
+In this paper, we take a ﬁrst step toward establishing that foundation. To do so, we have drawn upon the economic and cognitive psychology literatures to suggest that warm glow is created by a sense of injustice that springs from the perception of
+unrewarded effort. Two perceptual biases adversely affect warm glow whenever households are affected by luck. Speciﬁcally, a self-serving attribution bias will cause higher income households to discount their own good luck, while the fundamental attribution error will cause higher income households to discount another (less fortunate) household’s bad luck.
+Since those households with good luck will tend to have higher incomes, the cumulative effect of these biases is to dampen
+the warm glow felt by high-income households. Moreover, the more good luck (and hence income) increases, the more warm
+glow is likely to be dampened. Since charitable giving is a function of this warm glow, as well as a household’s income and
+the price of giving (i.e., Eq. (7)), this dampening helps explain why charitable giving is not more robustly responsive to increases in income. Although increases in income are typically associated with decreases in the price of giving, and both these
+factors increase a household’s ability to contribute to charity, the decrease in warm glow may counterbalance this increased
+ability, leaving a seemingly uncorrelated relationship between income and charitable contributions.
+We note that our model, which posits attributions of effort and luck as determinants of ‘‘warm glow,” may also explain
+the marked propensity of wealthy households to donate to educational institutions, medical research and the cultural arts,
+rather than to religious causes that are more involved with the poor (see Auten, Clotfelter and Schmalbeck (2000)). Institutions in the former category are less redistributive in their mission, serving primarily those in the middle and upper classes.
+Indeed, paradoxically, the very wealthy may feel more warm glow from giving to those with less need, who nonetheless
+might appear to be more ‘‘deserving” recipients. Speciﬁcally, within the context of our model, wealthy households may
+17
+18
+
+Fig. 6 assumes a r value of 10. Alternative simulations with variations of r values do not alter this conclusion.
+These simulations are available upon request from the authors.
+
+498
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+be better able to assess whether these institutions are deserving (i.e., is their need due to a lack of effort or bad luck) than
+they can for poor households. This ability springs from the greater exposure to the users of these institutions than they have
+with lower income households that religious organizations serve. Moreover, exposure and contact may help increase feelings
+of identiﬁcation, and to the extent that those wealthy households identify with other households served by educational and
+cultural arts institutions, they are more likely to attribute positive characteristics toward them,19 hence seeing them as having made an effort and deserving of assistance.
+This research opens several doors for subsequent analysis. For instance, while ‘‘warm glow” is inherently unobservable
+and thus more suitable to theoretical analysis, the discussion here is suggestive of subsequent empirical analysis. Speciﬁcally, with a fully and properly speciﬁed wage equation it may be possible to interpret positive (negative) residuals as good
+(bad) luck and then to use these residuals to test for the empirical signiﬁcance of the self-serving and fundamental attribution biases in tempering the warm glow that high income households realize from charitable giving.
+Additionally, we must acknowledge that the theoretical inquiry into the underpinnings of the concept of warm glow is
+still relatively unreﬁned at this point. Indeed, in his recent survey of the literature, Andreoni (2006, p. 1264) notes that
+‘‘the concept of warm-glow is only a convenient reduced form representation for deeper and more complex considerations
+of givers.” Here we have begun, but only begun, the inquiry into the more complex processes that give rise to warm glow. We
+take warm glow to be an affect (an emotional experience), but like many affects, warm glow can arise from a cognitive calculus (that one has addressed or anticipates redressing an under-rewarded effort). For example, most researchers feel a sense
+of delight from getting a publication accepted because they reason that this publication will be seen in a positive light by
+their peers. Thus, delight (the affect) arises from a cognitive process (reasoning that they will enjoy respect from their peers).
+What would be particularly interesting is whether different cognitive processes lead to differing amounts of warm-glow.
+Recent advances in cognitive processing, for example, detail two information processing systems–one associative and heuristic (also called system one processing) and another rule-based and calculative (also called system two processing) (Simmons & Nelson, 2006). It may be that there are both heuristic ways and calculative ways of coming to believe one has
+redressed an under-rewarded effort, and one cognitive process may be more tightly linked to the warm-glow affect than
+the other. This speculation must, however, await further investigation.
+Also, a natural extension of the work presented here would be to endogenize the effort levels across the various households. One possibility for doing so is suggested by Buchanan (1975) who suggests the possibility of adverse selection, whereby the prospects of the receipt of charity alter effort levels of the poor. Perhaps even more promising, the present paper
+suggests that models of pure altruism may be substantially advanced by incorporating the role of the Fundamental Attribution Error and the self-serving bias.
+One limitation of the paper is that the model for charitable giving is ﬁtted to one data set (charitable giving in the US), but
+not tested on an independent data set. Since very basic processes are assumed to be responsible for charitable giving (e.g.,
+affective processes, such as warm glow; cognitive processes, such as cognitive biases) and these are proffered to be independent of institutional factors (such as tax credits), a natural extension would be to extend our inquiry into an international
+domain. One might, for instance, speculate that in collective societies, where one’s self-identity encompasses those people
+in important in-groups (see, e.g., Markus and Kitayama (1991)) and where ego-centric biases and self-serving attribution
+errors are less prevalent (see, e.g., Morris and Peng (1994)), we might expect less dampening of warm glow among the
+wealthy donors, and thus more giving by the wealthy. Similarly, examination of international economic data and patterns
+may bear out the robustness or fragility of the results we report here.
+Finally, in the terminology of the present paper, the policy evolution of welfare to ‘‘workfare” may be thought of as incorporating increased public efforts to parse the distribution of incomes by the poor into their respective ‘‘effort” and ‘‘luck”
+components. Given the signiﬁcant role of cognitive biases in the determination of charitable propensities identiﬁed in this
+paper, further research on the impact of such biases to the formation of optimal welfare policies is critical.
+Acknowledgement
+We would like to thank Jim Andreoni, Randy Beard, Dennis Quinn, Ed Soule, Alois Stutzer and Peter Tinsley for thoughtful
+comments on an earlier draft of this paper. We are also grateful to our colleague Robin Dillon-Merrill for the design of our
+simulation exercise. We alone remain responsible for remaining errors.
+References
+Adams, J. S. (1963). Towards an understanding of inequity. Journal of Abnormal and Social Psychology, 67, 422–436.
+Adam, S. (2000). The theory of moral sentiments, liberty classics, Indianapolis (1759). Amherst, New York: Republished Prometheus Books.
+Andreoni, J. (1989). Giving with impure altruism: Applications to charity and ricardian equivalence. Journal of Political Economy, 97, 1447–1458.
+Andreoni, J. (1990). Impure altruism and donations to public goods: A theory of warm-glow giving. Economic Journal, 100, 464–477.
+Andreoni, J. (1995). Cooperation in public-goods experiments: Kindness or confusion. American Economic Review, 891–904.
+Andreoni, J. (2006). Philanthropy in Kolm. In Serge-Christophe Kolm & Jean Mercier Ythier (Eds.). Handbook of the economics of giving altruism and reciprocity
+(vol. 2). Elsevier.
+
+19
+See Brewer (1979) and Kramer (1991) for literature on how people are more positively disposed towards those in their in-group with whom they identify
+and are biased against those in their out-group with whom there is no social identiﬁcation.
+
+J.W. Mayo, C.H. Tinsley / Journal of Economic Psychology 30 (2009) 490–499
+
+499
+
+Andreoni, J., & J., Miller (2002). Giving according to GARP: An experimental test of the consistency of preferences for altruism. Econometrica, 70, 737–753.
+Auten, G. E., & Rudney, G. (1990). The variability of individual charitable giving in the US, Voluntas, 1(2), 80–97.
+Auten, G. E., Clotfelter, C., & Schmalbeck, R. L. (000). Taxes and philanthropy among the wealthy. In J. Slemrod (Ed.), Does atlas shrug? the economic
+consequences of taxing the rich (pp. 392–424). New York and Cambridge, MA: Russell Sage and Harvard University Press.
+Batson, C. D. (1987). Prosocial motivation: Is it ever truly altruistic?. In L. Berkowitz (Ed.). Advances in experimental social psychology (vol. 20 pp. 65–122).
+New York: Academic Press.
+Batson, C. D. (1991). The altruism question: Toward a social psychological answer. Hillsdale, NJ: Erlaum.
+Batson, C. D., Eklund, J. H., Chermok, V. L., Hoyt, J. L., & Ortiz, B. G. (2007). An additional antecedent of empathetic concern: Valuing the welfare of the person
+in need. Journal of Personality and Social Psychology, 93(1), 65–74.
+Baumol, W. J. S. (1986). Superfairness: Applications and theory. Cambridge, MA: The MIT Press.
+Becker, G. (1974). A Theory of social interactions. Journal of Political Economy, 82, 1095–1117.
+Bergstrom, T., Blume, L., & H., Varian (1986). On the private provision of public goods. Journal of Public Economics, 29, 25–49.
+Bernheim & Douglas, B. (1986). On the voluntary and involuntary provision of public goods. American Economic Review, 76, 789–793.
+Bernheim, B. D., Schleifer, A., & Summers, L. H. (1985). The strategic bequest motive. Journal of Political Economy, 93, 1045–1076.
+Brewer, M. (1979). Ingroup bias in the minimal intergroup situation: A cognitive-motivational analysis. Psychological Bulletin, 86, 307–324.
+Buchanan, J. M. (1975). The samaritan’s dilemma. In E. S. Phelps (Ed.), Altruism morality and economic theory (pp. 71–85). New York: The Russell Sage
+Foundation.
+Burtless, G., & Jencks, C. (2003). American inequality and its consequences. In H. J. Aaron, J. A. Lindsay, & P. Nivola (Eds.), Agenda for the nation. Washington,
+DC: Brookings Institution Press.
+Chen, H., Yates, B. T., & McGinnies, E. (1988). Effects of involvement on observers’ estimates of consensus distinctiveness and consistency. Personality and
+Social Psychology Bulletin, 14, 468–478.
+Clotfelter, C.T. (2002). The economics of giving, July, Mimeo.
+Cox, D. (1995). Motives for private income transfers. Journal of Political Economy, 95, 508–546.
+Davis, M. H. (1994). Empathy: A social psychological approach Madison. WI: Brown and Benchmark.
+Eisenberg, N., & Miller, P. A. (1987). Empathy and prosocial behavior. Psychological Bulletin., 101, 91–119.
+Fletcher, G. J. O., & Ward, C. (1988). Attribution theory and processes: Cross-cultural perspective. In M. H. Bond (Ed.), The cross cultural challenge to social
+psychology (pp. 230–244). Newbury Park, CA: Sage.
+Garrett, J., & Libby, W. L. (1973). Role of intentionality in mediating responses to inequity in the dyad. Journal of Personality and Social Psychology, 28, 21–27.
+Glazer, A., & Konrad, K. A. (1996). A signaling explanation for charity. American Economic Review, 86, 1019–1027.
+Harbaugh, W. T. (1998). The prestige motive for making charitable transfers. American Economic Review, 88, 277–282.
+Heider, F. (1958). The psychology of interpersonal relations. New York, NY: Wiley.
+Homans, G. C. (1961). Social behavior: Its elementary forms. New York, NY: Harcourt, Brace & World.
+Kramer, R. M. (1991). Intergroup relations and organizational dilemmas: The role of categorization processes. In L. L. Cummings & B. M. Staw (Eds.).
+Research in organizational behavior (13, pp. 191–228). Greenwich, CT: JAI Press.
+Lane, I. M., & Messe, L. A. (1971). Equity and the distribution of rewards. Journal of Personality and Social Psychology, 20, 1–17.
+Loewenstein, G. F., Weber, E. U., Hsee, C. K., & Welch, N. (2001). Risk as feelings. Psychological Bulletin, 127(2), 267–286.
+Lord, C. G., & Zimbardo, P. G. (1985). Actor observer differences in the perceived stability of shyness. Social Cognition, 3, 250–265.
+Lowenstein, G., Thompson, L., & Bazerman, M. (1989). Social utility and decision making in interpersonal contexts. Journal of Personality and Social
+Psychology, 57, 426–441.
+Markus, H., & Kitayama, S. (1991). Culture and the self: Implications for cognition emotion and motivation. Psychological Review, 98, 224–253.
+McCallum, D. M., & Schopler, J. (1984). Agent and observer attributions of inﬂuence: The effects of target response. Personality and Social Psychology Bulletin,
+10, 410–418.
+McClelland, R. (1989). Voluntary donations and public expenditures in a federalist system: Comment and extensions. American Economic Review, 79,
+1291–1296.
+Miller, D. T., & Ross, M. (1975). Self-serving bases in the attribution of causality: Fact or ﬁction? Psychological Bulletin, 82, 213–225.
+Morris, M. W., & Peng, K. (1994). Culture and cause: American and chinese attributions for physical and social events. Journal of Personality and Social
+Psychology, 67, 949–971.
+Mullen, B., & Riordan, C. A. (1988). Self-serving attributions for performance in naturalistic settings: A meta-analytic review. Journal of Applied Social
+Psychology, 18, 3–22.
+Palfrey, T. R., & Prisbey, J. (1997). Anomalous behavior in public goods experiments: How much and why? American Economic Review, 87, 829–846.
+Roberts, R. (1984). A positive model of private charity and wealth transfers. Journal of Political Economy, 92, 136–148.
+Ross, L. (1977). An intuitive psychologist and his shortcomings: Distortions in the attribution process. In L. Berkowitz (Ed.). Advances in experimental social
+psychology (vol. 10). New York: Academic Press.
+Schlenker, B. R., Hallam, J. R., & McCown, N. E. (1983). Motives and social evaluation: Actor-observer differences in the delineation of motives for a beneﬁcial
+act. Journal of Experimental Social Psychology, 19, 254–273.
+Schneider, D., Hastorf, A., & Ellsworth, P. (1970). Person perception (2nd ed.). MA: Addison Wesley, Reading.
+Shefrin, H. M., & Statman, M. (1984). Explaining investor preference for cash dividends. Journal of Financial Economics, 27, 253–282.
+Simmons, J. P., & Nelson, L. D. (2006). Intuitive conﬁdence: Choosing between intuitive and nonintuitive alternatives. Journal of Experimental Psychology:
+General, 135(3), 409–428.
+Speigel & Menahem (1995). Charity without altruism. Economic Inquiry, 33, 625–639.
+Stephen, C. (1995). Altruism, the samaritan’s dilemma, and government transfer policy. American Economic Review, 85, 46–57.
+Thaler, R. (1985). Mental accounting and consumer choice. Marketing Science, 4, 199–214.
+The Center on Philanthropy, Giving USA. (2004), AAFRC Trust for Philanthropy.
+Walster, E., Berscheid, E., & Walster, G. W. (1973). New directions in equity research. Journal of Personality and Social Psychology, 25, 151–176.
+Walster, E., Walster, G. W., & Berscheid, E. (1978). Equity theory and research. Boston, Ma: Allyn and Bacon.
+Warr, P. (1982). Pareto optimal redistribution and private charity. Journal of Public Economics, 19, 131–138.
+
+

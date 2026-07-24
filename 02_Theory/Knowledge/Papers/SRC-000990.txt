@@ -1,0 +1,2212 @@
+Rev Manag Sci (2018) 12:969–1002
+https://doi.org/10.1007/s11846-017-0235-2
+ORIGINAL PAPER
+
+Brand image and equity: the mediating role of brand
+equity drivers and moderating effects of product type
+and word of mouth
+Amin Ansary1 • Nik M. Hazrul Nik Hashim1
+
+Received: 24 December 2015 / Accepted: 19 April 2017 / Published online: 22 April 2017
+ Springer-Verlag Berlin Heidelberg 2017
+
+Abstract In today’s competitive landscape, organizations are progressively
+searching for valuable practices to create strong consumer-based brand equity.
+Managers must remain vigilant and receptive to factors that influence brand equity.
+Accordingly, this paper addresses this issue. Specifically, the paper empirically
+investigates the mediating roles of three drivers of brand equity in the brand
+image—consumer-based brand equity relationship and explores the moderating
+roles of product type and word of mouth (WOM) on the linkages between brand
+image and brand equity. In order to understand these relationships, a questionnaire
+survey was administered among brand consumers, yielding a total of 321 responses.
+Confirmatory factor analysis and Cronbach’s alpha were utilized to estimate the
+validity and reliability of the measures. Structural equation modeling with maximum likelihood estimation was employed to test the hypotheses. The authors find
+that brand image positively affects brand attachment, brand attitude, and brand
+awareness. Brand attachment and attitude positively influence consumer-based
+brand equity. The findings show that brand attachment and brand attitude partially
+mediate the relationship between brand image and brand equity. Product type and
+WOM have a significant moderating effect on the relationships among brand image,
+drivers of brand equity, and brand equity. The authors discuss the limitations of the
+study and provide future research directions.
+Keywords Brand image  Consumer-based brand equity  Drivers of brand equity 
+Word of mouth  Contingent effects
+JEL Classification M310
+& Amin Ansary
+amin.ansary1358@yahoo.com
+1
+
+Graduate School of Business, National University of Malaysia, 43600 Bangi, Selangor,
+Malaysia
+
+123
+
+970
+
+A. Ansary, N. M. H. Nik Hashim
+
+1 Introduction
+Building strong brand equity is a key issue in today’s business world. Consumerbased brand equity could lead to robust distribution networks, establish product
+brand extensions, and reinforce price elasticity (Kay 2006). Accordingly, marketers
+are giving particular attention to the future outlook of brands, and are increasingly
+searching for effective methods to create strong brand equity to remain competitive
+or avoid becoming obsolete (Wilcox et al. 2008). To meet these challenges,
+marketers and researchers have intensified the role of brand equity (Faircloth et al.
+2001), as consumers are generally committed to a limited number of brands
+(Thomson et al. 2005). Obviously, effective branding that results in favorable
+consumer evaluations is a critical element in brand success.
+Keller (1993) suggested that there are two types of brand equity measurements:
+financial-based and consumer-based. Nonetheless, Keller’s consumer-based brand
+equity model provides a framework for how consumers’ responses help in building
+brand equity (Kakati and Choudhury 2013). A number of studies have focused on
+this topic (e.g., Faircloth et al. 2001; Jaiprakash 2008; Mourad et al. 2011).
+Notwithstanding the attention the topic has received, one of the main concerns for
+marketers is the complex issue and inadequate understanding of consumer-based
+brand equity, particularly with respect to predicting consumer behavior toward the
+brand from a contingency perspective (Hamzaoui-Essoussi et al. 2011; Wang et al.
+2006).
+Another critical dimension of branding that has received considerable attention
+is brand image (Keller 2001). Researchers have generally viewed brand image as
+an important factor that affects consumers’ purchase decisions. A good brand
+image strategy distinguishes a company’s brand from its competitors, resulting in
+favorable evaluations and associations in the consumers’ mind (Kumaravel and
+Kandasamy 2012). Accordingly, brand image is one of the most significant
+factors that builds brand equity. Previous studies (e.g., Faircloth et al. 2001;
+Jaiprakash 2008; Kim et al. 2003) have shown that brand image has a direct
+effect on brand equity; however, they have not indicated how this relationship
+exists. The existing literature has not yet identified the intervening mechanism
+that describes the path of influence from the brand image context to brand
+equity. It thus remains uncertain whether brand equity drivers play a significant
+role in connecting brand image and brand equity. Consequently, drivers of brand
+equity could be one of the prevailing mechanisms through which brand image
+influences brand equity. Thus, it is important to identify potential brand equity
+drivers (e.g., brand attachment, brand attitude, brand awareness) that shape the
+relationship between brand image and brand equity. Accordingly, decision
+makers could pay more attention to these drivers in order to boost consumerbased brand equity.
+Very few researchers have tried to systematically investigate the moderating
+effects between brand image and brand equity. Identifying moderating effects is
+necessary, as it will enable scholars to understand whether differential relationships arise according to identifiable portions of their sample (Bryman and Cramer
+1999). According to Christodoulides and Chernatony (2010), the brand category is
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+971
+
+a critical factor in brand equity measurement. In this line, Lovett et al. (2013)
+claimed that product type may act as a moderating variable, and suggested that
+future research explore such frameworks. To the best of our knowledge, despite
+efforts to assess the effect of brand image on brand equity, no research to date has
+considered how such a relationship is affected by differences in product type. We
+propose that brand image per se cannot adequately explain all variations in brand
+equity, but rather that it is contingent on product type. Accordingly, among
+different types of products, such as search goods and experience goods, the effect
+of brand image on consumer-based brand equity may differ. As an example,
+Adidas and Nike brands, which belong to the clothing and shoes categories, are
+considered search goods, while Head & Shoulders and Pantene brands, which
+belong to the haircare category, are treated as experience goods. The effect of
+brand image on consumer-based brand equity may thus vary among these brands.
+For instance, what if Adidas and Nike were to focus more on their brand image
+compared to Head & Shoulders and Pantene? Or what if Adidas and Nike
+attempted to strengthen their brand equity drivers to a greater extent compared to
+Head & Shoulders and Pantene? Additionally, marketers wish to better understand
+word of mouth (WOM) because traditional forms of communication (e.g.,
+advertising) are tending to lose their effectiveness (Trusov et al. 2009). In other
+words, WOM has become a much more influential factor on consumer behavior
+compared to other forms of marketing communications, such as advertising and
+publicity (Alam and Yasin 2010). Although WOM has been acknowledged as the
+most effective marketing strategy (Misner 1999), the role of WOM and its impact
+on the relationship between brand image and consumer-based brand equity has yet
+to be investigated.
+This study attempts to fill these gaps. It is designed to test a conceptual model
+that incorporates the relationships between brand image and consumer-based brand
+equity. Specifically, this study has two main purposes. First, it acknowledges that
+both brand image and drivers of brand equity are vital to building strong brand
+equity. Using a path model, the study examines how brand equity drivers mediate
+the relationship between brand image and brand equity. Second, this study
+investigates the moderating role of product type and WOM on the relationships
+between brand image, drivers of brand equity, and brand equity. This study adds to
+the existing literature by assessing the linkages between important brand constructs,
+and examines the moderating impact of product type and WOM on brand equity.
+Understanding such relationships can have important implications for branding
+strategies. In this study, the model and hypotheses are conceptualized using
+associative network memory theory.
+This paper proceeds in the following manner. First, the theory of associative
+network memory is described. The constructs of brand image, brand equity, and
+drivers of brand equity are then defined. Next, the research hypotheses and
+framework are introduced. This is followed by the research methodology, analysis,
+and results. We conclude with implications and directions for future research.
+
+123
+
+972
+
+A. Ansary, N. M. H. Nik Hashim
+
+2 Conceptual framework
+2.1 Associative network memory theory
+Associative network memory theory (ANMT) relies on how memory works (Srull
+and Wyer 1989). Indeed, the theory assumes that memory contains pieces of
+information called nodes (Smith 2004). A node plays the role of activator for other
+nodes, either through external information obtained from external sources or
+internal information retrieved from long-term memory (Keller 1993). Once an
+individual perceives information from internal or external sources, it is decoded into
+an abstract, mental language and is allocated to a node in the network knowledge
+structure (Kreuzbauer and Malter 2005).
+According to Keller (1993), memory principles influence understanding and
+knowledge about a brand, and ultimately affect brand equity. Understanding the
+structure of brand knowledge is critical because this knowledge influences
+consumers’ when they think of the specific brand. That said, ANMT suggests that
+semantic memory consists of a set of nodes that are connected to each other by
+associations (Keller 1993). According to this theory, semantic information is ranked
+in consumers’ minds in a hierarchical model, wherein nodes are connected by
+association (Morrin 1999). Accordingly, the relationships between brand image,
+drivers of brand equity, and brand equity, including the moderating effects of WOM
+and product type, could be explained by ANMT because a necessary condition for
+such links is establishing a brand node in a consumer’s memory.
+2.2 Consumer-based brand equity and its drivers
+According to Keller (1993), brand equity can be defined in terms of marketing
+effects that are attributed to a brand; for example, particular behavioral responses
+from the marketing of a product due to its name that would not occur if the same
+product did not have a brand name. Accordingly, Keller (1993, p. 8) defined
+consumer-based brand equity as ‘‘the differential effect of brand knowledge on
+consumer response to the marketing of the brand’’. Consistent with this description,
+Keller (1993) noted that a brand has a positive (negative) consumer-based brand
+community if consumers respond more (less) enthusiastically to the product, price,
+or promotion than they do to the same marketing mix activities when associated
+with a fictitiously named version of the product. Therefore, measurement and
+examination of brand equity are important because they reflect the health of the
+brand and indicate whether the firm’s brand management is effective (Shabbir and
+Rehman 2013). Indeed, a brand with higher equity tends to acquire higher market
+share and prices can be positioned at a premium relative to competitors (Liao and
+Cheng 2014). Accordingly, the importance of brand equity has been highlighted by
+many researchers and marketers alike. For instance, Ailawadi et al. (2003),
+Broniarczyk and Alba (1994), and Loken and John (1993) have written extensively
+on the concept of brand equity and how it can be properly managed. Brand equity is
+measured using two approaches: financial-based and consumer-based (Keller 1993).
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+973
+
+From a financial perspective, brand equity focuses on the value of a brand for the
+company. From the consumers’ point of view, brand equity concentrates on the
+measurement of brand equity based on consumer behavior (Buil et al. 2013).
+Keller’s consumer-based brand equity model provides a framework of how
+consumers’ responses help in building brand equity (Kakati and Choudhury 2013).
+Thus, the present study focuses on consumer-based brand equity. Numerous studies
+have attempted to identify the fundamental drivers of brand equity (e.g., Chen 2010;
+Keller and Lehmann 2003; Park et al. 2010).
+From an array of brand constructs, we choose to focus here on three fundamental
+brand equity drivers; namely, brand attachment, brand attitude, and brand
+awareness. Park et al. (2010) defined brand attachment as the feeling of selfconnection, bond, or attachment towards a brand. Attachment to a brand is an
+emotional state involving the relationship between consumers and the brand (Louis
+and Lombart 2010). Brand attachment is important because it affects consumers’
+behavior and boosts brand profitability and consumers’ lifetime value (Park et al.
+2010). In other words, strong brand attachment results in resistance among
+consumers to changing to other brands and an enhanced ability of the brand to stand
+up to unexpected news or information (e.g., a product failure; Keller and Lehmann
+2003). In the context of brand equity, it is important to predict psychological
+influences and their continuity, even in the face of an unclear future or fluctuating
+environments (Meyer 2012). Consistent with this, some scholars (e.g., Fedorikhin
+et al. 2008; Thomson et al. 2005) have emphasized the importance of emotion,
+which is a psychological attribute in brand attachment. Indeed, brand attachment
+concentrates on the connection between brand and consumer, so understanding it
+provides insight into consumer behavior, and especially purchase behavior (Meyer
+2012). In addition, once consumers have become attached to a certain brand, they
+are more likely to purchase it (Meyer 2012) and pay a premium price for it
+(Thomson et al. 2005). Therefore, attachment is crucial in explaining the strength of
+the tie between consumer and brand, because attachment influences behaviors that
+enhance brand profitability (Thomson et al. 2005), resulting in higher brand equity.
+Accordingly, researchers have shown a significant interest in consumers’ attachment
+to brands as a determinant of brand equity (Park et al. 2010).
+Brand attitude refers to a consumer’s overall evaluation of a brand in terms of
+both product and non-product attributes. These attributes include a set of established
+assumptions or feelings toward the brand, including brand appeal, likability, and
+favoritism (Spears and Singh 2004). Brand attitude is important because it forms the
+basis of consumers’ behavior (e.g., choosing the brand), such that a positive
+consumer attitude toward a brand and a negative attitude toward competing brands
+affect their intention to purchase the brand (Laroche et al. 1996; Voester et al.
+2016). As a result, some researchers have found that brands acquire more market
+share when consumer attitude toward them becomes more positive (e.g., Faircloth
+et al. 2001). Brand attitude is considered to be a vital factor because it is a
+foundation of consumer behavior (Keller 1993). Brand attitude can predict
+behaviors that are of interest to companies, such as purchase intention, purchase
+behavior, and brand choice (Priester et al. 2004). In addition, a consumer’s brand
+attitude is considered to be representative of their overall associations with the
+
+123
+
+974
+
+A. Ansary, N. M. H. Nik Hashim
+
+brand, and as a factor that brings about higher durability in consumer memory in
+relation to other associations (Chattopadhyay and Alba 1988). According to the
+above discussion, previous research in commercial branding has highlighted the
+significance of brand attitude and its possible antecedent relationship to outcome
+constructs such as brand equity (Faircloth 2001; Keller 1993; Lane and Jacobson
+1995). Hence, Park et al. (2010) suggested that brand attachment and brand attitude
+are two essential drivers of brand equity.
+Aaker (1991, p. 61) defined brand awareness as ‘‘the ability for a buyer to
+recognize or recall that a brand is a member of a certain product category’’. There
+can be no brand if there is an absence of brand awareness (Wilcox et al. 2008), and
+brands that are better known among consumers are more likely to be included in
+consumers’ consideration set (Huang and Sarigöllü 2012). Consumers only choose
+brands of which they are aware (Shabbir and Rehman 2013); in fact, brand
+awareness plays a critical role in their final choice (Baker et al. 1986). In accordance
+with ANMT, Yasin (2009) claimed that brand awareness refers to a brand node in
+consumers’ memory that indicates the ability of consumers to recognize the brand
+among others in its category. In other words, brand awareness indicates how well a
+brand identity (e.g., a brand name) comes to consumers’ minds. Brand awareness is
+considered to be a significant factor in the consumer decision-making process, and
+plays a critical role in ensuring that consumers think about a certain brand when
+they envision a particular product category (Keller 1993). Put another way,
+increasing brand awareness enhances the likelihood that a specific brand will enter a
+consumer’s consideration set (i.e., range of brands contemplated for purchase)
+(Nedungadi 1990). Moreover, brand awareness could influence brand choice in the
+consideration set, even in the absence of other brand associations (Keller 1993).
+Many consumers tend to make purchase decisions only from familiar and wellestablished brands (Jacoby et al. 1977). In addition, in low-involvement buying
+decision processes, a minimum level of brand awareness will naturally help
+consumers to choose a specific product (Bettman and Park 1980). Accordingly,
+Keller and Lehmann (2003) claimed that brand awareness is one of the most
+important factors of the brand value chain, contributing to enhanced brand equity.
+This implies that brand awareness could be considered an important driver of brand
+equity. Overall, these constructs are highly relevant for strategic brand decisions
+(Eastman and Eastman 2011; Keller and Lehmann 2003; Park et al. 2010; Yasin
+2009), which, in turn, influence brand equity (Yoo et al. 2000).
+To sum up, brand attachment, brand attitude, and brand awareness are three
+interrelated constructs that reflect the domain of essential brand equity drivers. In
+Keller and Lehmann’s (2003) brand value chain model, brand attachment, brand
+attitude, and brand awareness, which are the sources of brand equity, are transferred
+to the next stage of the value chain; namely, brand performance. Taken together,
+these brand equity drivers influence how consumers will respond in the marketplace
+(Ambler et al. 2002). Ambler et al. (2002) noted six specific consequences of such
+reactions: price premium (i.e., how much extra consumers are willing to pay for an
+alternative product due to its brand), price elasticity (i.e., the extent to which
+consumers becoming more or less demanding when the price goes up or down),
+market share (i.e., the ability of marketing programs to build loyalty and drive brand
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+975
+
+sales), brand expansion (i.e., the success of the brand in supporting category
+extensions and new product development in relevant categories), cost structure (i.e.,
+the ability to cut marketing expenses due to prevailing consumer mindset), and
+brand profitability. Accordingly, in order to better understand how to manage and
+monitor consumer-based brand equity, we examine brand attachment, brand
+attitude, and brand awareness.
+2.3 Brand image and brand equity
+Since the 1950s, brand image has been considered a vital concept in marketing
+(Gardner and Levy 1955). Consistent with ANMT, Keller (1993, p. 3) defined the
+brand image as ‘‘perceptions about a brand as reflected by the brand associations
+held in consumer memory’’. Brand associations are informal nodes that are linked in
+memory to the meaning of the brand for consumers, and play a vital role in
+achieving strong brand equity (Keller 1993). In other words, brand image describes
+the way consumers think about a brand and the feelings the brand brings to their
+minds when they think about it (Keller 2001). Therefore, a good brand image
+enables firms to achieve competitive advantage in the market (Roy and Banerjee
+2007). From the end-users’ perspective, a strong brand image has a positive effect
+on consumers’ perception of the brand, which results in their being more likely to
+choose the brand over those competitors, and thereby makes the brand more
+competitive overall (Keller 1993). Moreover, Keller (1993) stated that a strong
+brand image affects the firm’s pricing strategy, promotion efforts, and distribution
+of the brand. Similarly, Kim et al. (2008) claimed that brand image has a significant
+effect on the brand’s marketing activities. According to Park et al. (1986), once a
+new product has acquired a distinct image relative to competing brands, its position
+in the market will become secure and its market share enhanced. However, some
+scholars have suggested that the significance of brand image in relation to
+consumers’ product assessment varies among product types, such that brand image
+may not be the main appraisal criteria for all products. For example, Graeff (1997)
+suggested that beer is frequently advertised and marketed mainly based on image,
+whereas automobile producers market their products based on non-image aspects,
+such as safety, warranty, price, and headroom.
+Marketing researchers have proposed that brand image is a significant component
+of brand equity (e.g., Keller 1993). Consistent with this, a number of studies have
+conceptualized the direct impact of the brand image on brand equity (Faircloth et al.
+2001; Krishnan 1996; Lassar et al. 1995). A summary of empirical studies on the
+relationship between brand image and brand equity is provided in Table 1. Several
+observations can be drawn from the review. First, most studies have examined the
+direct effect of brand image on brand equity. Thus, there is a lack of studies
+identifying the intervening mechanism that clarifies the path of influence from brand
+image to brand equity. Brand equity drivers potentially play a mediating role in
+connecting the brand image with brand equity, such that enhancing these drivers is
+believed to potentially increase brand equity (Keller and Lehmann 2003; Park et al.
+2010). Brand equity drivers could serve as one of the mechanisms through which
+brand image influences brand equity, and their mediating role thus needs to be
+
+123
+
+Product/service category
+
+Athletic shoes, Camera
+film, and television sets
+
+Sweaters
+
+Electronics products
+
+Toothpaste
+
+Author(s)/year
+
+Yoo et al. (2000)
+
+Faircloth et al.
+(2001)
+
+123
+
+Chen (2010)
+
+Gill and Dawra
+(2010)
+
+Evaluating Aaker’s sources of brand
+equity and the mediating role of
+brand image
+
+Examining the effect of green brand
+image on green brand equity
+
+Examining the effect of brand
+attitude and brand image on brand
+equity
+
+Exploring the relationship between
+retail brand image and brand equity
+
+Purpose of the study
+
+Table 1 Empirical studies on the relationship between brand image and brand equity
+
+(3) Both green satisfaction and green
+trust positively and significantly
+influenced green brand equity
+
+DV: green brand equity
+
+DV: brand equity
+
+Mediator: brand image
+
+Results indicated that brand
+awareness positively and
+significantly influenced the brand
+image. In addition, brand image
+positively and significantly
+affected brand equity
+
+(2) Green brand image significantly
+and positively influenced both
+green satisfaction and green trust
+
+Mediator: green satisfaction, green trust
+
+IV: brand awareness
+
+(1) Green brand image significantly
+and positively influenced green
+brand equity
+
+The results indicate that brand image
+is significantly influenced brand
+equity; however, brand attitude
+does not significantly affect brand
+equity
+
+Retail brand image indirectly
+influenced brand equity through
+dimensions of brand equity
+(perceived quality and brand
+awareness)
+
+Major findings
+
+IV: green brand image
+
+DV: brand equity
+
+IV: brand image, brand attitude
+
+DV: brand equity
+
+Mediator: dimensions of brand equity
+
+IV: retail brand image (or store image)
+
+Variables
+
+976
+A. Ansary, N. M. H. Nik Hashim
+
+Product/service category
+
+Mobile phone
+
+Healthcare sector
+
+Chocolate
+
+Bank
+
+Author(s)/year
+
+Akbar and Azhar
+(2011)
+
+Chahal and Bala
+(2012)
+
+Emari et al.
+(2012)
+
+Fatema et al.
+(2013)
+
+Table 1 continued
+
+Examining the effect of brand image
+and brand loyalty on brand equity
+
+Examining the mediating impact of
+brand image on brand equity
+
+Examining the effect of perceived
+service quality, brand loyalty, and
+brand image on brand equity
+
+Investigating the impact of brand
+image on brand equity
+
+Purpose of the study
+
+DV: brand equity
+
+IV: brand image, brand loyalty
+
+DV: brand equity
+
+Mediator: brand image
+
+IV: brand association, brand personality
+
+DV: brand equity
+
+Mediator: brand loyalty
+
+IV: perceived service quality, brand
+loyalty, brand image
+
+DV: brand equity
+
+IV: brand image
+
+Variables
+
+Both brand loyalty and brand image
+significantly and positively
+influenced brand equity
+
+Brand image is significantly and
+positively influenced brand equity.
+Moreover, the mediating role of the
+brand image between the brand
+association and brand personality
+as independent variables and brand
+equity as dependent variables was
+confirmed
+
+The direct effect of brand image on
+brand equity was negative and
+insignificant. Yet, Brand image
+indirectly influenced brand equity
+through brand loyalty
+
+The authors showed that brand image
+has a significant positive effect on
+brand equity
+
+Major findings
+
+Brand image and equity: the mediating role of brand…
+977
+
+123
+
+123
+
+Electric and electronic
+products
+
+Bank
+
+Clothing
+
+Cosmetic products
+
+Ng et al. (2014)
+
+Subramaniam
+et al. (2014)
+
+Sasmita and
+Mohd Suki
+(2015)
+
+Liao et al.
+(2017)
+
+Exploring the effect of brand
+personality on the relationship
+between antecedents of brand
+personality (e.g. brand awareness,
+brand association, perceived brand
+quality, brand image, and brand
+reputation) and brand equity
+
+Examining the effect of brand
+association, brand loyalty, brand
+awareness, and brand image on
+brand equity
+
+Examining the effects of brand
+loyalty, image, and quality on
+brand equity
+
+Analyzing the influence of brand
+perceive quality and credibility on
+consumer perceptions towards a
+brand green image, green value,
+and green equity
+
+Purpose of the study
+
+DV: brand equity
+
+Mediator: brand personality
+
+IV: antecedents of brand personality
+
+DV: brand equity
+
+IV: brand association, brand loyalty,
+brand awareness, brand image
+
+DV: brand equity
+
+IV: brand loyalty, brand image, brand
+quality
+
+DV: green brand equity
+
+Mediator: green brand perceived value,
+brand credibility, green brand image
+
+IV: perceived quality of brand
+
+Variables
+
+IV Independent variable; DV dependent variable
+
+In the review of empirical studies, only the variables related to this study are presented
+
+Product/service category
+
+Author(s)/year
+
+Table 1 continued
+
+The results showed that brand image
+significantly and positively
+influenced both brand personality
+and brand equity
+
+All brand association, brand loyalty,
+brand awareness, and brand image
+positively and significantly
+influenced brand equity
+
+Brand image and brand loyalty has a
+significant positive effect on brand
+equity
+
+Perceived quality of brand
+significantly and positively
+influenced the green brand image.
+Likewise, the green brand image is
+positively and significantly
+associated with green brand equity
+
+Major findings
+
+978
+A. Ansary, N. M. H. Nik Hashim
+
+Brand image and equity: the mediating role of brand…
+
+979
+
+explained, since exploration of potential mediators would provide better insights
+into how to leverage and attain organizational goals.
+Second, prior studies have investigated the relationship between brand image and
+brand equity in the context of a single product/service type. For example, Faircloth
+et al. (2001) empirically tested the impact of brand image on brand equity in the
+sweater category. Likewise, Chen (2010) examined the relationship between green
+brand image and green brand equity in electronics products. Emari et al. (2012)
+assessed the impact of brand image on brand equity in chocolate. However,
+although the literature has suggested that brand image significantly influences brand
+equity, evidence demonstrating the moderating role of product type is lacking. The
+literature has sought to understand whether the strength of the relationship between
+brand image and brand equity differs among different product types. Consistent with
+this, previous studies (e.g., Chiang and Dholakia 2003; Fang 2012; Huang et al.
+2009) have suggested that the impact of variables that influence consumer decisions
+to purchase a brand may differ depending on whether the products are search goods
+or experience goods. ‘‘Search goods are defined as those dominated by product
+attributes for which full information can be acquired prior to purchase; experience
+goods are dominated by attributes that cannot be known until purchase and use of
+the product or for which information search is more costly and/or difficult than
+direct product experience’’ (Klein 1998 p. 196). Consumers know that looking for
+information is costly and time-consuming, and that there exist trade-offs between
+the perceived costs and the advantages of additional searching (Stigler 1961). The
+cost of information searches may influence consumer decisions to purchase a brand,
+thereby affecting consumer-based brand equity. In this vein, Lovett et al. (2013)
+called for an extension to the literature in terms of exploring whether product type
+acts as a vital moderating construct. Accordingly, we use product type as a
+moderator.
+Third, the literature has emphasized the value of WOM in the consumer decisionmaking process (Brown et al. 2007). WOM communication is generally considered
+to influence and inform consumers’ attitudes and behavioral intentions (Chevalier
+and Mayzlin 2006; Xia and Bechwati 2010). Therefore, the role of WOM in
+consumer behavior research comes to play. Consistent with this, many scholars have
+conducted research on the direct effect of WOM on consumer-related variables
+(e.g., Anwar Mir 2013; Chevalier and Mayzlin 2006; Herr et al. 1991; Jalilvand and
+Samiei 2012). Yet, in spite of the importance of WOM’s moderating role, it has
+largely been ignored. In this regard, while previous studies (e.g., Bambauer-Sachse
+and Mangold 2011) have investigated the direct effect of WOM on consumer-based
+brand equity, the moderating role of WOM has not, to our knowledge, been
+examined to date. We, thus take WOM as an additional moderating variable in our
+study.
+We choose to focus on WOM for several reasons. First, WOM is considered an
+important force in the marketplace, influencing attitudes, preferences, purchase
+intention, and consumer decision making (Jalilvand and Samiei 2012; Wangenheim
+2003). Accordingly, there has been a great deal of focus on WOM in the literature
+on relationship marketing as a potential reaction that can result from endeavors
+directed at shaping relationships with customers (Ismail and Spinelli 2012; Verhoef
+
+123
+
+980
+
+A. Ansary, N. M. H. Nik Hashim
+
+et al. 2002). Indeed, firm profitability may be derived from the degree to which
+consumers engage in WOM, because they talk about their experience (positive or
+negative) with products or services with family, friends, colleagues, and others,
+which can affect the purchase behaviour of potential customers (Berry et al. 1994;
+Molinari et al. 2008; Zeithaml 2000), and in turn influences consumer-based brand
+equity. Second, when an individual thinks about a product, specific information that
+is most strongly linked to that product comes to their mind. This information comes
+from different sources, among which one of the most important is WOM. In other
+words, the literature has suggested that WOM is one of the sources that inform
+consumers’ recall of a specific brand, whereby enhances brand awareness (Pitta and
+Katsanis1995). Therefore, managers have become interested in WOM in the light of
+the fact that it is frequently an essential driver of consumer behavior, such as the
+adoption of a new product or the decision on which product to purchase. As a result,
+WOM may even be the main indicator of the product’s success (Godes and Mayzlin
+2004), leading to increased consumer-based brand equity.
+Based on the above, our paper contributes to the existing literature in three ways.
+First, it examines the mediating role of brand equity drivers through which brand
+image may connect with consumer-based brand equity. Second, while previous
+studies have focused on a single product type, we examine the relationship between
+brand image and consumer-based brand equity along two prominent product types
+(i.e., search goods vs. experience goods). This should provide meaningful insights
+for marketers and managers through which they can understand whether the strength
+of the relationship between brand image and brand equity varies between different
+product types. Third, the present study extends previous works by building a
+conceptual framework that incorporates the moderating role of WOM communication effects on the relationship between brand image and consumer-based brand
+equity.
+2.4 The effect of brand image on brand equity drivers
+Brand attachment relates to consumers’ psychological perception of a brand (Belaid
+and Behi 2011). In other words, brand attachment refers to consumers’ experience
+of a brand. It prevents consumers from switching to other brands, increases
+consumers’ forgiveness when facing negative information, and evokes consumer
+loyalty to the brand (Thomson 2006). Brand image has a similar effect, as it
+promotes thinking about a brand, and can increase excitement when thinking about
+it (Roy and Banerjee 2007). Therefore, both brand image and brand attachment are
+formed based on informational nodes linked to the brand nodes in the associative
+network memory. A positive brand image could create positive feelings towards the
+brand (Porter and Claycomb 1997), which, in turn, can result in greater emotional
+brand attachment (Malär et al. 2011). In addition, Belaid and Behi (2011) suggested
+that promoting brand image may lead to effective brand attachment. Accordingly,
+an established brand with a strong image will most likely lead to an enhanced
+emotional attachment to the brand. Thus, we propose that brand image has a
+positive effect on brand attachment.
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+981
+
+Brand attitude underlies consumer behavior and brand choice. Consumers with a
+positive attitude toward a brand are willing to pay premium prices for the brand
+(Keller 1993). Therefore, a significant aspect of the brand image that influences
+consumers’ responses to prices is the overall brand attitude. Keller (1993) stated that
+brand attitude is about (1) consumers thinking about a brand’s attributes and
+benefits, and (2) judgment of their beliefs. It is therefore reasonable to predict that
+brand image could has a direct effect on brand attitude. Porter and Claycomb (1997)
+claimed that brand image could produce a positive attitude towards the brand.
+Moreover, Kim (2000) argued that promoting brand image could result in creating a
+strong brand attitude. Hsieh et al. (2004) also suggested that brand image should
+include overall brand attitude. Specifically, a positive brand image could encompass
+positive brand attitudes. Therefore, we predict that brand image has a positive effect
+on brand attitude.
+Brand awareness influences which brands are considered by consumers, and also
+affects which brands are chosen from the consideration set. Thus, brand awareness
+has a significant effect on the consumer decision-making process (Macdonald and
+Sharp 2000). In fact, brand awareness is related to the probability that a brand name
+comes to consumers’ minds easily (Keller 1993). Prior research has examined the
+impact of brand awareness on brand choice (e.g., Macdonald and Sharp 2000), but
+not many researchers have studied the predictors of brand awareness. More
+specifically, extant studies (e.g., Keller 1993; Esch et al. 2006) have only considered
+the effect of brand awareness on brand image, and not the reverse. This suggests that
+the popularity of a certain brand (i.e., brand awareness) leads to attractiveness of the
+brand (i.e. brand image). On the contrary, Padilla and Watson (2010) claimed that
+brand image may also influence brand awareness. Consistent with this, Djakeli
+(2012) stated that a robust brand image is an important component for building
+brand awareness. Indeed, creating a positive brand image may lead consumers to
+develop brand perceptions toward a specific brand through others’ reactions with
+regard to the brand (Charumbira and Stotlar 2015). That is, positive actions by
+others towards a specific brand (e.g., positive WOM) may influence consumers to
+develop favorable associations for the brand. This may convey brand information to
+other consumers, and thereby increase brand awareness (Charumbira and Stotlar
+2015). In addition, Kayaman and Arasli (2007) claimed that brand image may
+increase the probability of brand choice, and hence consumer brand awareness.
+Therefore, this study asserts that a strong brand image will increase the likelihood
+of brand identification. This, in turn, is related to consumer buying behavior,
+particularly the identification of alternative choices among favorable brands that
+exhibit a strong image. As a result, the brand image may have a positive effect on
+brand awareness. To sum up, we propose that brand image has a positive effect on
+brand attachment, brand attitude, and brand awareness. Thus, we propose the
+following hypotheses:
+H1
+
+Brand image has a significant positive effect on brand attachment.
+
+H2
+
+Brand image has a significant positive effect on brand attitude.
+
+H3
+
+Brand image has a significant positive effect on brand awareness.
+
+123
+
+982
+
+A. Ansary, N. M. H. Nik Hashim
+
+2.5 The effects of brand image and respective drivers on brand equity
+The preceding hypotheses suggest a relationship between brand image and brand
+equity drivers. This section aims to show how these focal brand constructs relate to
+consumer-based brand equity. Brand image, which is founded in associative
+network memory, is crucial to consumer decision making and consumers’
+evaluation of a specific brand (Faircloth et al. 2001), and may contribute to
+building strong brand equity (Holden 1992). Brand associations, which are obtained
+via marketing mix activities, are important factors in building brand image. Scholars
+have claimed that building brand equity is partially related to the nature of brand
+associations that create the brand image (Faircloth et al. 2001). In addition, Pitta and
+Katsanis (1995) suggested that a unique, favorable, and strong brand image will
+remain in the consumer’s mind, thereby contributing to increased brand equity.
+Scholars have proposed that brand image is a critical component of brand equity
+(Keller 1993). Krishnan (1996) indicated that brands with high equity are more
+likely to have a more positive brand association (brand image) than those with low
+equity. In addition, Lassar et al. (1995) suggested that higher brand image is
+associated with higher brand equity. Moreover, Faircloth et al. (2001) found that
+brand image has a significant positive influence on brand equity. Thus, we
+hypothesize:
+H4
+
+Brand image has a significant positive effect on brand equity.
+
+Individuals with a strong attachment to the brand desire to help the organization
+to succeed (Fullerton 2005). Accordingly, Park et al. (2010) claimed that attachment
+to a brand is important because it influences consumers’ behavior, leading to
+increased profitability and consumer lifetime value. Moreover, Thomson (2006)
+suggested that consumers’ feelings that are linked to brand attachments are the basis
+of strong brand relationships. Thomson et al. (2005) claimed that strong brand
+attachment may relate to investment in the brand. For example, consumers may be
+willing to pay a premium price to attain the brand. Thus, we can assume that brand
+attachment has a positive effect on brand equity.
+Faircloth et al. (2001) and Buil et al. (2009) specified that brand equity is affected
+by consumers’ attitude toward a brand. In addition, Faircloth et al. (2001) stated that
+the market share of two-thirds of brands will increase when consumers’ attitudes
+toward these brands becomes positive. Keller (1993) also suggested that consumers
+who have a strong attitude toward a brand are more willing to pay a premium price
+for it. If consumers have a positive attitude toward a brand, there is a greater
+likelihood that the brand will be preferred or considered for purchase. Thus, it can
+be assumed that positive attitude leads to high consumer-based brand equity.
+Huang and Tsai (2013) suggested that brand awareness is one of the factors that
+companies with a brand orientation enjoy. Brand awareness is one of the most
+important components in creating brand equity (Seno and Lukas 2007); hence, it is
+reasonable to propose that a high level of consumer awareness toward a brand may
+lead to high consumer-based brand equity. More specifically, brands exhibiting a
+higher degree of awareness warrant consumer confidence and familiarity; thus, they
+should be associated with higher brand equity. Taken together, we assume that all
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+983
+
+three drivers of brand equity have a positive impact on brand equity. Thus, the
+following hypotheses are put forth:
+H5
+
+Brand attachment has a significant positive effect on brand equity.
+
+H6
+
+Brand attitude has a significant positive effect on brand equity.
+
+H7
+
+Brand awareness has a significant positive effect on brand equity.
+
+2.6 Moderating effect of product type
+Product classification is a significant research aspect in consumer behavior studies
+because consumer behavior varies with attributes of certain product types (Bei and
+Widdows 2004). Accordingly, Nelson (1974) divided products into two groups
+based on a simplified theory of consumers’ quest for quality products: search goods
+and experience goods. Search goods are those for which consumers can determine
+the level of quality prior to purchase via inspection (e.g., shoes, apparel), whereas
+for experience goods, consumers cannot determine the quality prior to purchase
+(e.g., shampoo, deodorant). To the best of our knowledge, previous researchers have
+only examined consumer-based brand equity in relation to a specific product
+category or service. For example, Kayaman and Arasli (2007) and Kim et al. (2008)
+examined brand equity in the context of hospital services. Faircloth et al. (2001)
+found that a positive brand image can significantly increase brand equity in
+sweaters. They also indicated that brand attitude does not significantly influence
+brand equity. However, among different product types, the effect of the brand image
+may differ. Lovett et al. (2013) examined the characteristics of brands, and
+mentioned that product type may play an important moderating role. In this study,
+we focus on clothing, shoes, handbags, and wallets as search goods; and deodorant,
+shampoo, clocks, and watches as experience goods. We selected these products
+because they are frequently used by Malaysian consumers.
+Individuals who have greater familiarity with the brand, generated through direct
+or indirect brand-related experiences, tend to be more knowledgeable about the
+brand and its attributes (Alba and Hutchinson 1987). King and Balasubramanian
+(1994) found that when assessing search goods, consumers are more likely to
+employ their own decision-making strategies compared to when they are assessing
+experience goods. This is because it is difficult to assess the quality of experience
+products prior to purchase, and individuals are more likely to accept product
+recommendations for these products than for search goods (Senecal and Nantel
+2004; Sellers-Rubio and Más-Ruiz 2015). In addition, buyers of experience products
+are less likely than those of search products to engage in free-riding behavior
+(Huang et al. 2009). The reason for this is that since individuals put greater effort
+into assessing experience attributes, the initial cost of gaining experience
+information is higher (Huang et al. 2009).
+Moreover, one of the main advantages of pre-purchase searching is that it reduces
+the perceived risk associated with buying a product. For search goods, consumers
+are highly confident in the acquired information prior to purchase; on the contrary,
+information about experience goods is subjective, and rooted in consumer
+
+123
+
+984
+
+A. Ansary, N. M. H. Nik Hashim
+
+judgments and beliefs of individuals (Wright and Lynch 1995). Recognizing that
+different types of products encompass different consumer behavioral aspects (e.g.,
+product assessment, information search, perceived risk, consumer involvement)
+when arriving at a purchase decision, we predict that there is a difference between
+types of products in estimating consumer-based brand equity. Thus, we propose
+that:
+H8 Product type has significant moderating effects on the relationships between
+brand image, drivers of brand equity, and brand equity.
+2.7 Moderating effect of WOM
+The significance of WOM in marketing is not a new phenomenon (Keller 2007). In
+other words, WOM may be the oldest way of exchanging opinions on different
+goods and services offered by markets (Goyette et al. 2010). According to Arndt
+(1967), WOM refers to oral communication among people regarding a brand,
+product, or service. WOM is one of the most influential sources of information
+transferred by consumers (Duana et al. 2008), and encompasses well-documented
+advantages (Hoch and Ha 1986). Research on WOM has indicated that consumers
+rely on recommendations from other people in purchase decision-making; that
+people are motivated to spread their opinion about a product; and that people have
+different degrees of impact on their friends, colleagues, and families in WOM
+communication (Trusov et al. 2009). Researchers have found that WOM has a
+significant effect on consumers’ decision-making process, in terms of increasing
+acceptance of a new product when WOM on that product is positive (Sheth 1971),
+and switching away from a brand when they receive negative information about it
+(Bone 1992). Indeed, individuals may reduce the risks associated with their
+purchases by looking for information from reliable sources, such as friends or those
+who have relevant expertise (Cobb-Walgren et al. 1995).
+A number of studies have demonstrated that WOM communication often
+significantly influences judgments on brands. For example, Engel et al. (1969) found
+that individuals often rely on WOM when choosing an automotive diagnostic center.
+Feldman and Spencer (1965) also indicated that people utilize WOM when choosing a
+physician. Furthermore, consumers trust WOM when assessing the potential purchase
+of a new product or service (Brown and Reingen 1987). Other researchers have
+specified that WOM affects brand attitude (e.g., Herr et al. 1991; Anwar Mir 2013) and
+brand awareness (Pitta and Katsanis 1995). Brand success relies on creating bonds
+(e.g., attachment, familiarity, etc.) with customers. These customers engage in
+multiple social networks, where they influence one another through WOM, shaping
+attitudes and behaviors that can strengthen or weaken these bonds (Allsop et al. 2007).
+Therefore, WOM has become an important benchmark for capturing consumers.
+Srivastava (2009) claimed that the buildup of brand equity depends on consumers
+holding the brand in their mind. WOM plays a critical role in shaping consumer
+perceptions (Plummer 2007). However, WOM could have both a positive and
+negative influence on consumers’ perception towards a brand (Lim and Chung
+2011). Positive WOM enhances the likelihood of purchasing, whereas negative
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+985
+
+WOM results in diffusion of complaints, and yields a detrimental effect (Xu and
+Chan 2010). Thus, in the present study, we predict that WOM plays a moderating
+role on the relationships among brand image, drivers of brand equity, and consumerbased brand equity. It can be inferred that the effects on the drivers of brand equity,
+as well as brand equity itself, depend on whether consumers engage heavily in
+WOM. Formally, we predict that:
+H9 WOM has significant moderating effects on the relationships between brand
+image, drivers of brand equity, and brand equity.
+The conceptual framework comprising H1 to H9 is illustrated in Fig. 1. The
+present study postulates that the brand concepts (i.e., brand image, brand
+attachment, brand attitude, brand awareness, and consumer-based brand equity)
+are interrelated and represent different aspects of an individual’s brand perception
+and processing. As shown in Fig. 1, brand image positively influences brand equity
+directly, as well as through brand equity drivers, suggesting that brand equity
+drivers partially mediate the relationship between brand image and brand equity. A
+superior brand image can be distinguished from others and is firmly positioned in
+the consumers’ mind, and thereby has potential to increase the brand equity (Pitta
+and Katsanis 1995).
+H4: 0.33***
+
+H1: 0.65***
+
+Brand
+Image
+
+H2: 0.66***
+
+H3: 0.63***
+
+Brand
+Attachment
+
+Brand
+Attitude
+
+Brand
+Awareness
+
+H5: 0.36***
+
+H6: 0.25**
+
+Consumerbased Brand
+Equity
+
+H7: -0.15 (NS)
+
+H8: Product
+Type
+
+H9: Word of
+Mouth
+
+Fig. 1 The relationships between brand image and brand equity. * p \ .05; ** p \ .01; *** p \ .001;
+NS not significant
+
+123
+
+986
+
+A. Ansary, N. M. H. Nik Hashim
+
+Brand image is associated with consumer experience with the brand (Hung
+2008). Correspondingly, brand attachment is formed based on consumers’
+experiences with the brand, and prevents consumers from switching to other brands
+even when unfavorable information is received (Thomson 2006). Therefore, a
+positive brand image can increase brand equity through brand attachment.
+Brand image was established from the concept of associative network memory,
+and is vital for consumer brand evaluations and building brand equity (Faircloth
+et al. 2001). Consumers capitalize on product cues to create beliefs about a product,
+which in turn shapes their purchase behavior. In general, brand image is considered
+to be made up of product cues (Cordell 1992; Thorelli et al. 1989), and consumers
+shape stereotypical beliefs about products from particular brands and the features of
+products (Yasin et al. 2007). Consequently, brand image has the ability to evoke
+consumers’ beliefs about product features, and influences their evaluations thereof
+(Srikatanyoo and Gnoth 2002). This implies that positive brand image fosters
+positive brand attitude among consumers, and this eventually results in enhanced
+brand equity.
+A strong brand image could increase brand equity as it enables the brand to command
+larger margins (Keller 1993). However, a brand that is retrieved early and recalled easily
+will have a stronger impression in the consumer’s consideration set (Alba and
+Chattopadhyay 1986), which in turn influences product purchase (Vieceli and Shaw
+2010). A brand with a positive image that is recalled prior to other brands of the same
+category may have more positive brand equity compared to competing brands.
+2.8 Control variables
+To investigate the effect of extrinsic factors on the relationships between the
+research constructs, we incorporate several control variables into our research model
+and analysis. These include gender, age, income, and price consciousness. Price
+consciousness is defined as the extent to which buyers concentrate on searching and
+paying a low price for a product or service (Kukar-Kinney et al. 2012).
+
+3 Methodology
+3.1 Sample and data collection
+We collected data using a structured survey questionnaire. The questionnaires were
+administered to students in Malaysia based on the convenience sampling method.
+Respondents were initially requested to choose a consumer product and identify the
+name of a brand based on a product category of their choice (i.e., search goods,
+namely clothing, shoes, handbags, and wallets; and experience goods, namely
+deodorant, shampoo, clocks, and watches). The statements for all multiple-item
+constructs were based on a five-point Likert scale (anchored by 1 = ‘‘strongly
+disagree’’ to 5 = ‘‘strongly agree’’). Participants were asked to answer the
+questionnaire based on the brand they identified earlier. The participants provided
+demographic information (i.e., gender, age, monthly income, and education level) in
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+987
+
+the last section of the questionnaire. A pre-test with a small sample (n = 30) of
+experts in the area and population under study was conducted. The participants were
+asked to provide their opinion about the overall structure of the questionnaire and
+problems relating to the clarity of the items and instructions. We adapted the items
+in the questionnaire based on the feedback received from the pre-test.
+According to Bentler and Chou (1987), a sample size can be as low as a ratio of
+5:1 between the number of responses and items in the questionnaire. Accordingly,
+we administered 352 questionnaires, assuming that some would be returned
+incomplete; of these, 321 were usable. Among the participants, 117 were male
+(36%) and 204 were female (64%); 115 (36%) were aged 20 or below, 166 (52%)
+were between 21 and 30, 32 (10%) were between 31 and 40, and 8 (2%) were
+41 years old or older. Concerning monthly income, 231 respondents (72%) had a
+monthly income of 1000 RM (Ringgit Malaysia) or below (at the time of data
+collection, 1 USD = 3.2 RM), 45 (14%) had a monthly income of 1001–2500 RM,
+30 (9%) had a monthly income of 2501–4000 RM, and 15 (5%) had a monthly
+income of 4001 RM or higher. In terms of education level, 25 participants (8%) had
+a diploma or below, 193 (60%) had a bachelor’s degree, and 103 (32%) had a
+master’s degree or above.
+3.2 Measures
+All items in the questionnaire, except for those on demographic variables and
+product type, were measured based on a five-point Likert scale. The participants
+were requested to indicate their opinion (anchored by 1 = ‘‘strongly disagree’’ to
+5 = ‘‘strongly agree’’) to a series of statements (shown in Table 1) about the brands
+they had identified. For brand image, we adapted the measurements from Martin and
+Brown (1990), Aaker (1996), and Weiss et al. (1999). The items included functional
+image, affective image, and reputation image. Brand attachment included four items
+used by Louis and Lombart (2010). The brand attitude measures were adopted from
+Spears and Singh (2004). For the brand awareness construct, we adopted measures
+from Oh (2000). For brand equity, we employed three items that were used in He
+and Li’s (2011) research. The measurement for WOM was adapted from Lam et al.
+(2009) and Vázquez-Casielles et al. (2013). To measure price consciousness, which
+served as a control variable, we adopted items from Kukar-Kinney et al. (2012).
+Following Nelson (1974), products were classified into two groups, namely search
+goods and experience goods. We coded ‘‘search goods’’ as 0 and ‘‘experience
+goods’’ as 1 in our analysis.
+
+4 Results
+4.1 Validity and reliability
+In order to refine the measures and assess the validity of the constructs,
+Confirmatory Factor Analysis (CFA) was used for the entire set of constructs.
+Two items were removed due to low factor loadings (less than .50; see Table 2),
+
+123
+
+988
+
+A. Ansary, N. M. H. Nik Hashim
+
+Table 2 Confirmatory factor analysis: construct measurement summary
+Construact and item description
+
+Standardized factor
+loadings
+
+Brand image (a = .84, CR = .86, AVE = .51, HSIC = .48)
+1. This brand has a high quality
+
+.74
+
+2. This brand has better characteristics than its competitors
+
+.74
+
+3. This brand has a personality that distinguishes itself from competitors
+
+.69
+
+4. This brand is a brand that does not disappoint its customers
+
+.65
+
+5. This brand is one of the best brands in the sector
+
+.73
+
+6. This brand is stable in the market.
+
+.70
+
+Brand attachment (a = .83, CR = .84, AVE = .57, HSIC = .55)
+1. I love this brand very much and care about it
+
+.80
+
+2. I am connected to this brand
+
+.67
+
+3. I am attracted to this brand
+
+.84
+
+4. Thinking about this brand brings me a lot of pleasure
+
+.69
+
+Brand attitude (a = .89, CR = .90, AVE = .64, HSIC = .60)
+1. I feel that this brand is appealing
+
+.73
+
+2. I feel that this brand is good
+
+.86
+
+3. I feel that this brand is pleasant
+
+81
+
+4. I feel that this brand is favorable
+
+.81
+
+5. I feel that this brand is likable
+
+.77
+
+Brand awareness (a = .88, CR = .89, AVE = .67, HSIC = .48)
+1. This brand name is familiar
+
+.78
+
+2. This brand name is well-known.
+
+.91
+
+3. This brand name is visible
+
+.67
+
+4. This brand name is famous
+
+.87
+
+Word of mouth (a = .75, CR = .81, AVE = .51, HSIC = .24)
+1. I share my information about this brand with people
+
+.67
+
+2. I seek out the advice of people before I choose this brand
+
+.74
+
+3. The probability of accepting advice from other people is high
+
+.72
+
+4. The probability of choosing this brand before receiving recommendations
+is lowa
+5. The probability of choosing this brand after receiving recommendations
+is high
+
+.71
+
+Brand equity (a = .81, CR = .81, AVE = .59, HSIC = .47)
+1. It makes sense to buy this brand instead of other brands, even if they are
+the same
+
+.73
+
+2. Even if another brand has similar features, I would prefer to buy this
+brand
+
+.81
+
+3. If there is another brand as good as this brand, I prefer to buy this brand
+
+.76
+
+Price consciousness (a = .72, CR = .75, AVE = .51, HSIC = .12)
+1. I check the price even for inexpensive brands before buying
+
+.50
+
+2. I read price tags of the products I buya
+3. Low price is an important consideration in my purchases
+
+123
+
+.83
+
+Brand image and equity: the mediating role of brand…
+
+989
+
+Table 2 continued
+Construact and item description
+
+Standardized factor
+loadings
+
+4. No matter what I buy, I shop around to get the lowest price
+
+.76
+
+All constructs were measured with a five-point Likert scale: 1 = Strongly Disagree, 5 = Strongly Agree
+CR composite reliability, AVE average variance extracted, HSIC highest squared inter-construct
+correlation
+a
+
+Item was dropped during the scale purification process
+
+which resulted in a satisfactory fit to the data. Table 2 shows a summary of CFA
+results.
+The results show that our measurement model fitted the data adequately:
+v2 = 608.53 (p \ .001); d.f. = 352; v2/d.f. = 1.73, normed fit index (NFI) = .90,
+goodness of fit index (GFI) = .90, incremental fit index (IFI) = .95, comparative fit
+index (CFI) = .95, and root mean square error of approximation (RMSEA) = .05.
+These results show that the proposed model could be accepted (Hair et al. 2010).
+To assess the validity of the constructs, we used convergent and discriminant
+validity methods. As indicated in Table 1, the average variance extracted (AVE) of
+each construct was higher than .50. Accordingly, the measures show adequate
+convergent validity (Kamdar and Dyne 2007). Concerning discriminant validity, we
+compared squared inter-construct correlations for pairs of constructs with the AVE
+of each construct. As indicated in Table 2, all AVE scores were larger than the
+corresponding highest squared inter-construct correlation estimates. Therefore, there
+is sufficient evidence for discriminant validity (Kamdar and Dyne 2007).
+To assess the internal consistency of the constructs, we used the Cronbach’s
+alpha coefficient. As shown in Table 2, the Cronbach’s alpha of all constructs was
+higher than .70. Additional support for the reliability of the constructs, specifically
+composite reliability (CR) scores, is also shown in Table 2. All CR scores were
+larger than .70. Accordingly, the constructs can be said to demonstrate adequate
+internal consistency (Fornell and Larcker 1981; Nunnally 1978).
+4.2 The relationship between brand image and brand equity
+To examine the hypothesized relationships, we performed Structural Equation Modeling (SEM) with the maximum likelihood estimation method using the
+model without moderators. Based on our CFA results, the model was tested with
+standardized coefficients and other fit statistics. To assess the differential effects,
+standardized coefficients as path coefficients are reported. First, the overall model fit
+was examined. The Chi square (v = 412.327, degrees of freedom [d.f.] = 200) is
+significant at the .001 level. The fit indices are as follows: NFI = .90, IFI = .95,
+CFI = .95, RMSEA = .05. According to Hair et al. (2010), it can be concluded that
+the model fitted the data reasonably well.
+H1, H2, and H3 examine the effect of brand image on brand attachment, brand
+attitude, and brand awareness, respectively (Table 3). As indicated in Table 3, all
+
+123
+
+990
+
+A. Ansary, N. M. H. Nik Hashim
+
+Table 3 Standard coefficient and t-value for each path
+Number
+
+Hypotheses
+
+Standard coefficient
+
+T-value
+
+1
+
+Brand image ? Brand attachment
+
+.65***
+
+10.58
+
+2
+
+Brand image ? Brand attitude
+
+.66***
+
+17.05
+
+3
+
+Brand image ? Brand awareness
+
+.63***
+
+13.06
+
+4
+
+Brand image ? Brand equity
+
+.33***
+
+4.05
+
+5
+
+Brand attachment ? Brand equity
+
+.36***
+
+6.05
+
+6
+
+Brand attitude ? Brand equity
+
+.25**
+
+7
+
+Brand awareness ? Brand equity
+
+-.15 (NS)
+
+2.54
+-2.20
+
+Control variables
+1
+
+Gender ? Brand equity
+
+.05 (NS)
+
+.64
+
+2
+
+Age ? Brand equity
+
+-.04 (NS)
+
+-.64
+
+3
+
+Income ? Brand equity
+
+-.03 (NS)
+
+-.53
+
+4
+
+Price Consciousness ? Brand equity
+
+.03 (NS)
+
+.61
+
+* p \ .05; ** p \ .01; *** p \ .001; NS not significant
+
+three paths were highly significant (p \ .001), indicating a positive effect on brand
+attachment (c = .65, t = 10.58), brand attitude (c = .66, t = 17.05), and brand
+awareness (c = .63, t = 13.06). Accordingly, H1, H2, and H3 receive strong
+support.
+To test H4 to H7, both product image and brand equity drivers were set as
+independent constructs, and brand equity was set as the dependent construct. The
+results shown in Table 3 indicate that brand image had a significant positive effect
+on brand equity (c = .33, t = 4.05) at the significance level of .001. Therefore, H4
+is supported. Brand attachment (c = .36, t = 6.05) and brand attitude (c = .25,
+t = 2.54) had significant positive effects on brand equity (p \ .001, p \ .01,
+respectively). Therefore, H5 and H6 are supported. The path from brand awareness
+to brand equity, however, was not significant (c = -.15, t = -2.20, p [ .1). Thus,
+H7 is not supported. These results suggest that to attain stronger brand equity, firms
+should concentrate on improving brand attachment, brand attitude, and brand image,
+rather than intensifying brand awareness. According to Fig. 1, brand attachment and
+brand attitude partially mediate the relationship between brand image and brand
+equity. In specific terms, brand image positively affects brand equity through brand
+attachment and brand attitude. None of the control variables (i.e., gender, age,
+monthly income, and price consciousness) had a significant effect on brand equity
+(Table 3).
+4.3 The moderating effects of product type and WOM
+One widely used procedure to test moderating effects in SEM involves splitting the
+scale at a certain point and assigning the values above and below that point as two
+groups (MacCallum et al. 2002; Im et al. 2008). H8 and H9 examine the moderating
+effects on the relationships among brand image, drivers of brand equity, and brand
+equity. Because product type is a categorical construct, we used multi-group
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+991
+
+analysis with AMOS to test H8. We conducted the test in a two-step procedure.
+First, the appropriate structural parameters were constrained to be equal across
+groups, which resulted in producing an estimated covariance matrix for each group
+and a total v2 value for the sets of sub-models as the section of a single structural
+system. The parameter equality constraints were then eliminated, which led to
+generating a second v2 value with lower degrees of freedom. The moderating effects
+were tested by evaluating whether there is a statistical difference between the two v2
+values. If the change in v2 value, normally a reduction, is statistically significant, a
+moderator effect exists (Brockman and Morgan 2003; Im et al. 2008). These two
+steps solved the issue of the difference between the two models being affected by
+error variances and factor loadings (Zhang et al. 2013). Once the moderating effect
+has been examined and the significant differences between the two groups
+considered, the standard coefficients between the two groups should be compared
+(Dabholkar and Bagozzi 2002). If the change is higher than .1, this means that the
+difference is at a highly significant level (Sàà). If the change is higher than .05 and
+less than .1, this means that the difference is at a significant level (Sà). If the change
+is less than .05, this indicates that there is no significant difference (NS). However,
+if the path is at a significant level for one group and not for another, the difference is
+at a significant level (Sà).
+As indicated in Table 4, there were significant differences between search goods
+and experience goods (Dv2 = 34.43, p \ .05). This suggests that product type could
+have acted as a moderator; thus, H8 is supported. Brand image strongly influenced
+brand attachment for both product types, with no significant difference. Brand
+image had a significant effect on brand attitude for both product types, and its
+influence was stronger for search goods than for experience goods
+(csearch goods = .70 [ cexperience goods = .64). The brand image also significantly
+influenced brand awareness for both product types. Although brand attachment had
+a significant effect on brand equity for both product types, the effect was much
+higher for experience goods than for search goods (cexperience goods = .46 [ csearch goods = .25). Brand attitude had a highly significant effect on brand equity for
+both product types. However, its effect on brand equity was much higher for search
+goods than for experience goods (csearch goods = .61 [ cexperience goods = .31).
+Finally, brand awareness had no significant effect on brand equity for both product
+types.
+Because WOM is not a categorical construct, we split the groups into high and
+low levels using the median split approach (Baron and Kenny 1986; MacCallum
+et al. 2002) to test H9. The results (Table 4) indicate that there was a significant
+difference between low and high levels of WOM (Dv2 = 40.94, p \ .05). Thus,
+WOM could have acted as a moderator, and thereby H9 receives support. Brand
+attachment had a significant effect on brand equity for both low and high levels of
+WOM, with no significant difference. Brand image significantly affected brand
+attachment for both groups of WOM; however, its effect on brand attachment for
+people who engaged in the levels of WOM was much higher than for those who
+engaged in high levels of WOM (clow = .69 [ c high = .50). In addition, brand
+image was found to significantly influence brand attitude, with a significant
+difference between the two levels of WOM. Although the brand image had a
+
+123
+
+123
+.68***
+.25*
+.61***
+
+Brand image ? Brand awareness
+
+Brand attachment ? Brand equity
+
+Brand attitude ? Brand equity
+
+Brand awareness ? Brand equity
+
+3
+
+4
+
+5
+
+6
+
+* p \ .05; ** p \ .01; *** p \ .001
+
+NS no significant difference; Sà significant; Sàà highly significant
+
+Multigroup analysis for WOM: Dv2 = 40.94, p \ .05
+
+Multigroup analysis for product type: Dv = 34.43, p \ .05
+
+2
+
+.70***
+
+Brand image ? Brand attitude
+
+2
+
+-.15
+
+.65***
+
+Brand image ? Brand attachment
+
+1
+12.77
+8.72
+2.36
+3.83
+-1.34
+
+.62*** (Sà)
+àà
+
+.46*** (S )
+.31*** (Sàà)
+-.02 (Sàà)
+
+10.53
+
+.64*** (S )
+
+à
+
+.65*** (NS)
+
+-.28
+
+2.86
+
+6.36
+
+10.24
+
+13.31
+
+10.53
+
+-.02
+
+.32**
+
+.44***
+
+.65***
+
+.69***
+
+.69***
+
+Low
+
+7.69
+
+-.10 (Sà)
+
+.48*** (Sàà)
+
+.40*** (NS)
+
+.57*** (Sà)
+
+-.21
+
+2.48
+
+5.23
+
+9.05
+
+12.24
+
+.50*** (Sàà)
+.59*** (Sàà)
+
+Low
+
+t-value
+High
+
+Search goods
+
+Search goods
+
+Experience goods
+
+Standard coefficient
+
+t-value
+
+Standard coefficient
+Experience goods
+
+WOM
+
+Product type
+
+Hypotheses
+
+Number
+
+Table 4 Comparison of the coefficients between search goods and experience goods, and low and high levels of WOM
+
+-1.06
+
+4.05
+
+4.77
+
+8.48
+
+10.73
+
+6.06
+
+High
+
+992
+A. Ansary, N. M. H. Nik Hashim
+
+Brand image and equity: the mediating role of brand…
+
+993
+
+significant effect on brand awareness, its influence was stronger in the low level of
+WOM compared to in the high level of WOM. Brand attitude significantly
+influenced brand equity for both low and high levels of WOM. The effect of brand
+attitude on brand equity was much higher for individuals who were highly engaged
+in WOM than for those who had little engagement in WOM (chigh = .48 [ clow = .32). Brand awareness did not significantly affect brand equity for either the
+low or the high level of WOM engagement.
+
+5 Discussion
+5.1 Summary
+The results captured in this study show the usefulness of our conceptual model in
+understanding the link between brand image and brand equity. The results indicate
+that brand image has a positive effect on brand attachment, brand attitude, and brand
+awareness. This is consistent with previous researchers’ suggestions (Belaid and
+Behi 2011; Kayaman and Arasli 2007; Porter and Claycomb 1997). The results are
+also consistent with previous findings (Faircloth et al. 2001; Wilcox et al. 2008) that
+brand image appears to have a strong influence on brand equity.
+The results of this study verify the mediating role of brand attachment and brand
+attitude. These constructs were found to partially mediate the effect of brand image
+on brand equity. According to Frazier et al. (2004), a mediator clarifies how or why
+a predictor leads to its outcome construct. Our findings imply that positive
+perceptions about a brand are critical, and are likely to help consumers positively
+evaluate a brand, and enhance their attachment towards it. Based on our findings, we
+can conclude that brand attachment and attitude are important elements relative to
+brand awareness in order to generate strong brand equity.
+The results confirm that the brand concepts in the present study (i.e., brand
+image, brand attachment, brand attitude, brand awareness, and consumer-based
+brand equity) are interrelated. Brand image boosts brand equity, and this is mediated
+by brand attachment and brand attitude. Brand image, attachment, and attitude are
+prerequisites of consumer-based brand equity. Therefore, developing a positive
+image, strengthening brand attachment, and creating an affirmative attitude among
+consumers should be synchronized to enhance consumer-based brand equity. In
+addition, brand image is an antecedent of brand attachment, brand attitude, and
+brand awareness.
+In the present research, the moderating roles of product type and WOM on the
+relationship between brand image and consumer-based brand equity were investigated. Although brand image was found to significantly influence brand
+attachment for both product types, there was no significant difference between
+search goods and experience goods. Moreover, we found that brand image affected
+brand attitude and brand awareness across both product types, with a significant
+difference between search goods and experience goods. Indeed, the effect was
+higher for search goods than for experience goods. That is, promoting brand image
+could result in generating a higher level of positive brand attitude and brand
+
+123
+
+994
+
+A. Ansary, N. M. H. Nik Hashim
+
+awareness among search goods compared to experience goods. The results also
+indicate that brand attachment has a significant influence on brand equity for both
+product types, with a higher effect for experience goods than for search goods.
+Based on our findings, the effect of brand attitude on brand equity is much stronger
+for search goods than for experience goods. Our results show that brand awareness
+does not significantly influence brand equity; this applies to both search and
+experience goods. Some scholars (e.g., Keller 1993; Kayaman and Arasli 2007)
+have previously emphasized the importance of brand awareness in generating brand
+equity. Although awareness of a brand is fundamental for it to be part of consumers’
+consideration set, this research suggests that it is not a key component of brand
+equity. Our result is consistent with the study of Bailey and Ball (2006) and
+Kayaman and Arasli (2007), who also found that brand awareness is not an essential
+element to building brand equity in their respective areas. This implies that simply
+having a brand name does not ensure success in the marketplace (Bailey and Ball
+2006); other factors, such as developing a positive brand attitude and brand
+attachment are important in fostering brand equity.
+WOM appears to significantly moderate the effect of brand image on brand
+attachment, brand attitude, and brand awareness. Similarly, the impact of brand
+attitude on consumer-based brand equity is significantly moderated by WOM. The
+results show, however, that WOM does not moderate the relationship between brand
+attachment and brand equity. This is perhaps partly due to the fact that brand
+attachment is formed based on individuals’ perceptions of a brand (Belaid and Behi
+2011), rather than acceptance of recommendations from others. An interesting
+finding is that although brand awareness does not significantly influence brand
+equity, this relationship is significantly moderated by WOM.
+5.2 Contributions to scholarship
+Theoretically, this study contributes to the literature by offering a comprehensive
+model with multiple branding constructs that examine direct and contingent
+relationships. Our study contrasts with past empirical research in that we suggest
+that the relationship between brand image and brand equity is context specific. We
+believe that considering multiple brand constructs, coupled with product type and
+WOM as moderators, provides more insightful information to understand brand
+equity. In short, this study broadens the conceptualization of the impact of brand
+image on brand equity.
+5.3 Managerial implications
+This study provides a number of important practical implications for marketers and
+managerial decision-making. First, the study highlights the importance of brand
+image and equity for current businesses. In today’s competitive business world, it is
+difficult for companies to differentiate themselves from their competitors. Technology leaders typically view business growth through product proliferation and
+innovation as a major challenge, as the present market is occupied by rivals with
+very little product differentiation. Firms need to search for ways to remain
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+995
+
+competitive in the marketplace. One way to achieve this goal is to create a positive
+brand image in the consumer’s mind. Although there are numerous factors that may
+affect consumers’ purchase decision-making process, brand image is doubtless
+highly relevant to managers, as it significantly increases consumers’ brand
+attachment, attitude, and awareness (as shown in this study). Not only are these
+elements important for brand recall, but they also allow such brands to be
+considered in future purchases (Wilcox et al. 2008). This, in turn, increases brand
+equity.
+Second, this study implies that brand image and brand equity are moderated by
+product type and WOM. When managers examine the effect of brand image on
+brand equity, product type and WOM should be taken into consideration. The
+findings of this study suggest that firms selling search goods, such as Adidas and
+Nike, should concentrate more on promoting their brand image, compared to those
+selling experience goods, such as Head & Shoulders and Pantene, in order to
+reinforce brand attitude and awareness. Therefore, the present study suggests that
+the effect of brand image is more pertinent for products that have search properties
+(e.g., color, size, and style) rather than those with experience properties (e.g., the
+cleansing and lathering properties of shampoo). In other words, firms selling search
+goods are more likely to increase their brand attitude and brand awareness through
+building a positive brand image. In addition, in terms of brand equity drivers, brands
+selling search goods, such as Adidas and Nike, should devote greater attention to
+developing positive brand attitude among prospective buyers, while those selling
+experience goods, such as Head & Shoulders and Pantene, should focus more on
+reinforcing brand attachment in order to build strong consumer-based brand equity.
+Apart from that, it is apparent that managers have low influence on WOM, but
+should be aware of its impact on branding effectiveness. Our study indicates that the
+effect of brand image on drivers of brand equity is much stronger when consumers
+engage in a low volume of WOM. Put another way, the effect of consumers’ overall
+perception of the brand on drivers of brand equity is weaker when consumers
+engage in a high level of WOM. This may be partly due to the fact that consumers
+also share unsatisfactory experiences with the brand when participating in high
+levels of WOM (Collier 1995; Tong et al. 2013), which, in turn, has an adverse
+effect on consumer behaviors and brand attitude. Conversely, the impact of brand
+attitude on consumer-based brand equity is stronger when consumers engage in high
+levels of WOM. Therefore, by managing brand image and WOM communications,
+marketers can take advantage of drivers of brand equity (i.e., brand attachment,
+brand attitude, and brand awareness in this study), and ultimately enhance the equity
+of their brands. Although WOM is formally outside the control of the company,
+Godes et al. (2005) suggested four strategies for them to manage WOM; that is, by
+playing the role of an observer, moderator, mediator, or participant in WOM
+communications. As an observer, the company simply gathers information to
+understand how its customers think about it and what its rivals are doing. As a
+moderator, the company goes beyond listening to encourage discussion. The
+company normally realizes its moderator role by setting up a platform to allow
+customers to exchange information or embrace a customer recommendation
+program. As a mediator, the company takes control of WOM messages and
+
+123
+
+996
+
+A. Ansary, N. M. H. Nik Hashim
+
+disseminates them by itself. In this sense, the company tries to control communication content and channels. Finally, the company could be more active and play
+the role of a direct participant in WOM communications. This can be achieved via
+social networks such as Facebook.
+Third, managers should pay particular attention to building brand attachment and
+attitude, as this can greatly enhance brand equity, as well as mediating the
+relationship between brand image and brand equity. Indeed, for managers and
+marketers, enhancing the level of attitude and attachment is critical to increasing the
+effect of brand image on brand equity. Firms should also continue to elevate
+positive evaluations of their brands, while at the same time safeguarding against
+negative WOM.
+5.4 Limitations and future research directions
+As with any other research, this study has limitations. First, our study is crosssectional in nature; hence, it only deals with identifying relationships, rather than
+causes. Because brand image normally requires an extended period to influence
+consumers, it is possible that time may have altered our findings, especially at later
+stages of the product lifecycle. Therefore, our findings should be interpreted with
+caution. Future studies could address the relationship between brand image and
+brand equity based on a longitudinal study for better understanding. Second, among
+drivers of brand equity presented in the literature, we examined only three variables.
+Thus, future research could address other brand assets, such as brand loyalty and
+customer perceptions of brand ethics. Third, this study mainly concentrated on
+specific moderating variables between brand image and brand equity. Future
+research should extend the model by examining other possible moderators (e.g.,
+product radicalness, conspicuous consumption, self-congruence, consumer interface
+quality) at high and low levels. Fourth, in the present study, the participants were
+students who occupied one homogeneous group with similar thinking patterns.
+Future research could extend the study to other consumer segments and compare the
+results with the findings of our research. Fifth, the research was conducted in
+Malaysia. Since different cultures may involve different attitudes, it would be
+sensible to duplicate the present framework in other countries and note the
+similarity (or dissimilarity) of findings relative to our study. Sixth, the present
+research employed only four search goods (i.e., clothing, shoes, handbags, and
+wallets) and four experience goods (i.e., deodorant, shampoo, clocks, and watches).
+Future research could replicate the study in other industries to gain more insight.
+Finally, the setting for marketers and brands may have changed dramatically due to
+the influence of digitalization. In particular, the understanding of WOM has shifted
+against the background of social networks. Therefore, future studies should consider
+social media and new technologies in WOM, as this could make significant
+contributions to the field. In conclusion, this research appears to be one of the few
+empirical studies investigating brand equity that conceptualizes direct and
+contingent linkages in a single analysis. Given the paramount importance of
+branding in today’s competitive setting, more research is needed to enable us to
+understand how brand equity can further be enhanced.
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+997
+
+References
+Aaker DA (1991) Managing brand equity. The Free Press, New York NY
+Aaker DA (1996) Measuring brand equity across products and markets. Calif Manag Rev 38(3):102–120
+Ailawadi KL, Lehmann DR, Neslin SA (2003) Revenue premium as an outcome measure of brand equity.
+J Mark 67:1–17
+Akbar US, Azhar SM (2011) The drivers of brand equity : brand image, brand satisfaction and brand trust.
+Sukkur Institute of Business Administration, Sukkur, pp 1–18
+Alam SS, Yasin NM (2010) The antecedents of online brand trust: Malaysian evidence. J Bus Econ
+Manag 11(2):210–226
+Alba J, Chattopadhyay A (1986) Salience effects in brand recall. J Mark Res 23(4):363–369
+Alba JW, Hutchinson JW (1987) Dimensions of consumer expertise. J Consum Res 13(4):411–454
+Allsop DT, Bassett BR, Hoskins JA (2007) Word of mouth research: principles and applications. J Adv
+Res 47(4):398–411
+Ambler T, Bhattacharya CB, Edell J, Keller KL, Lemon KN, Mittal B (2002) Relating brand and
+customer perspectives on marketing management. J Serv Res 5(1):13–25
+Anwar Mir I (2013) Examination of attitudinal and intentional drivers of non-deceptive counterfeiting in
+a south Asian context. J Bus Econ Manag 14(3):601–615
+Arndt J (1967) Rollout product-related conversations in the diffusion of a new product. J Mark Res
+4:291–295
+Bailey R, Ball S (2006) An exploration of the meanings of hotel brand equity. Serv Ind J 26(1):15–38
+Baker W, Hutchlnson JW, Moore D, Nedungadl P (1986) Brand familiarity and advertising: effects on the
+evoked set and brand preference. Adv Consum Res 13(1):637–642
+Bambauer-Sachse S, Mangold S (2011) Brand equity dilution through negative online word-of-mouth
+communication. J Retail Consum Serv 18(1):38–45
+Baron RM, Kenny DA (1986) The moderator-mediator variable distinction in social psychological
+research: conceptual, strategic, and statistical considerations. J Pers Soc Psychol 51(6):1173–1182
+Bei LT, Widdows R (2004) Consumers’ online information search behavior and the phenomenon of
+search vs. experience products. J Fam Econ Issues 25(4):449–467
+Belaid S, Behi AT (2011) The role of attachment in building consumer-brand relationships: an empirical
+investigation in the utilitarian consumption context. J Prod Brand Manag 20(1):37–47
+Bentler PM, Chou CP (1987) Practical issues in structural modeling. Sociol Methods Res 16(1):78–117
+Berry LL, Parasuraman A, Zeithaml VA (1994) Improving service quality in America: lessons learned.
+Acad Manag Exec 8(2):32–45
+Bettman JR, Park CW (1980) Effects of prior knowledge and experience and phase of the choice process
+on consumer. J Consum Res 7:234–248
+Bone PF (1992) Determinants of WOM communication during product consumption. Adv Consum Res
+19:579–583
+Brockman BK, Morgan RM (2003) The role of existing knowledge in new product innovativeness and
+performance. Decis Sci 34(2):385–419
+Broniarczyk SM, Alba JW (1994) The importance of the brand in brand extension. J Mark Res
+31:214–228
+Brown JJ, Reingen PH (1987) Social ties and word-of-mouth referral behavior. J Consum Res
+14(3):350–362
+Brown J, Broderick AJ, Lee N (2007) Word of mouth communication within online communities:
+conceptualizing the online social network. J Interact Mark 21(3):2–20
+Bryman A, Cramer D (1999) Qualitative data analysis with SPSS release 8 for windows: a guide for
+social sciences. Routledge, London
+Buil I, Chernatony LD, Hem LE (2009) Brand extension strategies: perceived fit, brand type, and culture
+influences. Eur J Mark 43(11/12):1300–1324
+Buil I, Chernatony LD, Martı́nez E (2013) Examining the role of advertising and sales promotions in
+brand equity creation. J Bus Res 66(1):115–122
+Chahal H, Bala M (2012) Significant components of service brand equity in healthcare sector. Int J Health
+Care Qual Assur 25(4):343–362
+Charumbira LT, Stotlar DK (2015) Unpacking the integrative conceptual Framework for assessing
+perceived brand equity in professional sports teams research journals. J Sports Manag 1(2):1–15
+
+123
+
+998
+
+A. Ansary, N. M. H. Nik Hashim
+
+Chattopadhyay A, Alba JW (1988) The situational in importance of recall and inference consumer
+decision making. J Consum Res 15(1):1–12
+Chen YS (2010) The drivers of green brand equity: green brand image, green satisfaction, and green trust.
+J Bus Ethics 93(2):307–319
+Chevalier JA, Mayzlin D (2006) The effect of word of mouth on sales: online book reviews. J Mark Res
+43(3):345–354
+Chiang K-P, Dholakia RR (2003) Factors driving consumer intention to shop online: an empirical
+investigation. J Consum Psychol 13(1/2):177–183
+Christodoulides G, Chernatony Ld (2010) Consumer based brand equity conceptualization and
+measurement: a literature review. Int J Res Mark 52(1):43–66
+Cobb-Walgren CJ, Ruble CA, Donthu N (1995) Brand equity, brand preference, and purchase intent.
+J Adv 24(3):25–40
+Collier DA (1995) Modelling the relationships between process quality errors and overall service process
+performance. Int J Serv Ind Manag 6(4):4–19
+Cordell VV (1992) Effects of consumer preferences for foreign sourced products. J Int Bus Stud
+23(2):251–269
+Dabholkar PA, Bagozzi RP (2002) An attitudinal model of technology-based self-service: moderating
+effects of consumer traits and situational factors. J Acad Mark Sci 30(3):184–201
+Djakeli K (2012) Matrix of brand awareness and a positive image as a success factor in political PR. Sci J
+Humanit 1(1):31–35
+Duana W, Gub B, Whinstonb AB (2008) The dynamics of online word-of-mouth and product sales—an
+empirical investigation of the movie industry. J Retail 84(2):233–242
+Eastman JK, Eastman KL (2011) Perceptions of status consumption and the economy. J Bus Econ Res
+9(7):9–19
+Emari H, Jafari A, Mogaddam M (2012) The mediatory impact of brand loyalty and brand image on
+brand equity. Afr J Bus Manage 6(17):5692–5701
+Engel JF, Blackwel RD, Kegerreis RJ (1969) How information is used to adopt an innovation. J Adv Res
+9:3–8
+Esch F, Langner T, Schmitt BH, Geus P (2006) Are brands forever? How brand knowledge and
+relationships affect current and future purchases. J Prod Brand Manag 15(2):98–105
+Faircloth JB, Capella LM, Alford BL (2001) The effect of brand attitude and brand image on brand
+equity. J Mark Theory Pract 9(3):61–75
+Fang YH (2012) Does online interactivity matter? Exploring the role of interactivity strategies in
+consumer decision making. Comput Hum Behav 28(5):1790–1804
+Fatema M, Azad MAK, Masum AKM (2013) Impact of brand image and brand loyalty in measuring.
+Asian Bus Rev 2(1):42–46
+Fedorikhin A, Park CW, Thomson M (2008) Beyond fit and attitude: the effect of emotional attachment
+on consumer responses to brand extensions. J Consum Psychol 18(4):281–291
+Feldman SP, Spencer MC (1965) The effect of personal influence in the selection of consumer services.
+In: Proceedings of the fall conference of the american marketing association. Chicago: American
+Marketing Association, pp 440–452
+Fornell C, Larcker DF (1981) Evaluating structural equation models with unobservable variables and
+measurements error. J Mark Res 18(1):39–50
+Frazier PA, Barron KE, Tix AP (2004) Testing moderator and mediator effects in counseling psychology
+research. J Couns Psychol 51(1):115–134
+Fullerton G (2005) The impact of brand commitment on loyalty to retail service brands. Can J Adm Sci
+22(2):97–110
+Gardner BB, Levy SJ (1955) The product and the brand. Harvard Bus Rev 33(2):33–39
+Gill MS, Dawra J (2010) Evaluating Aaker’s sources of brand equity and the mediating role of brand
+image. J Target Measurement Anal Mark 18(3/4):189–198
+Godes D, Mayzlin D (2004) Using online conversations to study word-of-mouth communication. Mark
+Sci 23(4):545–560
+Godes D, Mayzlin D, Chen Y, Das S, Dellarocas C, Pfeiffer B, Libai B et al (2005) The firm’ s
+management of social interactions. Mark Lett 16(3/4):415–428
+Goyette I, Ricard L, Bergeron J, Marticotte F (2010) e-WOM scale: word-of-mouth measurement scale
+for e-services context. Can J Adm Sci 27(1):5–23
+Graeff TR (1997) Consumption situations and the effects of brand image on consumers’ brand
+evaluations. Psychol Mark 14(1):49–70
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+999
+
+Hair JF, Black WC, Babin BJ, Anderson RE (2010) Multivariate data analysis, 7th edn. Prentice Hall,
+Englewood Cliffs
+Hamzaoui-Essoussi L, Merunka D, Bartikowski B (2011) Brand origin and country of manufacture
+influences on brand equity and the moderating role of brand typicality. J Bus Res 64(9):973–978
+He H, Li Y (2011) Key service drivers for high-tech service brand equity: the mediating role of overall
+service quality and perceived value. J Mark Manag 27(1/2):77–99
+Herr PM, Karde FR, Kim J (1991) Effects of word-of-mouth and product-attribute information on
+persuasion: an accessibility-diagnosticity perspective. J Consum Res 17(4):454–462
+Hoch SJ, Ha YW (1986) Consumer learning: advertising and the ambiguity of product experience.
+Journal of Consumer Research 13(2):221–233
+Holden SJS (1992) Brand equity through brand awareness: measuring and managing brand retrieval.
+Ph.D. Dissertation: University of Florida
+Hsieh MH, Pan SL, Setiono R (2004) Product, corporate, and country image dimensions and purchase
+behavior: a multicountry analysis. J Acad Mark Sci 32(3):251–270
+Huang R, Sarigöllü E (2012) How brand awareness relates to market outcome, brand equity, and the
+marketing mix. J Bus Res 65(1):92–99
+Huang YT, Tsai YT (2013) Antecedents and consequences of brand-oriented companies. Eur J Mark
+47(11/12):2020–2041
+Huang P, Lurie NH, Mitra S (2009) Searching for experience on the web: an empirical examination of
+consumer behavior for eearch and experience goods. J Mark 73(2):55–69
+Hung C (2008) The Effect of brand image on public relations perceptions and customer loyalty. Int J
+Manag 25(2):237–247
+Im I, Kim Y, Han HJ (2008) The effects of perceived risk and technology type on users’ acceptance of
+technologies. Inf Manag 45(1):1–9
+Ismail AR, Spinelli G (2012) Effects of brand love, personality and image on word of mouth. J Fashion
+Mark Manag 16(4):386–398
+Jacoby J, Szybillo GJ, Busato-Schach J (1977) Information acquisition behavior in brand choice
+situations. J Consum Res 3(4):209–216
+Jaiprakash AT (2008) A conceptual research on the association between celebrity endorsement, brand
+image and brand equity. Icfai Univ J Mark Manag 7(4):54–64
+Jalilvand MR, Samiei N (2012) The effect of electronic word of mouth on brand image and purchase
+intention: an empirical study in the automobile industry in Iran. Mark Intell Plann 30(4):460–476
+Kakati RP, Choudhury S (2013) Measuring customer-based brand equity through brand building blocks
+for durables. J Brand Manag 10(2):24–41
+Kamdar D, Dyne LV (2007) The jont effects of personality and workplace social exchange relationships
+in predicting task performance and citizenship performance. J Appl Psychol 92(5):1286–1298
+Kay MJ (2006) Strong brands and corporate corporate. Eur J Mark 40(7/8):742–760
+Kayaman R, Arasli H (2007) Customer based brand equity: evidence from the hotel industry. Manag Serv
+Qual 17(1):92–109
+Keller KL (1993) Conceptualizing, measuring, and managing customer-based brand equity. J Mark
+57:1–22
+Keller KL (2001) Building customer-based brand equity: a blueprint for creating strong brands.
+Marketing Science Institute Working paper, 1–107
+Keller E (2007) Unleashing the power of word of mouth: creating brand advocacy to drive growth. J Adv
+Res 47(4):448–452
+Keller KL, Lehmann DR (2003) How do brands create value? Mark Manag 12:26–31
+Kim HS (2000) Examination of brand personality and brand attitude within the apparel product category.
+J Fash Mark Manag 4(3):243–252
+Kim H, Kim W, An A (2003) The effect of consumer-based brand equity on firms’ financial performance.
+J Consum Mark 20(4):335–351
+Kim KH, Kim KS, Kim DY, Kim JH, Kang SH (2008) Brand equity in hospital marketing. J Bus Res
+61(1):75–82
+King MF, Balasubramanian SK (1994) The effects of expertise, end goal, and product type on adoption of
+preference formation strategy. J Acad Mark Sci 22(2):146–159
+Klein LR (1998) Evaluating the potential of interactive media through a new lens: search versus
+experience goods. J Bus Res 41(3):195–203
+Kreuzbauer R, Malter AJ (2005) Embodied cognition and new product design: changing product form to
+ifluence brand categorization. J Prod Innov Manag 22(2):165–176
+
+123
+
+1000
+
+A. Ansary, N. M. H. Nik Hashim
+
+Krishnan H (1996) Characteristics of memory associations: a consumer-based brand equity perspective.
+Int J Res Mark 13:389–405
+Kukar-Kinney M, Ridgway NM, Monroe KB (2012) The role of price in the behavior and purchase
+decisions of compulsive buyers. J Retail 88(1):63–71
+Kumaravel V, Kandasamy C (2012) To what extent the brand image influence consumers’ purchase
+decision on durable products. Rom J Mark 1:34–38
+Lam D, Lee A, Mizerski R (2009) The effects of cultural values in word-of-mouth communication. J Int
+Mark 17(3):55–70
+Lane V, Jacobson R (1995) Stock market reactions to brand extension announcements: the effects of
+brand attitude and familiarity. J Mark 59(1):63–77
+Laroche M, Kim C, Zhou L (1996) Brand familiarity and confidence as determinants of purchase
+intention: an empirical test in a multiple brand context. J Bus Res 37(2):115–120
+Lassar W, Mittal B, Sharma A (1995) Measuring customer-based brand equity. J Consum Mark
+12(4):11–19
+Liao S, Cheng CC (2014) Brand equity and the exacerbating factors of product innovation failure
+evaluations: a communication effect perspective. J Bus Res 67(1):2919–2925
+Liao Y-K, Wu W-Y, Amaya Rivas AA, Ju TL (2017) Cognitive, experiential, and marketing factors
+mediate the effect of brand personality on brand equity. Social Behav Personal 45(1):1–18
+Lim BC, Chung CM (2011) The impact of word-of-mouth communication on attribute evaluation. J Bus
+Res 64(1):18–23
+Loken B, John DR (1993) Diluting brand beliefs: when do brand extensions have a negative impact?
+J Mark 57:71–84
+Louis D, Lombart C (2010) Impact of brand personality on three major relational consequences (trust,
+attachment, and commitment to the brand). J Prod Brand Manag 19(2):114–130
+Lovett MJ, Peres R, Shachar R (2013) On brands and word of mouth. J Mark Res 50(4):427–444
+MacCallum RC, Zhang S, Preacher KJ, Rucker AD (2002) On the practice of dichotomization of
+quantitative variables. Psychol Methods 7(1):19–40
+Macdonald EK, Sharp BM (2000) Brand awareness effects on consumer decision making for a common,
+repeat purchase product: a replication. J Bus Res 48(1):5–15
+Malär L, Krohmer H, Hoyer WD, Nyffenegger B (2011) Emotional brand attachment and brand
+personality: the relative importance of the actual and the ideal self. J Mark 75(4):35–52
+Martin GS, Brown TJ (1990) In search of brand equity: the conceptualization and measurement of the
+brand impression construct. Mark Theory Appl 2:431–438
+Meyer BO (2012) Emotional and cognitive incorporation of brand equity in financial markets: a
+conceptualisation of brand equity and behavioural finance. Working Paper, 1–19
+Misner IR (1999) The world’s best known marketing secret: building your business with word-of-mouth
+marketing, 2nd edn. Bard Press, Austin
+Molinari LK, Abratt R, Dion P (2008) Satisfaction, quality and value and effects on repurchase and
+positive word-of-mouth behavioral intentions in a B2B services context. J Serv Mark 22(5):363–373
+Morrin M (1999) The impact of brand extensions on parent brand memory structures and retrieval
+processes. J Mark Res 36:517–525
+Mourad M, Ennew C, Kortam W (2011) Brand equity in higher education. Mark Intell Plann
+29(4):403–420
+Nedungadi P (1990) Recall and consumer consideration sets: influencing choice without altering brand
+evaluations. J Consum Res 17(3):263–276
+Nelson P (1974) Advertising as informtion. J Polit Econ 82(4):729–754
+Ng PF, Butt MM, Khong KW, Ong FS (2014) Antecedents of green brand equity: an integrated approach.
+J Bus Ethics 121(2):203–215
+Nunnally JC (1978) Psychometric theory. McGraw-Hill, New York, NY
+Oh H (2000) The effect of brand class, brand awareness, and price on customer value and behavioral
+intentions. J Hosp Tour Res 24(2):136–162
+Padilla J, Watson N (2010) A critical review of the literature on generic packaging for cigarettes. A report
+for PMI. LECG Consulting Belgium, Brussels
+Park CW, Jaworski BJ, Maclnnis DJ (1986) Strategic brand concept-image management. J Mark
+50:135–145
+Park C, MacInnis DJ, Priester J, Eisingerich AB, Iacobucci D (2010) Brand attachment and brand attitude
+strength: conceptual and empirical differentiation of two critical brand equity drivers. J Mark
+74:1–17
+
+123
+
+Brand image and equity: the mediating role of brand…
+
+1001
+
+Pitta DA, Katsanis LP (1995) Understanding brand equity for successful brand extension. J Consum Mark
+12(4):51–64
+Plummer JT (2007) Editorial: word of mouth: New advertising discipline? J Adv Res 47(4):385–386
+Porter SS, Claycomb C (1997) The influence of brand recognition on retail store image. J Prod Brand
+Manag 6(6):373–387
+Priester JR, Nayakankuppam D, Fleming MA, Godek J (2004) Model: the influence of attitudes and
+attitude strength on consideration and choice. J Consum Res 30(4):574–587
+Roy D, Banerjee S (2007) CARE-ing strategy for integration of brand identity with brand image. Int J
+Commer Manag 17(1):140–148
+Sasmita J, Mohd Suki N (2015) Young consumers’ insights on brand equity. Int J Retail Distrib Manag
+43(3):276–292
+Sellers-Rubio R, Más-Ruiz FJ (2015) Economic efficiency of members of protected designations of
+origin: sharing reputation indicators in the experience goods of wine and cheese. RMS 9(1):175–196
+Senecal S, Nantel J (2004) The influence of online product recommendations on consumers’ online
+choices. J Retail 80(2):159–169
+Seno D, Lukas BA (2007) The equity effect of product endorsement by celebrities: a conceptual
+framework from a co-branding perspective. Eur J Mark 41(1/2):121–134
+Shabbir J, Rehman KU (2013) Impact of perceptual dimensions and behavioral dimension on brand
+equity in Pakistan. Inf Manag Bus Rev 5(7):347–359
+Sheth JN (1971) Word-of-mouth in low-risk innovations. J Adv Res 11(3):15–18
+Smith G (2004) Brand image transfer through sponsorship: a consumer learning perspective. J Mark
+Manag 20(3–4):457–474
+Spears N, Singh SN (2004) Measuring attitude toward the brand and purchase intentions. J Current Issues
+Res Adv 26(2):53–66
+Srikatanyoo N, Gnoth J (2002) Country image and international tertiary education. J Brand Manag
+10(2):139–146
+Srivastava RK (2009) Measuring brand strategy–can brand equity and brand score be a tool to measure
+the effectiveness of strategy? Innov Mark 5(1):26–32
+Srull TK, Wyer RS (1989) Person memory and judgment. Psychol Rev 96(1):58–83
+Stigler GJ (1961) The Economics of Information. J Polit Econ 69(3):213–225
+Subramaniam A, Al Mamun A, Yukthamarani Permarupan P, Raihani Binti Zainol N (2014) Effects of
+brand loyalty, image and quality on brand equity: a study among Bank Islam consumers in Kelantan,
+Malaysia. Asian Soc Sci 10(14):67–73
+Thomson M (2006) Human brands: investigating antecedents to consumers’ strong attachments to
+celebrities. J Mark 70(3):104–119
+Thomson M, MacInnis DJ, Park CW (2005) The ties that bind: measuring the strength of consumers’
+emotional attachments to brands. J Consum Psychol 15(1):77–91
+Thorelli HB, Lim JS, Ye J (1989) Relative importance of country of origin, warranty, and retail store
+image on product evaluations. Int Mark Rev 6(1):35–46
+Tong C, Wong A, Leung S (2013) The mediating effects of service charge transparency on the
+relationship between corporate social responsibility and customer behaviour in Hong Kong’s retail
+banking sector. Bus Econ Res 3(1):56–88
+Trusov M, Bucklin RE, Pauwels K (2009) Effects of word-of-mouth versus traditional marketing:
+findings from an internet cocial networking site. J Mark 73:90–102
+Vázquez-Casielles R, Suárez-Álvarez L, Del Rı́o-Lanza AB (2013) The word of mouth dynamic: how
+positive (and negative) WOM drives purchase probability: An analysis of interpersonal and noninterpersonal factors. J Adv Res 53(1):43–60
+Verhoef PC, Franses PH, Hoekstra JC (2002) The effect of relational constructs on customer referrals and
+number of services purchased from a multiservice provider: does age of relationship matter? J Acad
+Mark Sci 30(3):202–216
+Vieceli J, Shaw RN (2010) Brand salience for fast-moving consumer goods: an empirically based model.
+J Mark Manag 26(13/14):1218–1238
+Voester J, Ivens B, Leischnig A (2016) Partitioned pricing: review of the literature and directions for
+further research. Rev Manag Sci. doi:10.1007/s11846-016-0208-x
+Wang Y, Kandampully JA, Lo HP, Shi G (2006) The roles of brand equity and corporate reputation in
+CRM: a Chinese study. Corp Reput Rev 9(3):179–197
+Wangenheim Fv (2003) Opportunism in interpersonal exchange: when dissatisfaction is followed by
+positive word-of-moutH. In: American markeing association summer conference proceedings
+
+123
+
+1002
+
+A. Ansary, N. M. H. Nik Hashim
+
+Weiss AM, Anderson E, Maclnnis DJ (1999) Reputation management as a motivation for sales structure
+decisions. J Mark 63:74–89
+Wilcox JB, Laverie DA, Kolyesnikova N, Duhan DF, Dodd TH (2008) Facets of brand equity and brand
+survival: a longitudinal examination. Int J Wine Bus Res 20(3):202–214
+Wright AA, Lynch JG (1995) Communication effects of advertising versus direct experience when both
+search and experience attributes are present. J Consum Res 21(4):708–718
+Xia L, Bechwati NN (2010) Word of mouse: the role of cognitive personalization in online consumer
+reviews. J Interact Adv 9(1):3–13
+Xu JB, Chan A (2010) A conceptual framework of hotel experience and customer-based brand equity. Int
+J Contemp Hosp Manag 22(2):174–193
+Yasin B (2009) The role of gender on Turkish consumers’ decision-making styles, advances in consumer
+research. Asia-Pac Conf Proc 8:301–308
+Yasin NM, Noor MN, Mohamad O (2007) Does image of country-of-origin matter to brand equity?
+J Prod Brand Manag 16(1):38–48
+Yoo B, Donthu N, Lee S (2000) An examination of selected marketing mix elements and brand equity.
+J Acad Mark Sci 28(2):195–211
+Zeithaml VA (2000) Service quality, profitability, and the economic worth of customers: what we know
+and what we need to learn. J Acad Mark Sci 28(1):67–85
+Zhang H, Ko E, Lee E (2013) Moderating effects of nationality and product category on the relationship
+between innovation and customer equity in Korea and China. J Prod Innov Manag 30(1):110–122
+
+123
+
+

@@ -1,0 +1,2473 @@
+Dynamics of American giving: 
+
+Descriptive evidence 
+
+Patrick M. Rooneya,b, Mark Ottoni-Wilhelma,b, Xiaoyun Wanga, and Xiao Hana,b 
+
+February 22, 2019 
+
+Acknowledgments 
+The collection of the PSID data used in this study was supported by the National Science 
+Foundation under award number 1157698 and the National Institutes of Health under grant 
+number R01 HD069609. Major support for the collection of the Philanthropy Panel Study data 
+was provided by the Atlantic Philanthropies, the Bill and Melinda Gates Foundation, The John 
+Templeton Foundation, The Charles Stewart Mott Foundation, and Fidelity Charitable 
+Investments.  
+
+Corresponding author: Xiaoyun Wang (wang361@iu.edu). 
+Co-authors: Patrick Rooney (rooney@iupui.edu), Mark Ottoni-Wilhelm (mowilhel@iupui.edu), 
+
+Xiao Han (hanxia@iupui.edu). 
+
+a Indiana University Lilly Family School of Philanthropy, 301 University Blvd, Indianapolis, IN 
+
+46202 
+
+b Department of Economics, IUPUI, 425 University Boulevard, Cavanaugh Hall, Room 516, 
+
+Indianapolis, IN 46202 
+
+_______________________________________________
+
+This is the author's manuscript of the article published in final edited form as:
+
+Rooney, P. M., Ottoni-Wilhelm, M., Wang, X., & Han, X. (2021). Dynamics of American Giving: Descriptive Evidence. 
+Nonprofit and Voluntary Sector Quarterly, 50(4), 729–752. https://doi.org/10.1177/0899764020977661
+
+Abstract 
+
+Most knowledge about giving comes from static, point-in-time research. This paper presents 
+
+evidence that American giving is strongly dynamic over time. First, among people who ever give 
+
+to charitable organizations, the majority do not give year-in/year-out to one specific charitable 
+
+purpose, but change their giving over time. Second, standard interpretations of extant cross-
+
+sectional stylized facts about giving—summary statistics and regression coefficients—mislead 
+
+about the dynamics. These results imply the need to shift conceptual thinking, research 
+
+questions, and fundraising approaches from the static to the dynamic. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Introduction 
+
+There is an extensive literature on charitable giving, and nearly all of it is based on static, 
+
+point-in-time analysis. In cross-sectional analyses of annual giving in the United States, it is 
+
+typical to find that between 50 and 60 percent of Americans give to charitable organizations, and 
+
+that among these the average given is around $1,200 (IU Lilly Family School of Philanthropy, 
+
+various years). There are analyses of giving in other countries, similar in that fractions who give 
+
+and average amounts given are estimated from cross-sectional data (Wiepking & Handy, 2015). 
+
+There also are numerous studies describing regression relationships between amounts given and 
+
+a large set of socio-economic variables, for example income, education, and marital status 
+
+(reviewed by Bekkers & Wiepking, 2011); Wiepking & Bekkers, 2012). Regression studies from 
+
+many countries can be found in Wiepking and Handy (2015). Nearly all of this literature is based 
+
+on cross-sectional analysis.1,2 
+
+However, interpretation of results based on cross-sectional analyses can be misleading if 
+
+giving is strongly dynamic over time. For example, it is easy to read a cross-sectional result that 
+
+58 percent of Americans give, and interpret that as the same 58 percent of Americans who year-
+
+in/year-out give to charitable organizations—that America is split into two groups: 58 percent 
+
+“always-donors” and 42 percent “never-donors”. That interpretation is accurate only to the extent 
+
+1 Cross-sectional data have been extensively used since the earliest work on to charitable giving over 50 years ago 
+(Dickinson, 1962; Morgan, 1961; Schwartz, 1970; Roistacher & Morgan, 1974) and continuing to the present 
+(Brown & Ferris, 2007; Einolf, 2011; James & Sharpe, 2007; Mesch, Rooney, Steinberg, & Denton, 2006; Wiepking 
+& Handy, 2015). Important American cross-sectional surveys of giving include the National Study of Philanthropy 
+(1974) and the series Giving and Volunteering in the United States, starting with Hodgkinson & Weitzman (1988). 
+Wilhelm (2007) reviews these and other cross-sectional studies of giving. 
+
+There is an extensive experimental literature investigating interventions intended to increase giving. This 
+
+work includes lab experiments (e.g., Eckel & Grossman, 1996), field experiments (e.g., List & Lucking-Reiley, 
+2002), survey experiments (e.g., Bekkers, 2015), and hypothetical policy experiments (e.g., Scharf & Smith, 2015). 
+For reviews see Andreoni and Payne (2013) and Vesterlund (2016). Almost all of this work investigates point-in-
+time interventions, although there are a few important exceptions (e.g., Falk, 2007; Meier, 2007; Meer, 2017; 
+
+Donkers, van Diepen, & Franses, 2017). 
+
+2 The statistics discussed in this paragraph (between 50 and 60 percent give, and among these the average given is 
+around $1,200) do not include giving to religious congregations. 
+
+ 
+                                                 
+that giving is not dynamic over time. Conversely, if giving is strongly dynamic, such 
+
+interpretations of cross-sectional results are misleading.  
+
+Yet there is little evidence that describes the dynamics of giving. Despite scarce evidence 
+
+about giving dynamics, theoretical considerations to be discussed in Section 2, empirical findings 
+
+from other social science research areas (e.g., Duncan, Hill, & Hoffman, 1988), and three 
+
+previous studies of giving across two or three years (Ottoni-Wilhelm, 2010; Wu & Brown; 2010; 
+
+de Wit & Bekkers, 2015) all suggest that there could be important dynamics in long-term giving 
+
+behavior. Bekkers and Wiepking’s (2007) observation still stands: “Dynamic analyses of 
+
+donation patterns over time are clearly needed.”  
+
+This paper describes the dynamics in the United States of giving to charitable 
+
+organizations over an eight-year time period. We also analyze the dynamics of giving to 
+
+religious congregations. We use biennial panel data that describe the giving of over 6,000 
+
+Americans in the even number years 2000-2014. The findings indicate that American giving is 
+
+strongly dynamic. Among people who give to charitable organizations, a more than six-out-of-
+
+ten majority give every other year or less often to a (any) specific charitable purpose such as 
+
+basic needs, education, etc. Giving to each of the specific purposes is even more dynamic; for 
+
+example, among those who give to basic needs organizations, eight-out-of-ten give every other 
+
+year or less. 
+
+The second finding is that cross-sectional results are not useful for understanding giving 
+
+dynamics. For instance, among “non-donors”, so-identified in a particular cross-section, a large 
+
+majority (nearly two-thirds) are in fact donors, just not in that particular year. Furthermore, 
+
+regression descriptions of the relationships between giving and socio-economic variables, 
+
+2 
+
+ 
+ 
+estimated using cross-sectional data, do not apply uniformly to donors who seldom give, who 
+
+give from time-to-time, and who give year-in/year-out.  
+
+The third finding is that giving to religious congregations is also dynamic. A large 
+
+minority who give to congregations, just a little less than half, give every other year or less. 
+
+These findings are significant because they are the first comprehensive measurement of 
+
+giving dynamics in the United States. They imply the need to shift the conceptual framework 
+
+used to think about giving: giving is dynamic, not static. Finally, the findings are significant 
+
+because they suggest a new imperative for both secondary data and experimental researchers, 
+
+and for practitioners, to focus on giving dynamics over time. 
+
+2. Theory and literature review 
+
+Only if the people who give in one year also give in every year, year-in/year-out—and 
+
+their counterparts who do not give in a year also do not give in other years—then would a cross-
+
+sectional analysis of giving in a calendar year paint an accurate picture of dynamic giving 
+
+behavior across time. However, there are many theoretical reasons to expect that a static analysis 
+
+does not accurately tell us about giving dynamics. First, it is well-known that the majority of 
+
+people give only in response to a request (Bekkers & Wiepking, 2011). Hence, year-to-year 
+
+variation in whether people are asked to give will translate into year-to-year variation in whether 
+
+people do give. Relatedly, many people seek to “avoid the ask” (DellaVigna, List, & 
+
+Malmendier, 2012; Andreoni, Tractman, & Rao, 2017). This implies further time-variation in 
+
+giving. Second, there is evidence that requests arriving when time is pressed lead to lower 
+
+donation rates (Knowles & Servátka, 2015): how much time-pressure a person is experiencing 
+
+when requests arrive could lead to variations in giving.  Third, there is evidence that separation 
+
+in time between the decision/pledge to give and the actual payment of the gift leads to a 
+
+3 
+
+ 
+substantial amount of not following through (Fosgaard & Soetevent, 2018; also see Andreoni & 
+
+Serra-Garcia, 2016). Initial intentions to give not brought to fruition could easily lead to time-
+
+variation in giving. Finally, important determinants of giving, such as income and other family 
+
+circumstances, are not static but change across time. Using the Panel Study of Income Dynamics 
+
+(PSID) Duncan et al. (1984) were “the first to reveal a startling high level of dynamism, 
+
+mobility, but also instability and turbulence, among American families” (Moffitt & Zhang, 
+
+2018). Einolf (2018), using the PSID’s Philanthropy Panel Study (PPS), found evidence that 
+
+children’s age-based transitions affect parents’ giving. 
+
+There are empirical reasons from previous research suggesting that giving may be 
+
+dynamic enough so that interpretations from cross-sectional results are misleading. First, there 
+
+are precedents of exactly that kind of finding in other social science research. For example, the 
+
+percentage of people receiving welfare assistance had been calculated from a new cross-section 
+
+each year—at roughly eight percent—and the percentage did not change much year-to-year. This 
+
+led to the interpretation that all people receiving welfare were “welfare dependent”. Using PSID 
+
+data Coe (1981) demonstrated that interpretation to be wrong: a surprisingly high 25 percent of 
+
+Americans received welfare assistance at least once over a ten-year period, but a three-quarter 
+
+majority of those received it for five or fewer years out of ten. A strong dynamic in welfare use 
+
+was the reality, but the misinterpretation of cross-sectional results had caused researchers and 
+
+policy-makers to overlook reality.3 
+
+Second, although giving dynamics have not been extensively analyzed, there are previous 
+
+indications that there may be strong long-term dynamics in giving. Summary statistics reported 
+
+in Ottoni-Wilhelm’s (2010) study of denominational affiliation and giving to basic needs 
+
+3 See Ellwood (1986) and Duncan, Hill, and Hoffman (1988) for further evidence. These findings had significant 
+influence on the 1996 welfare reform. 
+
+4 
+
+ 
+                                                 
+organizations can be used to calculate that a large majority of Americans who gave at least once 
+
+to a basic needs organization in a three-year period did not give in all three years. Wu and Brown 
+
+(2010) reported a similar result for giving to education. However, Dutch data from a two-year 
+
+period suggest that giving to health, international, and congregations is less dynamic (de Wit & 
+
+Bekkers, 2015). 
+
+This paper’s contribution is to provide a comprehensive measurement of giving dynamics 
+
+over time. By comprehensive we mean two things: thorough in the dimension of purposes to 
+
+which Americans give, and long enough across the dimension of time (eight years) to allow clear 
+
+distinctions between people who never give, who seldom give, who give from time-to-time, and 
+
+who give frequently. 
+
+3. Data and methods 
+
+The data are from the eight biennial waves of the PSID 2001-2015 interview years that 
+
+measure giving in the previous calendar years 2000-2014 (Survey Research Center, 2017). 
+
+Giving is measured to nine charitable purposes, each purpose queried separately: helping people 
+
+with basic needs, combined purpose appeals (like the United Way), health, education, 
+
+youth/family services, neighborhoods/community, arts/cultural, environmental, and international. 
+
+Giving to all of these purposes, aggregated together, we refer to as giving to “charitable 
+
+organizations”. Giving for religious purposes and spiritual development is measured with a 
+
+question about giving to churches, synagogues, mosques, and TV/radio ministries; we refer to 
+
+5 
+
+ 
+ 
+this as giving to “congregations” and analyze it separately.4,5 There are two strengths that make 
+
+the PSID well-suited for the analysis. First, it provides high-quality measurement of giving 
+
+(Wilhelm 2006, 2007). Second, because the PSID interviews the same people across time, it 
+
+permits investigation of the dynamics of American giving. 
+
+We use the three sub-samples within the PSID: the nationally-representative sub-sample, 
+
+the low-income over-sample, and the 1997 immigrant refresher sample. High year-to-year re-
+
+interview response rates (around 95 percent; McGonagle et al., 2012), including as new sample 
+
+the family units created by adult children who move out from their family-of-origin, and an 
+
+annual re-contact effort for non-response families, have allowed the PSID to remain nationally-
+
+representative despite attrition (Fitzgerald, Gottschalk, & Moffitt, 1998; Schoeni et al., 2013). 
+
+The PSID provides weights that adjust for unequal selection probabilities that initially brought 
+
+families into the PSID through one of the three sub-samples, and for differential attrition 
+
+(Schoeni et al., 2013). Our results use the weights. 
+
+The PSID’s unit of analysis for measuring giving and income is the family. The PSID 
+
+“family unit” is defined to be people living together and sharing economic resources; therefore a 
+
+married couple, a single person living with no others, a single parent living with her/his children, 
+
+and a cohabiting couple are all examples of PSID family units. However, membership in a 
+
+family unit can, and often does, change across time, as people marry/partner/separate, and adult 
+
+4 Separate analysis of giving to religious congregations is warranted because important cross-sectional stylized facts 
+about giving are different for congregations compared to charitable organizations: the percentages who give (15 
+percentage points lower for congregations), the average amounts given per donor (two times larger), and the 
+associations with income (half as strong), education (six-tenths as strong), and family structure (married couples 
+give much larger amounts than do single women to congregations, but not to charitable organizations); see Brown et 
+al. (2015). As will be seen below, the dynamics of giving to congregations, compared to charitable organizations, 
+differ as well. 
+5 At the end of the questionnaire, the PSID has a mop-up question (open-ended responses) that measures giving not 
+already reported. We map the open-ended responses back into one of the nine charitable purposes, or to 
+congregations. 
+
+6 
+
+ 
+ 
+                                                 
+children move out to create new family units. Therefore we build the panel sample for analysis 
+
+by following individuals—heads of family units and their spouse/partners—back through time. 
+
+The size of the panel sample for analysis is 6,425 individuals. 
+
+For an individual to be included in the panel sample, we required them to be the head or 
+
+spouse/partner of a responding family unit in all eight of the interview years. This requirement 
+
+naturally excludes very young adults (who moved from their family-of-origin to create their own 
+
+family unit), as well as the very old (whose declining health led to them being unable to continue 
+
+responding to the interviews).6 To check the degree to which requiring response in all eight 
+
+waves may have introduced non-representativeness, Table 1 compares statistics describing 
+
+giving in 2006 among those in the panel sample with giving in 2006 among the people in that 
+
+year’s cross-section sample (i.e., all who responded to the PSID in the 2007 interview year). To 
+
+be clear: the table compares two different samples (panel versus cross-section) but the statistics 
+
+being compared describe calendar year 2006 variables only. The comparison indicates some 
+
+differences between the panel sample and the cross-section, but those differences are small. For 
+
+example, the percentages who gave to at least one charitable organization (any of the nine 
+
+purposes) in 2006 was 61 in the panel sample versus 58 in the cross-section sample. Among 
+
+people who donated, the average amounts were nearly identical: $1,278 and $1,236 (all amounts 
+
+are in 2014 dollars). Likewise, the percentages of the two samples who gave, and the average 
+
+amounts given, to basic needs, combined purposes, health, and education were similar. Forty-
+
+6 For example, for a Millennial adult to be included s/he would have had to create her/his own family unit by 2001, 
+when the oldest Millennials were only 20 years old. Because there were so few Millennial adults who had formed 
+their own family units by 2001 we excluded the few who had (N = 53). At the other end of life, 1,617 adults in the 
+study died since 2001, and other older adults entered institutional living arrangements and were no longer 
+interviewed. 
+
+7 
+
+ 
+ 
+                                                 
+eight percent of the panel sample gave to congregations, nearly identical to the 45 percent from 
+
+the cross-section sample; the respective amounts given were close: $2,578 and $2,476. 
+
+Although the giving statistics match closely between the panel and the cross-section 
+
+samples, there are a few indications that the panel is a little more “stable” than the cross-section. 
+
+The individuals in the panel sample are more likely to members of the Baby Boom (51 versus 43 
+
+percent). Members of the Baby Boom are in the middle of their life course (ages 36 through 68) 
+
+when income is higher compared to younger and older adulthood. In line with this, income in the 
+
+panel sample is six percent higher on average. A slightly larger fraction in the panel sample are 
+
+married (55 versus 52 percent) and corresponding lower fractions are cohabiting couples or 
+
+single men. These indications of more stability in the panel sample imply that the description of 
+
+giving dynamics we provide may be a lower bound. The rest of Table 1 indicates the panel and 
+
+cross-section samples have very similar education and race characteristics. 
+
+4. Results 
+
+Study 1 describes the dynamics of giving to all nine charitable purposes aggregated 
+
+together, and also for four specific charitable purposes: basic needs, combined appeals, health, 
+
+and education. Study 2 presents evidence that these giving dynamics cannot be described by 
+
+single-year, point-in-time cross-sectional estimates. Study 3 describes the dynamics of giving to 
+
+congregations.  
+
+Study 1: Dynamics of giving to charitable organizations 
+
+1.1 All charitable organizations and any specific purpose 
+
+Result 1. Among people who give to charitable organizations across time, a large minority—a 
+
+little more than four-out-of-ten—give every other year or less often. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2 presents the dynamics of giving in the eight-year panel. Each row is a different 
+
+charitable purpose. For example, column 1, row 1 shows that 87 percent of Americans gave at 
+
+least once over the eight calendar years to at least one of the nine charitable purposes. That the 
+
+87 percent is much higher than the 61 percent in Table 1 column 1 is the first indication of the 
+
+strength of giving dynamics: the 26 percentage point difference indicates that many people gave 
+
+in at least one of the eight years, but not in 2006. Column 2 shows that 13 percent did not give to 
+
+any charitable organization in any of the eight years.  
+
+Columns 3-5 show the distribution of people by how often they gave: seldom (gave in 
+
+one or two years out of eight; so every fourth year or less) from time-to-time (gave in three, four, 
+
+or five years; roughly every other year), and frequent (gave in six, seven, or eight years; three out 
+
+of four years or more often). Fifteen percent gave seldom and 22 percent gave from time-to-time. 
+
+Hence, 37 percent of Americans gave every other year or less. As a fraction of the 87 percent 
+
+who gave at least once during the eight-year period, the 37 percent is a little more than four-out-
+
+of-ten. Therefore, a large minority of those who ever give, give every other year or less often. 
+
+This is a measure of the strength of giving dynamics. 
+
+Result 2. Among people who give to charitable organizations across time, more than six-out-of-
+
+ten give every other year or less often to a (any) specific charitable purpose. 
+
+Result 1 underestimates the strength of giving dynamics because among the people who 
+
+gave frequently to any charitable organization—the 50 percent in column 5—are those who did 
+
+not give frequently to a specific charitable purpose. Table 3 demonstrates this by investigating 
+
+the heterogeneity among the people within that 50 percent (after this discussion we will return to 
+
+the rest of Table 2). Table 3 Panel 1 column 1 indicates that .34 of the 50 percent did not give 
+
+9 
+
+ 
+ 
+ 
+frequently to any one specific purpose, but rather changed their giving between purposes. In 
+
+other words, they gave every other year or less to any one specific purpose.  
+
+This is 17 percent (.34 x .50) of all Americans. Adding this to the 37 percent from Table 
+
+2 who gave every other year or less often (to any purpose) yields the result that 54 percent of 
+
+Americans gave every other year or less to a specific charitable purpose. As a fraction of those 
+
+who ever give, that is more than a six-out-of-ten majority (.54/.87), indicating a strong dynamic 
+
+in American giving. 
+
+Result 3. One-third of Americans give year-in/year-out to a (any) specific charitable purpose.  
+
+An alternative way to describe the strength of giving dynamics is to flip the question and 
+
+present statistics about the lack of year-to-year dynamic change, i.e., year-in/year-out giving to a 
+
+specific charitable purpose. From Table 3 we know that 1 − .34 = .66 of the 50 percent year-
+
+in/year-out givers, gave year-in/year-out to one (or more) specific purposes. Hence, one-third 
+
+(.66 x .50) gave year-in/year-out to a (any) specific purpose. Among those who ever gave, that is 
+
+somewhat less than four-out-of-ten (.33/.87). 
+
+1.2 Each specific charitable purpose 
+
+Result 4. Among people who give to a specific charitable purpose across time, a large majority—
+
+eight-out-of-ten—give every other year or less often to that purpose. 
+
+To investigate the strength of giving dynamics for each of the separate purposes, we now 
+
+return to Table 2 rows 2-5. Row 2 shows that 74 percent of Americans gave to basic needs 
+
+organizations in at least one out of the eight years, including 28 percent who seldom gave and 30 
+
+percent who gave from time-to-time. Hence, 58 percent of Americans gave to basic needs every 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+other year or less, a nearly eight-out-of-ten majority of those who ever gave (.58/.74). This is a 
+
+very strong giving dynamic. 
+
+Row 3 indicates an identically strong giving dynamic for combined purposes: 69 percent 
+
+ever gave, 30 and 24 percent gave seldom and time-to-time respectively, implying that a nearly 
+
+eight-out-of-ten majority of those who ever gave, gave every other year or less often. Likewise 
+
+for health/medical research purposes: row 4 indicates that a little more than eight-out-of-ten of 
+
+those who ever gave, gave every other year or less often (.50/.61). Likewise for education: eight-
+
+out-of-ten of those who ever gave, gave every other year or less often (.37/.46). The main 
+
+difference across basic needs, combined, health, and education purposes is not the dynamics of 
+
+giving, but rather the percentages of people who ever gave: 74, 69, 61, and 46 percent 
+
+respectively.7  
+
+Result 5. Few Americans give year-in/year-out to two or more charitable purposes. 
+
+Strong dynamics in giving to specific purposes are also seen in Table 3 Panel 1, which 
+
+describes the dynamics by flipping the question, as done for Result 3 above, to present statistics 
+
+about the lack of dynamic change. For instance, column 2 indicates that .32 (of the 50 percent 
+
+who gave frequently to any charitable organization) gave frequently to exactly one purpose—that 
+
+is 16 percent of Americans. Columns 3-7 present the same statistic for people who gave 
+
+frequently to exactly two, three, four, five, and six-plus purposes. Not surprisingly, the fractions 
+
+in each of these categories are decreasing: .18 (again, of the 50 percent who gave frequently to 
+
+7 Appendix A contains a description of the giving dynamics for the five other purposes. For each purpose, among 
+people who ever gave to that purpose, more than eight-out-of-ten gave every other year or less often to that purpose. 
+In other words, the dynamics over time are stronger than for basic needs, combined, health, and education. 
+
+The dynamics of giving to congregations are presented in Table 2, and also in Table 4, but we defer 
+
+discussion of these dynamics until Study 3. 
+
+11 
+
+ 
+ 
+ 
+                                                 
+any charitable organization) gave frequently to exactly two purposes, .08 gave frequently to 
+
+exactly three purposes, and the rest of the row, .08 in total, gave frequently to four or more 
+
+purposes. Adding columns 3-7 together indicates that 17 percent of Americans (.34 x .50) gave 
+
+frequently to two or more charitable purposes. Eight percent (.16 x .50) gave frequently to three 
+
+or more. As fractions of those who ever gave, that is two-out-of-ten and less than one-out-of-ten 
+
+(i.e., .17/.87 and .08/.87). 
+
+Panel 2 indicates the percentages, of the people in each column, who gave frequently to 
+
+the purpose designated in the rows. For example, among those who gave frequently to exactly 
+
+one purpose (column 2), rows 1-4 indicate that for 32 percent that one purpose was basic needs, 
+
+for 36 percent it was combined purposes, for 16 percent it was health, and for seven percent it 
+
+was education. In other words, for two-thirds of the people who gave frequently to (exactly) one 
+
+purpose, that one purpose was either basic needs or combined purposes.8 
+
+Reading across row 1, Panel 2 shows that for people in the respective columns—i.e., for 
+
+those who gave to an increasingly large number of charitable purposes—an increasing fraction 
+
+gave frequently to basic needs. For instance, for all of the people who gave frequently to five or 
+
+more purposes, one of those purposes was basic needs (columns 6 and 7). Row 2 likewise shows 
+
+the increasing fractions for whom one of the purposes frequently given to was combined. Rows 3 
+
+and 4 show the increasing fractions for whom health and education (respectively) are one of the 
+
+purposes frequently given to. 
+
+1.3 Average amounts given 
+
+Result 6. Americans whose giving has a strong dynamic (i.e., those who give every other year or 
+
+less often) do not give larger amounts, on average, in the years they do give. 
+
+8 In column 2 the percentages who gave frequently to one of the four purposes adds to 91. The remaining nine 
+percent gave frequently to one of the other five purposes (see Appendix A). 
+
+12 
+
+ 
+ 
+ 
+                                                 
+Results 1-5 indicate strong giving dynamics in yes/no decisions to give. However, the 
+
+interpretation of these dynamics would be very different if, for instance, the people who gave 
+
+from time-to-time gave larger amounts (albeit less often) than do the “less dynamic” donors who 
+
+gave frequently. In this case, it might be that the amounts given over the entire eight-year period 
+
+are similar, but it is just the timing of the delivery of those amounts to organizations that differs.  
+
+There is strong evidence that this is not happening. For example, the 15 percent who gave 
+
+seldom to aggregate charitable purposes (Table 2) gave an average of $435 in the years in which 
+
+they gave (i.e., including in the average only the years in which people gave more than zero). 
+
+The 22 percent who gave from time-to-time gave an annual average of $577 in the years they 
+
+gave. In both cases the average amounts given were much less than the $1,504 annual average 
+
+among those who frequently gave.9 
+
+Discussion of Study 1 
+
+There is much evidence of strong dynamics in giving to charitable organizations. 
+
+Although 87 percent of Americans give at least once in an eight-year period, four-out-of-ten of 
+
+these donors do not give year-in/year-out, and a six-out-of-ten majority do not give year-in/year-
+
+out to any one of the nine specific charitable purposes. The dynamics are even stronger in the 
+
+giving to each specific purpose, and are not counter-balanced by larger amounts given by seldom 
+
+and time-to-time donors in the years in which they give. 
+
+That there are strong dynamics in giving likely has implications for extant cross-sectional 
+
+evidence about giving. When we look at a cross-section of giving, we now know we are looking 
+
+at a mix of seldom, time-to-time, and frequent givers. But does the fact that any cross-section 
+
+9 A similar pattern obtains with each of the separate charitable purposes (see Appendix B). Investigation of the 
+dynamics in terms of year-to-year change in the amounts given requires a more advanced estimation approach; we 
+leave this for future work. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+previously analyzed occurred within an on-going behavioral dynamic require re-interpretation of 
+
+the received stylized facts based on cross-sectional analyses? Study 2 takes up this question. 
+
+Study 2: Cross-sectional estimates and the dynamics of giving  
+
+2.1 “Non-donors” and “donors” as identified in a cross-section 
+
+Result 7. Among people identified as “non-donors” in a cross-section, a large majority—nearly 
+two-thirds—give to charitable organizations across time, but just did not donate in that 
+particular year. 
+
+Table 4 takes the panel sample and splits it into two groups based on whether or not a 
+
+donation was made in 2006: Panel 1 focuses on people who did not give to the respective row-
+
+purposes in 2006 and Panel 2 focuses on the complementary set of people who gave to that row-
+
+purpose in 2006. For example, 39 percent did not give to any charitable organization in 2006 
+
+(Panel 1, column 1, row 1a), implying obviously that 61 percent gave (Panel 2, column 1, row 
+
+1a). Of course, the split of the sample is different depending upon which row-purpose is being 
+
+considered, for example: 65 percent did not give to a basic needs organization in 2006 (Panel 1, 
+
+row 1b), implying that 35 percent gave (Panel 2, row 1b). In this way, Table 4 column 1 
+
+produces typical cross-sectional statistics about giving incidence. The innovation in Table 4 is 
+
+that the sample contains information about the dynamics of giving behavior (columns 2-5), 
+
+information that is not available in cross-sectional surveys. 
+
+For instance, the focus in Panel 1 row 1a on the 39 percent who would be identified as 
+
+“non-donors” in a typical cross-section indicates that 32 percent of them gave every fourth year 
+
+or less (column 3) and 24 percent gave roughly every other year. Indeed, just under ten percent 
+
+were frequent givers (column 5). In total, 65 percent—nearly two-thirds—of the people 
+
+identified as “non-donors” in the cross-section, gave to charitable organizations, just not in the 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+calendar year captured by the cross-section. Another way to say this: people identified as “non-
+
+donors” in a cross-section are more than twice as likely to give (in some other year) than they are 
+
+to never donate. 
+
+Result 8. Among people identified as “non-donors” to a specific charitable purpose in a cross-
+
+section, large fractions—in some cases majorities—give to that purpose across time, but 
+just did not donate in that particular  year. 
+
+The specific purposes are examined in rows 1b-e. Examining the 65 percent identified 
+
+from the cross-section as “non-donors” to basic needs indicates that a six-out-of-ten majority 
+
+gave to a basic needs organizations at least once during the eight-year period. The distribution 
+
+across seldom–time-to-time–frequent dynamic behaviors was 34–22–4. For “non-donors” to 
+
+combined purposes, so identified from the cross-section, just over half gave to combined 
+
+purposes (the distribution of dynamics was 35–17–3). For cross-sectional “non-donors” to health 
+
+and education, sizable minorities (nearly half and one-third, respectively) gave (the distribution 
+
+of dynamics were 31–15–2 and 24–8–1).  
+
+Result 9. Among people identified as “donors” to charitable organizations in a cross-section, 
+
+one-quarter give every other year or less often. 
+
+Panel 2 row 1a focuses on people identified as “donors” to (any) charitable organization 
+
+in 2006—61 percent of Americans. A non-negligible minority gave every other year or less 
+
+often: 26 percent (columns 3 and 4). The flip-side of this result is that the people categorized as 
+
+“donors” in a cross-sectional analysis are disproportionally frequent givers (75 percent). The 
+
+ratio of seldom plus time-to-time givers to frequent donors is one to three. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Result 10. Among people identified as “donors” to a specific charitable purpose in a cross-
+
+section, a large minority—roughly four-out-of-ten—are time-to-time givers to that 
+purpose. A roughly equal-sized minority are frequent givers. 
+
+Panel 2 row 1b indicates that the people identified as “donors” to basic needs 
+
+organizations in the cross-section (35 percent of Americans) had a distribution of dynamics 16–
+
+44–40. That is, 44 percent gave from time-to-time basic needs and a nearly equivalent 40 percent 
+
+gave frequently. Qualitatively similar distributions are seen for the other purposes in rows 1c-d. 
+
+In each case, among people donating in the cross-section, the distributions of dynamics are 
+
+roughly 20–40–40 percent. That is, among donors to these purposes, a roughly equal four-out-of-
+
+ten give from time-to-time and frequently. Six-out-of-ten do not give year-in/year-out (seldom 
+
+plus time-to-time). 
+
+2.2 Cross-sectional regressions between amounts given and socio-economic characteristics  
+
+Result 11. Regression coefficients between amounts given to charitable organizations and socio-
+
+economic characteristics, estimated in a cross-section, do not apply uniformly to the 
+three groups whose dynamic giving behavior is seldom, time-to-time, and frequent. 
+
+Table 5 column 1 presents a typical cross-section regression in which the dependent 
+
+variable is the logarithm of the amount given in 2006 to the nine purposes aggregated together. 
+
+The regression includes “non-donors” in 2006 (we added $10 to each person’s giving before 
+
+taking the log); we now know that two-thirds of these “non-donors” are people who gave in other 
+
+years (Result 7). The independent variables are socio-economic characteristics measured in 
+
+2006.10  
+
+10 To be clear: we are presenting evidence from regressions where the dependent variable is aggregate giving to 
+charitable organizations. We defer to future work regressions where dependent variables are giving to specific 
+charitable purposes. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+The column 1 estimates indicate that amounts given are strongly associated with income, 
+
+education, and family structure. The income elasticity is .514: a ten percent increase in income is 
+
+associated with a 5.14 percent increase in giving. College education is associated with nearly 
+
+three-fold larger amounts given (e1.142 = 3.13). Married couples and single women give much 
+
+larger amounts (e.640 = 1.9 and e.502 = 1.65 times, respectively) than cohabiting couples. Results 
+
+like these are standard, and have appeared numerous times previously in the literature (Bekkers 
+
+& Wiepking, 2011; Wiepking & Bekkers, 2012). 
+
+The innovation in Table 5 is that the panel sample contains information about dynamics, 
+
+which columns 2-4 use to split the sample into seldom, time-to-time, and frequent givers. The 
+
+same specification from column 1 is re-estimated for each group. Column 2 shows that none of 
+
+the socio-economic characteristics are associated with the 2006 amount given among the people 
+
+who seldom gave. 
+
+Column 3 presents the estimates for people who gave from time-to-time. The income 
+
+elasticity is .166, only one-third of the magnitude of the .514 elasticity from column 1. College 
+
+education is associated with larger amounts given, but not nearly as large as column 1 would 
+
+suggest: a little more than one-and-a-half times larger (e.525 = 1.69), not three times larger. 
+
+Similarly, married couples and single women give larger amounts than cohabiting couples, but 
+
+these differences are not nearly as large as column 1 would suggest. Moreover, there is no longer 
+
+evidence that married couples/single women give more than single men. 
+
+Column 4 presents the estimates for people who gave frequently. The income elasticity 
+
+is .545, fairly close to the .514 elasticity from column 1. This is the only coefficient in Table 5 in 
+
+which the column 1 “standard” cross-section estimate is a reasonable approximation of the 
+
+coefficient in one of the dynamic groups.  College education is associated with larger amounts 
+
+17 
+
+ 
+ 
+ 
+given (e.435 = 1.55), but again not nearly as large as column 1 would suggest and similar in 
+
+magnitude as it is among people who give from time-to-time. Differences across family 
+
+structures are much smaller in magnitude than in column 1. 
+
+Discussion of Study 2 
+
+Study 1 established that there are strong dynamics in giving to charitable organizations. 
+
+Study 2 establishes that cross-sectional descriptive statistics about giving—specifically, 
+
+describing people as “non-donors” or “donors”—are not useful for describing the dynamics of 
+
+giving. Furthermore, regression coefficients describing relationships between giving and socio-
+
+economic variables in a cross-section do not apply uniformly to people who seldom give, who 
+
+give from time-to-time, and who give frequently. Cross-sectional descriptive statistics and 
+
+regression coefficients form a large part of received stylized facts about giving. To the extent that 
+
+those stylized facts have been assumed to describe the giving of Americans as unchanging year-
+
+to-year, they have been misleading. These results have important implications for researchers 
+
+and practitioners, to be discussed in Section 5. 
+
+Study 3: Dynamics of giving to religious congregations 
+
+Result 12. There is a strong dynamic in giving to religious congregations: 
+
+(1) Among people who give to congregations across time there is a near equal split: just 
+
+under half give every other year or less often. 
+
+(2) The people whose giving has a strong dynamic—i.e., those who give less frequently—
+
+do not give larger amounts, on average, in the years they do give. 
+
+(3) Among people identified as “non-donors” to congregations in a cross-section, almost 
+
+half give to congregations across time, but just did not donate in that year. 
+(4) Among people identified as “donors” to congregations in a cross-section, a non-
+
+negligible minority—one-quarter—give every other year or less often. 
+
+(5) Regression coefficients describing the relationship between amounts given to 
+
+congregations and socio-economic characteristics, estimated in a cross-section, do 
+not apply uniformly to the three groups whose dynamic giving behavior is seldom, 
+time-to-time, and frequent. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+Returning to Table 2, row 6 indicates that in at least one out of eight years, 72 percent of 
+
+Americans gave to a religious congregation or a TV/radio ministry—that is, they made donations 
+
+specifically for religious purposes or spiritual development. Eighteen percent gave seldom and 
+
+another 17 percent gave from time-to-time, implying that 35 percent gave every other year or 
+
+less often—just under half of the people who gave (.35/.72). People who gave seldom or time-to-
+
+time gave on average $566 or $976 (respectively; including only the years in which they gave 
+
+more than zero). This is much smaller than the $2,970 average among people who gave 
+
+frequently.  
+
+Table 4 Panel 1 row 2 indicates that among the 52 percent of Americans who would be 
+
+identified as “non-donors” to congregations in the 2006 cross-section, 27 percent gave seldom, 
+
+14 percent gave time-to-time, and four percent gave frequently—combined these imply that 
+
+almost half (.45) of the cross-sectional “non-donors” gave to congregations in other years.  Panel 
+
+2 row 2 indicates that 48 percent are identified as “donors” to congregations in 2006. About one-
+
+fourth (.26 in columns 3-4) of these gave every other year or less often, and nearly three-quarters 
+
+gave frequently. 
+
+Appendix C presents cross-sectional regression results for congregations that parallel 
+
+Table 5. The results are similar to those for charitable organizations in that almost all regression 
+
+coefficients, estimated in the cross-section, do not apply to the different dynamic groups. That 
+
+said, the specifics are different. For instance, the cross-sectional income elasticity (.285, s.e. 
+
+= .038) is not a reasonable approximation to the income elasticity among frequent givers (.180, 
+
+s.e. = .054), which in turn is not larger than the elasticity among time-to-time givers (.204, s.e. 
+
+= .117). 
+
+19 
+
+ 
+ 
+ 
+Discussion of Study 3 
+
+The dynamics of giving to religious congregations are neither like the dynamics of giving 
+
+to aggregate charitable organizations, nor like the dynamics of giving to one of the specific 
+
+charitable purposes. The distribution of dynamics (none, seldom, time-to-time, frequent) in 
+
+giving to congregations is 28–18–17–38, and for giving to aggregate charitable organizations it is 
+
+13–15–22–50. The difference between the two is that for congregations more people never give, 
+
+and fewer people give frequently. 
+
+However, compared to specific charitable purposes—like basic needs or combined 
+
+purposes—fewer people give seldom and time-to-time to congregations: for basic needs and 
+
+combined purposes the distribution is 28–30 and 30–24, respectively, and for congregations it is 
+
+18–17. And many more people give frequently to congregations: for basic needs and combined 
+
+purposes it is 17 and 15 percent, but for congregations it is more than twice that: 38 percent. In 
+
+short, the dynamics of giving to congregations are strong, but perhaps not surprisingly, not as 
+
+strong as the dynamics of giving to basic needs, combined purposes, health, or education. 
+
+Among cross-sectional “non-donors” to congregations the distribution of dynamics is 55–
+
+27–14–4. This is not similar to aggregate charitable organizations (35–32–24–9): the difference 
+
+is that many more people (20 percentage points) never give to congregations, and the 
+
+percentages in the time-to-time and frequent groups are much smaller. The distribution of 
+
+dynamics among the cross-sectional “non-donors” to congregations is similar to that among 
+
+cross-sectional “non-donors” to some purposes (e.g., health), though not others.  
+
+Among cross-sectional “donors” to congregations the distribution of dynamics (6–20–74) 
+
+is similar to that of aggregate charitable organizations (5–21–75), but not similar to specific 
+
+purposes (20–40–40).  
+
+20 
+
+ 
+5. General discussion 
+
+The overwhelming majority—87 percent—of Americans give to charitable organizations 
+
+(all nine purposes aggregated together) across time (in at least one year out of an eight-year time 
+
+period). However among those who give, four-out-of-ten give every other year or less often, and 
+
+a majority—six-out-of-ten—give every other year or less to a specific charitable purpose such as 
+
+basic needs or health, etc. Among donors who ever give to a specific charitable purpose, a large 
+
+majority—eight-out-of-ten—give every other year or less often. Those who give every other year 
+
+or less do not counter-balance their lower frequency of giving by giving larger amounts in the 
+
+years they give. Hence, American giving is strongly dynamic. 
+
+Traditional cross-sectional analyses do not describe these dynamics. A two-thirds 
+
+majority of “non-donors” to charitable organizations in a cross-section give to charitable 
+
+organizations in other years, and one-quarter of “donors” do not give year-in/year-out. As for the 
+
+specific charitable purposes: majorities of cross-sectional “non-donors” to basic needs and 
+
+combined purposes, and sizable minorities of “non-donors” to health and education, in fact give 
+
+to those respective purposes in other years. Among cross-sectional “donors” to these specific 
+
+purposes, six-out-of-ten do not give year-in/year-out. Regression coefficients describing the 
+
+relationship between amounts given to charitable organizations and socio-economic 
+
+characteristics, estimated in cross-section, do not apply uniformly to people who give seldom, 
+
+from time-to-time, and frequently. To the extent that such cross-sectional summary statistics and 
+
+regression coefficients have been interpreted, even implicitly, as descriptions of people who 
+
+donate year-in/year-out—relative to each other and/or relative to people who are thought to be 
+
+“non-donors” (on the basis of their not having donated in that cross-section year)—the cross-
+
+sectional results are misleading. Similar results apply to giving to religious congregations. 
+
+21 
+
+ 
+ 
+ 
+ 
+The evidence indicates that there are strong dynamics in American giving, but there are 
+
+some qualifications to be kept in mind while thinking about the results. First, there are several 
+
+reasons to believe that the present results understate giving dynamics: (a) the sample of people in 
+
+the eight-year panel is somewhat more “stable” than would be a random cross-section; (b) the 
+
+definition of “frequent” givers we used included giving in six or seven years (out of eight), not 
+
+necessarily every year; (c) some people (albeit likely not many) among those who did not give in 
+
+any of the eight years may give in future years; and (d) the evidence about a specific charitable 
+
+purpose is not necessarily evidence about a specific charitable organization. Reason (d) implies 
+
+that although the present results can be used for policy analysis (e.g., to analyze the giving of 
+
+Americans to help people with basic necessities), they are a lower bound to the dynamics 
+
+practitioners in specific organizations should expect to experience.11 Second, the Great 
+
+Recession may suggest the present results overstate dynamics compared to what would be seen 
+
+in non-recessionary periods. Whether the recession caused a structural change in American 
+
+giving dynamics is an important question for future research. Finally, we have described the 
+
+dynamics in terms of whether or not people gave, and how frequently they gave across time, but 
+
+not in terms of amounts donated. Although as stated above we found that lower frequencies of 
+
+giving were not counter-balanced by larger amounts, analysis of the dynamics in the amounts is 
+
+another important topic for future research.  
+
+The results are significant for several reasons. First, the results imply the need for a 
+
+conceptual shift in how we think about American giving: a shift from the static to the dynamic. 
+
+Although America is much more of a nation of givers to charitable organizations than previously 
+
+11 To our knowledge there are no statistics describing multi-year giving dynamics to specific organizations. Short-
+term, two-year statistics indicate that, depending on the purpose, between five and six out-of-ten donors in one year 
+do not give in the next to the same organization (Levis et al., 2016, 2017). 
+
+22 
+
+ 
+                                                 
+thought—the 87 percent is much larger than the 50-to-60 percent typically found in American 
+
+cross-sections—this larger number of givers is almost entirely due to people who give every 
+
+other year or less often. In other words, America also is more of a nation of seldom and time-to-
+
+time givers than previously realized, especially to specific charitable purposes.  
+
+Second, that such large percentages give every other year or less often suggests a new 
+
+imperative for research focused on time. For example, an important research question now 
+
+arises: What determines whether someone becomes a time-to-time giver versus a frequent giver?  
+
+To our knowledge there is no previous research on this question. Other important questions 
+
+naturally follow: Why does an otherwise frequent giver “switch-off” for a year? Why does an 
+
+otherwise seldom giver—for whom most years come and go without giving—switch-on one year 
+
+and give? We are suggesting that research effort needs to be shifted away from static questions—
+
+such as, “What socio-economic characteristics are associated with the amount a person gives at a 
+
+single point in time?”—and toward questions about how often a person gives across time.12 
+
+Third, this time-based research imperative is not only for secondary data analysis, but 
+
+also for experiments. Experimental work that investigates interventions to increase giving is an 
+
+active research area (see the reviews by Andreoni & Payne, 2013; Vesterlund, 2016). Most of 
+
+this work uses static experimental designs. Consequently, it is not known if any of the 
+
+experimental interventions found to have been successful in static situations would lead to a 
+
+transformation in the dynamics. Indeed, the few designs that have followed participants over a 
+
+time period that extends longer than the initial experimental session tend to find that the initial 
+
+success from the static perspective was entirely reversed (e.g., Meier, 2007) or substantially 
+
+12 Einolf’s (2018) work on how parents’ giving changes as their children age, for example giving to education, 
+youth/family services, and religious congregations switching-off when the last child leaves the house, is an example 
+of the kind of research that is needed. 
+
+23 
+
+ 
+                                                 
+reduced (e.g., Knowles & Servátka, 2015). Furthermore, Andreoni and Serra-Garcia (2016) 
+
+provide evidence of heterogeneity in how people use time to alter their giving, with some 
+
+behaving consistently across time, some wanting to renege in the future on pledges made today, 
+
+and some seeking a way to avoid the temptation to give today. In short, the present results of 
+
+strong dynamics externally validate the need for an experimental research program on giving that 
+
+is focused on time.  
+
+Finally, the results have implications for practitioners. For those interested in increasing 
+
+the percentage of income Americans give above the “stubborn two percent”, a cross-sectional 
+
+static perspective has constrained thinking to two approaches: (a) encourage people already 
+
+donating to give larger amounts and (b) encourage non-donors to start giving. However, a 
+
+dynamic perspective suggests both approaches are unlikely to succeed. If in the two approaches 
+
+“donor” is interpreted to mean “every year donor”, and “non-donor” is interpreted to mean 
+
+“never donor”, success is unlikely because (a) frequent donors are already giving large amounts 
+
+(on average) and (b) the 13 percent of Americans who “never” donate were so-identified because 
+
+they did not give in any one out of eight years, making it unlikely that they will “switch-on” in 
+
+the future.  
+
+A dynamic perspective also suggests that approaches (a) and (b) ask the wrong question. 
+
+That is because the two approaches are based on a static view of giving, but the static “every 
+
+year donor versus never donor” dichotomy is misleading: the majority—more than six-out-of-
+
+ten—of Americans who are giving to charitable organizations across time give every other year 
+
+or less often to a specific charitable purpose. Furthermore, people identified as “non-donors” in a 
+
+cross-section are twice as likely to give in some other year, than they are to never give. 
+
+24 
+
+ 
+What are better questions? A dynamic perspective suggests the importance of asking 
+
+questions based on time. How can time-to-time givers be encouraged to give more often, closer 
+
+to every year than to every other year? Similar questions apply to seldom givers, as well as to 
+
+frequent donors who give less than every year, although the answers likely will be different. The 
+
+importance of focusing on how often people give rises upon realizing that, although an 
+
+overwhelming majority of Americans give to charitable organizations at some point in time, only 
+
+one-third give year-in/year-out to a specific charitable purpose.13 
+
+6. Conclusion 
+
+Measuring giving by more than 6,000 people across eight years, we present evidence that 
+
+American giving is strongly dynamic over time. That giving is strongly dynamic implies the 
+
+need to shift the conceptual framework with which we think about giving from the static to the 
+
+dynamic. This conceptual shift suggests a new imperative for both secondary data and 
+
+experimental research to focus on time. The importance of time also suggests a shift in what is 
+
+counted as “successful” fundraising to put more emphasis on increasing the frequency across 
+
+time with which people give. 
+
+13 There is a downside caution to keep in mind. Even if encouragement to give more frequently is successful from 
+the perspective of practitioners, to the extent that success is based on the use of social pressure it may have adverse 
+effects from the perspective of donors. See DellaVigna et al. (2012), Andreoni et al. (2017), and Andreoni and 
+Payne (2013) for evidence of, and discussion about, social pressure.  
+
+25 
+
+ 
+ 
+                                                 
+References 
+
+Andreoni, J., and Payne, A.A.. 2013. Charitable Giving. In Handbook of Public Economics, Vol. 
+5, ed. Alan Auerbach, Raj Chetty, Martin Feldstein, and Emmanuel Saez, 1–50. 
+Amsterdam: North Holland. 
+
+Andreoni, J., Rao, J.M., and Trachtman, H.. 2017. Avoiding the Ask: A Field Experiment on 
+Altruism, Empathy, and Charitable Giving. Journal of Political Economy, 125(3): 625-
+653. 
+
+Andreoni, J., Serra-Garcia, M. 2016. Time-Inconsistent Charitable Giving. NBER Working 
+
+Paper No. 22824. 
+
+Bekkers, R.. 2015. When and Why Matches are More Effective Subsidies Than Rebates. In C. 
+Deck, E. Fatas, and T. Rosenblat (Eds.), Research in Experimental Economics, Volume 
+18 : Replication in Economic Experiments. Bingley, UK: Emerald Group Publishing. 
+
+Bekkers, R. & Wiepking, P. 2007. Generosity and philanthropy: A literature review. South Bend, 
+
+IN: University of Notre Dame. Retrieved from 
+https://generosityresearch.nd.edu/assets/17632/generosity_and_philanthropy_final.pdf, 
+on September 2, 2018. 
+
+Bekkers, R., & Wiepking, P. 2011. Who gives? A literature review of predictors of charitable 
+giving. Part One: Religion, education, age and socialisation. Voluntary Sector Review, 
+3(2), 217-45. 
+
+Brown, E., & Ferris, J.M. 2007. Social capital and philanthropy: an analysis of the impact of 
+social capital on individual giving and volunteering. Nonprofit and Voluntary Sector 
+Quarterly, 36(1): 85–99. 
+
+Brown, E., Einolf, C. J., & Ottoni-Wilhelm, M. 2015. Giving in the United States: Generous 
+
+philanthropy in a classic liberal regime. In P. Wiepking & F. Handy (Eds.), The Palgrave 
+Handbook of Global Philanthropy (pp. 44–63). Palgrave Macmillan UK. 
+
+Coe, R.D. (1981). A preliminary empirical examination of the dynamics of welfare use. In G.J. 
+
+Duncan & J.N. Morgan (Eds.), Five Thousand American Families: Patterns of Economic 
+Progress, Volume 8 (pp. 121–68). Ann Arbor: University of Michigan. 
+
+DellaVigna, Stefano, John A. List, and Ulrike Malmendier. 2012. Testing for Altruism and 
+
+Social Pressure in Charitable Giving. Quarterly Journal of Economics, 127(1): 1–56. 
+
+De Wit, A., & Bekkers, R.H.F.P. 2015. Geven door huishoudens. In R.H.F.P. Bekkers, T.N.M. 
+
+Schuyt, & B.M. Gouwenberg (Eds.). Giving in the Netherlands: Donations, bequests, 
+sponsoring and volunteering. Amsterdam: Reed Business. Retrieved from 
+https://renebekkers.files.wordpress.com/2015/10/gin2015_h1_huishoudens.pdf, on 
+November 27, 2018 (in Dutch). English summary retrieved from 
+https://renebekkers.files.wordpress.com/2015/06/gin2015_summary.pdf, on September 2, 
+2018. 
+
+Dickinson, F.G. (Ed.) 1962. Philanthropy and public policy. New York: National Bureau of 
+
+Economic Research. 
+
+Donkers, Bas, Merel van Diepen, and Philip Hans Franses. 2017. Do Charities Get More When 
+
+They Ask More Often? Evidence from a Unique Field Experiment. Journal of Behavioral 
+and Experimental Economics, 66: 58–65. 
+
+Duncan, G.J., Coe, R., Corcoran, M., Hill, M.S., Hoffman, S. & Morgan, J.N. 1984. Years of 
+
+poverty, years of plenty: The changing economic fortunes of American workers and 
+
+26 
+
+ 
+families. Ann Arbor, MI: Survey Research Center, Institute for Social Research, 
+University of Michigan.  
+
+Duncan, G J., Hill, M.S., & Hoffman, S.D. 1988. Welfare dependence within and across 
+
+generations. Science, 239: 467-71. 
+
+Fitzgerald, John, Peter Gottschalk, and Robert Moffitt. 1998. An Analysis of Sample Attrition in 
+Panel Data: The Michigan Panel Study of Income Dynamics. Journal of Human 
+Resources 33 (2): 251–99. 
+
+Eckel, C.C., & Grossman P.J. 1996. Altruism in anonymous dictator games. Games and 
+
+Economic Behavior, 16, pp. 181-91. 
+
+Einolf, C.J. 2011. Gender differences in the correlates of volunteering and charitable giving. 
+
+Nonprofit and Voluntary Sector Quarterly, 40(6): 1092–112. 
+
+Einolf, C.J. 2018. Parents’ charitable giving and volunteering: Are they influenced by their 
+
+childrens’ ages and life transitions? Evidence from a longitudinal study in the United 
+States. Nonprofit and Voluntary Sector Quarterly, 47(2): 1092–112. 
+
+Ellwood, D.T. 1986. Targeting ‘would-be’ long-term recipients of AFDC. Report 7617-953. 
+
+Princeton, NJ: Mathematica Policy Research 
+
+Falk, A. 2007. Gift exchange in the field. Econometrica, 75(5): 1501–11. 
+Fosgaard, T.R., & Soetevent, A.R. 2018. Promises undone: How committed pledges impact 
+
+donations to charity. Tinbergen Institute Discussion Paper 2018/044-VII. Available at 
+http://dx.doi.org/10.2139/ssrn.3173585 
+
+Giving USA. 2016. Giving USA: The annual report on philanthropy for the year 2015. Chicago: 
+
+Giving USA Foundation. 
+
+Hodgkinson, V.A., & Weitzman, M.S. 1988. Giving and volunteering in the United States: 
+
+Findings from a national survey, Washington, DC: Independent Sector. 
+
+IU Lilly Family School of Philanthropy. 2010. Overview of secular giving: Based on data 
+
+collected in 2007 about giving in 2004. Retrieved from http://generosityforlife.org/wp-
+content/uploads/2017/10/Secular-Giving-10.10.17-jb-CJC.pdf, on September 2, 2018. 
+__________. 2017a. Secular giving overview: Based on data collected in 2009 about giving in 
+
+2008. Retrieved from http://generosityforlife.org/wp-content/uploads/2017/03/2009-PPS-
+Secular-Giving.pdf, on September 2, 2018. 
+
+__________. 2017b. Secular giving overview: Based on data collected in 2011 about giving in 
+
+2010. Retrieved from http://generosityforlife.org/wp-content/uploads/2017/04/2011-PPS-
+Factsheet-Secular-Giving.pdf, on September 2, 2018. 
+
+__________. 2017c. Secular giving overview: Based on data collected in 2013 about giving in 
+
+2012. Retrieved from http://generosityforlife.org/wp-content/uploads/2017/04/2013-PPS-
+Factsheet-Secular-Giving.pdf, on September 2, 2018. 
+
+__________. 2017d. Secular giving overview: Based on data collected in 2015 about giving in 
+2014. Retrieved from http://generosityforlife.org/wp-content/uploads/2017/10/Secular-
+Giving-10.10.17-jb-CJC.pdf, on September 2, 2018. 
+
+__________. 2017e. Philanthropy Panel Study 2001-2015 [Data file and code book]. Retrieved 
+
+from https://psidonline.isr.umich.edu/ 
+
+James III, R.N., & Sharpe, D.L. 2007. The nature and causes of the u-shaped charitable giving 
+
+profile. Nonprofit and Voluntary Sector Quarterly, 36(2): 218–38. 
+
+Knowles, S., & Servátka, M. 2015. Transaction costs, the opportunity cost of time and 
+
+procrastination in charitable giving. Journal of Public Economics 125: 54-63. 
+
+27 
+
+ 
+Levis, B., Miller, B., McGinness, H., Williams, C., & Dietz, N. 2016. Highlights from the 2016 
+Fundraising Effectiveness Donor Retention Supplement. Arlington, VA: Association of 
+Fundraising Professionals. Retrieved from http://donortrends.com/wp-
+content/uploads/2017/01/2016_Donor-Retention-AFP_FEP-Retention-Supplement-
+DonorTrends-Infographic_printable.pdf 
+
+Levis, B., Miller, B., & Williams, C. 2017. 2017 Fundraising Effectiveness Survey Report. 
+Arlington, VA: Association of Fundraising Professionals. Retrieved from 
+http://afpfep.org/wp-content/uploads/2017/04/FEP2017Report4212017.pdf 
+
+List, J.A., & Lucking-Reiley, D. 2002. Effects of seed money and refunds on charitable giving: 
+
+experimental evidence from a university capital campaign. Journal of Political Economy, 
+110: 215–33. 
+
+McGonagle, K.A., , Schoeni, R.F., Sastry, N., & Freedman, V.A. 2012. The Panel Study of 
+
+Income Dynamics: Overview, recent innovations, and potential for life course research. 
+Longitudinal and Life Course Studies, 125(2): 268-84. 
+
+Meer, J. 2017. Does fundraising create new giving? Journal of Public Economics, 145: 82–93. 
+Meier, S. 2007. Do Subsidies Increase Charitable Giving in the Long Run? Matching Donations 
+in a Field Experiment. Journal of the European Economic Association, 5(6): 1203–1222. 
+Mesch, D.J., Rooney, P.M., Steinberg, K.S., &Denton, B. 2006. The effects of race, gender, and 
+
+marital status on giving and volunteering in Indiana. Nonprofit and Voluntary Sector 
+Quarterly, 35(4): 565–87. 
+
+Moffitt, R., & Zhang, S. 2018. Income Volatility and the PSID: Past Research and New Results. 
+
+AEA Papers & Proceedings, 108: 277-80. 
+
+Morgan, J.N. 1961. Volunteerism in America–Attitudes and behaviors. New York: National 
+
+Bureau of Economic Research. 
+
+Ottoni-Wilhelm, M. 2010. Giving to organizations that help people in need: Differences across 
+denominational identities. Journal for the Scientific Study of Religion, 49(3), 389–412. 
+
+Roistacher, E.A., Morgan, J.N. 1974. Charitable giving, property taxes, and itemization on 
+
+federal tax returns. Ann Arbor: University of Michigan, Institute for Social Research, 
+Survey Research Center. 
+
+Scharf, Kimberly and Sarah Smith. 2015. The Price Elasticity of Charitable Giving: Does the 
+Form of Tax Relief Matter? International Tax & Public Finance 22: 330-352. 
+
+Schoeni, R.F., Stafford, F., McGonagle, K.A., & Andreski, P. 2013. Response rates in national 
+
+panel surveys. Annals of the American Academy of Political and Social Science, 645: 60-
+87. 
+
+Schwartz, R.A. 1970. Personal philanthropic contributions. Journal of Political Economy, 78: 
+
+1264–91. 
+
+Survey Research Center, Institute for Social Research, University of Michigan. 1977. 1974 
+National Study of Philanthropy [Data file and code book]. Retrieved from 
+http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/7496 
+
+Survey Research Center, Institute for Social Research, University of Michigan. 2017. Panel 
+
+Study of Income Dynamics 2001-2015 [Data file and code book]. Retrieved from 
+https://psidonline.isr.umich.edu/ 
+
+Vesterlund, Lise. 2016. Using Experimental Methods to Understand Why and How We Give to 
+Charity. In John Kagel and Alvin Roth (Eds.), The Handbook of Experimental 
+Economics Vol. 2, Princeton: Princeton University Press. 
+
+28 
+
+ 
+Wiepking, P., & Bekkers, R. 2012. Who gives? A literature review of predictors of charitable 
+giving. Part Two: Gender, family composition and income. Voluntary Sector Review, 
+3(2), 217-45. 
+
+Wiepking, P. & Handy, F. (Eds.) 2015. The Palgrave Handbook of Global Philanthropy. 
+
+London: Palgrave Macmillan UK. 
+
+Wilhelm, M. O. 2007. The quality and comparability of survey data on charitable giving. 
+
+Nonprofit and Voluntary Sector Quarterly, 36(1), 65–84. 
+
+Wu, K. & Brown, M.S. 2010. An examination of persistence in charitable giving to education 
+
+through the 2002 economic downturn. International Journal of Educational 
+Advancement, 9(4), 196–219. 
+
+29 
+
+ 
+ 
+ 
+ 
+Table 1. Comparing the panel sample to a cross-section sample using summary statistics 
+from 2006.  
+_____________________________________________________________________________ 
+______________Sample_______________ 
+
+Panel 
+
+Cross-section 
+
+2006 calendar year variables 
+Giving to: 
+
+Charitable organizations in 2006 
+
+Aggregatea 
+
+Fraction 
+Amount among donors 
+
+.58 
+.61 
+$1,278  
+$1,236 
+(3,097)                         (2,956) 
+
+Basic needs in 2006 
+
+Fraction 
+Amount among donors 
+
+Combined funds in 2006 
+Fraction 
+Amount among donors 
+
+Health in 2006 
+Fraction 
+Amount among donors 
+
+Education in 2006 
+
+Fraction 
+Amount among donors 
+
+Congregations in 2006 
+Fraction 
+Amount among donors 
+
+Birth cohort 
+
+Generation X   
+Baby boom 
+Greatest/Silent  
+
+Income in 2006 
+
+.35 
+$651 
+(1,222)                        (1,169) 
+
+.33 
+$619 
+
+.31 
+$685 
+(1,864)                        (1,828) 
+
+.28 
+$669 
+
+.25 
+.26 
+$361 
+$366 
+(1,017)                        (970) 
+
+.18 
+$607 
+(2,834)                        (2,589) 
+
+.16 
+$607 
+
+.45 
+.48 
+$2,578  
+$2,476 
+(4,108)                        (4,497) 
+
+.26 
+.51 
+.22 
+
+.31 
+.43 
+.26 
+
+$93,197 
+(107,378)                    (113,685) 
+
+$87,821 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Family structure 
+Married 
+Cohabiting 
+Single woman  
+Single man 
+
+Education 
+
+College 
+Some college   
+High school 
+Less than high school  
+
+African-American 
+White   
+Other   
+
+.55 
+.02 
+.29 
+.14 
+
+.30 
+.25 
+.31 
+.15 
+
+.14 
+.76 
+.10 
+
+.52 
+.03 
+.28 
+.16 
+
+.29 
+.24 
+.32 
+.15 
+
+.13 
+.76 
+.10 
+
+Sample size 
+_____________________________________________________________________________ 
+
+11,237 
+
+6,425 
+
+Notes: The sample in column 1 is the eight-year panel sample, but the summary statistics in the column are based on 
+that sample’s 2006 calendar year variables; recall those variables were collected in the PSID’s 2007 interview year. 
+The sample in column 2 is the cross-section sample containing all the family units responding to the PSID’s 2007 
+interview, and the summary statistics are based on that sample’s 2006 calendar year variables. 
+
+The table shows that selecting individuals who were interviewed in all eight years of the panel sample 
+
+(hence followed across the 15 years 2001-2015—the interviews are biennial) produces a sample with characteristics 
+roughly similar to the cross-section sample obtained from the 2007 interview year. The differences are that the panel 
+sample has more individuals from the Baby Boom, six percent higher income, and is somewhat more likely to be 
+married. The panel sample is the analysis sample for the paper. The statistics are weighted with the PSID core 
+family weights. Standard deviations are in parentheses (clustered by family unit). 
+
+a All nine charitable purposes aggregated together: basic needs, combined purposes, health, education, youth/family 
+services, neighborhoods/community, arts/cultural, environmental, and international. 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Dynamics of giving across eight years by purpose. 
+
+Gave in at least one 
+    out of the eight  
+           years 
+
+      None 
+   (0 years) 
+
+Seldom 
+(1-2 years) 
+
+Time-to-time 
+(3-5 years) 
+
+Frequent 
+(6-8 years) 
+
+              (1) 
+
+        (2) 
+
+(3) 
+
+(4) 
+
+Charitable organizations 
+
+Aggregatea 
+    Basic needs 
+    Combined purposes 
+    Health 
+    Education 
+Congregations 
+Notes: The table describes the fractions who give, to the purpose indicated in the row, in the eight even-numbered 
+years between 2000-2014. Across a row, columns 1 and 2 may not add to 1.00 because of rounding (likewise, 
+columns 3-5 may not add to column 1). The estimates are weighted. The unweighted sample size is N = 6,425.  
+a All nine charitable purposes aggregated together: basic needs, combined purposes, health, education, youth/family 
+services, neighborhoods/community, arts/cultural, environmental, and international. 
+
+.15 
+.28 
+.30 
+.27 
+.24 
+.18 
+
+.87 
+.74 
+.69 
+.61 
+.46 
+.72 
+
+.22 
+.30 
+.24 
+.23 
+.13 
+.17 
+
+.13 
+.25 
+.31 
+.38 
+.54 
+.28 
+
+(5) 
+
+.50 
+.17 
+.15 
+.12 
+.08 
+.38 
+
+Table 3. People who gave frequently to any charitable organization: Fraction who gave 
+frequently to a specific charitable purpose. 
+
+ Number of specific charitable purposes given to frequently . 
+Six to 
+nine 
+
+None  One  Two  Three 
+
+Four 
+
+Five 
+
+Panel 1. Distribution of people (who gave frequently to any charitable organization) across the 
+number of specific purposes frequently given to. 
+
+_______________________________________________________________________________________________________________________________________________________________________________ 
+
+   Fractiona 
+
+.34 
+
+.32 
+
+.18 
+
+.08 
+
+.04 
+
+.02 
+
+.02 
+
+_______________________________________________________________________________________________________________________________________________________________________________ 
+
+Panel 2. Fractions of donors in each column who gave to the specific charitable purpose 
+indicated in the row. 
+
+_______________________________________________________________________________________________________________________________________________________________________________ 
+
+   Basic needs 
+   Combined purposes 
+   Health 
+   Education 
+
+0 
+0 
+0 
+0 
+
+.32 
+.36 
+.16 
+.07 
+
+.58 
+.49 
+.40 
+.23 
+
+.73 
+.53 
+.63 
+.54 
+
+.82 
+.66 
+.65 
+.69 
+
+1.00 
+.49 
+.81 
+.88 
+
+1.00 
+.77 
+.96 
+.86 
+
+1,066  959 
+
+Observations 
+480 
+(unweighted) 
+Notes: The sample in the table is the 50 percent of people who gave frequently to any charitable organization from 
+Table 2, row 1 column 5 (unweighted N = 2,932). Panel 1 shows the distribution of these donors by frequent giving 
+to the number of charitable purposes specified in the column heading. For example, the .34 means that 34 percent 
+(of the 50 percent who gave frequently) gave frequently to no single charitable purpose. Thirty-two percent gave to 
+exactly one specific purpose. Panel 2 shows, within each column, the fraction of donors in that column who gave 
+frequently to the charitable purpose indicated in the row. The estimates are weighted. 
+a The fractions in this row do not add to 1.00 because of rounding (fractions in other rows and columns are not 
+supposed to add to 1.00). 
+
+226 
+
+103 
+
+54 
+
+44 
+
+32 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4. Dynamics of giving across eight years by people identified as “non-donor”  
+
+/“donor” in the 2006 cross-section. 
+
+ Fraction 
+
+              Distribution of dynamic behavior  
+              among the people in column (1)                .    
+None 
+(0 years) 
+
+Time-to-time 
+(3-5 years) 
+
+Seldom 
+(1-2 years) 
+
+Frequent 
+(6-8 years) 
+
+    (1) 
+
+    (2) 
+
+     (3) 
+
+      (4) 
+
+    (5) 
+
+Panel 1. People not donating in 2006, to the respective purposes indicated in the rows. 
+
+_______________________________________________________________________________________________________________________________________________________________________________ 
+
+1. Charitable organizations 
+     a. Aggregatea 
+     b.    Basic needs 
+     c.    Combined purposes 
+     d.    Health 
+     e.    Education 
+
+2. Congregations 
+
+.39 
+.65 
+.69 
+.74 
+.82 
+
+.52 
+
+.35 
+.40 
+.45 
+.52 
+.67 
+
+.55 
+
+.32 
+.34 
+.35 
+.31 
+.24 
+
+.27 
+
+.24 
+.22 
+.17 
+.15 
+.08 
+
+.14 
+
+Panel 2. People donating in 2006, to the respective purposes indicated in the rows. 
+1. Charitable organizations 
+     a. Aggregatea 
+     b.    Basic needs 
+     c.    Combined purposes 
+     d.    Health 
+     e.    Education 
+
+.21 
+.44 
+.40 
+.43 
+.36 
+
+.61 
+.35 
+.31 
+.26 
+.18 
+
+.05 
+.16 
+.18 
+.19 
+.23 
+
+0 
+0 
+0 
+0 
+0 
+
+.09 
+.04 
+.03 
+.02 
+.01 
+
+.04 
+
+.75 
+.40 
+.42 
+.37 
+.41 
+
+.06 
+
+.48 
+
+.74 
+0 
+2. Congregations 
+Notes: Each row in Panel 1 contains only those people who did not give to that row-purpose in 2006.  The 
+corresponding row in Panel 2 contains the other people—i.e., the people who gave to that row-purpose in 2006. For 
+example, 39 percent did not give to charitable organizations in 2006 (Panel 1, row 1a, column 1), implying that 61 
+percent gave (Panel 2, row 1a, column 1). Rows 1b in Panels 1 and 2 re-split the sample, this time according to 
+whether people did not give, or gave, to basic needs organizations. Rows 1c, d, and e present three more re-splits of 
+the sample according to did not give/gave to the respective row-purposes in 2006. Rows 2 in Panels 1 and 2 do the 
+same for congregations. The estimates are weighted. 
+a All nine charitable purposes aggregated together: basic needs, combined purposes, health, education, youth/family 
+services, neighborhoods/community, arts/cultural, environmental, and international. 
+
+.20 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5. Charitable organizations: Cross-sectional regressions of log amounts given on socio-
+economic characteristics in different dynamic groups. 
+
+Socio-economic characteristics 
+
+1. Log(income) 
+
+2. College or beyond 
+
+3. Family structure  
+           (Omitted: Cohabiting) 
+
+a. Married 
+
+b. Single women 
+
+c. Single men 
+
+Panel sample 
+(all individuals) 
+(1) 
+
+Seldom donors   
+(1-2 years) 
+(2) 
+
+time donors                  
+(3-5 years) 
+(3) 
+
+(6-8 years) 
+(4) 
+
+Time-to-
+
+Frequent 
+donors       
+
+.514*** 
+(.059) 
+1.142*** 
+(.082) 
+
+.640*** 
+(.168) 
+.502*** 
+(.180) 
+.147 
+(.202) 
+
+.005 
+(.102) 
+−.193 
+(.146) 
+
+.102 
+(.266) 
+.000 
+(.290) 
+−.193 
+(.331) 
+
+.166* 
+(.094) 
+.525*** 
+(.189) 
+
+.545*** 
+(.100) 
+.435*** 
+(.083) 
+
+.363 
+(.315) 
+.240 
+(.341) 
+.526 
+(.411) 
+
+−.127 
+(.212) 
+−.154 
+(.227) 
+.0582 
+(.254) 
+
+6,425 
+.268 
+
+Observations 
+R-squared 
+Notes: The dependent variable is the logarithm of giving in 2006 to charitable organizations (nine purposes, 
+aggregated), plus $10. Adding $10 permits calculating the logarithm for people who did not donate in 2006 (hence 
+the marginal effects capture the decision to give and the amount given). The independent variables are measured in 
+2006; they include, in addition to the variables shown, race and age. Column 1 uses the full sample (N = 6,425). 
+Column 2 uses only those people who seldom gave to charitable organizations during the eight years. Columns 3 
+and 4 are people who gave from time-to-time and frequently. The regressions are estimated with weighted least-
+squares. Standard errors (in parentheses) are clustered at the family level. Significance levels are * p ≤ .10, ** p 
+≤ .05, *** p ≤ .01. 
+
+1,454 
+.030 
+
+1,099 
+.017 
+
+2,932 
+.132 
+
+34

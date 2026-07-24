@@ -1,0 +1,1412 @@
+Hue and Huyen Discover Sustainability
+(2025) 6:932
+https://doi.org/10.1007/s43621-025-01865-8
+
+Discover Sustainability
+
+Open Access
+
+RESEARCH
+
+What drives green brand equity? Insights
+from the Delphi method and analytic hierarchy
+process
+Truong Thi Hue1
+
+and Nguyen Thi Huyen2*
+
+*Correspondence:
+Nguyen Thi Huyen
+nthuyen.ueb@vnu.edu.vn
+1
+VNU International School, Vietnam
+National University, Hanoi, 144
+Xuan Thuy, Hanoi 100000, Vietnam
+2
+VNU University of Economics
+and Business, Vietnam National
+University, Hanoi, 144 Xuan Thuy,
+Hanoi 100000, Vietnam
+
+Abstract
+Green brand equity (GBE) is an emerging topic that is attracting growing attention
+from both scholars and managers. However, most empirical research in this field
+has predominantly employed quantitative methods. This study aims to identify the
+factors and criteria driving GBE ranking the relative importance of these factors and
+criteria. The Delphi method and the Analytic Hierarchy Process (AHP) were combined
+to address research gaps. The participants included individuals with at least five years
+of experience in consuming green agricultural products in Vietnam. The research
+results indicate the relative importance of the factors for GBE from high to low as
+follows: Subjective norms, emotional perceived values, functional perceived values,
+green trust, corporate social responsibility, attitude toward green products, and
+perceived behaviour control. The study also provided 24 criteria related to these
+factors and demonstrated their weights concerning GBE. This could potentially be
+the first study examining the relationship of all components within the theory of
+planned behaviour with GBE while ranking their relative importance compared to
+CSR and perceived value.
+Keywords Green brand, Green brand equity, Brand management, Corporate social
+responsibility, CSR, Perceived value
+1 Introduction
+Growing environmental concerns have ushered in the era of “green strategy”, pushing
+sustainability issues to the forefront of numerous corporate agendas [1]. Companies are
+facing increased public sensitivity, stricter regulations, and growing pressure from stakeholders regarding responsible business practices and natural environment conservation
+[2]. Therefore, companies and governments are increasingly focusing on integrating
+environmental responsibility into their marketing and brand management strategies [3].
+There is evidence suggesting that consumers have a positive attitude toward products
+and brands perceived to have little or no negative impact on the environment [4–6]. The
+literature has also provided evidence that customers are willing to pay a premium for
+brands that implement environmentally friendly policies [5].
+© The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material.
+You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party
+material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​​/​c​r​e​a​​t​i​v​e​c​o​​m​m​o​n​​s​.​o​r​g​​/​l​i​c​e​​n​s​
+e​s​/​b​​y​-​n​c​​-​n​d​/​4​.​0​/.
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+In this context, companies are actively adjusting their brand equity management
+strategies towards green brand equity (GBE) [6]. GBE is a recent trend that has been
+attracting the attention of researchers, managers, and policymakers. Several studies have
+shown the significant importance of GBE, which can positively influence consumers in
+various ways, such as positive word-of-mouth [7], brand attitudes [6], purchase intentions [8], and even brand passion [4].
+There have been several studies on the factors driving GBE across different industries and contexts. For instance, [9] studied the electronics industry in South Korea,
+[10] focused on the cosmetics industry in Taiwan ROC, [6] examined shopping malls
+in India, [11] explored refrigerators and paper towels in Turkey, [12] analyzed telecommunications and home appliances in Pakistan and Italy, [13] investigated hotels in India,
+[14] researched fast-food restaurants in Pakistan, [15] explored banks in India, and [16]
+looked into the banking sector in Vietnam. These studies predominantly employed
+quantitative methods such as Structural Equation Modeling (SEM) and regression.
+They emphasize drivers like brand image, attachment, satisfaction, trust, loyalty, perceived quality, brand awareness, and brand associations. Some studies have focused on
+less commonly examined factors, such as green perceived value [13] or corporate social
+responsibility [16], but have not compared their relative importance with other dimensions of GBE. Moreover, these studies primarily employed the SEM method and concentrated on sectors other than agricultural products.
+Agricultural products are among Vietnam’s key and well-known export sectors, contributing significantly to the country’s GDP and overall export turnover. However,
+according to Vietnam’s Ministry of Industry and Trade [17], agriculture is also one of
+the main contributors to climate change, accounting for up to 18% of the nation’s total
+greenhouse gas emissions. Emissions from Vietnam’s agricultural sector are projected
+to reach 120 million tons of CO₂ by 2030. To fulfill its commitment at the 26th Conference of the Parties to the United Nations Framework Convention on Climate Change
+(COP26) to achieve net-zero emissions by 2050, greening the agricultural sector has
+become an urgent priority. Therefore, it is crucial to research effective solutions for
+enhancing GBE in Vietnam’s agricultural industry.
+The existing research on GBE so far has certain notable gaps. Firstly, there appears to
+be a lack of studies examining all the components of the Theory of Planned Behaviour
+(TPB) as a foundation to explain the drivers behind GBE development. Most studies to
+date have primarily focused on elements of GBE based on the definition of consumerbased brand equity of Keller [18] or explored the impact of marketing-mix factors on
+the structure of GBE. However, there is evidence suggesting that GBE is constituted by
+multiple factors from both the brand and individual consumer perspectives [19]. From
+a perceived benefit standpoint, consumers’ intention to purchase green products might
+stem from within themselves, not solely from stimuli provided by businesses through
+marketing activities [20]. Secondly, there appears to be a lack of qualitative studies or a
+combination of qualitative and quantitative approaches to provide more insights than
+what conventional quantitative methods can typically explain. Particularly, there is an
+apparent absence of studies integrating Delphi and Analytic Hierarchy Process, and
+deriving GBE drivers based on the TPB structure. Despite the widely acknowledged
+role of perceived value types in general marketing research [13], studies that specifically
+examine the separate impacts of functional and emotional values on GBE, and compare
+
+Page 2 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+them within a green context, remain very limited. Furthermore, there seems to be a scarcity of studies examining consumers in the agricultural sector, despite it being a pivotal
+industry, consumed daily, and significantly impacting the environment.
+This study aims to address the aforementioned gaps. It seeks to identify the factors
+and criteria that drive GBE, ranking the level of importance of these factors and criteria. Data were collected from consumers of green agricultural products in Vietnam. The
+Delphi and Analytic Hierarchy Process methods were combined to gather and analyze
+the data. The subsequent sections of the paper include the second section on theoretical
+background, the third section on methodology, the fourth section on research results,
+the fifth section on discussions, and the final section on conclusions.
+
+2 Theoretical background
+2.1 Green brand equity
+
+Brand equity can be considered from either a financial or consumer standpoint. When
+viewed from the consumer’s perspective, it is referred to as consumer-based brand
+equity [21]. Under this approach, brand equity is defined as the differentiated effects of
+brand knowledge on consumer perception through brand marketing activities [18]. It
+reflects the differences in customer choice between branded and non-branded products
+[22].
+Green brand equity is viewed as the perceptions, beliefs, and understanding in the
+minds of consumers regarding a brand’s sustainability and environmental friendliness [23]. GBE encompasses a set of perceptions and behaviors of customers towards a
+brand’s environmental responsibility commitments, which elevate the brand’s value [24].
+Similar to brand equity, GBE refers to the added value gained by a brand. Consumers
+are believed to favor a product with a higher brand value over another with the same
+function. For green products, this added value relates to the product’s attributes meeting consumers’ environmental preservation needs. According to Bekk et al. [7], products
+with higher GBE are given priority by consumers. Studies indicate a close relationship
+between sustainable business practices and GBE [25].
+2.2 Theory of planned behaviour
+
+The Theory of Planned Behaviour by Ajzen [26] assumes that behavior can be predicted
+or explained by intentions to perform that behavior. This theory posits that intention is
+a function of three influencing factors: attitude toward the behavior, subjective norms,
+and perceived behavioral control.
+Attitude toward the behavior refers to an individual’s evaluation of the outcomes
+derived from performing a specific behavior, indicating the degree of favourability or
+unfavourability towards an individual’s behavior [26]. Accordingly, environmentally conscious consumers are expected to hold a positive attitude towards green brands to meet
+their consumption objectives [19]. Some researchers have found that environmentally
+responsible consumers often exhibit positive attitudes towards environmentally friendly
+brands [21, 27, 28].
+Subjective norms represent an individual’s perception of the importance that significant others attach to whether the behavior should or should not be performed. Thus,
+an individual’s intention and behavior can be influenced by the opinions of significant
+others, such as parents, spouses, friends, or colleagues [26]. Some studies related to GBE
+
+Page 3 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+have also suggested that positive word-of-mouth can impact visitation intentions, continued word-of-mouth, and willingness to pay a premium, aiding companies in attracting
+new consumers [29–31]. However, as of now, there seems to be a lack of experimental
+evidence showing that subjective norms drive intentions and behaviors toward consuming green products or supporting green brands.
+Perceived behavioral control is an individual’s perception of the ease or difficulty in
+performing a specific behavior, depending on the availability of resources and opportunities to carry out that behavior [26]. Therefore, it can be anticipated that human
+behavior and intentions toward consuming green products may be influenced by their
+perceptions of convenience, availability, opportunities, or challenges when purchasing
+those products. There is evidence indicating that establishing green distribution channels creates convenience for consumers, consequently positively impacting trust and
+loyalty toward green brands [2]. However, to date, the literature appears to provide very
+little empirical evidence on the relationship between perceived behavioral control and
+GBE.
+Although widely applied in green consumer behavior research, TPB has faced several
+criticisms. A key limitation is the attitude-behavior gap, where consumers may hold
+positive attitudes toward green products but fail to act accordingly [31]. Additionally,
+components such as subjective norms and perceived behavioral control have shown
+inconsistent results in predicting actual behavior [32–34]. As a result, many studies
+have proposed extending TPB by incorporating factors like perceived value, willingness
+to pay, or green identity to enhance its predictive power [33]. Moreover, TPB needs to
+be contextually adapted, as cultural and social factors, such as material values or social
+media influence, can significantly alter green consumption intentions and behavior [35,
+36].
+2.3 Green trust, green perceived value
+
+Green trust is the willingness to trust a product, service, or brand based on belief or
+expectation of its environmental effectiveness [23]. Several studies have demonstrated
+that trust in green brands is a fundamental driver of GBE [11, 17, 18]. Trust in the effectiveness of a green product regarding its environmentally friendly features and natural environment preservation is a key criterion for customers when purchasing it [23].
+Therefore, green trust can strengthen the intention to purchase green products [35].
+Furthermore, trust in a green brand indicates a higher likelihood that its customers will
+support it, and provide positive feedback, thereby enhancing GBE [36]. Papista et al.
+[5] identified the multidimensional drivers of GBE, including green trust, green brand
+image, green satisfaction, green brand experience, green customer value, and green marketing mix (7Ps). Among these, the role of green trust is particularly emphasized. When
+consumers believe that a brand is genuinely committed to environmental sustainability,
+it has a significant and positive impact on brand equity [37, 38].
+Green perceived value is the comprehensive assessment of the extent to which consumers perceive their green needs to be met during an experience [39]. Customer perceived value is viewed as an exchange between perceived costs and perceived benefits
+[38]. Brands can offer both functional and emotional value to consumers [40]. Functional value refers to the practical and utilitarian benefits that a product provides, such
+as quality, performance, and cost-efficiency. It reflects how well a product fulfills its
+
+Page 4 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+intended purpose [40]. In contrast, emotional value captures the affective and psychological gratification derived from the product, such as enjoyment, comfort, or positive
+feelings evoked by its use. While functional value appeals to rational judgment, emotional value resonates with personal feelings and experiences [40]. These two dimensions
+often interact but remain conceptually distinct, each contributing uniquely to consumer
+decision-making. Li et al. [24], and Papista et al. [5] demonstrate that perceived value by
+consumers is highly significant in constructing and developing GBE. Therefore, creating
+greater value for customers will enhance the relationship between consumers and green
+brands, and conversely, customer reactions to green brands contribute to shaping GBE
+[24].
+Although green perceived value stands as a crucial factor in the strategy for GBE
+development, the number of studies on this driver remains limited to date. Particularly,
+there appears to be a lack of research evaluating the impact of emotional values, and
+functional values on GBE while ranking their importance concerning other factors.
+2.4 Corporate social responsibility
+
+McWilliams and Siegel [41] define Corporate Social Responsibility (CSR) as actions
+that produce positive social outcomes and go beyond the interests of the firm and legal
+requirements. CSR is understood as a comprehensive construct encompassing multiple dimensions, including corporate citizenship, business ethics, sustainability, environmental responsibility, and both social and financial performance [42]. Rather than
+being merely philanthropic, CSR is increasingly viewed as a strategic move to enhance
+brand value by shaping social identity and encouraging consumer engagement [43]. Key
+elements such as a positive brand image and consumer trust, which are strengthened
+through CSR initiatives, serve as essential building blocks for sustainable brand value
+[44, 45].
+CSR has a clear and positive impact on brand value in general—and particularly on
+GBE in the context of environmentally focused initiatives. Gilal et al. [4] found that consumer perceptions of CSR significantly boost brand trust and passion. CSR activities
+aimed at environmental sustainability, such as green advertising or zero-packaging initiatives, help increase brand awareness, trust, satisfaction, and loyalty, thereby strengthening green brand equity [44, 46]. Moreover, the relationship between CSR and GBE
+is mediated by factors like brand awareness, brand image, brand loyalty, and purchase
+intention [47]. These findings underscore CSR’s role as a strategic tool in building and
+maintaining brand equity, especially when CSR is coherently integrated into the brand’s
+core values and aligned with stakeholder expectations across global markets [48].
+
+3 Methodology
+3.1 Research design
+
+This study utilizes a combination of the Delphi and Analytic Hierarchy Process (AHP)
+methods. The integration of these two methods is considered an effective way to make
+decisions in complex situations [49], aiding in reducing individual biases while enhancing the efficiency and transparency of the decision-making process [50]. It is also seen
+as the amalgamation of powerful tools for decision-making across various fields, including business, policy, and science [51]. The application of the Delphi and AHP methods
+is particularly appropriate given the complexity and exploratory nature of the research
+
+Page 5 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+topic. GBE is an emerging area with limited empirical evidence, especially regarding
+the relative importance of various influencing factors. The Delphi method enables systematic expert consultation to identify and refine key factors, while AHP allows for the
+structured comparison and prioritization of these factors based on participant judgment. Combining these methods not only enhances the validity of the findings by reducing individual bias but also improves the transparency and rigor of the decision-making
+process.
+Figure 1 illustrates the research design of this study. Firstly, we examined relevant literature on GBE across different countries and industries. Subsequently, we identified
+gaps and specified the particular research objectives. Drivers that have been minimally
+explored or absent in the literature but have theoretical foundations or scientific bases
+were selected for examination. Then, we proceeded to develop specific criteria (within
+the factors), based on the TPB and the overall literature review.
+Following that, we invited six experts to contribute their opinions on the criteria set
+to evaluate their suitability for the agricultural sector within the context of Vietnam.
+Among these experts, three were retail store managers specializing in the sale of green
+agricultural produce (acting both as consumers and sellers), while the remaining three
+were researchers and lecturers in the field of brand management, holding doctoral
+degrees. All experts possessed a minimum of five years’ experience in consuming green
+
+Fig. 1 Research design
+
+Page 6 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+agricultural produce. The initial questionnaire was formed based on adjustments made
+according to the participants’ feedback.
+Subsequently, the Delphi method was applied with two survey rounds. Finally, the
+AHP was employed to rank the importance level of the factors and criteria. Interviews
+and surveys were conducted in person from September to November 2023 in Hanoi,
+Vietnam. Detailed steps of the research are presented in Sects. 3.2 and 3.3.
+Regarding the characteristics of the sample across the rounds, in Delphi Round 1, a
+total of 39 participants took part, including 32 females (82.1%) and seven males (17.9%).
+In Delphi Round 2, the number decreased to 29 participants, with 26 females (89.7%)
+and three males (10.3%). By the AHP Round, only 10 participants remained, consisting of
+eight females (80%) and two males (20%). Regarding age, in the first Delphi round, there
+were nine participants (23.1%) aged 18–30, 13 (33.3%) aged 31–50, and 17 (43.6%) aged
+51 and above. In Delphi Round 2, the numbers were eight (27.6%) for both the 18–30
+and 31–50 age groups, and 13 (44.8%) for those aged 51 and over. In the AHP Round, no
+participants were from the 18–30 age group, while four (40%) were aged 31–50 and five
+(50%) were aged 51 and above.
+3.2 Delphi
+
+The Delphi method is a technique introduced by Dalkey and Helmer [52] to gather opinions from a group of experts systematically on a specific issue to be resolved. Subsequently, Murry and Hammons [53] developed the modified Delphi method suggesting
+the use of structured questionnaires to focus participants on the issue being discussed
+and save time [54]. This study utilizes the modified Delphi method, allowing the
+researcher to begin with structured questions and also initiate some open-ended questions [55].
+In the first Delphi round, the questionnaire comprised 25 questions. It began with
+an explanation of the GBE concept and a screening question to select survey participants, ensuring they have at least five years of experience in consuming green agricultural products. Following this were demographic questions. Then, questions about
+attitudes towards green products were adapted from [19], and questions about green
+trust were adapted from [9] and [23]. The remaining questions on social norms, perceived behavioral control, functional perceived values, and emotional perceived values
+were self-developed by the authors based on the TPB, Literature, and expert feedback.
+The structured questions were designed using a 5-point Likert scale, from highly important (5 points) to not important (1 point). Finally, there was an open-ended question for
+participants to provide further explanation and propose additional criteria for developing GBE.
+Participants in the first Delphi round comprised 39 individuals. The mean value and
+Content Validity Ratio (CVR) will be used to analyze the data, assisted by Excel software.
+The CVR is an index used to assess the level of expert agreement regarding the necessity of each item or criterion. Each expert rates an item as “essential,” “useful but not
+essential,” or “not necessary.” According to Lawshe [56], CVR is calculated based on the
+number of experts who rate an item as “essential.” If the CVR value exceeds a specific
+threshold, depending on the number of experts (for example, a Minimum CVR of 0.31
+is required for a panel of 35 or more), the item is considered to Have acceptable content
+
+Page 7 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+validity. With 39 participants in this study, the CVR threshold is 0.31. Criteria with a
+mean value < 3.5 or CRV < 0.31 will be eliminated [56].
+In the second Delphi round, the questionnaire will be adjusted based on the results
+from the first round. There were 29 out of 39 (74%) participants continuing their
+involvement in the second round. With this sample size, the CVR threshold is 0.37 [56].
+Data analysis will be conducted similarly to the first round. Some questions might be
+eliminated or modified. Additionally, based on the feedback obtained from participants
+through open-ended questions in the first round, new questions may be added to the
+questionnaire in the second Delphi round.
+3.3 Analytic hierarchy process
+
+To assess which factors drive GBE and their relative importance, numerous criteria are
+required for evaluation. Therefore, this evaluation process can be considered a multi-criteria decision-making process, and the application of the AHP technique is suitable [49].
+According to Saaty [49], AHP has several benefits, including (1) focusing on determining
+the importance of each criterion, thus helping overcome shortcomings of many other
+methods and facilitating their integration to leverage the advantages of each method; (2)
+potentially enhancing reliability by checking consistency in experts’ evaluation results;
+(3) being straightforward, considering both quantitative and qualitative factors, as well
+as both major and minor criteria.
+When integrating Delphi with AHP, Khorramshahgol & Moustakis [57] recommend
+avoiding an excessive number of experts as interview subjects; typically, 5–15 people are
+most appropriate. We collected responses from ten participants who participated in the
+initial two rounds of Delphi for this AHP round. The questionnaire was designed based
+on the results obtained from the two Delphi rounds. The data were analyzed using MS
+Excel.
+According to Saaty [49], AHP can be implemented through the following five steps:
+3.3.1 Step 1: Structuring the Hierarchy
+
+The first step involves constructing a hierarchical structure of the decision problem. This
+hierarchy typically includes the overall goal at the top level, followed by the evaluation
+criteria and sub-criteria, and finally the alternatives at the lowest level. The hierarchical
+decomposition helps decision-makers handle complex problems in a systematic way.
+3.3.2 Step 2: Pairwise comparisons
+
+In this step, decision-makers conduct pairwise comparisons of elements at each level of
+the hierarchy concerning their impact on the elements at the higher level. The fundamental 1–9 scale of Saaty [49] is used to represent the intensity of importance or preference. These judgments are used to construct a pairwise comparison matrix A = |aij |,
+where aij indicates the relative importance of element i compared to element j.
+3.3.3 Step 3: Deriving priority vectors
+
+To determine the relative weights of the elements, the pairwise comparison matrix is
+normalized, and the priority vector w is derived. This is typically done by calculating the
+principal right eigenvector of the matrix:
+
+Page 8 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+Aw = λmax w
+where λmax is the maximum eigenvalue of the matrix. The vector w represents the local
+priorities or relative importance of the elements.
+3.3.4 Step 4: Consistency check
+
+AHP incorporates a mechanism to assess the consistency of the pairwise comparisons.
+The Consistency Index (CI) is computed as:
+
+CI =
+
+λmax − n
+n−1
+
+where n is the number of elements compared. Then, the Consistency Ratio (CR) is calculated as:
+
+CR =
+
+CI
+RI
+
+where RI is the average random consistency index, based on matrix size. A value of
+CR ≤ 0.1 is generally considered acceptable, indicating that the judgments are reasonably
+consistent.
+3.3.5 Step 5: Synthesizing the results
+
+The final step is to synthesize the results to determine the global priorities of the alternatives. This involves aggregating the local weights from each level of the hierarchy to
+calculate the overall weight for each alternative:
+
+Overall Priorityi =
+
+n
+∑
+
+wj pij
+
+j=1
+
+where wj is the weight of criterion j, and pij is the priority of alternative i under criterion j. The alternative with the highest overall priority is considered the most preferred
+choice.
+The result obtained from integrating Delphi and AHP will be a set of factors, criteria
+driving GBE, and the resulting ranking of their relative importance.
+
+4 Result
+4.1 Delphi round 1
+
+Table 1 presents the results from the first round of the Delphi survey. Two criteria, AGP4
+and GTR4, were excluded due to a CVR index of < 0.31. The criterion with the highest
+CVR is SNO1, followed by EPV1, and then AGP1, EPV3, and SNO3.
+When answering the questions, some participants provided additional explanations,
+emphasizing the role of subjective norms. They expressed that awareness of the need for
+responsible consumption in emerging markets like Vietnam is still limited, thus advocating for enhanced education within families, educational institutions, and society to
+influence and exert “pressure” on each other toward sustainable consumption. Some
+participants highlighted the psychological benefits they experience when consuming
+green products. They feel secure and joyful, take pride in being smart consumers, and
+strongly desire green brands to cater to these needs.
+
+Page 9 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+Page 10 of 20
+
+Table 1 The results of Delphi rounds
+Factors
+
+Criteria
+
+Attitude to- AGP1
+ward green
+products
+(AGP)
+AGP2
+
+AGP3
+
+AGP4
+
+Subjective
+norms
+(SNO)
+
+SNO1
+SNO2
+SNO3
+SNO4
+
+Perceived
+behavior
+control
+(PBC)
+
+PBC1
+
+PBC2
+PBC3
+
+Green trust GTR1
+(GTR)
+GTR2
+
+GTR3
+
+GTR4
+
+Functional
+perceived
+values
+(FPV)
+
+FPV1
+FPV2
+
+FPV3
+
+Buying environmentally
+friendly products makes me
+feel good
+I’m excited by the availability of environmentally friendly brands for the
+product categories I wish
+to buy
+Among the several product
+categories, the brand that is
+favorable to the environment is always the best
+option
+When I buy things from an
+environmentally friendly
+brand, I usually feel really
+satisfied
+My family encourages me
+to use green products
+My friends encourage me
+to use green products
+My colleagues encourage
+me to use green products
+In general, the community
+around me encourages
+each other to use green
+products
+Finding and purchasing
+green products is easy for
+me
+Regularly using green products is feasible for me
+I know specific, necessary
+steps to buy green products from reputable green
+brands
+These brands engage in
+reliable community service
+These brands are serious
+about protecting the
+environment
+These brands fulfill their
+pledge to engage in environmental conservation
+efforts
+These brands’ pledges to
+assist their customers are
+incredibly trustworthy
+Green features satisfy my
+needs
+The benefits of the product
+have helped me protect the
+environment
+The product's functionalities meet my expectations of environmental
+friendliness
+
+Round 1
+Average CVR Result
+3.97
+0.49 Accepted
+
+Round 2
+Average CVR Result
+3.83
+0.45 Accepted
+
+3.82
+
+0.38
+
+Accepted
+
+3.86
+
+0.38
+
+Accepted
+
+4.00
+
+0.38
+
+Accepted
+
+3.97
+
+0.38
+
+Accepted
+
+3.62
+
+0.28
+
+Rejected
+
+4.13
+
+0.59
+
+Accepted
+
+4.07
+
+0.66
+
+3.97
+
+0.44
+
+Accepted
+
+4.03
+
+0.52
+
+3.95
+
+0.49
+
+Accepted
+
+3.97
+
+0.52
+
+3.79
+
+0.33
+
+Accepted
+
+3.93
+
+0.45
+
+Accepted
+Accepted
+Accepted
+Accepted
+
+3.85
+
+0.33
+
+Accepted
+
+3.72
+
+0.38
+
+Accepted
+
+3.74
+
+0.33
+
+Accepted
+
+3.79
+
+0.38
+
+3.82
+
+0.38
+
+Accepted
+
+3.86
+
+0.45
+
+Accepted
+Accepted
+
+3.92
+
+0.33
+
+Accepted
+
+4.00
+
+0.38
+
+3.85
+
+0.38
+
+Accepted
+
+3.86
+
+0.45
+
+3.79
+
+0.33
+
+Accepted
+
+3.83
+
+0.38
+
+Accepted
+
+3.79
+
+0.18
+
+Rejected
+
+3.79
+
+0.44
+
+Accepted
+
+3.83
+
+0.45
+
+3.87
+
+0.33
+
+Accepted
+
+3.90
+
+0.38
+
+Accepted
+Accepted
+
+3.87
+
+0.33
+
+Accepted
+
+4.00
+
+0.45
+
+Accepted
+Accepted
+
+Accepted
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+Page 11 of 20
+
+Table 1 (continued)
+Factors
+
+Criteria
+
+Emotional
+perceived
+values
+(EPV)
+
+EPV1
+
+EPV2
+
+EPV3
+
+EPV4
+
+Corporate CSR1
+social
+responsibility (CSR)
+CSR2
+
+CSR3
+
+CSR4
+
+Round 1
+Average CVR Result
+4.08
+0.54 Accepted
+
+These brands make me
+more confident about the
+health of my family
+These brands make me
+4.03
+more confident about
+the overall health of the
+community
+These brands make me
+3.95
+happy because they contribute to protecting the
+environment
+These brands make me feel 3.79
+proud to be a conscientious
+consumer who cares about
+the environment
+These brands often actively
+sponsor cases of social
+vulnerability
+These brands often actively
+participate in community
+development programs
+These brands often actively
+engage in environmental
+protection programs
+Overall, these brands have a
+good social responsibility
+
+Round 2
+Average CVR Result
+4.10
+0.52 Accepted
+
+0.44
+
+Accepted
+
+4.07
+
+0.45
+
+Accepted
+
+0.49
+
+Accepted
+
+3.97
+
+0.45
+
+Accepted
+
+0.33
+
+Accepted
+
+3.97
+
+0.38
+
+Accepted
+
+4.14
+
+0.45
+
+Accepted
+
+4.07
+
+0.45
+
+Accepted
+
+4.07
+
+0.38
+
+Accepted
+
+3.93
+
+0.38
+
+Accepted
+
+Additionally, some participants mentioned that, apart from the factors already
+included in the questionnaire, attention should be given to CSR criteria. They believe
+that, in many instances, consumers only become aware of a brand’s environmentally
+friendly characteristics through the company’s CSR activities. They believe that companies demonstrating robust CSR practices will establish a positive image and trust among
+consumers, thereby increasing the intention to purchase green products and fostering
+GBE development.
+4.2 Delphi round 2
+
+Based on the feedback from participants in the first Delphi round and information
+regarding CSR, we have named this new factor CSR and introduced four new criteria,
+namely CSR1, CSR2, CSR3, and CSR4 for the second round. Therefore, after the first
+round, there are a total of seven factors and 24 criteria in the questionnaire, which
+include the remaining 20 criteria and four newly added criteria.
+Table 1 illustrates that after the second Delphi round, all criteria Have gained consensus among the participants. The average values for all criteria are greater than 3.5,
+with CVR values surpassing 0.37. The new criteria introduced in round 2 have all been
+accepted. The criterion with the highest consensus based on the CVR index is SNO1,
+followed by EPV1, SNO2, SNO3, and SNO4, which belong to the subjective norms and
+emotional perceived values factors.
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+Page 12 of 20
+
+Table 2 Ranking of factors driving GBE
+Factors
+Subjective norms
+Emotional perceived values
+Functional perceived values
+Green trust
+Corporate social responsibility
+Attitude toward green products
+Perceived behavior control
+Consistency ratio
+
+Weights
+0.225
+0.168
+0.144
+0.135
+0.123
+0.107
+0.104
+0.074
+
+Ranking
+1
+2
+3
+4
+5
+6
+7
+
+Table 3 Weights and ranking of criteria driving GBE
+Factors
+Local weights CR
+Items Local weights
+Attitude toward green products 0.107
+0.085 AGP1 0.329
+AGP2 0.264
+AGP3 0.407
+Subjective norms
+0.225
+0.082 SNO1 0.358
+SNO2 0.287
+SNO3 0.214
+SNO4 0.142
+Perceived behavior control
+0.104
+0.058 PBC1 0.440
+PBC2 0.255
+PBC3 0.305
+Green trust
+0.135
+0.072 GTR1 0.399
+GTR2 0.383
+GTR3 0.218
+Functional perceived values
+0.144
+0.084 FPV1 0.404
+FPV2 0.323
+FPV3 0.272
+Emotional perceived values
+0.168
+0.070 EPV1 0.349
+EPV2 0.246
+EPV3 0.211
+EPV4 0.194
+Corporate social responsibility
+0.123
+0.084 CSR1 0.345
+CSR2 0.254
+CSR3 0.213
+CSR4 0.188
+
+Global weights
+0.035
+0.028
+0.043
+0.081
+0.065
+0.048
+0.032
+0.046
+0.027
+0.032
+0.054
+0.052
+0.029
+0.058
+0.047
+0.039
+0.058
+0.041
+0.035
+0.033
+0.042
+0.031
+0.026
+0.023
+
+Ranking
+15
+21
+10
+1
+2
+7
+17
+9
+22
+18
+5
+6
+20
+4
+8
+13
+3
+12
+14
+16
+11
+19
+23
+24
+
+4.3 Analytic hierarchy process
+
+Table 2 presents the results of ranking the importance level of factors driving GBE and
+the consistency ratio of the assessment results from the participants. The CR is less than
+0.1, ensuring consistency in the respondents’ answers [49]. Thus, subjective norms, a
+component of TPB and seemingly unexplored in GBE literature, were evaluated as the
+most crucial factor. Following this are emotional perceived values, functional perceived
+values, green trust, corporate social responsibility, attitude toward green products, and
+perceived behaviour control, in descending order of importance.
+Table 3 displays local weights, global weights, CR, and the ranking results of the criteria’s importance. The five most crucial criteria are SNO1, SNO2, EPV1, FPV1, and
+GTR1, which belong to subjective norms, emotional perceived values, functional perceived values, and green trust factors. Although the new CSR criteria added in the second Delphi round are not ranked as high compared to other criteria, they still achieved
+consensus among the participants. The consistency ratio results indicate that all factors
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+fall below the acceptable threshold (CR < 0.1), ensuring the reliability of the pairwise
+comparison process in the AHP model [49]. Some factors, such as attitude toward green
+products (0.085), functional perceived values (0.084), and corporate social responsibility
+(0.084), show relatively higher CR values, which may be attributed to the large number
+of criteria within each group, making it cognitively demanding for experts, especially
+for more abstract constructs like CSR or technically complex ones like functional values. Nevertheless, these CR values remain within acceptable limits. In contrast, factors
+such as perceived behavioral control (0.058), emotional perceived values (0.070), and
+green trust (0.072) have lower CR values, reflecting a higher level of agreement among
+experts. This may be due to the clearer and more distinct nature of the criteria within
+these groups, which are commonly understood and consistently interpreted. Overall,
+these results strengthen the reliability of the AHP model’s outcomes.
+
+5 Discussion and implication
+5.1 Discussion
+
+This study contributes significantly to the theoretical aspects. Firstly, it might be pioneering in comprehensively examining the factors of the TPB (attitude toward green
+products, subjective norms, perceived behavior control) and demonstrating their crucial roles concerning GBE in comparison to other factors. Secondly, the ranking of the
+importance of various GBE-driving factors through the integration of the Delphi and
+AHP methods represents a rare approach to addressing gaps in the literature on GBE.
+This combination of qualitative and quantitative methods has provided additional information and explanations regarding the essential roles of subjective norms, emotional
+values, and corporate social responsibility in GBE development strategies. Thirdly, the
+distinct exploration of the relationship between emotional values, functional values, and
+GBE is a fresh approach compared to existing literature, highlighting and explaining the
+significance of each value type in consumer perceptions. Until now, there have been only
+a few experimental studies primarily employing linear structural models to explore the
+relationship between perceived value in general and GBE. Lastly, this is also one of the
+very few studies examining the relationship between CSR and GBE (not general brand
+equity).
+Subjective norms emerged as the most important factor as ranked by the participants.
+The criteria under subjective norms, SNO1 (My family encourages me to use green
+products) and SNO2 (My friends encourage me to use green products), were ranked
+first and second, respectively. This finding is intriguing because surprisingly, despite the
+wide use of TPB to explain intention and behavior in business, there seems to be scarce
+experimental research examining the relationship between all three TPB components
+and GBE. This study has highlighted the significance of the opinions of reference groups
+such as family, friends, colleagues, and the public around each consumer. This can be
+understood in the context of Asian countries like Vietnam and the diversity of agricultural products, which are used daily and often rely heavily on word-of-mouth recommendations. These societies are known for their high-context nature and collectivism,
+where decision-making and actions are preferred based on the opinions of significant
+others.
+Among the items of subjective norms, the influence of family and friends (SNO1,
+SNO2) emerged as the most influential in green consumption behavior, as they share
+
+Page 13 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+close personal relationships with the consumer. In contrast, the influence from the
+broader community (SNO4) has the lowest global weight (0.032), suggesting that social
+pressure from the general public has less impact. This may be attributed to the fact that
+in emerging markets with rapid economic growth and high consumption levels, such
+as Vietnam, public awareness of environmental protection remains limited, and the
+broader community has yet to significantly influence individuals’ green consumption
+intentions.
+Emotional perceived values and functional perceived values are the second and third
+most influential factors driving GBE, with the emotional criterion “These brands make
+me more confident about the health of my family” ranking third in global importance.
+This suggests that affective benefits, particularly those tied to consumer well-being and
+environmental reassurance, play a central role in shaping perceptions of green brands.
+In comparison, the functional dimension, as represented by “Green features satisfy my
+needs,” ranked slightly lower but still reflects a strong utilitarian motivation.
+Some prior studies have demonstrated a positive relationship between perceived values in general with GBE [13, 58, 59]. This study reinforces previous findings on the role
+of perceived value in GBE within the agricultural sector and the Vietnamese context,
+which differs from the industries and settings previously investigated, such as the hospitality sector in [13]. However, to date, there has been limited research isolating psychological and functional values for experimental evaluation. For instance, Winit and
+Kantabutra [60] discussed that psychological and functional benefits positively impact
+brand equity in general (not GBE). Sweeney and Soutar [40] positioned functional value
+as the primary driver in their PERVAL framework, particularly in contexts where product quality, performance, and price dominate decision-making. Emotional value, while
+acknowledged, was generally secondary to utilitarian concerns in their study. However,
+it is important to note that their work focused on broader consumer value judgments
+across product categories and not specifically within the green branding context. This
+study reveals a shift in emphasis within the green market, where emotional perceived
+values play a more dominant role than functional values in influencing green brand
+equity. This contrasts with traditional models like [40], which prioritize functional value
+and do not empirically address this hierarchy in a green branding context. In emerging markets such as Vietnam, where environmental concerns are increasingly pressing,
+consumers tend to value brands that offer not only functional benefits but also emotional experiences tied to health, safety, and pride. This highlights the need to adapt
+conventional value frameworks to the socio-environmental realities of sustainable
+consumption.
+Green trust was ranked as the fourth factor. Although there have been numerous
+experimental pieces of evidence concerning the relationship between green trust and
+GBE, we aimed to pioneer in examining the relative importance of this factor in comparison to the components of TPB and perceived values. Prior studies have demonstrated
+that green trust has a positive, direct impact on GBE or serves as an intermediary in the
+relationship between attitude toward green sponsorship or GBE in the dairy industry
+[61], between CSR or green brand association, or green brand satisfaction with GBE in
+the banking sector [16]. The findings of this study further reinforce those earlier results,
+but in a new context: the agricultural sector in Vietnam. However, when compared
+with other factors like subjective norms and perceived values, green trust appears to
+
+Page 14 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+be relatively less influential and should be considered in conjunction with other antecedents of GBE. To effectively enhance green trust and GBE, priority should perhaps be
+given to strengthening subjective norms (through education, family, schools, and public
+advocacy) and perceived values (by improving customers’ real-life experiences).
+Corporate social responsibility was ranked fifth in importance among the seven
+factors. Similarly, its items, CSR1, CSR2, CSR3, and CSR4, were also ranked at moderately high levels, positioned at 11th, 19th, 23rd, and 24th respectively in the overall
+ranking. The role of CSR in GBE has been explored by a few recent studies [16, 61]. A
+unique aspect of our study is the integration of the CSR factor with other factors and
+their weighted rankings. The research results have indicated that CSR continues to play
+a significant role in the GBE development strategy of agricultural businesses. However,
+businesses should give greater priority to subjective norms, perceived values, and green
+trust, particularly in emerging markets like Vietnam, where public concerns about greenwashing, the practice of presenting products or activities as more environmentally
+friendly than they truly are, are increasing consumer skepticism [62]. Greenwashing has
+been shown to trigger negative brand perceptions and pose both economic and social
+risks [63, 64]. To address consumer skepticism toward this phenomenon, research
+suggests that companies must build green trust through transparency and honesty in
+their sustainability claims [64]. Organizations can also play a role in educating consumers about greenwashing and how to recognize genuine sustainability efforts, helping to
+reduce misunderstandings and foster trust [64]. In the context of a market showing signs
+of greenwashing in Vietnam, consumers might remain skeptical about corporate CSRrelated activities, placing higher importance on green values and green trust. Nevertheless, the research findings still demonstrate that CSR is an indispensable activity for GBE
+development, which needs improvement concurrently with other driving factors.
+Other components of the Theory of Planned Behavior, namely attitude toward green
+products and perceived behavioral control, were ranked as the least important factors
+(with local weights of 0.107 and 0.104, respectively). However, they still contribute to
+promoting GBE, as their consistency ratios (CR = 0.085 and 0.058) remain below the
+accepted threshold of 0.1 [49]. Moreover, in the second round of the Delphi process, all
+items under these two factors exceeded the Minimum required CVR threshold of 0.37,
+as recommended by Lawshe [56]. This indicates a reasonable level of expert consensus
+regarding their role. This result is partly supported by prior research. For instance, Ha
+[36] illustrated that attitude toward green products positively influences GBE in the
+electronics industry in Vietnam through intermediary factors like green brand image
+and green trust. Shanti and Joshi [13] demonstrated that a green attitude contributes to
+GBE in the hotel industry in India. Bekk et al. [7] indicated that brand attitude directly
+impacts positive word-of-mouth communication in Germany. However, there seems to
+be a lack of studies examining the relationship between perceived behavior control and
+GBE. Hence, this study contributes new knowledge to the GBE literature and demonstrates that consumers’ ability to find and purchase green products easily and feasibly
+can promote GBE.
+5.2 Implication
+
+This study makes a theoretical contribution by empirically examining all three components of the TPB and comparing their relative importance to other drivers of GBE.
+
+Page 15 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+The integration of Delphi and AHP methods offers a rare mixed-method approach that
+enhances both qualitative and quantitative understanding. It also distinguishes between
+emotional and functional values, often merged in prior research, thus expanding the
+theoretical framework of perceived value in green branding. Moreover, it is among the
+few studies to explore the link between CSR and GBE rather than general brand equity.
+These findings suggest research implications: future studies should adopt longitudinal
+designs to capture the evolving influence of GBE drivers over time, and further investigate the distinct roles of emotional and functional values in shaping green consumer
+behavior, especially in emerging markets.
+Based on these findings, the study offers several practical and policy implications
+aimed at enhancing GBE in emerging markets like Vietnam. First and foremost, there is
+a need to strengthen social norms through education and communication. Regulatory
+bodies should integrate sustainability and green consumption into national school curricula while launching large-scale awareness campaigns through schools, youth organizations, women’s unions, and mainstream media. These channels have the potential to
+amplify pro-environmental social norms—identified in this study as the most influential
+factor in green purchasing behavior.
+In addition, a transparent, credible, and accessible national green product certification system should be established. Such a system would enhance consumer trust in
+green brands while reducing concerns about greenwashing. For businesses, especially
+small enterprises and those in agriculture, investing in multiple GBE-related drivers
+may pose financial challenges. Therefore, governments should provide targeted support
+such as subsidies, tax incentives, and access to green financing for businesses adopting
+sustainable practices like cleaner production, biodegradable packaging, or eco-friendly
+supply chains. To ensure practicality, official cost–benefit assessment guidelines should
+be issued to help businesses prioritize investments in the most impactful drivers, rather
+than attempting to implement all seven simultaneously.
+Moreover, to strengthen community-level impact, which was found to be relatively
+weak in this study, local campaigns such as “Green Consumption Week,” “Eco-friendly
+Farmers’ Markets,” or “Sustainable Brand Awards” should be organized regularly. These
+initiatives can help foster a collective green mindset and gradually elevate public awareness. Overall, the above actions require coordinated efforts among government agencies, businesses, civil society organizations, and local communities, with the long-term
+goal of building a sustainable consumption culture and improving the quality of life in
+Vietnam’s green growth context.
+
+6 Conclusion
+This study aims to identify the factors and criteria for developing GBE in the case of
+the agricultural sector in Vietnam, ranking the level of importance of these factors and
+criteria. The research results indicate the relative importance of factors in descending
+order as follows: Subjective norms, emotional perceived values, functional perceived values, green trust, corporate social responsibility, attitude toward green products, and perceived behavior control. The criteria within these factors have achieved consensus and
+have been ranked in terms of importance by the participants.
+This work makes significant contributions to both science and practical application.
+It may be one of the few studies that examine the relationship between components of
+
+Page 16 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+the TPB and other factors with GBE, while also providing a weighted ranking of these
+factors. It might also be pioneering in combining the Delphi and AHP methods in GBE
+research, addressing certain research gaps, and offering new insights. This study has also
+attempted to explore factors rarely or never addressed in empirical GBE studies, such as
+emotional perceived values, functional perceived values, and CSR, providing profound
+insights and meaningful implications in this field. Moreover, the focus of this research is
+the agricultural sector, which is a pivotal economic sector in Vietnam and several other
+countries. It has a significant environmental impact but has been overlooked in prior
+GBE studies. Finally, the study offers practical recommendations for educational institutions, civil society organizations, corporations, and governments to improve GBE.
+Specific suggestions encompass the incorporation of sustainability and eco-friendly
+consumption into educational programs, the implementation of coordinated communication initiatives to enhance community awareness GBE, and the establishment of a
+national certification system for green products.
+Certain limitations persist in this article. Although the sample sizes for the Delphi
+and AHP rounds meet methodological requirements, they remain relatively small and
+are geographically limited to Hanoi, which reduces the generalizability of the findings.
+The expert panel also lacks diversity, notably with no representation from environmental NGOs or farmers, potentially leading to a commercial bias. In addition, one of the
+main limitations of this study is that the CSR criteria introduced after the first Delphi
+round were not pilot-tested beforehand. Future studies might increase the number of
+participants in the Delphi and AHP phases, with a more diverse panel that includes
+representatives from various stakeholder groups such as environmental NGOs, farmers, policymakers, and consumers. Additionally, some other factors related to GBE were
+not examined in this study, such as green brand loyalty, brand associations, green brand
+image, and green satisfaction. Subsequent research could include new measures, especially considering the relationship between intention and behavior in purchasing green
+products, as TPB suggests that factors do not necessarily lead directly to action but often
+go through an intention phase. In addition, future scholars may also consider adopting
+longitudinal research designs instead of relying solely on cross-sectional data, as done in
+this study, to track how the influence of various factors on GBE evolves. This approach
+would help overcome the limitations of cross-sectional studies and offer deeper insights
+into the development of consumer attitudes and behaviors as sustainability initiatives
+unfold. Moreover, cross-national or cross-sector studies are encouraged to examine how
+cultural, economic, or industry-specific differences may shape the drivers of green brand
+equity, thereby enhancing the generalizability and contextual relevance of future findings. Finally, the scope of this study is focused on consumers of green agricultural products in Vietnam. Therefore, applying the research findings to other industries, fields, or
+countries requires caution. Future studies might explore GBE from the perspectives of
+other stakeholders, such as shareholders, and company employees, while also exploring
+other sectors significantly impacting the environment.
+Author contributions
+H.T.T wrote the main manuscript text; H.T.N prepared theoretical background and checked validation. All authors
+reviewed the manuscript.
+Funding
+The author did not receive support from any organisation for the submitted work.
+
+Page 17 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+Data availability
+The datasets analysed during the current study are available in the Dataverse repository, ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​7​9​1​0​/​D​V​N​/​N​
+I​B​Y​E​3​​​​.​​
+
+Declarations
+Consent to participate
+Written informed consent was obtained from all participants prior to data collection. Participants were explicitly
+informed that their involvement was voluntary and that they retained the right to withdraw at any time. All procedures
+were designed to ensure the protection of participants, and interview transcripts were anonymized prior to being used
+solely for scientific purposes. No minors participated in the research.
+Consent for publications
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 23 May 2025 / Accepted: 27 August 2025
+
+References
+1. Berrone P, Fosfuri A, Gelabert L. Does greenwashing pay off? Understanding the relationship between environmental
+actions and environmental legitimacy. J Bus Ethics. 2017;144:363–79.
+2. Nguyen-Viet B. The impact of green marketing mix elements on green customer based brand equity in an emerging
+market. APJBA. 2023;15(1):96–116. https://doi.org/10.1108/APJBA-08-2021-0398.
+3. Alhamdi FM, Al-Kahtani SM, Abdullah EAMF. Saudi women’s attitude towards environmental marketing and its relationship to purchasing behavior. Discov Sustain. 2024;5(1):514. https://doi.org/10.1007/s43621-024-00784-4.
+4. Gilal FG, Channa NA, Gilal NG, Gilal RG, Gong Z, Zhang N. Corporate social responsibility and brand passion among consumers: theory and evidence. Corp Soc Responsib Env. 2020;27(5):2275–85. https://doi.org/10.1002/csr.1963.
+5. Papista E, Chrysochou P, Krystallis A, Dimitriadis S. Types of value and cost in consumer–green brands relationship and
+loyalty behaviour. J Consum Behav. 2018;17(1):e101-13.
+6. Khandelwal U, Kulshreshtha K, Tripathi V. Importance of consumer-based green brand equity: empirical evidence. Paradigm. 2019;23(1):83–97. https://doi.org/10.1177/0971890719844428.
+7. Bekk M, Spörrle M, Hedjasie R, Kerschreiter R. Greening the competitive advantage: antecedents and consequences of
+green brand equity. Qual Quant. 2016. https://doi.org/10.1007/s11135-015-0232-y.
+8. Górska-Warsewicz H, Dębski M, Fabuš M, Kováč M. Green brand equity—empirical experience from a systematic literature
+review. Sustainability. 2021. https://doi.org/10.3390/su132011130.
+9. Kang S, Hur WM. Investigating the antecedents of green brand equity: a sustainable development perspective. Corp Soc
+Responsib Environ Manag. 2012. https://doi.org/10.1002/csr.281.
+10. Lee YH, Chen SL. Effect of green attributes transparency on WTA for green cosmetics: mediating effects of CSR and green
+brand concepts. Sustainability. 2019. https://doi.org/10.3390/su11195258.
+11. Akturan U. Pay-premium for green brands: evidence from an emerging country. JGR. 2020;11(3):219–32. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​1​0​8​/​J​G​R​-​0​3​-​2​0​1​9​-​0​0​3​4​​​​.​​​
+12. Ishaq MI. Multidimensional green brand equity: a cross-cultural scale development and validation study. Int J Market Res.
+2021. https://doi.org/10.1177/1470785320932040.
+13. Shanti J, Joshi G. Examining the impact of environmentally sustainable practices on hotel brand equity: a case of Bangalore hotels. Environ Dev Sustain. 2022;24(4):5764–82. https://doi.org/10.1007/s10668-021-01682-9.
+14. Khan SAR, Sheikh AA, Ashraf M, Yu Z. Improving consumer-based green brand equity: the role of healthy green practices,
+green brand attachment, and green skepticism. Sustainability. 2022;14(19):11829. https://doi.org/10.3390/su141911829.
+15. Sharma M. Determinants of green purchase intention in the banking sector. J Environ Plann Manage. 2023. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​
+/​1​​0​.​1​0​​8​0​/​0​9​​6​4​0​5​6​​8​.​2​0​2​2​​.​2​1​5​​3​6​5​3.
+16. Nguyen THN, Tran NKH, Do K. An empirical research of corporate social responsibility on creating the green brand equity:
+an exploratory of Vietnamese consumers’ perception in the bank industry. Corp Soc Responsib Env. 2023;30(3):1292–9.
+https://doi.org/10.1002/csr.2419.
+17. Vietnam Ministry of Industry and Trade, “Xanh hóa nông nghiệp: Cần thích ứng và giảm thiểu. [Agricultural Greening:
+Adaptation and Mitigation].,” 2021. [Online]. Available: ​h​t​t​p​s​:​​/​/​c​o​n​​g​t​h​u​o​n​​g​.​v​n​​/​x​a​n​h​​-​h​o​a​-​​n​o​n​g​-​n​​g​h​i​e​​p​-​c​a​n​​-​t​h​i​c​​h​-​u​n​g​-​​v​a​-​g​​
+i​a​m​-​t​h​i​e​u​-​1​6​8​3​3​7​.​h​t​m​l
+18. Keller KL. Conceptualizing, measuring, and managing customer-based brand equity. J Mark. 1993. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​2​3​0​7​/​
+1​2​5​2​0​5​4​​​​.​​​
+19. Butt MM, Mushtaq S, Afzal A, Khong KW, Ong FS, Ng PF. Integrating behavioural and branding perspectives to maximize
+green brand equity: a holistic approach. Bus Strat Environ. 2017. https://doi.org/10.1002/bse.1933.
+20. Berhaupt-Glickstein A, Hooker NH, Hallman WK. Qualified health claim language affects purchase intentions for green tea
+products in the United States. Nutrients. 2019;11(4):921.
+21. Christodoulides G, de Chernatony L. Consumer-based brand equity conceptualisation and measurement: a literature
+review. Int J Market Res. 2010. https://doi.org/10.2501/S1470785310201053.
+22. Yoo B, Donthu N, Lee S. An examination of selected marketing mix elements and brand equity. J Acad Mark Sci.
+2000;28(2):195–211. https://doi.org/10.1177/0092070300282002.
+23. Chen. The drivers of green brand equity: green brand image, green satisfaction, and green trust. J Bus Ethics. 2010. ​h​t​t​p​s​:​/​/​
+d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​/​s​1​0​5​5​1​-​0​0​9​-​0​2​2​3​-​9​​​​.​​​
+
+Page 18 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+24. Li G, Li J, Sun X. Measuring green brand equity in relationship interactions and its impact on brand loyalty. Rev Cercet
+Interv Soc. 2019. https://doi.org/10.33788/rcis.66.16.
+25. Imaningsih ES. The impact of CSR awareness and CSR beliefs on corporate reputation and brand equity: evidence from
+Indonesia. Int J Econ Perspect. 2017;11(4):530.
+26. Ajzen I. The theory of planned behavior. Organ Behav Hum Decis Process. 1991;50(2):179–211. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​0​7​4​
+9​-​5​9​7​8​(​9​1​)​9​0​0​2​0​-​T​​​​.​​​
+27. Ottman JA, Stafford ER, Hartman CL. Avoiding green marketing myopia: ways to improve consumer appeal for environmentally preferable products. Environ Sci Policy Sustain Dev. 2006;48(5):22–36. https://doi.org/10.3200/ENVT.48.5.22-36.
+28. Kim Y, Han H. Intention to pay conventional-hotel prices at a green hotel–a modification of the theory of planned behavior. J Sustain Tour. 2010;18(8):997–1014.
+29. Ha M, Ngan VTK, Nguyen PND. Greenwash and green brand equity: the mediating role of green brand image, green
+satisfaction and green trust and the moderating role of information and knowledge. Bus Ethics Environ Responsib.
+2022;31(4):904–22. https://doi.org/10.1111/beer.12462.
+30. Leonidou CN, Katsikeas CS, Morgan NA. ‘Greening’ the marketing mix: Do firms do it and does it pay off? J Acad Mark Sci.
+2013;41:151–70.
+31. Duong CD. Environmental corporate social responsibility initiatives and the attitude-intention-behavior gap in green
+consumption. Soc Responsib J. 2024;20(2):305–25. https://doi.org/10.1108/SRJ-11-2022-0487.
+32. Zhao X, Fan L, Xu Y. An investigation of determinants of green consumption behavior: an extended theory of planned
+behavior. Innov Green Dev. 2025. https://doi.org/10.1016/j.igd.2024.100198.
+33. Hui Z, Khan AN. Beyond pro-environmental consumerism: role of social exclusion and green self-identity in green product
+consumption intentions. Environ Sci Pollut Res Int. 2022;29(50):76339–51. https://doi.org/10.1007/s11356-022-21082-4.
+34. Armutcu B, Zuferi R, Tan A. Green product consumption behaviour, green economic growth and sustainable development: unveiling the main determinants. J Enterp Commun. 2024;18(4):798–819. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​0​8​/​J​E​C​-​0​5​-​2​0​2​3​-​0​0​7​
+4​​​​​.​​​
+35. Ng M, Law M, Zhang S. Predicting purchase intention of electric vehicles in Hong Kong. Australas Mark J. 2018;26(3):272–
+80. https://doi.org/10.1016/j.ausmj.2018.05.015.
+36. Ha MT. Investigating green brand equity and its driving forces. Manag Sci Lett. 2020. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​5​2​6​7​/​j​.​m​s​l​.​2​0​2​0​.​2​.​0​
+2​5​​​​.​​​
+37. Dangaiso P. Leveraging green brand equity for organic food brands: the multifaceted role of green satisfaction. Cogent
+Bus Manage. 2024. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​2​3​​3​1​1​9​7​​5​.​2​0​2​4​​.​2​3​2​​1​7​9​1.
+38. Kim H, Kim WG. The relationship between brand equity and firms’ performance in luxury hotels and chain restaurants. Tour
+Manag. 2005;26(4):549–60.
+39. Y. Chen and C.-H. Chang, The influences of green perceived quality and green brand awareness on green brand equity:
+the mediation effect of green perceived risk. In 2012 proceedings of PICMET’12: technology management for emerging
+technologies, IEEE, 2012, pp. 1152–1159
+40. Sweeney JC, Soutar GN. Consumer perceived value: the development of a multiple item scale. J Retail. 2001. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​
+g​/​1​​0​.​1​0​​1​6​/​S​0​0​2​2​-​4​3​5​9​(​0​1​)​0​0​0​4​1​-​0.
+41. McWilliams A, Siegel D. Corporate social responsibility: a theory of the firm perspective. Acad Manag Rev. 2001;26(1):117–
+27. https://doi.org/10.5465/AMR.2001.4011987.
+42. Windsor D. Corporate social responsibility and irresponsibility: a positive theory approach. J Bus Res. 2013;66(10):1937–44. ​
+h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​j​b​u​s​r​​e​s​.​2​0​1​​3​.​0​2​​.​0​1​6.
+43. Bhattacharya S. Does corporate social responsibility contribute to strengthen brand equity? An empirical study. Int Rev
+Public Nonprofit Mark. 2017;14(4):513–33. https://doi.org/10.1007/s12208-017-0185-z.
+44. Barbosa B, Shabani Shojaei A, Miranda H. Packaging-free practices in food retail: the impact on customer loyalty. Balt J
+Manag. 2023;18(4):474–92. https://doi.org/10.1108/BJM-10-2022-0386.
+45. Hussain K, Waheed A. Building green brand relations: the role of green brand image as significant driver. Int J Environ
+Workplace Employ. 2016;4(2):116–38.
+46. L. Sujanska and M. Nadanyiova, Green marketing and brand perception: unveiling the consumer perspective,” presented at
+the Springer proceedings in business and economics, 2024, pp. 951–962. https://doi.org/10.1007/978-981-97-0996-0_56
+47. Singh A, Verma P. The impact of corporate social responsibility on brand equity of Indian firms. Int J Bus Innov Res. 2019.
+https://doi.org/10.1504/IJBIR.2019.101689.
+48. Nandan S, Nandan M. Aligning core brand values (CBV) and corporate social responsibility (CSR) to enhance corporate
+brand equity (CBE): a non-monetary approach. Indian J Market. 2014;44(8):21–31. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​7​​0​1​0​/​i​​j​o​m​/​2​​0​1​4​/​v​4​​4​
+/​i​8​​/​8​0​1​2​6.
+49. Saaty TL. How to make a decision: the analytic hierarchy process. Eur J Oper Res. 1990. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​0​3​7​7​-​2​2​1​7​(​
+9​0​)​9​0​0​5​7​-​I​​​​.​​​
+50. Linstone HA, Turoff M. The delphi method. MA: Addison-Wesley Reading; 1975.
+51. Rowe G, Wright G. The delphi technique as a forecasting tool: issues and analysis. Int J Forecast. 1999;15(4):353–75.
+52. N. Dalkey and O. Helmer, “Delphi method of convergence,” Manag Sci, vol. 3, 1963
+53. Murry JW, Hammons JO. Delphi: a versatile methodology for conducting qualitative research. Rev High Educ. 1995.
+https://doi.org/10.1353/rhe.1995.0008.
+54. Min JCH. Guiding the guides: developing indicators of tour guides’ service quality. Total Qual Manag Bus Excel. 2016;27(9–
+10):1043–62. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​1​4​​7​8​3​3​6​​3​.​2​0​1​5​​.​1​0​6​​0​1​2​3.
+55. Irvine F. Exploring district nursing competencies in health promotion: the use of the Delphi technique. J Clin Nurs. 2005. ​h​
+t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​1​​1​1​/​j​.​​1​3​6​5​-​​2​7​0​2​.​2​​0​0​5​.​​0​1​1​9​3​.​x.
+56. Lawshe CH. A quantitative approach to content validity. Pers Psychol. 1975. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​1​​1​1​/​j​.​​1​7​4​4​-​​6​5​7​0​.​1​​9​7​5​.​​t​b​0​1​
+3​9​3​.​x.
+57. Khorramshahgol R, Moustakis VS. Theory and methodology delphic hierarchy process (DHP): a methodology for priority
+setting derived from the Delphi method and analytical hierarchy process. Eur J Oper Res. 1988;37(3):347–54.
+58. Delafrooz N, Goli A. The factors affecting the green brand equity of electronic products: green marketing. Cogent Bus
+Manag. 2015. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​2​3​​3​1​1​9​7​​5​.​2​0​1​5​​.​1​0​7​​9​3​5​1.
+
+Page 19 of 20
+
+Hue and Huyen Discover Sustainability
+
+(2025) 6:932
+
+59. Kazmi SHA, Shahbaz MS, Mubarik MS, Ahmed J. Switching behaviors toward green brands: evidence from emerging
+economy. Environ Dev Sustain. 2021;23(8):11357–81. https://doi.org/10.1007/s10668-020-01116-y.
+60. Winit W, Kantabutra S. Enhancing the prospect of corporate sustainability via brand equity: a stakeholder model. Sustainability (Switzerland). 2022. https://doi.org/10.3390/su14094998.
+61. Dinh KC, Nguyen-Viet B, Vo HNP. Toward sustainable development and consumption: the role of the green promotion mix
+in driving green brand equity and green purchase intention. J Promot Manag. 2023;29(6):824–48. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​8​0​/​
+1​0​​4​9​6​4​9​​1​.​2​0​2​3​​.​2​1​6​​5​2​0​9.
+62. Chen YS, Chang CH. Greenwash and green trust: the mediation effects of green consumer confusion and green perceived
+risk. J Bus Ethics. 2013. https://doi.org/10.1007/s10551-012-1360-0.
+63. Filippelli S, Troise C, Bigliardi B, Corvello V. Examining the influence of entrepreneurial ecosystem pressure on the economic, social, and environmental orientation of startups. Technol Forecast Soc Change. 2025. ​h​t​t​p​s​:​​/​/​d​o​i​​.​o​r​g​/​1​​0​.​1​0​​1​6​/​j​.​​t​e​c​
+h​f​​o​r​e​.​2​0​​2​4​.​1​​2​3​9​0​0.
+64. Xiao L, Kumar V. Robotics for customer service: a useful complement or an ultimate substitute? J Serv Res. 2021;24(1):9–29.
+
+Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Page 20 of 20
+
+

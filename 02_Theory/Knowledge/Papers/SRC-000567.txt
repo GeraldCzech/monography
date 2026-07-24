@@ -1,0 +1,3326 @@
+RESEARCH ARTICLE
+
+Charitable donations and the theory of
+planned behaviour: A systematic review and
+meta-analysis
+
+Katherine M. WhiteID
+
+1*, Louise C. Starfelt SuttonID
+
+2, Xiang Zhao3
+
+1 School of Psychology and Counselling, Queensland University of Technology, Brisbane, Australia,
+2 Research and Evaluation Unit, Swedish Prison and Probation Service, Norrko¨ ping, Sweden, 3 School of
+Behavioural, Social and Legal Sciences, O¨ rebro University, O¨ rebro, Sweden
+
+* km.white@qut.edu.au
+
+Abstract
+
+Given the predominance of the theory of planned behaviour (TPB) to represent the psycho-
+logical determinants underlying people’s charitable decisions, the present study synthesised
+the model’s key relationships, using meta-analysis, and tested the predictive utility of the
+model for charitable giving encompassing donations of blood, organs, time, and money.
+Given its relevance to altruistic decisions, the impact of moral norm was assessed also. A
+systematic literature review identified 117 samples (from 104 studies) examining donation
+intentions and/or prospective behaviour using TPB measures. The sample-weighted aver-
+age effects for all associations were moderate-to-strong with perceived behavioural control
+(PBC) most strongly associated with intention (r+ = 0.562), followed by moral norm (r+ =
+0.537), attitude (r+ = 0.507), and subjective norm (r+ = 0.472). Intention (r+ = 0.424) showed
+stronger associations with prospective behaviour than PBC (r+ = 0.301). The standard TPB
+predictors explained 44% of variance in intention (52% including moral norm). Intention and
+PBC explained 19% of variance in behaviour. A number of TPB associations showed differ-
+ences when analysed for moderator variables such as length of follow-up for prospective
+behaviour and type of target behaviour. Stronger associations were found for the (subjective
+and moral) norm-intention associations among some of the different types of giving behav-
+iours, especially for donating organs and time. Overall, the large proportion of variance
+explained by the TPB predictors especially for intention highlights those cognitions associ-
+ated with people’s plans to give, informative for charities reliant on people’s propensity to
+give.
+
+Introduction
+
+Globally, charitable giving satisfies important needs for individuals in the society including the
+provision of resources such as blood, organs, time, and money. According to the CAF World
+Giving Index 2021, while some forms of giving are on the rise (e.g., helping a stranger, donat-
+ing money), others (e.g., volunteering time) have reduced [1]. Charitable organisations are
+dependent on people giving to promote initiatives that reduce poverty, advance education, aid
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+OPEN ACCESS
+
+Citation: White KM, Starfelt Sutton LC, Zhao X
+(2023) Charitable donations and the theory of
+planned behaviour: A systematic review and meta-
+analysis. PLoS ONE 18(5): e0286053. https://doi.
+org/10.1371/journal.pone.0286053
+
+Editor: Adetayo Olorunlana, Caleb University,
+NIGERIA
+
+Received: September 4, 2022
+
+Accepted: May 8, 2023
+
+Published: May 19, 2023
+
+Copyright: © 2023 White et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+
+Data Availability Statement: The data that support
+the findings of this research are available from the
+Open Science Framework repository (https://osf.io/
+dkptj).
+
+Funding: The author(s) received no specific
+funding for this work.
+
+Competing interests: The authors have declared
+that no competing interests exist.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+1 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+health services, and increase societal benefit. In addition to assisting the recipients and charita-
+ble organisations, giving has been shown to benefit the donor also (e.g., physical and mental
+health benefits from donating time) [2,3]. Research on donation behaviour has established
+demographic determinants of charitable giving; for example, donors tend to be married, well-
+educated, and of an older age [4]. However, to promote public donations, charities benefit
+from an understanding of the psychological determinants of charitable donation behaviours.
+While some authors view charitable giving as relating to financial donations [5], other
+approaches are broader in their terminology and include helping others and volunteering in
+addition to donating money [1]. For the scope of the present study, the review will focus on a
+broad definition of charitable giving as the voluntary donation of one’s personal resources
+(time, services, or assets/goods) to charity that provides benefits to others [6].
+
+Researchers have often drawn on multidisciplinary approaches to understand giving. For
+instance, in their seminal work of people’s charitable financial donations, Bekkers and Wiepk-
+ing [5] encompassed perspectives including economics, psychology, sociology, and biology
+and proposed eight mechanisms driving monetary donation (e.g., costs and benefits, altruism,
+values, and efficacy). Measures have been developed reflecting major underlying motives (e.g.,
+trust, altruism, tax benefits) for donating money to charities [7]. In relation to predicting peo-
+ple’s giving behaviours, there is a number of proposed constructs and models to encapsulate
+the underlying psychological determinants of people’s giving decisions. Some commonly iden-
+tified psychological constructs proposed to impact on people’s giving decisions include empa-
+thy [8], altruism [5], warm glow [9], social norms [10], and self/role identity [11]. For more
+comprehensive models of psychological determinants, examples include the Volunteers Func-
+tion Index (VFI) developed by Clary and Snyder [12] to represent the underlying motivations
+people have for volunteering time. Other models of volunteering consider also process and
+structure characteristics and different types of volunteering, including the Volunteer Process
+Model and Episodic Volunteer Engagement and Retention Model [13,14]. Across some chari-
+table giving behaviours (e.g., volunteering time, blood donation), distinctions are made for the
+purpose of conceptualising psychological determinants in different stages of the donation
+‘career’, such as the initiation stage of giving. In the context of behaviours where a person’s
+willingness may be a more appropriate outcome than behavioural enactment (e.g., organ
+donation upon death), the Prototype Willingness Model [15] has been used to gauge people’s
+openness to give rather than actual donation.
+
+One theoretical framework that has been examined across a wide variety of donation behav-
+iours and is one of the major models applied in the field of psychological determinants of char-
+itable giving is the Theory of Planned Behaviour. The Theory of Planned Behaviour [16] offers
+a parsimonious explanation of behaviour with intention conceptualised as the proximal deter-
+minant of people’s behavioural decisions. The determinants of intention are favourable/unfa-
+vourable evaluations of the behaviour (attitude), perceptions of normative pressure to perform
+the behaviour (subjective norm), and perceived ability/efficacy of performing the behaviour
+(perceived behavioural control; PBC). When PBC represents actual control over a target
+behaviour if it is not completely volitional, PBC directly influences behaviour. Attitude, subjec-
+tive norm, and PBC are belief based with behavioural beliefs (advantages and disadvantages of
+behavioural performance) underlying attitude, normative beliefs (approval of specific referents
+for behavioural performance) underpinning subjective norm, and control beliefs (barriers and
+facilitators of behavioural performance) as the determinants of PBC.
+
+With its inclusion of PBC, the TPB is an extension of the Theory of Reasoned Action (TRA)
+[17] which focused on the role of attitude and subjective norm on intention, and intention on
+behaviour. Despite criticisms of the TPB in the health domain [18] focusing on a lack of pre-
+dictive validity of the standard TPB constructs and the lack of effectiveness of the TPB to
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+2 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+provide practitioners with useful behavioural interventions which Ajzen [19] subsequently
+refuted, the model has garnered much evidence over time, with meta-analytic support across
+general behavioural domains [20,21].
+
+The TPB is open to the inclusion of additional constructs provided they can be conceived as
+
+causal factors, add independent variance over and above the standard predictors, and can be
+applied to a range of behaviours in the interest of parsimony [16]. Arguably the most consis-
+tent addition in TPB examinations of charitable giving behaviour assesses a person’s sense of
+moral obligation to assist. Based on these and other findings in areas comprising a moral com-
+ponent (e.g., road safety and other decisions with legal and moral ramifications), researchers
+have argued for the inclusion of a moral/personal norm in the TPB [22]. Moral/personal norm
+reflects internalised rules or values with moral overtones [23] and engaging (or not engaging)
+in the target behaviour will, thus, result in self-approval or disapproval. Moral norm predicts
+additional variance in intention over and above the standard TPB predictors and is relevant
+across a range of behaviours involving an ethical/moral component [23,24]. The intention to
+donate blood is moderately associated with moral norm according to a previous meta-analysis
+[25]. As charitable giving results in significant consequences for the welfare and benefit of
+other people and groups of people, a sense of moral obligation is likely influential in decisions
+to engage in the behaviour. As it has been recognised independently as a useful addition to the
+TPB in previous meta-analytic studies, the construct of moral norm will be included also in
+this systematic synthesis.
+
+Although a large body of literature has applied the TRA/TPB to understand charitable giv-
+ing, there is a lack of a systematic synthesis and meta-analysis which enables evaluation of the
+consistency (or reasons for inconsistency) of results and provides more accurate estimates of
+TPB associations in this context. The only exception is a systematic review and meta-analysis
+of blood donation intention and behaviour; this study highlighted the role of attitude and PBC
+in blood donation intention and behaviour [25]. A review with a broader scope for donation
+behaviours is of interest to establish whether the strong associations identified in the review of
+blood donation are equally strong across other charitable giving domains (e.g., organs, money)
+and whether there is an overarching set of strong TPB associations shared across charitable
+behaviour types or stronger associations unique to one behavioural domain. Previous research
+has found high correlations between people giving both time and money [26,27] without as
+many examinations of whether the determinants of people’s giving across domains are of
+equal strength. Therefore, this review will examine one of the predominant social psychologi-
+cal models commonly employed to understand and predict people’s giving behaviours in the
+TPB. Of note, the model has been used by researchers to predict multiple charitable giving
+behaviours simultaneously [28].
+
+Evaluating the contribution of more general decision-making models is this context is
+timely given critiques of the utility and validity of the TPB to represent adequately the variabil-
+ity in people’s behavioural decisions [18] and researchers’ efforts to propose models reflecting
+people’s decisions targeting specific donation behaviours [14]. Consequently, it is of benefit to
+researchers and practitioners alike to establish the extent to which parsimonious, general mod-
+els of decision making such as the TPB are efficacious to represent the main determinants of
+people’s giving behaviours across a range of donation contexts. In this vein, clarity may be pro-
+vided to identify whether there is sufficient evidence to support a general model of people’s
+charitable giving across distinct giving domains or if efforts are needed to continue to develop
+tailored predictive models unique to separate giving behaviours. Recognition of the key con-
+structs of people’s giving behaviours allows practitioners from charitable organisations to
+focus recruitment and retention strategies on the most relevant underlying cognitions to pro-
+mote giving intentions and behaviours.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+3 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+The overall aim of this study, then, is to systematically review studies that have adopted a
+TPB approach to examine people’s giving intentions and behaviours and test the utility of the
+model as a parsimonious representation of the determinants of people’s giving decisions. The
+objectives of this systematic review of the charitable donation literature are to: (1) synthesise
+through meta-analysis TPB relationships, incorporating measures of moral/personal norm; (2)
+test the predictive utility of the TPB, with the addition of moral norm, within the context of
+charitable donations; and (3) explore relevant sample and methodological moderators of these
+associations. Specifically, seven moderators were considered. Sample characteristics of age,
+participant gender, and sample type (i.e., student status) were examined consistent with previ-
+ous TPB meta-analyses examining sample-based differences [25,29]. These analyses remained
+exploratory in nature due to previously reported differences across types of donation behav-
+iours. A potentially important methodological moderator to consider was the degree of speci-
+ficity in the operationalisation of the target behaviour [30]. In the context of the TPB, the
+principles of Target, Action, Context, and Time (TACT) [31] were formulated to ensure align-
+ment between the theoretical concept and measured outcome and to guide questionnaire con-
+struction. The principles promote specifying who performs the behaviour (Target), what the
+target behaviour is (Action), where or how the behaviour is performed (Context), and when
+the behaviour is performed (Time). In the current review, studies that adhered to the TACT
+principles were expected to render stronger TPB associations. Additional methodological con-
+siderations of attrition rates and follow-up lengths were investigated also, with higher attrition
+rates and shorter follow-up periods for measuring prospective behaviour expected to result in
+stronger associations. Finally, given the range of charitable donation behaviours covered, the
+type of donation behaviour was examined in an explorative manner.
+
+Methods
+Definition of the target behaviour
+
+Charitable donations were, for the purpose of this study, defined as the voluntary donation of
+one’s personal resources (time, services, or assets/goods) to charity that provides benefits to
+others [6] without expectation of benefits in return [6]. Charities are not-for-profit/charitable
+organisations for public benefit.
+
+Search strategy and eligibility assessment
+
+Searches for relevant literature were conducted in four stages. First, we performed database lit-
+erature searches on January 9th 2016 in PsycINFO (via EBSCOhost), PsycEXTRA (via EBSCO-
+host), Pub Med, Web of Science, ProQuest Dissertations & Thesis Global (abstract limiter),
+Scopus (title, abstract, keyword limiters), CINAHL (via EBSCOhost), Sociological Abstracts
+(via ProQuest), and EMBASE, using the following search string: (“theory of reasoned action”
+OR “theory of planned behaviour” OR “theory of planned behaviour”) AND (give OR giving
+OR donat* OR volunteer* OR charit* OR altruis* OR gift OR help*). The search terms were
+reviewed by an information specialist. Second, manual searches of reference lists of included
+records were conducted. Third, key authors (first/corresponding authors of included records)
+were contacted, and announcements were made through relevant professional associations
+(i.e., European Association of Experimental Social Psychology, Society for Personality and
+Social Psychology, Society of Australasian Social Psychologists) to source potential in press or
+unpublished studies. Finally, the database literature searches were repeated on April 16th 2020
+and March 18th 2022 to source literature published since the initial search with additional data
+obtained at subsequent time points reviewed independently, retaining the partially processed
+data for the subsequent search iterations.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+4 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+The identified records were screened for eligibility against four inclusion criteria: The
+record needed to: (1) report on a primary study; (2) use quantitative measurement of charita-
+ble donation intentions and/or prospective behaviour; (3) use the TPB as a basis for measure-
+ment; and (4) report bivariate correlations for at least one of the five basic TPB associations
+using the direct predictors (attitude-intention; subjective norm-intention; PBC-intention;
+intention-behaviour; PBC-behaviour). For intervention studies, relevant bivariate correlations
+from baseline or a non-intervention control group (e.g., wait-listed control) needed to be
+retrievable or obtainable from authors. To minimise publication bias, dissertations and unpub-
+lished work were included [32]. Although no language limiter was applied in the searches, arti-
+cles reported in languages other than English were excluded.
+
+To assess adherence of a record to the use of the TPB as a basis for measurement (inclusion
+criteria 3), we applied Ajzen’s [31] recommendations for constructing a TPB questionnaire as
+a guide. As such, we accepted affective (e.g., “[charitable giving] is pleasant-unpleasant”) and/
+or instrumental (e.g., “[charitable giving] is positive-negative”) measures of attitude; injunctive
+norms (e.g., “most people who are important to me would want me to [give to charity]”) and/
+or descriptive norms (e.g., “most people who are important to me [give to charity]”) as mea-
+sures of subjective norm; and measures of self-efficacy (e.g., “I am capable of [charitable giv-
+ing]”) and/or perceived control (“it is mostly up to me whether or not I [give to charity]”) to
+reflect PBC. For the normative component of the TPB, acceptable items could refer to specific
+referent groups (e.g., friends, family).
+
+As shown in Fig 1, after removing duplicates, 4828 records were identified from database
+searches and additional search strategies. During an initial screening phase, one coder read
+
+Fig 1. Flow diagram of the selection process. Criterion 1: Report on a primary study; Criterion 2: Use quantitative measurement of charitable donation
+intentions and/or prospective behaviour; Criterion 3: Use the TPB as a basis for measurement; Criterion 4: Report bivariate correlations for at least one of the
+five basic TPB associations using the direct predictors (attitude-intention; subjective norm-intention; PBC-intention; intention-behaviour; PBC-behaviour).
+
+https://doi.org/10.1371/journal.pone.0286053.g001
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+5 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+titles and abstracts to assess eligibility based on inclusion criteria 1 and 2. A selection of 483
+abstracts (10%, following the removal of duplicates) was screened also by a second coder to
+assess inter-coder reliability with a moderate-to-high level of agreement (Cohen’s κ = 0.92 in
+2016, 0.74 in 2020, and 1.00 in 2022). The lower level of inter-rater reliability following the
+updated literature search in 2020 was due to more inclusive coding on part of the research
+assistant who completed the title and abstract screen, compared to the first and second author
+who conducted the double coding at the other time points, which was considered unproblem-
+atic given the subsequent full text screen rectified this over inclusion.
+
+With title and abstract screening completed, 341 records (7.1%) remained. Records were
+most commonly excluded in the initial screening phase due to not measuring charitable dona-
+tion intentions and/or prospective behaviour (criterion 2). In addition to exclusion based on
+stated criteria, 10 non-English articles were excluded at this stage. In a second screening phase,
+a full-text review was conducted using all four inclusion criteria to assess eligibility, which
+resulted in 123 included records. Records excluded at this stage most often did not include
+measurements of charitable donation intention and/or prospective behaviour (criterion 2). A
+random selection of 34 full-text records (10%) was reviewed by the first or second author and
+inter-coder reliability was high (Cohen’s κ = 0.88). Cases where disagreement occurred, and
+records which did not clearly meet inclusion criteria in the first and second phase of screening,
+were raised for discussion between all authors of the present study to reach a consensus deci-
+sion. In cases where reporting was unclear or bivariate correlations were missing in studies
+which otherwise clearly met inclusion criteria, the study authors were contacted (up until the
+initial additional database search in April 2020). Risk of bias assessment was undertaken using
+the Joanna Briggs Institute Checklist for Analytical Cross Sectional Studies [33].
+
+Moderator coding
+
+The included studies were independently coded by the first and second named authors to code
+relevant sample and methodological characteristics to enable tests of moderation (subgroup/
+meta-regression analyses). The sample mean age was extracted or calculated based on reported
+sample statistics. Participant gender was coded as the valid percentage of female participants in
+study samples. The coding of the sample type was based on whether the sampling strategy
+focused on students (e.g., participation for course credit) or the general population, with
+mixed sampling strategies categorised in the latter category. Ajzen’s [31] measurement princi-
+ples of TACT were used to code definitional adherence: studies which specified the Target
+(e.g., participant), Action (e.g., donating blood) and Time (e.g., in the next three months) in
+the measurement of intention or prospective behaviour were coded as meeting the TACT cri-
+teria. Given that few studies specified the Context of charitable giving (e.g., a specific donation
+centre or blood drive), we did not apply this criterion in the moderator coding to enable group
+comparisons based on TACT adherence. In prospective studies assessing follow-up behaviour,
+the level of attrition was categorised as no attrition, or any attrition (between Time 1 and Time
+2) and follow-up time period was coded as number of days follow-up between initial measure-
+ment and follow-up behaviour (reported ranges were averaged). Finally, to allow for a compar-
+ison of the results with a previous relevant meta-analysis of blood donation [25] and to explore
+the level of consistency of the strength of TPB associations across different types of charitable
+behaviours, the target behaviour was coded as donations of blood, organs, time, or money.
+Coding agreement between the first and second named authors was mixed (69.7–100%), with
+disagreement resolved successfully through discussion. The largest discrepancy (69.7% agree-
+ment for level of attrition) could be attributed to the differential coding of some studies report-
+ing no attrition, erroneously coded as “not applicable”.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+6 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Meta-analytic strategy and analyses
+
+We followed the meta-analytic strategy reported in [32] and the PRISMA statement [34] for
+reporting (see S1 Checklist). The first/second named author completed data extraction which
+involved recording the full correlation matrix of TPB associations (including moral norm) and
+its associated sample size. In the case several correlation coefficients for a specific TPB con-
+struct (e.g., perceived control and self-efficacy) or for different charitable behaviour outcomes
+(e.g., blood and organ donation) were provided within the same sample, we used an average
+correlation to adhere to the assumption of independence. Correlations that were reported sep-
+arately for multiple samples in a single study were treated independently (see Table 1).
+
+Sample-weighted correlation coefficients (r+) were calculated using Comprehensive Meta-
+
+Analysis version 3.3.070 [35]. With a broad definition of charitable behaviour, we applied a
+random effects model to allow for effect size heterogeneity [36,37]. Sample-weighted correla-
+tions were labelled small (.10), medium (.30), or strong (.50) in line with guidelines [38].
+Regression analysis was undertaken in SPSS using the sample-weighted correlations in an
+input matrix. Subgroup analyses to test for moderation were conducted when k within sub-
+groups exceeded 3. Based on untransformed (continuous) moderators, sample size-weighted
+regression analyses were first conducted. As linearity tests indicated spurious nonlinear rela-
+tionships between the moderators and intervariable correlations, dichotomised recodification
+was applied for continuous moderators (see Table 2 for categorisation of these moderators).
+For transparency, moderation results based on continuous moderators are provided in
+Table 3. Homogeneity analyses were conducted to identify dispersion among effect sizes, with
+
+Table 1. Overall sample-weighted effect sizes and heterogeneity analysis for each TPB association.
+
+TPB association
+
+Attitude-Intention
+
+Subjective norm-Intention
+
+PBC-Intention
+
+Moral norm-Intention
+
+Intention-Behaviour
+
+PBC-Behaviour
+
+Attitude-Subjective norm
+
+Attitude-PBC
+
+Attitude-Behaviour
+
+Attitude-Moral norm
+
+Subjective norm-PBC
+
+Subjective norm-Behaviour
+
+Subjective norm-Moral norm
+
+PBC-Moral norm
+
+Moral norm-Behaviour
+
+N
+
+55567
+
+51182
+
+48489
+
+28135
+
+11543
+
+7927
+
+48592
+
+47227
+
+10554
+
+28063
+
+47732
+
+8107
+
+26343
+
+25104
+
+4881
+
+k
+
+112
+
+100
+
+91
+
+46
+
+41
+
+26
+
+90
+
+86
+
+33
+
+46
+
+87
+
+26
+
+43
+
+39
+
+16
+
+r+
+.507
+
+.472
+
+.562
+
+.537
+
+.424
+
+.301
+
+.378
+
+.394
+
+.205
+
+.390
+
+.350
+
+.212
+
+.458
+
+.319
+
+.244
+
+95% CI
+
+Q
+
+.473;.539
+
+.420;.520
+
+.513;.608
+
+.480;.590
+
+.367;.477
+
+.227;.370
+
+.342;.413
+
+.350;.437
+
+.161;.249
+
+.335;.442
+
+.283;.414
+
+.163;.259
+
+.415;.499
+
+.262;.373
+
+.172;.314
+
+2848.37
+
+4990.28
+
+4982.35
+
+1544.31
+
+459.12
+
+281.39
+
+1694.31
+
+2431.32
+
+151.63
+
+986.10
+
+5367.24
+
+111.78
+
+583.85
+
+676.79
+
+95.81
+
+df
+
+111
+
+99
+
+90
+
+45
+
+40
+
+25
+
+89
+
+85
+
+32
+
+45
+
+86
+
+25
+
+42
+
+38
+
+15
+
+p
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+I2
+96.10
+
+98.02
+
+98.19
+
+97.09
+
+91.29
+
+91.12
+
+94.75
+
+96.50
+
+78.90
+
+95.44
+
+98.40
+
+77.64
+
+92.81
+
+94.39
+
+84.34
+
+Note: N = Total sample
+k = number of samples/associations
+r+ = Sample-weighted correlation coefficients
+CI = Confidence Interval
+Q = Cochran’s Q
+
+df = Degrees of freedom
+p = probability level
+I2 = estimated percentage of true variance among population effect sizes.
+
+https://doi.org/10.1371/journal.pone.0286053.t001
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+7 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Table 2. Subgroup analyses based on sampling, methodological, and behaviour type moderators.
+
+TPB association
+
+Moderator
+
+Subgroup
+
+Attitude-Intention
+
+Sample age
+
+Sample gender
+
+Sampling
+
+TACT
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+Subjective norm-Intention
+
+Sample age
+
+Sample gender
+
+Sampling
+
+TACT
+
+Other
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+PBC-Intention
+
+Sample age
+
+Sample gender
+
+Sampling
+
+TACT
+
+Other
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+Moral norm-Intention
+
+Sample age
+
+Sample gender
+
+Sampling
+
+TACT
+
+Other
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+Intention-Behaviour
+
+Sample age
+
+Sample gender
+
+Sampling
+
+Other
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+k
+
+38
+
+57
+
+32
+
+71
+
+39
+
+69
+
+62
+
+50
+
+50
+
+62
+
+39
+
+49
+
+24
+
+70
+
+36
+
+60
+
+57
+
+43
+
+43
+
+59
+
+34
+
+49
+
+22
+
+63
+
+29
+
+58
+
+54
+
+37
+
+42
+
+51
+
+17
+
+29
+
+13
+
+34
+
+14
+
+31
+
+32
+
+14
+
+23
+
+25
+
+8
+
+26
+
+18
+
+20
+
+9
+
+31
+
+r+
+.571
+
+.450
+
+.473
+
+.523
+
+.574
+
+.459
+
+.460
+
+.562
+
+.475
+
+.532
+
+.473
+
+.493
+
+.508
+
+.463
+
+.452
+
+.492
+
+.440
+
+.511
+
+.384
+
+.533
+
+.578
+
+.566
+
+.579
+
+.562
+
+.509
+
+.590
+
+.573
+
+.546
+
+.573
+
+.563
+
+.549
+
+.530
+
+.514
+
+.543
+
+.584
+
+.517
+
+.555
+
+.498
+
+.442
+
+.613
+
+.400
+
+.447
+
+.398
+
+.446
+
+.464
+
+.420
+
+Within-group statistics
+
+95% CI
+
+Q
+
+.519;.619
+
+.404;.493
+
+.403;.543
+
+.481;.562
+
+.529;.615
+
+.414;.501
+
+.410;.507
+
+.519;.602
+
+.428;.520
+
+.487;.575
+
+.429;.515
+
+.405;.572
+
+.435;.574
+
+.393;.528
+
+.404;.497
+
+.418;.559
+
+.389;.489
+
+.419;.592
+
+.336;.429
+
+.470;.590
+
+.494;.630
+
+.508;.641
+
+.474;.667
+
+.499;.620
+
+.428;.582
+
+.530;.644
+
+.522;.620
+
+.440;.637
+
+.524;.619
+
+.474;.641
+
+.478;.612
+
+.455;.598
+
+.402;.610
+
+.474;.606
+
+.488;.667
+
+.448;.580
+
+.481;.622
+
+.399;.585
+
+.377;.502
+
+.545;.673
+
+.256;.526
+
+.370;.519
+
+.309;.480
+
+.358;.527
+
+.336;.576
+
+.357;.480
+
+580.21
+
+1344.39
+
+698.77
+
+1891.82
+
+423.47
+
+1961.83
+
+1674.53
+
+911.02
+
+1184.94
+
+1270.92
+
+342.51
+
+4463.74
+
+525.90
+
+4242.29
+
+290.63
+
+4663.24
+
+1371.92
+
+2884.66
+
+691.82
+
+2389.77
+
+888.72
+
+3618.45
+
+1091.80
+
+3763.01
+
+617.69
+
+3793.12
+
+1783.42
+
+3198.75
+
+1164.71
+
+3868.15
+
+218.29
+
+1097.16
+
+214.49
+
+1259.82
+
+224.20
+
+1077.69
+
+1281.48
+
+253.93
+
+540.91
+
+372.50
+
+82.18
+
+319.78
+
+179.04
+
+266.80
+
+74.50
+
+329.21
+
+df
+
+37
+
+56
+
+31
+
+70
+
+38
+
+68
+
+61
+
+49
+
+49
+
+61
+
+38
+
+48
+
+23
+
+69
+
+35
+
+59
+
+56
+
+42
+
+42
+
+58
+
+33
+
+48
+
+21
+
+62
+
+28
+
+57
+
+53
+
+36
+
+41
+
+50
+
+16
+
+28
+
+12
+
+33
+
+13
+
+30
+
+31
+
+13
+
+22
+
+24
+
+7
+
+25
+
+17
+
+19
+
+8
+
+30
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+Between-groups statistics
+
+p
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+I2
+93.62
+
+95.84
+
+95.56
+
+96.30
+
+91.03
+
+96.53
+
+96.36
+
+94.62
+
+95.87
+
+95.20
+
+88.91
+
+98.93
+
+95.63
+
+98.37
+
+87.96
+
+98.74
+
+95.92
+
+98.54
+
+93.93
+
+97.57
+
+96.29
+
+98.67
+
+98.08
+
+98.35
+
+95.47
+
+98.50
+
+97.03
+
+98.88
+
+96.48
+
+98.71
+
+92.67
+
+97.45
+
+94.41
+
+97.38
+
+94.20
+
+97.22
+
+97.58
+
+94.88
+
+95.93
+
+93.56
+
+91.48
+
+92.18
+
+90.51
+
+92.88
+
+89.26
+
+90.89
+
+Q
+
+12.24
+
+df
+
+1
+
+p
+
+< .001
+
+1.52
+
+13.19
+
+9.84
+
+3.06
+
+0.17
+
+0.84
+
+0.85
+
+1.830
+
+13.70
+
+0.07
+
+0.08
+
+2.78
+
+0.24
+
+0.04
+
+0.14
+
+0.23
+
+1.36
+
+0.95
+
+13.19
+
+0.37
+
+0.62
+
+0.40
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+.217
+
+< .001
+
+< .001
+
+.080
+
+.680
+
+.361
+
+.357
+
+.176
+
+< .001
+
+.796
+
+.783
+
+.095
+
+.626
+
+.833
+
+.712
+
+.635
+
+.243
+
+.330
+
+< .001
+
+.543
+
+.431
+
+.527
+
+(Continued )
+
+8 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Table 2. (Continued)
+
+TPB association
+
+Moderator
+
+Subgroup
+
+Within-group statistics
+
+Between-groups statistics
+
+TACT
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+Attrition
+
+Follow-up
+
+PBC-Behaviour
+
+Sample age
+
+Sample gender
+
+Sampling
+
+TACT
+
+Other
+
+No
+
+Any
+
+Short
+
+Long
+
+Young
+
+Older
+
+Male
+
+Female
+
+Student
+
+Non-student
+
+Yes
+
+No
+
+Behaviour
+
+Blood donation
+
+Attrition
+
+Follow-up
+
+Other
+
+No
+
+Any
+
+Short
+
+Long
+
+32
+
+9
+
+19
+
+21
+
+17
+
+21
+
+20
+
+20
+
+6
+
+15
+
+9
+
+15
+
+5
+
+20
+
+21
+
+5
+
+13
+
+12
+
+7
+
+17
+
+13
+
+12
+
+.442
+
+.366
+
+.385
+
+.461
+
+.329
+
+.483
+
+.526
+
+.325
+
+.266
+
+.334
+
+.204
+
+.364
+
+.298
+
+.313
+
+.326
+
+.209
+
+.284
+
+.331
+
+.229
+
+.276
+
+.389
+
+.222
+
+.378;.501
+
+.254;.469
+
+.315;.452
+
+.363;.549
+
+.263;.392
+
+.390;.566
+
+.439;.603
+
+.254;.392
+
+.141;.382
+
+.215;.443
+
+.143;.264
+
+.231;.483
+
+.113;.463
+
+.229;.392
+
+.239;.408
+
+.153;.264
+
+.195;.368
+
+.195;.456
+
+.195;.262
+
+.249;.303
+
+.269;.498
+
+.136;.305
+
+412.19
+
+36.56
+
+214.12
+
+218.35
+
+109.30
+
+285.59
+
+225.58
+
+175.38
+
+32.19
+
+261.19
+
+25.46
+
+231.61
+
+27.15
+
+223.60
+
+275.67
+
+1.74
+
+118.77
+
+151.61
+
+29.62
+
+226.72
+
+143.56
+
+93.85
+
+31
+
+8
+
+18
+
+20
+
+16
+
+20
+
+19
+
+19
+
+5
+
+14
+
+8
+
+14
+
+4
+
+19
+
+20
+
+4
+
+12
+
+11
+
+6
+
+16
+
+12
+
+11
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+.783
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+< .001
+
+1.47
+
+1.61
+
+7.08
+
+12.53
+
+0.64
+
+4.59
+
+0.02
+
+4.98
+
+0.34
+
+2.14
+
+5.03
+
+92.48
+
+78.12
+
+91.59
+
+90.84
+
+85.36
+
+93.00
+
+91.58
+
+89.17
+
+84.47
+
+93.52
+
+68.58
+
+93.96
+
+85.27
+
+91.50
+
+92.75
+
+0.00
+
+89.90
+
+92.74
+
+79.75
+
+92.94
+
+91.64
+
+88.28
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+.225
+
+.205
+
+.008
+
+< .001
+
+.423
+
+.032
+
+.881
+
+.026
+
+.558
+
+.144
+
+.025
+
+Note: k = number of samples/associations, r+ = Sample-weighted correlation coefficients, CI = Confidence Interval, Q = Cochran’s Q, df = Degrees of freedom, p =
+probability level, I2 = estimated percentage of true variance among population effect sizes. TACT = Target, Action, Context, Time.
+
+https://doi.org/10.1371/journal.pone.0286053.t002
+
+a significant Q statistic denoting heterogeneity and I2 indicating the magnitude of true vari-
+ance among population effect sizes. Funnel plots in combination with [39] trim and fill analy-
+sis were used to assess publication bias. The risk of bias was assessed formally by the Joanna
+Briggs Institute Checklist for Analytical Cross Sectional Studies [40] given the predominance
+of included studies were neither longitudinal nor experimental. Some criteria were used
+around specific questions to increase the fairness in judging their bias potential. The first
+author reviewed all studies while the second author assessed 10% of included studies with a
+limited number of inconsistencies discussed between the authors.
+
+Results
+Study characteristics and risk of bias assessment
+
+Eligibility screening resulted in 123 included records, reporting on 104 studies with 117 inde-
+pendent samples. Data (available from the Open Science Framework https://osf.io/dkptj/)
+were obtained from 27 countries, most commonly USA, over a 44-year time period between
+1978 and 2022. Data extraction was undertaken from 94 articles published in peer-reviewed
+journals, 2 book chapters, 9 conference abstracts (in combination with published articles and/
+or information from authors), 1 unpublished report, and 17 dissertations. Sample sizes in indi-
+vidual studies ranged between 51 and 12,051 participants. Examples of charitable behaviours
+examined in the studies are blood donation, organ donation, volunteering for community
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+9 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Table 3. Subgroup analysis based on tetradic behaviour type moderators.
+
+TPB association
+
+Attitude-Intention
+Q(3) = 21.07,
+p < .001
+
+Reference type
+
+Blood
+
+Subjective norm-Intention
+Q(3) = 11.57,
+p = .009
+
+PBC-Intention
+Q(3) = 1.12,
+p = .773
+
+Moral norm-Intention
+Q(3) = 25.21,
+p < .001
+
+Intention-Behaviour
+Q(3) = 11.25,
+p = .011
+
+Time
+
+Money
+
+Blood
+
+Time
+
+Money
+
+Blood
+
+Time
+
+Money
+
+Blood
+
+Time
+
+Money
+
+Blood
+
+Time
+
+Money
+
+Behaviour type
+
+Coefficient
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+0.20
+
+−0.06
+0.15
+
+0.06
+
+0.26
+
+0.21
+
+−0.15
+0.05
+
+−0.21
+0.21
+
+0.17
+
+0.16
+
+−0.17
+0.04
+
+−0.00
+−0.16
+0.04
+
+0.00
+
+−0.01
+0.03
+
+0.05
+
+−0.03
+−0.13
+0.02
+
+−0.05
+−0.15
+−0.02
+0.41
+
+0.27
+
+0.18
+
+−0.27
+0.15
+
+−0.09
+−0.18
+0.23
+
+0.09
+
+0.03
+
+0.22
+
+-0.15
+
+-0.22
+
+-0.19
+
+-0.37
+
+0.15
+
+0.17
+
+0.37
+
+p
+< .001
+
+.293
+
+.025
+
+.293
+
+< .001
+
+.006
+
+.025
+
+.513
+
+.006
+
+.005
+
+.014
+
+.080
+
+.014
+
+.638
+
+.971
+
+.080
+
+.685
+
+.971
+
+.335
+
+.711
+
+.678
+
+.711
+
+.249
+
+.896
+
+.678
+
+.293
+
+.896
+
+< .001
+
+.002
+
+.032
+
+.002
+
+.177
+
+.424
+
+.032
+
+.030
+
+.424
+
+.825
+
+.008
+
+.195
+
+.008
+
+.136
+
+.003
+
+.195
+
+.250
+
+.003
+
+(Continued )
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+10 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Table 3. (Continued)
+
+TPB association
+
+PBC-Behaviour
+Q(3) = 1.60,
+p = .660
+
+Reference type
+
+Blood
+
+Time
+
+Money
+
+Behaviour type
+
+Coefficient
+
+Organs
+
+Time
+
+Money
+
+Blood
+
+Organs
+
+Money
+
+Blood
+
+Organs
+
+Time
+
+-0.03
+
+0.12
+
+-0.02
+
+-0.12
+
+-0.15
+
+-0.14
+
+0.02
+
+-0.01
+
+0.14
+
+p
+.829
+
+.269
+
+.884
+
+.269
+
+.345
+
+.369
+
+.884
+
+.953
+
+.369
+
+Note: Q = Cochran’s Q.
+
+https://doi.org/10.1371/journal.pone.0286053.t003
+
+services, and monetary donations to charities. More detailed information about the included
+studies can be found in S1 Table. Please note some studies were reported in multiple records
+(e.g., a conference abstract and a published article reporting the same study).
+
+Moderator coding (see S2 Table) revealed the sample mean age varied between 18.94 and
+66.35 years. With dichotomous coding of the age moderator, there were 39 unique young sam-
+ples and 59 older samples (18 undetermined and 1 sample coded as “older” at baseline and
+“young” at follow-up). The percentage of female participants in the study samples varied
+between 0% (all male participants) and 100% (all female participants), with most studies sam-
+pling more female than male participants (> 50%) (11 undetermined). Applying dichotomous
+coding, 76 samples consisted of mainly female participants and 33 of mainly male participants
+(8 undetermined). Study recruitment targeted students in 42 samples and non-students, or a
+mix of students and general population members, in 73 samples (2 undetermined). The TACT
+principles were applied in 59 (56.7%) of 104 studies. In the prospective studies predicting
+behaviour, the level of attrition ranged from 0% and 70.5% and the length of follow-up time
+period in prospective studies was 0 days (immediate follow-up) to 2 years. Level of attrition
+(0% vs. any attrition) was categorised as no attrition in 19 cases and any attrition in 24 cases (3
+undetermined) to represent the time between the first survey of TPB predictors and the fol-
+low-up measure of behaviour. Based on a median split of 2 months for length of follow-up in
+prospective studies, 22 cases were categorised as a short time period and 24 cases were classi-
+fied as a long time period. Blood donation intention or behaviour was the main target behav-
+iour, examined exclusively in 50 (42.7%) of 117 samples.
+
+For the risk of bias assessment, most of the included studies met criteria to be considered as
+generally effective in addressing bias in their design, conduct, and analysis. A small number of
+studies did not provide clear inclusion criteria for participants, most studies provided study
+participant details of age and sex demographics without further descriptors (e.g., ethnicity,
+socio-economic status), and many studies described the location (but not often the time
+period) for study setting information. Further, a minority of studies did not refer to scale reli-
+ability or the reliability was low for some measures. Nearly all of the included studies were
+rated as using appropriate statistical analysis. Few studies used objective measures of behaviour
+(if assessing behaviour prospectively) but most studies included information about how the
+non-objective measures were validated. The criteria related to diagnoses and confounding fac-
+tors/associated strategies in relation to comparison groups were not applicable in nearly all of
+the identified studies (see S3 Table).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+11 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Sample-weighted effect sizes and publication bias assessment
+
+The sample-weighted correlations (see Table 1) showed that all theoretically relevant TPB asso-
+ciations were moderate-to-strong. The strongest association with charitable giving intention
+was PBC (r+ = 0.562, 95% CI [0.513; 0.608], p < .001), followed by moral norm (r+ = 0.537,
+95% CI [0.480; 0.590], p < .001), attitude (r+ = 0.507, 95% CI [0.473; 0.539], p < .001), and
+subjective norm (r+ = 0.472, 95% CI [0.420; 0.520], p < .001). Intention showed a stronger
+association with prospective behaviour (r+ = 0.424, 95% CI [0.367; 0.477], p < .001) compared
+to PBC (r+ = 0.301, 95% CI [0.227; 0.370], p < .001). Forest plots for each TPB association
+showed considerable heterogeneities among the correlations (see S1 to S6 Figs in S1 File), with
+a statistically significant Q statistic for each association (see Table 1). The range of the true
+effect size dispersion among the six main associations was from 91.12% for PBC-behaviour
+and 98.19% for PBC-intention, supporting the need to undertake moderator analyses.
+
+For the six TPB associations, there was no obvious indication of asymmetry as confirmed
+
+by the funnel plots (see S7 Fig in S1 File). An assessment of publication bias via Duval and
+Tweedie’s trim-and-fill analyses only revealed a minimal risk for publication bias across the six
+TPB associations. Therefore, it was concluded the data revealed no evidence of publication
+bias, without any need of adjustment for overall effect sizes.
+
+Regression analysis
+
+The sample-weighted correlations were used to create an input matrix for a regression analysis
+to examine the utility of the TPB in explaining charitable donation intentions (N = 47227) and
+prospective behaviour (N = 7927). The combination of attitude, subjective norm, and PBC
+explained 44.2% of variance in intention. A difference was observed in the predictive strength
+of attitude (B = .23), subjective norm (B = .25), and PBC (B = .39), with PBC as the strongest
+predictor. When moral/personal norm was incorporated with the standard TPB predictors for
+intention, the combination of standard predictors and moral norm explained 51.6% of vari-
+ance in intentions. PBC remained the strongest predictor (B = .34), followed by moral/per-
+sonal norm (B = .28), attitude (B = .21), and subjective norm (B = .15). The combination of
+intention and PBC explained 18.5% of variance in prospective behaviour, with intention the
+main predictor (B = .37) compared to PBC (B = .09).
+
+Moderator analyses
+
+Moderator analyses were conducted for the sample (age, participant gender, sample type/stu-
+dent status) and methodological (TA(C)T) adherence, attrition, length of follow-up) character-
+istics, as well as target behaviour type (blood donation vs. organ donation vs. volunteering
+time vs. donating money). Subgroup analyses were completed for associations where the num-
+ber of independent effect sizes per subgroup exceeded 3. Analyses assessing the moderators
+comprising sample characteristics (age, gender, student status), adherence to TA(C)T princi-
+ples as a methodological moderator, as well as target behaviour type, were undertaken for all
+TPB associations. Analyses assessing the moderators reflecting the methodological characteris-
+tics of attrition and length of follow-up were conducted only for the intention-behaviour and
+PBC-behaviour associations of those studies assessing prospective behaviour (see Table 2 for
+the results of moderator analyses including within and between subgroup statistics).
+
+Subgroup comparisons for the sample characteristic of participant age group (young, older)
+were possible for all TPB associations examined. The attitude-intention association was stron-
+ger in young samples (k = 38, r+ = 0.571, 95% CI [0.519; 0.619]) compared to older samples
+(k = 57, r+ = 0.450, 95% CI [0.404; 0.493]), Q = 12.24, df = 1, p < .001. There was no significant
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+12 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+moderation for any of the remaining TPB associations. Significant heterogeneity remained in
+all subgroups.
+
+For the sample characteristic of participant gender (majority male participants, majority
+female participants), subgroup analyses were possible for all TPB associations examined. The
+PBC-behaviour association was stronger when the samples consisted of mainly female partici-
+pants (k = 15, r+ = 0.364, 95% CI [0.231; 0.483]) compared to male participants (k = 9, r+ =
+0.204, 95% CI [0.143; 0.264]), Q = 4.59, df = 1, p = 0.032. There was no significant moderation
+for any of the other TPB associations. Significant heterogeneity remained in all subgroups.
+
+Subgroup analyses were possible for all of the six TPB associations for sample type (student,
+
+non-student/mixed). Comparisons revealed student samples had a statistically significantly
+larger sample-weighted effect size (k = 39, r+ = 0.574, 95% CI [0.529; 0.615]) than non-student
+samples (k = 69, r+ = 0.459, 95% CI [0.414; 0.501]) for the attitude-intention association,
+Q = 13.19, df = 1, p < 0.001. No other significant differences were found. Significant heteroge-
+neity remained among all subgroups.
+
+For the methodological moderator of use of TA(C)T principles (yes, no), subgroup analyses
+
+were possible for all TPB associations. A statistically significant difference in the sample-
+weighted effect sizes was found for the attitude-intention association (Q = 9.84, df = 1, p <
+.001). Contrary to expectations however, the association was weaker when the intention mea-
+sure adhered to TA(C)T (k = 62, r+ = 0.460, 95% CI [0.410; 0.507]) compared to not (k = 50, r
++ = 0.562, 95% CI [0.519; 0.602]). The PBC-behaviour association was, as expected, statistically
+significantly stronger when TA(C)T was applied (k = 21, r+ = 0.326, 95% CI [0.239; 0.408])
+compared to not (k = 5, r+ = 0.209, 95% CI [0.153; 0.264]), Q = 4.98, df = 1, p = 0.026. The dif-
+ference in the sample-weighted effect size between subgroups was similarly large and in the
+expected direction for the intention-behaviour association; however, the moderation effect did
+not reach statistical significance. Correlations for the PBC-behaviour association when the
+behaviour measure did not adhere to TA(C)T were homogenous as indicated by the Q statistic;
+however, this finding should be interpreted with caution due to the small number of indepen-
+dent effect sizes (k = 5). Heterogeneity remained within all other subgroups.
+
+Moderator analyses were conducted for methodological characteristics of level of attrition
+
+and follow-up time period for the PBC-behaviour and intention-behaviour associations in
+studies with a prospective measure of behaviour. The intention-behaviour association was sig-
+nificantly stronger with any (k = 21, r+ = 0.483, 95% CI [0.390; 0.566]) compared to no attri-
+tion (k = 17, r+ = 0.329, 95% CI [0.263; 0.392]), Q = 7.08, df = 1, p = 0.008. For the PBC-
+behaviour association, the difference in sample-weighted correlations as a function of attrition
+was large and in the expected direction but the moderation effect did not reach statistical sig-
+nificance. Significant heterogeneity remained in all subgroups.
+
+The PBC-behaviour association was statistically significantly larger when the length of fol-
+
+low-up was short (k = 13, r+ = 0.389, 95% CI [0.269; 0.498]) compared to long (k = 12, r+ =
+0.222, 95% CI [0.136; 0.305]), Q = 5.03, df = 1, p = 0.025. Similarly, the intention-behaviour
+association was significantly stronger when the follow-up time period was short (k = 20, r+ =
+0.526, 95% CI [0.439; 0.603]) compared to long (k = 20, r+ = 0.325, 95% CI [0.254; 0.392]),
+Q = 12.53, df = 1, p < 0.001. Significant heterogeneity remained in all subgroups.
+
+Subgroup analyses were conducted for all TPB associations for the type of target behaviour
+(blood donation vs. other types of donation). The analyses revealed significant moderation for
+the subjective norm-intention (Q = 13.79, df = 1, p < .001) and moral norm-intention
+(Q = 13.19, df = 1, p < .001) associations. The subjective norm-intention correlation was
+weaker when the target behaviour was blood donation (k = 43, r+ = 0.384, 95% CI [0.336;
+0.429]) compared to other types of charitable donations (k = 59, r+ = 0.533, 95% CI [0.470;
+0.590]). Similarly, the moral norm-intention association was weaker for blood donation
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+13 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+behaviour (k = 23, r+ = 0.442, 95% CI [0.377; 0.502]) compared to other types of behaviours
+(k = 25, r+ = 0.613, 95% CI [0.545; 0.673]). Significant heterogeneity remained in all
+subgroups.
+
+As shown in Table 3, TPB associations among the four specific giving behaviours were
+compared. Consistent with the previous results (see Table 2), moderation for the PBC-inten-
+tion (Q = 1.12, df = 3, p = 0.773) and PBC-behaviour (Q = 1.60, df = 3, p = 0.660) was not sig-
+nificant. However, giving behaviour type showed a significant moderation effect on the other
+four associations. Compared with blood donation, the attitude-intention (b = 0.20, p < .001),
+subjective norm-intention (b = 0.21, p = 0.005), and moral norm-intention (b = 0.41,
+p < 0.001) associations were stronger for organ donation; the subjective norm-intention
+(b = 0.17, p = 0.014), moral norm-intention (b = 0.27, p = 0.002), and intention-behaviour
+(b = 0.22, p = 0.008) associations were stronger for donating time; and the attitude-intention
+(b = 0.15, p = 0.025) and moral norm-intention (b = 0.18, p = 0.032) associations were stronger
+for money donation. Compared with time donation, the attitude-intention (b = 0.26,
+p < 0.001) association was stronger for organ donation; and a weaker intention-behaviour (b
+= -0.37, p = 0.003) association and a stronger attitude-intention (b = 0.21, p = 0.006) associa-
+tion were found for money donation. Compared with money donation, the moral norm-inten-
+tion (b = 0.23, p = 0.030) association for organ donation was stronger.
+
+Discussion
+
+In an effort to establish the validity of general decision-making models to represent the cogni-
+tions contributing to deliberative helping actions across a range of giving contexts, the present
+study assessed the utility of the Theory of Planned Behaviour (TPB), with the addition of
+moral norm, in reflecting the psychological determinants of people’s charitable donation deci-
+sions. Across 117 samples, strong support was found for the model in predicting people’s
+intention to donate across a broad range of charitable giving behaviours, with a moderate
+amount of variance explained for predicting people’s reported donation behaviours. Effect
+sizes across studies were consistently positive with few exceptions and summary effects were
+moderate-to-strong for all expected TPB associations. In particular, PBC and moral norm fea-
+tured as strong determinants of people’s charitable intentions, with intention the strongest
+proximal determinant of behaviour. There were generally stronger associations for charitable
+intentions when prospective behaviour was measured at a short follow-up period. For specific
+behaviour types, differences included the (subjective and moral) norm-intention and attitude-
+intention links as weaker for blood than other forms of donation. Overall, the findings suggest
+a generic decision-making model is an efficient and parsimonious representation of especially
+people’s giving intentions, with minor variability in the strength of the major pathways of the
+model across different giving actions predominantly related to the impact of norms.
+
+The amount of variance the standard TPB predictors explained in predicting intention
+(44%) exceeds meta-analytic results in general (e.g., 39%) [20]. Predicting donation behaviour
+from the standard TPB constructs (19%), however, fell somewhat short of expectations based
+on general TPB meta-analytic findings of 27% [20]. As a behavioural domain, then, donation
+as a behaviour may be more subject to the ‘intention-behaviour gap’ [41] than other types of
+behaviour (e.g., health behaviours), with self-regulatory tools such as implementation inten-
+tions (making if-then plans) potentially required to improve the likelihood that charitable giv-
+ing intentions will translate into donation behaviours. With all summary effects moderate-to-
+strong in the present study, comparisons to the more general meta-analysis of Armitage and
+Conner show similar patterns for the strength of the predictors of behaviour, but with stronger
+relationships for the association between both subjective norm and PBC with intention in the
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+14 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+case of people’s donation behaviours. Comparison to Bednall and Bove’s [25] meta-analysis of
+TPB blood donation studies shows similar associations for the predictors of behaviour but
+larger values for the association between both subjective norm and moral norm with intention,
+consistent with the moderator analyses between blood donation and other types of giving in
+the present study.
+
+The types of studies included in the review favoured blood donation rather than the other
+forms of donation, with a few study examples of specific types of blood donation (i.e., plasma,
+cord) reflecting the changing foci of blood collection agencies in some jurisdictions. There was
+a predominance of studies examining donating money over goods. Of note, most of the set-
+tings for the included studies were developed nations, with developing countries underrepre-
+sented. While a few studies examined volunteering in general, most referenced volunteering in
+a specific context (e.g., at a homeless shelter) with a couple of studies focusing on online
+options. While only a minority of the studies included a follow-up assessment of donation
+behaviour, the studies examining organ donation were very unlikely to include a subsequent
+assessment of behaviour given the nature of the behaviour and the delay in action for most
+people to register their organ donation preference. It is noteworthy there was a mix of studies
+focusing exclusively on students as opposed to community samples in general. Very few stud-
+ies assessed multiple donation behaviours simultaneously, prohibiting the opportunity to
+examine if there is consistency in people’s donation actions and determinants across the differ-
+ing types of giving opportunities.
+
+The dominant role of control perceptions determining donation intentions across donation
+
+types points to the central role of feeling capable to be able to perform altruistic actions. The
+moral dimension of altruistic actions remains paramount and confirms support for inclusion
+of moral norm as a critical addition to the TPB when assisting others is targeted. The lesser but
+significant role for attitudes and subjective norm confirms continued support for the original
+model components but indicates a sense of morality is likely more important to consider when
+evaluating relevant conceptual contributions. Intention remains a key consideration for pre-
+dicting people’s subsequent donation behaviour, highlighting the planned nature of many of
+the altruistic actions people choose to perform. However, the review’s findings suggest greater
+conceptual work is needed to accurately reflect the determinants of people’s actual donation
+decisions, as opposed to their intentions to give.
+
+Importantly, the results of the present study may serve to inform strategies for charities and
+not-for-profit organisations in promoting people’s engagement in donation behaviours. Given
+its dominant role in predicting donation behaviours, a focus on the antecedents of people’s
+intentions may be worthwhile in this context. Broadly speaking, strengthening intention via a
+focus on both constructs of PBC and moral norm may be associated with higher intentions to
+donate. For instance, strategic considerations of instilling confidence that acts of giving are
+easy to do and describing donation as deeds one ‘should’ perform may be useful.
+
+Proposed moderators
+
+Moderators based on sample characteristics were examined and differences were minimal.
+There was a statistically significant difference for age and sample type (student status) between
+attitude and intention where there was a stronger association among younger and student
+samples. As students are predominantly younger, these findings undoubtedly overlap and sug-
+gest a greater consistency between favourability of opinions about donating and associated
+plans to donate among younger adults although attitude-intention correlations among all age
+(or sample type) cohorts were fairly strong. For participant gender, there was a stronger associ-
+ation between PBC and behaviour among female than male participants, with the correlation
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+15 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+for male participants fairly low (r+ = .204). The difference suggests greater accuracy of control
+perceptions leading to subsequent donation among female participants.
+
+For the moderators characterised by methodological differences, it was expected that TPB
+associations would be stronger when TA(C)T was used in the measurement of constructs in
+studies, and with higher attrition rates and shorter follow-up periods for studies including a
+measure of prospective behaviour. Although the TA(C)T prediction was supported for the
+PBC-behaviour association, contrary to expectations, the relationship between attitude and
+intention was stronger for studies not adhering to TA(C)T principles in measurement rather
+than those that did. The latter finding is contrary to other TPB meta-analytic results [29] and
+contrary to Ajzen’s [31] proposition about the need for specificity of measurement in TPB
+studies. It is possible it is difficult especially for some donation behaviours to adhere to a clear
+outline of likely behaviour engagement in relation to Target and Time elements (e.g., unex-
+pected requests/appeals for monetary assistance, one-off nature of organ donation registra-
+tion). In addition, due to the feasibility issue of some donation types not having a readily
+available context associated with donation (e.g., a specific charity request, donation centre, or
+blood drive known ahead of time), Context was not required as part of the definitional adher-
+ence which may have affected categorisation for this moderator. Consistent with expectations,
+the intention-behaviour link was stronger when there was some rather than no attrition in
+samples between assessing the predictors of intention and prospective behaviour, and when
+the follow up period between measurement phases was shorter rather than longer (with the
+PBC-behaviour link also strengthened with shorter follow-up periods). These findings indicate
+studies with a shorter follow-up time period and those subject to greater attrition may inflate
+TPB relationships when trying to extrapolate findings from shorter-term studies over longer
+durations and descriptions of the intention-behaviour relationship as demonstrating consis-
+tency without a consideration of the impact of participant attrition.
+
+In an exploratory manner, the type of donation was explored to assess any differences
+between the dominant form of donation examined thus far in TPB studies (blood) and other
+types of charitable giving (money, time, goods etc). Both the subjective norm-intention and
+moral norm-intention links were stronger for types of donation other than blood. One possible
+explanation is that blood donation is often a solitary behaviour and less subject to normative
+pressures and social influences than other forms of giving such as volunteering in groups. In
+addition, blood donors may have fewer opportunities, compared to online charitable donors, to
+‘advertise’ their actions despite efforts to enhance donor status recognition via digital ‘badges’
+and other initiatives [42,43]. Efforts to strengthen the link between people’s norms and inten-
+tions for blood donation may benefit from a focus on fostering a supportive normative climate
+for blood donation (such as encouraging group-based donations in work teams and among
+friendship groups). Further, as the attitude-intention link also was weaker for blood than some
+other donation types, focusing on a cost-benefit analysis in favour of positive outcomes may
+assist in efforts to facilitate people’s strengthened plans to participate in blood drives.
+
+Limitations
+
+A number of limitations should be taken into consideration when interpreting the results of
+the present study. The definition of the target behaviour was intentionally broad to encapsulate
+a range of giving behaviours but may have resulted in comparing forms of giving that may be
+quite disparate, especially in their level of commitment and degree of planning required (e.g.,
+monetary donation to a mental health association vs. volunteering with elderly people in their
+homes). Relatedly, the stage of a donor’s ‘career’ is more relevant to some of the donation
+behaviours (e.g., blood donation, volunteering time) than others but was not assessed as a
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+16 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+moderator especially given the limited number of studies assessing latter points of a donor’s
+trajectory (such as retention). With few studies employing a longitudinal approach to their
+data collection methodology, it prohibited an analysis of donation over time among the same
+cohort of donors.
+
+Some limitations common to meta-analytic studies in general included: the likelihood of
+unaccounted sources of error such as measurement reactivity and error despite correcting for
+sampling error in the summary effects [44,45]; differences between studies in operationalisation
+of the model constructs; testing the predictive utility of the model based on a correlation matrix
+not necessarily representative of the full sample included; a small number of independent sam-
+ples in each subgroup (k < 10) for some of the subgroup analyses; the predominance of data
+from a limited range of countries; and the significant heterogeneity that remained in nearly all
+subgroup analyses undertaken preventing an explanation of the dispersion in effect sizes.
+
+For the sub-sample analyses, there were more instances of studies with older donors and
+female participants, which, although likely representative of donor demographic profiles [4],
+highlights a gap to examine younger and male samples to understand the determinants of their
+donation behaviours. While length of follow-up behaviour showed some differences in the
+association between both intention and PBC on donation behaviour, there was a disparity in
+the number of studies including an assessment of prospective behaviour although, for some
+donation behaviour types, a measure of follow-up behaviour is not always feasible (e.g., organ
+donation). For the moderator variables of age, gender, length of follow-up, and attrition, it
+would further have been preferable to use the original continuous coding in the moderator
+analyses; however, assumption violations warranted a less nuanced binary categorisation.
+
+Conclusion
+
+Overall, this systematic review and meta-analysis provided support for the theory of planned
+behaviour as a parsimonious model reflecting the psychological determinants of people’s char-
+itable donations across a range of donation behaviours. This support is particularly pro-
+nounced for predicting people’s charitable intentions, rather than donation behaviour.
+Control perceptions relating to donating, as well as a sense of moral obligation, emerged as the
+stronger influences of intentions, with intentions the strongest predictor of people’s donation
+behaviours. Stronger associations were established for the predictors of donation behaviour
+when the follow-up length was shorter and the relationship between norms (subjective and
+moral) and people’s intentions was more pronounced for charitable intentions for other forms
+of donation such as organs and time than blood donation. These findings can serve to inform
+practical strategies for charitable and not-for-profit organisations undertaking vital work
+assisting others by appealing to the relevant cognitions associated with people’s plans to give
+and their subsequent helping actions.
+
+For future research avenues, given the shift to online forms of donation including volun-
+teering and monetary donations, a comparison between face-to-face donations compared to
+online mediums may be a useful distinction in review analyses. Further exploration is needed
+to elucidate why the norm-intention links are stronger for charitable donations other than
+blood donation to assess the impact of the various sources of normative influence (personal,
+social). In addition, given the issue raised by researchers about the reverse-causal relations
+between intention and the TPB base constructs [46], future examinations of the efficacy of the
+model may benefit from a consideration of reciprocal causal relations. Based on the spontane-
+ity of some charitable donations (e.g., online appeals for money donation), examining the util-
+ity of models that incorporate a less deliberative pathway [47] may be useful. This comparison
+may be beneficial given some donation type outcomes can only be feasibly examined in
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+17 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+relation to an openness or willingness to donate (e.g., organ donation and donation in hypo-
+thetical scenarios). Comparisons between those studies employing an objective measure of
+charitable giving as opposed to self-report could be undertaken in future analyses on the basis
+of a sufficient number of studies including a prospective measure of observable/verifiable
+donations. Also, synthesizing experimental evidence for the TPB has the potential to inform
+more effective practical strategies to encourage charitable giving that target causal drivers of
+the behaviour. More primary experimental studies are needed to enable such synthesis.
+
+As identified by the risk of bias assessment, the reliance on self-report rather than objective
+behaviour data when behaviour was measured is an additional consideration, reflecting a limi-
+tation of the area more generally. Similar to Bednall and Bove’s [25] meta-analysis assessing
+TPB blood donation research and identified in the risk of bias assessment in the present
+research, few studies examined and/or reported demographics related to ethnic minorities
+[48,49], suggesting a need for a focus on greater diversity and/or broader reporting of back-
+ground demographics among future participant samples. As identified also in the risk of bias
+assessment, specifying the time period in which the study was conducted was rarely mentioned
+in studies, an inclusion becoming increasingly important in times of pandemics/natural disas-
+ters to assist in interpretation of findings around people’s donation choices and restrictions.
+Although moral norm was identified as a common additional predictor for the TPB in the
+context of donation behaviour, as stated earlier, there is a range of other relevant psychological
+predictors to giving that could be examined when there are sufficient studies to enable a mean-
+ingful analysis. These constructs include anticipated regret for non-donation [50,51], guilt
+[52], role identity [11,53], and distinct types of norms such as descriptive and injunctive
+norms [10,54,55]. A consideration of personal traits such as altruism and empathy may prove
+worthwhile [5,56] although not often examined in TPB studies [57]. A few studies have also
+considered established personality traits in the TPB for donation [58] but they are in the
+minority. Further, characteristics related to the charitable organisations themselves, such as
+trust of and commitment to charities [59] have been examined recently as determinants to
+people’s donation decisions within the context of the TPB [60] and these organisational-cen-
+tred variables may be worth considering in the context of established decision-making models
+once a critical mass of extant studies is obtained.
+
+Supporting information
+
+S1 Checklist. PRISMA checklist.
+(DOCX)
+
+S1 Table. Included studies and study characteristics.
+(DOCX)
+
+S2 Table. Coding of moderators.
+(DOCX)
+
+S3 Table. Risk of bias assessment.
+(PDF)
+
+S1 File. S1-S7 Figs. Forest and Funnel plots.
+(PDF)
+
+Acknowledgments
+
+We would like to thank the people who assisted us by providing data and information about
+their research, including Anwar Allah Pitchay, Janis France, Judith Holdershaw, Melissa Hyde,
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+18 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+Blair Kidwell, Sheila O’Brien, Maria Pavlova. Lee Shepherd, and Olga van den Akker. We also
+thank Lucy Caughey, Emmalie Maclean, and Timothy Piatkowski for their assistance with this
+study.
+
+Author Contributions
+
+Conceptualization: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+Data curation: Katherine M. White, Louise C. Starfelt Sutton.
+
+Formal analysis: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+Investigation: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+Methodology: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+Resources: Katherine M. White.
+
+Supervision: Katherine M. White.
+
+Writing – original draft: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+Writing – review & editing: Katherine M. White, Louise C. Starfelt Sutton, Xiang Zhao.
+
+References
+1. Charities Aid Foundation. CAF World Giving Index 2021. London, UK.2021 [cited 22 August 2022].
+
+Available from: https://www.cafonline.org/docs/default-source/about-us-research/
+cafworldgivingindex2021_report_web2_100621.pdf.
+
+2.
+
+Lum TY, Lightfoot E. The effects of volunteering on the physical and mental health of older people. Res
+Aging. 2005; 27(1):31–55. https://doi.org/10.1177/0164027504271349
+
+3. Ramos R, Gu¨ ntert S, Brauchli R, Bauer G, Wehner T, Ha¨mmig O. Exploring the interaction between vol-
+
+unteering status, paid job characteristics and quality of volunteers’ motivation on mental health. Volun-
+tas. 2016; 27(2):790–809. https://doi.org/10.1007/s11266-015-9647-2
+
+4. Bekkers R, Wiepking P. Who gives? a literature review of predictors of charitable giving. Part one: Reli-
+
+gion, education, age and socialisation. Volunt Sect Rev. 2011b; 2(3):337–65. https://doi.org/10.1332/
+204080511X6087712
+
+5. Bekkers R, Wiepking P. A literature review of empirical studies of philanthropy: eight mechanisms that
+
+drive charitable giving. Nonprof Volunt Sec Q. 2011a; 40(5):924–73. https://doi.org/10.1177/
+0899764010380927
+
+6. VandenBos GR. APA dictionary of psychology. 2nd ed. VandenBos GR, editor. Washington, DC:
+
+American Psychological Association; 2015.
+
+7. Konrath S, Handy F. The development and validation of the motives to donate scale. Nonprof Volunt
+
+Sec Q. 2018; 47(2):347–75. https://doi.org/10.1177/0899764017744894
+
+8. O’Loughlin Banks J, Raciti M. Perceived fear, empathy and financial donations to charitable services.
+
+Serv Ind J. 2018; 38(5–6):343–59. https://doi.org/10.1080/02642069.2017.1402888
+
+9. Andreoni J. Impure altruism and donations to public goods: a theory of warm-glow giving. Econ J (Lon-
+
+don). 1990; 100(401):464–77. https://doi.org/10.2307/223413
+
+10. Smith JR, McSweeney A. Charitable giving: the effectiveness of a revised theory of planned behaviour
+model in predicting donating intentions and behaviour. J Community Appl Soc Psychol. 2007; 17
+(5):363–86. https://doi.org/10.1002/casp.906
+
+11. Charng H-W, Piliavin J, Callero P. Role identity and reasoned action in the prediction of repeated behav-
+
+ior. Soc Psychol Q. 1988; 51(4):303–17. https://doi.org/10.2307/2786758
+
+12. Clary E, Snyder M, Ridge R, Copeland J. Understanding and assessing the motivations of volunteers: A
+functional approach. J Pers Soc Psychol. 1998; 74(6):1516–30. https://doi.org/10.1037//0022-3514.74.
+6.1516 PMID: 9654757
+
+13. Omoto AM, Snyder M. Considerations of community: the context and process of volunteerism. Am
+
+Behav Sci. 2002; 45(5):846–67. https://doi.org/10.1177/0002764202045005007
+
+14. Hyde MK, Dunn J, Bax C, Chambers SK. Episodic volunteering and retention: an integrated theoretical
+approach. Nonprof Volunt Sec Q. 2016; 45(1):45–63. https://doi.org/10.1177/0899764014558934
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+19 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+15. Gerrard M, Gibbons FX, Houlihan AE, Stock ML, Pomery EA. A dual-process approach to health risk
+
+decision making: the prototype willingness model. Dev Rev. 2008; 28(1):29–61. https://doi.org/10.1016/
+j.dr.2007.10.001
+
+16. Ajzen I. The theory of planned behavior. Org Behav Hum Decis Process. 1991; 50(2):179–211. https://
+
+doi.org/10.1016/0749-5978(91)90020-T
+
+17. Ajzen I, Fishbein M. Understanding attitudes and predicting social behavior. Englewood-Cliff, NJ: Pren-
+
+tice-Hall; 1980.
+
+18. Sniehotta F, Presseau J, Arau´jo-Soares V. Time to retire the theory of planned behaviour. Health Psy-
+
+chol Rev. 2014; 8(1):1–7. https://doi.org/10.1080/17437199.2013.869710 PMID: 25053004
+
+19. Ajzen I. The theory of planned behaviour is alive and well, and not ready to retire: a commentary on
+Sniehotta, Presseau, and Arau´ jo-Soares. Health Psychol Rev. 2015; 9(2):131–7. Epub 2015/07/26.
+https://doi.org/10.1080/17437199.2014.883474 PMID: 26209198.
+
+20. Armitage C, Conner M. Social cognitive determinants of blood donation. J Appl Soc Psychol. 2001; 31
+
+(7):1431–57. https://doi.org/10.1111/j.1559-1816.2001.tb02681.x WOS:000170894100006.
+
+21. McEachan RRC, Conner M, Taylor NJ, Lawton RJ. Prospective prediction of health-related behaviours
+with the theory of planned behaviour: a meta-analysis. Health Psychol Rev. 2011; 5(2):97–144. https://
+doi.org/10.1080/17437199.2010.521684
+
+22. Parker D, Manstead ASR, Stradling SG. Extending the theory of planned behaviour: the role of personal
+norm. Br J Soc Psychol. 1995; 34(2):127–38. https://doi.org/10.1111/j.2044-8309.1995.tb01053.x
+
+23. Conner M, Armitage C. Extending the theory of planned behavior: A review and avenues for further
+
+research. J Appl Soc Psychol. 1998; 28(15):1429–64. https://doi.org/10.1111/j.1559-1816.1998.
+tb01685.x
+
+24. Rivis A, Sheeran P, Armitage CJ. Expanding the affective and normative components of the theory of
+
+planned behavior: a meta-analysis of anticipated affect and moral norms. J Appl Soc Psychol. 2009; 39
+(12):2985–3019. https://doi.org/10.1111/j.1559-1816.2009.00558.x
+
+25. Bednall TC, Bove LL, Cheetham A, Murray AL. A systematic review and meta-analysis of antecedents
+of blood donation behavior and intentions. Soc Sci Med. 2013; 96:86–94. https://doi.org/10.1016/j.
+socscimed.2013.07.022 PMID: 24034955
+
+26.
+
+Feldman NE. Time is money: choosing between charitable activities. Am Eco J Econ Policy. 2010; 2
+(1):103–30. https://doi.org/10.1257/pol.2.1.103
+
+27. Handy F, Katz E. Donating behavior: if time is money, which to give? a preliminary analysis. J Econ
+
+Stud. 2008; 35:325–32. https://doi.org/10.1108/01443580810895617
+
+28. Hyde MK, White KM. A test of three interventions to promote people’s communication of their consent
+
+for organ donation. Psychol Health. 2013a; 28(4):399–417. https://doi.org/10.1080/08870446.2012.
+731060 PMID: 23057535
+
+29. Starfelt Sutton LC, White KM. Predicting sun-protective intentions and behaviours using the theory of
+
+planned behaviour: a systematic review and meta-analysis. Psychol Health. 2016; 31(11):1272–92.
+https://doi.org/10.1080/08870446.2016.1204449 PMID: 27334551
+
+30. Oluka OC, Nie S, Sun Y. Quality assessment of TPB-based questionnaires: a systematic review. PloS
+
+One. 2014; 9(4):e94419. https://doi.org/10.1371/journal.pone.0094419 PMID: 24722323
+
+31. Ajzen I. Constructing a theory of planned behavior questionnaire: Conceptual and methodological con-
+siderations 2006 [cited 22 August 2022]. Available from: http://www-unix.oit.umass.edu/~aizen/pdf/tpb.
+measurement.pdf.
+
+32. Borenstein M, Hedges L, Higgins J, Rothstein H. Publication bias. Introduction to meta-analysis. 277.
+
+1st ed. West Sussex UK: John Wiley and Sons; 2009. p. 292.
+
+33. Moola S MZ, Tufanaru C, Aromataris E, Sears K, Sfetcu R, et al. Chapter 7: Systematic reviews of etiol-
+ogy and risk. 2020. In: JBI Manual for Evidence Synthesis [Internet] [Internet]. JBI. Available from:
+https://synthesismanual.jbi.global. https://doi.org/10.46658/JBIMES-20-08.
+
+34. Moher D, Liberati A, Tetzlaff J, Altman DG, Prisma Group Preferred reporting items for systematic
+
+reviews and meta-analyses: the PRISMA statement. PLoS Medicine. 2009; 6(7):e1000097. https://doi.
+org/10.1371/journal.pmed.1000097 PMID: 19621072
+
+35. Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive meta-analysis version 3.3. 070 2014.
+
+Available from: https://www.meta-analysis.com/pages/software_updates.php.
+
+36. Hunter JE, Schmidt FL. Fixed effects vs. random effects meta-analysis models: implications for cumula-
+tive research knowledge. Intl J Sel Assess. 2000; 8(4):275–92. https://doi.org/10.1111/1468-2389.
+00156
+
+37. Cumming G. Understanding the new statistics: Effect sizes, confidence intervals and meta-analysis.
+
+New York NY: Routledge; 2012.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+20 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+38. Cohen J. A power primer. Psychol Bull. 1992; 112(1):155. https://doi.org/10.1037//0033-2909.112.1.
+
+155 PMID: 19565683
+
+39. Duval S, Tweedie R. Trim and fill: a simple funnel-plot–based method of testing and adjusting for publi-
+cation bias in meta-analysis. Biometrics. 2000; 56(2):455–63. https://doi.org/10.1111/j.0006-341x.
+2000.00455.x PMID: 10877304
+
+40. Moola S, Munn Z, Tufanaru C, Aromataris E, Sears K, Sfetcu R, et al. Chapter 7: Systematic reviews of
+
+etiology and risk. 2020. In: JBI Manual for Evidence Synthesis [Internet]. JBI. Available from: https://
+synthesismanual.jbi.global. https://doi.org/10.46658/JBIMES-20-08.
+
+41. Sheeran P, Webb TL. The intention–behavior gap. Soc Pers Psychol Compass. 2016; 10(9):503–18.
+
+https://doi.org/10.1111/spc3.12265
+
+42. Chell K, Russell-Bennett R, Mortimer G. Exploring psychological determinants of sharing donor recogni-
+
+tion on social networking sites. Int J Nonprofit Volunt Sect Mark. 2019. https://doi.org/10.1002/nvsm.
+1666
+
+43. Chell K, Mortimer G. Investigating online recognition for blood donor retention: An experiential donor
+value approach. Int J Nonprofit Volunt Sect Mark. 2014; 19(2):143–63. https://doi.org/10.1002/nvsm.
+1489
+
+44. Hunter JE, Schmidt FL. Methods of meta-analysis: correcting error and bias in research findings. Thou-
+
+sand Oaks CA: Sage; 2004.
+
+45. Mankarious E, Kothe E. A meta-analysis of the effects of measuring theory of planned behaviour con-
+structs on behaviour within prospective studies. Health Psychol Rev. 2015; 9(2):190–204. https://doi.
+org/10.1080/17437199.2014.927722 PMID: 26209208
+
+46. Sussman R, & Gifford R. Causality in the Theory of Planned Behavior. Personality and Social Psychol-
+ogy Bulletin. 2019; 45(6):920–33. https://doi.org/10.1177/0146167218801363 PMID: 30264655
+
+47. Gibbons FX, Houlihan AE, Gerrard M. Reason and reaction: The utility of a dual-focus, dual-processing
+perspective on promotion and prevention of adolescent health risk behaviour. Br J Health Psychol.
+2009; 14(2):231–48. https://doi.org/10.1348/135910708X376640 PMID: 19026095
+
+48. Park HS, Smith SW, Yun D. Ethnic differences in intention to enroll in a state organ donor registry and
+
+intention to talk with family about organ donation. Health Commun. 2009; 24(7):647–59. https://doi.org/
+10.1080/10410230903242259 PMID: 20183372
+
+49. Polonsky MJ, Renzaho AMN, Ferdous AS, McQuilten Z. African culturally and linguistically diverse
+
+communities’ blood donation intentions in Australia: integrating knowledge into the theory of planned
+behavior. Transfusion. 2013; 53(7):1475. https://doi.org/10.1111/j.1537-2995.2012.03915.x PMID:
+23043223
+
+50. Newton JD, Ewing MT, Burney S, Hay M. Resolving the theory of planned behaviour’s ’expectancy-
+value muddle’ using dimensional salience. Psychol Health. 2012; 27(5):588–602. https://doi.org/10.
+1080/08870446.2011.611244 PMID: 21879806
+
+51. O’Carroll RE, Shepherd L, Hayes PC, Ferguson E. Anticipated regret and organ donor registration: a
+randomized controlled trial. Health Psychol. 2016; 35(11):1169. https://doi.org/10.1037/hea0000363
+PMID: 27280372
+
+52. Kinnally W, Brinkerhoff B. Improving the drive: a case study for modeling public radio member donations
+
+using the theory of planned behavior. J Radio Audio Media. 2013; 20(1):2–16. https://doi.org/10.1080/
+19376529.2013.777733
+
+53. Piliavin JA, Callero PL. Giving blood: the development of an altruistic identity. Hepatology. 1992; 16
+
+(3):853–4. https://doi.org/10.1002/hep.1840160339
+
+54. Park HS, Smith SW. Distinctiveness and influence of subjective norms, personal descriptive and injunc-
+
+tive norms, and societal descriptive and injunctive norms on behavioral intent: a case of two behaviors
+critical to organ donation. Hum Comm Res. 2007; 33(2):194–218. https://doi.org/10.1111/j.1468-2958.
+2007.00296.x
+
+55.
+
+56.
+
+van der Linden S. Charitable Intent: A moral or social construct? a revised theory of planned behavior
+model. Curr Psychol. 2011; 30(4):355–74. https://doi.org/10.1007/s12144-011-9122-1
+
+Traditional Bekkers R. and health-related philanthropy: the role of resources and personality. Soc Psy-
+chol Q 2006; 69(4):349–66. https://doi.org/10.1177/019027250606900404
+
+57. Delaney MF, White KM. Predicting people’s intention to donate their body to medical science and
+
+research. J Soc Psychol. 2015; 155(3):221–37. https://doi.org/10.1080/00224545.2014.998962 PMID:
+25559925
+
+58. Veldhuizen I, van Dongen A. Motivational differences between whole blood and plasma donors already
+
+exist before their first donation experience. Transfusion. 2013; 53(8):1678. https://doi.org/10.1111/trf.
+12056 PMID: 23278406
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+21 / 22
+
+PLOS ONECharitable donations and the theory of planned behaviour
+
+59. Sargeant A, Ford JB, West DC. Perceptual determinants of nonprofit giving behavior. J Bus Res. 2006;
+
+59(2):155–65. https://doi.org/10.1016/j.jbusres.2005.04.006
+
+60. Chen Y, Dai R, Yao J, Li Y. Donate time or money? The determinants of donation intention in online
+
+crowdfunding. Sustainability. 2019; 11(16):4269. https://doi.org/10.3390/su11164269
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0286053 May 19, 2023
+
+22 / 22
+
+PLOS ONE

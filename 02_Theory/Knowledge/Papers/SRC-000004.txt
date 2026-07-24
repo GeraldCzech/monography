@@ -1,0 +1,8848 @@
+International Business Review 28 (2019) 328–343
+
+Contents lists available at ScienceDirect
+
+International Business Review
+
+journal homepage: www.elsevier.com/locate/ibusrev
+
+Managing the consumer-based brand equity process: A cross-cultural
+perspective
+Kalliopi Chatzipanagiotoua, George Christodoulidesb,⁎
+a University of Glasgow, Adam Smith Business School, The Gilbert Scott Building, Glasgow, G12 8QQ, Scotland, UK
+b American University of Sharjah, School of Business Administration, PO Box 26666, Sharjah, United Arab Emirates
+
+, Cleopatra Veloutsoua
+
+T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Brand equity
+Consumers
+Culture
+Price premium
+Recommendation
+Individualism/collectivism
+
+Most consumer-based brand equity (CBBE) models are linear and fail to capture the complexity of the brand
+equity construct and its benefits in terms of key consumer behavioral outcomes. More complex and dynamic
+models focusing on CBBE as a process often lack empirical support particularly from more than one country. This
+study builds on and extends previous research by empirically examining the configural nature of the CBBE
+building process cross-nationally, and by investigating differences vis-a-vis key consumer behavioral outcomes
+(namely, willingness to pay a price premium, brand recommendation and repurchase intention). These differ-
+ences are postulated and explained through culture theory particularly the cultural dimension of individualism/
+collectivism. Using fuzzy-set/Qualitative Comparative Analysis (fs/QCA), survey data from Greece and Germany
+support the robustness of the extended CBBE model. The model shows that overall brand equity and consumer
+behavioral outcomes are created through the brand building, brand understanding, and brand relationship
+blocks, and identifies core causes and common patterns across countries providing a useful diagnostic tool for
+international brand management.
+
+1. Introduction
+
+Building strong brands and understanding their effect on consumer
+behavior is one of the most challenging tasks facing firms in today’s
+dynamic international environment (Talay, Townsend, & Yeniyurt,
+2015). Typically, the overall strength of a brand operating in one or
+more national markets is measured by its brand equity (Hsieh, 2004).
+Identifying the most effective strategy to maximize their brand equity
+across countries constitutes a strategic priority for international busi-
+nesses who want to build their products’ global brand architecture (e.g.,
+Townsend, Yeniyurt, & Talay, 2009) and make concomitant decisions
+about the standardization/adaptation of branding activities (e.g., Ford,
+Mueller, Taylor, & Hollis, 2011; Schmid & Kotulla, 2011).
+
+The brand equity concept reflects a brand name’s value added to an
+offer relative to an identical but unbranded offer (Farquhar, 1989) and
+thus is an important diagnostic tool for managing brands. However,
+brand equity is not the end goal in itself as this value needs to translate
+into benefits for firms, for example, in terms of consumer behaviors
+(Cobb-Walgren, Ruble, & Donthu, 1995). This intangible asset leads to a
+plethora of desirable consumer outcomes, including brand preference,
+positive word-of-mouth, (re)purchase intention, reduced switching
+
+intention and acceptance of higher-price premium and brand extensions
+(Buil, Martínez, & de Chernatony, 2013; Cobb-Walgren et al., 1995;
+Keller, 2001; Rambocas, Kirpalani, & Simms, 2018), which ultimately
+allow a brand to earn greater volume or margins (Christodoulides & de
+Chernatony, 2010). Although research has examined brand equity from
+various stakeholders’ perspectives, such as firms or employees, con-
+sumer-based brand equity (CBBE) dominates the pertinent literature
+because consumers are key stakeholders around whom actionable
+strategies can be devised (Keller, 1993).
+
+A review of the pertinent literature demonstrates that: (a) despite
+the rich literature on CBBE, a lack of consensus on its conceptualization
+and operationalization remains (Christodoulides & de Chernatony,
+2010; Datta, Ailawadi, & van Heerde, 2017); (b) there are relatively few
+studies that empirically explain the specificities of the CBBE formation
+process in an international environment (Broyles, Leingpibul, Ross, &
+Foster, 2010; Hsieh, 2004; Zhang, van Doorn, & Leeflang, 2014) and/or
+examine the role of culture in this process (Erdem, Swait, & Valenzuela,
+2006; Yoo & Donthu, 2002) (c) most of the studies focus on a limited
+number of CBBE facets (Aaker, 1991; Buil, Martínez, & de Chernatony,
+2008; Christodoulides, Cadogan, & Veloutsou, 2015; Çifci et al., 2016;
+Yoo & Donthu, 2001) thus failing to provide a more holistic view of the
+
+⁎
+
+Corresponding author.
+E-mail addresses: Kalliopi.Chatzipanagiotou@glasgow.ac.uk (K. Chatzipanagiotou), gchristodoulides@aus.edu (G. Christodoulides),
+
+Cleopatra.Veloutsou@glasgow.ac.uk (C. Veloutsou).
+
+https://doi.org/10.1016/j.ibusrev.2018.10.005
+Received 23 November 2017; Received in revised form 30 August 2018; Accepted 8 October 2018
+Available online 15 November 2018
+0969-5931/ © 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license 
+(http://creativecommons.org/licenses/BY/4.0/).
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+CBBE formation process. Attempts to understand this phenomenon
+more holistically have, so far, resulted in models which are purely
+conceptual (Keller, 2001) or lack empirical support from more than one
+country (Chatzipanagiotou, Veloutsou, & Christodoulides, 2016); (d)
+there is a scarcity of studies that integrate key consumer behavioral
+outcomes into the CBBE formation process (Buil et al., 2013; Rambocas
+et al., 2018); and finally (e) the majority of the studies adopt regression-
+based methods and their basic assumptions (e.g., uniformity of causal
+effects, unit homogeneity, additivity, causal symmetry) (Vukasović,
+2016, Heinberga, Ozkayab, & Taubec, 2018; Lehmann, Keller, & Farley,
+2008), which arguably cannot fully capture the admittedly complex,
+idiosyncratic, and multiple-faced nature of CBBE (Lehmann et al.,
+2008).
+
+In line with the critical gaps in the literature, this article adopts a
+holistic approach and recognizes CBBE as a complex system of three
+building blocks, the brand building block (BBB), the brand under-
+standing block (BUB), and the brand relationship block (BRB)
+(Chatzipanagiotou et al., 2016) to empirically assess the CBBE forma-
+tion process in two different national contexts. In addition, the study
+aims to illuminate the link between the CBBE formation process and the
+key consumer behavioral outcomes of consumers’ willingness to pay a
+price premium, brand recommendation and repurchase intention
+identifying cross-cultural similarities and differences. Furthermore, this
+work leverages the advantages of fs/QCA, which is a ‘synthetic’ meth-
+odological approach that bridges qualitative and quantitative research
+(Ragin, 1987, p. 84), and is particularly suited to the complex, idio-
+syncratic, and dynamic nature of international CBBE.
+
+Therefore, the study aims to make four theoretical and managerial
+contributions to the international branding literature. First, it responds
+to calls for research on the development and testing of holistic, ad-
+vanced tools to successfully build and manage brands globally (e.g.,
+Ford et al., 2011) by providing a fine-grained assessment of the CBBE
+formation process and some of its key outcomes across countries
+(Broyles et al., 2010; Zhang et al., 2014). Second, the study delineates
+the diagnostic capabilities to monitor and manage international brands
+by helping businesses identify core causes and common patterns among
+different countries while also unfolding the idiosyncrasies in each
+country. Third, it demonstrates the potential applicability of the model
+in explaining, in branding terms, key consumer behavioral outcomes.
+Fourth, it identifies differences in regard to the CBBE formation process
+and its key consumer behavioral outcomes on the basis of culture,
+specifically the cultural dimension of individualism/collectivism, which
+constitutes a key indicator of cross-country differences in consumer
+perceptions and behavior in regard to brands (De Mooij & Hofstede,
+2010, 2011).
+
+The paper begins with a review of the literature on CBBE and the
+way national and international studies have captured it. Next it unfolds
+the need for a process-based approach to conceptualize the creation of
+overall CBBE in a multi-country context and presents details of the
+methodology used to test the configural nature of CBBE cross-nation-
+ally. Finally, it discusses the findings together with the theoretical and
+managerial implications of the research.
+
+2. Literature review
+
+2.1. CBBE’s conceptualization, measurements and behavioral outcomes
+
+The literature on CBBE is dense, and most studies approach the
+concept as a complex construct (Keller & Lehmann, 2006) that consists
+of multiple dimensions (Datta et al., 2017; Lehmann et al., 2008). De-
+spite overall consensus that the concept of CBBE is multidimensional,
+little agreement exists on its dimensionality (Christodoulides & de
+Chernatony, 2010). Most empirical studies employ Aaker (1991) con-
+ceptualization, in which brand awareness, brand associations, per-
+ceived quality, and brand loyalty constitute the consumer-based di-
+mensions of brand equity.
+
+Research has spawned several approaches to CBBE’s measurement,
+including direct, indirect, and practitioner measures (Agarwal & Rao,
+1996). Direct measures attempt to gauge the phenomenon directly by
+focusing on consumer preferences (Park & Srinivasan, 1994) or utilities
+(Erdem & Swait, 1998), while indirect measures operationalize CBBE
+through its demonstrable sources and are deemed superior from a di-
+agnostic perspective. Parallel to the academic measures, several pro-
+prietary models based on worldwide market research seek to measure
+brand equity (e.g., Young & Rubicam’s Brand Asset Valuator) (Mizik &
+Jacobson, 2008), but again these share little in common in terms of
+their constituent dimensions.
+
+The issue of operationalizing CBBE in an international context is
+even more challenging for managers who aim to capture the complexity
+of CBBE through their tracking systems while producing comparable
+diagnostic results to manage their brands across countries. A small
+number of studies focus on the operationalization of CBBE in more than
+one country (see Table 1) and these studies are not free of limitations.
+As Table 1 demonstrates, a group of researchers adopt a uni-
+dimensional approach to capture CBBE (i.e., Heinberga et al., 2018;
+Lieven & Hildebrand, 2016; Zhang et al., 2014); an approach that is not
+in line with the multifaceted nature of the phenomenon. Another group
+of researchers deviate from unidimensional measures and, instead,
+gauge CBBE through multiple dimensions commonly based on Aaker’s
+conceptualization (i.e. Buil et al., 2008; Christodoulides et al., 2015;
+Çifci et al., 2016; Yoo & Donthu, 2001) which, however, is not void of
+critique. For instance, prior research points out the lack of a unifying
+theory to bring Aaker’s dimensions together (McWilliam, 1993) and
+lack of discriminant validity amongst key dimensions namely aware-
+ness and associations (Christodoulides et al., 2015). In addition, the
+majority of studies focus on preselected brands (Vukasović, 2016;
+Broyles et al., 2010) an approach which encompasses difficulties in
+relation to the generalization of findings. Finally, all existing studies
+examining CBBE in a cross-national context employ a linear approach to
+its operationalization, thus failing to capture the complexity sur-
+rounding the phenomenon.
+
+In addition, and while the effect of consumers’ OBE on behavioral
+outcomes has long been acknowledged (Cobb-Walgren et al., 1995;
+Keller, 2001) there remains a lack of studies allowing a thorough un-
+derstanding of this relationship, especially under particular cultural
+variations. Most of the studies focus on specific aspects of the brand or
+brand equity and consumers’ behavioral outcomes. For instance, a
+limited number of studies empirically examine the relationship of CBBE
+with behavioral outcomes, such as brand preference (Cobb-Walgren
+et al., 1995; Buil et al., 2013), positive word-of-mouth (Buil et al., 2013;
+Rambocas et al., 2018), repeat purchase (Rambocas et al., 2018), pur-
+chase intentions (Buil et al., 2013; Cobb-Walgren et al., 1995), and
+price premium (Buil et al., 2013; Rambocas et al., 2018).
+
+The lack of consensus regarding the conceptualization and oper-
+ationalization of CBBE and its effect on consumer behavioral outcomes
+has left many questions unanswered as to how strong brands can be
+built and consequently managed, especially in different national con-
+texts (Hsieh, 2004). This issue highlights the need to move beyond the
+examination of CBBE measures or different aspects of it to a more
+holistic, advanced, and actionable CBBE model that (a) can be suc-
+cessfully operationalized in different countries and (b) is versatile en-
+ough in design to enable the examination of the idiosyncrasies of brands
+and industries in different national contexts (Keller, 2001).
+
+2.2. The configural nature of the CBBE process
+
+Academic theorizing increasingly argues that, overall, CBBE should
+be conceptualized as a multistage phenomenon that should be ap-
+proached as a process rather than a construct (Keller, 1993, 2001;
+Lehmann et al., 2008). Several studies have focused on CBBE as a
+process -consisting of specific development stages and multifaceted
+factors (Keller, 1993, 2001; Mishra, Dash, & Cyr, 2014) - that is
+
+329
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+g
+n
+i
+l
+e
+d
+o
+m
+n
+o
+i
+t
+a
+u
+q
+e
+
+l
+a
+r
+u
+t
+c
+u
+r
+t
+S
+
+,
+e
+e
+L
+&
+
+,
+
+u
+h
+t
+n
+o
+D
+
+,
+o
+o
+Y
+m
+o
+r
+f
+d
+e
+t
+p
+o
+d
+a
+
+y
+t
+i
+u
+q
+e
+d
+n
+a
+r
+b
+l
+l
+a
+r
+e
+v
+o
+l
+a
+n
+o
+i
+s
+n
+e
+m
+i
+d
+e
+n
+O
+
+s
+d
+n
+a
+r
+b
+
+5
+5
+
+d
+n
+a
+
+a
+n
+i
+h
+C
+
+n
+i
+
+s
+d
+n
+a
+r
+b
+
+6
+3
+
+a
+n
+i
+h
+C
+
+d
+n
+a
+
+a
+i
+d
+n
+I
+
+)
+8
+1
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+a
+g
+r
+e
+b
+n
+i
+e
+H
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+a
+t
+a
+D
+
+E
+B
+B
+C
+
+f
+o
+
+n
+o
+i
+t
+a
+z
+i
+l
+a
+u
+t
+p
+e
+c
+n
+o
+C
+
+y
+r
+o
+g
+e
+t
+a
+C
+
+t
+c
+u
+d
+o
+r
+P
+
+y
+r
+t
+n
+u
+o
+C
+
+y
+d
+u
+t
+S
+
+0
+0
+0
+2
+
+a
+i
+d
+n
+I
+
+n
+i
+
+g
+n
+i
+l
+e
+d
+o
+m
+n
+o
+i
+t
+a
+u
+q
+e
+
+l
+a
+r
+u
+t
+c
+u
+r
+t
+S
+
+d
+n
+a
+
+s
+s
+e
+n
+e
+r
+a
+w
+A
+
+,
+y
+t
+i
+l
+a
+u
+Q
+d
+e
+v
+i
+e
+c
+r
+e
+P
+
+,
+y
+t
+l
+a
+y
+o
+L
+
+d
+n
+a
+r
+B
+(
+
+s
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+s
+’
+r
+e
+k
+a
+A
+
+e
+h
+t
+
+m
+o
+r
+f
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+p
+
+x
+i
+S
+
+a
+i
+t
+a
+o
+r
+C
+
+d
+n
+a
+
+a
+i
+n
+e
+v
+o
+l
+S
+
+)
+6
+1
+0
+2
+(
+
+ć
+i
+v
+o
+s
+a
+k
+u
+V
+
+y
+t
+i
+u
+q
+e
+
+d
+n
+a
+r
+b
+
+l
+l
+a
+r
+e
+v
+o
+
+d
+n
+a
+
+)
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+y
+r
+t
+s
+u
+d
+n
+i
+
+d
+o
+o
+f
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+r
+o
+t
+c
+a
+f
+
+y
+r
+o
+t
+a
+m
+r
+fi
+n
+o
+C
+
+s
+e
+r
+u
+s
+a
+e
+m
+
+)
+1
+1
+0
+2
+(
+
+s
+'
+.
+l
+a
+
+t
+e
+m
+a
+N
+d
+n
+a
+
+)
+1
+0
+0
+2
+(
+
+u
+h
+t
+n
+o
+D
+d
+n
+a
+
+o
+o
+Y
+
+d
+e
+s
+U
+
+,
+)
+y
+e
+k
+r
+u
+T
+(
+
+r
+e
+l
+i
+a
+t
+e
+r
+
+n
+o
+i
+h
+s
+a
+f
+
+l
+a
+b
+o
+l
+G
+
+n
+i
+a
+p
+S
+
+d
+n
+a
+
+y
+e
+k
+r
+u
+T
+
+)
+6
+1
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+i
+c
+f
+i
+Ç
+
+)
+n
+i
+a
+p
+S
+(
+
+s
+l
+e
+b
+a
+L
+
+e
+t
+a
+v
+i
+r
+P
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+r
+o
+t
+c
+a
+f
+
+y
+r
+o
+t
+a
+m
+r
+fi
+n
+o
+C
+
+d
+n
+a
+
+s
+s
+e
+n
+e
+r
+a
+w
+A
+
+,
+y
+t
+i
+l
+a
+u
+Q
+d
+e
+v
+i
+e
+c
+r
+e
+P
+
+,
+y
+t
+l
+a
+y
+o
+L
+
+d
+n
+a
+r
+B
+(
+
+s
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+s
+’
+r
+e
+k
+a
+A
+
+e
+t
+i
+r
+o
+v
+a
+f
+
+t
+s
+a
+e
+l
+/
+t
+s
+o
+m
+
+f
+o
+
+e
+c
+i
+o
+h
+c
+
+e
+e
+r
+F
+
+s
+e
+i
+r
+o
+g
+e
+t
+a
+c
+
+t
+c
+u
+d
+o
+r
+p
+
+)
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+d
+n
+a
+
+s
+e
+c
+i
+v
+r
+e
+s
+
+,
+s
+d
+o
+o
+g
+
+:
+f
+o
+
+d
+n
+a
+r
+b
+
+t
+e
+n
+r
+e
+t
+n
+I
+
+e
+c
+e
+e
+r
+G
+d
+n
+a
+
+y
+n
+a
+m
+r
+e
+G
+
+,
+
+K
+U
+
+.
+l
+a
+
+t
+e
+
+s
+e
+d
+i
+l
+u
+o
+d
+o
+t
+s
+i
+r
+h
+C
+
+A
+S
+U
+
+,
+
+n
+e
+d
+e
+w
+S
+
+)
+6
+1
+0
+2
+(
+
+)
+5
+1
+0
+2
+(
+
+s
+l
+e
+d
+o
+m
+
+t
+c
+e
+ff
+e
+
+d
+e
+x
+i
+m
+
+r
+a
+e
+n
+i
+L
+
+)
+8
+0
+0
+2
+(
+
+,
+
+m
+h
+e
+o
+R
+
+d
+n
+a
+
+,
+x
+o
+F
+
+,
+
+n
+i
+n
+o
+r
+C
+
+,
+y
+d
+a
+r
+B
+m
+o
+r
+f
+
+d
+e
+t
+p
+o
+d
+a
+
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+e
+n
+O
+
+t
+h
+g
+i
+e
+
+s
+s
+o
+r
+c
+a
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+p
+
+0
+2
+
+,
+a
+i
+s
+s
+u
+R
+
+,
+
+n
+a
+p
+a
+J
+
+,
+a
+i
+d
+n
+I
+
+,
+e
+c
+n
+a
+r
+F
+
+,
+y
+n
+a
+m
+r
+e
+G
+
+,
+a
+n
+i
+h
+C
+
+,
+l
+i
+z
+a
+r
+B
+
+,
+a
+i
+l
+a
+r
+t
+s
+u
+A
+
+d
+n
+a
+r
+b
+e
+d
+l
+i
+
+H
+d
+n
+a
+
+n
+e
+v
+e
+i
+L
+
+g
+n
+i
+l
+e
+d
+o
+m
+n
+o
+i
+t
+a
+u
+q
+e
+
+l
+a
+r
+u
+t
+c
+u
+r
+t
+S
+
+d
+e
+v
+i
+e
+c
+r
+e
+p
+
+,
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+s
+’
+d
+n
+a
+r
+b
+
+a
+
+f
+o
+
+n
+o
+i
+t
+p
+e
+c
+r
+e
+p
+(
+
+t
+c
+e
+p
+s
+a
+
+l
+a
+n
+o
+i
+t
+c
+n
+u
+F
+
+)
+C
+F
+K
+(
+
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+a
+n
+i
+h
+C
+
+d
+n
+a
+
+S
+U
+
+)
+0
+1
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+s
+e
+l
+y
+o
+r
+B
+
+)
+y
+t
+l
+a
+y
+o
+l
+
+d
+n
+a
+r
+b
+
+,
+e
+g
+a
+m
+
+i
+
+l
+a
+i
+c
+o
+s
+
+,
+y
+t
+i
+l
+a
+u
+q
+
+d
+e
+v
+i
+e
+c
+r
+e
+p
+
+,
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+,
+s
+s
+e
+n
+i
+h
+t
+r
+o
+w
+t
+s
+u
+r
+t
+
+,
+e
+u
+l
+a
+v
+
+d
+e
+v
+i
+e
+c
+r
+e
+p
+
+,
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+
+d
+n
+a
+r
+b
+
+,
+e
+g
+a
+m
+
+i
+
+d
+n
+a
+r
+B
+
+s
+r
+a
+c
+
+f
+o
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+fi
+i
+c
+e
+p
+s
+n
+U
+
+s
+u
+r
+p
+y
+C
+
+d
+n
+a
+
+,
+a
+v
+o
+d
+l
+o
+M
+
+,
+a
+n
+i
+h
+C
+
+,
+
+A
+S
+U
+
+)
+2
+1
+0
+2
+(
+
+u
+s
+u
+R
+
+d
+n
+a
+
+u
+o
+n
+n
+a
+o
+I
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+R
+
+y
+t
+i
+u
+q
+e
+
+d
+n
+a
+r
+b
+
+f
+o
+
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+e
+n
+O
+
+d
+n
+a
+
+s
+k
+n
+a
+b
+
+d
+e
+fi
+i
+c
+e
+p
+s
+n
+U
+
+s
+d
+n
+a
+l
+r
+e
+h
+t
+e
+N
+e
+h
+t
+
+d
+n
+a
+
+a
+n
+i
+h
+C
+
+)
+4
+1
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+g
+n
+a
+h
+Z
+
+s
+t
+e
+k
+r
+a
+m
+r
+e
+p
+u
+s
+
+330
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+
+,
+s
+i
+s
+y
+l
+a
+n
+a
+
+d
+n
+a
+r
+b
+
+l
+a
+i
+c
+r
+e
+m
+m
+o
+c
+m
+o
+r
+f
+
+s
+t
+r
+o
+p
+e
+r
+
+d
+n
+a
+
+e
+r
+u
+t
+a
+r
+e
+t
+i
+l
+
+e
+h
+t
+
+m
+o
+r
+f
+
+d
+e
+t
+a
+r
+e
+n
+e
+g
+
+)
+s
+k
+n
+i
+r
+d
+
+r
+o
+t
+c
+a
+f
+
+,
+s
+t
+s
+e
+t
+-
+t
+
+,
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+e
+r
+e
+w
+y
+e
+h
+T
+
+.
+
+d
+e
+t
+s
+e
+g
+g
+u
+s
+
+e
+r
+e
+w
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+d
+n
+a
+r
+b
+
+f
+o
+
+s
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+7
+2
+
+t
+f
+o
+S
+(
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+:
+1
+
+y
+d
+u
+t
+S
+
+t
+e
+s
+s
+A
+d
+n
+a
+r
+B
+
+s
+’
+
+m
+a
+c
+i
+b
+u
+R
+
+d
+n
+a
+
+g
+n
+u
+o
+Y
+
+g
+n
+i
+d
+u
+l
+c
+n
+i
+
+,
+s
+e
+h
+c
+a
+o
+r
+p
+p
+a
+
+g
+n
+i
+k
+c
+a
+r
+t
+
+t
+f
+o
+S
+(
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+:
+2
+
+y
+d
+u
+t
+S
+
+)
+y
+r
+e
+g
+a
+m
+
+i
+
+,
+e
+c
+n
+a
+n
+o
+s
+e
+r
+
+s
+’
+d
+n
+a
+r
+b
+(
+
+t
+n
+e
+n
+o
+p
+m
+o
+c
+
+l
+a
+i
+t
+n
+e
+i
+r
+e
+p
+x
+E
+
+)
+y
+t
+i
+l
+a
+u
+q
+
+d
+e
+v
+i
+e
+c
+r
+e
+p
+
+,
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+a
+n
+i
+h
+C
+
+d
+n
+a
+
+S
+U
+
+)
+8
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+n
+n
+a
+m
+h
+e
+L
+
+.
+
+E
+B
+B
+C
+
+n
+o
+
+s
+e
+i
+d
+u
+t
+S
+
+l
+a
+n
+o
+i
+t
+a
+n
+r
+e
+t
+n
+I
+
+f
+o
+
+y
+r
+a
+m
+m
+u
+S
+
+1
+
+e
+l
+b
+a
+T
+
+.
+l
+a
+n
+o
+i
+t
+a
+n
+r
+e
+t
+n
+I
+
+h
+c
+r
+a
+e
+s
+e
+R
+
+d
+n
+a
+
+n
+w
+o
+r
+B
+
+d
+r
+a
+w
+
+l
+l
+i
+
+M
+
+,
+)
+V
+A
+B
+(
+
+r
+o
+t
+a
+u
+l
+a
+V
+
+)
+d
+o
+o
+F
+
+t
+s
+a
+F
+
+,
+e
+t
+s
+a
+p
+h
+t
+o
+o
+T
+
+,
+s
+k
+n
+i
+r
+d
+
+)
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+/
+s
+s
+e
+n
+e
+r
+a
+w
+A
+
+)
+s
+t
+e
+s
+V
+T
+
+r
+u
+o
+l
+o
+c
+
+d
+n
+a
+m
+fi
+
+l
+
+e
+r
+u
+s
+a
+e
+m
+o
+t
+
+g
+n
+i
+m
+i
+a
+
+g
+n
+i
+l
+e
+d
+o
+M
+
+l
+a
+n
+o
+i
+t
+a
+n
+i
+t
+l
+u
+m
+a
+
+,
+l
+a
+n
+o
+i
+t
+a
+n
+r
+e
+t
+n
+I
+E
+C
+A
+P
+R
+O
+M
+y
+b
+
+d
+e
+n
+w
+o
+
+t
+e
+s
+
+a
+t
+a
+d
+
+a
+m
+o
+r
+f
+
+a
+t
+a
+D
+
+)
+s
+r
+a
+C
+(
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+,
+y
+n
+a
+m
+r
+e
+G
+
+,
+e
+c
+n
+a
+r
+F
+
+,
+a
+n
+i
+h
+C
+
+,
+a
+d
+a
+n
+a
+C
+
+,
+l
+i
+z
+a
+r
+B
+
+,
+
+m
+u
+i
+g
+l
+e
+B
+
+,
+a
+i
+l
+a
+r
+t
+s
+u
+A
+
+)
+4
+0
+0
+2
+(
+
+h
+e
+i
+s
+H
+
+y
+t
+i
+u
+q
+E
+
+d
+n
+a
+r
+B
+
+l
+a
+b
+o
+l
+G
+
+)
+e
+z
+i
+s
+
+t
+e
+k
+r
+a
+M
+
+,
+t
+n
+e
+m
+h
+c
+a
+t
+t
+a
+
+d
+n
+a
+r
+B
+
+,
+
+n
+o
+i
+t
+i
+n
+g
+o
+c
+e
+r
+
+d
+n
+a
+r
+B
+(
+
+m
+r
+fi
+
+h
+c
+r
+a
+e
+s
+e
+r
+
+h
+t
+u
+o
+S
+
+,
+a
+i
+s
+s
+u
+R
+
+,
+s
+d
+n
+a
+l
+r
+e
+h
+t
+e
+N
+e
+h
+T
+
+,
+o
+c
+i
+x
+e
+M
+
+,
+
+n
+a
+p
+a
+J
+
+,
+y
+l
+a
+t
+I
+
+,
+a
+i
+d
+n
+I
+
+S
+U
+d
+n
+a
+
+K
+U
+
+,
+y
+e
+k
+r
+u
+T
+
+,
+
+d
+n
+a
+l
+i
+a
+h
+T
+
+,
+
+n
+a
+w
+i
+a
+T
+
+,
+
+n
+i
+a
+p
+S
+
+,
+a
+e
+r
+o
+K
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+r
+o
+t
+c
+a
+f
+
+y
+r
+o
+t
+a
+m
+r
+fi
+n
+o
+C
+
+,
+y
+t
+i
+l
+a
+u
+Q
+d
+e
+v
+i
+e
+c
+r
+e
+P
+
+,
+y
+t
+l
+a
+y
+o
+L
+
+d
+n
+a
+r
+B
+(
+
+s
+n
+o
+i
+s
+n
+e
+m
+i
+d
+
+s
+’
+r
+e
+k
+a
+A
+d
+e
+t
+p
+a
+d
+A
+
+,
+s
+e
+o
+h
+s
+
+c
+i
+t
+e
+l
+h
+t
+a
+(
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+a
+e
+r
+o
+K
+
+h
+t
+u
+o
+S
+
+d
+n
+a
+
+S
+U
+
+)
+1
+0
+0
+2
+(
+
+u
+h
+t
+n
+o
+D
+d
+n
+a
+
+o
+o
+Y
+
+s
+i
+s
+y
+l
+a
+n
+a
+
+r
+o
+t
+c
+a
+f
+
+d
+n
+a
+r
+b
+
+:
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+
+d
+n
+a
+r
+B
+
+,
+e
+u
+l
+a
+v
+
+d
+e
+v
+i
+e
+c
+r
+e
+p
+
+:
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+
+d
+n
+a
+r
+B
+
+,
+y
+t
+l
+a
+y
+o
+l
+
+r
+e
+m
+u
+s
+n
+o
+c
+
+,
+s
+r
+a
+c
+
+,
+r
+a
+e
+w
+s
+t
+r
+o
+p
+s
+
+)
+n
+o
+i
+t
+a
+z
+i
+n
+a
+g
+r
+o
+
+:
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+a
+
+d
+n
+a
+r
+B
+
+,
+y
+t
+i
+l
+a
+n
+o
+s
+r
+e
+p
+
+)
+s
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+
+y
+r
+o
+t
+a
+m
+r
+fi
+n
+o
+c
+
+p
+u
+o
+r
+g
+-
+i
+t
+l
+u
+M
+
+d
+n
+a
+r
+B
+
+,
+y
+t
+i
+l
+a
+u
+q
+d
+e
+v
+i
+e
+c
+r
+e
+P
+
+,
+s
+s
+e
+n
+e
+r
+a
+w
+a
+d
+n
+a
+r
+B
+(
+
+s
+n
+o
+i
+s
+n
+e
+m
+i
+d
+s
+’
+r
+e
+k
+a
+A
+d
+e
+t
+p
+a
+d
+A
+
+,
+s
+k
+n
+i
+r
+d
+
+t
+f
+o
+s
+(
+
+s
+d
+n
+a
+r
+b
+
+d
+e
+t
+c
+e
+l
+e
+s
+e
+r
+P
+
+n
+i
+a
+p
+S
+
+d
+n
+a
+
+K
+U
+
+)
+8
+0
+0
+2
+(
+
+.
+l
+a
+
+t
+e
+
+l
+i
+u
+B
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+underpinned by a hierarchy comprising several types of ordering
+(Lehmann et al., 2008).
+
+Keller (2001) was the first to provide the idea of brand building
+blocks in the CBBE process, whereby different interrelated brand con-
+cepts coexist. The architecture of this block modeling follows a hier-
+archical structure, a “brand pyramid,” in which the success of each
+block depends on the successful attainment of the previous block. De-
+spite its usefulness, the model focuses on the description of the process
+itself and lacks empirical validation. Although the complex inter-
+dependencies within and among the brand blocks are implied, it is
+unclear how this process takes place to allow the transition and evol-
+ving transformation from one brand building block to the next and,
+eventually, to overall brand equity. The model, though constructive,
+still lacks empirical documentation and thus has limited applicability to
+explain the CBBE building process in different countries.
+
+In addition, other researchers operationalize CBBE as a memory-
+associative model or network of the multitude of consumer associations
+with the brand (e.g., Christensen & Olson, 2002; Henderson, Iacobucci,
+& Calder, 2002; John, Loken, Kim, & Monga, 2006; Teichert &
+Schöntag, 2010). The idea of memory-associative models is widely
+accepted and adopted in the branding (Keller, 1993) and global
+branding (Hsieh, 2002; Madden, Roth, & Dillon, 2012; Özsomer &
+Altaras, 2008; Özsomer, 2012) literature streams. These studies employ
+several methods, ranging from free associations and free response
+(Krishnan, 1996) to more structured and analytical techniques (e.g.,
+repertory grid, brand concept mapping; Henderson,
+Iacobucci, &
+Calder, 1998, 2002; John et al., 2006; Schnittka, Sattler, & Zenker,
+2012). However, they tend to elicit consumers’ idiosyncratic associa-
+tions with specific brands and do not easily permit generalization of
+their results in different brand, national, and especially international
+contexts. Much of the work that adopts the process approach has cen-
+tered mostly on mapping specific brand structures or on an array of
+branding structures and effects (e.g., cobranding, brand confusion,
+cannibalization; Henderson et al., 1998, 2002) rather than on the CBBE
+creation process itself.
+
+Capitalizing on the idea of block modeling and the operationaliza-
+tion of CBBE as a memory-associative network, Chatzipanagiotou et al.
+(2016) identify CBBE as a complex system comprising the three
+building blocks of BBB, BUB, and BRB (e.g., Henderson et al., 1998;
+Keller, 1993, 2001). The model adopts a high level of abstraction and
+includes a parsimonious set of well-known brand concepts as central
+structural ingredients or “nodes” in each building block. Specifically,
+the BBB comprises both imagery (e.g., brand personality, heritage,
+the brand (e.g., quality,
+nostalgia) and functional attributes of
+
+competitive advantage, leadership), which serve as structurally inter-
+related components of the brand’s initial building. The BUB consists of
+brand awareness, reputation, associations, and brand–self connection as
+essential knowledge structures that reflect consumers’ cognitive re-
+sponses to the brand. The BRB subsumes the closely interconnected,
+relational nodes of relevance, intimacy, partnership quality, and trust to
+capture the different aspects of consumers’ overall relationship with the
+brand. By including well-established brand concepts as central nodes,
+the model is arguably applicable to all brands, industries, and national
+contexts for both constructive and, especially, comparative purposes.
+
+The model builds on the notion of multiple conjectural causation,
+which is context sensitive and emphasizes a combination (configura-
+tion) of causes included in each of the three building blocks that can
+predict the outcome of interest in the next stage (‘recipe’ principle)
+(Ragin & Rihoux, 2004; Ragin, 2008; Rihoux & Marx, 2013). Premised
+on the idea of equifinality, in which “a system can reach the same final
+state from different initial conditions and by a variety of different
+paths” (Katz & Kahn, 1978, p. 30), the model detects all the theoretical
+causal combinations that can explain an outcome of interest and
+therefore embraces the idiosyncrasies of both consumers and brands.
+Managers can then identify various design choices that can lead to the
+same desired outcome (e.g., Fiss, 2011; Short, Payne, & Ketchen, 2008).
+Furthermore, the role of each of the causes included in the derived
+causal combinations that can predict an outcome is conjecture sensitive
+and thus is explained in relation to the context of the other included
+causes. This model can explain, for example, why the same brand po-
+sitioning elements may have a differential effect on different consumers
+(Lieven & Hildebrand, 2016; Özsomer, 2012) or on the strength of the
+brand in different countries (Broyles et al., 2010). Thus, by design, the
+configural nature and the operationalization of the CBBE model em-
+body the inevitable variations that emerge from consumers, brands, and
+different contexts, in recognition that it is not only the structurally
+powerful brand concepts per se that can explain the phenomenon but
+also the manner in which these brand ingredients are linked to explain
+CBBE under the reflections of the aforementioned variations and idio-
+syncrasies. However, the real power of CBBE comes from its ability to
+motivate consumers’ favorable responses (Aaker, 1991; Buil et al.,
+2013; Keller, 2001). From the various behavioral outcomes, the con-
+sumers’ repurchase intention (Buil et al., 2013; Rambocas et al., 2018),
+the willingness to pay a price premium (Buil et al., 2013; Rambocas
+et al., 2018), and to speak positively or recommend the brand to others
+(Buil et al., 2013; Rambocas et al., 2018), are of significant importance
+for managers. Therefore, these are the three behavioral outcomes that
+this study examines.
+
+Fig. 1. The study’s conceptual framework.
+Adapted from Chatzipanagiotou et al. (2016)
+
+331
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+2.3. The structural power of the model in different countries
+
+2.4. The role of national culture (individualism/collectivism) in the
+formation of consumers’ OBE and behavioral outcomes
+
+Fig. 1 depicts the rationale of the model using Venn diagrams to
+demonstrate the combinatorial nature of the causes within the different
+blocks; the arrows indicate the major flows of configural relationships
+among them. The first building block in the model, BBB, embodies
+brand imagery and functional attributes of brands. Brand managers use
+various marketing tools and activities to create and promote both types
+of brand characteristics. Proper management of these characteristics
+affects brands’ differential positioning and shapes consumers’ re-
+sponses: opinions (BUB) and feelings (BRB) (Keller, 2001). For example,
+both imagery and functional attributes of the brand can evoke different
+levels of consumers’ brand awareness and brand associations. Ac-
+cording to the model, high levels of awareness arise when consumers
+clearly recognize and conceive the brand using the set of character-
+istics. Part of consumers’ understanding of the brand lies in the way
+they identify themselves in relation to the brand characteristics (brand-
+self connection) (Smit, Bronner, & Tolboom, 2007).
+
+Understanding is also achieved by “the overall value, esteem and
+character of a brand as seen or judged by people in general”
+(Chaudhuri, 2002, p. 34). Thus, consumers’ cognitive responses work
+together to capture their understanding and appreciation of the features
+of a brand (Lehmann et al., 2008), thus enabling them to understand
+brand meaning—that is, what the brand is characterized by and stands
+for (Keller, 2001). Therefore, we propose that the underlying process
+explaining BUB components also takes place in different countries.
+
+H1. Sufficient configurations of the components constituting the BBB
+lead to high scores in the individual components of BUB in different
+countries.
+
+Brand imagery and functional attributes (BBB) as well as the es-
+tablishment of consumers’ understanding of the brand meaning (BUB)
+lead consumers to another critical stage in the CBBE building process:
+the relationship with the brand (BRB) (Keller, 1993, 2001). Researchers
+have recognized consumers’ relational bonds with brands as an essen-
+tial stage in the CBBE building process (Christodoulides, de Chernatony,
+Furrer, & Abimbola, 2006; Lehmann et al., 2008). The BRB includes
+closely interrelated brand concepts, including brand trust, intimacy,
+relevance, and partner quality, to capture the different aspects and
+consumers’ feelings about the brand. We further propose that the
+structural power of the model to explain BRB components holds in
+different countries.
+
+H2. Sufficient configurations of the components constituting BBB lead
+to high scores in the individual components of BRB in different
+countries.
+
+H3. Sufficient configurations of the components constituting BUB lead
+to high scores in the individual components of BRB in different
+countries.
+
+Each of the building blocks contributes to the formation of overall
+brand equity. In contrast with Keller (2001), who identifies “brand
+resonance” as the broader and final stage in the CBBE building process
+(including brand relationships but also behavioral aspects, such as
+loyalty), the proposed model identifies overall brand equity as the
+overall strength of the brand (Yoo & Donthu, 2001) and the final stage
+in the CBBE process. The measurement of overall brand equity includes
+indicators of the relative strength of the brand in relation to other
+brands that have been established in previous studies (e.g. Rambocas
+et al., 2018; Yoo & Donthu, 2001). Thus, each brand building block
+contributes to the formation of overall brand equity in different coun-
+tries.
+
+Culture could be viewed as the metaphorical lens through which
+consumers perceive brands, decide information processing strategies
+and cognitive structures that shape their choices (Hofstede, 1980;
+McCort & Malhotra, 1993), especially in the form of means-ends brand
+value hierarchies (Bock, 1994; Kim, Park, & Park, 2000; Overby,
+Woodruff, & Gardial, 2005).
+
+A large number of studies in international business explain the
+impact of cultural variations and unveil the dominant role of in-
+dividualism/collectivism in decoding consumers’ brand perceptions
+(Aaker & Maheswaran, 1997; De Mooij & Hofstede, 2010, 2011;
+Laroche, Kalamas, & Cleveland, 2005; Sung & Tinkham, 2005), brand
+understanding (Monga & John, 2006; Roth, 1995) and brand relation-
+ships (Samaha, Beck, & Palmatier, 2014). Despite agreement from re-
+searchers that a configuration of brand-related structures could provide
+a better understanding of brands in international contexts (Aaker &
+Maheswaran, 1997; Torres, Augusto, & Godinho, 2017), there is a
+scarcity of studies regarding the mechanisms by which these brand-
+related structures are combined in order to lead to consumers’ OBE and
+behavioral outcomes.
+
+Consumers’ brand perceptions play a critical role in the way con-
+sumers recognize and understand brands. Researchers highlight that
+cultural differences modify the way consumers perceive, categorize and
+attach to objects. For instance, in individualistic cultures consumers
+categorize objects/brands based on rules and properties (Choi, Nisbett,
+& Smith, 1997). They recognize easily the abstract values that are re-
+lated with brands while jointly considering their functional attributes
+following a more analytic thinking (Nisbett, Kaiping,
+Incheol, &
+Norenzayan, 2001). Their attachment with the brand revolves around
+their self-image, which is built on the basis of self as an autonomous
+entity independent of general social groups and norms (Markus &
+Kitayama, 1991). They tend to focus on brands which are consistent
+with their self-image and could reflect their individuality and parts of
+the social discourse (Tuškej, Golob, & Podnar, 2013; Aaker & Schmitt,
+1997). Individualists build relationships primarily for self-serving rea-
+sons (Steensma, Kevin, Marino, Weaver, & Dickson, 2000) rather than
+for mutually beneficial purposes (Wuyts & Geyskens, 2005). They de-
+velop, maintain, and value relationships that can better serve and de-
+ideas, goals, and achievements (1995,
+monstrate their individual
+Triandis, 1989).
+
+In contrast, collectivists typically engage in closer or more profound
+and longer lasting relationships compared to their individualist coun-
+terparts (Triandis, 1995). They are receptive to social bonding
+(Triandis, 1995) and their identity is intertwined with the values of the
+social system to which they belong (Steensma et al., 2000). They could
+be characterized as holistic thinkers, who focus on relationships
+(Masuda & Nisbett, 2001) rather than abstract brand values whilst they
+prioritize the relational, social product benefits rather than the func-
+tional ones (Paul, Hennig-Thurau, Gremler, Gwinner, & Wiertz, 2009).
+Hence, culture influences not only the meaning or the relevant
+importance of each of the aforementioned brand components, but also
+the structure in which these elements are combined toward consumers’
+OBE (Overby et al., 2005). Thus, we hypothesize that:
+
+H4. Different configurations (core/periphery models) of BBB, BUB and
+BRB components contribute directly to produce high scores in OBE in
+countries with
+(individualism/
+cultural
+collectivism).
+
+dimensions
+
+different
+
+The literature on CBBE appreciates that strong brands lead con-
+sumers to react more favorably toward them (Cobb-Walgren et al.,
+1995; Keller, 2001). However, a limited number of studies empirically
+
+332
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+examine the direct relationship of CBBE with behavioral outcomes,
+such as brand preference, positive word-of-mouth, repeat purchase, and
+price premium (Buil et al., 2013; Cobb-Walgren et al., 1995; Rambocas
+et al., 2018), especially in different countries (Buil et al., 2013;
+Rambocas et al., 2018; Zhang et al., 2014). Instead, more studies focus
+on individual components of CBBE and their link with specific con-
+sumers’ behavioral outcomes. For instance, prior research highlights
+the role of brand self-identification and brand relationships in con-
+sumers’ behavior and empirically shows that consumers tend to re-
+purchase a brand that they strongly identify with (Aaker & Schmitt,
+1997). In addition, previous research demonstrates that in the context
+of brand relationships consumers follow reciprocity norms and cycles,
+which lead them to express extra-role behaviors
+(Elbedweihy,
+Jayawardhena, Elsharnouby, & Elsharnouby, 2016) including positive
+brand recommendations to others (Stokburger-Sauer, Ratneshwar, &
+Sen, 2012; Tuškej et al., 2013) and willingness to pay more (Davvetas &
+Diamantopoulos, 2017; Haumann, Quaiser, Wieseke, & Rese, 2014;
+Park, Eisingerich, & Park, 2013). Despite the importance of the above
+studies, to our knowledge none of these provides a holistic explanation
+as to how consumers in different cultures organize CBBE structures
+(brand perceptions, knowledge and relationships) toward specific be-
+havioral outcomes.
+
+Several researchers highlight that consumers in individualistic cul-
+tures need a consistency among their brand perceptions, feelings and
+behaviors (De Mooij & Hofstede, 2011), which is in line with their more
+analytic way of thinking (Nisbett et al., 2001). They seem to follow
+more structured decision-making models including consciousness re-
+garding the brand, price, and quality (De Mooij & Hofstede, 2011). For
+individualists, brand self-identification serves mostly individualistic
+purposes and, therefore, their brand recommendations are motivated
+on the basis of their opinion leadership to others (Hennig-Thurau,
+Gwinner, Walsh, & Gremler, 2004; Samaha et al., 2014). On the con-
+trary, brand feelings and relationships mostly drive collectivistic con-
+sumers’ behavior (De Mooij & Hofstede, 2011) as they focus highly on
+the social product benefits in order to make repurchase decisions (Paul
+et al., 2009). For collectivists, positive brand recommendation is ar-
+guably the result of a mutually beneficial relationship developed with
+the brand, which generates reciprocity in the form of gratitude toward
+the brand/company (Hennig-Thurau et al., 2004; Samaha et al., 2014).
+Therefore, culture not only unpacks the salient components of the CBBE
+formation process in different national contexts, it may also modify the
+way that these CBBE structures are organized toward significant be-
+havioral outcomes. Based on the above discussion, we hypothesize that:
+
+H5. Different configurations (core/periphery models) of the CBBE
+components constituting of BBB, BUB and BRB contribute directly to
+produce high scores in consumers’ (a) willingness to pay price premium
+(b) brand recommendation (c) repeat purchase in countries with
+different cultural dimensions (individualism/collectivism).
+
+3. Methodology
+
+3.1. Data collection
+
+This project was part of a wider funded project focusing on a
+European context and the selected countries represented different
+backgrounds within the wider context. Data were collected from Greece
+and Germany; two countries which, even though they belong to Europe,
+have been categorized as countries with clear cultural differences
+(Brodbeck et al., 2000; House, Hanges, Javidan, Dorfman, & Gupta,
+2004). In addition, these countries demonstrate significant differences
+in relation to the cultural dimensions of Hofstede’s model (Hofstede,
+1984; Hofstede Insights, 2018), especially in terms of individualism/
+collectivism (GR = 35; GE = 67), which constitutes one of the most
+relevant dimensions for understanding cross-national variation in CBBE
+formation process and consequent consumer behavior (Hsieh, 2004;
+
+Zhang et al., 2014). Furthermore, the two countries are dissimilar not
+only in terms of culture, but also in terms of size and economic en-
+vironment, which further serves the purposes of this study since it may
+drive consumers to respond differently to brands.
+
+The data were collected face-to-face with the help of trained field-
+workers. We asked the fieldworkers to recruit respondents who were
+residents in each of the countries and resided in multiple areas in each
+country. To collect data that represented the national population of the
+two countries, we set quotas for age and gender using census data from
+Germany and Greece. Table A1 in the Appendix lists the consumers’
+demographic profiles.
+
+Each respondent was asked to pick a product category from a pro-
+vided list (shampoo, consumers’ electronics, coffee houses, mobile
+networks, banks, and internet retailers) and to identify their favorite
+brand from that category. Table A2 in the Appendix provides con-
+sumers’ responses regarding the different product categories. Con-
+sumers were then invited to respond to subsequent questions about
+their chosen brand. Different types of brands emerged from this ex-
+ercise. The data collection took place simultaneously in Germany and
+Greece over a two-week period and produced 301 responses from
+Germany and 312 responses from Greece. To increase their willingness
+to participate, survey respondents in each country had the chance to
+win one of two gift cards worth $130 (€100).
+
+We adopted all items for the brand building blocks and the overall
+brand equity from previous research in line with Chatzipanagiotou
+et al. (2016), the willingness to pay a premium was measured with
+(2004), brand re-
+three items adapted from Netemeyer et al.
+commendation intentions was measured with three items adapted from
+Arnett, German, and Hunt, (2003) and purchase intention was mea-
+sured with one item consistent with Graeff (1997). The study items
+were measured on seven-point scales (see Table A3 in the Appendix). To
+ensure the accuracy of the translation, the questionnaire was translated
+from English to Greek and German by bilingual speakers and then back-
+translated into English by colleagues fluent in both languages (Brislin,
+1980). We secured the clarity of the wording in German and Greek
+through pilot tests in both settings and made minor modifications when
+appropriate. The study items were measured on seven-point scales (see
+Table A3 in the Appendix). To ensure the accuracy of the translation,
+the questionnaire was translated from English to Greek and German by
+bilingual speakers and then back-translated into English by colleagues
+fluent in both languages (Brislin, 1980). We secured the clarity of the
+wording in German and Greek through pilot tests in both settings and
+made minor modifications when appropriate.
+
+We assessed the common method bias (Podsakoff, MacKenzie, Lee,
+& Podsakoff, 2003) through the shorter version of the social desirability
+scale (Crowne & Marlowe, 1960). Specifically, we used the scale Fischer
+and Fick (1993) developed as a marker variable in the first part of the
+questionnaire (Lindell & Whitney, 2001; Williams, Hartman, &
+Cavazotte, 2010). Furthermore, we checked all the study’s measures for
+configural, metric, and factor invariance (Steenkamp & Baumgartner,
+1998). The results of the multi-group confirmatory factor analysis show
+evidence of configural, metric, and factor invariance (Brown, 2000;
+Steenkamp & Baumgartner, 1998) between the German and Greek
+samples (Cheung & Rensvold, 2002) for all the study’s constructs of
+interest. Next, we employed a marker variable confirmatory factor
+analysis for the independent measures; the results provide evidence that
+common method variance does not pose a serious threat in this study.1
+Finally, we assessed the internal consistency of the scales for both
+samples (see Table A3 in the Appendix), ensuring the internal con-
+sistency of the study’s measures.
+
+1 We do not present the analyses results because of space constraints, but they
+
+are available on request.
+
+333
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Table 2
+Core Periphery Models of BBB Predicting High Scores in BUB (H1).
+
+Note: The black circles indicate the presence of a condition, and circles with “x” indicate its absence. The large circles indicate core conditions; the
+small circles indicate peripheral conditions. Blank spaces in a pathway indicate “don't care.” The analysis of necessary conditions (NC) does not
+confirm the existence of any NC.
+
+3.2. Fuzzy Set/Qualitative comparative analysis (fs/QCA)
+
+The study adopts fs/QCA, which is uniquely suited for examining
+the configurational nature of the model’s research hypotheses (2008,
+Ragin, 1987). By embodying key strengths of both qualitative and
+quantitative methods, QCA has received considerable attention in the
+business literature (e.g., Gounaris, Chatzipanagiotou, Boukis, & Perks,
+2016; Ordanini, Parasuraman, & Rubera, 2014; Woodside, 2013, 2014).
+Fs/QCA, as a set theoretic method, allows for a holistic approach that
+identifies each individual case as a complex entity of causes and out-
+comes of interest in terms of set memberships (Berg-Schlosser & De
+Meur, 2009; 2008, Ragin, 1987).
+logic and fuzzy-
+set algorithms (e.g., “truth table”) to model relationships among the
+causes and the outcomes of interest in a systematic, cross-case analysis.
+The first step in fs/QCA is calibrating the measures, so that transfor-
+mation of the variable raw scores into set measures occurs. We calibrate
+the data on the basis of the direct method of calibration and use three
+qualitative anchors (1.0 = full membership, 0 = full non-membership,
+and 0.5 = the crossover point of maximum ambiguity regarding
+membership) in each of the samples and in a similar way for each of the
+model’s conditions.
+
+It uses set
+
+Next, we identify the property space, or truth table, to examine each
+of the study’s research hypotheses; doing so allows us to detect all the
+logically possible combinations of relevant causal conditions that can
+lead to the outcome of interest. Construction of the truth table is based
+on the formula of 2k (where k represents the number of the antecedent
+conditions we assume can predict the outcome of interest) and allows
+the detection of “necessary” and “sufficient” causal configurations that
+can predict the outcome of interest (for a detailed discussion of the
+fuzzy-set algorithm of the truth table, see Ragin (2008); Rihoux &
+Ragin, 2008; Goertz & Starr, 2003). In addition, the estimation of these
+set relationships is based on consistency and coverage indices (Ragin,
+2008; Wagemann & Schneider, 2010; Woodside, 2013). The measures
+of consistency and coverage are analogous to the correlation coefficient
+and coefficient of determination, respectively (Ragin, 2008). We em-
+ploy 0.80 as the minimum threshold for consistency consideration and
+use two cases to be included in a truth table for further analysis. Al-
+ternative tests of cases frequencies (one, three) and levels of consistency
+(ranged from 0.81 to 90) were performed (Skaaning, 2011). The
+number of the derived solutions did not warrant substantively different
+interpretations.
+
+In addition, to further understand the empirical relevance of each of
+the antecedent conditions to the outcome of interest, we follow Fiss
+(2011) and Ragin and Fiss (2008) rationale in the identification of core
+the
+and periphery models. Specifically,
+
+the analysis allows
+
+for
+
+334
+
+identification of core causes, or the conditions with a strong causal re-
+lationship to the outcome of interest, and periphery causes, in which the
+evidence of the causal relationship to the outcome is weaker, and thus
+these causes can be characterized as less important conditions. Ac-
+cordingly, the results are grouped in solutions based on the core causal
+conditions (Fiss, 2011).
+
+4. Data analysis
+
+Table A4 in the Appendix provides the descriptive statistics of the
+conditions included in the study’s configural model and the symme-
+trical results of the correlation among them. The results indicate that
+the correlation coefficients among these conditions do not meet the
+0.80 threshold, leading us to infer that these relationships are not
+symmetrical (Woodside, 2013, 2014). Next, we performed quintile
+analysis between the causal conditions and the outcomes of interest to
+further enlighten the nature of these relationships. In both samples the
+phi coefficient indicates a positive effect size among antecedent condi-
+tions and the outcomes of interest, though both positive and negative
+cases occurred. Thus, we proceeded with fs/QCA as the most appro-
+priate way to investigate the study’s research hypotheses (Woodside,
+2014).
+
+4.1. Results from the investigation of the structural power of the proposed
+model
+
+Tables 2 and 3 summarize the results of H1 and H2, which suggest
+that configurations of the antecedent conditions included in the BBB
+(brand personality, heritage, nostalgia, quality, competitive advantage,
+and leadership) sufficiently lead to each of the components of BUB (H1)
+and BRB (H2) in both the German and Greek samples. Specifically, the
+results show that consumers use imagery and functional attributes of
+the brand which, in either core or peripheral role, sufficiently lead to
+consumers’ brand understanding and brand relationships in both sam-
+ples (the consistency in all solutions is above 0.80).
+
+As expected due to idiosyncrasies of consumers, brands, and na-
+tional contexts, few common causal patterns are detected at this level of
+analysis and are shaded for emphasis. Table 2 identifies two common,
+causal patterns with regard to brand awareness and brand reputation.
+Specifically, solution 1 in both Greece and Germany indicate that high
+scores in brand personality and heritage in combination with the
+functional characteristics of the brand (quality, competitive advantage,
+and leadership) predict high scores in consumers’ brand awareness in
+both countries. In addition, solution 1 in Greece and solution 2 in
+functional
+Germany demonstrate
+
+constellation of
+
+that
+
+the
+
+a
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Table 3
+Core Periphery Models of BBB Predicting High Scores in BRB (H2).
+
+Note: The black circles indicate the presence of a condition, and circles with “x” indicate its absence. The large circles indicate core conditions; the
+small circles indicate peripheral conditions. Blank spaces in a pathway indicate “don't care”. The analysis of necessary conditions (NC) does not
+confirm the existence of any NC.
+
+characteristics of the brand (quality, competitive advantage, and lea-
+dership) lead to high scores in brand reputation.
+
+Furthermore, Table 3 demonstrates another common causal pattern
+with regard to consumers’ brand relevance (solution 1 for both Greece
+and Germany), which indicates that a combination of brand nostalgia
+and quality can lead consumers to build their relevance toward brands
+in both countries.
+
+The results also detect common core causes between the Greek and
+the German samples for each outcome of interest. For example, in the
+case of brand associations (Table 2), in which brand personality plays a
+core causal role in all configurations, consumers from both countries
+build their brand associations mainly on brand personality. In addition,
+brand nostalgia which, in combination with other BBB conditions,
+contributes to consumers’ brand-self connection in both countries. The
+results further stress that despite the existence of common causal con-
+ditions, it is the ‘recipe’ and not solely the brand ingredients that can
+successfully lead to consumers’ brand understanding and brand re-
+lationship in different countries.
+
+The consistent way that BBB predicts consumers’ BUB and BRB for
+different brands and in different countries highlights the proposed
+model’s ability to embrace both common and idiosyncratic patterns of
+consumers’ understanding and relationship building, providing a bridge
+between cross-national and case-study analysis.
+
+Table 4 summarizes the results of H3, which indicates that con-
+sumers’ understanding in terms of brand awareness, associations, re-
+putation, and brand–self connection can sufficiently (all the solutions’
+consistency scores are above 0.80) lead to a relationship with the brand.
+
+Table 4
+Core Periphery Models of BUB Predicting High Scores in BRB (H3).
+
+Consumers’ brand–self connection plays a dominant role as a core cause
+in both countries, such that, in combination with their brand aware-
+ness, favorable brand associations and brand reputation in either the
+core or peripheral role produce consumers’ relationship with the brand,
+in support of H3.
+
+4.2. Predicting high scores in OBE and consumers’ behavioral outcomes:
+similarities and differences between countries
+
+Table 5 summarizes the results for H4, which suggests that the three
+building blocks of BBB, BUB, and BRB sufficiently predict consumers’
+OBE. In both countries, a configuration of the elements of BBB, BUB and
+BRB (Greece: overall coverage = 0.50, overall consistency = .83, Ger-
+many: overall coverage = .49, overall consistency = .87) leads to high
+scores in consumers’ OBE providing support to H4.
+
+Multiple combinations of BBB, BUB and BRB elements lead to high
+scores in consumers’ OBE in both countries highlighting the idiosyn-
+cratic nature of the phenomenon. The results detect three solutions in
+both Greece and Germany that lead to high scores in consumers’ OBE in
+both countries. More importantly, the first solution in both Greece and
+Germany constitutes the most empirically relevant one with high con-
+sistency (Greece = 0.88; Germany = 0.86), coverage (Greece = 0.44;
+Germany = 0.42),
+(Greece = 0.19;
+Germany = 0.16). Solution 1 demonstrates that the OBE building pro-
+cess remains the same in both countries in terms of the contribution of
+brand elements from BBB, BUB and BRB blocks. However, the detection
+the
+the core and periphery models further inform us about
+of
+
+coverage
+
+unique
+
+and
+
+Notes: The black circles indicate the presence of a condition, and circles with “x” indicate its absence. The large circles indicate core conditions; the
+small circles indicate peripheral conditions. Blank spaces in a pathway indicate “don't care”. The analysis of necessary conditions (NC) does not
+confirm the existence of any NC.
+
+335
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Table 5
+Core Periphery Models of BBB, BUB, and BRB Predicting High Scores in consumers’ OBE and consumers’
+behavioral outcomes (H4, H5).
+
+Note: The black circles indicate the presence of a condition. The large circles indicate core conditions; the
+small circles indicate peripheral conditions. Blank spaces in a pathway indicate “don't care”. The analysis of
+necessary conditions (NC) does not confirm the existence of any NC.
+
+substantial differences in the OBE building process between Greece and
+Germany. Fig. 2 provides a diagrammatical representation of these re-
+sults. Specifically, in Greece brand-self connection and consumers’ re-
+lationship with the brand in terms of brand trust, intimacy, relevance
+and partner quality constitute core causes towards high scores in con-
+sumers’ OBE. The results further suggest that Greek consumers re-
+cognize as strong those brands that have a personal meaning to them
+and have, over time, developed a relationship with them.
+
+In contrast, the CBBE building process in Germany highlights the
+core role of brand functional characteristics, consumers’ brand- self
+connection, brand reputation and the relational components of brand
+trust and relevance. In other words, building strong brands in Germany
+is based on the functional brand characteristics of quality, competitive
+advantage and leadership around which consumers’ perceptions re-
+volve. Thus, the CBBE building process in Germany is grounded on
+consumers’ attention to the superiority of the brand’s functional char-
+acteristics, which signal reputable brands that consumers’ find closer to
+the way they recognize themselves and build their relationship with the
+brand in terms of brand trust and relevance.
+
+In addition, Table 5 summarizes the results for H5, which suggest
+that OBE in terms of the elements included in the aforementioned CBBE
+processes can sufficiently predict consumers’ behavioral outcomes in
+
+both Greece and Germany. Two solutions in Greece and three in Ger-
+many can sufficiently explain consumers’ intention to pay a premium
+price. As Fig. 2 demonstrates, solution 1 in both countries is the most
+empirically relevant with high consistency (Greece = 0.83; Ger-
+many = .82), coverage (Greece = .55; Germany = .35), and unique
+coverage (Greece = .38; Germany = .11) explaining the majority of
+consumers’ intention to pay more for a brand in both countries. The
+results demonstrate that consumers’ intention to pay a premium price
+presupposes the development of a close relationship with the brand in
+terms of brand intimacy and relevance in both countries.
+
+Specifically, the results show that Greek consumers are willing to
+pay a premium price only for brands they have already developed a
+relationship with in terms of brand relevance and intimacy. In contrast,
+German consumers are willing to pay a premium price only for well-
+regarded brands with superior functional characteristics, which have a
+personal meaning to them and with which they have developed rela-
+tional ties in terms of brand trust, intimacy and partner quality. The
+latter demonstrates another aspect in their relationship with the brand,
+which highlights that the majority of German consumers’ need to feel
+that the brand treats them as valued customers and that they haven’t
+felt dissatisfied with any brand episodes for a long time (partner
+quality).
+
+336
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Fig. 2. Diagrammatic representation of the most empirically relevant Core Periphery Models of BBB, BUB, and BRB Predicting High Scores in consumers’ OBE and
+consumer behavioral outcomes in Greece and Germany (H4, H5).
+Notes: The large circles and letters represent core causal conditions whilst the small circles and letter demonstrate peripheral conditions.
+IM= Imagery brand characteristics; F= Brand functional characteristics; R=Brand reputation; AW=Brand awareness; ASS=Brand favorable associations;
+SC=Brand-self connection; T=Brand trust; REL=Brand relevance; I= Brand intimacy; PQ=Brand partner quality.
+
+In addition, brand recommendation has a different building process
+in both countries. The results detect three solutions in Greece and two
+in Germany that can sufficiently explain consumers’ brand re-
+commendation. Solution 1 in Greece (consistency = 0.89; coverage =
+0.45; and unique coverage = 0.14) demonstrates that Greek consumers
+recommend brands that they can strongly rely on and feel that they
+continually treat them as valued customers. Therefore, Greek con-
+sumers’ recommendations could be viewed as an action of appreciation
+and gratitude towards a brand/company that has treated them as va-
+lued customers over time. In contrast, solution 1 (consistency = 0.83;
+coverage = .31; and unique coverage = .23) in Germany indicates that
+
+the majority of German consumers engaged in a recommendation ac-
+tivity only for brands that have a personal meaning for them, especially
+in terms of the brand abstract and imagery characteristics (brand per-
+sonality, nostalgia and heritage).
+
+Finally, two solutions in Greece (overall consistency = 0.80; overall
+coverage = 0.66) sufficiently explain Greek consumers’ intention to re-
+purchase the brand. Specifically, the results demonstrate that con-
+sumers in Greece decide to re-purchase a brand based either on a
+combination of brand reputation and their favorable associations with
+the peripheral role of brand-self connection (solution 1, raw con-
+sistency = 0.84; raw coverage = 0.47; unique coverage = 0.13) or base
+
+337
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+their re-purchasing decisions on the fact that these products are per-
+sonally relevant to them and they feel emotionally attached to them
+(solution 2, raw consistency = 0.80; raw coverage = .52; unique cov-
+erage = .18). In Germany solution 1 constitutes the most empirically
+relevant solution (raw consistency = .83; raw coverage = .37; unique
+coverage = .11), which explains that German consumers make a re-
+purchase decision for highly regarded brands in terms of their func-
+tional characteristics, with which they have also developed relational
+ties in terms of brand trust and relevance.
+
+In a nutshell, the results demonstrate the way that consumers’
+perceptions regarding different brand qualities interact in order to
+produce OBE and behavioral outcomes. Greek consumers focused
+mainly on their relational bonds with the brand in order to make brand
+–related decisions, demonstrating the importance of their personal at-
+tachment with the brand in any effort to build OBE and behave in a
+favorable way towards the brand. In contrast, German consumers use,
+in most cases, a combination of BBB, BUB and BRB elements in order to
+build OBE and make brand decisions demonstrating a well-structured,
+integrated cognitive-affective-conative approach in all their decisions,
+except brand recommendation. Recommending a brand in Germany is
+seen as an expression and enhancement of consumers’ self-image which
+is grounded mainly on the abstract characteristics of the brand.
+
+5. Discussion
+
+5.1. Theoretical implications
+
+This study builds on and extends a recently published, process-fo-
+cused CBBE model in a cross-national context with a view to (a) test its
+robustness in an international environment and assess its usefulness as a
+diagnostic tool for monitoring and managing brands internationally;
+and (b) illuminate the underlying mechanism by which the CBBE pro-
+cess results in key consumer outcomes and identify cross-country dif-
+ferences. We tested the proposed CBBE model with data from two na-
+tional contexts (i.e., Germany and Greece). The results show that the
+model remains robust in explaining CBBE across the two countries. The
+confirmation of the research hypotheses underlying the model’s ratio-
+nale underscores the structural power and operationalization of each of
+the three building blocks—BBB, BUB, and BRB—throughout the entire
+CBBE building process in relation to different national contexts. The
+findings indicate that the architecture of this process is not necessarily
+stepwise but rather dynamic, allowing the effects of each building block
+to contribute directly to the building of overall CBBE.
+
+The study’s results, which reveal the differences and similarities
+between the national contexts and among consumers within these
+contexts, highlight the idiosyncratic nature of the various brand equity
+components and overall CBBE in an increasingly global environment.
+Specifically, brand-self connection, relevance and trust are identified as
+common core causes of CBBE in both Greece and Germany.
+Nonetheless, Greek consumers follow a more relational pathway to
+CBBE whilst German consumers kick off the CBBE process with an
+evaluation of the brand’s functional characteristics that subsequently
+informs the brand’s reputation assessment. This is consistent with pre-
+vious research (e.g., Laroche et al., 2005) highlighting that collectivistic
+cultures, such as Greece, tend to pay attention to relationships and base
+their purchase decisions more on feelings and trust while individualistic
+cultures, such as Germany, are more information-focused (Choi et al.,
+1997) and gravitate toward a brand’s added values and abstract per-
+sonality traits (Laroche et al., 2005).
+
+Acknowledging that CBBE is rarely an end goal in itself, this study
+shows that the CBBE building process is capable of predicting sig-
+nificant consumer behavioral outcomes (i.e., intention to pay a price
+premium, to recommend, and to purchase). Nonetheless, no single
+theoretical solution is able to predict all three outcomes; instead,
+
+338
+
+different constellations of brand concepts emerge as core causes for
+each outcome (and in each country) further attesting to the complexity
+of the phenomenon. Greek consumers, consistent with collectivistic
+cultures, are more willing to pay a premium for brands they have a
+close relationship with. German consumers follow a more integrated
+pathway to price premium intention that combines elements from all
+three CBBE building blocks, suggesting a more rational and informed
+way of making this type of decision consistent with individualistic na-
+tions (Choi et al., 1997; Stern & Resnik, 1991). Similar to price pre-
+mium intention, Greek consumers intend to recommend brands based
+on relational CBBE elements. Interestingly, the role of
+functional
+characteristics is less pivotal in German consumers’ intention to re-
+commend a brand where imagery brand characteristics and brand- self
+connection are key considerations. Brand recommendation arguably
+occurs as an action of a personal statement for Germans since they are
+willing to recommend brands that portray and reinforce their identity
+through brand imagery, symbolic characteristics, which are perceived
+by them to be similar to their own self-image (Tuškej et al., 2013).
+Finally, Greek consumers follow one of two pathways to repurchase a
+brand – one relational, and one more cognitive pathway based on brand
+associations and reputation. Consistent with individualistic cultures
+who are more likely to gravitate on information and the properties of
+brands (Laroche et al., 2005), German consumers once again anchor on
+the functional characteristics of the brand via which the reputation of
+the brand is built which ultimately leads to a relationship.
+
+and
+
+could
+
+adaptation
+
+harmoniously
+
+This research also contributes to the debate on standardization
+versus adaptation by showing that when it comes to brand strategies,
+standardization
+coexist
+(Theodosiou & Leonidou, 2003) for high levels of overall brand equity.
+The results provide theoretical substantiation to the fundamental issue
+that researchers have recognized but so far neglected to investigate by
+insisting on a “one-size-fits-all” linear solution. The findings comple-
+ment and extend previous research that suggests that it is irrational for
+brands to totally standardize their approach, except under a clearly
+defined set of circumstances and in certain contexts and product cate-
+gories (Alashban, Hayes, Zinkhan, & Balazs, 2002; Douglas & Wind,
+1987; Vrontis, Thrassou, & Lamprianou, 2009).
+
+5.2. Managerial implications
+
+The proposed model provides a pre-eminence in terms of manage-
+rial implications, indicating multiple solutions to manage strong brands
+at both the national and international levels. Specifically, this study is
+the first to empirically show that though strong brands have some in-
+gredients of brand success in common (e.g., brand- self connection,
+relevance, and trust), it is the ‘recipe’ and not the ingredients per se that
+allow them to build their own brand success story. Thus, the study
+significantly contributes to international businesses’ strategic objectives
+to build a global, strong brand on the basis of international core ele-
+ments of success (i.e., common patterns among different national con-
+texts) and to sustain a successful competitive brand positioning by
+identifying and managing their own ‘recipe’ of success.
+
+The rationale of the CBBE model can also help brand managers
+overcome the difficulties in implementing the mission of globally suc-
+cessful brands (e.g., “think globally, act locally”) by providing an op-
+timum diagnostic tool. By supporting the idea of brand success un-
+iqueness under the prism of global common patterns, the CBBE can aid
+managers in mapping and designing new international and national
+brand landscapes, including specificities of the national context, com-
+petitive brands, and their own brand. This is essential and can further
+support brand managers’ desire to achieve brand success in the inter-
+national business environment. Differences between Greek and German
+consumers, as suggested by the findings, necessitate brand managers to
+in
+(a) highlight
+
+the relational elements of
+
+the CBBE process
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+collectivistic cultures, and (b) emphasize the functional brand char-
+acteristics in individualistic cultures.
+
+Finally, the study contributes to building and managing global
+brand architecture by offering a tool that can inform decisions about
+the management of brand portfolios across countries. Applying the
+model to different units of analysis, for example product category, helps
+brand managers identify common patterns or their brands’ differential
+positioning. In addition, brand managers could detect brands within
+their portfolio that are probably too similar in terms of their brand
+equity structure and, as such, could cannibalize each other. At the same
+time, managers could use this tool to structure international brand
+management teams in a customer-centric way by identifying and
+grouping markets on the basis of similarities of their brand equity
+composition.
+
+5.3. Limitations and suggestions for further research
+
+The study’s results advance the discussion on brand equity by en-
+couraging researchers to rethink CBBE as a complex and dynamic
+process that leads to significant consumer behavioral outcomes and by
+providing insights into its applicability in the international environ-
+ment. However, given that the focus of this study is on consumers’ most
+favorable brand choice, replicating the study using a group of specific
+competitive brands or particular brand cases would be beneficial and
+add to the model’s robustness and usefulness in offering managerial
+implications. This study focuses on a cross-sectional research design.
+However, the dynamic nature and longer-term perspective of CBBE
+makes a longitudinal assessment of the initial CBBE building process of
+new brands in the market an essential future research priority. How
+stable is this process over time, and what elements in the environment
+other than national culture affect the significance of the ingredients
+within each block? Which ‘recipes’ are stable over time, and which are
+more temporal or prone to environmental or situational factors?
+
+Another limitation of the present study concerns the focus on a
+single cultural dimension (individualism/collectivism) to explain cross
+country differences vis-à-vis the CBBE development process and the
+configurations that lead to key consumer behavioral outcomes. Other
+dimensions of culture, such as uncertainty avoidance and power dis-
+tance previously linked to cross-cultural patterns of brand perceptions
+and choices may further illuminate the role of culture in the develop-
+ment of CBBE and consumer behavioral outcomes. While we recognize
+that different approaches exist to capture culture, this study employs
+Hofstede (1984), Hofstede Insights (2018) scores to classify Greece and
+Germany as two countries with dissimilar scores on individualism/
+collectivism. Other studies are encouraged to replicate these findings by
+measuring culture at the individual consumer level.
+
+Furthermore, the potential applicability of the proposed model’s
+rationale in other branding phenomena (e.g., negative CBBE, corporate
+branding, cobranding, brand cannibalization) would provide insightful
+ideas toward the substantial improvement of brand theory and practice.
+This study focuses on consumers’
+favorite brands (i.e., successful
+brands). Of relevant interest would be to examine negative CBBE to
+determine whether this is an outcome of poor scores in the building
+blocks or whether a different process underlies the construct in both
+national and international markets.
+
+Finally, research could adopt the same methodology to develop si-
+milar frameworks to understand brand equity from the perspective of
+other stakeholders, such as employees. This would be particularly
+useful for multinational enterprises as it could help inform adaptations
+to internal branding programs and other human resource initiatives
+delivered to internal stakeholders in different countries.
+
+Funding
+
+This work was supported by the Economic and Social Research
+
+Council [RES-000-22-3431].
+
+Appendix A
+
+Table A1
+Samples’ Demographic Profiles.
+
+Gender
+
+Age
+
+Education
+
+Income
+
+Male
+Female
+18–24
+25–44
+45–64
+65+
+Higher degree
+and postgraduate
+qualification
+Degree or degree
+equivalent
+School leaving
+certificate
+Other
+Lower than
+€10,000
+€10,000–20,000
+€20,001–30,000
+€30,001–40,000
+€40,001–50,000
+€50,001–60,000
+€60,001–70,000
+€70,000+
+
+Germany (n = 301)
+
+Greece (n = 312)
+
+Frequency
+
+Percentage
+
+Frequency
+
+Percentage
+
+138
+163
+46
+94
+87
+74
+10
+
+71
+
+187
+
+33
+74
+
+71
+39
+29
+38
+32
+17
+1
+
+45.8
+54.2
+15.3
+31.2
+28.9
+24.6
+3.3
+
+23.6
+
+62.1
+
+11.0
+24.6
+
+23.6
+13.0
+9.7
+12.6
+10.6
+5.6
+.3
+
+339
+
+159
+153
+54
+113
+85
+60
+25
+
+120
+
+107
+
+57
+122
+
+97
+49
+22
+11
+6
+5
+–
+
+51
+49
+17.3
+36.2
+27.2
+19.2
+8.0
+
+38.5
+
+34.3
+
+18.3
+39.1
+
+31.1
+15.7
+7.1
+3.5
+1.9
+1.6
+–
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Table A2
+Consumers’ Responses to Different Product Categories.
+
+Germany (n = 301)
+
+Greece (n = 312)
+
+Frequency
+
+Percentage
+
+Frequency
+
+Percentage
+
+109
+35
+40
+53
+46
+18
+301
+
+36.2
+11.6
+13.3
+17.6
+15.3
+6.0
+100
+
+79
+48
+30
+75
+60
+20
+312
+
+25.3
+15.4
+9.6
+24.0
+19.2
+6.4
+100
+
+Shampoos
+Consumer Electronics
+Coffee Houses
+Mobile Networks
+Banks
+Internet Retailers
+Total
+
+Table A3
+Study’s Measures.
+
+Constructs
+
+Items
+
+Brand
+
+Brand Heritage
+
+Building
+Block (BBB)
+
+Brand Personality
+
+Brand Nostalgia
+
+Brand Perceived Quality
+
+Brand Leadership
+
+Brand Competitive Advantage
+
+Brand
+
+Brand Awareness
+
+Understanding
+Block (BUB)
+
+Brand Associations
+
+Brand Reputation
+
+Brand-Self Connection
+
+Brand
+
+Partner Quality
+
+Relationship
+Block (BRB)
+
+Brand Intimacy
+
+Brand Trust
+
+Brand Relevance
+
+Overall brand equity
+
+Intention to pay more
+
+Brand
+
+Recommendation
+
+Intention to re-purchase
+
+This is a brand whose history is important.
+This brand has a long history.
+This brand has been around for a long time GE = .915; GR = .906
+This brand has a strong personality.
+This brand has a distinct personality.
+I can describe this brand with adjectives I would use to describe a person.
+GE = .828; GR = .788
+This brand reminds me of things I have done or places I have been.
+This brand reminds me of a certain period of my life. GE = .865; GR = .872
+This brand is good quality.
+This brand has excellent features.
+Compared to other brands in its category, this brand is of very high quality.
+GE = .831; GR = .854
+This brand is a leading brand in its category.
+This brand is leading its category.
+This brand tends to outperform its competitors. GE = .814; GR = .885
+This brand has a clear advantage over competitive brands.
+There is a distinct benefit from using this brand over other brands.
+This brand is superior to other brands in its category. GE = .898; GR = .899
+I have heard of this brand.
+I am quite familiar with this brand.
+I can recognize this brand among other brands. GE = .754; GR = .737
+This brand has strong associations.
+This brand has favorable associations.
+It is clear what this brand stands for. GE = .842; GR = .890
+This brand is highly regarded.
+This brand has status.
+This brand has a good reputation. GE = .820; GR = .843
+This brand and I have lots in common.
+This brand reminds me of who I am. GE = .908; GR = .880
+This brand has always been good to me.
+This brand treats me as important and valuable customer/user GE = .802; GR = .786
+I really empathize with this brand.
+It feels like I know this brand for a long time. GE = .810; GR = .807
+This brand delivers what it promises.
+This brand's product claims are believable.
+This brand has a name you can trust. GE = .852; GR = .880
+This brand is relevant to my family and/or close friends.
+This brand fits my lifestyle.
+This brand has personal relevance to me. GE = .858; GR = .903
+It makes sense to buy this brand instead of any other brand, even if they are the same.
+Even if another brand has the same features as this, I would prefer to buy this brand.
+If there is another brand as good as this, I prefer to buy this brand.
+If another brand is not different from this in any way, it seems smarter to purchase/use this one. GE = .918; GR = .921
+The price of this brand would have to go up quite a bit before I would switch to another brand in this category
+I am willing to pay a higher price for this brand than for other brands in this category
+I am willing to pay a lot more for this brand than other brands in this category
+GE = .870; GR = .801
+I would recommend this brand to friends and relatives
+I will speak positively about this brand
+I intend to encourage other people to buy this brand GE = .894; GR = .911
+It is very unlikely/very likely to repurchase this brand
+
+340
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+8
+1
+
+7
+1
+
+6
+1
+
+5
+1
+
+4
+1
+
+3
+1
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+1
+
+*
+*
+9
+1
+3
+
+.
+
+1
+
+*
+*
+4
+9
+3
+
+.
+
+*
+*
+0
+8
+2
+
+.
+
+1
+
+*
+*
+2
+4
+6
+
+.
+
+*
+*
+0
+7
+5
+
+.
+
+*
+*
+9
+4
+3
+
+.
+
+1
+
+*
+*
+6
+1
+5
+
+.
+
+*
+*
+9
+6
+3
+
+.
+
+*
+*
+1
+1
+4
+
+.
+
+*
+*
+6
+0
+4
+
+.
+
+1
+
+*
+*
+5
+8
+4
+
+.
+
+*
+*
+1
+2
+6
+
+.
+
+*
+*
+9
+0
+5
+
+.
+
+*
+*
+4
+5
+4
+
+.
+
+*
+*
+0
+5
+2
+
+.
+
+1
+
+*
+*
+3
+7
+6
+
+.
+
+*
+*
+9
+6
+4
+
+.
+
+*
+*
+7
+1
+6
+
+.
+
+*
+*
+9
+2
+5
+
+.
+
+*
+*
+9
+6
+4
+
+.
+
+*
+*
+7
+7
+2
+
+.
+
+1
+
+*
+*
+7
+2
+6
+
+.
+
+*
+*
+1
+9
+5
+
+.
+
+*
+*
+7
+6
+4
+
+.
+
+*
+*
+6
+0
+6
+
+.
+
+*
+*
+2
+9
+4
+
+.
+
+*
+*
+8
+9
+3
+
+.
+
+*
+*
+8
+3
+2
+
+.
+
+1
+
+1
+
+*
+*
+5
+2
+5
+
+.
+
+1
+
+*
+*
+6
+8
+5
+
+.
+
+*
+*
+8
+6
+3
+
+.
+
+1
+
+*
+*
+0
+5
+6
+
+*
+*
+0
+9
+6
+
+.
+
+*
+*
+6
+1
+5
+
+.
+
+1
+
+*
+*
+1
+1
+6
+
+.
+
+*
+*
+2
+0
+5
+
+.
+
+*
+*
+8
+2
+7
+
+.
+
+*
+*
+9
+3
+5
+
+.
+
+1
+
+*
+*
+5
+3
+5
+
+.
+
+*
+*
+0
+4
+6
+
+.
+
+*
+*
+8
+9
+5
+
+.
+
+*
+*
+8
+0
+6
+
+.
+
+*
+*
+4
+6
+3
+
+.
+
+1
+
+*
+*
+1
+0
+7
+
+.
+
+*
+*
+1
+0
+6
+
+.
+
+*
+*
+1
+7
+5
+
+.
+
+*
+*
+9
+3
+5
+
+.
+
+*
+*
+1
+8
+5
+
+.
+
+*
+*
+9
+9
+2
+
+.
+
+1
+
+*
+*
+1
+9
+6
+
+.
+
+*
+*
+6
+1
+7
+
+.
+
+*
+*
+8
+3
+5
+
+.
+
+*
+*
+4
+7
+5
+
+.
+
+*
+*
+4
+0
+5
+
+.
+
+*
+*
+1
+2
+5
+
+.
+
+*
+*
+6
+9
+2
+
+.
+
+1
+
+*
+*
+9
+6
+3
+
+.
+
+*
+*
+7
+5
+3
+
+.
+
+*
+*
+4
+8
+3
+
+.
+
+*
+*
+4
+9
+3
+
+.
+
+*
+*
+8
+4
+3
+
+.
+
+*
+*
+0
+3
+3
+
+.
+
+*
+*
+5
+2
+3
+
+.
+
+*
+*
+6
+5
+2
+
+.
+
+1
+
+*
+*
+0
+6
+4
+
+.
+
+*
+*
+4
+6
+3
+
+.
+
+*
+*
+1
+4
+4
+
+.
+
+*
+*
+7
+1
+5
+
+.
+
+*
+*
+5
+4
+4
+
+.
+
+*
+*
+0
+9
+3
+
+.
+
+*
+*
+1
+0
+5
+
+.
+
+*
+*
+6
+7
+3
+
+.
+
+1
+
+*
+*
+0
+0
+3
+
+.
+
+*
+*
+4
+3
+6
+
+.
+
+*
+*
+7
+9
+5
+
+.
+
+*
+*
+1
+8
+5
+
+.
+
+*
+*
+8
+5
+2
+
+.
+
+*
+*
+6
+0
+5
+
+.
+
+*
+*
+7
+9
+4
+
+.
+
+*
+*
+5
+9
+4
+
+.
+
+*
+*
+5
+7
+1
+
+.
+
+1
+
+*
+*
+3
+3
+3
+
+.
+
+*
+*
+7
+4
+7
+
+.
+
+*
+*
+4
+5
+6
+
+.
+
+*
+*
+6
+3
+7
+
+.
+
+*
+*
+6
+0
+4
+
+.
+
+*
+*
+5
+1
+5
+
+.
+
+*
+*
+4
+2
+5
+
+.
+
+*
+*
+6
+8
+4
+
+.
+
+*
+*
+6
+7
+2
+
+.
+
+1
+
+*
+*
+4
+3
+4
+
+.
+
+*
+*
+3
+0
+4
+
+.
+
+*
+*
+5
+8
+4
+
+.
+
+*
+*
+0
+9
+4
+
+.
+
+*
+*
+9
+3
+5
+
+.
+
+*
+*
+7
+8
+4
+
+.
+
+*
+*
+4
+9
+4
+
+.
+
+*
+*
+0
+8
+3
+
+.
+
+*
+*
+4
+6
+3
+
+.
+
+*
+8
+3
+1
+
+.
+
+1
+
+*
+*
+3
+0
+4
+
+.
+
+*
+*
+7
+0
+5
+
+.
+
+*
+*
+9
+4
+5
+
+.
+
+*
+*
+2
+0
+5
+
+.
+
+*
+*
+2
+7
+4
+
+.
+
+*
+*
+8
+8
+6
+
+.
+
+*
+*
+1
+8
+4
+
+.
+
+*
+*
+6
+1
+4
+
+.
+
+*
+*
+5
+5
+5
+
+.
+
+*
+*
+1
+8
+3
+
+.
+
+1
+
+*
+*
+0
+8
+1
+
+.
+
+*
+*
+7
+9
+4
+
+.
+
+*
+*
+4
+7
+2
+
+.
+
+*
+*
+9
+5
+1
+
+.
+
+*
+*
+6
+7
+1
+
+.
+
+*
+*
+7
+1
+4
+
+.
+
+*
+*
+6
+6
+2
+
+.
+
+*
+*
+2
+2
+2
+
+.
+
+*
+*
+6
+9
+1
+
+.
+
+*
+*
+6
+5
+1
+
+.
+
+0
+4
+0
+
+.
+
+1
+
+*
+*
+4
+5
+4
+
+.
+
+*
+2
+4
+1
+
+.
+
+*
+*
+5
+6
+4
+
+.
+
+*
+*
+4
+6
+2
+
+.
+
+*
+*
+6
+6
+2
+
+.
+
+*
+*
+5
+3
+2
+
+.
+
+*
+*
+6
+7
+4
+
+.
+
+*
+*
+8
+7
+2
+
+.
+
+*
+*
+7
+0
+2
+
+.
+
+*
+*
+7
+4
+3
+
+.
+
+*
+*
+2
+8
+3
+
+.
+
+1
+
+*
+*
+2
+9
+2
+
+.
+
+*
+*
+2
+0
+6
+
+.
+
+*
+*
+5
+8
+2
+
+.
+
+*
+*
+9
+3
+3
+
+.
+
+*
+*
+3
+4
+4
+
+.
+
+*
+*
+9
+3
+4
+
+.
+
+*
+*
+5
+1
+4
+
+.
+
+*
+*
+5
+9
+4
+
+.
+
+*
+*
+5
+1
+5
+
+.
+
+*
+*
+0
+7
+3
+
+.
+
+*
+*
+2
+0
+3
+
+.
+
+*
+*
+4
+0
+2
+
+.
+
+1
+
+*
+*
+2
+9
+4
+
+.
+
+*
+*
+1
+0
+7
+
+.
+
+*
+*
+5
+4
+3
+
+.
+
+*
+*
+1
+7
+4
+
+.
+
+*
+*
+5
+5
+4
+
+.
+
+*
+*
+1
+9
+4
+
+.
+
+*
+*
+4
+2
+4
+
+.
+
+*
+*
+1
+4
+6
+
+.
+
+*
+*
+1
+5
+5
+
+.
+
+*
+*
+8
+6
+4
+
+.
+
+*
+*
+5
+0
+6
+
+.
+
+*
+*
+9
+3
+4
+
+.
+
+1
+
+*
+*
+5
+4
+6
+
+.
+
+*
+*
+6
+4
+2
+
+.
+
+*
+*
+5
+6
+6
+
+.
+
+*
+*
+7
+8
+2
+
+.
+
+*
+*
+3
+4
+3
+
+.
+
+*
+*
+6
+6
+4
+
+.
+
+*
+*
+4
+6
+4
+
+.
+
+*
+*
+2
+7
+4
+
+.
+
+*
+*
+6
+3
+5
+
+.
+
+*
+*
+9
+2
+5
+
+.
+
+*
+*
+4
+7
+4
+
+.
+
+*
+*
+9
+8
+3
+
+.
+
+*
+*
+3
+1
+3
+
+.
+
+1
+
+*
+*
+6
+5
+7
+
+.
+
+*
+*
+4
+2
+4
+
+.
+
+*
+*
+3
+3
+7
+
+.
+
+*
+*
+5
+7
+3
+
+.
+
+*
+*
+0
+2
+5
+
+.
+
+*
+*
+2
+0
+5
+
+.
+
+*
+*
+3
+9
+4
+
+.
+
+*
+*
+1
+8
+4
+
+.
+
+*
+*
+3
+7
+6
+
+.
+
+*
+*
+7
+8
+5
+
+.
+
+*
+*
+7
+1
+5
+
+.
+
+*
+*
+4
+8
+5
+
+.
+
+*
+*
+1
+1
+4
+
+.
+
+1
+
+*
+*
+7
+2
+6
+
+.
+
+*
+*
+8
+3
+5
+
+.
+
+*
+*
+4
+6
+2
+
+.
+
+*
+*
+0
+1
+5
+
+.
+
+*
+*
+8
+7
+2
+
+.
+
+*
+*
+7
+1
+3
+
+.
+
+*
+*
+3
+5
+4
+
+.
+
+*
+*
+2
+5
+4
+
+.
+
+*
+*
+5
+6
+4
+
+.
+
+*
+*
+6
+5
+6
+
+.
+
+*
+*
+3
+0
+5
+
+.
+
+*
+*
+0
+2
+4
+
+.
+
+*
+*
+7
+0
+4
+
+.
+
+*
+*
+7
+4
+3
+
+.
+
+1
+
+*
+*
+0
+0
+7
+
+.
+
+*
+*
+0
+6
+6
+
+.
+
+*
+*
+1
+7
+4
+
+.
+
+*
+*
+2
+0
+7
+
+.
+
+*
+*
+7
+6
+3
+
+.
+
+*
+*
+6
+8
+4
+
+.
+
+*
+*
+5
+1
+5
+
+.
+
+*
+*
+6
+7
+4
+
+.
+
+*
+*
+9
+4
+4
+
+.
+
+*
+*
+2
+4
+7
+
+.
+
+*
+*
+3
+0
+5
+
+.
+
+*
+*
+7
+3
+3
+
+.
+
+*
+*
+0
+9
+3
+
+.
+
+*
+*
+2
+6
+3
+
+.
+
+1
+
+*
+*
+4
+5
+1
+
+.
+
+*
+*
+0
+1
+2
+
+.
+
+*
+*
+8
+3
+2
+
+.
+
+*
+*
+1
+0
+3
+
+.
+
+*
+*
+4
+8
+6
+
+.
+
+*
+*
+8
+4
+3
+
+.
+
+*
+*
+1
+7
+4
+
+.
+
+*
+*
+6
+4
+4
+
+.
+
+*
+*
+9
+2
+5
+
+.
+
+*
+*
+9
+0
+2
+
+.
+
+*
+*
+7
+0
+4
+
+.
+
+*
+*
+6
+9
+4
+
+.
+
+*
+*
+8
+3
+3
+
+.
+
+9
+8
+0
+
+.
+
+0
+9
+0
+
+.
+
+1
+
+*
+*
+2
+8
+2
+
+.
+
+*
+*
+6
+2
+3
+
+.
+
+*
+*
+3
+0
+3
+
+.
+
+*
+*
+7
+4
+1
+
+.
+
+*
+*
+2
+4
+3
+
+.
+
+*
+*
+8
+8
+6
+
+.
+
+*
+*
+0
+8
+3
+
+.
+
+*
+*
+8
+5
+5
+
+.
+
+*
+*
+9
+9
+5
+
+.
+
+*
+*
+1
+5
+6
+
+.
+
+*
+*
+6
+5
+3
+
+.
+
+*
+*
+0
+4
+4
+
+.
+
+*
+*
+0
+5
+5
+
+.
+
+*
+*
+4
+9
+3
+
+.
+
+*
+*
+9
+6
+1
+
+.
+
+1
+
+*
+*
+2
+7
+3
+
+.
+
+*
+*
+2
+4
+3
+
+.
+
+*
+*
+1
+9
+4
+
+.
+
+*
+*
+4
+8
+3
+
+.
+
+*
+*
+0
+1
+2
+
+.
+
+*
+*
+1
+3
+5
+
+.
+
+*
+*
+1
+7
+4
+
+.
+
+*
+*
+7
+6
+4
+
+.
+
+*
+*
+0
+4
+4
+
+.
+
+*
+*
+1
+2
+4
+
+.
+
+*
+*
+5
+8
+4
+
+.
+
+*
+*
+5
+7
+2
+
+.
+
+*
+*
+9
+1
+4
+
+.
+
+*
+*
+7
+3
+3
+
+.
+
+*
+*
+1
+7
+4
+
+.
+
+*
+7
+4
+1
+
+.
+
+*
+*
+7
+0
+3
+
+.
+
+*
+*
+8
+2
+5
+
+.
+
+*
+*
+4
+0
+6
+
+.
+
+*
+*
+4
+1
+6
+
+.
+
+*
+*
+6
+6
+4
+
+.
+
+*
+*
+9
+5
+6
+
+.
+
+*
+*
+7
+6
+3
+
+.
+
+*
+*
+7
+3
+5
+
+.
+
+*
+*
+0
+2
+5
+
+.
+
+*
+*
+3
+3
+4
+
+.
+
+*
+*
+4
+1
+4
+
+.
+
+*
+*
+5
+7
+5
+
+.
+
+*
+*
+2
+4
+5
+
+.
+
+*
+*
+7
+9
+3
+
+.
+
+*
+*
+8
+3
+5
+
+.
+
+*
+*
+9
+4
+3
+
+.
+
+1
+
+2
+
+1
+
+*
+*
+6
+8
+2
+
+.
+
+*
+*
+2
+5
+2
+
+.
+
+*
+*
+8
+8
+3
+
+.
+
+*
+*
+3
+9
+3
+
+.
+
+*
+*
+0
+7
+3
+
+.
+
+*
+3
+3
+1
+
+.
+
+*
+*
+1
+1
+5
+
+.
+
+*
+*
+0
+7
+3
+
+.
+
+*
+*
+5
+6
+2
+
+.
+
+*
+*
+0
+9
+4
+
+.
+
+*
+*
+7
+2
+4
+
+.
+
+*
+*
+7
+9
+4
+
+.
+
+*
+*
+1
+2
+4
+
+.
+
+*
+*
+0
+1
+4
+
+.
+
+*
+*
+2
+6
+2
+
+.
+
+*
+*
+4
+2
+2
+
+.
+
+5
+6
+0
+
+.
+
+*
+*
+5
+4
+5
+
+.
+
+*
+*
+1
+4
+3
+
+.
+
+*
+*
+7
+8
+4
+
+.
+
+*
+*
+1
+5
+5
+
+.
+
+*
+*
+2
+9
+5
+
+.
+
+*
+*
+6
+5
+3
+
+.
+
+*
+*
+9
+1
+6
+
+.
+
+*
+*
+9
+0
+4
+
+.
+
+*
+*
+4
+2
+4
+
+.
+
+*
+*
+9
+6
+4
+
+.
+
+*
+*
+0
+6
+4
+
+.
+
+*
+*
+2
+5
+4
+
+.
+
+*
+*
+3
+3
+5
+
+.
+
+*
+*
+4
+0
+5
+
+.
+
+*
+*
+5
+4
+4
+
+.
+
+*
+*
+2
+6
+4
+
+.
+
+*
+*
+0
+7
+3
+
+.
+
+1
+
+1
+
+1
+
+D
+S
+
+n
+a
+e
+M
+
+y
+n
+a
+m
+r
+e
+G
+
+8
+6
+1
+
+.
+
+5
+4
+1
+
+.
+
+1
+8
+1
+
+.
+
+4
+9
+
+.
+
+7
+2
+1
+
+.
+
+6
+1
+1
+
+.
+
+6
+0
+1
+
+.
+
+9
+2
+1
+
+.
+
+8
+5
+1
+
+.
+
+5
+4
+1
+
+.
+
+1
+6
+1
+
+.
+
+6
+6
+1
+
+.
+
+6
+6
+1
+
+.
+
+1
+0
+1
+
+.
+
+1
+6
+1
+
+.
+
+6
+5
+1
+
+.
+
+3
+3
+1
+
+.
+
+5
+2
+1
+
+.
+
+3
+2
+1
+
+.
+
+5
+1
+1
+
+.
+
+7
+8
+1
+
+.
+
+5
+0
+1
+
+.
+
+4
+2
+1
+
+.
+
+7
+0
+1
+
+.
+
+2
+1
+1
+
+.
+
+4
+7
+1
+
+.
+
+2
+5
+1
+
+.
+
+2
+5
+1
+
+.
+
+2
+5
+1
+
+.
+
+1
+7
+1
+
+.
+
+0
+0
+1
+
+.
+
+4
+4
+1
+
+.
+
+0
+5
+1
+
+.
+
+6
+2
+1
+
+.
+
+1
+4
+1
+
+.
+
+7
+9
+
+.
+
+5
+5
+4
+
+.
+
+7
+5
+4
+
+.
+
+2
+9
+2
+
+.
+
+7
+5
+5
+
+.
+
+0
+0
+5
+
+.
+
+7
+1
+5
+
+.
+
+5
+0
+6
+
+.
+
+6
+7
+4
+
+.
+
+7
+8
+2
+
+.
+
+9
+8
+4
+
+.
+
+2
+8
+3
+
+.
+
+8
+1
+4
+
+.
+
+8
+0
+4
+
+.
+
+2
+5
+5
+
+.
+
+3
+1
+4
+
+.
+
+6
+4
+3
+
+.
+
+9
+5
+4
+
+.
+
+5
+0
+6
+
+.
+
+4
+6
+5
+
+.
+
+9
+5
+5
+
+.
+
+9
+7
+3
+
+.
+
+9
+7
+5
+
+.
+
+6
+3
+5
+
+.
+
+3
+6
+5
+
+.
+
+7
+0
+6
+
+.
+
+0
+8
+5
+
+.
+
+5
+0
+4
+
+.
+
+1
+0
+5
+
+.
+
+2
+7
+4
+
+.
+
+1
+8
+4
+
+.
+
+8
+3
+4
+
+.
+
+4
+7
+5
+
+.
+
+3
+0
+5
+
+.
+
+4
+2
+4
+
+.
+
+4
+4
+5
+
+.
+
+1
+9
+5
+
+.
+
+y
+t
+i
+l
+a
+n
+o
+s
+r
+e
+P
+
+e
+g
+a
+t
+i
+r
+e
+H
+
+a
+i
+g
+l
+a
+t
+s
+o
+N
+
+y
+t
+i
+l
+a
+u
+Q
+
+v
+d
+a
+_
+p
+m
+o
+C
+
+p
+i
+h
+s
+r
+e
+d
+a
+e
+L
+
+s
+s
+e
+n
+e
+r
+a
+w
+A
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+.
+
+n
+o
+c
+_
+f
+l
+e
+S
+
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+y
+c
+a
+m
+
+i
+t
+n
+I
+
+q
+_
+r
+e
+n
+t
+r
+a
+P
+
+e
+c
+n
+a
+v
+e
+l
+e
+R
+
+e
+s
+a
+h
+c
+r
+u
+p
+-
+e
+R
+
+.
+
+m
+m
+o
+c
+e
+R
+
+p
+_
+e
+c
+i
+r
+P
+
+y
+t
+i
+l
+a
+n
+o
+s
+r
+e
+P
+
+e
+g
+a
+t
+i
+r
+e
+H
+
+a
+i
+g
+l
+a
+t
+s
+o
+N
+
+y
+t
+i
+l
+a
+u
+Q
+
+v
+d
+a
+_
+p
+m
+o
+C
+
+p
+i
+h
+s
+r
+e
+d
+a
+e
+L
+
+s
+s
+e
+n
+e
+r
+a
+w
+A
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+.
+
+n
+o
+c
+_
+f
+l
+e
+S
+
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+y
+c
+a
+m
+
+i
+t
+n
+I
+
+q
+_
+r
+e
+n
+t
+r
+a
+P
+
+e
+c
+n
+a
+v
+e
+l
+e
+R
+
+e
+s
+a
+h
+c
+r
+u
+p
+-
+e
+R
+
+.
+
+m
+m
+o
+c
+e
+R
+
+p
+_
+e
+c
+i
+r
+P
+
+t
+s
+u
+r
+T
+
+E
+B
+O
+
+t
+s
+u
+r
+T
+
+E
+B
+O
+
+.
+s
+n
+o
+i
+t
+i
+d
+n
+o
+C
+
+s
+’
+y
+d
+u
+t
+S
+
+e
+h
+t
+
+g
+n
+o
+m
+a
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+4
+A
+e
+l
+b
+a
+T
+
+341
+
+.
+
+d
+n
+a
+r
+b
+
+e
+h
+t
+
+e
+s
+a
+h
+c
+r
+u
+p
+-
+e
+r
+
+o
+t
+
+n
+o
+i
+t
+n
+e
+t
+n
+i
+
+’
+s
+r
+e
+m
+u
+s
+n
+o
+c
+
+=
+
+e
+s
+a
+h
+c
+r
+u
+p
+-
+e
+R
+
+;
+
+d
+n
+a
+r
+b
+
+e
+h
+t
+
+d
+n
+e
+m
+m
+o
+c
+e
+r
+
+o
+t
+
+n
+o
+i
+t
+n
+e
+t
+n
+i
+
+’
+s
+r
+e
+m
+u
+s
+n
+o
+c
+
+=
+
+.
+
+m
+m
+o
+c
+e
+R
+
+;
+e
+r
+o
+m
+y
+a
+p
+
+o
+t
+
+n
+o
+i
+t
+n
+e
+t
+n
+i
+
+’
+s
+r
+e
+m
+u
+s
+n
+o
+c
+
+=
+p
+_
+e
+c
+i
+r
+P
+
+;
+y
+t
+i
+u
+q
+e
+
+d
+n
+a
+r
+b
+
+l
+l
+a
+r
+e
+v
+O
+=
+E
+B
+O
+
+:
+s
+e
+t
+o
+N
+
+.
+l
+e
+v
+e
+l
+
+1
+0
+0
+
+.
+
+e
+h
+t
+
+t
+a
+
+t
+n
+a
+c
+fi
+i
+n
+g
+i
+s
+
+e
+r
+a
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+*
+*
+
+.
+l
+e
+v
+e
+l
+
+5
+0
+0
+
+.
+
+e
+h
+t
+
+t
+a
+
+t
+n
+a
+c
+fi
+i
+n
+g
+i
+s
+
+e
+r
+a
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+*
+
+K. Chatzipanagiotou et al.
+
+References
+
+Aaker, D. (1991). Managing brand equity: Capitalizing on the value of a brand name. New
+
+York: The Free Press.
+
+Aaker, J. L., & Maheswaran, D. (1997). The effect of cultural orientation on persuasion.
+
+Journal of Consumer Research, 24(3), 315–328.
+
+Aaker, J. L., & Schmitt, B. H. (1997). The influence of culture on the self-expressive use of
+brands. In J. W. Alba, & J. W. Hutchinson (Vol. Eds.), Advances in consumer research,
+association for consumer research, provo, UT: Vol. 25, (pp. 12–). .
+
+Agarwal, M., & Rao, V. R. (1996). An empirical comparison of consumer-based measures
+
+of brand equity. Marketing Letters, 7(3), 237–247.
+
+Alashban, A. A., Hayes, L. A., Zinkhan, J. M., & Balazs, A. L. (2002). International brand-
+
+name Standardization/Adaptation: antecedents and consequences. Journal of
+International Marketing, 10(3), 22–48.
+
+Arnett, D., German, B., & Hunt, S. D. (2003). The identity salience model of relationship
+marketing success: The case of nonprofit marketing. Journal of Marketing, 67(2),
+89–105.
+
+Berg-Schlosser, D., & De Meur, G. (2009). Comparative research design: Case and variable
+selection. In B. Rihoux, & C. Ragin (Eds.). Configurational comparative methods:
+Qualitative comparative analysis (QCA) and related techniques (pp. 19–32). Thousand
+Oaks, CA: Sage.
+
+Bock, P. K. (1994). Introduction: Universal and particular. In P. K. Bock (Ed.). Handbook
+
+of psychological anthropology (pp. x–xix). Westport, CT: Greenwood Press.
+
+Brady, M. K., Cronin, J. J., Jr, Fox, G. L., & Roehm, M. L. (2008). Strategies to offset
+
+performance failures: The role of brand equity. Journal of Retailing, 84(2), 51–164.
+
+Brislin, R. (1980). Translation and content analysis of oral and written material. In H. C.
+Triandis, & J. W. Berry (Eds.). Handbook of Cross-cultural psychology (pp. 389–444).
+Boston: Allyn & Bacon.
+
+Brodbeck, F. C., Frese, M., Akerblom, S., Audia, G., Bakacsi, G., Bendova, H., et al. (2000).
+Cultural variation of leadership prototypes across 22 European countries. Journal of
+Occupational & Organizational Psychology, 73(1), 1–29.
+
+Brown, R. (2000). Social identity theory: Past achievements, current problems and future
+
+challenges. European Journal of Social Psychology, 30, 745–778.
+
+Broyles, A., Leingpibul, T., Ross, R., & Foster, B. (2010). Brand equity’s Antecedent/
+Consequence relationships in cross-cultural settings. Journal of Product & Brand
+Management, 19(3), 159–169.
+
+Buil, I., Martínez, E., & de Chernatony, L. (2008). A Cross-national validation of the
+
+consumer-based brand equity scale. Journal of Product & Brand Management, 17(6),
+384–392.
+
+Buil, I., Martínez, E., & de Chernatony, L. (2013). The influence of brand equity on
+
+customer responses. Journal of Customer Marketing, 30(1), 62–74.
+
+Chatzipanagiotou, K., Veloutsou, C., & Christodoulides, G. (2016). Decoding the com-
+plexity of the consumer-based brand equity process. Journal of Business Research,
+69(11), 5479–5486.
+
+Chaudhuri, A. (2002). How brand reputation affects the advertising-brand equity link.
+
+Journal of Advertising Research, 42(2), 33–43.
+
+Cheung, G., & Rensvold, R. (2002). Evaluating goodness-of-fit indexes for testing mea-
+
+surement invariance. Structural Equation Modeling, 9(2), 233–255.
+
+Choi, I., Nisbett, R. E., & Smith, E. E. (1997). Culture, category salience, and inductive
+
+reasoning. Cognition, 65, 15–32.
+
+Christensen, G., & Olson, J. (2002). Mapping consumers’ mental models with ZMET.
+
+Psychology & Marketing, 19(6), 477–501.
+
+Christodoulides, G., & de Chernatony, L. (2010). Consumer-based brand equity con-
+ceptualisation and measurement. International Journal of Market Research, 52(1),
+43–66.
+
+Christodoulides, G., Cadogan, J., & Veloutsou, C. (2015). Consumer-based brand equity
+
+measurement: Lessons learned from an International study. International Marketing
+Review, 32(3/4), 307–328.
+
+Christodoulides, G., de Chernatony, L., Furrer, O., & Abimbola, T. (2006).
+
+Conceptualising and measuring the equity of online brands. Journal of Marketing
+Management, 22(7/8), 799–825.
+
+Çifci, S., Ekinci, Y., Whyatt, G., Japutra, A., Molinillo, S., & Siala, H. (2016). A cross
+
+validation of consumer-based brand equity models: Driving customer equity in retail
+brands. Journal of Business Research, 69(9), 3740–3747.
+
+Cobb-Walgren, C. J., Ruble, C. A., & Donthu, N. (1995). Brand equity, brand preference,
+
+and purchase intent. Journal of Advertising, 24(3), 25–40.
+
+Crowne, D., & Marlowe, D. (1960). A new scale of social desirability independent of
+
+psychopathology. Journal of Consulting Psychology, 24, 349–354.
+
+Datta, H., Ailawadi, K., & van Heerde, H. (2017). How well does consumer-based brand
+equity align with sales-based brand equity and marketing-mix response? Journal of
+Marketing, 81(3), 1–20.
+
+Davvetas, V., & Diamantopoulos, A. (2017). “Regretting your brand-self?” The moder-
+ating role of consumer-brand identification on consumer responses to purchase re-
+gret. Journal of Business Research, 80, 218–227.
+
+De Mooij, M., & Hofstede, G. (2010). The Hofstede model: Applications to global branding
+and advertising strategy and research. International Journal of Advertising, 29(1),
+85–110.
+
+De Mooij, M., & Hofstede, G. (2011). Cross-cultural consumer behavior: A review of re-
+search findings. Journal of International Consumer Marketing, 23(3-4), 181–192.
+Douglas, S., & Wind, Y. (1987). The myth of globalization. Columbia Journal of World
+
+Business, 22(4), 19–29.
+
+Erdem, T., & Swait, J. (1998). Brand equity as a signaling phenomenon. Journal of
+
+Consumer Psychology, 7(2), 131–157.
+
+Erdem, T., Swait, J., & Valenzuela, A. (2006). Brands as signals: A cross-country valida-
+
+tion study. Journal of Marketing, 70(January), 34–49.
+
+International Business Review 28 (2019) 328–343
+
+Elbedweihy, A., Jayawardhena, C., Elsharnouby, M. H., & Elsharnouby, T. H. (2016).
+
+Customer relationship building: The role of brand attractiveness and consumer-brand
+identification. Journal of Business Research, 69, 2901–2910.
+
+Farquhar, P. H. (1989). Managing brand equity. Marketing Research, 1(3), 24–33.
+Fischer, D. G., & Fick, C. (1993). Measuring social desirability: Short forms of the mar-
+lowe-crowne social desirability scale. Educational and Psychological Measurement,
+53(2), 417–424.
+
+Fiss, P. C. (2011). Building better casual theories: A fuzzy set approach to typologies in
+
+organizational research. Academy of Management Journal, 54(2), 393–420.
+
+Ford, J., Mueller, B., Taylor, C., & Hollis, N. (2011). The tension between strategy and
+execution: Challenges for International advertising research—Globalization is much
+more than universal branding. Journal of Advertising Research, 51(1), 27–41.
+
+Goertz, G., & Starr, H. (2003). Necessary conditions: Theory, methodology, and applications.
+
+Lanham, Md. Boulder: Rowman & Littlefield.
+
+Gounaris, S., Chatzipanagiotou, K., Boukis, A., & Perks, H. (2016). Unfolding the recipes
+for conflict resolution during the New service development effort. Journal of Business
+Research, 69(10), 4042–4055.
+
+Graeff, T. R. (1997). Consumption situations and the effects of brand image on consumers’
+
+brand evaluations. Psychology & Marketing, 14(1), 49–70.
+
+Haumann, T., Quaiser, B., Wieseke, J., & Rese, M. (2014). Footprints in the sands of time:
+
+A comparative analysis of the effectiveness of customer satisfaction and customer-
+company identification over time. Journal of Marketing, 78(6), 78–102.
+
+Heinberga, M., Ozkayab, E., & Taubec, M. (2018). Do corporate image and reputation
+drive brand equity in India and China? - Similarities and differences. Journal of
+Business Research, 86, 259–268.
+
+Henderson, G., Iacobucci, D., & Calder, B. (1998). Brand diagnostics: Mapping branding
+effect using consumer associative networks. European Journal of Operational Research,
+111(2), 306–327.
+
+Henderson, G., Iacobucci, D., & Calder, B. (2002). Using network analysis to understand
+brands. In S. Broniarczyk, & K. Nakamoto (Vol. Eds.), Advances in consumer research:
+Vol. 29, (pp. 397–405). Valdosta, GA: Association for Consumer Research.
+
+Hennig-Thurau, T., Gwinner, K. P., Walsh, G., & Gremler, D. D. (2004). Electronic word-
+
+of-mouth via consumer-opinion platforms: What motivates consumers to articulate
+themselves on the internet? Journal of Interactive Marketing, 18(1), 38–52.
+
+Hofstede Insights, https://www.hofstede-insights.com/product/compare-countries/ (vis-
+
+ited 21 May 2018).
+
+Hofstede, G. (1980). Culture’s consequences. Beverly Hills, CA: SAGE.
+Hofstede, G. (1984). Culture’s consequences: International differences in work-related values
+
+(2nd ed.). Beverly Hills CA.
+
+House, R. J., Hanges, P. J., Javidan, M., Dorfman, P. W., & Gupta, V. (2004). Culture,
+leadership, and organizations: The GLOBE study of 62 societies. Thousand Oaks, CA:
+Sage Publications.
+
+Hsieh, M. H. (2002). Identifying brand image dimensionality and measuring the degree of
+brand globalization: A cross-national study. Journal of International Marketing, 10(2),
+46–67.
+
+Hsieh, M. H. (2004). Measuring global brand equity using cross-national survey data.
+
+Journal of International Marketing, 12(2), 28–57.
+
+Ioannou, M., & Rusu, O. (2012). Consumer-based brand equity: A cross-cultural per-
+
+spective. Journal of Promotion Management, 18(3), 344–360.
+
+John, D. R., Loken, B., Kim, K., & Monga, A. B. (2006). brand concept maps: A metho-
+
+dology for identifying brand association networks. Journal of Marketing Research,
+43(4), 549–563.
+
+Katz, D., & Kahn, R. (1978). The social psychology of organizations (2d ed.). New York: John
+
+Wiley & Sons.
+
+Keller, K. (1993). Conceptualizing, measuring, and managing customer-based brand
+
+equity. Journal of Marketing, 57(1), 1–22.
+
+Keller, K. (2001). Building customer-based brand equity: A blueprint for creating strong
+
+brands. Marketing Management, (July/August), 15–19.
+
+Keller, K., & Lehmann, D. (2006). Brands and branding: Research findings and future
+
+priorities. Marketing Science, 25(6), 740–759.
+
+Kim, U., Park, Y.-S., & Park, D. (2000). The challenge of cross-cultural psychology. Journal
+
+of Cross-Cultural Psychology, 31(January), 63–75.
+
+Krishnan, S. (1996). Characteristics of memory associations: A consumer-based brand
+equity perspective. International Journal of Research in Marketing, 13(4), 389–405.
+Laroche, M., Kalamas, M., & Cleveland, M. (2005). “I” versus “we” how individualists and
+
+collectivists use information sources to formulate their service expectations.
+International Marketing Review, 22(3), 279–308.
+
+Lehmann, D., Keller, K., & Farley, J. (2008). The structure of survey-based brand metrics.
+
+Journal of International Marketing, 16(4), 29–56.
+
+Lieven, T., & Hildebrand, C. (2016). The impact of brand gender on brand equity.
+
+International Marketing Review, 33(2), 178–195.
+
+Lindell, M., & Whitney, D. (2001). Accounting for common method variance in cross-
+
+sectional research designs. Journal of Applied Psychology, 86(1), 114–121.
+
+Madden, T., Roth, M., & Dillon, W. (2012). Global product quality and corporate social
+
+responsibility perceptions: A cross-national study of halo effects. Journal of
+International Marketing, 20(1), 42–57.
+
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition,
+emotion and motivation. Psychological Review, 98(6), 224–253. https://doi.org/10.
+1037/0033-295X.98.2.224.
+
+Masuda, T., & Nisbett, R. E. (2001). Attending holistically versus analytically: Comparing
+
+the context sensitivity of Japanese and americans. Journal of Personality and Social
+Psychology, 81(5), 922–934.
+
+McCort, D. J., & Malhotra, N. K. (1993). Culture and consumer behavior: Toward an
+understanding of cross-cultural consumer behavior in international marketing.
+Journal of International Consumer Marketing, 6(2), 91–127.
+
+McWilliam, G. (1993). Tale of Two gurus: Aaker and kapferer on brands: Review of D.A.
+
+342
+
+K. Chatzipanagiotou et al.
+
+International Business Review 28 (2019) 328–343
+
+Aaker ‘Managing brand equity’ and J-N kapferer ‘Strategic brand management’.
+International Journal of Research in Marketing, 10(1), 105–111.
+
+Monga, A. B., & John, D. R. (2006). Cultural differences in brand extension evaluation:
+The influence of analytic versus holistic thinking. Journal of Consumer Research,
+33(4), 529–536.
+
+Short, J., Payne, T., & Ketchen, D. (2008). Research on organizational configurations: Past
+accomplishments and future challenges. Journal of Management, 34(6), 1053–1079.
+Skaaning, S. E. (2011). Assessing the robustness of crisp-set and fuzzy-set QCA results.
+
+Sociological Methods & Research, 40(2), 391–408.
+
+Smit, E., Bronner, F., & Tolboom, M. (2007). Brand relationship quality and its value for
+
+Mishra, A., Dash, S. B., & Cyr, D. (2014). Linking user experience and consumer-based
+
+personal contact. Journal of Business Research, 60(6), 627–633.
+
+brand equity: The moderating role of consumer expertise and lifestyle. Journal of
+Product & Brand Management, 23(4/5), 333–348.
+
+Mizik, N., & Jacobson, R. (2008). The financial value impact of perceptual brand attri-
+
+butes. Journal of Marketing Research, 45(1), 15–32.
+
+Netemeyer, R., Krishnan, B., Pullig, C., Wang, G., Yagci, M., Dean, D., Ricks, J., & Wirth,
+F. (2004). Developing and validating measures of facets of customer-based brand
+equity. Journal of Business Research, 57(2), 209–224.
+
+Nisbett, R. E., Kaiping, P., Incheol, C., & Norenzayan, A. (2001). Culture and systems of
+thought: Holistic ver- sus analytic cognition. Psychological Review, 108(2), 291–310.
+Ordanini, A., Parasuraman, A., & Rubera, G. (2014). When the recipe Is more important
+than the ingredients: A Qualitative Comparative Analysis (QCA) of service innovation
+configurations. Journal of Service Research, 17(2), 134–149.
+
+Overby, J. W., Woodruff, R. B., & Gardial, S. F. (2005). The influence of culture upon
+consumers’ desired value perceptions: A research agenda. Marketing Theory, 5(2),
+139–163.
+
+Özsomer, A. (2012). The interplay between global and local brands: A closer look at
+perceived brand globalness and local iconness. Journal of International Marketing,
+20(2), 72–95.
+
+Özsomer, A., & Altaras, S. (2008). Global brand purchase likelihood: A critical synthesis
+
+and an integrated conceptual framework. Journal of International Marketing, 16(4),
+1–28.
+
+Park, C. W., Eisingerich, A. B., & Park, J. W. (2013). Attachment–aversion (AA) model of
+customer–brand relationships. Journal of Consumer Psychology, 23(2), 229–248.
+Park, C. S., & Srinivasan, V. (1994). A survey-based method for measuring and under-
+
+Steenkamp, J. B., & Baumgartner, H. (1998). Assessing measurement invariance in cross-
+
+national research. Journal of Consumer Research, 25(1), 78–90.
+
+Steensma, H., Kevin, L., Marino, K., Weaver, M., & Dickson, P. H. (2000). The influence of
+national culture on the formation of technology alliances by entrepreneurial firms.
+Academy of Management Journal, 43(5), 951–973.
+
+Stern, B. L., & Resnik, A. J. (1991). Information content in television advertising: A re-
+
+plication and extension. Journal of Advertising Research, 31(3), 36–46.
+
+Stokburger-Sauer, N. E., Ratneshwar, S., & Sen, S. (2012). Drivers of customer-brand
+identification. International Journal of Research in Marketing, 29(4), 406–418.
+
+Sung, Y., & Tinkham, S. F. (2005). Brand personality structures in the United States and
+Korea: Common and culture-specific factors. Journal of Consumer Psychology, 15(4),
+334–350.
+
+Talay, B., Townsend, J., & Yeniyurt, S. (2015). Global brand architecture position and
+Market-based performance: The moderating role of culture. Journal of International
+Marketing, 23(2), 55–72.
+
+Teichert, T., & Schöntag, K. (2010). Exploring consumer knowledge structures using as-
+
+sociative network analysis. Psychology & Marketing, 27(4), 369–398.
+Theodosiou, M., & Leonidou, L. (2003). Standardization versus adaptation of
+
+International marketing strategy: An integrative assessment of the empirical research.
+International Business Review, 12(2), 141–171.
+
+Torres, P., Augusto, M., & Godinho, P. (2017). Predicting high consumer-brand identifi-
+cation and high repurchase: Necessary and sufficient conditions. Journal of Business
+Research, 79, 52–65.
+
+Townsend, J., Yeniyurt, S., & Talay, B. (2009). Getting to global: An evolutionary per-
+
+standing brand equity and its extendibility. Journal of Marketing Research, 31(2),
+271–288.
+
+spective of brand expansion in International markets. Journal of International Business
+Studies, 40(2), 301–320.
+
+Paul, M., Hennig-Thurau, T., Gremler, D. D., Gwinner, K. P., & Wiertz, C. (2009). Toward
+a theory of repeat purchase drivers for consumer services. Journal of the Academy of
+Marketing Science, 37(2), 215–237.
+
+Podsakoff, P., MacKenzie, S., Lee, J. Y., & Podsakoff, N. (2003). Common method biases in
+behavioral research: A critical review of the literature and recommended remedies.
+Journal of Applied Psychology, 88(5), 879–903.
+
+Ragin, C. (1987). The comparative method: Moving beyond qualitative and quantitative
+
+strategies. Berkeley: University of California Press.
+
+Triandis, H. C. (1995). Individualism and collectivism. Boulder, CO: Westview Press.
+Triandis, H. C. (1989). The self and social behavior in differing cultural contexts.
+
+Psychological Review, 96(3), 506–520.
+
+Tuškej, U., Golob, U., & Podnar, K. (2013). The role of consumer–brand identification in
+
+building brand relationships. Journal of Business Research, 66(1), 53–59.
+
+Vrontis, D., Thrassou, A., & Lamprianou, I. (2009). International marketing adaptation
+versus standardisation of multinational companies. International Marketing Review,
+26(4/5), 477–500.
+
+Ragin, C. (2008). Redesigning social inquiry: Fuzzy sets and beyond. Chicago: Chicago
+
+Vukasović, T. (2016). An empirical investigation of brand equity: A cross-country vali-
+
+University Press.
+
+dation analysis. Journal of Global Marketing, 29(5), 251–264.
+
+Ragin, C., & Fiss, P. (2008). Net effects analysis versus configurational analysis: An em-
+pirical demonstration. In C. C. Ragin (Ed.). Redesigning social inquiry: Fuzzy sets and
+beyond (pp. 190–212). Chicago: University of Chicago Press.
+
+Wagemann, C., & Schneider, C. (2010). Qualitative comparative analysis (QCA) and
+fuzzy-sets: Agenda for a research approach and a data analysis technique.
+Comparative Sociology, 9(3), 376–396.
+
+Ragin, C., & Rihoux, B. (2004). Qualitative comparative analysis (QCA): State of the art
+
+and prospects. Qualitative Methods, 2(2), 3.
+
+Rambocas, M., Kirpalani, V., & Simms, E. (2018). Brand equity and customer behavioral
+intentions: A mediated moderated model. International Journal of Bank Marketing,
+36(1), 19–40.
+
+Rihoux, B., & Marx, A. (2013). QCA, 25 years after “The comparative method” mapping,
+challenges, and innovations. Mini-symposium. Political Research Quarterly, 66(1),
+167–235.
+
+Rihoux, B., & Ragin, C. C. (2008). Configurational comparative methods: Qualitative com-
+
+parative analysis (QCA) and related techniques, Vol. 51. Sage Publications.
+
+Roth, M. S. (1995). The effects of culture and socioeconomics on the performance of
+
+Williams, L., Hartman, N., & Cavazotte, F. (2010). Method variance and marker variables:
+A review and comprehensive CFA marker technique. Organizational Research Methods,
+13(3), 477–514.
+
+Woodside, A. (2013). Moving beyond multiple regression analysis to algorithms: Calling
+for a paradigm shift from symmetric to asymmetric thinking in data analysis, and
+crafting theory. Journal of Business Research, 66, 463–472.
+
+Woodside, A. (2014). Embrace•Perform•Model: Complexity theory, contrarian case ana-
+lysis, and multiple realities. Journal of Business Research, 67(12), 2495–2503.
+Wuyts, S., & Geyskens, I. (2005). The formation of Buyer–Seller relationships: Detailed
+contract drafting and close partner selection. Journal of Marketing, 69(October),
+103–117.
+
+global brand image strategies. Journal of Marketing Research, 163–175.
+
+Yoo, B., & Donthu, N. (2001). Developing and validating a multidimensional consumer-
+
+Samaha, S. A., Beck, J. T., & Palmatier, R. W. (2014). The role of culture in international
+
+based brand equity scale. Journal of Business Research, 52(1), 1–14.
+
+relationship marketing. Journal of Marketing, 78(5), 78–98.
+
+Schmid, S., & Kotulla, T. (2011). 50 years of research on International standardization
+and adaptation - From a systematic literature analysis to a theoretical framework.
+International Business Review, 20(5), 491–507.
+
+Schnittka, O., Sattler, H., & Zenker, S. (2012). Advanced brand concept maps: A new
+
+approach for evaluating the favorability of brand association networks. International
+Journal of Research in Marketing, 29(3), 265–274.
+
+Yoo, B., & Donthu, N. (2002). Testing cross-cultural invariance of the brand equity
+creation process. Journal of Product & Brand Management, 11(6), 380–398.
+
+Yoo, B., Donthu, N., & Lee, S. (2000). An examination of selected marketing mix elements
+and brand equity. Journal of the Academy of Marketing Science, 28(2), 195–211.
+Zhang, S., van Doorn, J., & Leeflang, P. (2014). Does the importance of value, brand and
+relationship equity for customer loyalty differ between Eastern and Western cultures?
+International Business Review, 23(1), 284–292.
+
+343

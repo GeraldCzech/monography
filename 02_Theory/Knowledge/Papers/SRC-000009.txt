@@ -1,0 +1,2810 @@
+It’s not you (well it is a bit you), it’s me: Self- versus social image in warm-glow giving
+
+Discussion Paper no. 2021-04
+
+Philip J. Grossman and Jonathan Levy
+
+Abstract:
+
+Attempts  by  charities  to  motivate  giving  tend  to  focus  on  potential  donors'  altruistic  tendencies.
+However, prior research suggests that approximately 50% of individuals are to some extent motivated
+by  warm  glow,  the  satisfaction  received  from  the  act  of  giving.  The  satisfaction  derives  from  looking
+good to themselves (self-image) and/or to others (social image). We conduct an online experiment with
+a more realistic simulation of being watched to determine the importance of self- and social image to
+warm-glow  giving.  We  ﬁnd  that  self-image  is  important  for  the  act  of  giving;  social  image  signiﬁcantly
+increases average giving. Our results suggest that charities looking to increase their donor bases might
+effectively do so by focusing on self-image concerns. Charities wishing to increase the amount donated
+might  effectively  do  so  by  focusing  on  the  social  image  concerns  of  the  donor.  We  ﬁnd  evidence  of
+reactance among a subsample of those experiencing the watching eyes.
+
+Keywords: self-image, social image, altruism, warm glow, experiment
+
+JEL Classification: C90, D91, H40
+
+Philip J. Grossman: Monash University (email: philip.grossman@monash.edu); Jonathan Levy: Monash
+University (email: jonathan.t.levy90@gmail.com).
+
+It’s not you (well, it is a bit you), it’s me: Self- versus social image 
+in warm-glow giving* 
+
+Philip J. Grossman† and Jonathan Levy‡ 
+
+Abstract 
+
+Attempts  by  charities  to  motivate  giving  tend  to  focus  on  potential  donors’  altruistic  tendencies. 
+However, prior research suggests that approximately 50% of individuals are to some extent motivated 
+by warm glow, the satisfaction received from the act of giving. The satisfaction derives from looking 
+good to themselves (self-image) and/or to others (social image). We conduct an online experiment with 
+a more realistic simulation of being watched to determine the importance of self- and social image to 
+warm-glow giving. We find that self-image is important for the act of giving; social image significantly 
+increases average giving. Our results suggest that charities looking to increase their donor bases might 
+effectively do so by focusing on self-image concerns. Charities wishing to increase the amount donated 
+might effectively do so by focusing on the social image concerns of the donor. We find evidence of 
+reactance among a subsample of those experiencing the watching eyes. 
+
+JEL Classification: C90, D6, H40 
+
+Keywords: self-image, social image, altruism, warm glow, experiment 
+
+Ethics Statement. The Monash University Human Research Ethics Committee approved the protocol 
+for this study (Project ID: 25385).  
+
+Experimental  design  and  implementation.  The  experiment  was  preregistered  at  the  Open  Science 
+Framework (Self- versus social image in warm glow giving: Date created: 2020-07-02 09:37 AM | Last 
+Updated: 2020-08-03 09:11 AM). https://osf.io/ej7d3/ 
+
+* This work was supported by the Australia Research Council (DP170101167). We are grateful to participants at 
+the  3rd  Annual  Conference  on  Human  Behaviour  and  Decision  Making,  the  Monash  University  Workshop  on 
+Motivated  Beliefs,  and  the  Monash  University  Behavioural,  Experimental  and  Theory  seminar  for  valuable 
+feedback. We would like to thank Nina Xue for her helpful comments. 
+† Monash University, Victoria, Australia, philip.grossman@monash.edu. Department of Economics, Wellington 
+Road, Clayton, Victoria, 3800. Phone: 61399020052; Fax: 61399055476. 
+‡ Monash University, Victoria, Australia, jonathan.t.levy90@gmail.com  
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+It’s not you (well, it is a bit you), it’s me: Self- versus social 
+image in warm-glow giving 
+
+1.  Introduction 
+
+Both pure altruists and pure egoists might give to a charitable organization; the pure altruists out of 
+
+concern  for  the  well-being  of  the  recipients,  the  pure  egoists  (unconcerned  with  the  welfare  of 
+
+recipients) to receive warm glow from the act of giving (Andreoni, 1989; 1990). Impure altruists are 
+
+motivated by both altruism and warm glow. Our focus is on warm-glow motivated giving.1  
+
+There  is  considerable  evidence  that  some  giving  is  warm-glow  motivated.  Crumpler  and  Grossman 
+
+(2008,  CG  hereafter)  were  the  first  to  directly  test  Andreoni’s  (1989,  1990)  warm-glow  hypothesis. 
+
+Approximately  50%  of  their  subjects  gave  even  though  their  giving  was  crowded  out  $1:$1,  and 
+
+donations averaged roughly 20% of subjects’ endowments. Subsequent laboratory and online studies 
+
+using  CG’s  basic  design  report  similar  results  (Luccasen  and  Grossman,  2017;  Gangadharan  et  al., 
+
+2018;  Gandullia,  2019;  Gandullia  et  al.,  2020).  Gangadharan  et  al.  (2021),  using  a  different  design, 
+
+report that 41% of their sample were warm-glow givers.2  
+
+While these studies provide evidence of warm glow, they do not address whether warm glow derives 
+
+from having a positive self-image [i.e., one’s view or concept of oneself (https://dictionary.apa.org/self-
+
+image) May 3, 2022], a positive social image [i.e., identity or face presented to others in public contexts 
+
+(https://dictionary.apa.org/social-image)  May  3,  2022],  or  from  both.  We  address  this  question  by 
+
+testing the relative importance of self- and social image for warm-glow giving.  
+
+A positive self-image comes from feeling good about one’s self from having done a “good” deed. A 
+
+positive social image comes from having the admiration, respect, and acclaim of others aware of the 
+
+deed (Olson, 1965; Becker, 1974; Batson, 1998; Lamont, 2000). Bénabou and Tirole’s (2006) theory 
+
+of prosocial behavior combines both concerns for social reputation (social image) and self-respect (self-
+
+image). Bem’s (1972) self-perception theory argues that individuals “know” themselves partially via 
+
+internal cues, but that these are “… weak, ambiguous, or uninterpretable (p.2).” They must also rely, 
+
+like an outside observer, on external cues if they are to infer their own inner state; they “know” they are 
+
+good by the actions they take. Ariely et al. (2009) argue image motivation (i.e., “… the desire to be 
+
+1 Warm glow has been used to justify a variety of behaviors. For example, people may vote, even though it is 
+unlikely that their vote will be pivotal, because they wish to receive the warm-glow obtained from voting and/or 
+being seen to vote (https://mediastudies.as.cornell.edu/i-voted-stickers-civic-evidence, May 3, 2022). Similarly, 
+individuals may drive environmentally friendly vehicles to signal their concern for the environment.  
+2  Subjects  were  asked  to  donate  a  fixed  amount  to  a  charity  with  a  low  probability  the  donation  would  be 
+implemented. Those whose donations were not implemented were given the opportunity to pay to increase the 
+probability  their  donations  would  occur.  They  argue  that  warm-glow  givers  would  not  pay  to  increase  the 
+probability.   
+
+2 
+
+ 
+ 
+                                                
+liked and respected by others and by one’s self” [p. 544, emphasis added]) is motivation for behaving 
+
+prosocially.  
+
+Self-image is an explanation for warm-glow giving; participants in the studies mentioned above are 
+
+obviously aware of their giving decisions. Creating a counterfactual in which self-image is switched off 
+
+is difficult. A number of studies have, however, attempted to increase the salience of self-image. One 
+
+does  so  by  presenting  subjects  with  real-time  webcam  feeds  of  themselves  (Falk,  2021).  A  second 
+
+(Adena  and  Huck,  2020)  reports  results  from  a  natural  experiment:  Customers  buying  opera  tickets 
+
+through an online booking agent were asked at the time of checkout if they were willing to donate to a 
+
+charity  supporting  disadvantaged  children.  In  one  treatment,  customers  who  did  not  donate  had  the 
+
+option of ticking a box indicating they had already donated or a second box saying “No, thank you.” 
+
+Relative  to  their  baseline,  the  box  ticking  significantly  increased  the  probability  of  giving  and  the 
+
+average  amount  given.  A  third  study  increased  self-image  salience  by  requiring  subjects  to  wear 
+
+bracelets to remind them of their donation (van der Weele and von Siemens, 2020). It should be noted 
+
+that these studies do not directly address warm-glow giving; they measure both altruistic as well as 
+
+warm-glow  giving.  Also,  it  is  difficult  to  be  confident  whether  these  manipulations  successfully 
+
+increased  self-image  salience.  What  is  also  uncertain  is  the  role  social  image  plays  in  the  giving 
+
+decision. To assess the impact of social image, Andreoni and Petrie (2004) and Ariely et al. (2009) 
+
+compare private and public choices, attributing any difference to social image concerns.3  
+
+We  report  results  from  an  online  experiment  using  participants  from  the  Amazon  Mechanical  Turk 
+
+(MTurk)  subject  pool  testing  the  importance  of  self-  and  social  image  for  warm-glow  giving.  All 
+
+participants play CG’s Dictator game with a charity as the recipient. Dictators and their chosen charities 
+
+each receive the same endowment amount. The dictators decide how much of their endowment to pass 
+
+to their chosen charities, knowing that their giving is crowded out $1:$1. CG argued that pure altruists 
+
+would not donate since their donations would not benefit the recipients.4 
+
+Participants are randomly assigned to one of three treatments: the standard game (with minimal to no 
+
+social  image  influence);  the  social  image  influence  game  [participants  are  “watched”  by  a  pair  of 
+
+dynamic eyes (explained below) as they make their donation decisions]; and the social image influence 
+
+choice game (participants have the option of turning off the watching eyes before making their donation 
+
+decisions). All other features of the experiment are the same across treatments. 
+
+It is worth noting that social image concerns could be introduced in a variety of ways. For instance, 
+
+participants could observe one another in the laboratory as they make their donation decisions. This 
+
+3Friedrichsen  and  Engelmann  (2018)  compare  public  and  private  willingness-to-pay  for  fair  trade  and 
+conventional chocolate. Those with a pre-lab preference for conventional chocolate offered a premium for fair-
+trade chocolate; those preferring fair-trade chocolate did not offer a premium. They conclude that their results 
+indicate a “… negative correlation between intrinsic motivation and image concerns” (p. 73). 
+4 Not all nongivers are pure altruists. Some may just be neither altruistically nor warm-glow motivated. 
+
+3 
+
+ 
+                                                
+approach  risks  introducing  influences  which  are  not  necessarily  related  to  social  image,  e.g., 
+
+attractiveness,  gender,  reciprocity,  and  power.  Moreover,  these  stronger  manipulations  are  quite 
+
+difficult to scale up. Although our method for introducing social image is somewhat weak, it enables 
+
+us to control for these unintended influences, and simulates a policy that charitable organizations could 
+
+use to influence donations at a relatively low cost to both the organization and the donor. For example, 
+
+charitable organizations could include a recording of eyes (or the face of a typical recipient) on their 
+
+website where people make their donations. 
+
+The results from our experiment suggest that self-image is the primary driver for warm-glow giving, 
+
+accounting for the majority of giving. Roughly 50% of all participants make a positive donation and the 
+
+probability  of  making  a  positive  donation  does  not  significantly  vary  across  treatments.  Self-image 
+
+driven  giving  averages  $0.25;  12.5%  of  the  endowment.  Social  image  driven  giving  significantly 
+
+increases by an additional $0.08 on average. The results also imply that once the eyes have been seen, 
+
+the social image effect remains; even if the participant chooses to turn the eyes off, the effect of the 
+
+eyes cannot be turned off.  
+
+Our  paper  contributes  to  several  different  literatures.  Literature  of  particular  relevance  explores  the 
+
+impact of the appearance of being watched (i.e., static pictures of eyes, stylized images, and three dots 
+
+resembling the placement of eyes and nose on a face) on prosocial behavior. The effectiveness of this 
+
+manipulation  is  the  subject  of  debate.  Studies  of  the  effect  on  dictators’  behavior  in  laboratory 
+
+experiments have been mixed (Haley and Fessler, 2005; Burnham and Hare, 2006; Rigdon et al., 2009; 
+
+Nettle et al., 2013). Nettles’ et al. (2013) meta-analysis of seven studies reports that the static watching 
+
+eyes significantly increased the probability of passing a positive amount, but not the average amount 
+
+passed. Manesi et al. (2016) argue that only “watching” eyes increase prosocial behavior. Watching 
+
+eyes are static pictures of real eyes looking straight ahead rather than up, down, or off to the side. In 
+
+laboratory  and  field  studies  using  charities  as  recipients,  the  results  are  more  positive  (Keller  and 
+
+Pfattheicher,  2011;  Ekström,  2012;  Powell  et  al.,  2012).  More  recent  meta-studies  suggest  that  the 
+
+impact of static watching eyes is only reliably positive in the reduction of antisocial behavior, not in 
+
+increasing prosocial behavior (Northover et al., 2017a and b; Dear et al., 2019).  
+
+Our  study  is  distinct  from  this  prior  research  in  three  ways.  First,  we  elicit  the  sensation  of  being 
+
+“watched” in a new and more realistic way. Unlike the studies cited above, our eyes are not static images 
+
+of actual or stylized eyes, but instead are dynamic (i.e., a pair of actual eyes on a 26 second video loop). 
+
+Second, our study directly tests the relative importance of self- and social image for warm-glow giving. 
+
+The  fact  that  prior  research  found  the  influences  of  eyes  are  mixed  is  consistent  with  our  finding 
+
+suggesting  that  social  image  is  relatively  less  important  than  self-image  with  respect  to  warm-glow 
+
+giving decisions. Third, in one of our treatments we allow for participants to turn off the image of the 
+
+eyes. These novel methodological features provide a richer, more realistic context for us to examine the 
+
+relative significance of self- and social image for warm-glow giving. In many instances, individuals can 
+
+4 
+
+ 
+choose to make their decisions in a public setting or, possibly, delay doing so until they are in a private 
+
+setting. 
+
+We also contribute to the “reluctant altruism” literature (Cain et al., 2014; Lin et al., 2016; Golman et 
+
+al., 2017; Lin and Reich, 2017; Liu and Lin, 2017). Reluctant altruists want to appear [to themselves 
+
+(self-image)  and  to  others  (social  image)]  prosocial,  without  bearing  the  cost  of  being  prosocial. 
+
+Presented with a donation request, they face either the monetary cost of giving or the psychological cost 
+
+of not appearing as prosocial. Both self- and social image can be saved by either having reasons (i.e., 
+
+“moral wiggle room,” Dana et al., 2007) that justifies not giving or by sidestepping the giving requests. 
+
+When individuals are offered the moral wiggle room of opting out of playing the Dictator game, many 
+
+take the option; giving is significantly less (Dana et al., 2006; Larson and Capra, 2009).5 Donors use a 
+
+charity’s high overhead as an excuse not only to reduce giving but also to not give at all (Exley, 2016). 
+
+Field experiments report that subjects exert effort (i.e., using a less convenient exit) to avoid being asked 
+
+(DellaVigna et al., 2012; Trachtman et al., 2015; Exley and Petrie, 2016; Andreoni et al., 2017).  
+
+Our third contribution is to the social distance literature. Decisions in CG style games are not totally 
+
+anonymous; there is some element of social image at play. For, example, in laboratory experiments, 
+
+participants’  decisions  are  often  exposed  when  they  complete  and  sign  receipt  forms.  Social  image 
+
+concerns in online experiments using MTurk, should be virtually irrelevant as participants (identified 
+
+only by ID numbers) are anonymous to the experimenters and no receipt form is signed.6 Social image 
+
+concerns arise when social distance is reduced and the anonymity of the individual and the individual’s 
+
+actions are lessened. Hoffman et al. (1994 and 1996) find evidence that anonymity reduces prosocial 
+
+behavior  in  a  Dictator  game.  Varying  the  degree  of  anonymity  from  complete  anonymity  (i.e.,  the 
+
+double-blind  protocol;  neither  the  recipient  nor  the  experimenter  can  identify  the  dictator  or  the 
+
+dictator’s decision) to a single-blind protocol (i.e., while the recipient cannot identify the dictator, the 
+
+experimenter can identify the dictator as well as the dictator’s allocation decision), they find increased 
+
+social distance significantly reduces prosocial behavior. Andreoni and Bernheim (2009) show that even 
+
+splits  of  the  endowment  in  the  Dictator  game  increase  with  the  decrease  in  the  anonymity  of  the 
+
+dictators’ decisions. Burnham (2003) finds that, relative to a no picture treatment, giving significantly 
+
+increases when dictators (recipients) receive pictures of their recipients (dictators); however, there is no 
+
+significant difference across treatments in the likelihood of giving. 
+
+Finally, we contribute to the experimenter demand effect (Zizzo, 2010) and psychological reactance 
+
+literatures (Brehm, 1966; Steindl et al., 2015). According to the experimenter demand effect argument, 
+
+the participant believes that the experimenter wants the participant to donate and as a result does so.7 
+
+5 van der Weele et al. (2014) offer contrary evidence from a trust game. 
+6 One concern is experimenter demand effects. We address this in section 4.2.  
+7 Evidence suggests that experimenter demand effects are minimal (de Quint et al., 2019; Mummolo and Peterson, 
+2019). Gandullia et al. (2020) argue that an online sample might minimize experimenter demand effects as the 
+experimenters are not physically present at the time of data collection. 
+
+5 
+
+ 
+                                                
+The psychological reactance effect is just the opposite. Participants, believing that the experimenter 
+
+wants them to donate, feel that their “freedoms” are threatened and react negatively to the threat and 
+
+donate less. In our design, the potential for experimenter demand exists in all three of our treatments, 
+
+possibly stronger in the watching eyes treatments. The potential for psychological reactance is strongest 
+
+in the watching eyes treatments. Our results suggest that psychological reactance is more prevalent than 
+
+experimenter  demand.  Approximately  one-third  of  our  participants  in  our  watching  eyes  treatments 
+
+expressed,  in  the  post-experiment  survey,  either  discomfort  with  the  eyes  watching  or  that  they 
+
+“understood” that the eyes were intended to influence their donation decisions.  Rather than having the 
+
+predicted experimenter demand effect (i.e., donating more frequently and donating more because they 
+
+believed that is what the experimenters wanted), they, on average, donated significantly less frequently 
+
+and donated significantly less. Our results are consistent with those of Damgaard and Gravert (2018), 
+
+Bolton et al. (2019), and Fan et al. (2019) who illustrate how various nudges can potentially result in 
+
+negative  outcomes  for  charitable  organizations.  Removing  those  subjects  who  expressed  either 
+
+understanding  of  the  intention  of  the  eyes  or  discomfort  with  the  eyes  significantly  increases  the 
+
+influence of social image on both the frequency of giving and the amount given. 
+
+2.  Methodology 
+
+The experiment, consisting of five treatments, was preregistered at the Open Science Framework (Self- 
+
+versus social image in warm-glow giving: https://osf.io/ej7d3/); only three were conducted.8 The survey 
+
+was programmed in Qualtrics and conducted with participants registered on MTurk. To improve the 
+
+quality of data collected, we restricted participation to individuals located in the United States with a 
+
+high approval rate (80%) in their previously completed Human Intelligence Tasks (HITs) and included 
+
+comprehension check questions. This experiment is a between-subject design. 
+
+The experiment consists of three parts. In part 1, participants receive instructions related to the warm-
+
+glow giving task. Participants select from a list of ten, a charity to receive any donation they make (see 
+
+Appendix A). They then have two tries to correctly answer two comprehension check quiz questions 
+
+testing their understanding of the task. Participants answering one or more of the questions incorrectly 
+
+on both tries were not allowed to complete the remainder of the experiment. In part 2, participants are 
+
+asked various demographic questions. In part 3, participants answer 10 questions taken from the Big 
+
+Five Personality traits test (Rammstedt and John, 2007). Questions from parts 2 and 3 are in Appendix 
+
+A. 
+
+Participants who successfully answered both part 1 quiz questions were randomly assigned to one of 
+
+three treatments: 
+
+8 We did not collect data for the “static eyes” and the “pay to turn off the dynamic eyes” treatments. We believed 
+that if the dynamic eyes had no effect, the static eyes would also have no effect and that adding a cost to turn off 
+the eyes would possibly result in too few eyes turned off observations.  
+
+6 
+
+ 
+                                                
+Treatment  1  (NoEyes):  Standard  game  as  in  CG.  Both  participants  and  charity  of  choice  receive 
+
+endowments  of  $2.  Participants  can  donate  to  their  chosen  charity  from  their  endowments,  but 
+
+donations crowd out the experimenter’s donation $1:$1. Participants make their donation decisions 
+
+while observing a neutral image on the computer screen, i.e., a grey circle. This measure was taken 
+
+to control for participants being influenced by the mere presence of an image. In this treatment, self-
+
+image concerns are active but social image concerns should not be. Running sessions on MTurk 
+
+means that participants are truly anonymous to the experimenter and could not be watched. 
+
+Treatment 2 (DynamicEyes): Same as treatment 1 but with a dynamic image (i.e., a 26 second video 
+
+on  a  loop)  on  screen  of  real  eyes  looking  out  at  the  participant  and  down  at  the  keyboard  while 
+
+participants are making their donation decisions (a screenshot from the video is provided in Figure 
+
+1).9 In this treatment, by including the eyes on the screen, both self- and social image concerns are 
+
+active. This enables us to capture the marginal impact of social image on warm-glow giving. 
+
+Treatment 3 (TurnOffEyes): Same as treatment 2 but participants are introduced to the video and told 
+
+the video would remain on while they make their donation decisions unless they choose, at no cost 
+
+to themselves, to turn the video off. In this treatment, we capture an individual’s revealed preference 
+
+for not being watched while making their donation decision. 
+
+Figure 1: DynamicEyes video screenshot 
+
+To determine whether our inclusion of the dynamic eyes had the effect we were hoping for, in a post-
+
+experiment survey, we asked participants in the DynamicEyes and TurnOffEyes treatments: "What 
+
+did you think about the eyes?" Responses were varied and are discussed in Section 4.1.  
+
+9 Available upon request. 
+
+7 
+
+ 
+ 
+ 
+                                                
+We  performed  power  analysis  based  on  results  from  Gandullia  et  al.  (2020),  an  online  experiment 
+
+measuring warm-glow giving using the MTurk subject pool. We used G*Power (Faul et al., 2007) to 
+
+conduct the power analysis. Our goal was to obtain .80 power to detect an effect size of .23 (Cohen’s 
+
+d) at a standard .05 alpha error probability. This necessitated a minimum sample size of 291 participants 
+
+in  each  treatment  for  a  two-sided  t-test.  We  ultimately  recruited  960  participants:  NoEyes,  309; 
+
+DynamicEyes, 314; TurnOffEyes, 337).10 
+
+After completing their donation decisions, participants completed parts 2 and 3.  
+
+3.  Theoretical framework 
+
+Donors have a vision of how prosocial they are, or they think they are, which we denote by 𝜑 ∈ [0, 1]. 
+
+If 𝜑 = 0, donors are not prosocial and do not care about how prosocial they appear to themselves. As 
+
+𝜑  increases  to  1,  donors  become  more  concerned  about  appearing  to  themselves  as  prosocial. 
+
+Additionally, donors have a vision of how prosocial others see them, which we denote by 𝜑) ∈ [0, 1]. 
+
+If 𝜑) = 0, donors are not prosocial and do not care about how prosocial they appear to others. As 𝜑) 
+increases to 1, donors become more concerned about the opinion of others. 
+
+Donors hold beliefs about the giving of others which we denote by 𝜇 ≥ 0. Donors wish to be at least 
+
+equal to if not more prosocial than others. Donors control 𝜇; donors can through motivated reasoning 
+
+(Kunda, 1990; Di Tella et al., 2015; Gino et al., 2016) direct 𝜇 towards 0; i.e., donors can convince 
+
+themselves that others only give a small amount and therefore that is all that is required of themselves 
+
+to  maintain  self-image.  Hence,  if  𝜑  is  sufficiently  high,  donors  will  give  but  they  can  convince 
+
+themselves that the amount they give, however small, is sufficient. In the extreme, it becomes the act 
+
+of giving, not the amount given, that matters. 
+
+Donors also hold beliefs about what others think is the appropriate amount to give, which we denote by 
+
+𝜇) ≥ 0. These beliefs are only relevant when donors believe their actions are publicly observable. In 
+this case, donors want to donate at least as much if not more than what others think is the appropriate 
+
+amount. Donors cannot through motivated reasoning reduce 𝜇). It is a judgment of others that they have 
+no control over. 
+
+The donor’s utility is defined as follows: 
+
+𝑈 = 𝑢.(𝑌 − 𝑔) + 𝜑𝑢5(𝑔 − 𝜇) + 𝜑)𝑓𝑢7(𝑔 − 𝜇)), 
+
+in which,  
+
+10  There  were  a  total  of  1,423  responses.  We  eliminated  duplicates  and  those  who  failed  to  answer  the  two 
+comprehension check quiz questions correctly do not appear in our dataset. 
+
+8 
+
+ 
+                                                
+𝑌 > 0 is the donor’s income (or endowment in our experiment), 𝑔 ≥ 0 is the amount donated,	𝜇, 𝜇), 𝜑 
+
+and 𝜑)	are defined as above, and 𝑓 ∈ {0, 1} is the degree of public observability. The first RHS term is 
+utility from private consumption, the second term is utility from a prosocial self-image, and the third 
+
+term is utility from a prosocial social image. We assume that 𝑢., 𝑢5	and 𝑢7 satisfy the conventional 
+<< < 0. 
+
+<<, 𝑢5
+assumptions  of  monotonicity  and  concavity.  Specifically,  𝑢.
+Partially differentiating the donor’s utility function with respect to the amount donated yields 
+
+< > 0  and  𝑢.
+
+< < 0,    𝑢5
+
+<<, 𝑢7
+
+< , 𝑢7
+
+𝜕𝑈
+𝜕𝑔
+
+= 𝑢.
+
+< + 𝜑𝑢5
+
+< + 𝜑)𝑓𝑢7
+
+< .																								(1) 
+
+There are two potential scenarios that we can explore in relation to equation (1). They are as follows. 
+
+Case 1: Let 𝑓 = 0, i.e., giving is not publicly observable. This scenario relates to the NoEyes treatment 
+
+in our experiment. 
+
+Therefore, the optimal level of giving 𝑔∗, satisfies the following condition: 
+
+𝜕𝑈
+𝜕𝑔
+
+= 𝑢.
+
+< + 𝜑𝑢5
+
+< = 0, 
+
+⇒ 𝜑𝑢5
+
+< . 
+< = −𝑢.
+
+Donors maximize utility by equating the marginal utility derived from self-image with the marginal 
+
+disutility derived from reduced income. 
+
+Case 2: Let 𝑓 = 1, i.e., giving is publicly observable. This scenario relates to the DynamicEyes and 
+
+TurnOffEyes treatments in our experiment. 
+
+Hence, the optimal level of giving 𝑔∗∗, satisfies the following condition: 
+
+𝜕𝑈
+𝜕𝑔
+
+= 𝑢.
+
+< + 𝜑𝑢5
+
+< + 𝜑)𝑢7
+
+< = 0, 
+
+⇒ 𝜑𝑢5
+
+< + 𝜑)𝑢7
+
+< . 
+< = −𝑢.
+
+Donors maximize utility by equating the sum of the marginal utilities derived from self-image and social 
+
+image with the marginal disutility derived from reduced income. 
+
+We can illustrate the difference in the level of giving in cases 1 and 2 graphically, see Figure 2.  
+
+If giving is positive when it is not publicly observable (𝑓 = 0), then it will also be positive when it is 
+
+publicly observable, i.e., if 𝑔∗ > 0, then 𝑔∗∗ > 0. Furthermore, when donors are concerned about both 
+
+their self-images and their social images, and 𝑓 = 1, they will donate more than when they are only 
+
+9 
+
+ 
+concerned  about  their  self-images  i.e.,  𝑔∗ < 𝑔∗∗.  These  points  are  summarized  in  the  following 
+
+hypothesis.  
+
+Hypothesis: Concerns over social image do not affect giving at the extensive margin but they might 
+
+positively affect giving at the intensive margin.  
+
+Figure 2: Optimal giving with and without public observation 
+
+4.  Results 
+
+Appendix B, Table 1 provides a summary of the socioeconomic characteristics for the participant pool 
+
+across the three treatments. Successful randomization is indicated by the lack of significant differences 
+
+across treatments, with the exceptions of two Big 5 measures.11 
+
+4.1 Experimenter demand or psychological reactance 
+
+We first consider if the watching eyes had a positive effect on the frequency and amount donated (i.e., 
+
+an experimenter demand effect) or a negative effect (i.e., psychological reactance effect). We examine 
+
+the comments and actions of the 651 participants who observed the watching eyes.  
+
+We classified participants into three categories based on their responses to the post-experiment survey 
+
+question “What did you think about the eyes?” The comments of a majority (420) of participants are 
+
+about the color, attractiveness, or other aspects of the eyes (Other). The second category (Discomfort) 
+
+11 After applying the Bonferroni correction, only one characteristic (Conscientiousness) remains significant. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+                                                
+includes 184 comments that expressed discomfort with respect to the eyes (i.e., whether they disturbed 
+
+the participant, if the eyes were “weird”, or they expressed concern about the watcher). The comments 
+
+in this category did not overtly indicate that the eyes had any influence on the participants’ donation 
+
+decisions. Finally, the last category (Influence) includes the 47 comments that suggested that the eyes 
+
+were attempting to influence the participants’ donation decisions (i.e., “They were uncomfortable, and 
+
+may have a psychological factor in people's choices,” “They were unsettling and potentially judging,” 
+
+“they were there to force me to donate”). In Appendix B, Table 2, we report a randomly selected sample 
+
+of 10 comments (verbatim) for each of the three categories.  
+
+At the bottom of Appendix B, Table 2, we report the frequency of donating and the average donation 
+
+amount by category. We find no evidence of a positive experimenter demand effect, rather the evidence 
+
+indicates  a  psychological  reactance  effect.  On  average,  those  who  stated  that  they  “understood”  the 
+
+purpose of the watching eyes did the opposite of what they believed the eyes were intended to bring 
+
+about. Those who were discomforted by the eyes behaved in a similar manner. The frequency of giving 
+
+and  the  average  donation  amount  are  significantly  less  for  participants  classified  as  Discomfort  and 
+
+Influence than those classified as Other (𝑝-values < 0.001). There is no significant difference between 
+
+Discomfort and Influence in either frequency of donating or average amount donated (𝑝-values > 0.30).  
+
+In the subsequent analysis, we report results for the full sample, for the sample excluding those in the 
+
+Influence category, and the sample excluding both those in the Influence category and the Discomfort 
+
+category.  
+
+4.2 Main results 
+
+Result  1:  Activating  social  image  concerns  by  creating  the  appearance  of  being  watched  does  not 
+
+significantly  increase  the  likelihood  of  warm-glow  giving.  Participants  donate  at  approximately  the 
+
+same rate across the three treatments.  
+
+Across the three treatments, between 50 and 60% of participants make a positive donation (NoEyes: 
+
+51.8%;  DynamicEyes:  57.3%;  TurnOffEyes:  57.0%  --  TurnedOffEyes:  55.3%;  LeftEyesOn: 
+
+59.4%);  see  Figure  3,  error  bars  represent  95%  confidence  intervals.  Pairwise  Fisher’s  exact  tests 
+
+indicate no significant differences between treatments:  NoEyes vs. DynamicEyes, 𝑝-value = 0.172; 
+
+NoEyes vs. TurnOffEyes, 𝑝-value = 0.206; DynamicEyes vs. TurnOffEyes, 𝑝-value = 0.937).12 A 
+
+Kruskal-Wallis test for a difference across the three treatments also indicates no significant difference 
+
+(𝑝-value = 0.295). 
+
+12 All 𝑝-values reported are for two-tailed tests. 
+
+11 
+
+ 
+                                                
+e
+v
+i
+t
+i
+s
+o
+p
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+e
+v
+i
+t
+i
+s
+o
+p
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+e
+v
+i
+t
+i
+s
+o
+p
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+Figure 3: Proportion of positive donations across treatments 
+
+Panel A: Full Sample
+
+NS
+
+NS
+
+NS
+
+NS
+
+0.6
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+
+0.4
+
+0.2
+
+0
+
+0.6
+
+No eyes
+
+Dynamic eyes
+
+Turn off eyes
+
+Turned off eyes
+
+Left eyes on
+
+Panel B: Full Sample less Influence 
+
+*
+
+NS
+
+NS
+
+NS
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+
+0.4
+
+0.2
+
+0
+
+0.8
+
+NoEyes
+
+DynamicEyes
+
+TurnOffEyes
+
+TurnedOffEyes
+
+LeftEyesOn
+
+Panel C: Full Sample less Influence and Discomfort 
+
+***
+
+**
+
+NS
+
+NS
+
+0.6
+
+0.4
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+
+0.2
+
+0
+
+NoEyes
+
+DynamicEyes
+
+TurnOffEyes
+
+TurnedOffEyes
+
+LeftEyesOn
+
+Note: Error bars represent 95% confidence intervals
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our results replicate the rate of giving of both laboratory studies (CG; Luccasen and Grossman, 2017; 
+
+Gangadharan et al., 2018) and MTurk studies (Gandullia, 2019; Gandullia et al., 2020). In these studies, 
+
+social image concerns were minimal and between 40 and 60% of participants made a donation. 
+
+Result 1 is confirmed by a logit regression of Donate (= 1 if donation > 0) on dummy variables for the 
+
+DynamicEyes and TurnOffEyes treatments (Appendix B, Table 3, column 1); NoEyes is the control 
+
+group. Marginal values for the two treatment dummies equal 0.055 and 0.051, respectively, and they 
+
+are both insignificantly different from zero and from one another (𝑝-value = 0.928). 
+
+It should be noted that when we reduce our sample by excluding those in the Influence or Discomfort 
+
+categories the results change dramatically. This point is reflected by a logit regression of Donate (= 1 
+
+if donation > 0) on dummy variables for the DynamicEyes and TurnOffEyes treatments (Appendix B, 
+
+Table 3, column 3); NoEyes is the control group. Marginal values for the two treatment dummies equal 
+
+0.108 and 0.168, respectively, and they are both significantly different from zero (𝑝-values < 0.01). 
+
+This suggests that activating social image concerns by creating the appearance of being watched did 
+
+significantly increase the likelihood of warm-glow giving for those who were neither influenced by nor 
+
+discomforted by the watching eyes. 
+
+Result 2: Creating the appearance of being watched significantly increases warm-glow giving at the 
+
+intensive margin, but self-image accounts for the majority of all giving.  
+
+The average donation motivated by self-image, in the NoEyes treatment, is $0.25, approximately 12.5% 
+
+of the endowment (see Figure 4). Activating social image with the watching eyes increases the average 
+
+donation by approximately 33%. The average donation in the DynamicEyes (TurnOffEyes) treatment 
+
+equals  $0.33  ($0.34).  Pairwise  t-tests  and  Mann-Whitney  (MW)  tests  indicate  significantly  higher 
+
+giving in the two Eyes treatments than the NoEyes treatment: NoEyes vs. DynamicEyes (t test: 𝑝-value 
+
+= 0.031, MW: 𝑝-value = 0.017); NoEyes vs. TurnOffEyes (t test: 𝑝-value = 0.024, MW: 𝑝-value = 
+
+0.089); and NoEyes vs. combined DynamicEyes and TurnOffEyes treatments (t test: 𝑝-value = 0.014, 
+
+MW: 𝑝-value = 0.020). A Kruskal-Wallis test for a difference across the three treatments indicates a 
+
+significant difference (𝑝-value = 0.055).  
+
+13 
+
+ 
+40
+
+30
+
+20
+
+10
+
+s
+t
+n
+e
+c
+S
+U
+n
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+0
+No eyes
+
+Figure 4: Average donations across treatments 
+
+Panel A: Full Sample 
+
+*
+
+**
+
+NS
+
+NS
+
+Dynamic eyes
+
+Turn off eyes
+
+Turned off eyes
+
+Left eyes on
+
+Panel B: Full Sample less Influence 
+
+***
+
+**
+
+NS
+
+NS
+
+s
+t
+n
+e
+c
+S
+U
+n
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+40
+
+30
+
+20
+
+10
+
+0
+
+s
+t
+n
+e
+c
+S
+U
+n
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+NoEyes
+
+DynamicEyes
+
+TurnOffEyes
+
+TurnedOffEyes
+
+LeftEyesOn
+
+Panel C: Full Sample less Influence and Discomfort 
+
+***
+
+***
+
+NS
+
+NS
+
+NoEyes
+
+DynamicEyes
+
+TurnOffEyes
+
+TurnedOffEyes
+
+LeftEyesOn
+
+Note: Error bars represent 95% confidence intervals
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Result  2  is  confirmed  by  a  Tobit  regression  of  Donation  (=  amount  passed  to  the  charity)  on  the 
+
+DynamicEyes and TurnOffEyes dummy variables (NoEyes is our control group) with censoring at 0 
+
+and 200 (Appendix B, Table 4, column 1). Coefficients for the two dummy variables equal 12.8 and 
+
+14.3, both are significantly different from zero (𝑝-value = 0.047 and 0.033, respectively), but they are 
+
+insignificantly different from one another (𝑝-value = 0.830).  
+
+Again, after excluding those in our sample in the Influence or Discomfort categories the results change 
+
+dramatically  (Appendix  B,  Table  4,  column  3).  The  coefficients  for  the  DynamicEyes  and 
+
+TurnOffEyes  treatments  increase  by  as  much  as  60%  (to  20.9  and  33.0,  respectively)  and  both  are 
+
+significantly different from zero (𝑝-values < 0.01).  
+
+We also generated a variable Ratio (= Donation/average donation in the NoEyes treatment). Regressing 
+
+Ratio on the DynamicEyes and TurnOffEyes dummy variables (NoEyes is our control group) gives 
+
+coefficients of 29.9 and 33.3 for the two dummy variables, respectively, indicating that the appearance 
+
+of being watched increased giving by approximately 30% (Appendix B, Table 5, column 1). This effect 
+
+increases to between 46 and 75% (Appendix B, Table 5, column 3) when we exclude from our sample 
+
+participants that were either influenced by or discomforted by the watching eyes. Both coefficients are 
+
+significantly different from zero (𝑝-values < 0.05) but are insignificantly different from one another (𝑝-
+
+values > 0.1). 
+
+Results 1 and 2 are in line with the hypothesis derived in section 3. 
+
+Result 3: A majority (59%) of participants in the TurnOffEyes treatment turned off the eyes, but this 
+
+did not alter their likelihood of donating or the amount donated. 
+
+As  indicated  in  Figure  3,  there  was  no  difference  in  the  proportion  of  positive  donations  in  the 
+
+TurnOffEyes treatment between the 199 participants who turned off the eyes (TurnedOffEyes) and 
+
+the 138 participants who left the eyes on (LeftEyesOn), 55.3% vs. 59.4% (𝑝-value = 0.502). Likewise, 
+
+as indicated in Figure 4, leaving the eyes on did not significantly alter average giving: TurnedOffEyes: 
+
+$0.33; LeftEyesOn: $0.34; (t test: 𝑝-value = 0.887, MW: 𝑝-value = 0.352). 
+
+Result 3 is confirmed by a logit regression, restricted to the TurnOffEyes subsample, of Donate on a 
+
+dummy  variable  LeftEyesOn  (=1  if  participant  did  not  turn  off  the  eyes)  and  a  Tobit  regression, 
+
+restricted to the TurnOffEyes subsample, of Donation on LeftEyesOn, with censoring at 0 and 200 
+
+(Appendix B, Table 6, columns 1 and 2, respectively). The marginal effect for LeftEyesOn from the 
+
+logit regression equals an insignificant 0.04 (𝑝-value = 0.45). The coefficient for LeftEyesOn from the 
+
+Tobit regression equals an insignificant 3.84 (𝑝-value = 0.70).  
+
+15 
+
+ 
+5.  Conclusion 
+
+Prior  research  suggests  approximately  50%  of  individuals  are  warm-glow  givers.  Whether  these 
+
+individuals  give  to  maintain  their  self-images  or  to  maintain  their  social  images  is  something  that 
+
+required  investigation.  Our  online  experiment  attempts  to  bridge  this  knowledge  gap.  We  find  that 
+
+approximately 50% of our participants make a donation even though any giving was crowded out $1:$1, 
+
+regardless of treatment, replicating the results of both laboratory and MTurk experiments. We find that 
+
+participants donated significantly more in the DynamicEyes and TurnOffEyes treatments than in the 
+
+NoEyes treatment. This suggests that warm-glow giving, while partially motivated by social image, is 
+
+primarily motivated by self-image. We also find that approximately 59% of participants in our study 
+
+chose to turn off the eyes prior to making their donation decisions, suggesting that participants have an 
+
+aversion  to  being  monitored  while  making  donations,  though  it  does  not  significantly  impact  the 
+
+probability of giving or the amount given.  
+
+Approximately one-third of our sample in the DynamicEyes and TurnOffEyes treatments, indicated 
+
+that the watching eyes were intended to influence donation decisions or were discomforted by the eyes. 
+
+The  behavior  of  these  participants  is  consistent  with  a  psychological  reactance  effect  rather  than  a 
+
+positive experimenter demand effect; the frequency of giving and the average donation are significantly 
+
+less for these participants relative to the rest of the sample. Excluding these participants increases the 
+
+impact of social image on both frequency of giving and average donations. 
+
+The use of social norms has been shown to be effective in increasing charitable giving (Croson et al., 
+
+2009; Agerström et al., 2016). Norms are important for both self- and social image. Societal norms help 
+
+an individual determine whether or not to give and how much to give to maintain the desired self- and 
+
+social image. The individual faces a trade-off between private consumption and both self- and social 
+
+image; give more (less) and look better (worse) to one’s self and to others. Prying eyes are less necessary 
+
+for the individual to understand that giving is necessary to maintain the desired self-image. However, 
+
+without the fear of diminished social image, the amount given is less important. The individual can, via 
+
+motivated reasoning (Kunda, 1990; Di Tella et al., 2015; Gino et al., 2016) convince him/herself that 
+
+the amount given, however meager, is the socially acceptable amount. Knowing, however, that prying 
+
+eyes are watching, and judging, means the donor risks diminished social image if the donation is less 
+
+than what the societal norm prescribes. The individual can still, via motivated reasoning, attempt to 
+
+justify a meager donation, but it is no longer just the self that needs to be convinced, it is the others who 
+
+observe the amount given.  
+
+Our  results  suggest  that  charities  looking  to  increase  their  donor  bases  might  effectively  do  so  by 
+
+focusing on the self-image concerns of potential donors, while charities looking to increase the amount 
+
+donated by their existing donors might effectively do so by focusing on the social image concerns of 
+
+the donors. The inclusion of dynamic eyes on the screen while participants make donation decisions is 
+
+16 
+
+ 
+essentially a nudge. The prominence and impact of nudges has grown significantly in recent years (see, 
+
+for example, Lin et al., 2017; Marchiori et al., 2017; Congiu and Moscati, 2022). Like other nudges, the 
+
+dynamic eyes on the screen imposed a very low cost to both the policymaker and the donor, and indeed 
+
+had  a  positive  impact  on  prosocial  behavior.  Consequently,  this  policy  instrument  is  simple  to 
+
+implement on a large scale and can yield positive behavior change.  
+
+Warm glow has been used to justify behavior in a variety of settings e.g., public health, voter turnout, 
+
+environmental policy, business, and philanthropy. By expanding our understanding of the determinants 
+
+of warm-glow motivated behavior we can effect change in many policy relevant domains. Our findings 
+
+suggest  that  policymakers  wishing  to  encourage  warm-glow  motivated  behavior  should  focus  on 
+
+highlighting  the  self-image  incentives.  Stressing  social  cues,  though  productive,  is  relatively  less 
+
+effective.  
+
+References 
+
+Adena, M., Huck, S., 2020. Online fundraising, self-image, and the long-term impact of ask avoidance. 
+
+Management Science, 66, 722–743. 
+
+Agerström,  J.,  Carlsson,  R.,  Nicklasson,  L.,  Guntell,  L.,  2016.  Using  descriptive  social  norms  to 
+
+increase charitable giving: The power of local norms. Journal of Economic Psychology, 52, 147-
+
+153. 
+
+Andreoni, J., 1989. Giving with impure altruism: Applications to charity and Ricardian equivalence. 
+
+Journal of Political Economy, 97, 1447-1458.  
+
+Andreoni, J., 1990. Impure altruism and donations to public goods: A theory of warm-glow giving. 
+
+Economic Journal, 100, 464-477.  
+
+Andreoni,  J.,  Bernheim,  B.D.,  2009.  Social  image  and  the  50-50  norm:  A  theoretical  and 
+
+experimental analysis of audience effects. Econometrica, 77, 1607-1636. 
+
+Andreoni, J., Petrie, R., 2004. Public goods experiments without confidentiality: a glimpse into fund-
+
+raising. Journal of Public Economics, 88, 1605–1623. 
+
+Andreoni,  J.,  Rao,  J.M.,  Trachtman,  H.,  2017.  Avoiding  the  ask:  A  field  experiment  on  altruism, 
+
+empathy, and charitable giving. Journal of Political Economy, 125, 625–653. 
+
+Ariely, D., Bracha, A., Meier, S., 2009. Doing good or doing well? Image motivation and monetary 
+
+incentives in behaving prosocially. American Economic Review, 99, 544-55. 
+
+Batson, D., 1998. Altruism and prosocial behavior. In Handbook of Social Psychology, Vol 2, ed. D.T. 
+
+Gilbert, S. Fiske, G. Lindzey. New York: McGraw Hill, 282-316. 
+
+Becker, G.S., 1974. A theory of social interactions. Journal of Political Economy, 82, 1063-93. 
+
+Bem, D.J., 1972. Self-perception theory. Advances in Experimental Social Psychology, 6, 2-62. 
+
+Bénabou, R., Tirole, J., 2006. Incentives and prosocial behavior. American Economic Review, 96, 1652-
+
+1678. 
+
+17 
+
+ 
+Bénabou, R., Tirole, J., 2016. Mindful economics: The production, consumption, and value of beliefs. 
+
+Journal of Economic Perspectives, 30, 141-164. 
+
+Bolton, G.E., Dimant, E., Schmidt, U., 2019. When a nudge backfires: Using observation with social 
+
+and economic incentives to promote pro-social behavior (No. 2019-03). CeDEx Discussion Paper 
+
+Series. 
+
+Brehm, J. W., 1966. A Theory of Psychological Reactance. Cambridge, MA: Academic Press. 
+
+Burnham, T.C., 2003. Engineering altruism: A theoretical and experimental investigation of anonymity 
+
+and gift giving. Journal of Economic Behavior and Organization, 50, 133-144. 
+
+Burnham, T.C., Hare, B., 2006. Engineering human cooperation: Does involuntary neural activation 
+
+increase public goods contributions in adult humans? Human Nature, 17. 
+
+Cain,  D.M.,  Dana,  J.,  Newman,  G.E.,  2014.  Giving  versus  giving  in. The  Academy  of  Management 
+
+Annals, 8, 505-533. 
+
+Congiu, L., Moscati, I., 2022. A review of nudges: definitions, justifications, effectiveness. Journal of 
+
+Economic Surveys, 36, 188-213. 
+
+Croson, R., Handy, F., Shang, J., 2009. Keeping up with the Joneses: The relationship of perceived 
+
+descriptive  social  norms,  social  information,  and  charitable  giving. Nonprofit  Management  and 
+
+Leadership, 19, 467-489. 
+
+Crumpler,  H.,  Grossman,  P.J.,  2008.  An  experimental  test  of  warm  glow  giving.  Journal  of  Public 
+
+Economics, 92, 1011-1021. 
+
+Damgaard,  M.T.  and  Gravert,  C.,  2018.  The  hidden  costs  of  nudging:  Experimental  evidence  from 
+
+reminders in fundraising. Journal of Public Economics, 157, pp. 15-26. 
+
+Dana, J., Cain, D.M., Dawes, R.M., 2006. What you don’t know won’t hurt me: Costly (but quiet) exit 
+
+in dictator games. Organizational Behavior and Human Decision Processes, 100, 193-201. 
+
+Dana, J., Weber, R.A., Kuang, J.X., 2007. Exploiting moral wiggle room: experiments demonstrating 
+
+an illusory preference for fairness. Economic Theory, 33, 67-80. 
+
+De Quint, J., Haushofer, J., Roth, C., 2019. Measuring and bounding experimenter demand. American 
+
+Economic Review, 108, 3266 – 3302. 
+
+Dear, K., Dutton, K., Fox, E., 2019. Do ‘watching eyes’ influence antisocial behaviour? A systematic 
+
+review and meta-analysis. Evolution and Human Behavior, 40, 269-280. 
+
+DellaVigna, S., List, J.A., Malmendier, U., 2012. Testing for altruism and social pressure in charitable 
+
+giving. Quarterly Journal of Economics, 127, 1–56. 
+
+Di Tella, R., Perez-Truglia, R., Babino, A., Sigman, M., 2015. Conveniently upset: avoiding altruism 
+
+by distorting beliefs about others' altruism. American Economic Review, 105, 3416-42. 
+
+Ekström,  M.,  2012.  Do  watching  eyes  affect  charitable  giving?  Evidence  from  a  field 
+
+experiment. Experimental Economics, 15, 530-546. 
+
+Exley,  C.L.,  2016.  Excusing  selfishness  in  charitable  giving:  The  role  of  risk.  Review  of  Economic 
+
+Studies, 83, 587–628. 
+
+18 
+
+ 
+Exley, C.L., Petrie, R. 2016. Finding excuses to decline the ask. Harvard Business School Working 
+
+Paper, No. 16-101. 
+
+Falk,  A.,  2021.  Facing  yourself:  A  note  on  self-image.  Journal  of  Economic  Behavior  & 
+
+Organization, 186, 724-734. 
+
+Fan, Y., Jiang, J., Cui, W., 2019. The backfire effect of default amounts on donation behavior in online 
+
+donation platform. Acta Psychologica Sinica, 51(4), p. 415. 
+
+Faul, F., Erdfelder, E., Lang, A.G., Buchner, A., 2007. G* Power 3: A flexible statistical power analysis 
+
+program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39, 175-
+
+191. 
+
+Friedrichsen, J., Engelmann, D., 2018. Who cares about social image? European Economic Review, 
+
+110, 61–77. 
+
+Gandullia, L., 2019. The price elasticity of warm-glow giving. Economics Letters, 182, 30-32. 
+
+Gandullia, L., Lezzi, E., Parciasepe, P., 2020. Replication with Mturk of the experimental design by 
+
+Gangadharan, Grossman, Jones, and Leister (2018): charitable giving across donor types. Journal 
+
+of Economic Psychology, 78, 102268.  
+
+Gangadharan,  L.,  Grossman,  P.J.,  Jones,  K.,  Leister,  C.M.,  2018.  Paternalistic  giving:  Restricting 
+
+recipient choice. Journal of Economic Behavior and Organization, 151, 143-170. 
+
+Gangadharan, L., Grossman, P.J., and Xue, N., 2021. Identifying self-image concerns from motivated 
+
+beliefs:  does  it  matter  whom  and  how  you  ask?  Monash  University  Department  of  Economics 
+
+Working Paper. 
+
+Gino,  F.,  Norton,  M.I.,  Weber,  R.A.,  2016.  Motivated  Bayesians:  Feeling  moral  while  acting 
+
+egoistically. Journal of Economic Perspectives, 30, 189-212. 
+
+Golman,  R.,  Hagmann,  D.,  Loewenstein,  G.,  2017.  Information  avoidance.  Journal  of  Economic 
+
+Literature, 55, 96–135. 
+
+Haley, K.J., Fessler, D.M., 2005. Nobody’s watching?: Subtle cues affect generosity in an anonymous 
+
+economic game. Evolution and Human Behavior, 26, 245-256. 
+
+Hoffman, E., McCabe, K., Shachat, K., Smith, V., 1994. Preferences, property rights, and anonymity 
+
+in bargaining games. Games and Economic Behavior, 7, 346-380. 
+
+Hoffman, E., McCabe, K., Smith, V.L., 1996. Social distance and other-regarding behavior in dictator 
+
+games. American Economic Review, 86, 653-660. 
+
+Keller,  J.,  Pfattheicher,  S.,  2011.  Vigilant  self–regulation,  cues  of  being  watched  and 
+
+cooperativeness. European Journal of Personality, 25, 363-372. 
+
+Kunda, Z., 1990. The case for motivated reasoning. Psychological Bulletin, 108, 480. 
+
+Lamont,  M.,  2000.  The  Dignity  of  Working  Men:  Morality  and  the  Boundaries  of  Race,  Class  and 
+
+Immigration. New York: Russell Sage Foundation. 
+
+Larson,  T.,  Capra,  C.M.,  2009.  Exploiting  moral  wiggle  room:  Illusory  preference  for  fairness?  A 
+
+comment. Judgment and Decision Making, 4, 467–474. 
+
+19 
+
+ 
+Lin, S.C., Reich, T., 2017. To give or not to give? Choosing chance under moral conflict. Journal of 
+
+Consumer Psychology, 28. 211-233. 
+
+Lin, S.C., Schaumberg, R.L., Reich, T., 2016. Sidestepping the rock and the hard place: The private 
+
+avoidance of prosocial requests. Journal of Experimental Social Psychology, 64, 35-40. 
+
+Liu, P., Lin, S.C., 2017. Projecting lower competence to maintain moral warmth in the avoidance of 
+
+prosocial requests. Journal of Consumer Psychology, 28, 23-39. 
+
+Lin, Y., Osman, M., Ashcroft, R., 2017. Nudge: concept, effectiveness, and ethics. Basic and Applied 
+
+Social Psychology, 39, 293-306. 
+
+Luccasen,  A.,  Grossman,  P.J.,  2017.  Warm‐glow  giving:  Earned  money  and  the  option  to 
+
+take. Economic Inquiry, 55, 996-1006. 
+
+Manesi, Z., Van Lange, P.A., Pollet, T.V., 2016. Eyes wide open: Only eyes that pay attention promote 
+
+prosocial behaviour. Evolutionary Psychology, 14, p.1474704916640780. 
+
+Marchiori, D.R., Adriaanse, M.A., De Ridder, D.T., 2017. Unresolved questions in nudging research: 
+
+Putting the psychology back in nudging. Social and Personality Psychology Compass, 11, e12297. 
+
+Mummolo,  J.,  Peterson,  E.,  2019.  Demand  effects 
+
+in  survey  experiments:  An  empirical 
+
+assessment. American Political Science Review, 113, 517 – 529.  
+
+Nettle, D., Harper, Z., Kidson, A., Stone, R., Penton-Voak, I.S., Bateson, M., 2013. The watching eyes 
+
+effect in the Dictator Game: it’s not how much you give, it’s being seen to give something. Evolution 
+
+and Human Behavior, 34, 35-40. 
+
+Northover, S.B., Pedersen, W.C., Cohen, A.B., Andrews, P.W., 2017. Artificial surveillance cues do 
+
+not increase generosity: Two meta-analyses. Evolution and Human Behavior, 38, 144-153. 
+
+Northover, S.B., Pedersen, W.C., Cohen, A.B., Andrews, P.W., 2017. Effect of artificial surveillance 
+
+cues  on  reported  moral 
+
+judgment:  Experimental  failures 
+
+to  replicate  and 
+
+two  meta-
+
+analyses. Evolution and Human Behavior, 38, pp.561-571. 
+
+Olson, M., 1965. The Logic of Collective Action. Harvard: Harvard University Press. 
+
+Powell, K.L., Roberts, G., Nettle, D., 2012. Eye images increase charitable donations: Evidence from 
+
+an opportunistic field experiment in a supermarket. Ethology, 118, 1096-1101. 
+
+Rammstedt, B., John, O. P., 2007. Measuring personality in one minute or less: A 10 item short version 
+
+of the Big Five Inventory in English and German. Journal of Research in Personality, 41, 203‐212. 
+
+Rigdon,  M.,  Ishii,  K.,  Watabe,  M.,  Kitayama,  S.,  2009.  Minimal  social  cues  in  the  dictator 
+
+game. Journal of Economic Psychology, 30, 358-367. 
+
+Steindl,  C.,  Jonas,  E.,  Sittenthaler,  S.,  Traut-Mattausch,  E.  and  Greenberg,  J.,  2015.  Understanding 
+
+psychological reactance. Zeitschrift für Psychologie, 223, 205-214. 
+
+Trachtman, H., Steinkruger, A., Wood, M., Wooster, A., Andreoni, J., Murphy, J.J., and Rao, J.M., 
+
+2015. Fair weather avoidance: unpacking the costs and benefits of “Avoiding the Ask.” Journal of 
+
+the Economic Science Association, 1, 8–14. 
+
+van der Weele, J.J., Kulisa, J., Kosfeld, M., Friebel, G., 2014. Resisting moral wiggle room: how robust 
+
+is reciprocal behavior? American Economic Journal: Microeconomics, 6, 256-64. 
+
+20 
+
+ 
+van der Weele, J.J., von Siemens, F.A., 2020. Bracelets of pride and guilt? An experimental test of self-
+
+signaling. Journal of Economic Behavior and Organization, 172, 280–291. 
+
+Zizzo,  D.J.,  2010.  Experimenter  demand  effects 
+
+in  economic  experiments.  Experimental 
+
+Economics, 13, 75-98. 
+
+21 
+
+ 
+ 
+[Note: the following instructions pertain to the NoEyes treatment. Instructions for the other treatments 
+are very similar.] 
+
+Appendix A 
+
+Welcome 
+
+This HIT consists of XX Parts in total and will take approximately 10 minutes to complete. You 
+are asked to answer some questions and make some decisions. 
+
+You will receive $2.00 for completing all XX Parts.  
+
+Part 1: 
+
+Charity choice 
+
+You will be paired with a charity of your own choosing selected from ten different charities listed 
+below. A short description of each charity is also provided.  
+
+American Cancer Society 
+Provides  many  services  to  cancer  patients  and  their  families  such  as  information,  medical 
+equipment, transportation to treatment locations, and a support system. 
+
+American Red Cross 
+Offers blood donation information and services, disaster relief, many helpful educational classes, 
+as well as HIV/AIDS support groups. 
+
+Big Brothers Big Sisters 
+Provides  one-to-one  mentoring  for  youth  and  children  residing  in  a  one  parent  family  for  the 
+purpose of creating caring, confident and competent young adults. 
+
+COVID-19 Solidarity Response Fund – WHO 
+Donations support WHO's work to track and understand the spread of the virus; to ensure frontline 
+workers  get  essential  supplies;  and  to  accelerate  research  and  development  of  a  vaccine  and 
+treatments.  
+
+Doctors Without Borders 
+Doctors  and  nurses  volunteer  to  provide  urgent  medical  care  in  some  70  countries  to  civilian 
+victims of war and disaster regardless of race, religion, or politics. 
+
+Feed the Children 
+One of America's most effective charities providing food, clothing, medical care, education, and 
+since  1979. 
+emergency 
+
+the  United  States  and  overseas 
+
+to  children 
+
+relief 
+
+in 
+
+Oxfam America  
+Invests privately raised funds and technical expertise in local organizations around the world that 
+hold  promise  in  their  efforts  to  help  poor  move  out  of  poverty;  committed  to  long  term 
+relationships in search of lasting solutions to hunger, poverty and social inequities.  
+
+Safe Horizon 
+Provides  free  and  confidential  services 
+
+to  survivors  of 
+
+intimate  partner  violence.  
+
+Sierra Club 
+Protects and preserves environmentally sensitive areas.  
+
+22 
+
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YMCA 
+Provides parent visitation monitoring services and physical fitness services. 
+
+Please indicate your charity of choice. Select one and only one charity. 
+•  American Cancer Society  
+•  American Red Cross 
+•  Big Brothers Big Sisters   
+•  COVID-19 Solidarity Response Fund – WHO 
+•  Doctors Without Borders   
+•  Feed the Children  
+•  Oxfam America 
+•  Safe Horizon 
+•  Sierra Club 
+•  YMCA 
+
+ ______ 
+ ______ 
+ ______ 
+ ______ 
+ ______ 
+ ______ 
+ ______ 
+ ______ 
+
+ ______ 
+
+ ______ 
+
+The charity you selected will receive $2.00 from the experimenter. From the $2.00 you have been 
+paid, you have the option of donating to the charity you have just selected. You may donate as 
+little or as much of your $2.00 as you wish. 
+
+PLEASE NOTE: The amount contributed to your selected charity by the experimenter will be 
+reduced by however much you pass to your selected charity. Your selected charity will receive 
+neither more nor less than $2.00.  
+
+Before you make your donation decision, please answer the following question. 
+
+You elect to keep $1.50 for yourself and pass $0.50 to your charity of choice.  
+
+How much will you be paid for your participation today? (In USD) 
+
+How much will your selected charity receive? (In USD)  
+
+Please indicate how much you wish to donate to your selected charity.___________ 
+
+23 
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Part 2:  
+
+Please answer the following demographic survey questions. 
+
+Age   
+
+Your Gender: 
+
+___Man  
+
+___Woman  
+
+___Non-binary/Gender Diverse  
+
+___My Gender identity isn’t listed  
+
+___Prefer not to say 
+
+Highest Level of Education:  
+
+___Not applicable  
+
+___Primary School  
+
+___High School  
+
+___College Undergraduate Degree  
+
+___Postgraduate Degree 
+
+Ethnicity:  
+
+___African American  
+
+___Caucasian  
+
+___Hispanic/Latino  
+
+___Asian  
+
+___Native American  
+
+___Other 
+
+___Prefer not to say 
+
+My religion is very important to me  
+
+___Strongly Disagree  
+
+___Disagree  
+
+___Neutral, Agree  
+
+___Strongly Agree 
+
+___Prefer not to say 
+
+Average Income per year: 
+
+___Less than $49,999 
+
+___$50,00-$99,999 
+
+___$100,000-$149,999 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___$150,000-$199,999 
+
+___$200,000-$249,999 
+
+___More than $250,000 
+
+In the past month, how many times have you volunteered your time to a charitable cause?  ______ 
+
+In the past month, how many times have you made a donation of money to a charitable cause? ____  
+
+[Chosen Charity] is a charity that supports a worthy cause? 
+
+___Strongly Disagree  
+
+___Disagree  
+
+___Neutral  
+
+___Agree  
+
+___Strongly Agree 
+
+ “Think about the last time you gave to a charity before today. What was more important to you:”  
+
+___The total amount given by everyone, or  
+
+___The amount that you personally gave 
+
+___Both the total amount given by everyone and the amount you personally gave 
+
+___Some other aspect of giving 
+
+Why did you choose to donate/not donate to your chosen charity in Stage 1? 
+
+How many participants out of 10 do you believe donated to their charities of choice?   
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 3:  
+
+Please answer the following questions. 
+
+Instructions:  How  well  do  the  following  statements  describe  your  personality?  Please  place  an  X 
+indicating how strongly you agree or disagree with each statement. 
+
+I see myself as someone who: 
+
+Disagree 
+Strongly 
+
+Disagree a little  Neither 
+agree nor 
+disagree 
+
+Agree a little  Agree 
+
+Strongly 
+
+1  Is reserved 
+2  Is generally trusting 
+3  Tends to be lazy 
+4  Is relaxed, handles stress well 
+
+5  Has few artistic interests 
+6  Is outgoing, sociable 
+7  Tends to find fault with others 
+
+8  Does a thorough job 
+9  Gets nervous easily 
+10  Has an active imagination 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix B 
+
+Table 1: Summary statistics 
+
+NoEyes 
+
+DynamicEyes 
+
+TurnOffEyes 
+
+37.60 
+(0.62) 
+
+36.51 
+(0.60) 
+
+35.86 
+(0.56) 
+
+Kruskal-Wallis 
+test 
+p-value 
+(F-test p-value+) 
+0.13 
+(0.11) 
+
+153 
+155 
+1 
+
+0 
+0 
+86 
+151 
+72 
+
+86 
+35 
+38 
+86 
+62 
+2 
+
+140 
+126 
+24 
+11 
+6 
+2 
+
+22 
+246 
+10 
+15 
+13 
+2 
+1 
+5.16 
+(0.19) 
+6.91 
+(0.11) 
+7.75 
+(0.10) 
+5.47 
+(0.13) 
+7.12 
+(0.11) 
+309 
+
+159 
+155 
+0 
+
+0 
+1 
+70 
+176 
+67 
+
+75 
+28 
+49 
+83 
+78 
+1 
+
+142 
+131 
+29 
+10 
+2 
+0 
+
+26 
+225 
+25 
+17 
+19 
+2 
+0 
+5.38 
+(0.12) 
+6.97 
+(0.11) 
+7.19 
+(0.11) 
+5.74 
+(0.12) 
+7.04 
+(0.10) 
+314 
+
+165 
+172 
+0 
+
+1 
+0 
+72 
+194 
+70 
+
+97 
+29 
+40 
+81 
+83 
+7 
+
+141 
+133 
+28 
+16 
+7 
+4 
+
+37 
+244 
+20 
+17 
+12 
+5 
+2 
+5.42 
+(0.12) 
+6.96 
+(0.10) 
+7.63 
+(0.09) 
+5.38 
+(0.11) 
+7.22 
+(0.10) 
+337 
+
+0.89* 
+(0.90) 
+
+0.76 
+(0.82) 
+
+0.37 
+(0.37) 
+
+0.73 
+(0.25) 
+
+0.26 
+(0.51) 
+
+0.27 
+(0.24) 
+0.95 
+(0.91) 
+0.003b 
+(0.0002)b 
+0.05 
+(0.09) 
+0.39 
+(0.44) 
+
+Mean Age 
+(Std. Err) 
+Gender 
+Man 
+Woman 
+Non-binary gender 
+Education 
+Not applicable 
+Primary School 
+High School 
+College Undergraduate Degree 
+Postgraduate Degree 
+My religion is very 
+important to me 
+Strongly disagree 
+Disagree 
+Neutral 
+Agree 
+Strongly agree 
+Prefer not to say 
+Income 
+< $49,999 
+$50,00-$99,999 
+$100,000-$149,999 
+$150,000-$199,999 
+$200,000-$249,999 
+> $250,000 
+Ethnicity 
+African American 
+Caucasian 
+Hispanic/Latino 
+Asian 
+Native American 
+Other 
+Prefer not to say 
+Extraversion 
+(Std. Err) 
+Agreeableness 
+(Std. Err) 
+Conscientiousness 
+(Std. Err) 
+Neuroticism 
+(Std. Err) 
+Openenss 
+(Std. Err) 
+Observations 
+
+Notes: * - chi-square contingency table test 𝑝-value; + Regression (OLS) of characteristic on treatment dummy 
+variables, 𝑝-value of F-statistic. b - Statistically significant after applying the Bonferroni correction. 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Ten randomly selected written comments by category and donation amount 
+
+Other 
+(n=420) 
+X 
+X 
+X 
+X 
+
+X 
+
+X 
+
+X 
+X 
+X 
+X 
+
+Comments (verbatim) 
+
+The eyes expressed a panic situation. 
+sad 
+Very sad and expecting 
+alluring 
+THE OWNER OF THIS EYES HAVE SOME 
+PHYSICAL PROBLEM 
+I could really tell what color they were.  They were like a 
+grey/blue mix. 
+They are unhealthy. 
+I didn't have many thoughts on them. 
+has any defects 
+A question to check that I am not a robot.  
+Unrelated to the task, distracting 
+I thought I was a little uncomfortable looking directly at 
+eyes like that. 
+It shows me that he or she need some help 
+kind of disturbing 
+it was very weird 
+watching me 
+They scared me because they looked so mean.  
+They were sort of ominous. 
+they were annoying 
+The eyes seemed creepy and judgmental.  
+I understand what you're trying to study, but for me this 
+was simply a math problem and the eyes had no effect. 
+They were uncomfortable, and may have a psychological 
+factor in people's choices 
+I think they were meant to make me donate 
+They made you feel like you were being watched and 
+therefore judged about your choice 
+They were unsettling and potentially judging 
+I thought they were creepy and judging.  
+they were there to force me to donate 
+They were meant to make me feel judged.  
+I felt that the eyes were watching me make my decision 
+on whether or not to donate. 
+It looks judgmental. 
+
+Tokens 
+Donated 
+50 
+30 
+0 
+100 
+
+150 
+
+0 
+
+30 
+0 
+20 
+20 
+0 
+
+0 
+
+30 
+0 
+0 
+50 
+25 
+0 
+0 
+0 
+
+0 
+
+0 
+
+0 
+
+50 
+
+100 
+25 
+0 
+0 
+
+0 
+
+0 
+
+Discomfort 
+ (n=184) 
+
+Influence 
+ (n=47) 
+
+X 
+
+X 
+
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+X 
+X 
+X 
+
+X 
+
+X 
+
+% donating (full sample) 
+Chi-square test p-value 
+Other v Discomfort 
+Other v Influence 
+Discomfort v Influence 
+Average donation (full sample) 
+(Std Err.) 
+t-test p-value (two-tailed) 
+Other v Discomfort 
+Other v Influence 
+Discomfort v Influence 
+
+65.5% 
+
+42.9% 
+
+38.3% 
+
+39.94 
+(2.53) 
+
+< 0.001 
+< 0.001 
+0.565 
+21.68 
+(3.13) 
+
+< 0.001 
+< 0.001 
+0.316 
+
+16.49 
+(4.09) 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3: Decision to donate 
+
+Marginal Effect    
+  (Std Err.) 
+
+DynamicEyes 
+
+TurnOffEyes 
+
+Pseudo R2 
+N 
+
+Full Sample 
+
+0.055 
+(0.040) 
+0.051 
+(0.039) 
+0.002 
+960 
+
+Full Sample less 
+Influence 
+0.064 
+(0.040) 
+0.071* 
+(0.040) 
+0.003 
+913 
+
+Full Sample less  
+Influence and Discomfort 
+0.108*** 
+(0.041) 
+0.168*** 
+(0.044) 
+0.016 
+729 
+
+Notes:  Logit  regressions;  Dependent  variable:  Donate  (=  1  if  donation  >  0,  otherwise  0);  NoEyes  is  the  omitted 
+treatment; *** 1%, ** 5%, * 10% significance level. 
+
+Table 4: Amount donated 
+
+Coefficient 
+  (Std Err.) 
+
+DynamicEyes 
+
+TurnOffEyes 
+
+Constant 
+
+R2 
+N 
+
+Full Sample 
+
+12.84* 
+(6.69) 
+14.25** 
+(6.58) 
+-4.42 
+(4.95) 
+0.001 
+960 
+
+Full Sample less 
+Influence 
+14.13** 
+(6.76) 
+17.96** 
+(6.76) 
+-4.50 
+(4.97) 
+0.001 
+913 
+
+Full Sample less  
+Influence and Discomfort 
+20.92*** 
+(6.88) 
+32.99** * 
+(7.33) 
+-3.101 
+(4.79) 
+0.004 
+729 
+
+Notes: Tobit regressions; Dependent variable: Donation (= amount donated); censored at 0 and 200; NoEyes is the 
+omitted treatment; *** 1%, ** 5%, * 10% significance level. 
+
+DynamicEyes 
+
+TurnOffEyes 
+
+Constant 
+
+R2 
+N 
+
+Full Sample 
+
+29.70** 
+(14.77) 
+33.12** 
+ (14.51) 
+100.00*** 
+(0.10) 
+0.006 
+960 
+
+Table 5: Ratio 
+
+Coefficient 
+(Std Err.) 
+Full Sample less 
+Influence 
+32.43** 
+(15.10) 
+40.78*** 
+(15.10) 
+100.00*** 
+(0.11) 
+0.007 
+913 
+
+Full Sample less 
+Influence and Discomfort 
+46.00*** 
+(16.30) 
+74.85*** 
+(17.50) 
+100.00*** 
+(0.11) 
+0.024 
+729 
+
+Notes:  OLS  regressions;  Dependent  variable:  Ratio  =  (=  Donation/average  donation  in  the  NoEyes  treatment); 
+NoEyes is the omitted treatment; *** 1%, ** 5%, * 10% significance level. 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 6: TurnOffEyes Only: Decision to give and amount given 
+1 
+Logit+ 
+Marginal Effect 
+(Std Err.) 
+0.04 
+(0.05) 
+
+LeftEyesOn 
+
+2 
+Tobit++ 
+Coefficient 
+(Std Err.) 
+3.84 
+(10.20) 
+4.98 
+(6.86) 
+
+Constant 
+
+Pseudo R2
+R2 
+
+N 
+
+0.001 
+
+0.0001 
+
+337 
+
+Notes: Full sample; + Dependent variable: Donate (= 1 if donation > 0, otherwise 0); ++ Dependent variable: Donation 
+(=  amount  donated);  censored  at  0  and  200;  #  Dependent  variable:  Ratio  =  (=  Donation/average  donation  in  the 
+NoEyes treatment); TurnedOffEyes is the omitted variable; *** 1%, ** 5%, * 10% significance level. 
+
+30

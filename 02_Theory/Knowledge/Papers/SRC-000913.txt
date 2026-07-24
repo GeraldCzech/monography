@@ -1,0 +1,1787 @@
+Journal of Brand Management
+https://doi.org/10.1057/s41262-019-00154-w
+
+ORIGINAL ARTICLE
+
+Consumer‑based brand equity and consumer‑based brand
+performance: evidence from smartphone brands in the USA
+Deli Yang2 · Mahmut Sonmez1 · Mario Gonzalez2 · Yi Liu2 · Carol Y. Yoder3
+Revised: 31 July 2018
+© Springer Nature Limited 2019
+
+Abstract
+Consumer-based brand equity (CBBE) has attracted academic endeavor and strategic emphasis in practice to examine its role
+for brand success. Despite its diagnostic power for brands, prior studies fail to: reach consensus on conceptualization and
+operationalization, consider prospective consumers and competing brands, and identify linkages with brand performance.
+Our study therefore proposes an integrative model of consumer-based brand performance (CBBP) to address its relationship
+with CBBE. Within this aim, we intend to achieve two objectives. First, we prove that the key components of CBBE, that
+is, brand attributes, associations and judgments, all play significant roles in determining CBBP. Second, we demonstrate
+the detailed relationship among the three components of CBBE. Accordingly, we test hypotheses based on the structural
+equation modeling of 1670 valid questionnaire responses from young consumers (aged 18–35) in the USA and comparative
+analysis of two competing smartphone brands (iPhone vs. Samsung). As a result, we contribute to theoretical and empirical
+understanding concerning the relationship between CBBE and CBBP. We also enrich brand empirical understanding by
+addressing two main competing brands in the US smartphone industry. The combined SEM and comparative analysis add
+both breadth and depth to current understandings. The results provide implications for practitioners to devise brand strategies
+which consider the varied impact of consumers, as a key stakeholder, for success.
+Keywords Comparative study · Consumer-based brand equity · Consumer-based brand performance · SEM · Smartphone
+brand · US
+
+Introduction
+
+* Deli Yang
+dyang@trinity.edu
+Mahmut Sonmez
+maho.sonmez@utsa.edu
+Mario Gonzalez
+mgonza13@trinity.edu
+Yi Liu
+yliu@trinity.edu
+Carol Y. Yoder
+cyoder@trinity.edu
+1
+
+Department of Management Science and Statistics, College
+of Business, University of Texas at San Antonio, One UTSA
+Circle, San Antonio, TX 78249, USA
+
+2
+
+School of Business, Trinity University, One Trinity Place,
+San Antonio, TX 78212, USA
+
+3
+
+Department of Psychology, Trinity University,
+One Trinity Place, San Antonio, TX 78212, USA
+
+The strategic success of brands depends on consumers due
+to their significant role, as a key stakeholder, for products
+and services. A senior executive captures the significant consumer impact on the Coca-Cola Company: ‘If Coca-Cola
+were to lose all of its production-related assets in a disaster,
+the company would survive. By contrast, if all consumers
+were to have a sudden lapse of memory and forget everything related to Coca-Cola, the company would go out of
+business.’ (Handford et al. 2011). This remark underscores
+consumer-based brand equity (CBBE) and its relationship
+with brand success. Integrating leading scholars’ insights
+(Keller 1993; Aaker 1996; Erdem et al. 1999), we define
+CBBE as the perceptual assessment based on consumer
+knowledge and experience with the brand name (i.e., company, organization, product and/or service). Understanding
+consumers’ perspectives is strategically significant for brand
+owners to: offer value-added products and services to consumers (e.g., Farquhar 1989), recognize the challenges with
+Vol.:(0123456789)
+
+D. Yang et al.
+
+competitors (Aaker 1991), recognize future profits (e.g.,
+Crimmins 2000) and devise actionable strategies for endusers (Keller 1993). For example, since the 1980s, brand
+equity has become a crucial asset for corporate mergers,
+buyouts and acquisitions (e.g., Salzer-Morling and Strannegard 2004).
+Alongside the strategic emphasis in practice, CBBE has
+attracted scholarly endeavors and generated several key
+conceptual models. Aaker (1991, 1996) emphasizes brand
+awareness, perceived quality, association and loyalty. Keller
+(1993) conceptualizes the differential effect of brand identity, meaning, responses and loyalty between consumers
+and companies. Erdem et al. (1999) stress the significance
+of consumer perceptions concerning product attributes.
+Blackston (1992) proposes that brand relationships create,
+build, sustain, reinforce and manage corporate brand success. Moreover, scholarly endeavor has also linked brands
+with financial outcomes to quantify the current and existing
+strength of brands (e.g., Simon and Sullivan 1993).
+Despite the contribution of these key models, research
+issues remain and motivate new research to develop this
+versatile field. The above studies demonstrate diagnostic
+power for brand potential (Ailawadi et al. 2003). Nevertheless, one highly recognized debate is that the CBBE models
+lack consensus in both conceptualization and operationalization due to the complexity of brands (e.g., Datta et al. 2017).
+Despite the consensus on the multidimensionality of CBBE,
+no agreement exists on its dimensionality (Christodoulides
+and de Chernatony 2010). In addition, limited empirical
+studies utilize Aaker’s five-dimension model (Aaker 1991).
+For example, prospective consumers are value creators for
+brands and should be considered (Aaker 1996). Numerical
+measurements are vital to compare competing brands for
+positioning in Keller’s model (e.g., consumer reactions to
+competing brands; Kapferer 2000). Moreover, empirical
+findings tend to recognize unstable relations and illuminate
+disagreements (e.g., Szocs 2014). Examining brand equity
+based on product attributes may limit the measurements
+in Erdem’s model (Myers 2003). Linking brand outcomes
+(e.g., brand value) with consumer-mindset would also make
+CBBE ‘complete’ (e.g., Ailawadi et al. 2003) since the existing studies center on consumer preference and repurchase
+rather than their views on brand performance.
+Given the above research issues, we take prior studies
+one step further to examine the linkage between CBBE and
+brand performance. This paper therefore aims to examine
+the role of CBBE on consumer-based brand performance
+(CBBP, aka Consumers’ perceived view of brand success;
+Yang et al. 2015). In this process, we also clarify the relationship of major constructs within CBBE. Accordingly, we
+intend to achieve two objectives to provide evidence that:
+First, brand attributes, associations and judgments, as part
+of CBBE, all play a significant role in determining CBBP.
+
+Second, brand attributes, associations and judgments are
+all significantly related, as key components of CBBE. To
+achieve the above objectives, we rely on original data to
+compare and contrast the success of two smartphone brands
+(iPhone and Samsung). We formulate our hypotheses following an integrative framework upon examining previous studies. Subsequently, we test relevant relationships
+based on the structural equation modeling (SEM) of 1670
+valid questionnaire responses from young consumers (aged
+18–35) in the USA.
+We differentiate our contributions from three perspectives. First, we contribute to theoretical and empirical studies
+to address the CBBE effect on CBBP and the relationship
+among the key CBBE dimensions. Our proposed integrative
+model addresses, from the perspective of consumers, the
+connections among product attributes, judgment, association
+and their role on CBBP. The findings help translate CBBE
+value into corporate benefit, based on consumer behavioral
+outcomes. The findings also clarify key CBBE dimensions.
+In this process, we also contribute to empirical studies to
+CBBE because we compare the two most competitive brands
+in the smartphone industry in the USA, which has industrial
+relevance to both the existing and prospective consumers.
+After all, nearly 70% of the US population owns iPhone
+(34%) and Samsung (33%) in 2017, based on US Statistica. Our combined SEM and comparative studies respond
+to the call for measurement clarity to avoid mono-method
+bias as well as provide in-depth study through comparison
+of multiple groups (e.g., iPhone vs. Samsung with all-data;
+goodness-of-fit comparison).
+The remainder of the paper is structured as follows. The
+second section examines the existing literature and establishes a theoretical framework before formulating hypotheses. The third section describes the instrument, sample,
+constructs and measures, analytical techniques and model
+validity. In the fourth section, we reveal the adjusted model
+based on findings, respond to relevant hypotheses and conduct comparative studies. The fifth section provides discussions on how our findings relate to prior studies, detail contributions, identify limitations to guide future research and
+discuss implications for practice.
+
+Literature review, theoretical framework
+and hypotheses
+Prior studies on CBBE and CBBP
+CBBE
+Several conceptual frameworks on CBBE emerged in the
+past three decades. Leuthesser (1988) argues that CBBE,
+as a set of associations and behaviors, allows brands to earn
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+
+greater volume or margins than it would without the brand
+name, and that brand meaning is the major component of
+brand equity. Farquhar (1989) suggests that CBBE adds
+value since a brand endows a product with brand evaluations, brand attitudes and brand image. Srivastava and
+Shocker (1991) argue that CBBE affects long-term cash
+flows with brand strength and brand value. Erdem et al.
+(1999) developed a framework based on product attributes
+and consumer taste or utility weight. In product categories
+with low involvement, intangible attributes could contribute
+more to brand equity than tangible attributes (Myers 2003).
+Among CBBE studies, the frameworks by Keller (1993,
+2006) and Aaker (1991, 1996) are highly recognized and
+influential. Aaker (1991) proposed five categories of brand
+assets and liabilities linked with brands, which add or subtract value from the company. These categories of brand
+assets are brand loyalty, brand awareness, perceived quality, brand association and other proprietary assets, such as
+patents, trademarks and channel relationships (Aaker 1991).
+Later studies suggest that each dimension uniquely contributes to brand management (Farjam and Xu 2015). For example, loyal consumers often refrain from considering alternative products, thereby helping cut costs (Ovidiu 2005).
+Brand awareness (i.e., consumers’ ability to recognize/recall
+product category associated with a brand) generates high
+levels of purchase (Aaker 1991; Baldauf et al. 2003; Farjam
+and Xu 2015). It also serves as an anchor for attaching other
+brand associations (Farjam and Xu 2015). Perceived quality
+facilitates brand differentiation in the market (Farjam and
+Xu 2015) and is the major reason that consumers purchase a
+product (Aaker 1992). Brand association is anything linked
+to a brand in consumers’ memory that helps consumers process information, provide reasons to buy, and create positive feelings (Aaker 1991; Farjam and Xu 2015). Moreover,
+brand assets provide a strong competitive advantage for the
+firm (Aaker 1991; Ovidiu 2005). For example, patents and
+trademarks protect ownership from unauthorized use allowing for competitive advantages over rivals. Subsequently,
+Aaker has further improved the framework and replaced
+‘brand assets’ with two new elements: brand leadership
+and market behaviors (Aaker 1996). The framework is most
+replicated, as a theoretical frontier in brand studies, but it
+has also received its fair share of criticism. For example, it
+is argued that the framework fails to acknowledge market
+dynamics (Ponnam and Krishnatray 2008). That is, the loyalty measure does not consider prospective consumers who
+have not yet developed loyalty to the brand.
+Different from Aaker (1991, 1996), Keller argues that
+brand equity is all about consumers’ minds, their thoughts,
+feelings, perceptions, images, experiences—not simply
+facts about brands. Brand equity is ‘the differential effect
+that brand knowledge has on consumer response to brand
+marketing activity’ (Keller 2016, p. 3). CBBE occurs when
+
+consumers are familiar with the brand and hold ‘favorable,
+strong, and unique brand association in memory’ (Keller
+1993, p. 2). Accordingly, brand equity is what consumers know about brands (brand knowledge) and what that
+knowledge implies for companies. Brand knowledge, as the
+core of this framework, is descriptive and evaluative brandrelated personal meaning about a brand stored in consumers’
+memory (Keller 2003). It consists of brand awareness (brand
+recognition and recall) and brand image (brand association).
+Brand recognition occurs when consumers can discriminate
+a certain brand from others, and brand recall is the ability
+to retrieve the brand memory when cued. Since a necessary
+condition for creating a brand image is that a brand node
+has been established in memory, brand awareness affects
+consumer decision making by influencing the formation
+and strength of brand association in the brand image (Keller 1993).
+As the second component of brand knowledge, brand
+image reflects particular brand association in consumers’
+memory (Keller 1993). Brand association takes different
+forms, with favorability, strength and uniqueness playing
+important roles in consumer responses to brand equity
+and decision making. Depending on the level of abstraction, brand association is categorized into three elements:
+attributes, benefits and attitudes (Keller 1993). Attributes
+are the descriptive features of a product or service, including the product/service itself, or other features (e.g., price
+and packaging). Benefits are consumers’ personal values that
+have been attached to the product or service (Keller 1993).
+The most abstract dimension of brand image is consumers’
+overall evaluation of the brand itself (Keller 1993; Wilkie
+1986). Keller argues that brand evaluation is a function of
+the most salient attributes and benefits of a brand.
+Brand image varies depending on the favorability,
+strength and uniqueness of brand association. Abstract association (e.g., benefits and attitudes) tends to be more evaluative, stays longer in consumers’ memory (Chattopadhyay
+and Alba 1988; Keller 1993), and can be stored separately
+from the underlying brand attribute information (Lynch et al.
+1988; Keller 1993). The importance of congruence among
+the dimensions of brand image is likely to determine consumers’ holistic reaction and ease of decision making (Keller
+1993).
+To further articulate the notion of brand knowledge,
+Keller (2003) outlined more specific dimensions of brand
+knowledge that include awareness, attributes, benefits,
+images, thoughts, feelings, attitudes and experiences. Specifically, the newly emerged concepts are image, feelings and
+experiences. Images are concrete or abstract visual information; feelings are personal affective responses to any brandrelated information; experiences are the purchasing and consumption behaviors and any other brand-related episodes
+(Keller 2003, 2016).
+
+D. Yang et al.
+
+Brand resonance represents the further development of
+the framework (Keller 2001) that captures the process of
+how consumers develop relationships with brands. The
+foundation is brand salience, which includes the breadth
+and depth of brand awareness. Salience is a much more profound concept than the previously outlined brand recognition
+and brand recall (Keller 2001). The development of brand
+relationship takes two routes—the rational route concerning
+brand performance and judgment, and the emotional route
+concerning image and feelings. The two routes are then confluent to create brand resonance. It is important to acknowledge the ‘crossover effects’ where the rational and emotional
+elements do affect each other (Keller 2001, 2016). These
+crossover effects set the foundation for our hypotheses.
+In addition to the conceptual focus discussed above, two
+empirical studies of CBBE attract scholarly attention. Yoo
+and Donthu (2001) studied goods brands (e.g., athletic shoes,
+television sets) and concluded that applications for goods
+brands are more abundant than those for service brands. On
+the other hand, Nam et al. (2011) examined service brands
+and introduced an alternative empirical model. Specifically,
+service brands have different characteristics (i.e., intangibility, perishability, heterogeneity and inseparability), and this
+model consists of seven dimensions: physical quality, staff
+behavior, ideal self-congruence, brand identification and
+lifestyle congruence, brand satisfaction and brand loyalty.
+Although both models are valid in the retailing sector, the
+Nam et al. (2011) study demonstrated slightly higher validity
+than that of Yoo and Donthu (2001) across different cultural
+settings (Çifi et al. 2016).
+CBBE effect on CBBP
+Sporadic studies recognize how CBBE affects behavioral
+outcomes. Most of them address the effect from purchasing perspectives, such as purchase or repurchase intention,
+brand preference and price premium (Buil et al. 2013; CobbWalgren et al. 1995; Rambocas et al. 2018). Nonetheless,
+consumer perceptions of brands based on their knowledge
+and experience have intangible effects on companies, such
+as brand reputation, loyalty, value and success or failure
+relative to competitors (Yang et al. 2015). Brand loyalty is
+directly connected with brand performance in the form of
+purchase loyalty leading to greater market shares and attitudinal loyalty, which results in higher profit margins (Chaudhuri and Holbrook 2001). Consumers build their own views
+of brand value based on their knowledge and experiences
+with a brand and a firm (Keller and Lehmann 2006; Anisimova 2007). These values, manifested by consumers’ satisfaction and dissatisfaction with the brand, influence purchase
+decisions. The previous research (e.g., Keller 1993, 2001)
+has noted that the ultimate goal for the development and
+
+application of CBBE model is to create effective corporate
+strategy that improves brand performance.
+In fact, Keller’s conceptualization was empirically supported by a study examining Chinese netizen’s perspective
+on Internet search engines (Yang et al. 2015). Specifically,
+consumers’ (netizens in this case) satisfaction, loyalty and
+perceived value of brands are significant measures of CBBP.
+That is, CBBP is the overall perceptions of how well the
+brand is doing as perceived by relevant stakeholders, such
+as consumers, managers (Yang et al. 2012) and shareholders. These perceptions are based on their direct knowledge
+and experience related to products and services (Yang et al.
+2015).
+Consumer satisfaction influences the consumer–brand
+relationship based on the attitudes formed through expectations and prior experience with the brand (Bearden and
+Teel 1983; Cadotte, Woodruff and Jenkins 1987). Positive
+consumer satisfaction leads to consumer actions, such as
+reusing a product or a service, and ultimately to how markets react to these actions (Rust et al. 2004). Two aspects
+of brand loyalty—purchase loyalty and attitudinal loyalty—
+influence CBBP through their effects on market share and
+high profit margins, respectively (Chaudhuri and Holbrook
+2001). Consumers build their own views of brand success
+based on their experiences and knowledge with a brand and
+a firm (Keller and Lehmann 2006; Anisimova 2007). In turn,
+consumers decide which brands have more equity based on
+these features; these brands are then perceived to be more
+successful than others (Villas-Boas 2004).
+Competitive landscapes vary by country, promoting
+distinct configuration of resources and capabilities among
+firms, as a result of distinct competitive forces (Filieri et al.
+2018). CBBP is influenced by the country, industry and firm
+context (Yang et al. 2015). In other words, the way consumers evaluate brands’ satisfaction, loyalty and perceived
+success will thus differ by the context in which brands operate. It is therefore important to examine the way consumers
+form brand attributes, associations and judgments in different industries.
+
+Theoretical framework
+We can conclude, on the basis of prior studies, that the existing literature on CBBE and CBBP has demonstrated three
+realities. First, diverse CBBE frameworks are divergent with
+little consensus on either specific dimensions or operationalization (Christodoulides and de Chernatory 2010; Datta
+et al. 2017). Nonetheless, the most recognized framework,
+Keller’s CBBE, remains a popular conceptualization (Ponnam and Krishnatray 2008). Using Keller’s framework, as
+a foundation, we test, using new empirical data directly
+from consumers, the key components of CBBE recognized
+by prior studies. Second, while the existing studies fail to
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+
+consider the relationships among CBBE dimensions (Szőcs
+2014) and fail to consider competing brands (Ponnam and
+Krishnatray 2008), our study will clarify how key CBBE
+components relate to one another. Here, we compare two
+competing brands in the smartphone industry. Third, the
+relationship between CBBE and behavioral outcomes, as a
+result of consumers’ knowledge and experience with brands,
+is rarely addressed (Buil et al. 2013). While tangible behavioral outcomes, such as brand preference, price and repurchase intentions, are of particular interest for brand practitioners (Cobb-Walgren et al. 1995), the intangible behavior
+outcomes, such as consumers’ view on brand performance,
+are vital for formulating brand strategies (Keller 2001).
+Therefore, we take a step forward from the previous work to
+address the behavioral outcomes called CBBP (Yang et al.
+2015).
+On the basis of our literature critique, we have established a theoretical framework to serve our research purposes. Figure 1 illustrates several key relationships among
+the CBBE constructs represented by brand attributes, brand
+association and brand judgments, and between CBBE and
+CBBP. Here, brand attributes are the descriptive features
+of a product or service (Keller 1993). Brand association is
+the link between information and brand nodes in consumer
+memory that create meaning for the brand (op cit 1993).
+Brand judgment refers to consumers’ personal opinions and
+evaluations of the brand (Keller 2001). CBBP is defined as
+the overall brand effectiveness perceived by relevant stakeholders—consumers (Yang et al. 2015). Based on this theoretical framework, we will hypothesize in the subsequent
+
+Attachment
+
+section that CBBP is the result of simultaneous effects of
+the three key components of CBBE (i.e., brand attributes,
+brand association and brand judgment). The answer to this
+question helps address the aim of this paper. Specifically, we
+propose that brand attributes, brand associations and brand
+judgments significantly affect CBBP (responding our first
+objective). We also propose that the three key constructs
+representing CBBE are positively related (responding our
+second objective): Brand attributes are positively related to
+both brand associations and brand judgments; brand associations impact brand judgments. In the subsequent section, we
+detail the formulation of our hypotheses.
+
+Hypotheses
+Keller (2003) recognizes three core components of CBBE,
+brand attributes, brand associations and brand judgment.
+Among them, brand attributes are the descriptive features of
+a product or service (Keller 1993). Consumers gain knowledge through word of mouth and their own research on competing brands. In the process, they form an understanding as
+to what a brand is (e.g., expensive, user-friendly, reliable and
+innovative). As a result, they form perceptions about brand
+performance. Therefore, we hypothesize that
+H1a Brand attributes are significantly positive to affect
+CBBP.
+The three components of brand associations are its
+favorability, strength and uniqueness (Keller 1993). They
+
+Influence
+
+Reputation
+
+Brand
+associations
+
+Design
++
+
++
+
+Network
+
+Consumerbased Brand
+Performance
+
++
+
+Brand
+Attributes
+
+Security
+
++
+
+Interface
+
+Loyalty
+
+Satisfaction
+
++
+
++
+Brand
+judgements
+
+Software
+
+Superiority
+
+Brand Effort
+
+Global Standing
+
+Fig. 1  Theoretical framework of consumer-based brand performance
+
+Brand Quality
+
+Value
+
+Brand Services
+
+D. Yang et al.
+
+play important roles in consumers’ decision making. All
+these components are derived from consumer experiences
+and perception, and directly link to brand performance. For
+example, favorable and unique memory nodes attached to
+a brand directly affect satisfaction, perceived value and
+loyalty. A strong brand association creates positive effects,
+which in turn, leads to a competitive advantage in the market, and further enhances CBBP.
+H1b Brand associations are significantly positive to affect
+CBBP.
+Given our previous discussion of brand association, the
+logic should also apply to the relationship between brand
+judgment and CBBP. Rational and positive evaluations
+toward a brand will enhance the overall effectiveness of
+a brand and further improve a brand’s competitiveness in
+the market. Brand judgment involves how consumers put
+together all the different performance and association for the
+brand to form varied opinions. While Keller (2001) identifies numerous influences, Aaker (1991, 1996) also suggests
+that quality is an important part of brand performance. Consumers’ judgments about quality are likely to influence their
+decision of purchasing, and further enhance CBBP.
+H1c Brand judgments are significantly positive to affect
+CBBP.
+In addition, we propose that these three key components
+of CBBE are related to one another. Brand attributes include
+both product-related attributes (i.e., physical composition
+of a product or service) and non-product-related attributes
+(i.e., external aspects, e.g., price, packaging, user imagery
+and usage imagery; Keller 1993). Both price and packaging
+provide important information in purchasing decisions. User
+imagery has to do with who will be using the product or service, and when and where the product or service will be used
+(Keller 1993). These attributes are linked to feelings and
+emotions to the brand and influence purchasing decisions
+(Aaker 1991; Farjam and Xu 2015). Specifically, productrelated attributes, such as taste of food, quality of service
+and appearance, directly contribute to consumers’ consumption experiences and satisfaction. The non-product-related
+attributes, such as price and packaging, directly affect purchasing decisions. All these attributes should create memory
+nodes that are linked to other associations with a brand.
+H2a Brand attributes are significantly positive to affect
+brand association.
+Consumers’ personal opinions and evaluations of the
+brand involve integrating all sorts of brand attributes. As
+suggested by Aaker (1991, 1996), brand attributes influence
+
+brand judgment. Keller (2001) suggests that quality, credibility, considerations and superiority (uniqueness) contribute
+to brand judgment. Aaker (1991, 1996) further suggests that
+quality is an important part of brand equity. While quality
+is a product-related attribute, credibility, considerations and
+superiority (uniqueness) are more relevant to the non-product-related attributes. These attributes are likely to affect
+consumers’ judgment about a brand, which ultimately leads
+to purchasing decisions.
+H2b Brand attributes are significantly positive to affect
+brand judgments.
+Keller (2001) distinguished between brand feelings and
+brand judgment. While brand judgment belongs to the
+rational component of brand equity, brand feelings reflect the
+emotional response to the brand. Such emotional responses
+may also relate to social currency evoked by the brand,
+which overlaps with the concept of brand association. The
+emotional and rational elements do create crossover effects.
+For instance, one important dimension of brand association is its favorability, which is consumers’ evaluation of
+how favorable a brand association is (Keller 1993). That is,
+brand association is not entirely based on emotion and affect;
+instead, it has a rational component inherent to it. Thus,
+brand judgments and brand association should relate to each
+other in influencing purchasing and consumption decisions.
+For instance, a positive brand association (i.e., perceived
+benefits and positive attitude) is likely to induce positive
+evaluations and judgment. Such a positive judgment, in turn,
+leads to more positive feelings about the brand. Accordingly,
+we hypothesize that
+H2c Brand associations are significantly positive to affect
+brand judgments.
+
+Method
+Instrument and data
+We use an online questionnaire to collect primary data
+for this study. The first and second authors pretested their
+designed questionnaire with 293 undergraduate and postgraduate students in five classes of different sizes (10–120)
+at two universities. These students’ feedback and responses
+were useful sources for the questionnaire revision. Accordingly, a new version of the questionnaire was created in
+Qualtrics, a user-friendly platform for online questionnaire
+survey with helpful research support and automated system
+to gather survey information.
+Subsequently, all authors circulated the revised questionnaire to students in their classes to participate in our study.
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+
+Respondents were asked to complete the survey to fulfill
+course requirements or earn credit. They were also encouraged to seek out others from different universities across the
+USA to respond using a non-probability convenience sampling method. Our questions center on consumers’ knowledge and experience about iPhones and Samsung brands.
+Consumers have well-established perceptions concerning
+smart phones and are comfortable making assessments
+(Baalbaki and Guzman 2016).
+In the questionnaire, after responding to demographic
+questions, participants identified whether they had experience with iPhone and/or Samsung. They were asked to
+rate 10 factors that they considered important, including the
+design, cost and reputation on a 6-point Likert scale. This
+was followed by questions assessing perceived knowledge,
+awareness, association and satisfaction concerning Samsung
+and iPhone brands. Additionally, participants were asked to
+list three adjectives that have captured prominent characteristics of Samsung and iPhone brands. In the end, participants
+were given the opportunity to provide comparative comments about the brands and overall performance based on
+their knowledge and experience.
+We have overcome the weakness of snowballing (i.e., losing track of the respondents) by following three strict sampling criteria. The respondents must be young consumers
+(aged 18–35) based in the USA. They should perceive themselves knowledgeable and experienced about the two smartphone brands. This was detected through their response to
+brand ownership and purchasing experience. Moreover, we
+check the authenticity of responses in two ways. One is to
+ask our students in the classroom to share a list of people
+that they have contacted, who have confirmed responding
+to the questionnaire. Students were incentivized to send
+this list for extra credits, and we were able to use the list
+to match with the respondents’ names in the dataset. The
+other way to ensure authenticity is to look at the contact
+email since the respondents tend to use their official email
+address. Responses from private email or not listed by our
+own students were deleted.
+Using young consumers for our data collection is appropriate for this study. Statistically, 75% of young consumers
+own smartphones, twice that of older adults (Rainee 2014)
+and they invest more time and resources in their phones
+(Kim, Chun and Lee 2014). Comparatively, they are more
+interested in non-visual aspects of phones, especially connectivity to the Internet and communication with others
+(Zhou et al. 2014a, b). They also quickly adapt to and use
+more features (as well as sometimes abandon elements) relative to older adults (op cit). Therefore, familiarity with and
+ability to distinguish features of smartphones are critical to
+capturing the relationship to CBBP outcomes.
+As a result, we received 1750 responses and 1670 of
+them were valid for data analysis. Among the respondents,
+
+the gender distribution is almost balanced (47.2% males
+vs. 52.8% females). As for the age category, 91% are
+18–24 years old with the remaining 9% being young professionals (aged 25–35). In terms of ownership, 78.7% use
+or used an iPhone, 19% Samsung and 2.3% another brand.
+
+Constructs and measures
+This section details construct measures. We argue that consumers’ brand association and brand judgment are derived
+from brand attributes. These three exogenous constructs play
+an important role in determining CBBP, the endogenous
+construct. As we pointed out earlier, the CBBE research has
+an interesting reality to consider: Famous models tend to be
+conceptual (e.g., Keller 1993; Aaker 1991). Several empirical studies focus on the Aaker model, but are restricted by
+either product categories (e.g., del Vázquez et al. 2002) or
+market (Chau and Ho 2008; Jensen and Klastrup 2008).
+Additionally, others’ findings are unstable (Yoo and Donthu
+2001; Koçak et al. 2007; Erdem et al. 1999) and have limited
+linkages with brand performance (Yang et al. 2015). Given
+the critique, we have worked comprehensively to include key
+constructs and variables from prior research for our study.
+To simplify our model, we have used only first-order constructs and measured all the variables on a Likert scale of
+one to six, with higher numbers signaling more endorsement
+of the item. For example, brand attributes, such as design,
+network, security, interface and software, are important for
+consumers, but other attributes (e.g., pricing) were eliminated due to insignificance to the construct and unimportant
+for consumers’ CBBE. Figure 2 shows our confirmed model;
+Table 1 provides descriptive statistics and correlations, with
+no evidence of collinearity between explanatory variables;
+And Table 2 demonstrates the variables and construct relationships, including factor loadings, construct reliability and
+average variance extracted (AVE above 53%), indicating a
+good convergence of constructs.
+Endogenous construct: CBBP
+Consumers are demand-side stakeholders; therefore, their
+perceived success or failure of a brand directly influences
+their future actions of purchase. Their perceived view
+comes from their knowledge and experience, especially
+in terms of brand reputation, value and success or failure
+relative to their competitors. To measure this construct,
+we adopt the three measures from prior research (Yang
+et al. 2015): brand satisfaction, brand loyalty and brand
+success, which were rated on a scale of 1 (extremely
+unsatisfied, disloyal or unsuccessful) to 6 (extremely satisfied, loyal or successful). The confirmatory factor analysis (CFA) results in valid loadings (i.e., 0.842, 0.824 and
+
+D. Yang et al.
+Attachment (0.85)
+
+Reputation (0.72)
+
+Influence (0.83)
+
+0.72
+Brand
+associations
+
+Design (.65)
+Network (.70)
+Security (.71)
+
+0.71
+
++0.35***
+
++0.05***
+
+Loyalty (.84)
+
+Consumerbased Brand
+Performance
+
+-0.09***
+
+Brand
+Attributes
+
+94%
+
+Value (.82)
+0.79
+
+Interface (.66)
+
++0.27***
+
++0.98***
+
+Satisfaction (.89)
+
+Brand
+judgements
+
+Software (.64)
+
+0.80
+
+Superiority (.73)
+
+Brand Effort (.74)
+
+Global Standing (.73)
+
+Brand Quality (.84)
+
+Brand Services (.71)
+
+Fig. 2  Validated model of consumer-based brand performance
+
+0.888 for the general model), and these three variables
+have 79% explanatory power in the variation of CBBP.
+Exogenous constructs: brand attributes, association
+and judgment
+We have used three exogenous constructs. Brand attributes represent the foundation of brand judgment and association. After exploratory tests of all the functional variables, we have included five measures: hardware design
+and features, network technology, security, operating
+system and interface, and available software. Their factor loadings range from 0.64 to 0.71 with the reliability
+score for this construct at 71%.
+Brand association puts emphases on how consumers
+perceive the intangible features of the brands. We have
+used three measures to assess the intangibility: brand
+reputation, social influence (word of mouth, suggestions
+from friends and family) and emotional attachment (feeling good, trendy). The factor loadings range from 0.718
+to 0.854 with the reliability score at 72.3%.
+Brand judgment is concerned with consumers’ view on
+the relationship between the brand itself and its company.
+Measures include brand superiority, corporate efforts to
+sustain brands, and commitment to maintain international
+standing, brand quality and service quality. As a result,
+we have factor loadings ranging from 0.713 to 0.842 with
+the reliability score at 80.4%.
+
+Analytical techniques and model validity
+We adopt two analytical techniques to search for new findings: structural equation modeling (SEM) and comparative case analysis. The SEM is an appropriate technique
+because it allows simultaneous measures of all variables
+and comparative models (Samsung vs. iPhone) based on
+all-sample observations and comparative sample results.
+As a result, we are able to establish a validated model with
+both measurement and structural validity. Accordingly, we
+use the model to test the findings for the two smartphone
+brands and generate comparative findings. The comparative brand analysis details and deepens the SEM-based
+findings due to its emphasis on the similarities and differences of the two competing brands in the US market. The
+SEM complements the case comparison because of the
+established structure and measures serving as a framework
+for contextual analysis.
+We argue that the mono-method bias should not be a
+cause of concern for three reasons. First, prior studies indicate that perceptive measures correlate with objective measures (e.g., Makino et al. 2002; Datta et al. 2017). Second,
+consumers represent an important stakeholder among others (managers, wholesalers and retailers), who can provide
+a subjective measure of firm performance (e.g., Hult et al.
+2008). Finally, the young consumers that we have studied
+are active users of smartphones, with knowledge and experience to evaluate brand performance. Although this study is
+based on self-reporting from university students and young
+
+4.80
+4.60
+4.84
+4.79
+4.52
+4.50
+3.98
+3.81
+4.40
+4.83
+4.92
+4.62
+4.31
+3.91
+4.54
+4.40
+
+1.06
+1.20
+1.08
+1.13
+1.16
+1.23
+1.39
+1.49
+1.29
+1.10
+1.07
+1.09
+1.15
+1.70
+1.18
+1.18
+
+SD
+1
+0.373
+0.326
+0.289
+0.264
+0.198
+0.080
+0.113
+0.124
+0.134
+0.195
+0.169
+0.153
+0.110
+0.125
+0.105
+
+1
+1
+0.393
+0.315
+0.303
+0.247
+0.059
+0.089
+0.110
+0.119
+0.136
+0.144
+0.138
+0.092
+0.139
+0.106
+
+2
+
+1
+0.349
+0.320
+0.253
+0.076
+0.079
+0.090
+0.093
+0.109
+0.133
+0.127
+0.081
+0.087
+0.093
+
+3
+
+1
+0.393
+0.303
+0.126
+0.185
+0.059
+0.079
+0.109
+0.091
+0.064
+0.066
+0.070
+0.038*
+
+4
+
+1
+0.250
+0.215
+0.246
+0.049**
+0.085
+0.077
+0.092
+0.113
+0.070
+0.074
+0.098
+
+5
+
+1
+0.370
+0.425
+0.093
+0.098
+0.095
+0.087
+0.096
+0.069
+0.099
+0.099
+
+6
+
+(1) All correlations are significant at p < 0.001*** except those marked with **p < 0.01 and *p < 0.05
+
+1. Design
+2. Network Tech
+3. Security
+4. Interface
+5. Software
+6. Reputation
+7. Influence
+8. Attachment
+9. Superiority
+10. Brand Effort
+11. Global Standing
+12. Product Quality
+13. Service Quality
+14. Loyalty
+15. Value
+16. Satisfaction
+
+Mean
+
+Table 1  Descriptive statistics and correlations
+
+1
+0.592
+0.031*
+0.056
+0.029*
+0.033*
+0.068
+0.033*
+0.051
+0.053
+
+7
+
+1
+0.048**
+0.062
+0.045**
+0.042**
+0.082
+0.070
+0.074
+0.089
+
+8
+
+1
+0.406
+0.415
+0.549
+0.374
+0.511
+0.533
+0.543
+
+9
+
+1
+0.468
+0.518
+0.397
+0.375
+0.513
+0.448
+
+10
+
+1
+0.505
+0.378
+0.391
+0.491
+0.416
+
+11
+
+1
+0.549
+0.545
+0.656
+0.680
+
+12
+
+1
+0.420
+0.514
+0.489
+
+13
+
+1
+0.508
+0.644
+
+14
+
+1
+0.611
+
+15
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+
+D. Yang et al.
+Table 2  CBBP—the measurement model
+Construct and measures Exposition
+Brand attributes
+Design
+Network tech
+Security
+Interface
+Software
+Brand association
+Attachment
+Social influence
+Reputation
+Brand judgment
+Superiority
+Brand efforts
+Global standing
+Brand quality
+Brand services
+CBBP
+Loyalty
+Value
+Satisfaction
+
+Relevant sources consulted
+
+Aaker (1991), Keller (1993) and del
+Vázquez et al. (2002)
+Interview with consumers, pilot studies,
+Hardware design and features, e.g., onsurvey and factor analysis by the first
+screen keyboard, display, build-in camera,
+author based on the industrial charactermemory, HDMI port
+istics after data collection. There were
+GSM, CDMA, 4G LTE
+more items for brand attributes, but they
+Product security
+were deleted after exploratory analysis.
+Operating system, e.g., IOS, Android,
+For example, price was excluded because
+Windows
+respondents consider it unimportant.
+Included/available software, e.g., APP.
+Aaker (1991), Keller (1993) and Yoo and
+Donthu (2001)
+Emotions: feeling good, trendy and fashion- Martensen and Gronholdt (2004) and
+able
+Lehmann et al. (2008)
+Word of mouth, suggestions from family
+Yang et al. (2015)
+and friends
+Consumers’ views on brand reputation in
+Chernatony et al. (2004) and Lehmann
+general
+et al. (2008)
+Aaker (1991) and Keller (1993)
+Superiority of the brand
+Netemeyer et al. (2004)
+Great efforts in building and sustaining
+Sonmez et al. (2013)
+brands
+Brand status in the global market
+Erdem et al. (1999, 2006)
+Quality rating on products
+Erdem et al. (1999), Yoo and Donthu
+(2001) and Netemeyer et al. (2004)
+Quality rating of after-sale services
+Chau and Ho (2008), Sonmez et al. (2013)
+and Kim and Hyun (2010)
+Yang et al. (2015)
+Connection with the brand
+Boo et al. (2009), Atilgan et al. (2009) and
+Chernatony et al. (2004)
+The brand is valuable
+Boo et al. (2009)
+Extent of satisfaction with the brand
+Christodoulides et al. (2006) and Lehmann
+et al. (2008)
+
+Absolute measures
+GOF index for the measurement model
+X2: 880.958
+Degree of freedom: 99
+Probability: 0.000
+
+GFI: 0.967
+RMR: 0.064
+RMSEA: 0.049
+
+Factor loading Construct
+reliability
+0.713
+0.653
+0.702
+0.710
+0.658
+0.640
+
+0.723
+
+0.854
+0.828
+0.718
+
+0.728
+0.741
+
+0.804
+
+0.733
+0.842
+0.713
+
+0.842
+
+0.791
+
+0.824
+0.888
+
+Incremental fit
+
+Parsimony measures
+
+NFI: 0.951
+RFI: 0.941
+CFI: 0.957
+
+AGFI: 0.955
+PNFI: 0.785
+PCFI: 0.789
+
+AVE values are at least 53%, another indicator of convergence
+
+professionals, the sample represents an important demographic segment, as we have addressed earlier.
+Table 2 shows all the fit measurement indices and
+Table 3 goodness of fit for all the structural models. For
+the measurement model, the absolute, incremental and
+parsimony measures all exceed the expected standards. For
+example, RMR and RMSEA are close to 0.05 below the
+threshold of 0.8. GFI, NFI, CFI and AGFI exceed 95%. As
+for the structural validity, we demonstrate the face validity based on the existing CBBE theories and empirical
+
+studies before relevant hypotheses were formulated. The
+convergent validity is shown with factor loadings (ranging
+from 0.64 to 0.888), reliability (above 0.70) and average
+variance extracted (AVE; above 0.53). The study has also
+achieved discriminant validity because all AVEs of two
+constructs exceed the squared value of the correlations
+between them. Finally, the nomological validity is guaranteed because all constructs are positively correlated at
+significant levels (mostly p < 0.001, but at least p < 0.05).
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+Table 3  Goodness-of-fit comparison among structural models
+GOF index
+Absolute measures
+X2
+Degree of freedom
+Probability
+GFI
+RMR
+RMSEA
+Incremental fit
+NFI
+RFI
+CFI
+Parsimony measures
+AGFI
+PNFI
+PCFI
+
+All sample
+
+iPhone
+
+Samsung
+
+981
+96
+0.000
+0.963
+0.063
+0.053
+
+563
+96
+0.000
+0.957
+0.069
+0.054
+
+579
+96
+0.000
+0.956
+0.077
+0.055
+
+0.946
+0.932
+0.951
+
+0.933
+0.916
+0.944
+
+0.931
+0.914
+0.942
+
+0.948
+0.757
+0.761
+
+0.940
+0.746
+0.755
+
+0.938
+0.745
+0.754
+
+The goodness-of-fit (GOF) comparison further supports
+the validity of the structural model. Table 3 indicates the
+GOF indices of all-sample, iPhone and Samsung with consistent results. For the absolute measures, the Chi-square
+results consistently do not measure GOF well since the sample is large, but we still compare the two Chi-square results
+of distinct brands confirming no difference and further proving the model validity. However, RMR and RMSEA are all
+below 0.08 and GFI all exceed 95% proving excellent fits.
+Moreover, all the incremental fit measures are at least 0.91
+and the parsimony measures also demonstrate consistency
+with high adjusted GOF indices of at least 93.8%.
+
+Results
+This section provides responses to hypotheses and comparative results. Overall, the findings support our argument
+that CBBE significantly influences CBBP. This is because
+
+CBBE, based on brand attributes, association and judgment,
+have direct and simultaneous impact on CBBP explaining
+94% of the variations in CBBP for the all-sample model. The
+three CBBE constructs have different degrees of connections
+that will be explained in this section. We also compare and
+contrast the two brands with the all-data sample. Figure 2
+presents a validated model that demonstrates details, similarities and differences from Fig. 1.
+
+Responses to hypotheses
+The results support all the exogenous effects on the endogenous construct, CBBP, despite the twist for the effect of
+brand attributes. Our findings refute H
+­ 1a: Brand attributes
+are significantly positive to affect CBBP; instead, the result
+is reversed since brand attributes are significantly negative to affect CBBP. As some consumers indicated in their
+responses, frequent changes of attributes can undermine
+the consistency and stability of the brand. Changes can also
+cause confusion when new attributes are not transmitted to
+consumers, causing wider differential effects in brand knowledge between brand owners and consumers. Meanwhile, our
+findings support H
+­ 1b: Brand association is significantly positive to affect CBBP, and H
+­ 1c: Brand judgment is significantly
+positive to affect CBBP.
+The results also support ­H2a: Brand attributes are significantly positive to affect brand association, and H
+­ 2b: Brand
+attributes are significantly positive to affect brand judgment.
+Brand attributes explain over 35% of the variations in brand
+association and 27% in brand judgment. The findings suggest that consumer knowledge and experience about brand
+functionality are fundamental for perceptions. However, the
+insignificant results give us reason to refute ­H2c: Brand association is significantly positive to affect brand judgment. Our
+findings generate inconsistent results for the all data sample
+(insignificant) and opposite significance for the brand groups
+(iPhone positively significant and Samsung negatively significant). These contradictory results suggest that the effect
+of brand association on brand judgment is unstable.
+
+Table 4  Responding hypotheses and comparisons
+Hypotheses
+
+H1a: Brand attributes are significantly positive to affect CBBP
+H1b: Brand associations are significantly positive to affect CBBP
+H1c: Brand judgments are significantly positive to affect CBBP
+H2a: Brand attributes are significantly positive to affect brand associations
+H2b: Brand attributes are significantly positive to affect brand judgments
+H2c: Brand associations are significantly positive to affect brand judgments
+
+All data (n = 1670)
+
+− 0.09***
+0.05***
+0.98***
+0.35***
+0.27***
+0.01
+
+X-Sig.
+√
+√
+√
+√
+X
+
+Sub-sample
+iPhone
+
+Samsung
+
+Comparison
+
+− 0.13***
+0.17***
+0.96***
+0.36***
+0.31***
+0.19***
+
+− 0.05
+− 0.01
+1.02***
+0.46***
+0.27***
+− 0.14***
+
+/
+***
+/
+/
+/
+***
+
+***< p < 0.001; √ hypothesis supported; X hypothesis refuted; X-Sig: hypothesis reversed and significant. / indicates no significant difference
+between the two brands
+
+D. Yang et al.
+Table 5  Respondents’ top
+adjective descriptions for
+iPhone and Samsung
+
+iPhone (n = 1604)
+
+Samsung (n = 1191)
+
+Description
+
+No. of
+responses
+
+%
+
+Description
+
+No. of
+responses
+
+Expensive
+Sleek
+Easy-to-use
+Trendy
+Simple
+Popular
+Fast
+Reliable
+Innovative
+others (e.g., common,
+clean, modern)
+
+548
+316
+275
+164
+147
+135
+130
+60
+60
+172
+
+34.16
+19.70
+11.22
+10.22
+9.16
+8.42
+8.10
+3.74
+3.74
+10.72
+
+Cheap
+165
+Expensive
+109
+Innovative
+82
+Bulky
+82
+Complex/complicated
+77
+Sleek
+74
+Customizable
+72
+Functional
+67
+Unique
+60
+Others (e.g., slow, durable, 53
+advanced)
+
+%
+13.86
+9.15
+6.88
+6.88
+6.47
+6.21
+6.05
+5.63
+5.04
+4.45
+
+Respondents described each brand with at least three adjectives
+
+Comparative findings: iPhone versus Samsung
+We have also conducted sub-sampling analysis between the
+two brands to reveal similarities and differences between
+them and to the all-data results (See Tables 4 and 5). Comparably, the sub-sample results demonstrate an overall
+consistency with the all-data findings. First, both brands
+demonstrate a high explanatory power for the variations in
+the CBBP model (95% vs. 98% in comparison with 94%
+all-data). Their variations were tested significantly different
+suggesting the independence of the brands. Second, both
+brands demonstrate that CBBP highly depends on consumer
+satisfaction, loyalty and perceived value (iPhone 83% vs.
+Samsung 79% in comparison with all-data 80%). These consistent results (no significant difference) suggest that, regardless of brands, consumer satisfaction, loyalty and perceived
+value explain CBBP, as a latent variable.
+Third, both brands show significantly positive effects of
+brand attributes on brand association and brand judgment.
+The results are consistent with the all-data findings, and the
+sub-samples show no significant difference. This means,
+regardless of brands, brand attributes have a positive impact
+on brand association and brand judgment.
+Finally, another consistency with the all-data result is
+that brand judgment strongly affects CBBP, being positively significant at the p < 0.001 level like the all-sample
+result. These three datasets generate no difference in their
+findings. The results provide details as to the impact of
+brand perceptions on CBBP by judging, for example,
+views on brand quality, superiority and global standing.
+In addition to the similarities, the variations between
+the sub-samples and to the all dataset should be highlighted. While these results seem to fit with the stereotypes of the two brands, we also claim some inconclusive
+findings. First, in terms of CBBP power, all three groups
+
+demonstrate significant differences. Samsung shows
+stronger measuring power of CBBP than iPhone. These
+variations suggest that despite the overall consistency in
+our findings, consumers’ knowledge and experience with
+these brands are heterogeneous, thereby influencing their
+views on brand performance.
+Second, in the brand association and judgment relationship, despite the fact that all-sample data demonstrate no
+effect on brand judgment, the two brand groups differ in
+opposite ways, showing a positive significance for iPhone,
+but a negative one for Samsung. The results suggest that
+the connections between association and judgment are more
+strongly related for iPhone than for Samsung.
+Third, brand attributes–CBBP relationship is significantly
+negative for iPhone, but insignificantly negative for Samsung. The results further underscore the distinctions between
+the two brands. Despite the need for sleek designs, security,
+and software associated with brand attributes, too many features adversely impact CBBP due to the confusion caused.
+After all, gaps of brand equity between consumers and brand
+providers tend to exist.
+Next, despite the complete dataset confirming the positive significance between brand association and CBBP,
+iPhone and Samsung data result differently. That is, iPhone
+findings are consistent with the whole dataset (p < 0.001),
+while Samsung responses are insignificantly negative, and
+the two-brand comparison is significantly different. This
+means that iPhone has higher brand association for CBBP
+than Samsung. One speculation is that Samsung shares the
+Android operating system provided by Google with many
+other companies. As a result, its brand attributes and association may not be as clearly defined as iPhone. Moreover,
+Apple’s ‘few products’ strategy instilled by Steve Jobs has
+attracted diehard fans.
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+
+In addition, the distinction between the two brands is also
+shown in Table 5, a summary of top adjective descriptions
+from the respondents. First, consumer perceptions are highly
+concentrated for iPhone, but fragmented for Samsung. For
+iPhone, the top nine perceptions account for nearly 90%
+of the descriptions, including over 65% for the top three
+adjectives. In stark contrast, the top three descriptions only
+account for approximately 37% of the responses for Samsung. The findings suggest that consumers’ views on iPhone
+are broadly consistent, but Samsung is perceived diversely,
+and the two brands are treated distinctively.
+Second, being ‘expensive’ is consistent for iPhone, but
+contradictory for Samsung. Consumers have long held a
+brand perception of iPhone being pricey; therefore, it is
+unsurprising that this was rated as the number 1 feature.
+Contradictory views are detected for Samsung since the top
+two descriptions are at two extremes (cheap vs. expensive).
+This suggests that consumers have divergent perspectives
+concerning the Samsung brand. Regardless, this feature is
+considered unimportant and excluded due to insignificance.
+Finally, Samsung brand demonstrates a higher ranking in
+its innovative endeavor because consumers rank it number
+3 in contrast with number 9 for iPhone. This brand image
+seems to fit with its endeavor to advance technologies. For
+example, Samsung’s patenting activities have surged to 8500
+(US Patents and Trademark Office), as the number 1 patent
+company in the USA in 2016. Meanwhile, consumers have
+perceived Apple’s innovative efforts as slow and non-substantive. For example, some respondents commented: ‘If you
+look at what is new in iPhone 8 from iPhone 7, you’d find
+no “wow” factor there since all the changes are “cosmetic”.’
+
+Discussion
+Finding summary
+This paper aims to demonstrate consumer-based brand
+equity (CBBE) positively enhances consumer-based brand
+performance (CBBP). Based on the comparative analysis
+and structural equation modeling of 1670 original questionnaire responses collected from US consumers, we
+validated an integrative model of CBBP (Fig. 2) to reflect
+on the explanatory power of CBBE. As a result, CBBP
+has explained 94% (95% Apple and 98% Samsung) of the
+variations in CBBP. That is, CBBE, represented by the key
+constructs of brand attributes, brand associations and brand
+judgments, significantly affects CBBP, which is represented
+by consumer value, loyalty and satisfaction.
+We have achieved the first objective by providing evidence that CBBE’s key components, brand attributes, brand
+associations and brand judgment, have distinct explanatory
+power and direct and indirect effects on CBBP. This is
+
+addressed in detail with three hypotheses. Our findings confirm that brand attributes show significantly negative effects
+on brand CBBP. This reverses the original ­H1a since all the
+models demonstrate negative direction or significance. This
+result affirms a prior study (Sonmez et al. 2013) that frequent
+changes of technology-based brand attributes can cause confusion and widen gaps of brand knowledge, thereby causing
+negative effects on strategy effectiveness. Meanwhile, our
+findings affirm that consumers’ brand associations and judgments are significantly positive to affect CBBP (supporting
+­H1b and ­H1c). For brand association, despite the overall consistency, Samsung brand does not demonstrate a significant
+support. However, these variations do not detract us from
+concluding the significance of the relationship since both
+the whole dataset and iPhone models support significant
+linkages. The positive relationship between judgment and
+CBBP is consistent in all the models with no significant
+differences. This finding strengthens Keller’s conceptual
+argument (1993) that consumers’ judgment matters to brand
+performance.
+We have also achieved our second objective, showing that
+CBBE key components: brand attributes, brand associations
+and brand judgment are significantly related. We demonstrate that brand attributes significantly impact consumers’
+views of a particular brand in the form of brand association
+­(H2a) and brand judgment ­(H2b). This allows us to assert
+prior argument (Erdem et al. 1999) that brand attributes
+are a significant factor influencing CBBE. The result also
+aligns with Myers (2003), who notes that it is insufficient to
+consider brand attributes only as other components should
+also be considered simultaneously. Meanwhile, we cannot
+confirm that brand association affects brand judgment due
+to model uncertainties ­(H2c). Specifically, the model tests
+were insignificant for the whole dataset and inconsistent for
+the group data (i.e., positive for iPhone users and negative
+for Samsung users).
+
+Implications for practice
+This paper confirms that the fundamental success of brands
+depends on its stakeholders, in this case consumers; therefore, forging strong CBBE relationships matters. First, companies should consider the varied effects on CBBP. This is
+because consumers’ knowledge and experience help them
+form views about brands and these views have direct impact
+on their perceptions of brand performance. Although the
+holistic effect from brand attributes, association and judgment strongly affect CBBP (94%), cautions need to be taken
+since the three key components serve distinctive and sometimes opposite roles (negative significance of brand attributes vs. positive effects of association and judgment). These
+perceptions translate into CBBP in terms of value, satisfaction and loyalty.
+
+D. Yang et al.
+
+Second, companies should evaluate competing brands and
+prospective consumers. Consumers, in the process of making
+purchasing decisions, build knowledge and experience about
+brands and contextualize brand performance. Our findings
+demonstrate that iPhone and Samsung, despite their consistent relationship with CBBP, have distinctive CBBE. That is,
+consumers may not buy every brand, but they assess many
+competing brands to form perceptions of brand equity and
+subsequently decide whether they should have an allegiance
+with a particular brand. Some consumers (2.3% surveyed)
+even owned both brands, thereby gaining knowledge and
+experience, and forging opinions on comparative strengths
+and weaknesses of relevant brands. Brand companies can
+therefore use competing brands and prospective consumers’
+views to position their products and services. Such comparative evaluations will provide vital information for the
+brand’s future in the industry in terms of competitiveness
+and market prospect.
+Finally, the key components in CBBE have different
+degrees of connections. Impact from brand attributes, association and judgment suggests variations that brand companies
+should utilize for brand strategies. For example, companies
+should either reduce too frequent changes of brand attributes
+or ensure that consumers receive timely communications
+about new updates. Such actions can also enhance positive
+effects on brand association and judgment and advance strategic considerations to ensure brand success.
+
+Limitations for future research
+Our findings warrant further studies. First, we have identified a valid model to examine consumer-based brand performance, but the generalization of the model requires further
+tests due to the limitations of the settings. Our model relies
+on two global brands in the US setting, which may restrict
+us from confirming certain relationships in the model.
+Although the high consistency of the results validates the
+model, some uncertainties with different-sample results
+(e.g., brand attributes to CBBP; brand association to brand
+judgment) require further verification in the future.
+Second, although we view the results from these global
+brands in the USA to be largely representative given the
+significance of the brands and the market, testing in other
+empirical settings would help understand global brands in
+international contexts. For example, consumers may form
+different perceptions for the same global brand in other
+countries or other global brands in the USA. This future
+action will also help enhance the understanding of CBBP in
+the global context.
+Finally, our findings were based on a large dataset and
+strict data collection criteria, but the justification of the data
+representation may not eliminate the inherent weaknesses
+derived from convenience sampling. The measurement and
+
+structural model fits, and consistency of the comparative
+results support the generalizability of the model, but systematic sampling, longitudinal studies, and further tests of the
+measures using new data will enhance precision and overcome the limitations of this study.
+
+References
+Aaker, D.A. 1991. Managing brand equity. New York: Free Press.
+Aaker, D.A. 1992. The value of brand equity. Journal of Business Strategy 13(4): 27–32.
+Aaker, D.A. 1996. Measuring brand equity across products and markets. California Management Review 38(3): 102–120.
+Ailawadi, K.L., D.R. Lehman, and S. Neslin. 2003. Revenue premium
+as an outcome measure of brand equity. Journal of Marketing
+67(4): 1–17.
+Anisimova, T.A. 2007. The effects of corporate brand attributes on attitudinal and behavioural consumer loyalty. Journal of Consumer
+Marketing 24(7): 395–405.
+Atilgan, E., S. Akinci, S. Aksoy, and E. Kaynak. 2009. Customer-based
+brand equity for global brands: A Multinational approach. Journal of Euromarketing. 18: 115–132. https:​ //doi.org/10.1080/10496​
+48090​30222​53.
+Baalbaki, S., and F. Guzman. 2016. A consumer-perceived consumerbased brand equity scale. Journal of Brand Management 23(3):
+229–251.
+Baldauf, A., K.S. Cravens, and G. Binder. 2003. Performance consequences of brand equity management: Evidence from organizations in the value chain. Journal of Product and Brand Management 12(4): 220–236.
+Bearden, W.O., and J.E. Teel. 1983. Selected determinants of consumer
+satisfaction and complaint reports. Journal of Marketing Research
+20(1): 21–28.
+Blackston, Max. 1992. A brand with an attitude: A suitable case for
+treatment. Journal of the Market Research Society 34(3): 231–241.
+Boo, S., J. Busser, and S. Baloglu. 2009. A model of customer-based
+brand equity and its application to multiple destinations. Tourism
+Management 30(2): 219–231.
+Buil, I., E. Martínez, and L. de Chernatony. 2013. The influence of
+brand equity on consumer responses. Journal of Consumer Marketing 30(1): 62–74.
+Cadotte, E.R., R.B. Woodruff, and R.L. Jenkins. 1987. Expectations
+and norms in models of consumer satisfaction. Journal of Marketing Research 24(3): 305–314.
+Chattopadhyay, A., and J.W. Alba. 1988. The situational importance
+of recall and inference in consumer decision making. Journal of
+Consumer Research 15: 1–12.
+Chau, P., and C. Ho. 2008. Developing consumer-based service brand
+equity via the Internet: The role of personalization and triability. Journal of Organizational and Electronic Commerce 18(3):
+197–223.
+Chaudhuri, A., and M.B. Holbrook. 2001. The chain of effects from
+brand trust and brand affect to brand performance: The Role of
+brand loyalty. Journal of Marketing 65(2): 81–93.
+Chernatony, L., F.J. Harris, and G. Christodoulides. 2004. Developing
+a brand performance measure for financial services brands. The
+Services Industries Journal 24(2): 15–33.
+Christodoulides, G., and L. de Chernatony. 2010. Consumer-based
+brand equity conceptualization and measurement. A literature
+review. International Journal of Market Research 52(1): 43–66.
+Christodoulides, G., L. de Chernatony, O. Furrer, and T. Abimbola.
+2006. Conceptualising and measuring the equity of online brands.
+Journal of Marketing Management 22(7/8): 799–825.
+
+Consumer-based brand equity and consumer-based brand performance: evidence from smartphone…
+Çifi, S., Y. Ekinci, G. Whyatt, A. Japutra, S. Molinillo, and H. Siala.
+2016. A cross validation of consumer-based brand equity models:
+Driving consumer equity in retail brands. Journal of Business
+Research 69(9): 3740–3747.
+Cobb-Walgren, C., C.A. Ruble, and N. Donthu. 1995. Brand equity,
+brand preference and purchase intent. Journal of Advertising
+24(3): 25–40.
+Crimmins, J.C. 2000. Better measurement and management of brand
+value. Journal of Advertising Research 40(6): 136–144.
+Datta, H., K.L. Ailawadi, and H.J. Van Heerde. 2017. How well does
+consumer-based brand equity align with sales-based brand equity
+and marketing-mix response? Journal of Marketing 81(3): 1–20.
+del Vázquez, R., A.B. Rio, and V. Iglesias. 2002. Consumer-based
+brand equity: Development and validation of a measurement
+instrument. Journal of Marketing Management 18(1–2): 27–48.
+Erdem, T., et al. 1999. Brand equity, consumer learning and
+choice. Marketing Letters 10(3): 301–318. https ​ : //doi.
+org/10.1023/A:10081​35224​357.
+Erdem, T., J. Swait, and A. Valenzuela. 2006. Brands as signals: A
+cross-cultural validation study. Journal of Marketing 70(1):
+34–49.
+Farjam, S., and H. Xu. 2015. Reviewing the concept of brand equity
+and evaluating consumer-based brand equity (CBBE) models.
+International Journal of Management Science and Business
+Administration 1(8): 14–29.
+Farquhar, P.H. 1989. Managing brand equity. Marketing Research 1(9):
+24–33.
+Filieri, R., Z. Lin, S. D’Antone, and E. Chatzopoulou. 2018. A cultural
+approach to brand equity: The role of brand mianzi and brand
+popularity in China. Journal of Brand Management.. https​://doi.
+org/10.1057/s4126​2-018-0137-x.
+Handford, M., M. Lisboa, A. Koester, and A. Pitt. 2011. Business
+advantage. Cambridge: Cambridge University Press.
+Hult, G.T.M., et al. 2008. An assessment of the measurement of performance in international business research. Journal of International
+Business Studies 39: 1064–1080.
+Jensen, M.B., and K. Klastrup. 2008. Towards a B2B customer-based
+brand equity model. Journal of Targeting, Measurement and
+Analysis for Marketing 16(2): 122–128.
+Kapferer, J.-N. 2000. How the internet impacts on brand management.
+Journal of Brand Management 7(6): 389–391.
+Keller, K.L. 1993. Conceptualizing, measuring, and managing consumer-based brand equity. Journal of Marketing 57: 1–22.
+Keller, K.L. 2001. Building consumer-based brand equity: A blueprint for creating strong brands. Marketing Management 10(July/
+August): 15–19.
+Keller, K.L. 2003. Brand synthesis: The multi-dimensionality of brand
+knowledge. Journal of Consumer Research 29(4): 595–600.
+Keller, K.L. 2006. Branding and brand equity. In Handbook of marketing, eds. B.A. Weitz, and R. Wensley. London: Sage.
+Keller, K.L. 2016. Reflections on consumer-based brand equity: Perspectives, progress, and priorities. Academy of Marketing Science
+Review 6: 1–16.
+Keller, K.L., and D.R. Lehmann. 2006. Brands and branding: Research
+findings and future priorities. Marketing Science 25(6): 740–759.
+Kim, D., H. Chun, and H. Lee. 2014. Determining the factors that
+influence college students’ adoption of Smartphones. Journal of
+the Association for Information, Science and Technology 65(3):
+578–588.
+Kim, J., and Y.J. Hyun. 2010. A model to investigate the influence of
+marketing-mix efforts and corporate image on brand equity in
+the IT software sector. Industrial Marketing Management 40(3):
+424–438.
+Koçak, A., T. Abimbola, and A. Özer. 2007. Consumer brand equity
+in a cross-cultural replication: An evaluation of a scale. Journal
+of Marketing Management 23(1–2): 157–173.
+
+Lehmann, D.R., K.L. Keller, and J.U. Farley. 2008. The structure of
+survey-based brand metrics. Journal of International Marketing 16(4): 29–56.
+Leuthesser, L. 1988. Defining, measuring and managing brand
+equity: A conference summary. Report #88-104, Cambridge,
+MA: Marketing Science Institute.
+Lynch Jr., J.G., H. Marmorstein, and M.F. Weigold. 1988. Choices
+from sets including remembered brands: Use of recalled
+attributes and prior overall evaluations. Journal of Consumer
+Research 15(September): 169–184.
+Makino, S., C.M. Lau, and P.S. Yeh. 2002. Asset-exploitation versus asset-seeking: Implications for location choice of FDI from
+newly industrialised economies. Journal of International Business Studies 33: 403–421.
+Martensen, A., and L. Gronholdt. 2004. Building brand equity: A
+customer-based modeling approach. Journal of Management
+Systems 16(3): 37–51.
+Myers, C.A. 2003. Managing brand equity: A look at the impact of
+attributes. Journal of Product and Brand Management 12(1):
+39–51. https​://doi.org/10.1108/10610​42031​04631​26.
+Nam, J., Y. Ekinci, and G. Whyatt. 2011. Brand equity, brand loyalty
+and consumer satisfaction. Annals of Tourism Research 38(3):
+1009–1030.
+Netemeyer, R.G., et al. 2004. Developing and validating measures
+of facets of customer-based brand equity. Journal of Business
+Research 57(2): 209–224.
+Ovidiu, I.M. 2005. The concept of brand equity—A comparative
+approach. MPRA Paper No. 32013.
+Ponnam, A., and P. Krishnatray. 2008. Rethinking branding: The
+Need for a new conceptual framework to analyze consumerbased brand equity”. The ICFAI Journal of Brand Management
+5(2): 31–38.
+Rainee, L. 2014. Two thirds of young adults and those with higher
+income are smartphone owners. Washington, DC: Pew Internet
+and American Life Project, Pew Research Center. http://pewin​
+terne​ t .org/Repor ​ t s/2012/Smart ​ p hone ​ u pdat ​ e Sept ​ 2 012.aspx.
+Accessed 17 Sept 2018.
+Rambocas, M., V.M. Kirpalani, and E. Simms. 2018. Brand equity and
+customer behavioral intentions: A mediated moderated model.
+International Journal of Bank Marketing 36(1): 19–40.
+Rust, R.T., V.A. Zeithami, and K.N. Lemon. 2004. Consumer-centered
+brand management. Harvard Business Review 82(9): 110–118.
+Salzer-Morling, M., and L. Strannegard. 2004. Silence of the brands.
+European Journal of Marketing 38(½): 224–238.
+Simon, C., and M. Sullivan. 1993. The measurement and determinants
+of brand equity: A Financial Approach. Marketing Science 12(1):
+28–52.
+Sonmez, M., D. Yang, and J. Fryxell. 2013. Interactive role of consumer discrimination and branding against counterfeiting: A study
+of multinational managers’ perception of global brands in China.
+Journal of Business Ethics 115: 195–211.
+Srivastava, R.K., and A.D. Shocker. 1991. Brand equity: A perspective
+on its meaning and measurement. Cambridge, MA: Marketing
+Science Institute.
+Szőcs, A. 2014. Consumer-based brand equity: A literature review.
+Journal of Economics and Business Research 20(1): 93–120.
+Villas-Boas, J.M. 2004. Consumer learning, brand loyalty and competition. Marketing Science 23(1): 134–145.
+Wilkie, W. 1986. Consumer behavior. New York: Wiley.
+Yang, D., D. Davis, and K.R. Robertson. 2012. Integrated branding
+with mergers and acquisitions. Journal of Brand Management
+19(5): 438–456.
+Yang, D., M. Sonmez, Q. Li, and Y. Duan. 2015. The power of triple
+contexts on consumer-based brand performance—A comparative
+study of Baidu and Google from Chinese netizens’ perspective.
+International Business Review 24(1): 11–22.
+
+D. Yang et al.
+Yoo, B., and N. Donthu. 2001. Developing and validating a multidimensional consumer-based brand equity scale. Journal of Business Research 52(1): 1–14.
+Zhou, J., et al. 2014a. First-time user experience with smart phone
+new gesture control features. In Cross-cultural design. CCD 2014
+(Heraklion, Crete, Greece), ed. P.L.P. Rau. Lecture Notes in Computer Science 8528. Cham: Springer.
+Zhou, J., P. Rau, and G. Salvendy. 2014b. Age-related difference in
+the use of mobile phones. Universal Access in the Information
+Society 13(4): 401–413.
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+Deli Yang is Burr-Clark Professor of International Business. She earned
+a Ph.D. degree of Management Science—International IP Management—at the Manchester Business School, the University of Manchester, UK. Her research centers on cross-cultural conflicts and uncertainties in patents and brands on internationalization. She has sole-authored
+three scholarly books, including Understanding and Profiting from IP:
+Strategies across Borders (2nd ed.), two co-edited books, over 80 peerreviewed journal papers. She is a former consultant for UN World IP
+Organization.
+Mahmut Sonmez is a scholar and educator in management science and
+statistics. He received a Ph.D. in Management Science—Decision Science at the Manchester Business School, the University of Manchester,
+
+UK. His research focuses on strategic decisions against IP uncertainties, comparative studies of developed and developing countries, and
+their firms. He has published over 20 peer-reviewed journal papers. He
+teaches Business Statistics, and Management Sciences.
+Mario Gonzalez is currently Assistant Professor of Marketing. He
+received a Ph.D. in Applied Economics from Universidad de Alcala,
+Spain. His research focuses on the ways changes in the social context
+of marketplaces challenge customer identities. He has published in a
+variety of academic outlets. He teaches International Marketing, Marketing Research, and Marketing Strategy.
+Yi Liu is currently Assistant Professor of Management. She received
+a Ph.D. in Management from Georgia Institute of Technology, USA.
+Her research encompasses creativity, leadership, and change management. Her research has appeared in several peer-reviewed journals of
+organizational behaviors and management. She teaches Organizational
+Behavior, and Human Resource Management.
+Carol Y. Yoder is Professor of Psychology. She earned a Ph.D. in Experimental Psychology from Texas Tech University, USA. Her research
+focuses on applied cognition, esp. the role of affect on memory and
+cognition, and how cultural values impact thinking and decision
+making. She has co-authored a textbook on applied cognition, and
+three-dozen peer-reviewed journal papers. She currently serves as an
+associate editor for the Behavioral Development Bulletin. She teaches
+Fundamentals and Applications in Cognitive Psychology, Lifespan
+Development, and Food Matters.
+
+

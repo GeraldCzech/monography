@@ -1,0 +1,2498 @@
+Received: 16 September 2021      Revised: 17 April 2022      Accepted: 19 May 2022
+DOI: 10.1111/manc.12415
+
+ORIGINAL ARTICLE
+
+Faith? Hope? Charity? Religion explains giving
+when warm glow and impure altruism do not
+Clive D. Fraser
+Department of Economics, Finance and
+Accounting, School of Business, University
+of Leicester, Leicester, UK
+Correspondence
+Clive D. Fraser, Department of Economics,
+Finance and Accounting, School of
+Business, University of Leicester,
+Brookfield, London Road, Leicester LE2
+1RQ, UK.
+Email: cdf2@le.ac.uk
+
+Abstract
+I explain why many charities, especially religious ones,
+spend significantly to improve poor community members'
+living standards. Conventional theoretical philanthropy
+models with altruism or impure altruism/warm glow cannot
+explain poverty-alleviating private transfers in the type
+and size of communities where this occurs—for example,
+congregations. However, if preferences reflect religious
+precepts (you are your brothers' keeper; treat neighbours
+like yourself), charitable poverty alleviation can be optimal
+even in large communities. Income and price elasticities
+for giving prove important. Surprisingly, charitable private
+transfers are less likely when donors care for recipients'
+living standard instead of the aggregate amount all recipients get.
+KEYWORDS
+
+altruism, philanthropy, poverty alleviation, public good, religion,
+warm glow
+J E L C L A S S I F I CAT I O N
+
+D640, H410, L310, Z120
+
+1
+
+| INTRODUCTION
+
+“What we do not know dwarfs what we do know about the economics of charity” (List, 2011, 177).
+This motivates studying neglected aspects like charitable poverty alleviation, this paper's focus. Using
+central religious tenets, I explain why: (i) religion gets so much charity; (ii) proceeds go significantly
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and
+distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2022 The Authors. The Manchester School published by The University of Manchester and John Wiley & Sons Ltd.
+500
+
+Manch Sch. 2022;90:500–523.
+
+wileyonlinelibrary.com/journal/manc
+
+501
+
+to reduce poverty. I show (Sections 3 and 5.1) that the “Nash contribution” and joint-product/warmglow models imply poverty-reducing transfers need not raise total welfare in large populations if
+competing with other charitable uses, such as pure public goods. This result derives from the second
+of two large-number effects in voluntary provision of a public good and a private good. The first effect
+causes free-riding and public good undersupply. The second arises as a transfer directly benefits one
+recipient but its opportunity cost rises with the beneficiaries from a public good that it could have
+financed.1 Warm glow overcomes just the first effect. It does not explain giving to reduce poverty in
+large communities, but preferences embodying central religious tenets do.
+Christian tenets supporting benevolence include “Without charity, I am nothing and I gain nothing…” (1 Corinthians 13:1–13). So, in a pious USA, charitable giving is large: cash giving matches
+clothes spending, half spending on health from post-tax income (Bureau of Labour Statistics, 2013).
+Religion gets 35%–40% of all U.S. giving, thrice the second-ranked, education (Andreoni &
+Payne, 2013; List, 2011). In the UK, it is joint-top with health.
+My analysis embraces all major faiths. These all have “pro-social” precepts stressing care for
+the poor, which are analogous to preferences for redistribution.2 Judaism's tzedakah (righteousness
+via charity) is an obligation. Islam's third of five pillars is zakat—alms. “Dana” (charity) underpins
+dharma (righteousness) in Hinduism, Buddhism, Sikhism and Jainism. Hinduism says money not
+shared with the poor gives no happiness. The Bhagavadgita (3.19–26) commands “work with others'
+welfare in mind” and the Tamil Tirukkural says: “Giving to the poor is true charity, all other giving
+expects some return”.
+Much of religious giving reduces poverty. In 1989, congregations got half of total US charity
+receipts of near $100bn (Biddle, 1992), spending $20bn on members' “specific material needs”.3
+Allard (2008) shows religious charities focus more on such needs than secular charities and, since
+1997, have offset U.S. governments' reduced transfers to the poor.
+Economists rather neglect poverty-reduction-motivated charity. They argue that donors' altruism
+towards, for example, transfers, day-care or housing recipients makes these public goods. They then
+study the public good, but not the private benefit, aspects of charity. I argue that one must study both
+aspects for a full understanding of charity. Formally, this is the crucial difference between my work
+and the existing literature. My analysis here and in Fraser (2006) are the only ones I know that bundle
+public good and private good provision when there is an opportunity cost of providing one in terms
+of the other. I believe that models in the literature that are interpreted as involving private transfers to
+the poor do not involve such transfers. They involve, as Bergstrom et al. (1986) title states accurately,
+“private provision of public goods”. Unlike in my analysis, they do not have any individual increasing
+
+Fraser (1996) shows that this second effect could make it socially optimal to make a poor person worse off by forcing them
+to contribute to an excludable public good. Fraser (2006) seems the first model of competing uses of charitable donations for
+private transfers or a public good where this effect operates.
+2
+There are many possible origins and formulations of preferences for redistribution, with varying implications. Alesina
+and Giuliano (2011, p. 96) note that they are “interested specifically in the determinants of preferences for redistribution”.
+They survey the theoretical models and associated empirical evidence, focussing especially on religion and race. Based
+on the empirics, they argue (p. 113): “Being brought up in a religious environment has the effect of increasing tastes for
+redistribution independently of the religious denomination.” They study cases where utility depends indirectly or directly
+on a measure of inequality. I consider preferences for redistribution consistent with being religious specifically to see
+the implications for giving to the poor. By making utility increasing in transfers to the poor in Section 4 below, I make
+redistribution more likely in the equilibrium of my model.
+3
+“60% of all congregations offered a food pantry, 52% offered clothing closets, … 43% had programs for visiting the sick and
+41% sponsored a soup kitchen…” Cnaan and Yancey (2000). Comprehensive recent data on all aspects of giving can be found
+at The Philanthropy Roundtable (e.g., https://www.philanthropyroundtable.org/almanac/statistics/who-gives).
+1
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FRASER
+
+FRASER
+
+their consumption of a private good as a consequence of receiving transfers. So, what is donated goes
+entirely and directly to providing a public good, and that's all.
+Some studies justify neglecting charitable transfers on the grounds that state welfare crowds out
+poverty-reducing charity (e.g., Roberts (1984)). Few later crowding-out studies examine poverty
+reduction.4 Boberg-Fazlić and Sharp (2017) do, finding “strong empirical support for a positive relationship between welfare provision and charitable giving”—that is, they find crowding-in.
+The aspects of religions that seem most relevant for charity are precepts obliging help to the poor.
+I capture these by including total spending on transfers, separate from that on a pure public good, in
+all utility functions. This reflects a taste for redistribution as it yields utility from improving the poor's
+welfare, not just from the act of giving itself or giving directly benefiting oneself. It captures List's
+(2011, p. 165) idea that different motives to other types of charity spur religious giving. He advances
+social insurance: “people give to churches so that in time of need they can more readily receive Church
+services or help from fellow churchgoers.” I call such preferences, arguably required by scriptures,
+“pious”. Section 4 shows that a charity for such agents can find transfers to the poor welfare-enhancing
+in large populations as the transfers' social utility increases with the population.
+Superficially, it might seem more natural to reflect concern for poor brethrens' welfare by preferences based on per capita, not total, transfers, as per capita transfers are what determine a poor
+person's total income, consumption, and hence welfare. However, I do not assume so here for several
+reasons. First, total transfers can be viewed as an “insurance pool” in List's interpretation. Poor individuals' welfare can be affected both by the per capita transfer to them, and also the existence of that
+pool. Second, with a fixed population of beneficiaries, a one-one link exists between total and per
+capita transfers, so an increase in the former increases the latter. Third, I believe that a redistributive
+charity like the Salvation Army and its constituency focuses more on what it does collectively for all
+rather than for each individual.
+More concretely, I show in Section 5.2 (supported by the Online Appendices) that tastes based
+on per capita transfers [which I call “Brown preferences” after Brown (1997)] “do not work” as well
+as pious preferences to create an environment in which transfers to the poor can be optimal in large
+congregations when such transfers compete with a public good. First, other things equal, Brown
+preferences generate a feasible subgame-perfect Nash equilibrium in charitable giving in very small
+congregations. However, with typically-sized congregations, they are much less likely to generate
+such an equilibrium than when agents have pious preferences. Second, other things equal, for a given
+fraction of donations devoted to alleviating poverty by the charity, less is likely to be given with tastes
+based on per capita transfers than on total transfers. Lastly, considering the impact on giving of the
+proportion of the congregation of fixed size that is poor, I show that we get diametrically opposite
+results with Brown and pious preferences. With the former, the amount given to charity by each
+donor and the share devoted to transfers decreases as the proportion of the poor in the congregation
+increases. With pious preferences, the opposite is true.
+My model augments three empirical literature strands. One (Clark & Lelkes, 2006; Scheve &
+Stasavage, 2006) links faith to redistribution. Faith insures against mishaps by giving psychic benefits
+as, say, health, jobs, or pensions. A welfare state is smaller as these psychic benefits replace state
+ones. Another strand (Hungerman, 2005) says that Church welfare substitutes for the state's. Again,
+a welfare state is smaller in more pious societies. A third says religious giving insures for an afterlife
+(Chang, 2005; Hrung, 2004; Thornton and Helms, 2013).
+
+de Wit and Bekkers' (2017) extensive meta-analysis concludes that “private giving is generally not crowded out by public
+funding”. They focus on crowding out in public good supply and ignore transfers.
+
+4
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+502
+
+My analysis predicts that, if tastes reflect religion's precept of sharing with the poor, charitable
+transfers occur. This rationalises the first two empirical strands. But, it is not just the pious who give
+to the poor; the irreligious might also give if they have prosocial tastes that value transfers to the poor.
+My analysis does not preclude this. Nevertheless, like Alesina and Giuliano (2011), List (2011), and
+others, I recognize that religion is sufficiently important in the charity landscape to justify special
+attention. The Conclusion studies the afterlife.
+I show that giving part of charitable donations to the poor can increase giving even if donors get
+no altruistic externality from such transfers. An altruistic externality from transfers can raise giving
+and welfare, explaining transfers. Section 2 reviews models without religion; Section 3 shows the
+difficulty, with “standard” tastes, of reducing poverty via transfers alongside public good supply.
+Section 4 shows pious tastes overcome this theoretically and numerically. Section 5 examines other
+tastes, including joint-product/warm-glow ones. Section 6 concludes. An Appendix has some proofs;
+Online Appendices contain computations, more proofs and discussion.
+
+2
+
+| RELATED LITERATURE: GIVING WITHOUT RELIGION
+
+Key papers I build on are: Becker (1974), Warr (1982, 1983), Cornes and Sandler (1984, 1994),
+Roberts (1984), Bergstrom, Blume and Varian (BBV) (1986), Andreoni (1988, 1989, 1990),
+Fraser (1992, 2006), Vicary (1997), Ribar and Wilhelm (2002) and Faias et al. (2014). All, bar Becker,
+Warr (1982), Roberts, and Fraser (2006), study charitable public good supply without transfers.5
+BBV's Nash equilibrium model gets striking findings, including Warr's (1983) neutrality (redistribution among donors so that none loses more than their original donation leaves total giving
+unchanged), via Assumption 1:
+Assumption 1. Individuals (i's) have quasi-concave utility functions u i [x i,G], i = 1,…, n, defined over
+private good consumption, x i, and public good consumption, G, which are non-decreasing in their
+∑
+arguments. Incomes (m i) are exogenous.
+𝐴𝐴
+𝐴𝐴 = 𝑔𝑔 𝑖𝑖 sums individual contributions (g i ≥ 0) to providing
+𝑖𝑖
+
+the public good.
+Andreoni (1988) extends BBV for a limit result: in large economies hardly anyone gives.
+Economists agree that this “Nash model” predicts “too little” giving. Cornes and Sandler's (1984)
+and Andreoni's (1989, 1990) “joint product”/“warm-glow” models address this issue. In their models,
+donors benefit from the public good and giving per se. Still using u for a utility function, theirs is
+u i[x i, g i, G]. The g i, a private good for i, gives i an extra spur to donate, altering the neutrality and limit
+results (cf. Andreoni, 1989, 1990; Ribar & Wilhelm, 2002).6,7
+I modify Assumption 1, relabelled Assumption 3, to study charitable transfers and public good
+supply in Section 3. In Section 4, with pious preferences, everyone gets utility from: (i) total transfers
+A large literature develops Becker (1974) to study private transfers in households (for example, Cox (1987); Cox and
+Jakubson (1995) and Cox et al. (2004). However, like de Wit and Bekkers, I only examine charity where donors have no
+familial links to recipients.
+6
+Allouch (2013) elaborates competitive equilibrium with warm-glow. Evren and Minardi (2017) axiomatise warm-glow
+preferences.
+7
+Note that religion cannot be identified with warm glow as the warm-glow model does not embody a preference for
+redistribution that is integral to all major religions. Warm glow emphasizes the selfishness of giving: you give because you
+get pleasure from the act of giving itself, irrespective of whether or not that does good to others. As Atkinson (2009, p. 648)
+notes: “the pure warm-glow model assumes that the donor is completely unconcerned with the use made of the gift and with
+the effectiveness of charitable activity.”
+5
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+503
+
+FRASER
+
+FRASER
+
+to the poor; (ii) spending on a shared good. So, it has two crowding-out-prone public goods. Yet it can
+yield giving and the share used for transfers that are “realistic” in a large society. This relates to Ghosh,
+Karaivanov and Oak's (GKO, 2007) and Cornes and Itaya's (2010) multiple public goods models.
+However, they ignore transfers. GKO's two-person model also ignores my population effects while
+Cornes and Itaya focus on neutrality.8
+Becker (1974), Warr (1982), Roberts (1984) and Brown (1997) are among few who model charitable transfers. Becker, Warr and Roberts model situations with a sole poor recipient and so do not
+analyse population issues that are central in my analysis. Brown ignores recipients, apart from the fact
+that the average donation to them enters her donors' utility functions as an externality. Section 5.2
+shows that donors caring for average rather than total donations works against transfers. These authors
+ignore that charities only make transfers if this enhances total welfare, which depends on the number
+of consumers of any public good that could be funded instead.9
+As I focus on a charity's redistribution via direct transfers, my analysis differs from Uler (2009),
+who does not study this aspect of giving. She considers how redistribution effected by an income tax
+system impacts giving to charity solely for providing a public good, so the new large numbers issue
+I consider is not relevant. Uler's tax system entails a flat rate tax on income net of charitable donations (which implies preferential tax treatment of donations) with proceeds returned to all households
+equally. She establishes, among other things, conditions under which voluntary giving increases in
+the level of redistribution. Although churches as charities, as well as individual donors, receive preferential tax treatment in reality, that treatment does not usually discriminate between a Church's uses
+of funds and, thereby, directly influence the issues I focus on. Thus, for brevity, I do not considered it
+explicitly in my formal analysis.
+Maybe closest to my analysis, Kotchen (2006) models a scenario relevant to charity for a good
+with public and private features. For example, buying a grocery item might yield a fixed donation to
+a public good. His model's principal differences to mine are: first, its mix of characteristics is fixed
+exogenously in a one-stage game. In mine, taking the Church/charity as bundling a public good and
+private transfers, their combination arises endogenously from a strategic interaction between charity
+and consumers in a two-stage game. Second, while he studies how group size affects equilibrium
+provision of the public characteristic, his model is not set up to show how group size impacts whether
+or not charitable transfers occur.
+Despite a dearth of theory on charitable transfers or religious charities, an impressive empirical
+literature exists. Bekkers and Wiepking (2011) review key articles.
+
+3
+
+| POVERTY ALLEVIATION WITHOUT PIOUS PREFERENCES10
+
+Imagine a congregation run by “a welfarist charity” agent—for example, Church Elders. It knows
+churchgoers' incomes and identical tastes. In stage 1 of a 2-stage game with them, it collects funds
+Faias et al. (2014) extend BBV's results to multiple public and private goods.
+Three recent theoretical analyses with donations used only for private transfers are Atkinson (2009), for overseas aid, Echazu
+and Nocetti (2015), for a discrete good, and Bourlès et al. (2017) for altruism in a network. Both Atkinson and Echazu and
+Nocetti consider modelling strategies to bypass the free-riding problem with a large number of donors that arises from
+treating the donations as a public good, which is usually the bane of theoretical models. However, neither Atkinson nor
+Echazu and Nocetti address the separate large number issue arising specifically from the competing uses for donations that is
+my focus.
+10
+The basic model here mirrors that in early versions of Fraser (2006). That paper notes, via a numerical example, the
+difficulty of making private transfers optimal in large populations. It neither analyses tastes overcoming this (“pious”
+preferences here), nor others that also fail to make private transfers optimal.
+8
+9
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+504
+
+for two mutually-exclusive stage-2 uses: (i) public goods like upkeep of the Church and pastor; (ii)
+poverty-reducing private goods like food, clothing and shelter. It creates an altruistic externality and
+public good if, while not consuming the goods (e.g., soup kitchens), donors get utility as recipients benefit. It also gives private goods to soup kitchen patrons. I study cases without the externality here, and with
+it in Section 4. The charity fixes the shares of total donations for (i) and (ii), mindful how they decide
+giving. Even if donors do not care for reducing poverty, the charity does via its overall welfare concern.
+To focus sharply on poverty alleviation, my “two-class model” assumes:
+Assumption 2. There are two types, indexed h and l, respectively, with exogenous “high” and “low”
+incomes m i > 0, i = h, l; m h > m i. There are n i (n i ≥ 1) individuals of type i, i = h, l.
+Assumption 3. Respectively, x and G are amounts of infinitely divisible sole private and public goods
+of unity unit costs. Both types have a concave increasing utility function U(x; G) (with subscripts for
+partial derivative, Ui > 0,Uii ≤ 0, i = x, G; U(x, G) has a negative semi-definite Hessian). U denotes
+utility function throughout, whatever the argument vector.
+Assumption 4. (i) The utility function is supermodular:
+𝐴𝐴
+𝐴𝐴 2 𝑈𝑈 ∕𝜕𝜕𝜕𝜕𝜕𝜕𝜕𝜕 ≡ 𝑈𝑈𝑥𝑥𝑥𝑥 ≥ 0. (ii) Each good is
+essential and satisfies an Inada condition:
+𝐴𝐴
+lim 𝑈𝑈𝑥𝑥 (𝑥𝑥𝑥 𝑥𝑥) 𝐴𝐴
+= ∞, lim 𝑈𝑈𝐺𝐺 (𝑥𝑥𝑥 𝑥𝑥) = ∞.
+𝑥𝑥↓0
+
+𝐺𝐺↓0
+
+Essentiality means that consumers with resources consume both goods. Supermodularity ensures
+monotone comparative statics. It implies complementarity between the goods.
+A richer model of many income types could endogenize which type(s) qualify for transfers. For
+tractability, I skirt this. Tractability also defends Assumption 3. Better defences are: (i) taste differences exist, but economists rather explain behaviour differences by prices and incomes; (ii) congregationers might have similar tastes à la Tiebout. With taste differences, well-being is not measured just
+by income. But, practically, charities separate “rich” from “poor” by income. Consumers satisfying
+(Assumption 3) get no altruistic externality from transfers to the poor.
+
+3.1 | The charity
+At stage 2, the utilitarian charity,11 sole provider of the public good, uses donations for it and for transfers 𝐴𝐴
+to the 𝐴𝐴 types in shares fixed at stage 1 reflecting concern for inequality:
+Assumption 5. The charity uses a share λ ∈ [0, 1] of receipts for the public good and 1 − λ for
+transfers. It can identify the poor and gives each (1 − λ)/n l of a transfer of (1 − λ).
+Assumption 5 implies that, as λ decreases, it costs more for an h type to augment G, and less for
+an l type if h types also give.
+
+3.2 | Consumer behaviour and the stage-2 Nash equilibrium
+
+𝐴𝐴
+
+For the charity's chosen λ, an arbitrary l type conjectures that the n l − 1 others each donates g l and
+the n h h types give g h that it cannot affect. If it gives g l, it supposes it gets a transfer, c l, satisfying
+[
+]
+(
+)
+(
+)
+𝐴𝐴𝑙𝑙 𝑐𝑐 𝑙𝑙 = (1 − 𝜆𝜆) 𝑛𝑛ℎ 𝑔𝑔 ℎ + 𝑛𝑛𝑙𝑙 − 1 𝑔𝑔 𝑙𝑙 + 𝑔𝑔 𝑙𝑙 = (1 − 𝜆𝜆) 𝐺𝐺 + 𝑛𝑛𝑙𝑙 𝑐𝑐 𝑙𝑙 , that is,
+
+11
+
+Bilodeau and Slivinski (1997) study different charity motivations.
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+505
+
+FRASER
+
+FRASER
+
+(
+)[
+)
+] (
+( 𝑙𝑙
+) 𝑙𝑙
+1 − 𝜆𝜆
+1 − 𝜆𝜆
+𝑙𝑙
+ℎ ℎ
+𝐺𝐺
+𝑐𝑐 𝑙𝑙 =
+𝑔𝑔
++
+𝑛𝑛
+−
+1
+𝑔𝑔
++
+𝑔𝑔
+𝑛𝑛
+=
+(1)
+𝑛𝑛𝑙𝑙
+𝜆𝜆𝜆𝜆𝑙𝑙
+)
+( 𝑙𝑙
+)[
+(
+( 𝑙𝑙
+) 𝑙𝑙 ]
+1 − 𝜆𝜆
+𝑛𝑛 + 𝜆𝜆 − 1
+ℎ ℎ
+𝑙𝑙
+𝑙𝑙
+𝑙𝑙
+𝑙𝑙
+𝑙𝑙
+𝑛𝑛 𝑔𝑔 + 𝑛𝑛 − 1 𝑔𝑔 −
+𝑔𝑔 𝑙𝑙
+𝑥𝑥 = 𝑚𝑚 + 𝑐𝑐 − 𝑔𝑔 = 𝑚𝑚 +
+(2)
+𝑛𝑛𝑙𝑙
+𝑛𝑛𝑙𝑙
+[
+(
+) ]
+𝐴𝐴 Let 𝐴𝐴−𝑙𝑙 ≡ 𝜆𝜆 𝑛𝑛ℎ 𝑔𝑔 ℎ + 𝑛𝑛𝑙𝑙 − 1 𝑔𝑔 𝑙𝑙 be others' total donations to public good supply. By
+(
+)
+𝐺𝐺 − 𝐺𝐺−𝑙𝑙
+𝐺𝐺 = 𝐺𝐺−𝑙𝑙 + 𝜆𝜆𝜆𝜆 ⇒𝑔𝑔 =
+(3)
+𝜆𝜆
+𝑙𝑙
+
+𝑙𝑙
+
+and Equations (1) and (2), the arbitrary l-type's rewritten budget constraint is
+]
+[ 𝑙𝑙
+𝐺𝐺−𝑙𝑙
+𝑛𝑛 + 𝜆𝜆 − 1
+𝑙𝑙
+𝑙𝑙
+𝐺𝐺
+𝑚𝑚 +
+= 𝑥𝑥 +
+(4)
+𝜆𝜆
+𝜆𝜆𝜆𝜆𝑙𝑙
+(
+)
+The LHS Equation (4) is a type l 's “full income”. Their effective price for
+𝐴𝐴 G is 𝑛𝑛𝑙𝑙 + 𝜆𝜆 − 1 ∕𝜆𝜆𝜆𝜆𝑙𝑙.
+Defining G−h similarly and using x h = m h − g h, an h type's budget constraint is
+[ ]
+𝐺𝐺
+𝐺𝐺
+𝑚𝑚ℎ + −ℎ = 𝑥𝑥ℎ +
+(5)
+𝜆𝜆
+𝜆𝜆
+
+Substituting Equations (4) and (5) into the types' utility functions give their maximisation problems:
+[
+]
+𝐺𝐺−ℎ 𝐺𝐺
+ℎ
+Max. 𝑈𝑈 𝑚𝑚 +
+− , 𝐺𝐺
+(6)
+𝐺𝐺≥𝐺𝐺−ℎ
+𝜆𝜆
+𝜆𝜆
+)
+]
+[
+( 𝑙𝑙
+𝐺𝐺
+𝑛𝑛 + 𝜆𝜆 − 1
+𝐺𝐺𝐺
+𝐺𝐺
+Max. 𝑈𝑈 𝑚𝑚𝑙𝑙 + −𝑙𝑙 −
+(7)
+𝐺𝐺≥𝐺𝐺−𝑙𝑙
+𝜆𝜆
+𝜆𝜆𝜆𝜆𝑙𝑙
+
+I study a subgame perfect equilibrium. Stage 2 involves a Nash equilibrium. With g i, i = h, l, as
+choice variables, this is a non-negative donations vector, {g h, g l}, such that:
+(a)	for each type h, g h solves
+
+
+[
+]
+Max. 𝑈𝑈 𝑥𝑥ℎ , 𝐺𝐺−ℎ + 𝜆𝜆𝜆𝜆 ℎ
+
+𝑔𝑔 ℎ ≥0, 𝑥𝑥ℎ ≥0
+
+(8)
+𝑠𝑠𝑠𝑠𝑠𝑠 𝑠𝑠ℎ = 𝑥𝑥ℎ + 𝑔𝑔 ℎ
+(b)	for each type l, g l solves
+
+
+[
+]
+Max. 𝑈𝑈 𝑥𝑥𝑙𝑙 , 𝐺𝐺−𝑙𝑙 + 𝜆𝜆𝜆𝜆 𝑙𝑙
+
+𝑔𝑔 𝑙𝑙 ≥0, 𝑥𝑥𝑙𝑙 ≥0
+
+( 𝑙𝑙
+)
+)
+(
+𝑛𝑛 + 𝜆𝜆 − 1
+1 − 𝜆𝜆
+𝐺𝐺
++
+𝑔𝑔 𝑙𝑙
+𝑠𝑠𝑠𝑠𝑠𝑠 𝑠𝑠𝑙𝑙 = 𝑥𝑥𝑙𝑙 −
+(9)
+−𝑙𝑙
+𝜆𝜆𝜆𝜆𝑙𝑙
+𝑛𝑛𝑙𝑙
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+506
+
+507
+
+I only study equilibria wherein all in a type behave identically. Abusing terminology, I call these
+symmetric equilibria. For given λ, Fraser (2006, Theorem 1), after Andreoni and Bergstrom (1996),
+shows a stage-2 equilibrium exists uniquely. I use the following shorthand:
+(
+)
+]
+[
+(
+)
+( ℎ 𝑙𝑙 )
+1 − 𝜆𝜆 − 𝑛𝑛𝑙𝑙
+1 − 𝜆𝜆
+𝑙𝑙
+𝑙𝑙
+𝑙𝑙
+;
+𝐿𝐿
+𝑔𝑔
+,
+𝑔𝑔
+,
+𝜆𝜆
+≡
+𝑈𝑈
+𝑚𝑚
++
+𝐺𝐺
++
+𝑔𝑔
+,
+𝐺𝐺
++
+𝜆𝜆𝜆𝜆
+(10)
+−𝑙𝑙
+−𝑙𝑙
+𝜆𝜆𝜆𝜆𝑙𝑙
+𝑛𝑛𝑙𝑙
+)
+[
+]
+(
+𝐻𝐻 𝑔𝑔 ℎ , 𝑔𝑔 𝑙𝑙 , 𝜆𝜆 ≡ 𝑈𝑈 𝑚𝑚ℎ − 𝑔𝑔 ℎ , 𝐺𝐺−ℎ + 𝜆𝜆𝜆𝜆 ℎ
+(11)
+
+With the 𝐴𝐴
+same 𝐴𝐴 (.), if I omit utility arguments, superscripts in U i, i = h, l, separate types. With
+all taking others' donations as given and subscripts showing partial derivatives, first-order conditions
+(FOCs) for a Nash equilibrium are the Kuhn–Tucker conditions
+)
+(
+1 − 𝜆𝜆 − 𝑛𝑛𝑙𝑙
+𝑈𝑈𝑥𝑥𝑙𝑙 + 𝜆𝜆𝜆𝜆𝐺𝐺𝑙𝑙 ≤ 0, 𝑔𝑔 𝑙𝑙 ≥ 0
+𝐿𝐿𝑔𝑔 𝑙𝑙 =
+(12)
+𝑛𝑛𝑙𝑙
+𝐻𝐻𝑔𝑔ℎ = −𝑈𝑈𝑥𝑥ℎ + 𝜆𝜆𝜆𝜆𝐺𝐺ℎ ≤ 0, 𝑔𝑔 ℎ ≥ 0
+(13)
+
+𝐴𝐴
+
+By K–T, the inequalities in each of systems (12) and (13) are not both strict. By essentiality, g h > 0
+and/or g l >𝐴𝐴0, so 𝐴𝐴𝑔𝑔𝑙𝑙 and/or
+𝐴𝐴
+𝐴𝐴𝑔𝑔ℎ equals zero. By the implicit function theorem, if types' Jacobians are
+invertible at the optimum, non-zero donations solving Equations (12) and (13) are locally differentiable functions in the parameters. I suppress parameters like m i and n i and focus only on λ, writing
+optimal donations as Nash reaction functions, g i(λ), i = l, h.
+Problems (6) and (7) (equivalently, Problems (8) and (9)) are analogues to BBV's (1986). They
+are standard, bar constraints G ≥ G−i, i = h; l, stopping choice of G below what others jointly
+finance. With Assumption 3 and Assumption 4 (ii), demand theory implies Problems (6) and (7)
+[
+]
+yield public good demands
+𝐴𝐴
+𝐴𝐴 𝑚𝑚𝑖𝑖 + (𝐺𝐺−𝑖𝑖 ∕𝜆𝜆) , 𝑝𝑝𝑖𝑖𝐺𝐺 , 𝑖𝑖 = 𝑙𝑙𝑙 𝑙, for a function
+𝐴𝐴
+𝐴𝐴 (.) of the respective type's
+(
+( 𝑙𝑙
+))
+ℎ
+𝑙𝑙
+full income and public good 𝐴𝐴price respectively, 𝑝𝑝𝐺𝐺 = 1∕𝜆𝜆; 𝑝𝑝𝐺𝐺 = 𝑛𝑛 + 𝜆𝜆 − 1∕𝜆𝜆𝜆𝜆𝑙𝑙 . These satisfy
+[ 𝑖𝑖
+]
+𝐴𝐴 ≥ 𝑓𝑓 𝑚𝑚 + (𝐺𝐺−𝑖𝑖 ∕𝜆𝜆) , 𝑝𝑝𝑖𝑖𝐺𝐺 , 𝑖𝑖 = 𝑙𝑙𝑙 𝑙, as no-one's optimal G can exceed its supply. By essentiality,
+G > 0 and at least one of these last weak inequalities is an equality. If the two types with identical
+utility functions donate, they do not equalize private consumption and utilities, unlike in BBV. If
+λ < 1, an l has a lower price for G, yet demands the same as an h. So, with G normal, an l type has less
+equilibrium income and private consumption. They could donate despite getting transfers as they find
+giving relatively cheap, but their incentive to do so falls fast as n l increases.
+
+3.3 | The charity's maximisation
+At stage 1, the charity optimises subject to consumers' reaction functions, choosing λ ∈ [0, 1] to
+maximise utilitarian social welfare (summed utilities),
+[
+]
+[
+]
+𝑊𝑊 (𝜆𝜆) ≡ 𝑛𝑛ℎ 𝐻𝐻 𝑔𝑔 ℎ (𝜆𝜆), 𝑔𝑔 𝑙𝑙 (𝜆𝜆), 𝜆𝜆 + 𝑛𝑛𝑙𝑙 𝐿𝐿 𝑔𝑔 ℎ (𝜆𝜆), 𝑔𝑔 𝑙𝑙 (𝜆𝜆), 𝜆𝜆
+(14)
+The overall equilibrium concept is subgame perfection. As the charity knows congregants' incomes
+and utility function, so their stage-2 Nash equilibrium choices, g i, i = h, l, in expression (14), its stage-1
+choice λ decides the entire equilibrium. By the continuous differentiability of U, and the implicit
+function theorem, derived utilities H and L are continuously differentiable in λ, thus so is W. Then, by
+Weierstrass' extreme value theorem, W attains maxima and minima w.r.t. λ on the compact interval
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FRASER
+
+𝐴𝐴
+
+FRASER
+
+[0; 1]. But, as W's concavity cannot generally be established, I cannot say an optimum is unique. So,
+I proceed piecemeal.
+By essentiality, no charity with resources opts for λ = 0 (i.e., G = 0). However, income distributions
+exist with both types donating at λ = 1 and no transfers. Incomes are then equalized in Nash equilib𝜕𝑊 |
+rium and 𝜕𝜆 ||𝜆=1 ≥ 0 (Fraser, 2006). Fraser (2006) also shows that the poor never donate in utilitarian
+equilibria with transfers. So, for distributions with only rich donors when λ = 1, I explore when transfers occur, which must be welfare-improving. Then two cases exist: (a) there is a W-maximising λ < 1
+𝜕𝑊 |
+and 𝜕𝜆 ||𝜆=1 < 0: if W decreases in λ at λ = 1, reducing λ from λ = 1 increases W for some λ ∈ (0, 1);
+𝜕𝑊 |
+(b) W is non-decreasing in λ at λ = 1, so 𝜕𝜆 ||𝜆=1 ≥ 0, but the W-maximising λ < 1. If (b) holds, then
+(𝜕𝜕𝜕𝜕 ∕𝜕𝜕𝜕𝜕) < 0 for some λ𝐴𝐴< 1. (𝜕𝜕𝜕𝜕 ∕𝜕𝜕𝜕𝜕) > 0 for all λ ∈ [0, 1] when g h(λ) > 0 = g l(λ) rules out optimal
+transfers.
+′
+′
+𝐴𝐴 Let 𝐴𝐴 𝑖𝑖 (𝜆𝜆), 𝑖𝑖 = ℎ, 𝑙𝑙, be derivatives w.r.t. λ of donations at arbitrary λ𝐴𝐴and 𝐴𝐴 𝑙𝑙 (𝜆𝜆) = 0 = 𝑔𝑔 𝑙𝑙 (𝜆𝜆) at
+[
+]
+[
+(
+)
+]
+an optimum𝐴𝐴 of 𝐴𝐴 (𝜆𝜆) ≡ 𝑛𝑛ℎ 𝑈𝑈 𝑚𝑚ℎ − 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) +𝑛𝑛𝑙𝑙 𝑈𝑈 𝑚𝑚𝑙𝑙 + (1 − 𝜆𝜆)∕𝑛𝑛𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+Differentiating (with superscripts again showing types without functional arguments),
+]
+]
+[(
+)
+[
+′
+𝜕𝜕𝜕𝜕
+= 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ + 𝑛𝑛ℎ − 1 𝜆𝜆𝜆𝜆𝐺𝐺ℎ + 𝜆𝜆𝜆𝜆𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 + (1 − 𝜆𝜆)𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ
+𝜕𝜕𝜕𝜕
+(15)
+⏟⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏟⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏟ ⏟⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏟⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏞⏟
+an ”income effect”
+
+a ”price effect”
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+508
+
+[
+′
+using
+𝐴𝐴
+𝐴𝐴𝑥𝑥ℎ = 𝜆𝜆𝜆𝜆𝐺𝐺ℎ from Equation (13). Also, differentiating
+𝐴𝐴
+𝐴𝐴𝑔𝑔𝐴𝐴
+ℎ = 0,𝐴𝐴 ℎ = − 𝑈𝑈 ℎ − 2𝜆𝜆𝜆𝜆ℎ 𝑈𝑈 ℎ + 𝜆𝜆2 𝑛𝑛ℎ 𝑈𝑈
+𝑥𝑥𝑥𝑥
+𝐺𝐺𝐺𝐺
+] [
+]
+ℎ −1 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ 𝑈𝑈 ℎ + 𝑈𝑈 ℎ − 𝑛𝑛ℎ 𝑔𝑔 ℎ 𝑈𝑈 ℎ𝐴𝐴 . So, 𝐴𝐴 ℎ ≥𝐴𝐴0 and − 𝐺𝐺𝐺𝐺 ℎ ∕𝑈𝑈 ℎ ≥ 1, with one inequality
+𝜆𝜆𝜆𝜆ℎ 𝑈𝑈𝐺𝐺ℎ𝐺𝐺 + 𝜆𝜆2 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺𝐺𝐺
+𝐺𝐺𝐺𝐺
+𝐺𝐺𝐺𝐺
+𝐺𝐺
+𝐺𝐺𝐺𝐺
+𝐺𝐺
+𝐺𝐺𝐺𝐺
+′
+ℎ ∕𝑈𝑈 ℎ < 1𝐴𝐴give 𝐴𝐴 ℎ′ (𝜆𝜆) > 0.
+strict, suffice
+𝐴𝐴 for 𝐴𝐴 ℎ (𝜆𝜆) < 0; an additively separable
+𝐴𝐴
+𝐴𝐴 (.)𝐴𝐴and            − 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺
+𝐺𝐺
+
+We easily find cases
+𝐴𝐴 of 𝐴𝐴 𝑙𝑙 (𝜆𝜆) = 0 = 𝑔𝑔 𝑙𝑙 (𝜆𝜆)𝐴𝐴 and 𝐴𝐴 ℎ (𝜆𝜆) < 0, so, increasing transfers (reducing λ ≤ 1)
+increases total giving.12 Is this welfare-improving in reasonably-sized communities like congregations? This needs ∂W/∂λ < 0.13
+Equation (15) shows how community size determines if transfers are desirable. The “income
+effect” is the opportunity cost of reducing λ (utility foregone from G), using funds released for trans′
+fers. Reducing λ also changes giving
+𝐴𝐴 by 𝐴𝐴ℎ 𝑔𝑔 ℎ (1). The “price effect” is the welfare effect of this altered
+giving, net of its impact on donors' private consumption.
+′
+′
+𝐴𝐴Note 𝐴𝐴 ℎ (𝜆𝜆) < 0 is unnecessary nor suffices for ∂W/∂λ <𝐴𝐴0. If 𝐴𝐴 ℎ (𝜆𝜆) ≥ 0, ∂W/∂λ < 0 can hold if
+[ ℎ ℎ
+]
+𝐴𝐴 if 𝐴𝐴 ℎ (𝜆𝜆) > 0 = 𝑔𝑔 𝑙𝑙 (𝜆𝜆), this is unlikely for large n h
+𝑛𝑛 𝑈𝑈𝐺𝐺 + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ < 0. But, we see readily,
+l
+and/or large n , as Proposition 1 (proven in the Appendix) shows.
+′
+
+𝐴𝐴
+
+′
+
+[
+]
+Proposition𝐴𝐴1. If 𝐴𝐴 ℎ (𝜆𝜆) > 0 = 𝑔𝑔 𝑙𝑙 (𝜆𝜆), in Equation𝐴𝐴(15), 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ > 0 at λ ≤ 1 if n h
+and/or n l is sufficiently large.
+[
+(
+]
+)
+With U specified, we can verify
+actual 𝑛𝑛ℎ , 𝑛𝑛𝑙𝑙 .
+𝐴𝐴 if 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ > 0 for an 𝐴𝐴
+
+This result that more redistribution can increase giving was in Fraser (2006) and even earlier versions. As I show presently,
+′
+it is also easy to find examples𝐴𝐴where 𝐴𝐴 ℎ < 0 does not hold.
+13
+Andreoni and Payne (2013) caution against inferring anything increasing donations is good for society.
+12
+
+Next, to closely study what determines
+𝐴𝐴
+𝐴𝐴 ℎ (𝜆𝜆), I use properties of the public good demand function,
+[
+]
+( ′
+𝐺𝐺
+𝐴𝐴 ≡ 𝑓𝑓 𝑚𝑚ℎ + 𝜆𝜆−ℎ , 𝜆𝜆1 = 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆). Proposition 2, proven in the Appendix S1, relates
+𝐴𝐴
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝑔𝑔 ℎ (𝜆𝜆)) to
+′
+
+𝐴𝐴
+
+the price and income elasticities of giving.
+
+Proposition 2. Let fm and fp, respectively, be derivatives
+𝐴𝐴 of 𝐴𝐴 (.) w.r.t. an h's full income,
+( ℎ
+) ℎ
+ℎ
+𝐴𝐴
+𝐴𝐴 ≡ 𝑚𝑚 + 𝑛𝑛 − 1 𝑔𝑔 (𝜆𝜆) in a symmetric equilibrium, and their public good's effective price,
+𝐴𝐴
+𝐴𝐴 ≡ 1∕𝜆𝜆.
+𝐴𝐴 Let 𝐴𝐴𝑚𝑚 ≡ 𝑚𝑚𝑚𝑚𝑚𝑚 ∕𝑓𝑓
+𝐴𝐴 and 𝐴𝐴𝑝𝑝 ≡ 𝜆𝜆−1 𝑓𝑓𝑝𝑝 ∕𝑓𝑓 , respectively, be the income and price elasticity of demand for the
+public good. For “large” n h, εp > −1 and εm ≤ 1 suffice
+𝐴𝐴 for 𝐴𝐴 ℎ (𝜆𝜆) < 0.
+′
+
+[
+]
+(
+)
+Using
+𝐴𝐴
+𝐴𝐴 ℎ (𝜆𝜆) = 𝑓𝑓 𝑚𝑚ℎ + 𝑛𝑛ℎ − 1 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆1 ∕𝜆𝜆𝜆𝜆ℎ, Proposition 2's proof shows that
+(
+)−1 [(
+) (
+)]
+′
+(16)
+𝑔𝑔 ℎ (𝜆𝜆) ≅ − 𝜆𝜆2 𝑛𝑛ℎ
+1 + 𝜀𝜀𝑝𝑝 ∕ 𝑓𝑓 −1 − 𝜆𝜆−1 𝜀𝜀𝑚𝑚 𝑚𝑚−1
+
+No consensus exists on εp or εm. Taussig (1967) finds small εp, −0.04 to −0.10, and εm significantly
+above 1.0. Auten et al. (2002) find larger εp but smaller εm: Their favoured estimates for transitory εp
+vary from −0.40 to −0.61 and persistent εp from −0.79 to −1.26. They get persistent εm of 0.40–0.87
+and transitory εm of 0.29–0.45. Karlan and List (2007)𝐴𝐴find 0 ≥ 𝜀𝜀𝑝𝑝 ≥ −1 in a natural experiment.
+Feldstein (1975) and others (e.g., Scharf & Smith, 2015) disaggregate 𝐴𝐴
+to get |𝜀𝜀𝑝𝑝 | < 1 for religion but
+|𝜀𝜀𝑝𝑝 | > 1 for education, hospitals, health and welfare. He finds εm > 1 for hospitals and educational enti′
+ties but εm < 1 for others. Such findings imply possibly different empirical signs
+𝐴𝐴 for 𝐴𝐴 ℎ (𝜆𝜆) for different
+′
+types of charity. A trend for 0 < εm < 0 and −1 < εp < 0 for religious giving implies
+𝐴𝐴
+𝐴𝐴 ℎ (𝜆𝜆) < 0 might
+hold if either my model here or in Section 4 applies.
+
+𝐴𝐴
+
+3.4 | The Cobb–Douglas example
+A symmetric Nash equilibrium with only h persons giving satisfies FOCs
+) [
+[
+(
+)
+] ( 𝑙
+(
+)
+]
+1−𝜆 ℎ ℎ
+1−𝜆 ℎ ℎ
+𝑛 +𝜆−1
+ℎ ℎ
+𝑙
+ℎ ℎ
+𝑙
+≤
+𝜆𝑈
+𝑛
+𝑔
+(𝜆),
+𝜆𝑛
+𝑔
+(𝜆)
+𝑈
+𝑛
+𝑔
+(𝜆),
+𝜆𝑛
+𝑔
+(𝜆)
+(17a)
+𝑥 𝑚 +
+𝐺 𝑚 +
+𝑛𝑙
+𝑛𝑙
+𝑛𝑙
+[
+[
+]
+]
+𝜆𝑈𝐺 𝑚ℎ − 𝑔 ℎ (𝜆), 𝜆𝑛ℎ 𝑔 ℎ (𝜆) = 𝑈𝑥 𝑚ℎ − 𝑔 ℎ (𝜆), 𝜆𝑛ℎ 𝑔 ℎ (𝜆)
+(17b)
+
+𝐴𝐴
+
+𝐴𝐴
+
+𝐴𝐴
+
+Assume a log-Cobb–Douglas
+𝐴𝐴
+𝐴𝐴 (𝑥𝑥𝑥 𝑥𝑥) = 𝛼𝛼1 log 𝑥𝑥 + 𝛼𝛼2 log 𝐺𝐺𝐺𝐺𝐺𝑖𝑖 ∈ (0, 1), 𝑖𝑖 = 1, 2 (cf. Ribar
+& Wilhelm, 2002, and Andreoni, 2006, without warm glow). Then Equation (17b) implies
+(
+)
+′
+𝐴𝐴1 ∕(𝑚𝑚ℎ − 𝑔𝑔 ℎ (𝜆𝜆)) = 𝛼𝛼2 ∕𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆)𝐴𝐴, or 𝐴𝐴 ℎ (𝜆𝜆) = 𝛼𝛼2 𝑚𝑚ℎ ∕ 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ , independent of λ.𝐴𝐴 So 𝐴𝐴 ℎ (𝜆𝜆) = 0
+now.14 Simplifying, Equation (17a) implies
+(
+)
+𝑛𝑛𝑙𝑙 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ
+𝑚𝑚ℎ
+≥
+[
+]
+(18)
+𝑚𝑚𝑙𝑙
+𝑛𝑛ℎ 𝛼𝛼1 𝑛𝑛𝑙𝑙 − (1 − 𝜆𝜆) (𝛼𝛼1 + 𝛼𝛼2 )
+The right hand side (RHS) of inequality (18) is largest with λ close to 0. Even then, as
+𝐴𝐴𝑖𝑖 ∈ (0, 1), 𝑖𝑖 = 1, 2, the RHS is approximately 1 + (α2/α1n h), close to 1 for large n h. So, inequality (18)
+
+−1, so 𝐴𝐴 ℎ (𝜆𝜆) = 0 in Equation (16).
+𝐴𝐴 (𝜆𝜆) = 0 is consistent
+𝐴𝐴 with 𝐴𝐴 ℎ (𝜆𝜆) in Equation (16). With Cobb–Douglas utility, εp = 𝐴𝐴
+
+14 ℎ′
+
+′
+
+′
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+509
+
+FRASER
+
+FRASER
+
+reflects that, in a big group, income inequality need not be great for only the highest income type to
+give.
+)
+(
+[
+]|
+𝛼𝛼2 𝑚𝑚ℎ
+𝜕𝑊
+,
+From Equation (15), sign 𝜕𝜆 |𝜆≤1 = sign 𝑛ℎ 𝑈𝐺ℎ + 𝑛𝑙 𝑈𝐺𝑙 − 𝑈𝑥𝑙 | 𝐴𝐴. As 𝐴𝐴 ℎ (𝜆𝜆) = 𝛼𝛼 +𝛼𝛼
+( 2 1 𝑛𝑛ℎ )
+|𝜆≤1
+(
+)
+]
+[
+𝛼1 𝑛𝑙 𝛼2 + 𝛼1 𝑛ℎ
+[ ℎ ℎ
+]
+( ℎ
+)
+𝛼2 + 𝛼1 𝑛ℎ
+𝑙
+𝑙
+𝑙
+𝑙
+𝑛 𝑈𝐺 + 𝑛 𝑈𝐺 − 𝑈𝑥 |𝜆≤1 = 𝑛 + 𝑛 𝛼2
+−
+(
+)
+𝜆𝛼2 𝑚ℎ 𝑛ℎ
+𝑚𝑙 𝑛𝑙 𝛼2 + 𝛼1 𝑛ℎ + (1 − 𝜆)𝛼2 𝑚ℎ 𝑛ℎ
+
+
+(
+) [( ℎ
+) {( 𝑙 𝑙 ) (
+)
+}
+]⎧ ⎫
+𝛼2 + 𝛼1 𝑛ℎ
+𝑛 + 𝑛𝑙
+𝑚 𝑛 𝛼2 + 𝛼1 𝑛ℎ + (1 − 𝜆)𝛼2 𝑚ℎ 𝑛ℎ − 𝛼1 𝜆𝑛𝑙 𝑚ℎ 𝑛ℎ ⎪>⎪
+=
+[
+(
+)
+]
+⎨=⎬ 0
+𝜆𝑚ℎ 𝑛ℎ 𝑚𝑙 𝑛𝑙 𝛼2 + 𝛼1 𝑛ℎ + (1 − 𝜆)𝛼2 𝑚ℎ 𝑛ℎ
+⎪<⎪
+⎩ ⎭
+⎧>⎫
+[( ℎ
+) {( 𝑙 𝑙 ) (
+)
+}
+]⎪ ⎪
+as
+𝑛 + 𝑛𝑙
+𝑚 𝑛 𝛼2 + 𝛼1 𝑛ℎ + (1 − 𝜆)𝛼2 𝑚ℎ 𝑛ℎ − 𝛼1 𝜆𝑛𝑙 𝑚ℎ 𝑛ℎ ⎨=⎬ 0
+⎪<⎪
+⎩ ⎭
+(
+(
+)
+)
+In
+𝐴𝐴 this 𝑛𝑛ℎ + 𝑛𝑛𝑙𝑙 𝑚𝑚𝑙𝑙 𝑛𝑛𝑙𝑙 𝛼𝛼1 𝑛𝑛ℎ − 𝛼𝛼1 𝜆𝜆𝜆𝜆𝑙𝑙 𝑚𝑚ℎ 𝑛𝑛ℎ 𝐴𝐴
+> 0 if 𝑛𝑛ℎ + 𝑛𝑛𝑙𝑙 𝑚𝑚𝑙𝑙 ≥ 𝑚𝑚ℎ ≥ 𝜆𝜆𝜆𝜆ℎ. This is one of alterna-
+
+tive sufficient conditions
+|
+> 0. For an U.S. congregation of mean size 186 or median size
+𝐴𝐴 for 𝜕𝜕𝜕𝜕
+𝜕𝜕𝜕𝜕 𝜆𝜆≤1
+( ℎ
+)
+𝑙𝑙
+ℎ
+𝑙𝑙
+𝐴𝐴 75, 𝑛𝑛 + 𝑛𝑛 > 𝑚𝑚 ∕𝑚𝑚 : median or mean size exceeds the ratio of the incomes of a typical giver and
+𝜕𝜕𝜕𝜕
+transfer recipient. So, I expect
+|
+> 0 to hold and no transfers to occur.
+𝐴𝐴
+𝜕𝜕𝜕𝜕 𝜆𝜆≤1
+
+4
+
+| POVERTY ALLEVIATION WITH PIOUS PREFERENCES
+
+Assume now everyone cares about total transfers to the poor, T, and tastes satisfy Assumption 6:
+Assumption 6. All households have the utility function U[x, T, G], x and G defined as before. U is
+concave increasing in its arguments, satisfying Inada conditions for x and G.
+T does not satisfy an Inada condition as I do not want to make transfers imperative. The private and
+public goods are indispensable. But, giving to the poor need not be.
+A charity behaving as analysed above in a symmetric equilibrium transfers in total
+𝑛𝑛ℎ
+𝑛𝑛𝑙𝑙
+⎤
+⎡∑
+∑
+[
+]
+ℎ
+⎢
+𝑔𝑔𝑘𝑘𝑙𝑙 ⎥ = (1 − 𝜆𝜆) 𝑛𝑛ℎ 𝑔𝑔 ℎ + 𝑛𝑛𝑙𝑙 𝑔𝑔 𝑙𝑙
+𝑇𝑇 = (1 − 𝜆𝜆)
+𝑔𝑔𝑗𝑗 +
+(19)
+⎥
+⎢ 𝑗𝑗=1
+𝑘𝑘=1 ⎦
+⎣
+
+𝐴𝐴 As 𝐴𝐴 = 𝜆𝜆(𝑇𝑇 +𝐴𝐴𝐺𝐺), 𝐴𝐴 = (1 − 𝜆𝜆)(𝑇𝑇 + 𝐺𝐺) = ((1 − 𝜆𝜆)∕𝜆𝜆) 𝐺𝐺 , at stage 2 a poor person maximises
+(
+)
+[
+]
+𝑈 𝑥𝑙 , 𝑇 , 𝐺 = 𝑈 𝑥𝑙 , ((1 − 𝜆)∕𝜆)𝐺, 𝐺 . Their budget constraint in “full income” form (see the
+[(
+)
+]
+Appendix S1)
+𝐴𝐴 is 𝐴𝐴𝑙𝑙 + 𝑛𝑛𝑙𝑙 + 𝜆𝜆 − 1 ∕𝑛𝑛𝑙𝑙 (𝐺𝐺∕𝜆𝜆) ≤ 𝑚𝑚𝑙𝑙 + 𝐺𝐺−𝑙𝑙 ∕𝜆𝜆. So, by non-satiation, their optimisation is
+( 𝑙𝑙
+)
+[ (
+)
+]
+𝐺𝐺
+1 − 𝜆𝜆
+𝑛𝑛 + 𝜆𝜆 − 1 𝐺𝐺
+𝑙𝑙
+𝑙𝑙
+Max.
+𝑈𝑈
+𝑥𝑥
+,
+𝐺𝐺𝐺
+𝐺𝐺
+s.t.
+𝑥𝑥
++
+= 𝑚𝑚𝑙𝑙 + −𝑙𝑙
+
+𝜆𝜆
+𝜆𝜆
+𝜆𝜆
+𝑛𝑛𝑙𝑙
+𝑥𝑥𝑙𝑙 ≥0,𝐺𝐺≥𝐺𝐺−𝑙𝑙
+)
+[
+( 𝑙𝑙
+]
+(
+)
+𝐺𝐺−𝑙𝑙
+𝑛𝑛 + 𝜆𝜆 − 1 𝐺𝐺 1 − 𝜆𝜆
+𝑙𝑙
+⇔ Max. 𝑈𝑈 𝑚𝑚 +
+−
+,
+𝐺𝐺𝐺 𝐺𝐺
+(20)
+𝐺𝐺≥𝐺𝐺−𝑙𝑙
+𝜆𝜆
+𝜆𝜆
+𝜆𝜆
+𝑛𝑛𝑙𝑙
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+510
+
+Analogously, the arbitrary rich person solves
+[ (
+)
+]
+𝐺𝐺
+1 − 𝜆𝜆
+𝐺𝐺
+𝑈𝑈 𝑥𝑥ℎ ,
+𝐺𝐺𝐺 𝐺𝐺 s.t. 𝑥𝑥ℎ + = 𝑚𝑚ℎ + −ℎ
+𝜆𝜆
+𝜆𝜆
+𝜆𝜆
+𝑥𝑥ℎ ≥0,𝐺𝐺≥𝐺𝐺−ℎ
+
+
+
+Max.
+
+[
+]
+𝐺𝐺−ℎ 𝐺𝐺 ( 1 − 𝜆𝜆 )
+ℎ
+⇔ Max. 𝑈𝑈 𝑚𝑚 +
+− ,
+𝐺𝐺𝐺 𝐺𝐺
+(21)
+𝐺𝐺≥𝐺𝐺−ℎ
+𝜆𝜆
+𝜆𝜆
+𝜆𝜆
+
+𝐴𝐴
+
+𝐴𝐴
+
+The crucial change from non-pious preferences is the new argument
+𝐴𝐴 in 𝐴𝐴 , T = (1 − λ)
+G/λ. Invoking Section 3's continuity and differentiability assumptions, the optimisation problems
+(20) and (21) yield
+locally( differentiable
+]demands,
+[
+]
+) [
+(public good
+)
+with
+𝐴𝐴𝑝𝑝 ≥ 𝑓𝑓 𝑝𝑝𝑝𝑝 𝑚𝑚𝑖𝑖 + (𝐺𝐺−𝑖𝑖 ∕𝜆𝜆) , ((1 − 𝜆𝜆)∕𝜆𝜆)𝐺𝐺−𝑖𝑖 .𝑝𝑝𝑖𝑖𝐺𝐺 , 𝑖𝑖 = ℎ, 𝑙𝑙; 𝑝𝑝ℎ𝐺𝐺 , 𝑝𝑝𝑙𝑙𝐺𝐺 = 1∕𝜆𝜆𝜆 𝑛𝑛𝑙𝑙 + 𝜆𝜆 − 1 ∕𝜆𝜆𝜆𝜆𝑙𝑙 ,
+superscript p denoting “from pious preferences”.
+Again, as[ only the rich give in an utilitarian
+charity equilibrium, I examine just
+]
+𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) = 𝑓𝑓 𝑝𝑝𝑝 𝑚𝑚ℎ + (𝐺𝐺−ℎ ∕𝜆𝜆) , ((1 − 𝜆𝜆)∕𝜆𝜆)𝐺𝐺−ℎ .𝑝𝑝ℎ𝐺𝐺 ∕𝜆𝜆𝜆𝜆ℎ. Differentiating w.r.t. λ, rearranging, using
+)
+]
+[(
+notation as above,𝐴𝐴plus 𝐴𝐴rel ≡ 𝑇𝑇−ℎ 𝑓𝑓𝑇𝑇𝑝𝑝𝑝 ∕𝑓𝑓 𝑝𝑝𝑝 , the elasticity of giving from concern about others'
+−ℎ
+welfare, yields
+[
+)]
+𝑝
+)/(
+( 2 ℎ )−1 (
+𝜀𝑟𝑒𝑙
+1
+𝑝
+𝑝ℎ
+𝑝ℎ′
+−1 𝜀𝑚
+𝑔 (𝜆) ≅ − 𝜆 𝑛
+−𝜆
+−
+1 + 𝜀𝑝 + 𝑓𝑟𝑒𝑙
+(22)
+𝑚
+𝐺−ℎ
+𝑓 𝑝ℎ
+( ′ )
+′
+Compared to the non-pious
+𝐴𝐴
+sign 𝑔𝑔 𝑝𝑝𝑝 (𝜆𝜆) ambiguously.
+𝐴𝐴
+𝐴𝐴 ℎ (𝜆𝜆), pious preferences impact
+
+As before,
+𝐴𝐴
+𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) > (<)0 if numerator and denominator of the second factor in approximation (22) have opposite (the same) signs. The public good, a Church, is likely complementary to
+transfers, whence f ph>0, εrel > 0. Empiricists from Feldstein (1975) onwards find religious giving less
+(
+)
+𝑝𝑝𝑝
+price-elastic than non-religious giving,
+𝐴𝐴
+1 + 𝜀𝜀𝑝𝑝𝑝𝑝 + 𝑓𝑓𝑟𝑟𝑟𝑟𝑟𝑟
+> 1 + 𝜀𝜀𝑝𝑝𝑝𝑝 > 1 + 𝜀𝜀𝑝𝑝 . All else equal, religiosity
+(
+)
+(
+(
+)
+)
+′
+𝑝𝑝𝑝
+(>0)
+𝐴𝐴 if 1 + 𝜀𝜀𝑝𝑝𝑝𝑝 + 𝑓𝑓𝑟𝑟𝑟𝑟𝑟𝑟
+makes
+𝐴𝐴
+𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) more negative
+𝐴𝐴 and 1∕𝑓𝑓 𝑝𝑝𝑝 − 𝜆𝜆−1 𝜀𝜀𝑝𝑝𝑚𝑚 ∕𝑚𝑚 − (𝜀𝜀𝑟𝑟𝑟𝑟𝑟𝑟 ∕𝐺𝐺−ℎ ) (>0)
+are respectively larger and smaller than their non-pious counterparts in Equation (16).15
+( ′ )
+Standard comparative statics (see the Appendix) give Proposition𝐴𝐴3 for sign 𝑔𝑔 𝑝𝑝𝑝 (𝜆𝜆) :
+′
+
+′
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+511
+
+FRASER
+
+Proposition 3. (i) sign(𝑔 𝑝ℎ (𝜆)) is a priori ambiguous; (ii) If U(x, G, T) is additively
+′
+separable,
+𝐴𝐴
+− 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 ∕𝑈𝑈𝐺𝐺 ≥ 1 ensures
+𝐴𝐴
+𝐴𝐴 𝑝𝑝𝑝 (1) < 0; (iii) If U is Cobb–Douglas,
+[ ℎ
+]
+𝐴𝐴 , 𝐴𝐴𝑖𝑖 ∈ (0, 1), 𝑖𝑖 = 1, 2, 3
+𝑈 (𝑥, 𝐺, 𝑇 ) = 𝑈 𝑥 , 𝐺, (1 − 𝜆)𝐺∕𝜆 = 𝛼1 log 𝑥ℎ +𝛼2 log 𝐺+𝛼3 log[1+(1−𝜆)𝐺∕𝜆]
+
+∈ (0, 1), 𝑖𝑖 = 1, 2, 3,𝐴𝐴then 𝐴𝐴 𝑝𝑝𝑝 (1) < 0, 𝑔𝑔𝑝𝑝𝑝 (𝜆𝜆) < 0, if U(x, G, T) is log-Cobb–Douglas with no Inada condition
+re T.
+′
+
+′
+
+The 1 in the third argument
+𝐴𝐴 of 𝐴𝐴 [.] stops transfers satisfying an Inada condition.
+(
+[ Standard compar(
+)
+𝐺𝐺
+
+𝐺𝐺−ℎ .𝑝𝑝ℎ𝐺𝐺
+𝐴𝐴 of 𝐴𝐴 𝑝𝑝𝑝 = 𝑓𝑓 𝑝𝑝𝑝 𝑚𝑚ℎ + 𝜆𝜆−ℎ , 1−𝜆𝜆
+the derivative
+𝜆𝜆
+)
+)ative statics
+]) again agrees with directly
+( ′calculating
+−ℎ
+, 1−𝜆𝜆
+𝐺𝐺−ℎ .𝑝𝑝ℎ𝐺𝐺 ∕𝜆𝜆𝜆𝜆ℎ. Ultimately,
+𝐴𝐴
+sign 𝑔𝑔 𝑝𝑝𝑝 is resolvable empirically or by explicit preferences. for
+𝜆𝜆
+𝜆𝜆
+(
+
+example, log-Cobb–Douglas U and budget constraint
+𝐴𝐴
+𝐴𝐴ℎ + (𝐺𝐺∕𝜆𝜆) = 𝑚𝑚ℎ + (𝐺𝐺−ℎ ∕𝜆𝜆) give an h's maxi-
+
+𝐴𝐴
+𝐴𝐴
+
+)
+(
+(
+𝑝𝑝𝑝 )
+𝑝𝑝𝑝
+15
+Other combinations are possible. For example,
+𝐴𝐴
+𝐴𝐴𝑟𝑟𝑟𝑟𝑟𝑟
+> 0 might produce:
+𝐴𝐴 (i) 1 + 𝜀𝜀𝑝𝑝𝑝𝑝 + 𝑓𝑓𝑟𝑟𝑟𝑟𝑟𝑟
+𝐴𝐴> 0 if 1 + 𝜀𝜀𝑝𝑝𝑝𝑝 < 0, and
+)
+(
+)
+]
+]
+[(
+[
+(
+𝑝𝑝𝑝 )
+> 0 if
+1∕𝑓𝑓 𝑝𝑝𝑝 − (1∕𝜆𝜆) 𝜀𝜀𝑝𝑝𝑚𝑚 ∕𝑚𝑚 − (𝜀𝜀𝑟𝑟𝑟𝑟𝑟𝑟 ∕𝐺𝐺−ℎ )𝐴𝐴 < 0 if (1∕𝑓𝑓 ) − (1∕𝜆𝜆) (𝜀𝜀𝑚𝑚 ∕𝑚𝑚) < 0 in the non-pious case;
+𝐴𝐴 (ii) 1 + 𝜀𝜀𝑝𝑝𝑝𝑝 + 𝑓𝑓𝑟𝑟𝑟𝑟𝑟𝑟
+)
+)
+(
+)
+]
+]
+(
+[(
+[
+𝑝𝑝
+1 + 𝜀𝜀𝑝𝑝 >
+𝐴𝐴 0 and 1∕𝑓𝑓 𝑝𝑝𝑝 − (1∕𝜆𝜆) 𝜀𝜀𝑚𝑚 ∕𝑚𝑚 − (𝜀𝜀𝑟𝑟𝑟𝑟𝑟𝑟 ∕𝐺𝐺−ℎ )𝐴𝐴 < 0 if (1∕𝑓𝑓 ) − (1∕𝜆𝜆) (𝜀𝜀𝑚𝑚 ∕𝑚𝑚) > 0 in the non-pious case. These
+′
+′
+could change
+𝐴𝐴
+𝐴𝐴 ℎ (𝜆𝜆)𝐴𝐴< 0 to 𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) > 0.
+
+FRASER
+
+(
+)
+mand,
+𝐴𝐴
+𝐴𝐴1 log 𝑚𝑚ℎ + (𝐺𝐺−ℎ ∕𝜆𝜆) − (𝐺𝐺∕𝜆𝜆) + 𝛼𝛼2 log 𝐺𝐺 + 𝛼𝛼3 log[1 + (1 − 𝜆𝜆)𝐺𝐺∕𝜆𝜆]. Its FOC yields a quadratic in G:
+(
+)
+[
+(
+)
+]
+𝐺−ℎ
+𝐺−ℎ
+ℎ
+2
+ℎ
+𝑚 +
+𝜆 𝛼2 + (1 − 𝜆)𝜆 𝑚 +
+(𝛼2 + 𝛼3 ) − 𝜆 (𝛼1 + 𝛼2 )
+𝜆
+𝜆
+(23)
+𝐺 − (1 − 𝜆) (𝛼1 + 𝛼2 + 𝛼3 ) 𝐺2 = 0
+
+This solves for G in terms of an h's full income,
+𝐴𝐴
+𝐴𝐴ℎ + 𝐺𝐺−ℎ ∕𝜆𝜆, parameters, αi, and shares (λ, 1 − λ).
+(
+)
+As G = λn hg ph𝐴𝐴 and 𝐴𝐴−ℎ = 𝜆𝜆 𝑛𝑛ℎ − 1 𝑔𝑔 𝑝𝑝𝑝 in Equation (23), Equation (24) defining g ph implicitly in
+terms of λ gives an h's Nash equilibrium donation and constrains the charity's maximisation:
+[
+(
+)]
+(
+)
+2
+(24)
+𝛼𝛼2 𝑚𝑚ℎ + (𝛼𝛼2 + 𝛼𝛼3 ) (1 − 𝜆𝜆)𝑚𝑚ℎ 𝑛𝑛ℎ − 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ 𝑔𝑔 𝑝𝑝𝑝 − (1 − 𝜆𝜆)𝑛𝑛ℎ 𝛼𝛼2 + 𝛼𝛼3 + 𝛼𝛼1 𝑛𝑛ℎ 𝑔𝑔 𝑝𝑝𝑝 = 0
+
+4.1 | The charity's maximisation with pious preferences
+In a symmetric Nash equilibrium, if only the rich donate, social welfare is now
+)
+]
+[
+(
+[
+]
+(1 − 𝜆𝜆)
+ℎ ℎ
+ℎ ℎ
+ℎ ℎ
+𝑛𝑛
+𝑔𝑔
+,
+(1
+−
+𝜆𝜆)𝑛𝑛
+𝑔𝑔
+,
+𝜆𝜆𝜆𝜆
+𝑔𝑔
+𝑊𝑊 𝑝𝑝 ≡ 𝑛𝑛ℎ 𝑈𝑈 𝑚𝑚ℎ − 𝑔𝑔 ℎ , (1 − 𝜆𝜆)𝑛𝑛ℎ 𝑔𝑔 ℎ , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈 𝑚𝑚𝑙𝑙 +
+(25)
+𝑛𝑛𝑙𝑙
+
+𝐴𝐴
+
+𝐴𝐴
+
+𝐴𝐴
+
+To show λ < 1 is sub-optimal with non-pious preferences, W's possible non-concavity in λ makes
+𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 > 0 insufficient: W (λ) > W (1) might hold at λ < 1. With pious preferences, for λ < 1
+to be optimal for large n h and/or
+𝐴𝐴 n l, 𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 < 0 suffices as some transfers dominate none. Let
+subscript T show derivatives w.r.t. T. Simplifying with an h-type's FOC, omitting functional arguments and superscript p in household utility,
+[
+]
+[(
+)
+]
+′
+𝜕𝜕𝜕𝜕 𝑝𝑝
+|𝜆𝜆=1 = 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑛𝑛ℎ 𝑈𝑈𝑇𝑇ℎ − 𝑛𝑛𝑙𝑙 𝑈𝑈𝑇𝑇𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ + 𝑛𝑛ℎ − 1 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ
+(26)
+𝜕𝜕𝜕𝜕
+Comparing Equations (26) and (15) shows pious preferences makes transfers more socially
+worthwhile. A population effect deterring transfers no longer holds as their altruistic external𝐴𝐴 ity, 𝐴𝐴ℎ 𝑈𝑈𝑇𝑇ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝑇𝑇𝑙𝑙 , increases with population, like the offsetting public good marginal benefit,
+𝐴𝐴ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 . Transfers are worthwhile if the utility from the first increment exceeds that from
+the marginal amount of public good were all donations used for the latter.16 Pairwise comparing
+[
+]
+[
+]
+terms in Equation (26) at λ𝐴𝐴= 1, 𝐴𝐴𝐺𝐺 𝑚𝑚ℎ − 𝑔𝑔 ℎ (1), 𝑛𝑛ℎ 𝑔𝑔 ℎ (1), 0 − 𝑈𝑈𝑇𝑇 𝑚𝑚ℎ − 𝑔𝑔 ℎ (1), 𝑛𝑛ℎ 𝑔𝑔 ℎ (1), 0 ≤ 0 and
+[ 𝑙𝑙 ℎ ℎ
+]
+[ 𝑙𝑙 ℎ ℎ
+]
+𝐴𝐴𝐺𝐺 𝑚𝑚 , 𝑛𝑛 𝑔𝑔 (1), 0 − 𝑈𝑈𝑇𝑇 𝑚𝑚 , 𝑛𝑛 𝑔𝑔 (1), 0 ≤ 0 suffice for consumers to value transfers.
+I examine this with log-Cobb–Douglas utility. By Proposition𝐴𝐴 3, 𝐴𝐴 𝑝𝑝𝑝 (1) < 0 then. So,
+[
+]
+𝐴𝐴ℎ 𝑔𝑔 𝑝𝑝𝑝 (1) 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑛𝑛ℎ 𝑈𝑈𝑇𝑇ℎ − 𝑛𝑛𝑙𝑙 𝑈𝑈𝑇𝑇𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 |𝜆𝜆=1 ≤ 0 suffices𝐴𝐴 for 𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 < 0, by Equa[(
+)
+(
+)]
+[(
+) (
+)]
+tion (26). Now,
+𝐴𝐴
+𝐴𝐴 𝑝𝑝𝑝 (1) = 𝛼𝛼2 𝑚𝑚ℎ ∕ 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ 𝐴𝐴and 𝐴𝐴𝑝𝑝 (1) = 𝛼𝛼2 𝑚𝑚ℎ 𝑛𝑛ℎ ∕ 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ , as with
+non-pious preferences. Thus,
+[
+]
+𝑛ℎ 𝑔 𝑝ℎ 𝑛ℎ 𝑈𝐺ℎ + 𝑛𝑙 𝑈𝐺𝑙 − 𝑛ℎ 𝑈𝑇ℎ − 𝑛𝑙 𝑈𝑇𝑙 − 𝑈𝑥𝑙 |𝜆=1 = 𝑛ℎ 𝑔 𝑝ℎ (1)
+′
+
+𝐴𝐴
+
+
+
+16
+
+[(
+
+⎧ ⎫
+) ( 𝛼 )] ⎪>⎪
+) ( 𝛼2
+1
+𝑛 +𝑛
+− 𝛼3 −
+⎨=⎬ 0 as
+𝐺𝑝
+𝑚𝑙 ⎪ ⎪
+⎩<⎭
+ℎ
+
+𝑙
+
+W's non-concavity could still make it increase in λ at λ = 1, yet W still attain its maximum at λ < 1.
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+512
+
+
+
+( ℎ
+) [(
+)
+]
+𝑛𝑛 + 𝑛𝑛𝑙𝑙
+𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ 𝑚𝑚𝑙𝑙 − 𝛼𝛼3 𝑛𝑛ℎ 𝑚𝑚ℎ 𝑚𝑚𝑙𝑙 − 𝛼𝛼1 𝑛𝑛ℎ 𝑚𝑚ℎ
+
+{
+} ⎧>⎫
+ℎ
+( ℎ
+) [(
+)
+]
+⎪ ⎪
+𝑙
+ℎ
+ℎ ℎ
+ℎ𝑚
+(27)
+=𝑚
+𝑛 +𝑛
+𝛼2 + 𝛼1 𝑛 − 𝛼3 𝑛 𝑚 − 𝛼1 𝑛 𝑙 ⎨=⎬ 0
+𝑚
+⎪<⎪
+⎩ ⎭
+𝑙
+
+𝐴𝐴
+
+The expression in the last line is negative for plausible parameter and U.S. congregation sizes. A
+larger community does not𝐴𝐴make 𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 < 0 less likely now. The larger is inequality (i.e., m h/m l),
+(
+)
+and a need for transfers (because m l is low), all else equal, the more negative
+𝐴𝐴 is − 𝛼𝛼1 𝑛𝑛ℎ 𝑚𝑚ℎ ∕𝑚𝑚𝑙𝑙 and
+more likely
+𝐴𝐴 is 𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 < 0. Next,
+𝐴𝐴 as 𝐴𝐴𝑖𝑖 ∈ (0, 1), 𝑖𝑖 = 1 − 3, the size of α1n h relative to α3n hm h
+[(
+)
+]
+mainly decides
+𝐴𝐴
+sign 𝛼𝛼2 + 𝛼𝛼1 𝑛𝑛ℎ − 𝛼𝛼3 𝑛𝑛ℎ 𝑚𝑚ℎ . This is more likely negative,
+𝐴𝐴 so 𝐴𝐴𝐴𝐴 ∕𝜕𝜕𝜕𝜕|𝜆𝜆=1 < 0 and
+transfers are more likely, the more the rich can afford them as m h is large.
+Table 1 exemplifies numerical optima with pious log-Cobb–Douglas preferences, showing
+1 > λ p > 0 is plausible. The charity maximises W p subject to Equation (24) from donors' optimisation. Throughout, (n h + n l) is a realistic𝐴𝐴180, 𝐴𝐴ℎ ∕𝑛𝑛𝑙𝑙 = 5, m h = 100 and m l = 20. Only parameters
+𝐴𝐴𝑖𝑖 ∈ (0, 1), 𝑖𝑖 = 1 − 3, change. The exercise shows poverty-alleviating transfers can:
+( i)	greatly increase total welfare—in case A, by over 50% (from 482.22 to 730.91).
+(ii)	so increase giving, G hardly changes. In case A, with just over half total donations used for transfers, G is nearly 98% of its no-transfers level—0:647 06 cf. 0:662 25. The smallest ratio of G with
+transfers to that without is in B at nearly 90%.
+(iii)	significantly increase the poor's private consumption. The smallest increase occurs in C, at just
+over 4%; the largest is in A at over 16:5%.
+
+TABLE 1
+𝐴𝐴
+
+Illustrative simulations (via Maple) of giving with Pious log Cobb–Douglas preferences
+
+𝐴𝐴ℎ = 100; 𝑚𝑚𝑙𝑙 = 20; 𝑛𝑛ℎ = 150; 𝑛𝑛𝑙𝑙 = 30
+
+With transfers
+
+Without transfers
+
+Case Parameters
+
+Giving (g)
+
+Welfare
+
+l's % Consumption rise Giving (g) Welfare
+
+A
+
+g = 1.3093
+
+730.91
+
+16.56
+
+0.66225
+
+482.22
+
+680.93
+
+15.17
+
+0.66225
+
+482.22
+
+428.31
+
+4.12
+
+0.16639
+
+370.07
+
+440.82
+
+8.25
+
+0.16639
+
+370.07
+
+668.26
+
+8.3
+
+0.33232
+
+509.37
+
+655.07
+
+7.81
+
+0.33232
+
+509.37
+
+α1 = α2 = α3 = 0.3
+
+λ = 0.4942
+B
+
+α1 = α2 = 0.3;α3 = 0.25
+
+g = 1.2016
+λ = 0.49504
+
+C
+
+α1 = 0.4; α2 = α3 = 0.1
+
+g = 0.32579
+λ = 0.49363
+
+D
+
+α1 = 0.4; α2 = 0.1; α3 = 0.2
+
+E
+
+α1 = 0.45; α2 = α3 = 0.225
+
+F
+
+α1 = 0.45; α2 = 0.225; α3 = 0.21
+
+g = 0.49098
+λ = 0.32778
+g = 0.65574
+λ = 0.49374
+g = 0.63390
+λ = 0.5073
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+513
+
+FRASER
+
+FRASER
+
+Also:
+(iv)	the relative weights of G and T in U decides λ. Equal or near-equal weighting gives λ close to
+0:5. As T's weight (α3) rises relative to G's (α2), the share of giving used for transfers (1 − λ)
+increases. for example, in case D, when T's weight is nearly twice G's, nearly twice as much of
+donations go to transfers as to the public good.
+(v)	All else equal, the total weight of G and T relative to x h in U decides an h's donation. The greater
+the x h weighting, the less given.
+(vi)	Without scope for transfers, giving and welfare are independent of the exponent on T in the utility function: compare giving and welfare in cases A and B, C and D, E and F.
+(vii)	Simulated giving with pious preferences approximates that found in congregations, with over 1%
+of aggregate income donated and just under half used for poverty alleviation.
+Additional numerical analysis (see the Appendix S2) studies giving and the division of its use
+between the pure public good and transfers as the proportion of the poor within a congregation of
+fixed size varies. I show that, in the log-Cobb–Douglas case again, as the proportion of the poor
+increases, the proportion of donations that the charity devotes to transfers increases, as does giving
+by each donor.
+
+5
+
+| OTHER PREFERENCES
+
+5.1 | Warm-glow/joint-product preferences
+In a pure warm-glow model, there is one public good and a number of private goods equal to 1 plus the
+number of agents in the model. The public good has quantity equal to the total donations of the agents
+to provide it from their endowment of the first (and common) private good. Each agent's donation to
+providing the public good gives them a warm glow, which is a private good for them only. With pious
+preferences, there is one private good (the endowment good) and two public goods (the total transfers,
+functioning as a public good, and the Church).
+Would a utilitarian charity for many donors with joint-product/warm-glow preferences find it
+welfare-optimal to alleviate poverty? No. This is seen by applying my approach.
+(
+)
+With warm-glow/joint-product preferences,
+𝐴𝐴
+𝐴𝐴 𝑚𝑚ℎ − 𝑔𝑔 ℎ , 𝜆𝜆𝜆𝜆 ℎ + 𝐺𝐺−ℎ , 𝑔𝑔 ℎ is an arbitrary rich
+person's utility. I assume that the third argument (which generates warm glow to that person from
+giving) has no Inada condition: tastes force no-one to give.
+Let subscript w on U denote its derivative re warm glow and superscript w identify magnitudes. I
+extend Assumption 4 (i) to Assumption 7 for plausibility and monotone comparative statics:
+Assumption 7. (Supermodularity) Uij ≥ 0, i ≠ j, i, j = x, G, g.
+In stage-2's equilibrium now, an h person's FOC is
+(
+)
+(
+)
+−𝑈𝑥 𝑚ℎ − 𝑔 ℎ , 𝜆𝑔 ℎ + 𝐺−ℎ , 𝑔 ℎ + 𝜆𝑈𝐺 𝑚ℎ − 𝑔 ℎ , 𝜆𝑔 ℎ + 𝐺−ℎ , 𝑔 ℎ
+(28)
+(
+)
++ 𝑈𝑔 𝑚ℎ − 𝑔 ℎ , 𝜆𝑔 ℎ + 𝐺−ℎ , 𝑔 ℎ = 0
+
+
+
+A symmetric equilibrium with only rich donors gives a charity maximand
+(
+)
+[
+]
+𝑊𝑊 𝑤𝑤 = 𝑛𝑛ℎ 𝑈𝑈 𝑚𝑚ℎ − 𝑔𝑔 ℎ , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ , 𝑔𝑔 ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈 𝑚𝑚𝑙𝑙 + (1 − 𝜆𝜆)𝑛𝑛ℎ 𝑔𝑔 ℎ ∕𝑛𝑛𝑙𝑙 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ , 0
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+514
+
+515
+
+I seek to show that the charity is unlikely to find transfers optimal in large congregations if agents
+have warm-glow/joint-product preferences. As in Section 3, 𝐴𝐴
+I want 𝐴𝐴𝐴𝐴 𝑤𝑤 ∕𝜕𝜕𝜕𝜕|𝜆𝜆≤1 > 0 for large n h and/
+or n l. Differentiating W w, using the h's person's FOC,
+[
+] [(
+)
+]
+′
+𝜕𝜕𝜕𝜕 𝑤𝑤
+|𝜆𝜆≤1 = 𝑛𝑛ℎ 𝑔𝑔 𝑤𝑤𝑤 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 + 𝑛𝑛ℎ − 1 𝜆𝜆𝜆𝜆𝐺𝐺ℎ + 𝜆𝜆𝜆𝜆𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 + (1 − 𝜆𝜆)𝑈𝑈𝑥𝑥𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 𝑤𝑤𝑤
+(29)
+𝜕𝜕𝜕𝜕
+
+Equation (29) mirrors Equation (15) for non-pious preferences without warm glow. Proposition 4
+(proven in the Appendix S1)𝐴𝐴shows 𝐴𝐴𝐴𝐴 𝑤𝑤 ∕𝜕𝜕𝜕𝜕|𝜆𝜆≤1 > 0 can occur in large communities.
+
+𝐴𝐴
+
+[
+]
+Proposition 4. In Equation (29),
+𝐴𝐴 (i) 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 > 0 if n h and/or n l are large; (ii)
+(
+(
+′
+′
+sign 𝑔𝑔 𝑤𝑤𝑤 (𝜆𝜆)) is generally ambiguous. With U(x, G, g) non-separable,
+𝐴𝐴
+sign 𝑔𝑔 𝑤𝑤𝑤 (𝜆𝜆)) depends on
+
+which of warm glow and private consumption is more complementary with the public good, and on
+ℎ ∕𝑈𝑈 ℎ ). With U(x, G, g) additively separable,
+the elasticity of the marginal utility of G𝐴𝐴(i.e., − 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺
+𝐺𝐺
+𝑔
+
+𝑤ℎ′
+
+⎛ > ⎞
+⎛ > ⎞
+′
+⎜
+⎟ as
+⎟ . With U log-Cobb–Douglas,
+𝐴𝐴
+𝐴𝐴 𝑤𝑤𝑤 (𝜆𝜆) = 0.
+ℎ ∕𝑈 ℎ ⎜
+(𝜆) ⎜ = ⎟ 0 −𝐺𝑈𝐺𝐺
+1
+𝐺⎜ = ⎟
+⎜
+⎟
+⎜ < ⎟
+⎝ < ⎠
+⎝
+⎠
+
+Numerical analysis of the Cobb–Douglas case verifies the theory just given. Compared to the
+no warm glow model of Section 3, warm glow does not increase the desirability of transfers in large
+populations.17
+
+5.2 | Brown (1997) Preferences
+Brown's (1997) donors get an altruistic externality from giving to raise the poor's per capita income.
+She does not consider the poor's welfare explicitly, but I do so when resources used for transfers could
+instead be used for a pure public good. Suppose the poor's per capita income creates the altruistic
+(
+)
+externality from transfers. Brown's utility functions then
+𝐴𝐴 are 𝐴𝐴 𝑥𝑥𝑖𝑖 , 𝐺𝐺𝐺𝐺𝐺𝑙𝑙 , 𝑖𝑖 = ℎ, 𝑙𝑙. I show that such
+preferences are unlikely to give enough incentive for transfers in typical congregations.
+Index this case by superscript “B”. In an equilibrium with only h-types donating, the utilitarian
+charity now maximises welfare, W B,
+(
+)
+(1 − 𝜆)𝑛ℎ 𝑔 ℎ
+𝑊 𝐵 = 𝑛ℎ 𝑈 𝑚ℎ − 𝑔 ℎ , 𝜆𝑛ℎ 𝑔 ℎ , 𝑚𝑙 +
+𝑛𝑙
+(30)
+[
+]
+ℎ
+ℎ
+ℎ ℎ
+(1 − 𝜆)𝑛 𝑔
+ℎ 𝑔 ℎ , 𝑚𝑙 + (1 − 𝜆)𝑛 𝑔
++ 𝑛𝑙 𝑈 𝑚𝑙 +
+,
+𝜆𝑛
+𝑛𝑙
+𝑛𝑙
+
+Appendix S1 considers the case of concave warm glow from multiple giving where donations are used for more than one
+purpose. In principle, the donor can get different amounts of warm glow from the different uses to which a donation is put.
+Proposition 5 there shows that, unsurprisingly, having multiple sources of warm glow increases the ambiguity regarding the
+effect of large numbers on the desirability of transfers.
+
+17
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FRASER
+
+FRASER
+
+Let subscripts s (“sharing”) show derivatives w.r.t. the poor's per capita income. Using the h-type's
+FOC in a stage-2 Nash equilibrium where only h-types donate,
+[
+]
+( ℎ)
+𝜕𝑊 𝐵
+𝑛
+ℎ − 𝑈𝑙 − 𝑈𝑙
+𝑈
+|𝜆≤1 = 𝑛ℎ 𝑔 𝐵ℎ 𝑛ℎ 𝑈𝐺ℎ + 𝑛𝑙 𝑈𝐺𝑙 −
+𝑠
+𝑠
+𝑥
+𝜕𝜆
+𝑛𝑙
+[
+]
+( ℎ)
+(31)
+)
+(
+′
+𝑛
+ℎ + (1 − 𝜆)𝑈 𝑙 + (1 − 𝜆)𝑈 𝑙
++ 𝑛ℎ 𝑔 𝐵ℎ 𝑛ℎ − 1 𝜆𝑈𝐺ℎ + 𝜆𝑛𝑙 𝑈𝐺𝑙 + (1 − 𝜆)
+𝑈
+𝑠
+𝑠
+𝑥
+𝑛𝑙
+Having the poor's per capita income as an externality for all arguably fits the idea of being your
+brothers' keeper better than having total transfers as the externality, as with pious preferences. But,
+as my Introduction notes, in a fixed congregation, total transfers,
+𝐴𝐴
+(1 − 𝜆𝜆)𝑛𝑛ℎ 𝑔𝑔 ℎ, and the poor's per
+[(
+) ]
+capita transfers and consumption,
+𝐴𝐴
+(1 − 𝜆𝜆)𝑛𝑛ℎ 𝑔𝑔 ℎ ∕𝑛𝑛𝐴𝐴𝑙𝑙 and 𝐴𝐴𝑙𝑙 + (1 − 𝜆𝜆)𝑛𝑛ℎ 𝑔𝑔 ℎ ∕𝑛𝑛𝑙𝑙 , increase together. So,
+Brown tastes are not better on that basis. More importantly, Equation (31) and numerical analysis
+show Brown tastes are less likely than pious tastes to make transfers improve welfare in big groups.
+This is seen intuitively by noting that, with Brown preferences, a transfer dollar split equally yields
+( )−1
+( )
+𝑙𝑙
+ℎ ℎ 𝑙𝑙 −1 for the poor and rich, respectively,
+= 𝑈𝑈𝐴𝐴
+total altruistic externality
+𝐴𝐴 of 𝐴𝐴𝑙𝑙 𝑈𝑈𝑠𝑠𝑙𝑙 𝑛𝑛𝑙𝑙
+𝑠𝑠 and 𝐴𝐴 𝑈𝑈𝑠𝑠 𝑛𝑛
+𝑙𝑙
+ℎ ℎ
+𝐴𝐴 cf. 𝐴𝐴𝑙𝑙 𝑈𝑈𝐴𝐴
+𝑠𝑠 and 𝐴𝐴 𝑈𝑈𝑠𝑠 with pious preferences. Used instead on the pure public good, that dollar gives
+benefits proportional to the rich and poor population sizes with Brown preferences, just as with pious
+tastes. Thus, the positive externality from transfers increases less than in proportion to population,
+and the opportunity cost increases proportionately, with Brown preferences. Conversely, both the
+posi tive externality from transfers and the opportunity cost of transfers increase proportionately with
+the population with pious preferences. So transfers are less likely with Brown preferences than with
+pious preferences as the population size increases.
+I adopt a two-pronged approach to verifying this insight. First, I note that this large-number effect
+( ℎ)
+]
+[
+is captured 𝐴𝐴
+by the 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑛𝑛𝑛𝑛𝑙𝑙 𝑈𝑈𝑠𝑠ℎ − 𝑈𝑈𝑠𝑠𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 term on RHS Equation (31). I can show that
+this term is unambiguously positive with a large population size. This can be done most simply with
+(
+)
+( )
+( )
+additively separable utility.
+𝐴𝐴 Let 𝐴𝐴 𝑥𝑥𝑖𝑖 , 𝐺𝐺𝐺𝐺𝐺𝑙𝑙 ≡ 𝑈𝑈 𝑥𝑥 𝑥𝑥𝑖𝑖 + 𝑈𝑈 𝐺𝐺 (𝐺𝐺) + 𝑈𝑈 𝑠𝑠 𝑥𝑥𝑙𝑙 , 𝑖𝑖 = ℎ, 𝑙𝑙𝑙 with concave
+( ℎ)
+increasing U k, k = x, G, s. Then, the Appendix S1 shows
+𝐴𝐴
+𝐴𝐴ℎ 𝑈𝑈𝐺𝐺ℎ + 𝑛𝑛𝑙𝑙 𝑈𝑈𝐺𝐺𝑙𝑙 − 𝑛𝑛𝑛𝑛𝑙𝑙 𝑈𝑈𝑠𝑠ℎ − 𝑈𝑈𝑠𝑠𝑙𝑙 − 𝑈𝑈𝑥𝑥𝑙𝑙 > 0
+in Equation (31) for “large” n h and/or n l with Brown preferences, unlike its pious tastes equivalent.
+′
+′
+For
+𝐴𝐴 the 𝐴𝐴 𝐵𝐵𝐵 (𝜆𝜆) term in Equation𝐴𝐴(31), 𝐴𝐴 𝐵𝐵𝐵 (1) < 0 holds with log-Cob–Douglas tastes, and generally
+𝐴𝐴
+
+ℎ ∕𝑈𝑈 ℎ ≥ 1, as with pious tastes. Second, the signs of the n hg Bh
+if − 𝐺𝐺𝐵𝐵 𝑈𝑈𝐺𝐺𝐺𝐺
+𝐴𝐴 and 𝐴𝐴ℎ 𝑔𝑔 𝐵𝐵𝐵 terms in Equa𝐺𝐺
+h
+l
+tion (31) are likely to differ for large n and/or n . Therefore, I conduct a numerical analysis with Brown
+preferences, similar to that underlying Table 1 with pious preferences, to see if feasible sub-game
+perfect charitable equilibria involving transfers with Brown preferences are likely with typically-sized
+congregations (See Appendix S2 where I consider specifically the counterparts to cases A and C in
+Table 1, but with Brown preferences.). This analysis shows that, with log-Cobb–Douglas preferences,
+while the charity finds it optimal to make transfers in very small congregations, this is not so with even
+moderately-sized congregations. This contrasts with the results for pious preferences, all else equal. I
+summarise this finding as:
+′
+
+Proposition 6. A utilitarian charity is less likely to make transfers to the poor in a large society if
+consumers have Brown preferences than if they have pious preferences.
+Maintaining the log-Cobb–Douglas assumption for both pious and Brown preferences also enables
+me to show that, all else equal, the pious preferences case is likely to generate more giving and private
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+516
+
+517
+
+transfers than that with Brown preferences. To see this, let the Brown preferences for an h-person take
+the form
+]
+[(
+)
+(
+)
+)
+(
+𝑈 𝑥𝑖 , 𝐺, 𝑥𝑙 = 𝛼 log 𝑚ℎ − 𝑔 ℎ + 𝛽 log 𝜆 𝑛ℎ − 1 𝑔 ℎ + 𝑔 ℎ
+((
+)
+)
+⎛
+ℎ − 1 𝑔ℎ + 𝑔ℎ ⎞
+𝑛
+(1
+−
+𝜆)
+⎜
+⎟
++𝛿 log ⎜𝑚𝑙 +
+
+⎟,
+𝑙
+𝑛
+⎜
+⎟
+⎝
+⎠
+for parameters
+𝐴𝐴
+𝐴𝐴𝐴 𝐴𝐴𝐴 𝐴𝐴 ∈ (0, 1), when only the h-type gives and each conjectures that each of the others
+of their type makes a donation
+𝐴𝐴
+𝑔𝑔 ℎ. The respective elasticity parameters α, β, and δ are the counterparts
+of α1, α2, and α3 with log-Cobb–Douglas pious preferences defined in Proposition 3. With Brown
+preferences, it is easily seen that, in a Nash equilibrium with only the h− types giving, the arbitrary
+h-person's FOC for an interior optimum with all h's behaving identically is
+[
+(
+)
+]
+[
+]
+2
+(24')
+𝛽𝛽𝛽𝛽ℎ 𝑚𝑚𝑙𝑙 𝑛𝑛𝑙𝑙 + (1 − 𝜆𝜆)𝑚𝑚ℎ 𝑛𝑛ℎ (𝛽𝛽 + 𝛿𝛿) − 𝛽𝛽 + 𝛼𝛼𝛼𝛼ℎ 𝑚𝑚𝑙𝑙 𝑛𝑛𝑙𝑙 𝑔𝑔 𝐵𝐵𝐵 − (1 − 𝜆𝜆)𝑛𝑛ℎ 𝛽𝛽 + 𝛿𝛿 + 𝛼𝛼𝛼𝛼ℎ 𝑔𝑔 𝐵𝐵𝐵 = 0
+
+Comparing Equations (24') and (24) enables us to state the following (proven in the Appendix):
+Proposition 7. Other things equal, if m ln l > 1, if the charity sets a 𝐴𝐴
+given 𝐴𝐴 ∈ (0, 1) and an h-person's
+problem is concave, more is donated if agents have pious preferences than if they have Brown
+preferences.
+In the numerical analysis underlying Table 1, all cases considered have m ln l > 1. So, in these cases,
+other things equal, if the charity sets a 𝐴𝐴
+given 𝐴𝐴 ∈ (0, 1), more is donated if agents have pious preferences than would be donated if they have Brown preferences.
+Lastly, I consider numerically the effect on giving of varying the proportion of the poor in a fixed
+population with Brown preferences. It can be shown for log-Cobb-Douglas preferences (see Appendix S2 for details) that, when transfers occur, the charity uses a smaller fraction of what is given for
+transfers when the proportion of the poor increases and each donor gives less. This is diametrically
+opposite to the finding with pious preferences where, as the proportion of the poor in the congregation
+increases, a larger share of donations is used for transfers and each donor gives more. These results
+follow because, with both Brown and pious preferences, donors can be induced to give more by the
+charity increasing the share of donations that is used for transfers. However, with Brown preferences,
+the more poor there are to share the total transfers—hence the less the impact on their per capita
+income from any given amount of transfer—the less the charity's incentive to use donations for transfers, the less the share of donations that is used for that purpose and the less donors are induced to give.
+
+6
+
+| CONCLUSION
+
+This paper shows that simultaneous charitable provision of private transfers and a separate public
+good that compete for resources can optimally occur with what I call “pious” preferences in a large
+population, yet this is not so with warm-glow and other preferences. In showing this, I identify a new
+large-number effect different from that usually associated with free-riding behaviour when charitable
+donations contribute to only a public good. “Pious preferences” are “prosocial” by internalising the
+amount given to the poor, reflecting the religious precept to love neighbours like yourself. They are in
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+FRASER
+
+FRASER
+
+the spirit of Becker as everyone internalising aggregate transfers to the poor makes this a public good.
+I show also that a charity bundling transfers and public good supply when people have pious tastes
+can greatly increase giving compared to a case of non-pious preferences. I think this explains the large
+amount of giving to religion and use of much of the receipts for the poor.
+My analysis works precisely because aggregate private transfers to the poor function as a public
+good. When they do not, as with BBV, Andreoni warm-glow or Brown preferences, where aggregate
+private transfers are not analysed explicitly, the analysis does not work in the sense that the second
+large-number effect militating against transfers that I identify operates to prevent transfers being optimal in a large congregation.
+Explanations for giving to religious charities differing superficially from mine exist. These must
+also stress utility from transfers to explain transfers. For example, churchgoers might give as they think
+their Church more trustworthy than other organizations. But this leaves using donations for transfers
+unexplained. Again, parishioners could feel closer to their own Church's poor members than to others'.
+But how do we model a “closer connection”, except as preference between types reflected in the
+utility function? For example, greater weight could be put on transfers to their own religion or race
+(cf. Alesina et al., 1999). As “11 o'clock Sunday morning continues to be the most segregated hour in
+America” (Hartford Institute, 2015), much religious giving allows donors to improve welfare only for
+those with whom they identify. People might also think that giving to the poor increases their chance
+of heaven. If this matters to them, they must have an in-life evaluation of post-life utility. This must
+increase in giving—for either the probability of getting to heaven to enjoy the post-life utility or/and
+the post-life utility itself increases with giving in life (as a good giver sits closer to the Deity). But, in
+all cases, this is reflected in the utility of transfers.
+Several authors (e.g., Andreoni & Payne, 2013; Feldstein, 1975; List, 2011) suggest religious
+giving differs from other forms. It is less cyclical (List, 2011), less price-elastic (Feldstein, 1975), and
+a donor's piety decides the amount given (McKitrick et al., 2013). So, its motivation is not narrowly
+economic. Empathetic agents whose utility responds positively to total giving to the poor capture this.
+However, religious precepts might make worshippers feel moral constraints others do not—constraints
+not subsumed in utility functions, unlike with pious preferences. The constraints could reflect norms
+for giving—for example, tithing. Donors could then suffer a loss for how much their giving deviates
+from the “norm”, and balance disutility from giving (via lost consumption) with that loss. I will pursue
+this in future.
+Lastly, I have ignored administration costs not directly benefiting charity targets. My G is not
+funding to maintain the charity's structure. Usually, consumers do not see administration costs as a
+public good, much less comparable to a Church building or pastor.
+ACKNOWLEDGEMENT
+I thank the University of Leicester's Economics Department for support. I had useful comments from
+Roland Benabou, David Reinstein, Godfrey Charles-Cadogan, and seminar attendees at the Universities of Birmingham, Hull and Lingnan, and the 2016 Public Economic Theory and EEA/ESEM
+Conferences. I am especially indebted to 4 anonymous referees and the Editor of this journal for many
+helpful suggestions that helped me to clarify my ideas and to improve the paper.
+CONFLICT OF INTEREST
+The authors declared that they have no conflicts of interest to this work.
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+518
+
+ORCID
+Clive D. Fraser
+
+https://orcid.org/0000-0001-5942-6493
+
+REFERENCES
+
+Alesina, A., Baqir, R., & Easterly, W. (1999). Public goods and ethnic divisions. Quarterly Journal of Economics,
+114(4), 1243–1284. https://doi.org/10.1162/003355399556269
+Alesina, A., & Giuliano, P. (2011). Preferences for redistribution. In J. Benhabib, A. Bisin, & M. O. Jackson (Eds.),
+Handbook of social economics (Vol. 1A, pp. 93–132). North-Holland.
+Allard, S. W. (2008). A comparison of faith-based and secular nonprofit service providers. In S. W. Allard (Ed.), Out
+of reach: Place, poverty, and the new American welfare state (pp. 118–144). Yale University Press. https://doi.
+org/10.12987/yale/9780300120356.003.0005
+Allouch, N. (2013). A competitive equilibrium for a warm-glow economy. Economic Theory, 53(1), 269–282. https://
+doi.org/10.1007/s00199-012-0689-z
+Andreoni, J. (1988). Privately provided public goods in a large economy: The Limits of altruism. Journal of Public
+Economics, 35(1), 57–73. https://doi.org/10.1016/0047-2727(88)90061-8
+Andreoni, J. (1989). Giving with impure altruism: Applications to charity and Ricardian equivalence. Journal of Political Economy, 97(6), 1447–1458. https://doi.org/10.1086/261662
+Andreoni, J. (1990). Impure altruism and donations to public goods: A theory of warm-glow giving. Economic Journal,
+100(401), 464–477. https://doi.org/10.2307/2234133
+Andreoni, J. (2006). Philanthropy. In S.-C. Kolm & Y. Mercier Ythier (Eds.), Handbook of giving, reciprocity and
+altruism (Vol. 1, pp. 1201–1269). North-Holland.
+Andreoni, J., & Bergstrom, T. C. (1996). Do government subsidies increase the private supply of public goods? Public
+Choice, 88(3–4), 295–308. https://doi.org/10.1007/bf00153235
+Andreoni, J., & Payne, A. A. (2013). Charitable giving. In A. A. Auerbach, R. Chetty, M. S. Feldstein, & E. Saez (Eds.),
+Handbook of public economics (Vol. 5). Elsevier Science B.V. https://doi.org/10.1016/B978-0-444-53759-1.00001-7
+Atkinson, A. B. (2009). Giving overseas and public policy. Journal of Public Economics, 93(5–6), 647–653. https://doi.
+org/10.1016/j.jpubeco.2008.12.001
+Auten, G. E., Sieg, H., & Clotfelter, C. H. (2002). Charitable giving, income and taxes: An analysis of panel data. American Economic Review, 92(1), 371–382. https://doi.org/10.1257/000282802760015793
+Becker, G. M. (1974). A theory of social interactions. Journal of Political Economy, 82(6), 1063–1093. https://doi.
+org/10.1086/260265
+Bekkers, R., & Wiepking, P. (2011). Who gives? A literature review of predictors of charitable giving part
+one: Religion, education, age and socialisation. Voluntary Sector Review, 2(3), 337–365. https://doi.
+org/10.1332/204080511X6087712
+Bergstrom, T. C., Blume, L., & Varian, H. R. (1986). On the private provision of public goods. Journal of Public
+Economics, 29(1), 25–49. https://doi.org/10.1016/0047-2727(86)90024-1
+Biddle, J. E. (1992). Who benefits from the activities of America's religious congregations? In C. T. Clotfelter (Ed.),
+Who benefits from the nonprofit sector? University of Chicago Press.
+Bilodeau, M., & Slivinski, A. (1997). Rival charities. Journal of Public Economics, 66(3), 449–467. https://doi.
+org/10.1016/S0047-2727(97)00046-7
+Boberg-Fazlić, N., & Sharp, P. (2017). Does welfare spending crowd out charitable activity? Evidence from historical
+England under the poor laws. Economic Journal, 127(599), 50–83. https://doi.org/10.1111/ecoj.12251
+Bourlès, R., Bramoullé, Y., & Perez-Richet, E. (2017). Altruism in networks. Econometrica, 85(2), 675–689.
+https://doi.org/10.3982/ECTA13533
+Brown, E. (1997). Altruism towards groups: The charitable provision of private goods. Nonprofit and Voluntary Sector
+Quarterly, 26(2), 175–184. https://doi.org/10.1177/0899764097262005
+Chang, W.-C. (2005). Religious giving, non-religious giving and after-life consumption. Topics in Economic Analysis &
+Policy, 5, 1–30. https://doi.org/10.2202/1538-0653.1421
+Clark, A., & Lelkes, O. (2006). Deliver us from evil: Religion as insurance. Working Paper PER 06/03. European
+Network on the Economics of Religion.
+Cnaan, R., & Yancey, G. I. (2000). Our hidden safety net. In E. J. Dionne Jr., & J. J. Jioulio Jr. (Eds.), What's God got to
+do with the American experiment? (pp. 153–159). Brookings Institution Press.
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+519
+
+FRASER
+
+FRASER
+
+Cornes, R., & Itaya, J.-I. (2010). On the private provision of two or more public goods. Journal of Public Economic
+Theory, 12(2), 363–385. https://doi.org/10.1111/j.1467-9779.2009.01455.x
+Cornes, R., & Sandler, T. (1984). Easy riders, joint production, and public goods. Economic Journal, 94(375), 580–594.
+https://doi.org/10.2307/2232704
+Cornes, R., & Sandler, T. (1994). The comparative static properties of the impure public good model. Journal of Public
+Economics, 54(3), 403–421. https://doi.org/10.1016/0047-2727(94)90043-4
+Cox, D. (1987). Motives for private income transfers. Journal of Political Economy, 95(3), 508–546. https://doi.
+org/10.1086/261470
+Cox, D., Hansen, B. E., & Jiminez, E. (2004). How responsive are private transfers to income? Evidence from a laissez-faire
+economy. Journal of Public Economics, 88(9–10), 2193–2219. https://doi.org/10.1016/S0047-2727(03)00069-0
+Cox, D., & Jakubson, G. (1995). The connection between public transfers and private interfamily transfers. Journal of
+Public Economics, 57(1), 129–167. https://doi.org/10.1016/0047-2727(94)01438-T
+de Wit, A., & Bekkers, R. H. F. P. (2017). Government support and charitable donations: A meta-analysis of the
+crowding-out hypothesis. Journal of Public Administration Research and Theory, 27, 301–319. https://doi.
+org/10.1093/jopart/muw044
+Echazu, L., & Nocetti, D. (2015). Charitable giving: Altruism has no limits. Journal of Public Economic, 125, 46–53.
+https://doi.org/10.1016/j.jpubeco.2015.03.002
+Evren, Ö., & Minardi, S. (2017). Warm-glow giving and freedom to be selfish. Economic Journal, 127(603), 1381–
+1409. https://doi.org/10.1111/ecoj.12351
+Faias, M., Moreno-Garciá, E., & Wooders, M. H. (2014). A strategic market game approach for the private provision of
+public goods. Journal of Dynamics and Games, 1(2), 283–298. https://doi.org/10.3934/jdg.2014.1.283
+Feldstein, M. S. (1975). The income tax and charitable contributions: Part II – The impact on religious, educational and
+other organizations. National Tax Journal, 28(2), 209–226. https://doi.org/10.1086/ntj41862054
+Fraser, C. D. (1992). The uniqueness of Nash equilibrium in the private provision of public goods: An alternative proof.
+Journal of Public Economics, 49(3), 389–390. https://doi.org/10.1016/0047-2727(92)90076-R
+Fraser, C. D. (1996). On the provision of excludable public goods. Journal of Public Economics, 60(1), 111–130. https://
+doi.org/10.1016/0047-2727(95)01512-4
+Fraser, C. D. (2006). What's the good in giving? A (small) contribution to the economics of charity. University of
+Leicester Working Paper. See an early version at: https://ifs.org.uk/peuk/peuk_wp0205.pdf (ifs.org.uk)
+Ghosh, S., Karaivanov, A., & Oak, M. (2007). A case for bundling public good contributions. Journal of Public
+Economic Theory, 9(3), 425–449. https://doi.org/10.1111/j.1467-9779.2007.00313.x
+Hartford Institute for Religion Research. (2015). Fast facts about American religion. Accessed 20 December 2018.
+http://hirr.hartsem.edu/research/fastfacts/fast facts.html
+Hrung, W. B. (2004). After-life consumption and charitable giving. American Journal of Economics and Sociology,
+63(3), 731–745. https://doi.org/10.1111/j.1536-7150.2004.00312.x
+Hungerman, D. M. (2005). Are Church and state substitutes? Evidence from the 1996 welfare reform. Journal of Public
+Economic, 89(11–12), 2245–2267. https://doi.org/10.1016/j.jpubeco.2004.12.009
+Karlan, D., & List, J. A. (2007). Does price matter in charitable giving? Evidence from a large-scale natural field experiment. American Economic Review, 97(5), 1774–1793. https://doi.org/10.7910/DVN/27853
+Kotchen, M. J. (2006). Green markets and private provision of public goods. Journal of Political Economy, 114(4),
+816–834. https://doi.org/10.1086/506337
+List, J. A. (2011). The market for charitable giving. Journal of Economic Perspectives, 25(2), 157–180. https://doi.
+org/10.1257/jep.25.2.157
+McKitrick, M. A., Landres, J. S., Ottoni-Wilhelm, M., & Hayat, A. D. (2013). Connected to give: Faith communities.
+Jumpstart Labs.
+Ribar, D. C., & Wilhelm, M. O. (2002). Altruistic and joy-of-giving motivations in charitable behavior. Journal of
+Political Economy, 110(2), 425–457. https://doi.org/10.1086/338750
+Roberts, R. D. (1984). A positive model of private charity and public transfers. Journal of Political Economy, 92(1),
+136–148. https://doi.org/10.1086/261212
+Scharf, K. A., & Smith, S. (2015). The price elasticity of charitable giving: Does the form of tax relief matter? International Tax and Public Finance, 22(2), 330–352. https://doi.org/10.1007/s10797-014-9306-3
+Scheve, K., & Stasavage, D. (2006). Religion and preferences for social insurance. Quarterly Journal of Political
+Science, 3, 255–286. https://doi.org/10.1561/100.00005052
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+520
+
+Taussig, M. K. (1967). Economic aspects of the personal income tax treatment of charitable contributions. National Tax
+Journal, 20, 1–19. https://doi.org/10.1086/ntj41792124
+The Philanthropy Roundtable. Accessed 01 September 2021. https://www.philanthropyroundtable.org/
+Thornton, J. P., & Helms, S. (2013). Afterlife incentives in charitable giving. Applied Economics, 45(19), 2779–2791.
+https://doi.org/10.1080/00036846.2012.678984
+Uler, N. (2009). Public good provision and redistributive taxation. Journal of Public Economics, 93(3–4), 440–453.
+https://doi.org/10.1016/j.jpubeco.2008.09.008
+U.S. Bureau of Labour Statistics. (2013). Consumer expenditure survey. U.S. Bureau of Labour Statistics.
+Vicary, S. (1997). Joint production and the private provision of public goods. Journal of Public Economics, 63(3),
+429–445. https://doi.org/10.1016/S0047-2727(96)01602-7
+Warr, P. G. (1982). Pareto optimal redistribution and private charity. Journal of Public Economics, 19(1), 131–138.
+https://doi.org/10.1016/0047-2727(82)90056-1
+Warr, P. G. (1983). The private provision of a public good is independent of the distribution of income. Economics.
+Letters, 13(2–3), 207–211. https://doi.org/10.1016/0165-1765(83)90087-3
+
+SUPPORTING INFORMATION
+Additional supporting information can be found online in the Supporting Information section at the
+end of this article.
+How to cite this article: Fraser, C. D. (2022). Faith? Hope? Charity? Religion explains
+giving when warm glow and impure altruism do not. The Manchester School, 90(5), 500–523.
+https://doi.org/10.1111/manc.12415
+APPENDIX
+Proof of Proposition 1. In a symmetric Nash equilibrium for an arbitrary n h with only the h type contribut[
+]
+[
+]
+ing at λ ≤ 1, the optimal g h satisfies FOCs
+𝐴𝐴
+𝐴𝐴𝐴𝐴𝐺𝐺 𝑚𝑚ℎ − 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) = 𝑈𝑈𝑥𝑥 𝑚𝑚ℎ − 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+[
+(
+)
+] ( 𝑙𝑙
+)
+[
+(
+)
+]
+and
+𝐴𝐴
+𝐴𝐴𝐴𝐴𝐺𝐺 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) ≤ 𝑛𝑛 +𝜆𝜆−1
+𝑈𝑈𝑥𝑥 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) (see
+𝑛𝑛𝑙𝑙
+𝑛𝑛𝑙𝑙
+𝑛𝑛𝑙𝑙
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+521
+
+FRASER
+
+inequality (17a) and Equation (17b)). The first FOC solves implicitly for g h as a function of λ, m h and n h,
+independent of m l and n l, written as g(λ) with dependence on m h and n h suppressed. In the expression
+[
+(
+)
+]
+[
+(
+)
+for ­
+signing, consider
+𝐴𝐴
+𝐴𝐴𝑙𝑙 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 + (1 − 𝜆𝜆)∕𝑛𝑛𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) −𝑈𝑈𝑥𝑥 𝑚𝑚𝑙𝑙 + (1 − 𝜆𝜆)∕𝑛𝑛𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+]
+[
+(
+)
+]
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) . With λn hg h(λ) fixed for type l, by concavity
+𝐴𝐴
+𝐴𝐴𝑥𝑥 𝑚𝑚𝑙𝑙 + (1 − 𝜆𝜆)∕𝑛𝑛𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+(
+)
+[
+]
+increases in n l to a finite maximum
+when 𝐴𝐴𝑙𝑙 → 𝐴𝐴∞. As (1 − 𝜆𝜆)∕𝑛𝑛𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆) decreases
+𝐴𝐴
+𝐴𝐴𝑥𝑥 𝑚𝑚𝑙𝑙 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) 𝐴𝐴
+[
+(
+)
+]
+in n l, by supermodularity (Assumption𝐴𝐴4(i)) 𝐴𝐴𝐺𝐺 𝑚𝑚𝑙𝑙 + (1 −(𝜆𝜆)∕𝑛𝑛[𝑙𝑙 𝑛𝑛ℎ 𝑔𝑔(ℎ (𝜆𝜆),)𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) decreases])
+to a ( [
+[ 𝑙𝑙
+]
+1−𝜆𝜆
+𝑙𝑙
+ℎ
+ℎ
+ℎ
+ℎ
+l
+ℎ
+ℎ
+𝐴𝐴
+𝑈𝑈𝑥𝑥 𝑚𝑚 + 𝑛𝑛𝑙𝑙 𝑛𝑛 𝑔𝑔 (𝜆𝜆), 𝜆𝜆𝜆𝜆 𝑔𝑔 (𝜆𝜆) ∕ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙
+finite 𝐴𝐴
+limit 𝐴𝐴𝐺𝐺 𝑚𝑚 , 𝜆𝜆𝜆𝜆 𝑔𝑔 (𝜆𝜆) . Hence, as n increases,
+(
+)
+])
+]) ( [
+( [ 𝑙𝑙
+]) ( [
+])
+ℎ (𝜆𝜆)
+attains a maximum,
+∕ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+𝐴𝐴
+𝑈𝑈𝑥𝑥 𝑚𝑚 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) ∕ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+𝑛𝑛𝑙𝑙
+[
+[ 𝑙𝑙
+])
+𝐴𝐴 if 𝐴𝐴𝑙𝑙 ≥ 𝑈𝑈𝑥𝑥 𝑚𝑚𝑙𝑙 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔
+𝑚𝑚 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) . The sum of the last two terms in the expression to be signed is non-negative
+[
+(
+𝑈𝑈𝑥𝑥 𝑚𝑚𝑙𝑙 + 1−𝑙𝑙
+[
+]
+[
+]
+𝑛𝑛
+𝑙𝑙 ≥ 𝑈𝑈 𝑚𝑚𝑙𝑙 , 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) ∕𝑈𝑈
+𝑙𝑙
+ℎ ℎ
+𝑙𝑙
+𝑙𝑙
+𝐴𝐴
+𝐴𝐴𝐴 𝑙𝑙 finite and defined 𝐴𝐴by lim [ ( 1−
+𝑥𝑥
+𝐺𝐺 𝑚𝑚 , 𝜆𝜆𝜆𝜆 𝑔𝑔 (𝜆𝜆) . So, 𝐴𝐴for 𝐴𝐴 ≥ 𝑛𝑛̂ , with
+𝑛𝑛→∞ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 +
+[
+(
+)
+]
+[ 𝑙𝑙 ℎ ℎ ]
+𝑈𝑈𝑥𝑥 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆),𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+𝑚𝑚
+𝑈𝑈
+,𝜆𝜆𝜆𝜆
+𝑔𝑔
+(𝜆𝜆)
+𝑙𝑙
+] = 𝑥𝑥
+≡ 𝑛𝑛̂ 𝑙𝑙
+lim [ ( 𝑛𝑛 )
+𝑈𝑈𝐺𝐺 [𝑚𝑚𝑙𝑙 ,𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)]
+𝑛𝑛→∞ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆 𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆),𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+, this sum is non-negative. Then the entire term for
+𝑙𝑙
+𝑛𝑛
+
+𝑛𝑛𝑙𝑙
+
+[
+(
+)
+[
+]
+signing is positive, as its first term is. 𝐴𝐴
+Also, 𝐴𝐴𝐺𝐺 𝑚𝑚ℎ − 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) ≥ 𝑈𝑈𝐺𝐺 𝑚𝑚𝑙𝑙 + 1−𝜆𝜆
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆)
+𝑙𝑙
+𝑛𝑛
+
+FRASER
+
+]
+𝑛𝑛ℎ 𝑔𝑔 ℎ (𝜆𝜆), 𝜆𝜆𝜆𝜆ℎ 𝑔𝑔 ℎ (𝜆𝜆) by UGx ≥ 0. So, I can instead combine the first and third terms in the expressions for signing
+
+to conclude that their sum is non-negative, thus the whole expression is positive
+𝐴𝐴 if 𝐴𝐴ℎ ≥ 𝑛𝑛̂ 𝑙𝑙. ▪
+
+Proof of Proposition 3. (i) Consider λ such𝐴𝐴that 𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) > 0 = 𝑔𝑔 𝑝𝑝𝑝𝑝 (𝜆𝜆). The FOC is
+[
+[
+]
+]
+𝑈𝑥 𝑚ℎ − 𝑔 𝑝ℎ (𝜆), 𝜆𝑛ℎ 𝑔 𝑝ℎ (𝜆), (1 − 𝜆)𝑛ℎ 𝑔 𝑝ℎ (𝜆) − 𝜆𝑈𝐺 𝑚ℎ − 𝑔 𝑝ℎ (𝜆), 𝜆𝑛ℎ 𝑔 𝑝ℎ (𝜆), (1 − 𝜆)𝑛ℎ 𝑔 𝑝ℎ (𝜆)
+(A1)
+[
+]
+−(1 − 𝜆)𝑈𝑇 𝑚ℎ − 𝑔 𝑝ℎ (𝜆), 𝜆𝑛ℎ 𝑔 𝑝ℎ (𝜆), (1 − 𝜆)𝑛ℎ 𝑔 𝑝ℎ (𝜆) = 0
+Differentiating Equation (A1)𝐴𝐴w.r.t. 𝐴𝐴, omitting arguments and script h on utility terms,
+𝑛ℎ 𝑔 𝑝ℎ [𝑈𝑥𝐺 − 𝑈𝑥𝑇 − (1 − 2𝜆)𝑈𝐺𝑇 − 𝜆𝑈𝐺𝐺 + (1 − 𝜆)𝑈𝑇 𝑇 ] + 𝑈𝑇 − 𝑈𝐺
+
+′
+
+𝑔 𝑝ℎ (𝜆) =
+≡
+
+
+
+𝑈𝑥𝑥 − 𝜆 (𝑛ℎ + 1) 𝑈𝑥𝐺 − (1 − 𝜆) (𝑛ℎ + 1) 𝑈𝑥𝑇 + 2𝜆(1 − 𝜆)𝑛ℎ 𝑈𝐺𝑇 + 𝜆2 𝑛ℎ 𝑈𝐺𝐺 + (1 − 𝜆)2 𝑛ℎ 𝑈𝑇 𝑇
+Γ
+Δ
+
+(A2)
+
+By the second-order condition, Δ < 0. But, Γ is ambiguously-signed,
+𝐴𝐴 so 𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) is. At λ = 1,
+′
+
+𝑛𝑛ℎ 𝑔𝑔 𝑝𝑝𝑝 [𝑈𝑈𝑥𝑥𝑥𝑥 − 𝑈𝑈𝑥𝑥𝑥𝑥 + 𝑈𝑈𝐺𝐺𝐺𝐺 − 𝑈𝑈𝐺𝐺𝐺𝐺 ] + 𝑈𝑈𝑇𝑇 − 𝑈𝑈𝐺𝐺
+′
+𝑔𝑔 𝑝𝑝𝑝 (1) =
+≡ Γ1 ∕Δ1
+(
+)
+(A3)
+𝑈𝑈𝑥𝑥𝑥𝑥 − 𝑛𝑛ℎ + 1 𝑈𝑈𝑥𝑥𝑥𝑥 + 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺𝐺𝐺
+
+Again, Δ1 < 0 by concavity and supermodularity,
+𝐴𝐴 but 𝐴𝐴 𝑝𝑝𝑝 (1) is ambiguously-signed as Γ1 is.
+(ii) If U(x,G,T) is additively separable, Equation (A2) becomes
+′
+
+𝑛𝑛ℎ 𝑔𝑔 𝑝𝑝𝑝 [−𝜆𝜆𝜆𝜆𝐺𝐺𝐺𝐺 + (1 − 𝜆𝜆)𝑈𝑈𝑇𝑇 𝑇𝑇 ] + 𝑈𝑈𝑇𝑇 − 𝑈𝑈𝐺𝐺
+′
+Γ
+𝑔𝑔 𝑝𝑝𝑝 (𝜆𝜆) =
+≡ 2
+(A4)
+2
+Δ2
+𝑈𝑈𝑥𝑥𝑥𝑥 + 𝜆𝜆2 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺𝐺𝐺 + (1 − 𝜆𝜆) 𝑛𝑛ℎ 𝑈𝑈𝑇𝑇 𝑇𝑇
+[
+]
+′
+So, as n hg ph = G at λ𝐴𝐴= 1, 𝐴𝐴 𝑝𝑝𝑝 (1) = [𝑈𝑈𝑇𝑇 − 𝑈𝑈𝐺𝐺 − 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 ] ∕ 𝑈𝑈𝑥𝑥𝑥𝑥 + 𝑛𝑛ℎ 𝑈𝑈𝐺𝐺𝐺𝐺 𝐴𝐴< 0 if − 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 ∕𝑈𝑈𝐺𝐺 ≥ 1.
+
+(iii) If U(x, G, T) is log-Cobb–Douglas,
+𝐴𝐴
+− 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 ∕𝑈𝑈𝐺𝐺 = 1. From𝐴𝐴(ii), 𝐴𝐴 𝑝𝑝𝑝 (1) < 0.
+𝐴𝐴 For 𝐴𝐴 ∈ (0, 1), if
+′
+
+𝐴𝐴
+𝐴𝐴
+
+𝐴𝐴 (.) does not satisfy Inada's condition re T, assume w.l.o.g. that the subutility for T is α3 ln(1 + T),
+
+In Γ2, 𝐴𝐴ℎ 𝑔𝑔 𝑝𝑝𝑝 (1 − 𝜆𝜆)𝑈𝑈𝑇𝑇 𝑇𝑇 = 𝑇𝑇 𝑇𝑇𝑇𝑇 𝑇𝑇 = −𝛼𝛼3 𝑇𝑇 (1 + 𝑇𝑇 )
+𝐴𝐴3 ∈ (0, 1).𝐴𝐴Then 𝐴𝐴𝑇𝑇 = 𝛼𝛼3 (1 + 𝑇𝑇 )−1 ; 𝑈𝑈𝑇𝑇 𝑇𝑇 = −𝛼𝛼3 (1 + 𝑇𝑇 )−2. 𝐴𝐴
+
+= −𝛼𝛼3 𝑇𝑇 (1 + 𝑇𝑇 )
+𝐴𝐴
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+522
+
+−2
+
+and
+
+𝑛ℎ 𝑔 𝑝ℎ (1 − 𝜆)𝑈
+
+𝑇 𝑇 + 𝑈𝑇 = −𝛼3 𝑇 (1 + 𝑇 )
+
+−2
+
++ 𝛼3 (1 + 𝑇 )
+
+⎧>⎫
+⎧>⎫
+⎪
+⎪ ⎪ 𝑇
+⎨=⎬ 0 as 1 ⎨=⎬ 1+𝑇 . So
+⎪<⎪
+⎪<⎪
+⎩ ⎭
+⎩ ⎭
+
+−1 ⎪
+
+𝐴𝐴ℎ 𝑔𝑔 𝑝𝑝𝑝 (1 − 𝜆𝜆)𝑈𝑈𝑇𝑇 𝑇𝑇 + 𝑈𝑈𝑇𝑇 > 0. Combining this𝐴𝐴with 𝐴𝐴𝐴𝐴ℎ 𝑔𝑔 𝑝𝑝𝑝 𝑈𝑈𝐺𝐺𝐺𝐺 + 𝑈𝑈𝐺𝐺 = 0 in the log-Cobb–Douglas U,
+
+Γ2 >𝐴𝐴0, so 𝐴𝐴 𝑝𝑝𝑝 (𝜆𝜆) < 0 for λ ≤ 1.
+′
+
+Proof of Proposition 7. Suppose α, β, and δ equal their counterparts α1, α2, and α3.
+[
+(
+)
+]
+Then Equations (24) and (24') only differ by the terms
+𝐴𝐴
+𝐴𝐴𝑙𝑙 𝑛𝑛𝑙𝑙 𝛽𝛽𝛽𝛽ℎ − 𝛽𝛽 + 𝛼𝛼𝛼𝛼ℎ 𝑔𝑔 𝐵𝐵𝐵 in
+(
+)
+the latter𝐴𝐴 cf. 𝐴𝐴𝐴𝐴ℎ − 𝛽𝛽 + 𝛼𝛼𝛼𝛼ℎ 𝑔𝑔 𝑝𝑝𝑝 in the former. I confine attention to situations where,
+with pious preferences (and redistribution,
+giving exceeds that without redistribution. In
+)
+other words,
+𝐴𝐴
+𝐴𝐴 𝑝𝑝𝑝 > 𝛽𝛽𝛽𝛽ℎ ∕ 𝛽𝛽 + 𝛼𝛼𝛼𝛼ℎ . So, at a given λ, m h, m l,n h, and n l, and at the same g,
+𝑚𝑙 𝑛𝑙
+
+⎧ ⎫
+⎧<⎫
+[ ℎ (
+) ] ⎪>⎪ [ ℎ (
+) ]
+⎪ ⎪
+ℎ
+𝑙
+𝑙
+ℎ
+𝛽𝑚 − 𝛽 + 𝛼𝑛 𝑔 ⎨=⎬ 𝛽𝑚 − 𝛽 + 𝛼𝑛 𝑔 as 𝑚 𝑛 ⎨=⎬ 1. So, Equations (24) and (24') imply
+⎪<⎪
+⎪>⎪
+⎩ ⎭
+⎩ ⎭
+
+⎧>⎫
+)
+]
+[
+]
+[
+(
+⎪ ⎪
+𝛽𝑚ℎ 𝑚𝑙 𝑛𝑙 + (1 − 𝜆)𝑚ℎ 𝑛ℎ (𝛽 + 𝛿) − 𝛽 + 𝛼𝑛ℎ 𝑚𝑙 𝑛𝑙 𝑔−(1−𝜆)𝑛ℎ 𝛽 + 𝛿 + 𝛼𝑛ℎ 𝑔 2 ⎨=⎬ 𝛼2 𝑚ℎ +
+⎪<⎪
+⎩ ⎭
+[
+)]
+[
+]
+(
+(1 − 𝜆)𝑚ℎ 𝑛ℎ (𝛼2 + 𝛼3 ) − 𝛼2 + 𝛼1 𝑛ℎ 𝑔 − (1 − 𝜆)𝑛ℎ 𝛼2 + 𝛼3 + 𝛼1 𝑛ℎ 𝑔 2
+⎧<⎫
+⎪
+⎨=⎬ 1. Now, if Equation (24) holds, if the arbitrary h-person's problem is concave,
+⎪>⎪
+⎩ ⎭
+
+⎪
+as                       𝑚𝑙 𝑛𝑙
+
+⎧>⎫
+⎧>⎫
+⎪ ⎪
+⎪
+⎪
+𝑙
+𝑙
+𝑔 𝑝ℎ ⎨=⎬ 𝑔 𝐵ℎ as                      𝑚 𝑛 ⎨=⎬ 1.
+⎪<⎪
+⎪<⎪
+⎩ ⎭
+⎩ ⎭
+
+14679957, 2022, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/manc.12415 by CochraneAustria, Wiley Online Library on [23/07/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+523
+
+FRASER
+
+

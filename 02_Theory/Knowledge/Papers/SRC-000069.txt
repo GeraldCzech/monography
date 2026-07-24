@@ -1,0 +1,1152 @@
+International Journal of Data and Network Science 8 (2024) 1047–1058 
+
+Contents lists available at GrowingScience 
+
+International Journal of Data and Network Science 
+
+homepage: www.GrowingScience.com/ijds 
+
+The role of engagement intention in mediating the relationship between brand equity and engagement 
+behavior moderated by social media context 
+
+Adhi Prasetioa* and Mufidatul Azmib 
+
+aDoctoral in Management, Lecturer and Researcher, Faculty Economic and Business, Telkom University, Bandung, Indonesia 
+bMaster of Management Student, Faculty Economic and Business, Telkom University, Bandung, Indonesia 
+C H R O N I C L E                                 A B S T R A C T 
+
+Article history:  
+Received: August 10, 2023 
+Received in revised format: Sep-
+tember 28, 2023 
+Accepted: December 2, 2023 
+Available online: December 2, 
+2023 
+Keywords: 
+Brand equity  
+Engagement intention  
+Social media  
+Engagement behavior 
+
+The COVID-19 pandemic has brought about significant transformations in various aspects of life. 
+Shifts in consumer behavior, for instance, can exert influence on global economic operations. This 
+situation  indirectly  boosts the  e-commerce  sector  while  expediting  the  decline  of  conventional 
+retail. Matahari Department Store is an example of a retail business adapting to this trend. Ma-
+tahari, a retail company, recently shifted its focus towards online marketing. On one of its social 
+media  platforms,  Matahari  consistently  presents  engaging  content.  Nevertheless,  this  does  not 
+necessarily imply that Matahari enjoys a high level of social media engagement. This study aims 
+to evaluate how brand equity influences engagement behavior, with engagement goals acting as a 
+mediator, while considering social media context as a moderating factor. The research employed 
+a quantitative approach with a causal orientation. The target population for this study comprises 
+the followers of the Matahi Department Store Instagram account. The sampling method employed 
+was purposive, indicating that the sample was selected based on specific criteria. Data collection 
+was conducted through the online distribution of questionnaires using Google Forms. The col-
+lected  data  was  analyzed  through  the  utilization  of  SMART  PLS  3.0  software  employing  the 
+Structural Equation Modeling (SEM) method. As per the research results, brand equity is influ-
+enced through engagement intention and exhibits a positive and statistically significant impact on 
+both consumption and donation behavior. Additionally, the connection between intention to be 
+involved and behavior in consumption is affected by media richness. 
+
+© 2024 by the authors; licensee Growing Science, Canada. 
+
+1.  Introduction 
+
+The emergence of COVID-19 has led to significant alterations in various facets of daily life. COVID-19, an infectious illness 
+caused by a coronavirus initially identified in Wuhan, China, subsequently disseminated globally (Kemkes, 2023). This served 
+as the basis for many countries worldwide to institute lockdown measures. In Indonesia, they introduced Large-Scale Social 
+Restrictions (PSBB) as a strategy to manage the spread of the coronavirus. The implementation of PSBB marked the onset of 
+transformations in various aspects of individuals' lives, influencing areas such as education, employment, and consumer hab-
+its, thereby impacting the global economy (Ji et al., 2022; Luo et al., 2023).  
+
+The COVID-19 pandemic has had an indirect impact on consumer shopping patterns, resulting in a 22% surge in E-Commerce 
+enterprises. Conversely, it has led to a 15% decrease in the expansion of modern commerce and traditional retail (Pahmi et 
+al.,  2022).  COVID-19  has  accelerated  the  decline  of  traditional  retail,  presenting  significant  challenges  for  the  industry 
+(Lashgari & Shahab, 2022). In the initial quarter of 2021, Matahari Department Store incurred losses amounting to 95 billion. 
+Additionally, owing to a notable decrease in buying capacity and demand for clothing and fashion items, they anticipate the 
+
+* Corresponding author.  
+E-mail address: adhipras@telkomuniversity.ac.id  (A. Prasetio)  
+
+ISSN 2561-8156 (Online) - ISSN 2561-8148 (Print) 
+© 2024 by the authors; licensee Growing Science, Canada. 
+doi: 10.5267/j.ijdns.2023.12.003 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1048
+
+closure of 13 outlets in 2021 (Rika, 2021). Moreover, Matahari Department Store has halted direct acquisitions from several 
+brands, which include 361 Degrees, OVS, Home & Co, Monterosa, Catrice, RA Jeans, and Creater. This decision has also 
+contributed to a decline in the company's stock price (Shemi, 2020). 
+
+In response to the significant decline in business caused by the COVID-19 pandemic, Matahari Department Store has adapted 
+its operations. PT Matahari Department Store experienced a resurgence in 2022, with intentions to launch five new outlets, 
+aiming for a total of 160 stores by the conclusion of 2023. The company registered a notable 26.5% surge in sales in compar-
+ison to the corresponding period in 2021, and sales had escalated by an impressive 144.7% by the conclusion of the initial 
+quarter  of 2022 (Sandria, 2021). Matahari's boost  in sales can  be  attributed,  in part, to its  strategic  expansion  into digital 
+commerce. As stated by Matahari's CEO, Indonesia presents significant potential for the company's digital sales endeavors, 
+encompassing e-commerce utilization and the establishment of initial client interactions through omni-channel methods. Ma-
+tahari aims to augment its distribution channels for enhanced customer satisfaction. Moreover, the company plans to provide 
+a seamless integration of physical and digital encounters, ensuring engagement through both online and hands-on interactions. 
+This approach is designed to entice customers back to their retail sector (Purnomo, 2021). In particular, social media has 
+emerged as a crucial platform for businesses, notably for entities like Matahari, to engage with their customer base and employ 
+diverse marketing strategies. Given its extensive public adoption, it has become a potent tool for businesses to engage, com-
+municate, and showcase their offerings to a broad audience. Its growing accessibility and reliability contribute to its escalating 
+popularity.  These  aspects  have captured  the  interest of  marketers, prompting them  to closely scrutinize  and monitor  their 
+social media marketing endeavors (Prasetio et al., 2022). Consequently, Matahari has seamlessly integrated social media into 
+their digital marketing channels, enabling them to effectively connect and interact with their clientele in the online sphere 
+(Seo & Park, 2018). The statistics from We Are Social underscore the significant impact of social media in Indonesia. With 
+nearly 167 million active users as of January 2023, constituting approximately 60.4% of the nation's overall population, it's 
+evident that social media has become deeply ingrained in the daily lives of Indonesians. This extensive user base represents a 
+substantial opportunity for businesses like Matahari to engage with fresh clientele, connect with their audience, and promote 
+their offerings across various social media platforms (Kelly et al., 2010). Due to its significantly higher ad engagement rate 
+compared to electronic media, standing at 55% higher, social media marketing has garnered considerable attention. Addition-
+ally, it wields a substantial influence over total transactions, accounting for 90% of the overall impact (Seo & Park, 2018). In 
+today's landscape of future competitiveness, businesses heavily rely on skills and intellectual resources (Iskamto et al., 2021).  
+
+The significant influence of social media on marketing underscores the importance of utilizing it proficiently and precisely. 
+Matahari has adeptly seized the chance to promote its products to a wider client base through social media. Notably, on its 
+Instagram platform, Matahari boasts an impressive 1.8 million followers, follows 4 accounts, and has made a total of 9971 
+posts. The Instagram account of Matahari Department Store remains actively engaged, consistently sharing updates about 
+discount vouchers, merchandise, and ongoing events. Nevertheless, in comparison to its rivals, these endeavors have not yet 
+yielded a higher Engagement Rate for Matahari. The Engagement Rate serves as a metric for assessing the level of audience 
+interaction and involvement with specific content or activities, especially on social media platforms. It quantifies the ratio of 
+interactions  (such  as  likes,  comments,  and  shares)  to  the  number  of  followers  or  content  views  garnered  by  the  material 
+(Buffer, 2020). The engagement rate is employed to assess the impact of individual Instagram posts. When the computed ER 
+falls within the range of 3.5% to 6% or higher, it signifies that the content has achieved a high ER value (Ambarsari, 2023). 
+An alternative perspective suggests that an acceptable engagement rate for an Instagram account with 500K to 5M followers 
+falls between 1% and 3%. Consequently, it can be inferred that Matahari's engagement rate is still below the desired range. 
+Meaningful interactions on social media that facilitate direct, interactive, and prompt two-way communication with customers 
+can lead to increased customer satisfaction and delight. This, in turn, can impact Behavioral Engagement, which encompasses 
+actions like likes, shares, and comments, ultimately resulting in an elevation of the social media Engagement Rate (Onofrei 
+et al., 2022). Positive effects on Brand Equity can result from the presence of Behavioral Engagement (Mishra, 2021).  
+
+Brand Equity strongly impacts Engagement Intention. This study introduces a novel perspective on social media engagement 
+intention, evaluating the value of engagement actions like liking, commenting, and sharing in bolstering brand equity and 
+fostering brand loyalty (Coursaris et al., 2016). Brand Equity strongly impacts Engagement Intention. This study introduces 
+a novel perspective on social media engagement intention, evaluating the value of engagement actions like liking, comment-
+ing, and sharing in bolstering brand equity and fostering brand loyalty (Cao et al., 2021). The highest level of connection 
+occurs when  customers share  images or videos providing feedback  or  expressing their views about  the  organization.  The 
+research investigates how Engagement Intention influences these diverse levels of engagement behavior within the realm of 
+social media (Muntinga et al., 2011). As per the results of this study, the social media environment, particularly factors like 
+media richness and content credibility, intensifies the relationship between Engagement Intention and Engagement Behavior. 
+However, prior research did not explore whether Brand Equity could influence Engagement Behavior via Engagement Inten-
+tion. This research gap underscores the necessity for further studies on the potential impact of Brand Equity on different tiers 
+of Engagement Behavior, considering the mediating role of Engagement Intention and the moderating influence of the social 
+media context. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Prasetio and M. Azmi  / International Journal of Data and Network Science 8 (2024) 
+
+1049
+
+2. Theoretical Referential 
+
+2.1 Marketing  
+
+According to the definition, marketing is an internal company process that involves generating value for customers and fos-
+tering robust customer relationships to ultimately receive value from customers in return (Kotler and Amstrong, 2017). Mar-
+keting encompasses a series of activities, sequences, and processes designed to generate, convey, deliver, and trade valuable 
+offerings for consumers, clients, partners, and the broader community (Kotler and Keller, 2017). Marketing strategies are 
+shaped by factors like sales volume, market share, enhanced revenues, and overall profitability. These crucial metrics have a 
+significant impact on the direction and effectiveness of marketing initiatives within a company (Suherman, 2021). 
+
+2.2 Marketing Management 
+
+Marketing management involves the efficient creation and delivery of high-quality goods or services with the aim of attract-
+ing, enhancing, and retaining customers. It encompasses the deliberate and executed activities of a company (Kottler and 
+Keller, 2016). 
+
+2.3 Consumer Behavior 
+
+Consumer behavior encompasses every facet of acquiring, utilizing, and disposing of goods and services, including the deci-
+sion-making processes that culminate in their acquisition and utilization (Kottler and Keller, 2016).  
+
+2.4 Brand Equity 
+
+Brand equity refers to the value that is obtained, whether directly or indirectly, from a brand (Yuxuan, 2023). Brand equity is 
+the  extent  to which  individuals  recognize  and  trust  a brand,  along  with  the  sentiments  and preferences  associated  with  it 
+(Keller and Lehmann, 2006). Brand equity refers to the financial value that is augmented due to the trust and confidence 
+consumers have in a particular brand  (Kotler, 2017). Brand equity encompasses a brand's attractiveness, competitive edge, 
+and economic benefits. It encapsulates the intangible assets that contribute to a brand's value and success in the market (Al-
+gharabat et al., 2020). Brand equity signifies a brand's capacity to influence how individuals perceive the products it produces 
+(Warbung et al., 2023). 
+
+2.5 Customer Engagement 
+
+Customer engagement, as defined, pertains to the extent of a customer's interest and active participation in communication, 
+indicating a notably more dynamic response than mere impression. This level of involvement is more likely to bring value to 
+the organization. Businesses can leverage customer engagement to prioritize customer satisfaction by providing greater value 
+than competitors, aiming to establish trust and foster long-term commitment in the relationship (Kottler and Keller, 2016) 
+
+2.6 Social Media Marketing 
+
+Social  media  marketing  involves  disseminating  information  about  a  company's  product  or  service  through  diverse  online 
+marketing communication platforms accessible to the public. The objective is to cultivate a positive perception of the adver-
+tised product or service (Kottler and Keller, 2016). 
+
+2.7 Social Media 
+
+Consumers turn to social media to access information presented in various formats such as images, text, graphics, and videos 
+(Kottler dan Keller, 2016). Social media refers to an online platform that enables individuals and groups to exchange, partic-
+ipate in, and interact with user-generated content (Kaplan, 2010). Social media functions as a communication tool, enabling 
+users to connect and share content with others within their community (Qualman, 2009). Social media context is assessed 
+through the variables of media richness and content trustworthiness. Media richness pertains to a medium's capacity to convey 
+intricate information swiftly, incorporating interactivity and a greater range of nonverbal communication subtleties (Cao et 
+al., 2021). Media richness denotes the capability of a communication channel to convey information that is more intricate, 
+ambiguous, and diverse (Kock, 2005). On the other hand, content trustworthiness pertains to the degree of user confidence in 
+the reliability, truthfulness, and integrity of a piece of content (Metzger, 2007). Content trustworthiness is the unbiased as-
+sessment made by users regarding the honesty and authority of informative content (Jeng et al, 2018). The credibility of the 
+content  provider,  the  consistency  of  information,  and  the  reputation  of  the  source  all  contribute  to  the  trustworthiness  of 
+content (Flanagin & Metzger, 2013). The widespread use of social media has empowered individuals to exert influence over 
+their established audiences. Consequently, the marketing industry must evolve to cater to the expanding population of social 
+media users, with a particular focus on millennials, who tend to have higher disposable income (Sethuraman et al., 2023). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1050
+
+2.8 Social Media Engagement Intention 
+
+The notion of social media engagement intention refers to an individual's drive to actively take part in discussions on social 
+media platforms. Within this context, the desire for social connection, self-expression, interaction with peers, and access to 
+information were identified as the primary motivators for engagement intention (Kim and Ko, 2012). The intention to use 
+social media is influenced by the yearning for social approval, the inclination to share experiences, and the pleasure derived 
+from utilizing social media platforms (Lin, 2015). 
+
+2.9 Social Media Engagement Behavior 
+
+Social media engagement behavior refers to the active interactions individuals have with content, brands, or communities on 
+social media platforms, indicating substantial involvement and dynamic participation. This encompasses actions like express-
+ing  gratitude,  providing  feedback,  sharing,  and  connecting  with  content  or  other  individuals  within  this  framework 
+(Balakrishnan, 2019). There are three tiers of brand-related social media engagement behavior, with consumption representing 
+the  lowest  level  of  activity.  This  involves  activities  such  as  reading  comments,  viewing  images,  and  watching  videos 
+(Muntinga et al., 2011; Cao et al., 2021). Contributing on social media signifies a higher level of involvement that involves 
+peer-to-peer connectivity. Indicators of this include leaving comments and forwarding them to colleagues. The highest level 
+of participation is creation, where users generate and share images or videos to offer feedback or comments on the business. 
+
+2.10 Hypothesis 
+
+In the study conducted by Coursaris et al (2016) The study examined the relationship between brand equity and engagement 
+intention. The findings indicate that engagement intention exerts influence over engagement behavior, particularly in activities 
+like likes, comments, and shares, which can enhance brand equity. In the context of the brand's presence on social media, a 
+notable and positive correlation was discovered between brand equity and engagement intention. This research underscores 
+the robust connection between brand equity and engagement intention, underscoring their pivotal role in influencing customer 
+interaction and perception within the realm of social media networks. Research conducted by Simon & Tossan (2018) This 
+statement asserts that brand satisfaction has a positive influence on virtual media engagement. This research is also consistent 
+with prior studies conducted by Fagundes et al. (2021) which state that brand equity has a strong relationship with social 
+media  attributes  in  the  business-to-business  market.  In  this  context,  social  media  can  serve  as  a  communication  platform 
+focused on technology that emphasizes behavior, interaction, and engagement. 
+
+H1a: Brand equity has a positive impact on Engagement intention. 
+H1b:  Engagement  intention  has  a  positive  and  significant  mediating  effect  on  the  relationship  between  Brand  equity  and 
+Consumption. 
+H1c:  Engagement  intention  has  a  positive  and  significant  mediating  effect  on  the  relationship  between  Brand  equity  and 
+Contribution. 
+H1d:  Engagement  intention  has  a  positive  and significant  mediating  effect  on  the  relationship  between  Brand  equity  and 
+Creation. 
+
+Ji and Mieiro (2022) Social Media Engagement Behavior (SMEB) refers to user involvement with marketing content on social 
+media,  including both brand-generated  and peer-generated  content on platforms such as Facebook or YouTube. Research 
+conducted by Cao et al. (2021) Suggesting that engagement intention plays a pivotal role, it becomes evident that it serves as 
+a determining factor across all three tiers of engagement behavior namely, consumption, contribution, and creation. Within 
+this framework, engagement intention exerts a favorable impact on consumption and contribution engagement behavior; how-
+ever, its impact on creation behavior lacks statistical significance. Previous research conducted by supports this finding Bryła 
+et al. (2022) states that engagement intention has an influence on all levels of engagement behavior, namely consumption, 
+contribution, and creation, in social media marketing activities. Research conducted by (Kim & Kim, 2020) states that the 
+intention to engage positively on social media can influence engagement behavior. The intention to engage is considered a 
+crucial initial step in creating more active interactions (Brodie et al., 2011). The intention to engage is identified as a significant 
+factor in influencing engagement behavior leading to loyalty (Homburg et al., 2009). 
+
+H2a: Engagement intention has a positive impact on Consumption Behavior. 
+H2b: Engagement intention has a positive impact on Contribution Behavior. 
+H2c: Engagement intention has a positive impact on Creation Behavior. 
+
+Media richness involves the ability of media to convey information that is more complex, ambiguous, and diverse in a com-
+munication channel (Kock, 2005). Research conducted by Cao et al (2021) The research indicates that the social media envi-
+ronment exerts a beneficial impact on all three dimensions of engagement behavior—consumption, contribution, and creation. 
+Furthermore, the study unveils that diverse content requirements exist across various platforms. The concept of Media Rich-
+ness assists social media users in engaging more effortlessly. This is consistent with research conducted by previous studies 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Prasetio and M. Azmi  / International Journal of Data and Network Science 8 (2024) 
+
+1051
+
+(Onofrei et al., 2022) states that Social media interaction influences behavioral engagement. Additionally, this research aligns 
+with previous studies conducted by Ligita dan Inga (2021) states that Social media marketing communication significantly 
+influences customer engagement behavior.  
+
+H3a: Media Richness has a positive impact on Consumption Behavior. 
+H3b: Media Richness has a positive impact on Contribution Behavior. 
+H3c: Media Richness has a positive impact on Creation Behavior.  
+
+The  effectiveness  of  marketing  strategies  is  significantly  shaped  by  the  reliability  of  content  or  the  audience's  trust  in  it. 
+Content perceived as dependable by the audience is more inclined to effectively cultivate favorable connections with custom-
+ers. Cheung on Lestari (2022) Stating that content trustworthiness impacts purchase intention through Instagram. In the con-
+text of e-commerce, it demonstrates that a high level of trust can enhance consumers' purchase intent (Wang et al., 2022). 
+Therefore,  by  emphasizing  trust  in  content,  companies  can  enhance  positive  interactions  with  consumers  (Aloqool  & 
+Alsmairat, 2022). Trustworthy content can build stronger trust and engagement with the brand. This can also create a positive 
+long-term impact (Lestari, 2022). 
+
+H4a: Content Trustworthiness has a positive impact on Consumption Behavior. 
+H4b: Content Trustworthiness has a positive impact on Contribution Behavior. 
+H4c: Content Trustworthiness has a positive impact on Creation Behavior. 
+
+Liu et al. (2009) stating that media richness plays a crucial role in online acceptance. Media richness also has the potential to 
+influence the effectiveness of group support systems. Media richness moderates relationships in the context of communication 
+effectiveness. (Yoo & Alavi, 2014). Research conducted by Cao et al (2021) The study asserts that the association between 
+Engagement Intention and Engagement behavior is moderated by the degree of Media richness. This moderation by Media 
+richness was indeed observed. In cases of low media richness, there is a positive stimulation of passive engagement behavior. 
+However, within this context, this passive engagement results in reduced social media interaction due to a lack of engagement 
+(Shahbaznezhad et al., 2020).  
+
+H5a: Media Richness has a positive moderating effect on the relationship between Engagement intention and Creation Be-
+havior. 
+H5b: Media Richness has a positive moderating effect on the relationship between Engagement intention and Contribution 
+Behavior. 
+H5c: Media Richness has a positive moderating effect on the relationship between Engagement intention and Creation Be-
+havior. 
+
+Content  trustworthiness  is  influenced by factors  such  as the source of  information,  consistency,  and  the  reputation of the 
+content provider (Flanagin & Metzger, 2013). Content trustworthiness refers to users' objective evaluation of the credibility 
+and honesty of informational content. (Jeng et al, 2018). Research conducted by Huang & Liang (2021) Testing the moderating 
+effect of trustworthiness on online review platforms related to products and consumer responses. Trust in these reviews sub-
+sequently influences how consumers perceive the reviews. Trustworthiness strengthens the relationship between social media 
+users and the brand (Phua et al., 2017). In this context, trust in content plays a crucial role in interactions. 
+
+H6a: Content Trustworthiness has a positive moderating effect on the relationship between Engagement intention and Con-
+sumption Behavior. 
+H6b: Content Trustworthiness has a positive moderating effect on the relationship between Engagement intention and Con-
+tribution Behavior. 
+H6c: Content Trustworthiness has a positive moderating effect on the relationship between Engagement intention and Crea-
+tion Behavior. 
+
+Drawing upon the outcomes of prior studies as well as the formulated hypotheses, a research model is constructed, illustrated 
+in the subsequent representation.  
+
+Fig. 1. Framework (Coursaris et al., 2016 & Cao, et al., 2021) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1052
+
+3. Methodology 
+
+This research employs a quantitative approach with a descriptive method. The population in this study consists of all followers 
+of  Matahari  Department  Store's  Instagram  account,  totaling  1.8  million  followers  as  of  May  2,  2023,  who  have  visited  a 
+Matahari Department Store and are aged between 15 to 45 years, reflecting the highest percentage of Instagram users in 2023. 
+The sampling technique used is non-probability sampling through purposive sampling. Based on sample size calculations, a 
+minimum sample size of 170 respondents was determined. In this study, a total of 196 respondents were initially obtained, 
+but after a screening process, only 174 respondents met the initial criteria established. 
+
+Subsequently, these respondents were analyzed, and various characteristics were found to align with the analysis results. The 
+study was conducted utilizing a cross-sectional technique, since it took place throughout a single research period, from the 
+start of the study to the end, upon effectively addressing all research inquiries and deriving conclusions through statistical 
+examination. 
+
+4.  Result and Discussion 
+
+Based on the results of the descriptive analysis, it is evident that Matahari Department Store has a very strong brand equity, 
+with 90.1% of respondents agreeing. This indicates that Matahari Department Store has been effective in conveying the value 
+of its products to customers, both directly and indirectly. Engagement intention reflects the degree of consideration consumers 
+have regarding their involvement with social media. In this aspect, Matahari Department Store has performed reasonably well 
+in enticing customers to engage with its social media content, as evidenced by 88% of respondents agreeing. Social media 
+context, particularly media richness, has led customers to feel more inclined to engage with the brand's social media. Approx-
+imately 63.7% of respondents agree with this. Meanwhile, the content trustworthiness of Matahari's social media has been 
+rated positively, with 86.83% of respondents agreeing. Engagement behavior, specifically consumption and contribution be-
+havior towards Matahari Department Store's social media content, has been rated very positively, with over 80% of respond-
+ents agreeing. However, concerning creation behavior, where customers actively generate content related to Matahari's social 
+media, the performance is not as strong. A majority of respondents have not engaged in this highest level of engagement 
+behavior. 
+
+The study employed the SmartPLS 3.2.9 software along with the Partial Least Squares Structural Equation Modeling (PLS-
+SEM) measurement method for conducting the research. The assessment of the outer measurement model involved perform-
+ing tests to ensure validity and reliability. The objectives of the outer model is to define the constructions or variables (Hair 
+et al., 2016). The results of the outer model evaluation are presented as an overview of the analysis. 
+
+Fig. 2. Result PLS Algorithm Measurement Model 
+
+Source: Smart PLS, 2023 
+
+Following that, validity and reliability tests were performed to determine whether each indication in this study is valid and 
+reliable. In this study, the Average Variance Extracted (AVE) values were used to assess validity, while the Composite Reli-
+ability (CR) values were used to assess reliability. The AVE and CR values are shown in Table 1. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1  
+Result Validity and Reliabilty 
+
+A. Prasetio and M. Azmi  / International Journal of Data and Network Science 8 (2024) 
+
+1053
+
+Variable 
+Brand  Equity (BE) 
+Engagement Intention (EI) 
+Media Richness (MR) 
+Content Trustworthiness (CT) 
+Consumption Behavior (CSB) 
+Contribution Behavior (CTB) 
+Creation Behavior (CRB) 
+EI*MR*CSB 
+EI*CT*CSB 
+EI*MR*CTB 
+EI*CT*CTB 
+EI*MR*CRB 
+EI*CT*CRB 
+
+AVE Value 
+0.666 
+0.709 
+0.626 
+0.686 
+0.714 
+0.732 
+0.68 
+1.000 
+1.000 
+1.000 
+1.000 
+1.000 
+1.000 
+
+CR Value 
+0.833 
+0.863 
+0.704 
+0.851 
+0.867 
+0.817 
+0.842 
+1.000 
+1.000 
+1.000 
+1.000 
+1.000 
+1.000 
+
+Source: Smart PLS, 2023 
+
+The Average Variance Extracted (AVE) values for each variable in this investigation are shown in Table 1. All variables have 
+AVE values more than 0.50, and Composite Reliability (CR) values greater than 0.7 show that the indicators within each 
+variable are connected and accurately represent the relevant factors. As a result, they can be deemed valid and trustworthy. 
+
+Subsequently, the R Square (R2) test was conducted to determine the extent to which exogenous variables can explain the 
+variation in endogenous variables and to measure the level of their influence. The results of the R Square test are shown in 
+Table 2. 
+
+Table 2  
+R Square Result 
+
+Endogen Variable 
+
+Engagement Intention (EI) 
+Consumption Behavior (CSB) 
+Contribution Behavior (CTB) 
+Creation Behavior (CSB) 
+
+Source: Smart PLS, 2023 
+
+R-Square Value 
+0.555 
+0.573 
+0.845 
+0.637 
+
+In Table 2, it can be observed that the R2 value for engagement intention is 0.555, indicating that the engagement intention 
+variable can be explained by consumption, creation, and contribution behavior to the largest extent, which is 55.5%, with 
+45.5% of the variance attributed to other variables outside the study. Consumption behavior has an R2 value of 0.573, meaning 
+that this variable can be explained by engagement intention to the extent of 57.3%, with 42.7% of the variance attributed to 
+other variables outside the study. Contribution behavior has an R2 value of 0.845, indicating that this variable can be explained 
+by engagement intention to the extent of 84.5%, with 15.5% of the variance attributed to other variables outside the study. 
+Creation behavior has an R2 value of 0.637, meaning that this variable can be explained by engagement intention to the extent 
+of 67.3%, with 32.7% of the variance attributed to other variables outside the study.  
+
+Based on the classification by Chin (1998), if the R-Square value is above 0.33 but less than 0.67 (67%), it indicates a moderate 
+influence, while if it is above 0.67, it indicates a strong influence. In this study, the contribution behavior variable has a strong 
+influence, while engagement intention, consumption, and creation behavior have moderate influences. Next, the Q2 Predictive 
+Relevance test was conducted to represent the synthesis or validation and the adequacy function with the prediction between 
+manifest variables towards the estimation of construct parameters, where Q Square > 0 denotes that the model is predictive. 
+However, if Q Square is zero, it shows that the model is not predictive (Ghozali, 2014). 
+
+Table 3  
+Q Square Result 
+
+Brand Equity 
+Content Trustworthiness 
+EI*CT*CRB 
+EI*CT*CSB 
+EI*CT*CTB 
+EI*MR*CRB 
+EI*MR*CSB 
+EI*MR*CTB 
+Media Richness 
+Creation Behavior 
+Consumption Behavior 
+Engagement Intention 
+Contribution Behavior 
+
+Source: Smart PLS, 2023 
+
+SSO 
+696.000 
+696.000 
+174.000 
+174.000 
+174.000 
+174.000 
+174.000 
+174.000 
+522.000 
+696.000 
+696.000 
+696.000 
+522.000 
+
+SSE 
+696.000 
+696.000 
+174.000 
+174.000 
+174.000 
+174.000 
+174.000 
+174.000 
+522.000 
+404.659 
+417.197 
+426.682 
+206.234 
+
+Q2 (1-SSE/SSO) 
+
+0.419 
+0.401 
+0.387 
+0.605 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1054
+
+The Q2 predictive relevance values for the variable’s creation behavior, consumption behavior, engagement intention, and 
+contribution behavior are 0.419, 0.401, 0.387, and 0.605, respectively, according to Table 3. As a result, the total model of 
+the research, comprising both exogenous and endogenous factors, exceeds zero, suggesting that the research model is thought 
+to have predictive relevance. 
+
+To test the relationships between the researched variables, hypothesis testing was conducted using the PLS method and boot-
+strapping technique. The bootstrapping technique was employed to obtain the t-statistic values for each relationship or path 
+in the model. This hypothesis testing follows specific criteria: if the t-statistic value > 1.65 (one-tailed) and the beta coefficient 
+is positive, then the hypothesis can be accepted. Additionally, if the p-value > 0.05, the hypothesis can be considered signifi-
+cant. The results of the hypothesis testing can be found in Table 4. 
+
+Table 4  
+Boostraping Result 
+Hypothesis 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+H9 
+H10 
+H11 
+H12 
+H13 
+H14 
+H15 
+H16 
+H17 
+H18 
+H19 
+Source: SmartPLS, 2023 
+
+Causality 
+
+BE→EI 
+EI→CSB 
+EI→CTB 
+EI→CRB 
+BE→EI→CSB 
+BE→EI→CTB 
+BE→EI→CRB 
+MR→ CSB 
+MR→ CTB 
+MR→ CRB 
+CT→ CSB 
+CT→ CTB 
+CT→ CRB 
+EI*MR*CSB 
+EI*MR*CRB 
+EI*MR*CTB 
+EI*CT*CSB 
+EI*CT*CRB 
+EI*CT*CTB 
+
+Path Coefficient 
+0.745 
+0.874 
+0.843 
+-0.894 
+0.651 
+0.058 
+-0.666 
+0.076 
+0.843 
+0.084 
+0.096 
+0.251 
+0.056 
+0.127 
+0.059 
+-0.053 
+0.012 
+0.098 
+-0.048 
+
+T-Statictics 
+15.825 
+8.414 
+17.132 
+1.238 
+7.655 
+2.188 
+8.083 
+2.109 
+17.132 
+1.238 
+3.131 
+3.84 
+1.034 
+2.171 
+1.199 
+0.45 
+0.158 
+1.721 
+0.47 
+
+P-value 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+0.029 
+0.000 
+0.035 
+0.000 
+0.216 
+0.002 
+0.000 
+0.302 
+0.03 
+0.231 
+0.653 
+0.875 
+0.086 
+0.638 
+
+Conclusion 
+Accepted 
+Accepted 
+Accepted 
+Rejected 
+Accepted 
+Accepted 
+Rejected 
+Accepted 
+Accepted 
+Rejected 
+Accepted 
+Accepted 
+Rejected 
+Accepted 
+Rejected 
+Rejected 
+Rejected 
+Rejected 
+Rejected 
+
+Table 4 shows the bootstrapping results for hypothesis testing in this study. 10 of the 19 presented hypotheses were accepted, 
+while the remaining 9 were rejected. According to the findings, there is a significant association between Brand Equity and 
+engagement intention. There is a strong link between engagement intention and consumption and donation behavior. A robust 
+connection exists between brand equity and consumption and contribution behavior, with engagement intention acting as a 
+mediating factor. There is a strong link between media wealth and consumption as well as contribution behavior. There is a 
+strong link between content trustworthiness and both consumption and donation behavior. Furthermore, media wealth modi-
+fies the link between involvement intention and consumption behavior. 
+
+Brand equity has a large and favorable impact on engagement intention. This means that the stronger a company's Brand 
+Equity, the more likely it is that people will want to participate with the company's social media. The findings of this investi-
+gation are consistent with earlier research Coursaris (2016). This suggests that Brand Equity exerts a favorable and notable 
+influence on the intention to engage on social media platforms. A strong Brand Equity can drive increased consumer pur-
+chases, which can be achieved by building a strong presence on social media and fostering positive relationships. Therefore, 
+to achieve optimal brand equity and greater recognition among consumers, the company can enhance its relationship with 
+customers through social media by increasing audience engagement. 
+
+Engagement intention has a strong and favorable influence on consumption and donation behavior. This suggests that in-
+creased  levels of  Engagement  Intention  can  improve  both  consumption  and  donation  behavior. Furthermore,  engagement 
+intention mediates the association between brand equity and consumption behavior in a positive and significant way. Within 
+this framework, it signifies that an individual's inclination to actively participate in social media leads to an increased tendency 
+to consume the company's social media content, as well as engage in interactions like expressing approval, providing feed-
+back, and sharing the company's social media materials. This is consistent with research conducted by Cao et al. (2021) This 
+suggests that Engagement Intention exerts a constructive and noteworthy impact on both consumption behavior and contri-
+bution behavior. In this context, to enhance a positive relationship with customers on social media, companies can provide 
+content that boosts audience engagement intention, thereby increasing their level of engagement in observing the company's 
+social media content. 
+
+A notable correlation was identified between media richness and the reliability of content concerning consumption and con-
+tribution behavior. This implies that heightened levels of media richness and trustworthy content can amplify both consump-
+tion  and  contribution  behavior.  In  this  context,  it  implies  that  if  content  could  convey  complex  information  with  diverse 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A. Prasetio and M. Azmi  / International Journal of Data and Network Science 8 (2024) 
+
+1055
+
+nuances on social media, it will lead to increased audience interaction in terms of viewing the content and engaging with 
+comments, subsequently impacting the overall content views. This is consistent with findings from previous research by Cao 
+et al. (2021) It is suggested that Media Richness exerts a constructive and substantial impact on consumption and contribution 
+behavior. To cultivate a favorable connection with customers on social media, businesses can offer content that imparts intri-
+cate information with varied intricacies across social media platforms. Regarding content trustworthiness, in order to foster a 
+strong relationship with customers on social media, companies can offer content that provides reliable, accurate, and integrity-
+driven information. 
+
+In the context of this study, there was no notable correlation observed between each individual variable and consumption 
+behavior. This could potentially be attributed to the suboptimal performance of Matahari's creation behavior, which might 
+have influenced the results Shneiderman (2007). The lack of influence of engagement intention on creation behavior could 
+potentially be attributed to technical or skill limitations. Even with the intention, an individual may struggle to engage in 
+creation behavior if they lack the necessary technical skills. Additionally, emotional factors such as lack of confidence, fear 
+of judgment from others, or anxiety could also hinder both creation behavior and engagement intention (Baas et al., 2008). 
+Furthermore, this could also be attributed to the presence of other dominant variables that exert a stronger influence on creation 
+behavior compared to media richness. Deci (1985) states that intrinsic motivation stemming from personal satisfaction with 
+an activity can drive an individual to engage in creation behavior. Amabile (1996) states that the level of individual creativity 
+can influence the extent to which someone can engage in creation behavior. Dolan & Hons (2015) states that creation behavior 
+represents the highest level within engagement behavior, characterized by knowledge seeking, experience sharing, advocating, 
+socializing, co-developing, and affirming behaviors. This behavior becomes the most active and positive engagement behavior 
+related to brand involvement. However, even though it is the most active, the presence of consumption and contribution also 
+represents positively valued expressions of engagement. 
+
+In this study, moderation effects were only found between media richness and consumption behavior. Additionally, no mod-
+eration effects were observed in relation to other variables. Several factors that may contribute to the absence of moderation 
+effects among these variables include the differing research subjects and varying sample sizes. Dawson (2014) It can be stated 
+that in certain cases of moderation, moderation effects might exist, but the interactions between variables can be highly com-
+plex, leading to the absence of a straightforward linear pattern that is easy to interpret. 
+
+5. Conclusion 
+
+The objective of this study is to assess the role of engagement intention as an intermediary factor in the interplay between 
+brand equity and engagement behavior within the parameters of social media context, aligning with the research objectives 
+laid out in the introductory section. The findings derived from the SmartPLS data analysis reveal that engagement intention, 
+media richness, and content trustworthiness collectively exert a positive impact on engagement behavior, particularly in terms 
+of consumption and contribution behavior. The connection connecting brand equity and engagement behavior, specifically 
+consumption and contribution behavior, is mediated by engagement intention. Additionally, the correlation between intention 
+to engage and consumption behavior is influenced by the level of media richness. 
+
+By bolstering and upholding brand equity through the provision of customer-centric value, both directly and indirectly, the 
+inclination of the audience to engage with content experiences an elevation, resulting in heightened counts of views, likes, 
+comments, and shares. Moreover, media richness and content trustworthiness equally exert a positive impact on engagement 
+behavior, specifically in relation to consumption and contribution behavior. To enhance engagement behavior on the Matahari 
+department store's Instagram platform, their social media team should concentrate on augmenting and sustaining the con-
+sistency of media richness and content reliability. This encompasses encouraging audience members to engage with the con-
+tent by means of likes, comments, and shares. 
+
+Only a moderation effect, mediated by media richness, was discovered between engagement intention and consumption be-
+havior. Furthermore, no significant relationship was observed among variables with respect to creation behavior. In this con-
+text, creation behavior involves interactions such as giving reviews on social media or posting content related to Matahari's 
+products. This is impacted by internal concerns within the audience, such as a lack of self-assurance and apprehensions about 
+external judgment. Creation behavior represents the highest level of engagement behavior. It becomes the most active and 
+positive behavior related to brand involvement. Despite its high activity, consumption and contribution also represent posi-
+tively valued engagement expressions. 
+
+This study has certain limitations. Firstly, the participants considered for this research are solely individuals who follow Ma-
+tahari's social media presence in Indonesia, falling between the age range of 15 to 45, reflective of the predominant age bracket 
+of Instagram users. Secondly, the study's participant pool encompasses 174 respondents. Thirdly, the data collected for this 
+study pertains to the month of July 2023. Additionally, the sample size in this research solely represents the viewpoint of 
+Matahari department store followers, which might yield diverse outcomes if other subjects were involved. For forthcoming 
+research, it is advisable to employ a larger sample size. Subsequent investigations could also employ a mixed-method ap-
+proach,  merging  quantitative  and  qualitative  methodologies  to  attain  more  comprehensive  conclusions.  Furthermore,  the 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1056
+
+inclusion of new variables such as brand loyalty and brand awareness is recommended for further exploration. 
+
+References 
+
+Algharabat, R., Rana, N. P., Abdallah, A., & Baabdullah, A. (2020). Journal of Retailing and Consumer Services Investigating 
+the antecedents of customer brand engagement and consumer- based brand equity in social media. Journal of Retailing 
+and Consumer Services, 53(January 2019), 101767. https://doi.org/10.1016/j.jretconser.2019.01.016 
+
+Aloqool, A., & Alsmairat, M. (2022). The impact of social commerce on online purchase intention: The mediation role of 
+
+trust in social network sites. International Journal of Data and Network Science, 6(2), 509-516. 
+https://doi.org/10.5267/j.ijdns.2021.12.003 
+
+Amabile, T. (1996). Creativity in context: Update to “The Social Psychology of Creativity.” Westview Press. 
+Ambarsari,  R.  (2023).  Menghitung  Engagement  Rate  Instagram.  Mashmosem.Co.Id.  https://mashmoshem.co.id/cara-
+
+menghitung-engagement-rate-instagram/ 
+
+Baas, M., Dreu, C. K. W. De, & Nijstad, B. A. (2008). A Meta-Analysis of 25 Years of Mood – Creativity Research : Hedonic 
+Tone , Activation , or Regulatory Focus ? Psychological Bulletin, 134(6), 779–785. https://doi.org/10.1037/a0012815 
+Balakrishnan, B. K. (2019). Examining antecedents and outcomes of social media engagement behavior in the context of 
+
+brand pages. Journal of Product & Brand Management, 28(1), 19–33. 
+https://doi.org/https://doi.org/10.1016/j.jbusres.2019.113778 
+
+Brodie,  R.  J.,  Hollebeek,  L.  D.,  Jurić,  B.,  &  Ilić,  A.  (2011).  Customer  engagement:  Conceptual  domain,  fundamental 
+
+propositions, and implications for research. Journal of service research, 14(3), 252-271. 
+
+Bryła, P., Chatterjee, S., & Ciabiada-Bryła, B. (2022). The impact of social media marketing on consumer engagement in 
+sustainable consumption: A systematic literature review. International Journal of Environmental Research and Public 
+Health, 19(24), 16637. https://doi.org/10.3390/ijerph192416637 
+
+Buffer. (2020). State of Social Media (2020). 
+Cao, D., Meadows, M., Wong, D., & Xia, S. (2021). Understanding consumers ’ social media engagement behaviour : An 
+examination of the moderation effect of social media context. Journal of Business Research, 122(June 2020), 835–846. 
+https://doi.org/10.1016/j.jbusres.2020.06.025 
+
+Coursaris, C. K., Van Osch, W., & Balogh, B. A. (2016, January). Do Facebook likes lead to shares or sales? Exploring the 
+empirical links between social media content, brand equity, purchase intention, and engagement. In 2016 49th Hawaii 
+international conference on system sciences (HICSS) (pp. 3546-3555). IEEE. 
+
+Dawson, J. F. (2014). Moderation in Management Research : What , Why , When , and How. 1–19. 
+
+https://doi.org/10.1007/s10869-013-9308-7 
+
+Deci, E. L. (1985). Conceptualizations of Intrinsic · Motivation and Self-Determination. Springer Science+Business Media 
+
+New York, 11–40. https://doi.org/https://doi.org/10.1007/978-1-4899-2271-7_2 
+
+Dolan, R. M., & Hons, B. C. (2015). SOCIAL MEDIA ENGAGEMENT BEHAVIOUR : A USES AND GRATIFICATIONS 
+
+PERSPECTIVE. 
+
+Fagundes, L., Munaier, C. G., Paulo, U. D. S., & Paulo, S. (2021). The influence of social media and brand equity on business-
+
+to- business marketing. https://doi.org/10.1108/REGE-07-2021-0114 
+
+Flanagin,  A.  J.,  & Metzger,  M.  J.  (2013). Trusting  expert-  versus  user-generated  ratings  online:  The  role  of  information 
+29(4). 
+
+characteristics. 
+
+Computers 
+
+Behavior, 
+
+consumer 
+
+valence, 
+
+Human 
+
+and 
+
+in 
+
+volume, 
+https://doi.org/https://doi.org/10.1002/asi.20672 
+
+Ghozali. (2014). Aplikasi analisis Multivariate dengan Program SPSS. Badan Penerbit UNDIP. 
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2016). A primer on partial least squares structural equation modeling 
+
+(PLS-SEM). Sage Publications. 
+
+Homburg, C., Wieseke, J., & Hoyer, W. D. (2009). Social Identity and the Service – Profit. 73(March), 38–54. 
+Huang, G., & Liang, H. (2021). Uncovering the effects of textual features on trustworthiness of online consumer reviews : A 
+1–11. 
+
+of  Business  Research, 
+
+126(December 
+
+Journal 
+
+2020), 
+
+computational-experimental 
+https://doi.org/10.1016/j.jbusres.2020.12.052 
+
+approach. 
+
+Iskamto, D., Yapentra, A., Gultom, E., & Syahsudarmi, S. (2021). The Exploratory Factor Analysis on Firms Performance 
+of Micro and Small The Exploratory Factor Analysis on Firms Performance of Micro and Small Enterprises in Indonesia. 
+March 2022. 
+
+Jeng,  W.,  Mahmud,  J.  U.,  &  Al  Hasan,  M.  (2018).  Detecting  reliable  information  from  social  media:  A  survey.  ACM 
+
+Computing Surveys. 
+
+Ji, C., Mieiro, S., & Huang, G. (2022). How social media advertising features influence consumption and sharing intentions: 
+in  Interactive  Marketing,  16(1),  137-153.  
+
+The  mediation  of  customer  engagement.  Journal  of  Research 
+https://doi.org/10.1108/JRIM-04-2020-0067 
+
+Kaplan, A. M., & Haenlein, M. (2010). Users of the world, unite! The challenges and opportunities of Social Media. Business 
+
+horizons, 53(1), 59-68. 
+
+Keller, K.L., & Lehmann, D. . (2006). Brands and branding: research findings and future priorities. Marketing Science, 25(6), 
+
+740–757. 
+
+Kelly,  L.,  Kerr,  G.,  &  Drennan,  J.  (2010).  Avoidance  of  advertising  in  social  networking  sites:  The  teenage  perspective. 
+
+Journal of interactive advertising, 10(2), 16-27. https://doi.org/10.1080/15252019.2010.10722167 
+
+ 
+ 
+ 
+A. Prasetio and M. Azmi  / International Journal of Data and Network Science 8 (2024) 
+
+1057
+
+Kemkes. (2023). COVID-19. Kemkes.Go.Id. https://www.kemkes.go.id/ 
+Kim, A. J., & Ko, E. (2012). Do Social Media Marketing Activities Enhance Customer Equity? Journal of Business Research, 
+
+65, 1480–1486. https://doi.org/https://doi.org/10.1109/HICSS.2016.444 
+
+Kim, B., & Kim, D. (2020). Understanding the key antecedents of users’ disclosing behaviors on social networking sites: The 
+
+privacy paradox. Sustainability, 12(12), 5163. https://doi.org/https://doi.org/10.3390/su12125163 
+
+Kock, N. (2005). Media naturalness and media richness: A theoretical model. In International Conference on Mobile Business. 
+
+IEEE International Conference on Industrial Engineering and Engineering Management, 350–355. 
+
+Kottler, P., & Keller, K. L. (2017). Marketing management. Jakarta: Erlangga. 
+Kotler, P., & Keller, K. L. (2016). Manajemen Pemasaran (12th ed.). PT. Indeks. 
+Lashgari, Y. S., & Shahab, S. (2022). The impact of the COVID-19 pandemic on retail in city centres. Sustainability, 14(18), 
+
+11463. https://doi.org/https://doi.org/10.3390/su141811463 
+
+Lestari, U. D. (2022). Antecedents of Customer Brand Engagement Affecting Customer Satisfaction , Trust , and Commitments 
+
+in Forming Loyalty and Word of Mouth in Indonesia. 14(1). https://doi.org/10.21002/amj.v14i1.1152 
+
+Lin,  C.  A.  (2015).  Why  people  use  social  networking  sites:  An  empirical  study  integrating  network  externalities  and 
+
+motivation theory. Computers in Human Behavior, 45, 100–109. 
+
+Liu, S., Liao, H., & Pratt, J. A. (2009). Computers & Education Impact of media richness and flow on e-learning technology 
+
+acceptance. Computers & Education, 52(3), 599–607. https://doi.org/10.1016/j.compedu.2008.11.002 
+
+Luo, Q., Forscher, T., Shaheen, S., Deakin, E., & Walker, J. L. (2023). Impact of the COVID-19 pandemic and generational 
+heterogeneity on ecommerce shopping styles–A case study of Sacramento, California. Communications in Transportation 
+Research, 3, 100091. https://doi.org/10.1016/j.commtr.2023.100091 
+
+Metzger,  M.  J.  (2007).  Making  sense  of  credibility  on  the  web:  Models  for  evaluating  online  information  and 
+recommendations for future research. Journal of the American Society for Information Science and Technology, 58(13), 
+2078–2091. https://doi.org/https://doi.org/10.1002/asi.20672 
+
+Mishra,  A.  S.  (2019).  Antecedents  of  consumers’  engagement  with  brand-related  content  on  social  media.  Marketing 
+
+Intelligence & Planning, 37(4), 386-400.  https://doi.org/10.1108/MIP-04-2018-0130 
+
+Muntinga, D., Moorman, M., & Smit, E. (2011). Introducing COBRAs: Exploring motivations for brand-related social media 
+
+use. International Journal of Advertising, 30(1), 13–46. https://doi.org/https://doi.org/10.2501/IJA-30-1-013-046 
+
+Onofrei, G., Filieri, R., & Kennedy, L. (2022). Social media interactions , purchase intention , and behavioural engagement : 
+The  mediating  role  of  source  and  content  factors.  Journal  of  Business  Research,  142(December  2021),  100–112. 
+https://doi.org/10.1016/j.jbusres.2021.12.031 
+
+Pahmi, M. A., Ayob, A. F. M., & Suprayitno, G. (2022). Review : Dampak Disrupsi ICT dan Covid 19 Terhadap Perubahan 
+Perilaku  Konsumen  dan  Digital  E-Commerce  di  Indonesia  A  Review :  ICT  Disruptions  and  Covid  19  Impacted  on 
+Customer Behavior and Digital E-Commerce Growth in Indonesia. 3, 22–32. https://doi.org/10.37373/jenius.v3i1.234 
+Phua, J., Jin, S. V., & Kim, J. J. (2017). Uses and Gratifications of Social Networking Sites for Bridging and Bonding Social 
+in  Human  Behavior. 
+
+Capital:  A  Comparison  of  Facebook,  Twitter,  Instagram,  and  Snapchat.  Computers 
+https://doi.org/10.1016/j.chb.2017.02.041 
+
+Prasetio, A., Rahman, D., Sary, F., Pasaribu, R., & Sutjipto, M. (2022). The role of Instagram social media marketing activities 
+and brand equity towards airlines customer response. International Journal of Data and Network Science, 6(4), 1195-
+1200. https://doi.org/10.5267/j.ijdns.2022.6.014 
+
+Purnomo, K. (2021). Penjualan Digital Matahari Departemen Store. Kompas.Com. 
+
+https://money.kompas.com/read/2021/09/10/181342126/matahari-department-store-lirik-konsep-penjualan-digital 
+Qualman, E. (2009). Socialnomics: How social media transforms the way we live and do business. John Wiley & Sons. 
+Rika, H. (2021). Rumor Matahari Departemen Store. Cnnindonesia.Com. 
+
+https://www.cnnindonesia.com/ekonomi/20210426203653-92-635060/rumor-soal-investor-baru-matahari-tidak-ada-
+diskusi 
+Sandria,  F. 
+
+(2021).  Matahari  Cetak  Laba  Rp  532  M,  Sinyal  Bisnis  Ritel  Bangkit?  Cnbcindonesia.Com. 
+
+https://www.cnbcindonesia.com/market/20210826172854-17-271549/matahari-cetak-laba-rp-532-m-sinyal-bisnis-ritel-
+bangkit 
+
+Seo, E. J., & Park, J. W. (2018). A study on the effects of social media marketing activities on brand equity and customer 
+
+response in the airline industry. Journal of Air Transport Management, 66, 36-41. 
+https://doi.org/DOI:10.1016/j.jairtraman.2017.09.014 
+
+Sethuraman,  P.  (2023).  Social  Media's  Effect  on  Millennials  and  Generation  Z's  Green  Purchasing  Habits.  International 
+
+Journal of Professional Business Review, 8(5), 16. 
+
+Shahbaznezhad, H., Dolan, R., & Rashidirad, M. (2020). The Role of Social Media Content Format and Platform in Users ’ 
+Engagement ScienceDirect The Role of Social Media Content Format and Platform in Users ’ Engagement Behavior. 
+Journal of Interactive Marketing, 53(March 2022), 47–65. https://doi.org/10.1016/j.intmar.2020.05.001 
+(2020).  Matahari  Departement  Store  Tutup  13  Gerai  hingga  Akhir  Tahun. 
+https://www.idntimes.com/business/economy/helmi/matahari-departement-store-tutup-13-gerai-hingga-akhir-tahun/1 
+Shneiderman,  B.  (2007).  Creativity  Support  Tools  Accelerating  Discovery  and  Innovation.  Communications  of  the  ACM, 
+
+Idntimes.Com. 
+
+Shemi,  H. 
+
+50(12). https://doi.org/10.1145/1323688.1323689 
+
+Simon,  F.,  &  Tossan,  V.  (2018).  Does  brand-consumer  social  sharing  matter ?  A  relational  framework  of  customer 
+to  brand-hosted  social  media.  Journal  of  Business  Research,  85(December  2017),  175–184. 
+
+engagement 
+
+1058
+
+https://doi.org/10.1016/j.jbusres.2017.12.050 
+
+Suherman, U. D. (2021). Jurnal Manajemen Indonesia Effect of Relationship Marketing and Competitive Advantage on 
+
+Marketing Performance ( Survey on Cellphone Customers in Bandung ). 21(2), 191–197. 
+https://doi.org/10.25124/jmi.v21i2.2293 
+
+Wang, J., Shahzad, F., Ahmad, Z., Abdullah, M., & Hassan, N. M. (2022). Trust and consumers’ purchase intention in a 
+
+social commerce platform: A meta-analytic approach. Sage Open, 12(2), 21582440221091262. 
+https://doi.org/10.1177/21582440221091262 
+
+Warbung, C. J. E., Wowor, M. C., Walean, R. H., & Mandagi, D. W. (2023). The impact of social media marketing on beauty 
+
+clinic brand equity: the Case of Zap Manado. International Journal of Professional Business Review, 8(4), 8. 
+
+© 2024 by the authors; licensee Growing Science, Canada. This is an open access article distrib-
+uted  under  the  terms  and  conditions  of  the  Creative  Commons  Attribution  (CC-BY)  license 
+(http://creativecommons.org/licenses/by/4.0/).

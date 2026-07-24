@@ -1,0 +1,2351 @@
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Contents lists available at ScienceDirect
+
+Journal of Retailing and Consumer Services
+
+journal homepage: www.elsevier.com/locate/jretconser
+
+Investigating the antecedents of customer brand engagement and consumer-
+based brand equity in social media
+
+Raed Algharabata, Nripendra P. Ranab, Ali Abdallah Alalwanc, Abdullah Baabdullahd,
+Ashish Guptae,⁎
+a College of Business and Economics, Department of Management and Marketing, Qatar University, Doha, Qatar
+b School of Management, Swansea University, Fabian Way, Swansea SA1 8EN, UK
+c Amman College of Banking and Finance, Al-Balqa Applied University, Amman, Jordan
+d Department of Management Information Systems, Faculty of Economics and Administration, King Abdulaziz University, Jeddah, Saudi Arabia
+e Indian Institute of Foreign Trade, New Delhi, B-21, Qutab Institutional Area, New Delhi 110016, India
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Brand equity
+Consumer involvement
+Self-expressive brand
+Brand engagement
+Social media
+
+The current research is concerned with identifying and testing the role of three main predictors: consumer
+involvement, consumer participation, and self-expressive brand on the customer brand engagement (CBE). The
+customer brand engagement is treated in the current study as multidimensional constructs comprising three
+main aspects: cognitive processing (CP), affection (AF), and activation (AC). It was also proposed a direct in-
+fluence for these three aspects of CBE on consumer-based brand equity (CBBE). Using online surveys, we
+gathered data from fans/followers of mobile phone service providers, via Facebook fan pages in Jordan. The data
+were analysed using structural equation modelling. Based on structural equation modelling analyses (SEM), it
+was supported that CBE aspects were largely predicted by the role of consumer involvement (INV), consumer
+participation (COP), and self-expressive brand (SEB). However, we find that activation impact one dimension of
+the CBBE dimensions, namely, brand loyalty. Further, we find that brand awareness/associations affect per-
+ceived quality but not brand loyalty. To validate the CBE scale, future studies could investigate the impact of the
+scale using other social media platforms for different brands. The limited amount of empirical research on CBE
+was the motivation behind this research. In particular, there is no study that has investigated the main predictors
+of CBE and its consequences over developing context by proposing and testing the association between the
+antecedents of CBE with the dimensions of CBE, which in turn affect the dimensions of CBBE.
+
+1. Introduction
+
+The related issues of customer engagement (CE) have been always
+the consideration and attention of researchers and scholars over the
+marketing field. Specifically, customer brand engagement (CBE), as
+part of CE, plays a significant role within the marketing literature
+(Calder et al., 2009; Dwivedi, 2015; Heinonen, 2011; Hollebeek et al.,
+2014). Therefore, this research is motivated by the growing emphasis
+on both the practical recommendations of the Marketing Science
+Institute (2012, 2014), for conducting more research on this area, and
+the academic domain. For instance, France et al. (2016) assert that
+understanding of CBE is at an early stage and thus further research is
+required. Gambetti et al. (2015) posit that CBE is a new topic and that
+more investigation is required due to its significant role in strategic
+
+brand decisions. Within social media sites, Hollebeek et al. (2014) as-
+sert that the CBE scale still needs to be validated in different cultural
+contexts and nomological network models. Recent studies (Alalwan
+et al., 2017; Algharabat et al., 2017; Chuand Sung, 2015; Dessart et al.,
+2016; Halaszovich and Nel, 2017; Shiau et al., 2017; Shareef et al.,
+2018; Shareef et al., 2017b; Papista et al., 2018; Wang et al., 2018)
+assert that the area of CBE over social media platforms is still un-
+covered, and accordingly needs further examinations. Thus, the early
+work of Brodie et al. (2011), Hollebeek (2011a, 2011b), and Hollebeek
+et al. (2014) considered pillars to conceptualize and measure CBE. For
+instance, Hollebeek et al. (2014) define CBE in the context of social
+media sites as the ability to create a psychological state in the minds of
+consumers as they interact with the focal brand. The authors argue that
+CBE enhances the social media site’s relationship with customers and,
+
+⁎
+
+Corresponding author.
+E-mail addresses: ralgharabat@qu.edu.qa (R. Algharabat), n.p.rana@swansea.ac.uk (N.P. Rana), alwan.a.a.ali@gmail.com (A.A. Alalwan),
+
+baabdullah@kau.edu.sa (A. Baabdullah), ashishgupta@iift.edu (A. Gupta).
+
+https://doi.org/10.1016/j.jretconser.2019.01.016
+Received 4 October 2018; Received in revised form 22 January 2019; Accepted 22 January 2019
+0969-6989/ © 2019 Elsevier Ltd. All rights reserved.
+
+Please cite this article as: Raed Algharabat, et al., Journal of Retailing and Consumer Services, 
+https://doi.org/10.1016/j.jretconser.2019.01.016
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+hence, builds up co-creative experiences.
+
+However, studies on CBE within the social media context are still
+limited (Islam and Rahman, 2016; Halaszovich and Nel, 2017;
+Hollebeek et al., 2014; Jin and Huang, 2017; Page and Pitt, 2011;
+Sobhanifard and Sadatfarizani, 2018). Closer reviewing the prior stu-
+dies in the social media area leads to notice that it has never been tested
+the impact of consumer involvement (INV), consumer participation
+(COP), and self-expressive brand (SEB) on CBE dimensions: cognitive
+processing (COP), affection (AF), and activation (AC). This is in addi-
+tion to the fact that there is not study in area of social media that has
+empirically tested the effecting role of CBE dimensions on the con-
+sumer-based brand equity (CBBE) (Chen et al., 2015). Such of that,
+there is a number of marketing studies that have discussed how brand
+loyalty could be predicted by the role of CBE dimensions (e.g.
+Hollebeek et al., 2014; Leckie et al., 2016; Dwivedi, 2015; Schivinski
+and Dabrowski, 2015), brand awareness/associations (e.g. Hutter et al.,
+2013; Schivinski and Dabrowski, 2015) and perceived quality (e.g.
+Dwivedi, 2015; Schivinski and Dabrowski, 2015). Thus, it could be
+noticed that previous research did not investigate the impact of CBE
+dimensions on CBBE dimensions on the social media page of the brand.
+Current study hopefully will capture a considerable contribution by
+firstly validation the relationship between CBE dimensions and CBBE
+dimensions over the social media area. Secondly, this study will add a
+value by discovering and testing the main determinants of CBE and its
+outcomes over the developing countries where quite few studies that
+have tested such related issues. All things considered, this study will be
+conducted with purpose to fill this research gap.
+
+To test our proposed model, we adopted the social media CBE
+model, based on the customer–brand interactions proposed in a study of
+Hollebeek et al. (2014) and extended in another study by Leckie et al.
+(2016) over offline marketing area, and linked it with CBBE consisting
+of a first order of three dimensions: brand awareness/associations
+(BAS), brand loyalty (BL), and perceived brand quality (PQ). Therefore,
+within the context of the social media page of the brand, the current
+study intention is to validate the influence of three main factors INV,
+COP, and SEB on the COP, AF, and AC as dimensions of CBE. As well as,
+this study will then look at the impact of CBE dimensions on the BL,
+BAS, and PQ as dimensions of CBBE. This study will also address two
+key questions:
+
+1) By considering the area of social media networks, how do INV, COP,
+
+and SEB shape and determine CBE aspects: COP, AF, and AC.
+
+2) By considering the area of social media networks, how do COP, AF,
+and AC shape and determine BL, BAS, and PQ as key dimensions of
+CBBE.
+
+The current paper is organized as follows. First, we explain our
+proposed conceptual model and hypotheses development. Second, we
+explain the research methodology. Third, results of the proposed hy-
+potheses are discussed. Finally, we present implications for theory,
+practice, directions for future research and limitations.
+
+2. Conceptual model and hypotheses development
+
+The current study model was proposed on what has been suggested
+in prior studies over the related area of CBE and CBBE. All research
+constructs and associated hypotheses are also presented in Fig. 1. To
+develop and test the proposed model, we relied on CBE and CBBE.
+
+2.1. The concept of customer brand engagement
+
+Even though the notion of engagement has been investigated from
+different disciplines, there is an increasing attention by marketing
+scholars regarding CBE issues over the social media area (Hollebeek
+et al., 2014). In fact, marketing scholars have addressed and measured
+CBE differently (based on the engagement between the customer and
+
+the brand). For instance, within the context of offline CBE, Hollebeek
+(2011a) asserts that the definition of CBE should be based on the level
+of customer investment in a specific brand interaction, which is re-
+flected by the multi-dimensionality of the construct (cognitive, emo-
+tional, and behavioural). In their attempt to understand total customer
+brand experience, Gambetti et al. (2012) conducted a grounded theory
+to investigate the notion of CBE. The authors assert that CBE is a multi-
+dimensional concept comprising aspects like attention, emotions, and
+immediate activation. According to Dwivedi (2015), vigour, dedication,
+and absorption all were treated as the main dimensions of CBE.
+
+Dessart et al. (2016) conclude that the number of empirical studies
+in the CBE area is limited (e.g. Brodie et al., 2013; Hollebeek et al.,
+2014; Hossain et al., 2018; Leckie et al., 2016; Martínez-López et al.,
+2017; Schultz, 2017) and they lack a comprehensive manner in defining
+and conceptualizing customer engagement. Thus, the authors argue
+that the lack of proper measurement of CBE comes as a result of the
+various focuses on either an individual dimension of engagement or
+several aspects of engagement. For instance, both brand engagement
+and community engagement were considered by Dessart et al. (2016) as
+foundation to formulate customer engagement (CE). In details, affective
+(enthusiasm and enjoyment); behavioural (sharing, learning and en-
+dorsing); and cognitive (attention and absorption) were addressed by
+Dessart et al. (2016) as key aspects of CE. In 2016, Leckie et al. have
+addressed CBE based on Hollebeek’s et al. (2014) proposition which
+supposes CP, AF and AC as a key dimension of CBE.
+
+Over the social networking field Hollebeek et al. (2014) have in-
+vestigated brand engagement from the customer’s perspective and
+provided a clear definition of CBE which explains how customer could
+cognitively valence and emotionally and behaviorally react toward all
+brand activities conducted over social media platforms. Accurately, CP,
+AF, and AC were identified by Hollebeek et al. (2014) as the main di-
+mensions to measure CBE. Accordingly, and in the line with Hollen-
+beck’s et al. (2014) proposition, Algharabat et al. (2018) recently
+measured CBE using these three dimensions: CP, AF, and AC over the
+Jordanian context.
+
+2.2. Relationships among antecedents of CBE and CBE dimensions
+
+Based on the extant studies on CBE (i.e. Brodie et al., 2013;
+Hollebeek et al., 2014; Leckie et al., 2016), we decided to examine the
+most common antecedents of CBE within the social media context:
+consumer involvement (Algharabat et al., 2018; Hollebeek et al., 2014),
+consumer participation (Leckie et al., 2016), and self-expressive brands
+(Algharabat, 2017; France et al., 2016) to examine the influence of CBE
+antecedents on CBE dimensions (Hollebeek et al., 2014), which in turn
+impact CBBE dimensions (Schivinski and Dabrowski, 2015). The ra-
+tionale behind choosing the above antecedents of CBE is encapsulated
+in the following reasons: (i) this study is based on investing in the di-
+mensions of CBE in a service context, thus we decided to investigate the
+impact CBE dimensions: INV, COP, and SEB. While consumer involve-
+ment and participation picked up due to their importance within the
+service-dominant logic, which is related to consumers’ role in proac-
+tively co-creating their experiences and values within social media
+platforms by having active dialogue and interactions (Vargo and Lusch,
+2004, 2008) between the service provider and customers. Such an in-
+teraction often transforms participants on a social media platform from
+being inactive followers
+(Prahalad and
+to dynamic
+Ramaswamy, 2000) who are involved with the service provider and its
+values/goals (Woodruff and Gardial, 1996). As a result, consumers
+become value co-creators who link their values with social media
+platforms and hence engage with them (Muniz and O’guinn, 2001).
+Hence, a solid theoretical proposition was presented by the service-
+dominant logic regarding the influence of INV and COP on the customer
+brand engagement. (ii) The rationale behind choosing self-expressive
+brands as a third dimension of CBE could be justified by consumer
+culture theory (Brodie et al., 2013). In fact consumer culture theory
+
+followers
+
+2
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Fig. 1. Conceptual Model. Adapted from: Yoo and Donthu (2001), Schivinski and Dabrowski (2015), Hollebeek et al. (2014), Leckie et al. (2016). The direct impact
+of INV, COP, and SEB on CBBE dimensions are displayed by intermittent lines.
+
+examines the symbolic and experiential features of interacting with a
+brand and the way that a brand can enhance self-identity. Thus, con-
+sumer culture theory explains the impact of self-expressive brands on
+CBE.
+
+Based on what has been discussed by Zaichkowsky (1985), con-
+sumer involvement could be addressed as the extent of how much
+customer feels that the targeted object is consistent and linked to his
+needs, values, and interests. Thus, the author linked involvement with
+engagement. As stated by Russell et al. (2007), involvement also means
+that how much the targeted object is important from the customer point
+of view as well as how such object pertains to customer’s ego structure.
+Over the online and virtual area, a strong positive association was ap-
+proved by Wirtz et al. (2013) between INV and CE. Dwivedi (2015) also
+found out that both focal brand and CBE were positively predicted by
+the role of INV. Likewise, Hollebeek et al. (2014) assured that three
+dimensions of CBE over social media platforms: CP, AF, and AC are
+positively related with INV. Within Mobile phone sector, Leckie et al.
+(2016) showed that INV has a positive role in contributing to CP, AF,
+and AC. More recently, personal INV has been proved by Hepola et al.
+(2017) to have a considerable role in accelerating CP, AC, and AF.
+Accordingly,
+
+H1a. Consumer involvement has a positive effect on cognitive processing
+
+Previous research asserts the positive impact of consumer involve-
+ment on affection. For instance, within the context of social media
+platform, Hollebeek et al. (2014) find a significant impact of consumer
+involvement on affection. Hepola et al. (2017) posit the role of con-
+sumer involvement on affection. Leckie et al. (2016) find that consumer
+involvement positively impacts affection. Accordingly,
+
+H1b. Consumer involvement has a positive effect on affection
+
+The extant literature supports the relationship between consumer
+involvement and activation. For example, Clarke and Belk (1978) re-
+ported the positive relationship between involvement with product and
+time spent on searching it. Leckie et al. (2016) find that consumer in-
+volvement positively impacts affection. Hollebeek et al. (2014) assert
+the positive impact of consumer involvement on activation. Hepola
+
+et al. (2017) posit the role of consumer involvement on activation.
+Accordingly,
+
+H1c. Consumer involvement has a positive effect on activation
+
+Leckie et al. (2016) examined the influence of consumer participa-
+tion on CBE dimensions and discussed the importance of this construct
+as an antecedent to CBE dimensions. Therefore, consumer participation
+reflects service organizations’ ability to deliver a service with higher
+quality. Thus, consumer participation helps organizations to shift from
+good-centred logic to service-dominant logic and increases engagement
+with the organization/brand (Vargo and Lusch, 2004). Accordingly,
+consumers’ participation on social media sites facilitates their interac-
+tion with the service providers and allows them to provide service
+providers with recommendations regarding: (i) improving the pro-
+cesses, services, or products; (ii) informing service providers when
+problems arise in the process (Gruen, Summers, and Acito, 2000); (iii)
+promoting customer satisfaction; (iv) adding value to the production
+process (Ippolito, 2009); and (v) creating more cognitive and affective
+brand experiences (Madupu and Cooley, 2010; Muniz and O’guinn,
+2001; Algesheimer et al., 2005; Shiau, Dwivedi and Lai, 2018; Shiau,
+Dwivedi and Yang, 2017). Therefore, consumers’ participations impact
+CBE dimensions (Leckie et al., 2016). For instance, consumers’ parti-
+cipation over social media networking sites allows consumers to con-
+tribute with their opinions using activities such as likes or posts to re-
+flect their cognitive and affective states (Muntinga, Moorman, and Smit,
+2011), to generate new content on the sites by creating and distributing
+more information and materials about the targeted brand (e.g. sharing
+posts and/or uploading brand-related images) that impact their cogni-
+tive, affective, and behavioural aspects (Muntinga, Moorman, and Smit,
+2011) and thus increase their engagement with the brand (Leckie et al.,
+2016). Davis et al. (2014) assert the positive relationship between
+participating in social media sites and information gaining. Vivek et al.
+(2012) assert that consumer participation is an antecedent for CBE.
+Additionally, Leckie et al. (2016) found that consumer participation
+positively impacts cognitive processing. Carlson et al. (2018) posit the
+positive relationship between customer participation and functional
+value. Chen et al. (2015) reported the positive link between page posts
+
+3
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+created by consumers and their utilitarian value. Thus,
+
+H2a. Consumer participation has a positive effect on cognitive processing
+
+Carlson et al. (2018) assert the positive relationship between con-
+sumer participation and emotional value (as a dimension of consumer
+brand engagement). Gutiérrez-Cillán et al. (2017) assert the positive
+relationship between consumer participation over social media plat-
+form and affection (entertainment). Within social networking sites,
+Hall-Phillips et al. (2016) assert the positive relationship between es-
+capism and consumer engagement. Chen et al. (2015) reported the
+positive link between page posts created by consumers and their he-
+donic value. Thus,
+
+H2b. Consumer participation has a positive effect on affection
+
+Leckie et al. (2016) assert the positive impact of consumer partici-
+pation on activation. Previous research posits the positive relationship
+between consumer participation and enthusiasm and consumer parti-
+cipation and engagement with brands/organization (Bagozzi and
+Dholakia, 2006; Vivek et al., 2012). Algharabat (2018) finds a positive
+relationship between telepresence, while users are participating in a
+particular website, and their engagement (measured as instrumental,
+experiential value, and behavioural value). Carlson et al. (2018) assert
+the positive relationship between consumer participation and relational
+(behavioural) value. Thus,
+
+H2c. Consumer participation has a positive effect on activation
+
+Based on definition proposed by Carroll and Ahuvia (2006), SEB
+could be addressed as the extent to which customer feel and perceive
+the targeted brand reflecting his or her inner self. Belk (1988) asserts
+that brands reflect the way that consumers think, thus providing an
+extension of themselves. Accurately, as stated by Carroll and Ahuvia
+(2006), the brand symbolic design is usually used by customer to shape
+and reflect his or her self-identities. Accordingly, the number of studies
+that link the impact of self-expression to CBE dimensions is still limited
+(Leckie et al., 2016). For instance, prior studies have tested the related
+issues of SEB on CBE affective and behavioural demission (Algharabat,
+2017; Wallace et al., 2014). Therefore, on social networks, practitioners
+and academics rely on the “likes” to clarify how SEB could shape and
+predict customer engagement (i.e. Algharabat, 2017; Dwivedi et al.,
+2015; Shareef, 2018; Wallace et al., 2014). Therefore, the “like” of a
+brand on Facebook indicates customers’ engagement with the brand,
+which means that consumers consider the brand as part of their online
+self-expression (Algharabat, 2017).
+
+Schau and Gilly (2003) assert that social networks provide con-
+sumers with an opportunity to present an “ideal-self”, so consumers
+engage with a brand to express themselves. In the context of fan page
+participation, Jahn and Kunz (2012) found a positive impact between
+self-concept value and fan page engagement. Additionally, Leckie et al.
+(2016) found that both CP and AF are positively and largely influenced
+by the role of SEB. Accordingly, it could be postulated that:
+
+H3a. Self-expressive brand has a positive effect on cognitive processing
+
+Sprott et al. (2009) assert that consumers’ perception of self-ex-
+pression of brands partly impacted their engagement. France et al.
+(2016) found a positive relationship between brand self-congruity and
+CBE. Lee and Workman (2015) find a positive relationship between self-
+expressive brand and emotional brand attachment. Previous research
+(Algharabat, 2017; Wallace et al., 2014) asserts the positive relation-
+ship between SEB and the affective dimension of the CBE. Accordingly,
+
+H3b. Self-expressive brand has a positive effect on affection
+
+The relationship between self-expressive brand and activation gets
+some support within the social media literature. For
+instance,
+Algharabat (2017) and Wallace et al. (2014) assert the positive re-
+lationship between self-expressive brand and its ability to shape and
+predict the activation part of the CBE. Keng and Ting (2009) report the
+
+relationship between consumers’ interaction via blog and service ex-
+cellence. Westhuizen (2018) asserts the positive relationship between
+self-brand connection and brand experience (affection). Thus,
+
+H3c. Self-expressive brand has a positive effect on activation
+
+2.3. CBE and brand equity
+
+2.3.1. Consumer-based brand equity
+
+Currently, social media plays a significant role in the creation of
+brand equity via customers’ engagement (Bruhn et al., 2012). There-
+fore, customers’ interaction with the brands provided over social media
+symbolizes their higher involvement in the presented brands and thus
+increasingly contributes to brand equity (Van Doorn et al., 2010; Calder
+and Malthouse, 2005). As a result, consumers’ engagement enhances
+their brand knowledge, which in turn builds strong, favourable and
+unique associations with the brand, influences their purchase decisions
+(Hutter et al., 2013), creates value (Gummerus et al., 2012), and builds
+brand equity (Schivinski and Dabrowski, 2015).
+
+Previous research has examined brand equity from different streams
+(i.e. financial and consumer). However, it can be noticed that brand
+equity aims to explain the value gifted by the brand to the product
+regardless of the previous research streams. Yoo and Donthu (2001, p.
+1) “define brand equity as the difference between consumers’ responses to a
+focal brand and an unbranded product when both have the same level of
+marketing stimuli and product attributes”. Historically, to conceptualize
+CBBE, researchers follow two main frameworks: those of Keller (1993)
+and Aaker (1991). Keller (1993) defines brand equity based on brand
+knowledge, consisting of two components: brand awareness and brand
+image, while Aaker (1991) provides a more general and comprehensive
+conceptualization of brand equity. Yoo and Donthu (2001) con-
+ceptualized brand equity, based on Keller (1993) and Aaker (1996)
+frameworks. In details, BL, PQ, BAS were treated as key dimensions
+(first order scale) of brand equity which was considered as a second
+order factor (e.g. Schivinski and Dabrowski, 2015). Therefore, to an-
+swer the research questions, brand equity dimensions will move from
+focusing on brands to their applications over social networking sitting.
+
+2.4. CBE and brand awareness/associations
+
+As a matter of customer’s ability to recognize and memorize the
+targeted brand, Aaker (1991) conceptualized brand awareness. As for
+brand associations, it could be addressed as all issues (i.e. quality,
+shape, image, feelings, product features) that could cross the customers’
+mind when the targeted brand is subject to cognition (Aaker and
+Joachimsthaler, 2000). Such associations should be strong, favourable
+and unique (Aaker, 1991; Aaker and Keller, 1990; Keller, 1993).
+However, evidence from the empirical work of (Yoo and Donthu, 2001)
+asserts that both brand awareness and associations could be treated as a
+one factor which is entitled brand awareness/associations (BAS).
+Therefore, brand awareness and associations usually shape a particular
+brand image (Yoo et al., 2000), which helps marketers to build a po-
+sitive brand attitude, brand differentiation and hence positioning (Low
+and Lamb, 2000). Additionally, according to Aaker (1991), brand as-
+sociations have the strongest impact on consumers since such associa-
+tions are linked to their experiences. Therefore, we believe that CBE,
+with its three dimensions, leads to more associations with the brand as a
+result of the consumers’ positive cognition, affection, and activation.
+This belief is consistent with Yoo et al. (2000), who assert that brand
+communication enhances brand equity because of consumers’ ability to
+consider the communicated brand as part of their evoked set. In the
+context of online social media, Bruhn et al. (2012), argue that cognitive
+perception of users’ communication significantly effects their awareness
+of the online brands. Similarly, Hutter et al. (2013) find a significant
+influence of consumer’s engagement and brand awareness. Using Fa-
+social media brand communication, Schivinski and
+cebook as
+
+4
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Dabrowski (2015) assert the positive relationship between user-gener-
+ated evaluation and brand awareness/associations. Thus,
+
+H4a. Cognitive processing has a positive effect on brand awareness/
+associations
+
+Bruhn et al. (2012) assert that consumers’ perception of online
+brand communication, using social media, positively influence their
+perception of brands. Similarly, Hutter et al. (2013) stated that CE is
+more likely to be improved by the role of Facebook brand pages and the
+role of brand awareness as well. According to Schivinski and Dabrowski
+(2015), BAS is largely predicted by the interactions and communica-
+tions that take place between customers and organizations over the
+social media platforms. Within social networking sites, Lee and Hong
+(2016) assert the positive relationship between customers’ informa-
+tiveness and their attitude. Yazdanparast et al. (2016) posit the positive
+relationship between social media marketing activities (affection as an
+element) and brand awareness/associations. Mishra et al. (2014) find a
+positive relationship between brand usability and brand associations.
+Shareef et al. (2017a) posit the positive relationship between affection
+and awareness. Bruhn et al. (2012) and Hutter et al. (2013) find a
+significant influence of consumers’ affect (as an element of commit-
+ment) and brand awareness. Hence, we hypothesize:
+
+H4b. Affection has a positive effect on brand awareness/associations
+
+Mishra et al. (2014) assert the positive relationship between plea-
+sure and brand associations. Godey et al. (2016) assert the positive
+relationship between entertainment (as a dimension of social media
+marketing activity) and brand awareness (as a dimension of brand
+equity). Using Facebook context, Schivinski and Dabrowski (2015)
+posit the significant correlation between user-generated evaluation and
+brand awareness/associations. Within social media platforms, Bruhn
+et al. (2012) and Hutter et al. (2013) find a significant influence of
+consumers’ commitment (affect and affection) and brand awareness.
+Hence, we hypothesize:
+
+H4c. Activation has a positive effect on brand awareness/associations
+
+2.5. CBE and brand loyalty
+
+Brand loyalty can be defined as the extent of customer's feelings that
+he or she is cognitively, emotionally, and behaviorally attached to an
+organization’s brand (Liu et al., 2012). Hence, BL has been usually
+considered as a desirable result of marketing activities over the mar-
+keting literature (De Villiers, 2015; He et al., 2012). Dwivedi (2015)
+asserts that brand loyalty is an important construct for service organi-
+zations due to its ability to maintain and increase sales revenues. The
+author reported the relationship between cognitive processing and
+brand loyalty. Hollebeek (2011a) asserted that there is a link between
+consumers’ cognitive processing and brand loyalty. Vivek et al. (2012)
+assert the correlation between consumers’ beliefs and brand loyalty.
+Therefore, we intended to investigate the impact of cognitive proces-
+sing on brand loyalty towards the social media page. Hence, we hy-
+pothesize:
+
+H5a. Cognitive processing has a positive impact on brand loyalty
+
+Hollebeek (2011a) posited that affective bonds with a focal brand
+often enhance consumers’ brand loyalty. Vivek et al. (2012) reported
+that engaged consumers with strong beliefs, affection, and purchase
+behaviour often have more brand loyalty. Furthermore, evidence for
+the link between CE within social media platforms and brand loyalty
+(such as customer loyalty and word-of-mouth) is proved. Such of that,
+interactions and communications initiated by customers could have a
+positive role in enhancing the level of BL as stated by Schivinski and
+Dabrowski (2015). Dwivedi (2015) found that affection has a positive
+impact on brand loyalty. Hollebeek et al. (2014) reported the positive
+impact of affection on brand loyalty. Leckie et al. (2016) found that
+
+5
+
+affection had a positive impact on brand loyalty. Therefore, we in-
+tended to investigate the impact of affection on brand loyalty towards
+the social media page. Hence, we hypothesize:
+
+H5b. Affection has a positive impact on brand loyalty
+
+Leckie et al. (2016) found that activation had a positive impact on
+brand loyalty. Dwivedi (2015) found that activation has a positive
+loyalty toward the targeted brand. Alalwan
+impact on customers’
+(2018) asserts the positive impact between affection, cognition, and
+purchase intention over social media sites. Hollebeek et al. (2014)
+found that activation positively influences brand usage intent. There-
+fore, we intended to investigate the impact of activation on brand
+loyalty towards the social media page. Hence, we hypothesize:
+
+H5c. Activation processing has a positive impact on brand loyalty
+
+2.6. CBE and perceived quality
+
+In the line with Zeithaml (1988), perceived quality is more per-
+tained to the customer’s overall appraisals of the brands’ features. The
+author asserted that perceived quality is based on the consumers’ cog-
+nitive evaluations. Thus, such superiority is related to consumers’
+ability to compare a certain brand with alternatives (Aaker, 1991).
+Consequently, Yoo et al. (2000) linked the perception of highly ad-
+vertised brands with high quality. In the online social media context,
+social media is considered to be a significant source of information to
+consumers, and hence it plays an important role in reflecting product
+quality (Liand Bernoff, 2011). Within social media brand communica-
+tion, Li and Bernoff (2011) articulate that users are a significant source
+of information to other consumers. The authors assert that users’ opi-
+nions are considered as a main source of information about product
+quality. Chevalier and Mayzlin (2006) show the positive relationship
+between consumers’ online product reviews and other consumers’
+perception of product quality. Riegner (2007) also argues that users’
+opinions are a significant means for customers to get information re-
+garding the quality of products or services. Thus,
+
+H6a. Cognitive processing has a positive effect on perceived quality
+
+Chevalier and Mayzlin (2006) asserted that perceived quality is
+more likely to be enhanced by reviews and feedbacks generated by
+customers. Likewise, customers’ interactions and customers’ commu-
+nications conducted over social media platforms were reported by
+Schivinski and Dabrowski (2015) to have positive role in shaping
+consumers’ perceived brand quality. Dwivedi (2015) found an insig-
+nificant relationship between CBE dimensions and perceived value. Kim
+and Ko (2012) find a positive relationship between entertainment (a
+dimension of social media marketing activities) and product quality (a
+dimension of value equity). Thus,
+
+H6b. Affection has a positive effect on perceived quality
+
+The relationship between the activation (the behaviour) and pro-
+duct quality has been supported within the literature. For instance,
+Lassoued and Hobbs (2015) assert the positive relationship between
+consumers’ positive experience and quality. Consequently, we assume
+that consumers will interpret the positive information provided by re-
+viewers and those featured within the social media platform as an in-
+dicator of the consumer’s level of product quality, which in turn will
+affect consumers’ perception of brand quality. Hence, we expect that
+within the social media platforms, consumers will associate their ex-
+perience with the quality of the focal brand. Therefore, we intended to
+investigate the impact of activation on perceived quality towards the
+social media page. Accordingly, we hypothesize:
+
+H6c. Activation has a positive effect on perceived quality
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+2.7. Relationships among CBBE dimensions
+
+We followed the steps of Schivinski and Dabrowski (2015) to hy-
+pothesize the relationships among CBBE dimensions, which relied on
+Ajzen and Fishbein’s (1975, 1980) research and employed the standard
+learning hierarchy. Accordingly, building brand equity should start
+with building brand awareness, then brand associations (Aaker, 1991;
+Yoo and Donthu, 2001) in consumers’ memories, followed by perceived
+equity, and ending up with attitudinal brand loyalty (Aaker, 1991; Yoo
+and Donthu, 2001). BAS was approved by Schivinski and Dabrowski
+(2015) to have a positive impact on BL. Therefore, we intended to in-
+vestigate the relationship between BAS and BL towards the social media
+page. Thus, we hypothesize:
+
+H7. Brand awareness/associations positively influence brand loyalty
+
+Within the context of online brand communities, perceived value
+was noticed by Mishra et al. (2014) to be positively influenced by the
+role of brand associations. In the same context, Brogi et al. (2013) as-
+serted that positive relationships exists between BAS and BL. Schivinski
+and Dabrowski (2015) report the positive relationship between BAS and
+PQ. Therefore, we intended to investigate the relationships between
+BAS and PQ towards the social media page. Thus, we hypothesize:
+
+H8. Brand awareness/associations positively influence perceived quality
+
+2.8. The Antecedents of CBE and CBBE
+
+There is a good number of marketing studies that have tested the
+direct and indirect relationships between INV, COP, SEB, and CBBE
+dimensions. Consumer involvement reflects the importance of objects
+from the customer point of view as well as how such an object pertains
+to a customer’s ego structure and values (Russell et al., 2007; Peter
+et al., 1999). Previous
+research (e.g. Bonhomme et al., 2010;
+Christodoulides et al., 2012) asserts the positive relationship between
+involvement and customer-based brand equity (with its dimensions:
+brand awareness/associations, perceived quality, and brand loyalty).
+Hutter et al. (2013) find a significant influence of consumers’ com-
+mitment (affect and affection) and brand awareness. Bonhomme et al.
+(2010) assert the positive relationship between involvement with user-
+generated content and CBBE dimensions (e.g. brand awareness/asso-
+ciations). Thus,
+
+H9a. Consumer involvement has a positive effect on brand awareness/
+associations
+
+Hollebeek et al. (2014) found a significant direct relationship be-
+tween consumer involvement and brand usage intent. Russell et al.
+(2007) empirically proved the influence of INV on attitudinal loyalty. A
+strong and positive association between brand identification and brand
+loyalty was also noticed by He et al. (2012). Christodoulides et al.
+(2012) find positive relationship between consumer involvement and
+brand loyalty (as a dimension of CBBE). Bonhomme et al. (2010) assert
+the positive relationship between involvement with user-generated
+content and CBBE dimensions (e.g. brand loyalty). Leckie et al. (2016)
+found a significant direct impact of INV on brand loyalty. Thus,
+
+H9b. Consumer involvement has a positive effect on brand loyalty
+
+Previous research (Auh et al., 2007; Chan et al., 2010) postulates
+the positive relationship between customer involvement and quality
+evaluation. Moreover, Carlson et al. (2018) argue that consumers’ in-
+volvement shapes their brand experience. Bonhomme et al. (2010) as-
+sert the positive relationship between user-generated content involve-
+ment and CBBE dimensions (e.g. perceived quality). Christodoulides
+et al. (2012) find a positive relationship between involvement and
+perceived quality (as a dimension of CBBE). Thus,
+
+H9c. Consumer involvement has a positive effect on perceived quality
+
+6
+
+Consumer participation, in social media, reflects consumer needs for
+social interaction with other consumers who have similar needs. Thus,
+such interaction often enhances a feeling of belonging (Eisenbeiss et al.,
+2012). Therefore, social media platforms allow consumers to search for
+more information and understand the main features and benefits of a
+particular brand and, as a result, they can perceive the quality of a
+brand (Dholakia et al., 2004; McKenna and Bargh, 1999). Consumers
+use social networks to talk to people, interact with strangers, and even
+make new friends (Eisenbeiss et al., 2012). Thus,
+
+H10a. Consumer participation has a positive effect on brand awareness/
+associations
+
+Zheng et al. (2015) concluded that a positive relationship is present
+between consumer participation and brand loyalty. Kamboj et al.
+(2018) find a positive relationship between customer participation over
+social networking sites and brand loyalty. Leckie et al. (2016) assert a
+positive relationship between COP and brand loyalty. Similarly,
+Hollebeek et al.’s (2014) study proposed a positive direct relationship
+between COP and brand loyalty. Thus,
+
+H10b. Consumer participation has a positive effect on brand loyalty
+
+There have been quite a few attempts to investigate the impact of
+antecedents of CBE on CBBE, but we have decided to followed Leckie
+et al.’s (2016) and Hollebeek et al.’s (2014) studies and proposed po-
+sitive direct relationships between COP and the three dimensions of
+CBBE. Moreover, Carlson et al. (2018) argue that consumers’ partici-
+pation shape their brand experience Thus, we hypothesize:
+
+H10c. Consumer participation has a positive effect on perceived quality
+
+Self-expressive brand within the context of social media platforms
+reflects consumers’ willingness to send messages regarding themselves
+to others (Fournier, 1998). Therefore, self-expressive brand has a po-
+sitive impact on consumer willingness to get more information and
+updates about the brand (Richard and Guppy, 2014; Roblek et al.,
+2013). Roy and Chau (2011) posit the positive relationship between
+(self-expressive) and brand associations.
+consumers’ motivations
+Schivinski and Dabrowski (2015) posit the positive relationship be-
+tween the content which consumers use to express their ideas through
+Facebook and brand awareness/associations.
+
+H11a. Self-expressive brand has a positive effect on brand awareness/
+associations
+
+Liu et al. (2012) assert the significant relationship between self-
+expressive brand and brand loyalty. Sirgy et al. (2008) argue the po-
+sitive relationship between self-expressive brand and brand loyalty. Roy
+and Chau (2011) assert the positive relationship between consumers’
+motivations (self-expressive) and brand loyalty. Carroll and Ahuvia
+(2006) identify a positive relationship between SEB and WOM.
+Schivinski and Dabrowski (2015) posit the positive relationship be-
+tween the content which consumers use to express their ideas through
+Facebook and brand loyalty. Godey et al. (2016) posit the positive
+impact of self-expressivity toward the brand and WOM. Thus,
+
+H11b. Self-expressive brand has a positive effect on brand loyalty
+
+Roy and Chau (2011) articulate the positive relationship between
+consumers’ motivations (self-expressive) and brand associations, per-
+ceived quality, and brand loyalty. Lee and Workman (2015) find a
+positive relationship between self-expressive brand and emotional
+brand attachment. Schivinski and Dabrowski (2015) assert the positive
+relationship between the content which consumers use to express their
+ideas through Facebook and perceived quality. Thus,
+
+H11c. Self-expressive brand has a positive effect on perceived quality
+
+R. Algharabat, et al.
+
+3. Methodology
+
+3.1. Data collection and sample
+
+We employed a sample of 500 Jordanian consumers who are fans of
+the social media pages of certain brands (i.e. mobile service providers’
+Facebook pages) and used online survey to collect the data. We decided
+to choose this sector due to the heavy competition among Jordanian
+mobile phone service providers and due to the fast growth of this sector.
+In Jordan, the population exceeds 9.456 million people (TRC, 2016)
+and we have three telecommunication companies [Zain Jordan: 1.4
+million fans, with 5.6 million subscribers; Orange Jordan: 26 million
+fans, with 4.6 million subscribers; and Umniah Jordan: 1.07 million
+fans, with 4.6 million subscribers] with almost 16.7 million subscribers
+with 8.7 million internet users (TRC, 2016). Therefore, understanding
+consumer behaviour, in particular the relationship between the con-
+sumer and the focal brand, on social media platforms within such a
+sector is considered an essential aspect for success (Leckie et al., 2016).
+The empirical study was applied in Jordan using questionnaire survey.
+In fact, the original constructs items were in English, and accordingly,
+there was a need to convert these items to Arabic language using the
+back translation method suggested by Brislin (1986). We decided to use
+a convenience (non-students) sample due to the advantages associated
+with this approach (Dwivedi et al., 2006). Unlike Leckie et al.’s (2016)
+study, we conducted this study using Facebook. Therefore, we targeted
+fan pages for the mobile service provider in Jordan and we asked them
+to fill out the questionnaire. A filtering question technique was adopted
+to identify those participants who often track their Mobile service
+providers over social media platforms. Then, we only targeted those
+participants who already follow the Facebook page of their Mobile
+service provider. A polite study was conducted with a mini sample of 50
+participants. The majority of our sample had a bachelor’s degree
+(49.9%), some had a diploma (25.1%), some went to high school
+(10.2%), some had a postgraduate degree (10.8%), and 5% were
+‘other’. Our sample relationship duration with mobile service providers’
+Facebook pages varied as follows: less than one year (20.1%), between
+one year and two years (30.9%), between three and four years (35.1%)
+and over four years (13.9%).
+
+3.2. Construct operationalization
+
+We informed our sample that this research aimed to evaluate their
+experiences with one of the most-used mobile service providers on the
+social media page of the brand (i.e. Facebook) which they “liked”, and
+asked them to think about it while answering the survey. The ques-
+anchored by
+tionnaire
+1 = ‘strongly disagree’ and 5 = ‘strongly agree’. The original sources of
+the main scale items are presented in Table 1.
+
+contains five-point
+
+Likert-type
+
+scales,
+
+4. Analysis and results
+
+4.1. Measurement model
+
+At the beginning the data normality was inspected skewness and
+kurtosis method, and all variables were noticed to be within their
+suggested level. Then, the measurement model was tested via AMOS 17.
+We started the analyses by conducting confirmatory factor analyses
+(CFA) on all nine latent factors (INV, COP, SEB, CP, AF, AC, BSA, BL,
+and PQ). The results of the CFA model fit indicate acceptable indices
+(χ2 = 1984.579, d.f. = 856; and χ2/d.f. = 2.318), comparative fit
+index
+[GFI] = 0.941,
+goodness-of-fit
+Tucker–Lewis index [TLI] = 0.954, incremental fit index [IFI] = 0.967,
+and root mean square error of approximation [RMSEA] = 0.045),
+AGFI = 0.939 (Hair et al., 2010). While testing for the coefficient alpha
+values, we found and deleted two items (INV5 and SEB5) loaded below
+0.7, while the remaining items were loaded above the threshold value
+
+[CFI] = 0.962,
+
+index
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+of 0.7 (Fornell and Larcker, 1981) and the average variance extracted
+(AVE) values for each construct exceeded the threshold value (0.5)
+recommended by Fornell and Larcker (1981). Therefore, convergent
+validity is proved. Composite reliability (CR), t-value and AVE for each
+construct is reported in Table 2 indicating acceptable levels (Hair et al.,
+2010).
+
+The discriminant validity was inspected by comparing square roots
+of average variance extracted for each construct with the inter-corre-
+lation values with corresponding constructs. as seen in Table 3, square
+roots of AVE for each construct is not less than the value of inter-cor-
+relation, and accordingly, The discriminant validity criterion was
+achieved in the current study.
+
+4.2. Common method bias
+
+We used common method bias test due to our data which is self-
+reported (Podsakoff et al., 2003). Therefore, we used Harman's single-
+factor (Harman, 1976) test which is recommended by Podsakoff et al.
+(2003) and run the analysis using nine constructs (INV, COP, SEB, CP,
+AF, AC, BAS, BL, and PQ), with all their items using unrotated factor
+solution. Results show that 42.435% (less than 50%) of variance was
+accounted by the first factor. Therefore, we can conclude that this study
+data has no common method bias problems.
+
+4.3. The Structural model
+
+To test the proposed hypotheses, we used structural equation
+modelling (SEM), and the hypothesized structural model indicated ac-
+ceptable fit measures (χ2 = 2536.528, d.f. = 870, χ2/d.f. = 2.916; CFI
+= 0.930; GFI = 0.915; AGFI = 0.941; TLI = 0.910; IFI = 0.933; and
+RMSEA = 0.044). We found that H1a-b were all supported, thus INV
+t = 3.911), and AF (β = 0.28,
+positively affected CP (β = 0.23,
+t = 3.982), while H1c was not supported (β = 0.08, t = 0.167). COP
+was found to have a significant impact on CP (β = 0.28, t = 5.237), AF
+(β = 0.20, t = 3.313), and AC (β = 0.28, t = 4.943), thus H2a-c was
+supported. The impacts of SEB (H3a-c) on CP (β = 0.60, t = 9.531), AF
+(β = 0.37, t = 6.02), and AC (β = 0.43, t = 7.533) were all supported.
+We found that the positive impact of CP (H4a; β = 0.045, t = 0.46), AF
+(H4b, β = 0.02, t = -1.313) and AC (H4c, β = 0.13, t = -1.834) on
+awareness/associations were not supported.
+
+We also found that H5a and H5b were not supported. Therefore, CP
+and affection have no relationship with BL. However, H5c, which in-
+spects the association between AC and BL, was supported (H5c,
+β = 0.11, t = 2.823). Furthermore, we found that CP, AF, and AC have
+no impact on PQ, thus, we reject H6a-c. While AC has no impact on PQ
+(H7), we found that BAS positively affect PQ (H8, β = 0.21, t = 3.823).
+We tested the direct impact of INV, COP, and SEB on the three di-
+mensions of CBBE, and we found them significantly linked with BL
+(β = 0.25, t = 3.214), (β = 0.43, t = 5.705), (β = 0.29, t = 3.033) re-
+spectively, supporting H9b, H10b, and H11b. However, other results
+revealed that H9a, H9c, H10a, H10c, H11a, and H11c were not sig-
+nificant, thus, we rejected them. Therefore, the three antecedents of
+CBE partially mediated the link between them and one dimension of
+CBBE (BL). Finally, we found that the coefficient of determination (R2)
+for CP = 0.48, AF = 0.26, AC = 0.27, BL = 0.36, BAS = 0.02, and PQ
+= 0.05, respectively. All results are summarized in Table 4.
+
+5. Discussion
+
+This research comes to answer the call of previous research
+(Halaszovich and Nel, 2017; Hollebeek et al., 2014; Kapoor et al., 2018)
+which encouraged future research to test and validate the CBE scale
+using different nomological networks in different countries. Therefore,
+the newness of the notion of CBE within the area of social network sites
+makes it an underexplored one that requires deeper investigation
+(Algharabat et al., 2018; Islam and Rahman, 2016; Halaszovich and
+
+7
+
+R. Algharabat, et al.
+
+Table 1
+Construct operationalization.
+
+Construct
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Author(s)
+
+Consumer involvement (INV1-INV5)
+INV1: Because of my personal attitudes, I feel that the Facebook page of the telecommunication company brand that I am using
+
+Malär et al. (2011)
+
+ought to be important to me.
+
+INV2: Because of my personal values, I feel that the Facebook page of the telecommunication company brand that I am using
+
+ought to be important to me.
+
+INV3: The Facebook page of the telecommunication company brand that I am using is very important to me personally.
+INV4: Compared with other Facebook pages of telecommunication companies, the Facebook page of the telecommunication
+
+company brand that I am using is important to me.
+
+INV5: I’m interested in the Facebook page of my telecommunication company brand.
+Consumer participation (COP1-COP4)
+COP1: If I have a useful idea on how to improve the Facebook page of my telecommunication company brand, I give it to
+
+Eisingerich et al. (2014)
+
+someone at the firm.
+
+COP2: I make constructive suggestions to the Facebook page of my telecommunication company brand on how to improve its
+
+offering.
+
+COP3: On the telecommunication company brand’s Facebook page, I let the company know the ways that it can better serve
+
+my needs.
+
+COP4: I spent a lot of time sharing information with others about my telecommunication company brand on its Facebook page.
+Self-expressive brand (SEB1-SEB5)
+SEB1: My telecommunication company brand’s Facebook page symbolizes the kind of person I really am inside.
+SEB2: My telecommunication company’s Facebook page reflects my personality.
+SEB3: My telecommunication company brand’s Facebook page is an extension of my inner self.
+SEB4: My telecommunication company brand’s Facebook page mirrors the real me.
+SEB5: My telecommunication company brand’s Facebook page contributes to my image.
+CBE cognitive processing (CP1-CP4)
+CP1: Using my telecommunication company brand’s Facebook page gets me to think about it.
+CP2: I think about my telecommunication company brand’s Facebook page a lot when I'm using it.
+CP3: Using my telecommunication company brand’s Facebook page stimulates my interest to learn more about it.
+CBE ‘affection’ factor (AF1-AF4)
+AF1: I feel very positive when I use my telecommunication company brand’s Facebook page.
+AF2: Using my telecommunication company brand’s Facebook page makes me happy.
+AF3: I feel good when I use my telecommunication company brand’s Facebook page.
+AF4: I'm proud to use my telecommunication company brand’s Facebook page.
+CBE ‘activation’ factor (AC1-AC3)
+AC1: I spend a lot of time using my telecommunication company brand’s Facebook page compared to other brands.
+AC2: Whenever I'm using telecommunication services on Facebook, I usually use my telecommunication company brand’s
+
+Facebook page.
+
+AC3: I use my telecommunication company brand’s Facebook page the most.
+Brand awareness/association (BAS1-BAS4)
+BAS1: I easily recognize my telecommunication company brand on its Facebook page.
+BAS2: Several characteristics of my telecommunication company brand on its Facebook page instantly come to my mind.
+BAS3: I can quickly recall the symbol or logo of my telecommunication company brand on its Facebook page.
+BAS4: I can recognize my telecommunication company brand on its Facebook page among other competing brands.
+Brand loyalty (BL1-BL3)
+BL1: I consider myself to be loyal to my telecommunication company brand’s Facebook page.
+BL2: My telecommunication company brand’s Facebook page would be my first choice.
+BL3: I intend to remain a customer to my telecommunication company brand on its Facebook page.
+Perceived quality (PQ1-PQ3)
+PQ1: Most of the services of my telecommunication company brand on its Facebook page are of great quality.
+PQ2: The likelihood that my telecommunication company brand on its Facebook page is reliable is very high.
+PQ3: Services of my telecommunication company brand on its Facebook page are worth their price.
+
+Carroll and Ahuvia (2006)
+
+Hollebeek et al. (2014)
+
+Yoo et al. (2000); Villarejo and Sanchez (2005)
+
+Walsh et al. (2009); Yoo and Donthu (2001)
+
+Yoo et al. (2000)
+
+Nel, 2017; Misirlis, and Vlachopoulou, 2018). Thus, the current study
+was employed within the Jordanian context, and aimed to test the
+impact of the CBE antecedents on CBE, which in turn impacts CBBE.
+Therefore, we answered the call of Leckie et al.’s (2016) study, which
+advises future research to test the impact of CBE on brand equity. More
+specifically, we investigated the impact of CBE dimensions on CBBE
+dimensions towards the social media page of the brand.
+
+Our results confirm that consumer INV, COP, and SEB, as measures
+of the social media page of the brand, are antecedents to the three di-
+mensions of the CBE with the highest impact being that of consumer
+involvement on affection. Such a result is in accordance with Hollebeek
+et al.’s (2014) and Leckie et al.’s (2016) studies, which found the impact
+of involvement to be highest on the affection dimension. Thus, con-
+sumers who have the characteristics of high involvement with a social
+media page find that the brand reflects their self-relevance and thus
+strengthens their bonding levels with the social media page of the brand
+and positively enhances their engagement (i.e. cognitive, affection, and
+activation). Furthermore, our results confirm the relationships between
+
+consumer participation and the three dimensions of CBE. This could be
+attributed to our sample’s ability to provide their mobile service pro-
+vider’s Facebook page with constructive feedback (cognitive proces-
+sing), comments (cognitive processing and affection), recommendations
+(activation), and co-producing marketing communication, which often
+facilitate mutual benefits and strengthen the bonds (Chen et al., 2011).
+The current study findings are in agreement with Leckie et al.’s (2016)
+research, which supported a positive association between COP and CP
+but not AF and AC. Regarding self-expressive brand results, using the
+preferred mobile service provider’s Facebook page, consumers can ex-
+press their personal values and self-concepts in group participations and
+they feel proud of themselves for being part of the social media page of
+the brand. Therefore, consumers aim to reflect their inner states during
+their discussion on the social media platform. In Jordan, we have three
+mobile service providers’ pages, some of which are considered presti-
+gious in comparison to those of other providers and hence consumers
+are trying to reflect such issues by being active members. Therefore,
+any social media page of the brand that would support consumers’ inner
+
+8
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Table 2
+Results of the CFA within the nine latent factors.
+
+Indicator
+
+Direction
+
+Construct
+
+Standardized Estimate
+
+SE
+
+t-value
+
+INV1
+INV2
+INV3
+INV4
+COP1
+COP2
+COP3
+COP4
+SEB1
+SEB2
+SEB3
+SEB4
+CP1
+CP2
+CP3
+AF1
+AF2
+AF3
+AF4
+AC1
+AC2
+AC3
+BAS1
+BAS2
+BAS3
+BAS4
+BL1
+BL2
+BL3
+PQ1
+PQ2
+PQ3
+
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+←
+
+INV
+INV
+INV
+INV
+COP
+COP
+COP
+COP
+SEB
+SEB
+SEB
+SEB
+CP
+CP
+CP
+AF
+AF
+AF
+AF
+AC
+AC
+AC
+BAS
+BAS
+BAS
+BAS
+BL
+BL
+BL
+PQ
+PQ
+PQ
+
+0.80
+0.89
+0.84
+0.75
+0.82
+0.78
+0.77
+0.74
+0.83
+0.85
+0.87
+0.80
+0.85
+0.79
+0.79
+0.83
+0.87
+0.86
+0.89
+0.87
+0.82
+0.79
+0.77
+0.79
+0.80
+0.84
+0.77
+0.82
+0.79
+0.75
+0.77
+0.78
+
+0.168
+0.153
+0.168
+
+0.067
+0.069
+0.070
+
+0.063
+0.065
+0.059
+
+0.082
+0.084
+
+0.106
+0.105
+0.104
+
+0.065
+0.068
+
+0.061
+0.063
+0.064
+
+0.074
+0.070
+
+0.108
+0.083
+
+7.325
+7.239
+7.602
+
+11.929
+11.450
+11.169
+
+15.600
+14.638
+13.250
+
+15.287
+15.248
+
+10.976
+10.968
+10.957
+
+15.950
+15.390
+
+14.762
+15.186
+13.796
+
+12.831
+11.231
+
+12.724
+13.236
+
+CR
+
+0.89
+
+AVE
+
+67.51
+
+0.86
+
+60.53
+
+0.90
+
+70.21
+
+0.85
+
+65.69
+
+0.92
+
+74.44
+
+0.87
+
+68.45
+
+0.88
+
+64.07
+
+0.84
+
+62.98
+
+0.81
+
+58.79
+
+P
+
+***
+***
+***
+
+***
+***
+***
+
+***
+***
+***
+
+***
+***
+
+***
+***
+***
+
+***
+***
+
+***
+***
+***
+
+***
+***
+
+***
+***
+
+[Note: Significant at ***p < 0.001, (two-tailed test)].
+
+Table 3
+Internal consistency and discriminant validity of constructs.
+
+Table 4
+Structural model results.
+
+Construct
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Hypothesized relationships
+
+β
+
+SE
+
+t-value
+
+Result
+
+1. INV
+2. COP
+3. SEB
+4. CP
+5. AF
+6. AC
+7. BAS
+8. BL
+9. PQ
+
+0.82
+0.25
+0.25
+0.31
+0.40
+0.52
+0.38
+0.35
+0.36
+
+0.78
+0.38
+0.32
+0.42
+0.37
+0.30
+0.31
+0.35
+
+0.84
+0.55
+0.30
+0.25
+0.24
+0.27
+0.25
+
+0.81
+0.34
+0.28
+0.35
+0.23
+0.24
+
+0.83
+0.24
+0.25
+0.24
+0.38
+
+0.85
+0.27
+0.38
+0.30
+
+0.80
+0.44
+0.32
+
+0.79
+0.39
+
+0.77
+
+The figures under the diagonal are the Pearson (R) correlations between the
+variables. Diagonal elements are square roots of average variance extracted.
+
+selves would enhance their engagement as reflected by their positive
+thinking and feelings toward the social media page of the brand.
+
+We found that the three dimensions of CBE have no positive impact
+on the brand awareness/associations or on perceived quality of the
+social media page. Therefore, consumers already know about the social
+media page of the telecommunication company and its associations.
+Unlike Leckie et al.’s (2016) study, which found that affection and ac-
+tivation have an impact on brand loyalty, we found that only activation
+has a positive impact on brand loyalty towards the social media page of
+the telecommunication company. Therefore,
+it seems that the re-
+lationship between cognitive processing, affect, and brand loyalty did
+not reach the optimal point, which makes the relationships significant
+(Hollebeek et al., 2014).
+
+We found that users’ brand awareness of and associations with the
+social media page of the telecommunication company has no impact on
+their loyalty to the social media page of the brand. Therefore, it seems
+that our sample knew much information about the social media page of
+the brand, and thus this does not impact their brand loyalty towards the
+
+9
+
+H1a: INV→CP
+H1b: INV→AF
+H1c: INV→AC
+H2a: COP→CP
+H2b: COP→AF
+H2c: COP→AC
+H3a: SEB→CP
+H3b: SEB→AF
+H3c: SEB→AC
+H4a: CP→BAS
+H4b: AF→BAS
+H4c: AC→BAS
+H5a: CP→BL
+H5b: AF→BL
+H5c: AC→BL
+H6a: CP→PQ
+H6b: AF→PQ
+H6c: AC→PQ
+H7: BAS→BL
+H8: BAS→PQ
+H9a: INV→BAS
+H9b: INV→BL
+H9c: INV→PQ
+H10a: COP→BAS
+H10b: COP→BL
+H10c: COP→PQ
+H11a: SEB→BAS
+H11b: SEB→BL
+H11c: SEB→PQ
+
+0.23
+0.28
+0.08
+0.28
+0.20
+0.28
+0.60
+0.37
+0.43
+0.045
+0.02
+0.013
+0.03
+− 0.08
+0.11
+− 0.07
+− 0.001
+0.01
+0.04
+0.21
+0.061
+0.25
+− 0.064
+− 0.062
+0.43
+− 0.161
+− 0.053
+0.29
+0.03
+
+0.079
+0.097
+0.082
+0.044
+0.49
+0.050
+0.050
+0.050
+0.050
+0.08
+0.072
+0.065
+0.069
+0.069
+0.062
+0.054
+0.054
+0.049
+0.057
+0.045
+0.105
+0.115
+0.082
+0.063
+0.069
+0.037
+0.083
+0.085
+0.065
+
+3.911***
+3.982***
+0.167
+5.237***
+3.313***
+4.943***
+9.513***
+6.02***
+7.533***
+0.46 ns
+− 1.313
+1.834
+1.446
+0.319
+2.167**
+− 1.202
+− 0.015
+0.161
+− 0.809
+3.823***
+0.733
+3.214***
+− 0.693
+− 1.012
+5.705***
+− 0.015
+− 0.552
+3.033**
+0.46
+
+Supported
+Supported
+Not Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Not Supported
+Not Supported
+Not Supported
+Not Supported
+Not Supported
+Supported
+Not Supported
+Not Supported
+Not Supported
+Not Supported
+Supported
+Not Supported
+Supported
+Not Supported
+Not Supported
+Supported
+Not Supported
+Not Supported
+Supported
+Not Supported
+
+[Note: Significant at ***p < 0.001, (two-tailed test); β: standardised path
+coefficients; SE: Standard error].
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+social media page of the brand since they have the needed information
+about the brand on social media and they are activating the knowledge
+they needed automatically. On the other hand, the positive relationship
+between the social media page of the brand awareness/associations and
+perceived quality of the social media page could be attributed to the
+level of awareness that the service provider’s pages provide consumers
+with regarding different and updated aspects which impact consumers’
+perception of the quality of the provided services on the social media
+page of the brand.
+
+We found that the three dimensions of CBE have direct impacts on
+social media page brand loyalty but not social media page brand
+awareness/associations and social media page perceived quality. From
+our sample’s perspective, this could be attributed to the importance of
+rewards, suggestions, and dealing with consumers’ complaints im-
+mediately via the Facebook page, thus enhancing their brand loyalty
+towards the social media page. Furthermore, the activation process
+which relates to the behavioural aspect is reflected by the positive re-
+lationship as in our case. Jordanian consumers perceive their mobile
+service provider’s social media page to be the best among its counter-
+parts and therefore they are willing to continue being loyal to it (acti-
+vation).
+
+5.1. Theoretical implications
+
+By addressing the main factors predicting CBE and their con-
+sequences on the CBBE, a number of theoretical contributions that have
+been captured in the current study. Initial, prior literature (i.e. Brodie
+et al., 2011; Hollebeek et al., 2014; Leckie et al., 2016) described the
+notion of CBE as an underexplored one. Hence, we respond to the call of
+previous research (Aladwani and Dwivedi, 2018; Islam and Rahman,
+2016; Halaszovich and Nel, 2017; Hollebeek et al., 2014) to conduct
+more empirical research in different nomological networks and dif-
+ferent cultures. Therefore, to test and to validate the CBE scale, we
+investigated a developing country (Jordan) due to its different char-
+acteristics and values in comparison with developed countries. Second,
+to bridge the gap of conducting more empirical research on the CBE
+scale, we adopted the main antecedents of CBE as suggested by Leckie
+et al. (2016) and the scale suggested by Hollebeek et al.’s (2014) was
+considered by the current study CBE scale. Third, an empirical study
+was conducted to validate the influence of the antecedents of CBE on
+the three dimensions of CBE, which in turn impact CBBE dimensions,
+using the social media page of the telecommunication company’s brand
+(Facebook). This was considered as the main contribution of this re-
+search. Previously, Hollebeek et al. (2014) investigated the impact of
+CBE dimensions on brand usage intent and self-brand connection.
+Leckie et al. (2016), on the other hand, investigated the impact of CBE’s
+three dimensions on brand loyalty. Therefore, the limited number of
+empirical studies on CBE led to this research. In particular, there is no
+study that has investigated the antecedents of CBE and its consequences
+within the developing countries context by linking the antecedents of
+CBE with the dimensions of CBE, which in turn affect CBBE dimensions
+towards the social media page of the brand.
+
+5.2. Implications for practice
+
+The importance of CBE and its ability to enable strategic and brand
+managers to provide consumers with a more favourable experience of
+the brand using social media pages results in the following implications.
+First, to increase the telecommunication company’s social media
+page brand loyalty, we recommend that brand managers increase their
+consumers’ level of activation via the Facebook page by conducting
+more research into their level of satisfaction about network quality,
+speed, reward systems, data allowances, data downloads, and service
+plans. By strengthening the activation part of CBE they will end up with
+the tele-
+more loyal consumers via the social media page of
+communication company. Furthermore, we recommend that brand
+
+10
+
+managers activate cognitive processing as a tool to enhance the level of
+customer- brand interactions over the social media pages of their
+Mobile service provider. Providing consumers with more information
+would keep them knowledgeable about the latest aspects. Strategic and
+brand managers should focus more on the use of social media and en-
+courage consumers to like and interact with the brand page and be
+emotionally attached to the page. Thus, mobile service providers should
+work on their social media platforms to create more experiential in-
+teraction.
+
+Second, strategic and brand managers should strengthen the bonds
+between their consumers and the social media page of the tele-
+communication company to reflect their needs, interests, and personal
+values by conducting more research to explore consumers’ needs and
+the effectiveness of the communication strategies. As a result, organi-
+zations should enhance consumer participations by following con-
+sumers’ comments with the social media platform.
+
+Third, strategic and brand managers should work on different plans
+to increase the consumer–brand relationship by enhancing consumers’
+experience, making it more interactive and more self-related by in-
+creasing the number of likes, dealing with consumers’ dissatisfaction,
+negative feedback, developing high levels of service quality, and
+maintaining the quality of their networks.
+
+Fourth, brand managers within telecommunication companies
+should enhance consumers’ involvement by providing them with con-
+tent which should be linked to their needs, values, and interests. This
+can lead consumers to think positively (cognitive processing) and feel
+positively (affectation) regarding the content. Thus, we believe that if
+telecommunication companies enhance consumers’
+involvement by
+posting what is important from the customer point of view, this would
+increase consumers’ brand engagement with telecommunication com-
+panies’ brand pages over social media.
+
+Fifth, the impact of consumer participation on CBE dimensions, on
+telecommunication companies’ social media pages suggests that stra-
+tegic and brand managers should take certain actions, for instance en-
+hancing, consumers’ participation regarding the services offered by
+telecommunication companies and their ability to deliver services with
+higher quality. Thus, telecommunication companies over their social
+media platforms should encourage consumers to interact with the ser-
+vice provider via comments, posts, liking, creating content, and sharing.
+This would help telecommunication companies to shift their focus from
+good-centred logic to service-dominant logic and thus increase CBE
+(Vargo and Lusch, 2004; Nisar et al., 2018; Pacauskas et al., 2018).
+Accordingly, consumers’ participation on telecommunication compa-
+nies social media platforms allows them to provide service providers
+with (i) recommendations regarding the current level of the services;
+(ii) complaints; (iii) complements; (iv) suggestions regarding increasing
+value to the production process (Ippolito, 2009); and (v) suggestions for
+creating more cognitive and affective brand experiences. Therefore,
+consumers’ participations impact CBE dimensions (cognitive, affective,
+and activation aspects) and thus increase their engagement with the
+brand.
+
+Finally, within the telecommunication companies’ social media, the
+influence of self-expressive brand on the CBE dimensions has its own
+practice to managers. Self-expression brand reflects consumer inner and
+the way that consumers are providing an extension of themselves.
+Therefore, telecommunication companies’ social networks should pro-
+vide consumers with an opportunity to present an “ideal-self” (Schau
+and Gilly, 2003) to increase their engagement with a particular brand
+using social media to express themselves. Therefore, we advise brand
+managers to analysis the pattern of consumers who like to express
+themselves over their social media networks. Understanding users’
+opinion is considered as a main substitute about product quality.
+Therefore, self-expression brand impacts CBE dimensions (cognitive,
+affective, and activation aspects) and thus increases their engagement
+with the brand.
+
+R. Algharabat, et al.
+
+6. Conclusion
+
+This research aims to identify and test the role consumer involve-
+ment, consumer participation, and self-expressive brand on the cus-
+tomer brand engagement within social media platform (Facebook fan
+pages) for Jordanian telecommunication companies. We treated cus-
+tomer brand engagement as multidimensional constructs comprising
+three main aspects: cognitive processing, affection, and activation.
+Furthermore, we proposed a direct influence for the three dimensional
+of CBE on consumer-based brand equity. We find that customer brand
+engagement dimensions were largely predicted by the role of consumer
+involvement, consumer participation, and self-expressive brand.
+However, we find that cognitive processing and activation impact one
+dimension of the consumer-based brand equity dimensions, namely,
+brand loyalty. Further, we find that brand awareness/associations affect
+perceived quality but not brand loyalty.
+
+6.1. Limitations and future research directions
+
+Our research has the following limitations. First, to investigate the
+main drivers of CBE, we adopted Leckie et al.’s (2016) suggested
+antecedents. Therefore, we believe that other research may focus on
+other antecedents based on different theoretical frameworks, such as
+telepresence theory (Steuer, 1992), social presence theory (Fulk et al.,
+1987), and relationship marketing (Alalwan et al., 2018; Vivek et al.,
+2012). Furthermore, since the area of CBE is still underexplored, we
+advise future researchers to investigate the impact of brand personality
+and social self-expression on CBE dimensions. Second, the general-
+izations of our research should be treated with caution since we applied
+this study on a different nomological network of CBE, in Jordan, the
+Middle East. Therefore, we recommend that future researchers validate
+the CBE model in other countries that are similar to Jordan’s culture.
+Third, we investigated the outcomes of CBBE dimensions as the main
+consequences of the CBE; however, our results did not support some
+hypotheses. This could be attributed to the mentality of our consumers.
+Therefore, we suggest that future research is carried out to investigate
+the impact of CBE on CBBE using different sectors.
+
+References
+
+Aaker, D., 1991. Managing Brand Equity: Capitalizing on the Value of a Brand Name. The
+
+Free Press, New York, NY.
+
+Aaker, D.A., 1996. Building strong brands. Free Press, New York, NY.
+Aaker, D., Keller, K., 1990. Consumer evaluations of brand extensions. J. Mark. 54 (1),
+
+27–41.
+
+Aaker, D.A., Joachimsthaler, E., 2000. Brand Leadership, Building Assets in an
+
+Information Economy. Free Press, New York, NY.
+
+Ajzen, I., Fishbein, M., 1975. Belief, Attitude, Intention and Behavior: An Introduction to
+
+Theory and Research. Addison-Wesley, Reading, MA.
+
+Ajzen, I., Fishbein, M., 1980. Understanding Attitudes and Predicting Social Behaviour.
+
+Prentice Hall, Englewood Cliffs, NJ.
+
+Aladwani, A.M., Dwivedi, Y.K., 2018. Towards a theory of socio citizenry: quality an-
+ticipation, trust configuration, and approved adaptation of governmental social
+media. Int. J. Inf. Manag. 43, 261–272.
+
+Alalwan, A.A., 2018. Investigating the impact of social media advertising features on
+
+customer purchase intention. Int. J. Inf. Manag. 42, 65–77.
+
+Alalwan, A.A., Rana, N.P., Dwivedi, Y.K., Algharabat, R., 2017. Social media in mar-
+keting: a review and analysis of the existing literature. Telemat. Inform. 34 (7),
+1177–1190.
+
+Alalwan, A.A., Baabdullah, A.M., Rana, N.P., Tamilmani, K., Dwivedi, Y.K., 2018.
+
+Examining adoption of mobile internet in Saudi Arabia: extending TAM with per-
+ceived enjoyment, innovativeness and trust. Technol. Soc. 55, 100–110.
+
+Algesheimer, R., Utpal, M.D., Andreas, H., 2005. The social influence of brand commu-
+
+nity: evidence from European Car Clubs. J. Mark. 69 (3), 19–34.
+
+Algharabat, R., 2017. Linking social media marketing activities with brand love: the
+
+mediating role of self-expressive brands. Kybernetes 46 (10), 1801–1819.
+
+Algharabat, R., Rana, N.P., Alalwan, A.A., Dwivedi, Y.K., 2018. The effect of telepresence,
+social presence and involvement on consumer brand engagement: an empirical study
+of non-profit organizations. J. Retail. Consum. Serv. 40, 139–149.
+
+Algharabat, R.S., 2018. The role of telepresence and user engagement in co-creation value
+and purchase intention: online retail context. J. Internet Commer. 17 (1), 1–25.
+Auh, S., Bell, S., McLeod, C., Shih, E., 2007. Co-production and customer loyalty in fi-
+
+nancial services. J. Retail. 83 (3), 359–370.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Bonhomme, J., Christodoulides, George, Jevons, C., 2010. The impact of user generated
+content on consumer based brand equity. In: Proceedings of the 6th Thought Leaders
+International Conference, Lugano, Switzerland.
+
+Brislin, R., 1986. The wording and translation of research instruments. In: Lonner, W.,
+Berry, J. (Eds.), Field Methods in Cross-Cultural Research. Sage, Beverly Hills.
+Brodie, R.J., Hollebeek, L., Juric, B., Ilic, A., 2011. Customer engagement: conceptual
+
+domain, fundamental propositions, and implications for research. J. Serv. Res. 14 (3),
+252–271.
+
+Brodie, R.J., Ilic, A., Juric, B., Hollebeek, L., 2013. Consumer engagement in a virtual
+
+brand community: an exploratory analysis. J. Bus. Res. 66 (1), 105–114.
+
+Brogi, S., Calabrese, A., Campisi, D., Capece, G., Costa, R., Pillo, F.D., 2013. The effects of
+online brand communities on brand equity in the luxury fashion industry. Int. J. Eng.
+Bus. Manag. 5 (32), 1–9.
+
+Bruhn, M., Schoenmueller, V., Schäfer, D.B., 2012. Are social media replacing traditional
+
+media in terms of brand equity creation? Manag. Res. Rev. 35 (9), 770–790.
+
+Calder, B.J., Malthouse, E.C., 2005. Managing media and advertising change with-
+
+integrated marketing. J. Advert. Res. 45 (4), 1–6.
+
+Calder, B.J., Malthouse, E.C., Schaedel, U., 2009. An experimental study of the re-
+
+lationship between online engagement and advertising effectiveness. J. Interact.
+Mark. 23 (4), 321–331.
+
+Carlson, J., Wyllie, J., Rahman, M.M., Voola, R., 2019. Enhancing brand relationship
+
+performance through customer participation and value creation in social media
+brand communities. J. Retail. Consum. Serv (In Press).
+
+Carroll, B.A., Ahuvia, A.C., 2006. Some antecedents and outcomes of brand love”. Mark.
+
+Lett. 17 (2), 79–89.
+
+Chan, K., Yim, C., Lam, S., 2010. Is customer participation in value creation a double-
+edged sword? Evidence from professional financial services across cultures. J.
+Marking 74, 48–64.
+
+Chen, J.S., Tsou, H.T., Ching, R.K.H., 2011. Co-production and its effects on service in-
+
+novation. Ind. Mark. Manag. 40 (8), 1331–1346.
+
+Chen, K.J., Kim, J., Lin, J.S., 2015. The effects of affective and cognitive elaborations from
+Facebook posts on consumer attitude formation. J. Consum. Behav. 208–218.
+Chevalier, J., Mayzlin, D., 2006. The effect of word of mouth on sales: online book re-
+
+views. J. Mark. Res. 345–354.
+
+Christodoulides, G., Jevons, C., Bonhomme, J., 2012. Memo to marketers: quantitative
+
+evidence for change. J. Advert. Res. 52 (1), 53–64.
+
+Chu, S.C., Sung, Y., 2015. Using a consumer socialization framework to understand
+
+electronic word-of-mouth (eWOM) group membership among brand followers on
+Twitter. Electron. Commer. Res. Appl. 14 (4), 251–260.
+
+Clarke, K., Belk, R.W., 1978. The effects of product involvement and task definition on
+anticipated consumer effort. In: Hunt, H.K. (Ed.), Advances in Consumer Research 6.
+Association for Consumer Research, Ann Arbor, MI, pp. 313–318.
+
+De Villiers, R., 2015. Consumer brand enmeshment: Typography and complexity mod-
+
+eling of consumer brand engagement and brand loyalty enactments. J. Bus. Res. 68
+(9), 1953–1963.
+
+Dessart, L., Veloutsou, C., Thomas, A.M., 2016. Capturing consumer engagement: duality,
+
+dimensionality and measurement. J. Mark. Manag. 32 (5–6), 399–426.
+
+Dholakia, U.M., Bagozzi, R.P., Pearo, L.K., 2004. A social influence model of consumer
+participation in network-and small-group-based virtual communities. Int. j. res. mark.
+21 (3), 241–263.
+
+Dwivedi, Y.K., Choudrie, J., Brinkman, W.P., 2006. Development of a survey instrument
+to examine consumer adoption of broadband. Ind. Manag. Data Syst. 106 (5),
+700–718.
+
+Dwivedi, A., 2015. A higher-order model of consumer brand engagement and its impact
+
+on loyalty intentions. J. Retail. Consum. Serv. 24, 100–109.
+
+Dwivedi, Y.K., Kapoor, K.K., Chen, H., 2015. Social media marketing and advertising.
+
+Mark. Rev. 15 (3), 289–309.
+
+Eisenbeiss, M., Blechschmidt, B., Backhaus, K., Freund, P.A., 2012. “The (real) world is
+not enough:” motivational drivers and user behavior in virtual worlds. J. Interact.
+Mark. 26 (1), 4–20.
+
+Eisingerich, A.B., Auh, S., Merlo, O., 2014. Acta non verba? The role of customer parti-
+cipation and word of mouth in the relationship between service firms’ customer sa-
+tisfaction and sales performance. J. Serv. Res. 17 (1), 40–53.
+
+Fornell, C., Larcker, D.F., 1981. Evaluating structural equation models with unobservable
+
+variables and measurement error. J. Mark. Res. 18 (1), 39–50.
+
+France, C., Merrilees, B., Miller, D., 2016. An integrated model of customer brand en-
+
+gagement: drivers and consequences. J. Brand Manag. 23 (2), 119–136.
+
+Fournier, S., 1998. Consumers and their brands: Developing relationship theory in con-
+
+sumer research. J. Consumer Res. 24 (4), 343–373.
+
+Fulk, J., Schmitz, J., Power, G.J., 1987. A social information processing model of media
+
+use in organizations. Commun. Res. 14 (5), 520–552.
+
+Gambetti, R., Biraghi, S., Schultz, D.E., Graffigna, G., 2015. Brand wars: consumer–brand
+
+engagement beyond client–agency fights. J. Strateg. Mark. 24 (2), 90–103.
+
+Gambetti, R.C., Graffigna, G., Biraghi, S., 2012. The grounded theory approach to con-
+
+sumer brand engagement. Int. J. Mark. Res. 54 (5), 659–687.
+
+Godey, B., Manthiou, A., Pederzoli, D., Rokka, J., Aiello, G., Donvito, R., Singh, R., 2016.
+Social media marketing efforts of luxury brands: influence on brand equity and
+consumer behaviour. J. Bus. Res. 69 (12), 5833–5841.
+
+Gruen, T.W., Summers, J.O., Acito, F., 2000. Relationship marketing activities, commit-
+ment, and membership behaviors in professional associations. J. Mark. 64 (3), 34–49.
+Gummerus, J., Liljander, V., Weman, E., Pihlstrom, M., 2012. Customer engagement in a
+
+Facebook brand community. Manag. Res. Rev. 857–877.
+
+Gutiérrez-Cillán, J., Camarero-Izquierdo, C., José-Cabezudo, R.S., 2017. How brand post
+content contributes to user’s Facebook brand-page engagement. Exp. Route Act.
+Particip. Bus. Res. Q. 20 (4), 258–274.
+
+Hair, J., Anderson, R., Tatham, R., Black, W., 2010. Multivariate Data Analysis. Prentice-
+
+11
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Hall, Upper Saddle River, NJ.
+
+motivations for brand-related social media use. Int. J. Advert. 30 (1), 13–46.
+
+Halaszovich, T., Nel, J., 2017. Customer-brand engagement and Facebook fan-page 'like'
+
+Nisar, T.M., Prabhakar, G., Patil, P.P., 2018. Sports clubs' use of social media to increase
+
+intention. J. Product. Brand Manag. 26 (2), 120–134.
+
+spectator interest. Int. J. Inf. Manag. 43, 188–195.
+
+Hall-Phillips, A., Park, J., Chung, T.-L., Anaza, N.A., Rathod, S.R., 2016. I (heart) social
+ventures: identification and social media engagement. J. Bus. Res. 69 (2), 484–491.
+
+Harman, H.H., 1976. Modern Factor Analysis, 3rd ed. revised. University of Chicago
+
+Press, Chicago, IL. Hassanein.
+
+Pacauskas, D., Rajala, R., Westerlund, M., Mäntymäki, M., 2018. Harnessing user in-
+
+novation for social media marketing: case study of a crowdsourced hamburger. Int. J.
+Inf. Manag. 43, 319–327.
+
+Page, K.L., Pitt, L., 2011. Web 2.0, social media, and creative consumers: special issue. J.
+
+He, H., Li, Y., Harris, L., 2012. Social identity perspective on brand loyalty. J. Bus. Res. 65
+
+Consum. Behav. 10 (6), 313–372.
+
+(5), 648–657.
+
+Heinonen, K., 2011. Consumer activity in social media: managerial approaches to con-
+
+sumers' social media behaviour. J. Consum. Behav. 10 (6), 356–364.
+
+Hepola, J., Karjaluoto, H., Hintikka, A., 2017. The effect of sensory brand experience and
+involvement on brand equity directly and indirectly through consumer brand en-
+gagement. J. Product. Brand Manag. 26 (3), 282–293.
+
+Papista, E., Chrysochou, P., Krystallis, A., Dimitriadis, S., 2018. Types of value and cost in
+
+consumer–green brands relationship and loyalty behaviour. J. Consum. Behav. 17
+(1), 101–113.
+
+Podsakoff, P.M., Mackenzie, S.B., Lee, J.-Y., Podsakoff, N.P., 2003. Common method
+
+biases in behavioral research: a critical review of the literature and recommended
+remedies. J. Appl. Psychol. 88 (5), 879–903.
+
+Hollebeek, L.D., 2011a. Demystifying customer brand engagement: exploring the loyalty
+
+Prahalad, C.K., Ramaswamy, V., 2000. Co-opting customer competence. Harv. Bus. Rev. 8
+
+nexus. J. Mark. Manag. 27 (7–8), 785–807.
+
+(1), 79–90.
+
+Hollebeek, L.D., 2011b. Exploring customer brand engagement: definition and themes. J.
+
+Peter, J.P., Olson, J.C., Grunert, K.G., 1999. Consumer Behaviour and Marketing Strategy.
+
+Strateg. Mark. 19 (7), 555–573.
+
+McGraw-Hill, London, pp. 329–348.
+
+Hollebeek, L.D., Glynn, M., Brodie, R., 2014. Consumer brand engagement in social
+
+Richard, J.E., Guppy, S., 2014. Facebook: Investigating the influence on consumer pur-
+
+media: conceptualization, scale development and validation. J. Interact. Mark. 28 (2),
+149–165.
+
+chase intention. Asian J. Bus. Res. 4 (2), 1–10.
+
+Riegner, C., 2007. Word of mouth on the web: the impact of Web 2.0 on consumer
+
+Hossain, M.A., Dwivedi, Y.K., Chan, C., Standing, S., Olanrewaju, A.-S., 2018. Sharing
+
+purchase decisions. J. Advert. Res. 47 (4), 436–447.
+
+political content in online social media: a planned and unplanned behaviour ap-
+proach. Inf. Syst. Front. 20 (3), 485–501.
+
+Hutter, K., Hautz, J., Dennhardt, S., Füller, J., 2013. The impact of user interactions in
+social media on brand awareness and purchase intention: the case of mini on
+Facebook. J. Product. Brand Manag. 22 (5), 342–351.
+
+Ippolito, A., 2009. Creating value in multiple cooperative relationships. Int. J. Qual. Serv.
+
+Sci. 1 (3), 255–270.
+
+Roblek, V., Pejić Bach, M., Meško, M., Bertoncelj, A., 2013. The impact of social media to
+
+value added in knowledge-based industries. Kybernetes 42 (4), 554–568.
+
+Roy, R., Chau, R., 2011. Consumer-based brand equity and status-seeking motivation for a
+
+global versus local brand. Asia Pac. J. Mark. Logist. 23 (3), 270–284.
+
+Russell-Bennett, R., McColl-Kennedy, J.R., Coote, L.V., 2007. Involvement, satisfaction,
+
+and brand loyalty in a small business services setting. J. Bus. Res. 60 (12),
+1253–1260.
+
+Islam, J.U., Rahman, Z., 2016. The transpiring journey of customer engagement research
+
+Schau, H.J., Gilly, M.C., 2003. We are what we post? Self-presentation in personal web
+
+in marketing: A systematic review of the past decade. Manag. Decis. 54 (8),
+2008–2034.
+
+space. J. Consum. Res. 30 (3), 385–404.
+
+Schivinski, B., Dabrowski, D., 2015. The impact of brand communication on brand equity
+
+Jahn, B., Kunz, W., 2012. How to transform consumers into fans of your brand. J. Serv.
+
+through Facebook. J. Res. Interact. Market. 31–53.
+
+Manag. 23 (3), 344–361.
+
+Jin, Y., Huang, J., 2017. Why do consumers participate in brand microblogs? Electron.
+
+Commer. Res. Appl. 24, 1–11.
+
+Schultz, C.D., 2017. Proposing to your fans: which brand post characteristics drive con-
+sumer engagement activities on social media brand pages? Electron. Commer. Res.
+Appl. 26, 23–34.
+
+Kamboj, S., Sarmah, B., Gupta, S., Dwivedi, Y., 2018. Examining branding co-creation in
+
+Shareef, M.A., Dwivedi, Y.K., Kumar, V., Kumar, U., 2017b. Content design of adver-
+
+brand communities on social media: applying the paradigm of Stimulus-Organism-
+Response. Int. J. Inf. Manag. 39, 169–185.
+
+tisement for consumer exposure: mobile marketing through short messaging service.
+Int. J. Inf. Manag. 37 (4), 257–268.
+
+Kapoor, K.K., Tamilmani, K., Rana, N.P., Patil, P., Dwivedi, Y.K., Nerur, S., 2018.
+
+Shareef, M.A., Mukerji, B., Dwivedi, Y.K., Rana, N.P., Islam, R., 2017a. Social media
+
+Advances in social media research: past, present and future. Inf. Syst. Front. 20 (3),
+531–558.
+
+marketing: comparative effect of advertisement sources. J. Retail. Consum. Serv. 46,
+58–69.
+
+Keller, K.L., 1993. Conceptualizing, measuring, and managing customer-based brand
+
+Shareef, M.A., Mukerji, B., Alryalat, M.A.A., Wright, A., Dwivedi, Y.K., 2018.
+
+equity. J. Mark. 57 (1), 1–22.
+
+Keng, C.-J., Ting, H.-Y., 2009. The acceptance of blogs: using a customer experiential
+
+value perspective. Internet Res. 19 (5), 479–495.
+
+Kim, A.J., Ko, E., 2012. Do social media marketing activities enhance customer equity?
+An empirical study of luxury fashion brand. J. Bus. Res. 65 (10), 1480–1486.
+Lassoued, R., Hobbs, J.E., 2015. Consumer confidence in credence attributes: the role of
+
+Advertisements on Facebook: identifying the persuasive elements in the development
+of positive attitudes in consumers. J. Retail. Consum. Serv. 258–268.
+
+Shiau, W.-L., Dwivedi, Y.K., Yang, H.-S., 2017. Co-citation and cluster analyses of extant
+
+literature on social networks. Int. J. Inf. Manag. 37 (5), 390–399.
+
+Shiau, W.-L., Dwivedi, Y.K., Lai, H.-H., 2018. Examining the core knowledge on
+
+Facebook. Int. J. Inf. Manag. 52–63.
+
+brand trust. Food Policy 52, 99–107.
+
+Sirgy, M.J., Lee, D.-J., Johar, J.S., Tidwell, J., 2008. Effect of self-congruity with spon-
+
+Leckie, C., Nyadzayo, M., Johnson, L., 2016. Antecedents of consumer brand engagement
+
+sorship on brand loyalty. J. Bus. Res. 61 (10), 1091–1097.
+
+and brand loyalty. J. Mark. Manag. 32 (5–6), 558–578.
+
+Sobhanifard, Y., Sadatfarizani, S., 2018. Triplex modeling of the political messages con-
+
+Lee, S.H., Workman, J.E., 2015. Determinants of brand loyalty: self-construal, self-ex-
+
+sumer behavior in social networks. J. Consum. Behav. 17 (2), 187–196.
+
+pressive brands, and brand attachment. Int. J. Fashion Des.Technol. Education 8 (1),
+12–20.
+
+Lee, J., Hong, I.B., 2016. Predicting positive user responses to social media advertising:
+the roles of emotional appeal, informativeness, and creativity. Int. J. Inf. Manag. 36
+(3), 360–373.
+
+Sprott, D., Czellar, S., Spangenberg, E., 2009. The importance of a general measure of
+brand engagement on market behavior: development and validation of a scale. J.
+Mark. Res. 46 (1), 92–104.
+
+Steuer, J., 1992. Defining virtual reality: dimensions determining telepresence. J.
+
+Commun. 42 (4), 73–93.
+
+Li, C., Bernoff, J., 2011. Groundswell: Winning in a World Transformed by Social
+
+TRC, 2016. Telecommunication Regularity Commission 〈http://www.trc.gov.jo/Pages/
+
+Technologies. Harvard Business Review Press, Boston, M.A.
+
+viewpage.aspx?PageID=1062〉, (Accessed 15 December 2017).
+
+Liu, F., Li, J., Mizerski, D., Soh, H., 2012. Self-congruity, brand attitude, and brand loy-
+
+alty: a study on luxury brands. Eur. J. Mark. 46 (7/8), 922–937.
+
+Madupu, V., Cooley, D.O., 2010. Antecedents and consequences of online brand com-
+
+munity participation: a conceptual framework. J. Internet Commer. 9 (2), 127–147.
+Malär, L., Krohmer, H., Hoyer, W., Nyffenegger, B., 2011. Emotional brand attachment
+
+and brand personality: the relative importance of the actual and the ideal self. J.
+Mark. 75 (4), 35–52.
+
+Marketing Science Institute, 2012, 2014. 2012–2014-2016 Research Priorities: A Guide to
+
+MSI Research Programs and Procedures. Marketing Science Institute,
+Cambridge, MA.
+
+Van Doorn, J., Katherine, L., Vikas, M., Stephan, N., Doreen, P., Peter, P., Peter, C.V.,
+2010. Customer engagement behavior: theoretical foundations and research direc-
+tions. J. Serv. Res. 13 (3), 253–266.
+
+Vargo, S.L., Lusch, R.F., 2004. Evolving to a new dominant logic for marketing. J. Mark.
+
+68 (1), 1–17.
+
+Vargo, S.L., Lusch, R.F., 2008. Service-dominant logic: continuing the evolution. J. Acad.
+
+Mark. Sci. 36 (1), 1–10.
+
+Villarejo-Ramos, A.F., Sanchez-Franco, M.J., 2005. The impact of marketing commu-
+nication and price promotion on brand equity. J. Brand Manag. 12 (6), 431–444.
+Vivek, S.D., Beatty, S.E., Morgan, R.M., 2012. Customer engagement: exploring customer
+
+Martínez-López, F.J., Anaya-Sánchez, R., Molinillo, S., Aguilar-Illescas, R., Esteban-Millat,
+I., 2017. Consumer engagement in an online brand community. Electron. Commer.
+Res. Appl. 23, 24–37.
+
+relationships beyond purchase. J. Mark. Theory Pract. 20 (2), 122–146.
+
+Wallace, E., Buil, I., Chernatony, L., 2014. Consumer engagement with self-expressive
+brands: brand love and WOM outcomes. J. Product. Brand Manag. 23 (1), 33–42.
+
+McKenna, K.Y., Bargh, J.A., 1999. Causes and consequences of social interaction on the
+
+Walsh, G., Beatty, S., Shiu, E., 2009. The customer-based corporate reputation scale:
+
+Internet: A conceptual framework. Media psychology 1 (3), 249–269.
+
+Replication and short form. J. Bus. Res. 62 (10), 924–930.
+
+Mishra, A., Bhushan, S., Cyr, D., 2014. Linking user experience and consumer-based
+
+Wang, S.S., Lin, Y.C., Liang, T.P., 2018. Posts that attract millions of fans: the effect of
+
+brand equity: the moderating role of consumer expertise and lifestyle. J. Product.
+Brand Manag. 23 (4/5), 333–348.
+
+brand-post congruence. Electron. Commer. Res. Appl. 28, 73–85.
+
+Westhuizen, L.M., 2018. Brand loyalty: exploring self-brand connection and brand ex-
+
+Misirlis, N., Vlachopoulou, M., 2018. Social media metrics and analytics in
+
+perience. J. Product. Brand Manag. 27 (2), 172–184.
+
+marketing–S3M: a mapping literature review. Int. J. Inf. Manag. 38 (1), 270–276.
+
+Wirtz, J., Den, A., Bloemer, J., Horváth, C., Ramaseshan, B., van de, J., Aksoy, L., 2013.
+
+Muniz Jr, Albert M., O’guinn, T.C., 2001. Brand community. J. Consum. Res. 27 (4),
+
+412–432.
+
+Managing brands and customer engagement in online brand communities. J. Serv.
+Manag. 24 (3), 223–244.
+
+Muntinga, D.G., Moorman, M., Smit, E.G., 2011. Introducing COBRAs: exploring
+
+Woodruff, R.B., Gardial, S., 1996. Know Your Customer: New Approaches to
+
+12
+
+R. Algharabat, et al.
+
+Journal of Retailing and Consumer Services xxx (xxxx) xxxx
+
+Understanding Customer Value and Satisfaction. Blackwell, Cambridge, MA.
+
+Zaichkowsky, J.L., 1985. Measuring the involvement construct. J. Consum. Res. 12 (3),
+
+Yazdanparast, A., Joseph, M., Muniz, F., 2016. Consumer based brand equity in the 21st
+
+341–352.
+
+century: an examination of the role of social media marketing. Young Consum. 17
+(3), 243–255.
+
+Yoo, B., Donthu, N., 2001. Developing and validating a multidimensional consumer-based
+
+brand equity scale. J. Bus. Res. 52 (1), 1–14.
+
+Yoo, B., Donthu, N., Lee, S., 2000. An examination of selected marketing mix elements
+
+and brand equity. J. Acad. Mark. Sci. 28 (2), 195–211.
+
+Zeithaml, V.A., 1988. Consumer perceptions of price, quality, and value: a means end
+
+model and synthesis of evidence. J. Mark. 52 (3), 2–22.
+
+Zheng, X., Cheung, C., Lee, M., Liang, L., 2015. Building brand loyalty through user en-
+gagement in online brand communities in social networking sites. Inf. Technol.
+People 28 (1), 90–106.
+
+13

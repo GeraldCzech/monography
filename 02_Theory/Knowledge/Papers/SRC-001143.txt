@@ -1,0 +1,2123 @@
+Bhati, A., & McDonnell, D. (2024). Message Content and Diversity as an Effective 
+Nonprofit Fundraising Strategy on Social Media. Nonprofit and Voluntary Sector 
+Quarterly, 0(0). https://doi.org/10.1177/08997640241303920
+
+Message content and diversity as an effective nonprofit fundraising strategy on social media 
+
+Abstract  
+
+This article explores the relationship between solicitation messages posted by nonprofit 
+
+organizations on their Facebook profile and attracting donations during online fundraising 
+
+events. Recent studies suggest that certain types of messages are more effective at spurring 
+
+donors to give, but the evidence base is founded mainly on experimental designs. We use 
+
+observational data for 752 nonprofits that participated in one or both of the Omaha Gives 
+
+fundraising events in 2015 and 2020. Using the total amount of money donated to each 
+
+organization as our outcome, we find nonprofits that post more diverse solicitation messages 
+
+raise more money during online fundraising events. Consistent with previous studies, social 
+
+media network size, activity, and engagement are once again important factors in explaining 
+
+fundraising success. Our results provide deeper insights into the nuances of social media 
+
+strategies for attracting donors and raising funds. 
+
+Keywords  
+
+Fundraising, social media, online giving, giving days, Facebook 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction 
+
+It is common knowledge that nonprofit organizations harness the power of social media 
+
+platforms to connect with potential donors, share their work, recruit volunteers, and raise 
+
+donations (Campbell et al., 2014; Guo & Saxton, 2014, 2020; Lovejoy & Saxton, 2012; Waters 
+
+et al., 2009; Waters & Jamal, 2011). In the past decade, fundraising using social media has been 
+
+one of the fastest ways of collecting donations from individuals globally (Global Trends, 2020). 
+
+Similarly, academic studies have found evidence that an active social media presence - such as 
+
+nonprofits posting requests for donations on Facebook - can lead to peer pressure among 
+
+“friends” of a donor or followers of the nonprofit and acts as a motivation for them to give (Bhati 
+
+& McDonnell, 2020; Castillo et al., 2014; Harris et al., 2021; Lacetera et al., 2016; Saxton & 
+
+Wang, 2014).  
+
+However, still there is a gap in our understanding about what type of social media activities, and 
+
+soliticiation requests in particular, are most successful at generating donations (Saxton & Waters, 
+
+2014; Xiao et al., 2022). For instance, studies have shown that not all messages are equal in 
+
+attracting donations through traditional fundraising practices (Huang et al., 2016; Guidry et al., 
+
+2014; Saxton & Waters, 2014). This leaves important questions unanswered: what type of 
+
+messaging on social media generates the highest level of donations? Should nonprofits adopt a 
+
+diverse or consistent approach to their solicitation messages when raising funds through social 
+
+media platforms? To answer these questions, we use data from 752  nonprofits that participated 
+
+in the Omaha Gives online fundraising eventsin 2015 and 2020. We link administrative data on 
+
+these organisations, including total donations received, to their social media usage, in particular 
+
+their Facebook posts in relation to Omaha Gives in the lead-up to the events. We find a 
+
+2 
+
+ 
+ 
+moderate, statistically significant relationship between message type diversity and fundraising 
+
+success: nonprofits that post a diverse range of messages on social media – e.g., thanking donors 
+
+for their support, sharing information about the organization’s mission, demonstrating impact on 
+
+beneficiaries – to solicit donations raise more in funding than organizations that post 
+
+homogeneous solicitation messages. We also find, compared to posts aimed at general 
+
+solicitation, posts focused on gratitude or goal attainment are associated with increased 
+
+donations. Finally, social media network size, activity, and engagement are once again important 
+
+factors in explaining fundraising success. Our study is one of the first to show the influence of 
+
+message type and diversity on fundraising success during giving days using observational data 
+
+on a large sample of nonprofit organizations. 
+
+Literature Review 
+
+Since the early 2000s, nonprofit organizations have evolved in their usage of Information 
+
+Technology from an era where only a handful of organizations had a website and communication 
+
+was mainly “one-way” (Hackler & Saxton, 2007; Kang & Norton, 2004), to more reciprocal 
+
+(“two-way”) engagement (Bortree & Seltzer, 2009; Briones et al., 2011; Lovejoy & Saxton, 
+
+2012). As nonprofits continue to use social media platforms, scholars have focused on how 
+
+nonprofits are using them to engage with stakeholders. Lovejoy & Saxton (2012) identified a 
+
+three-tier “hierarchy of engagement”: the first tier as providing information about the 
+
+organization or cause, followed by developing a community, and finally calling on followers to 
+
+act on behalf of the organization. Subsequent studies have implemented this framework to 
+
+advance the understanding of social media usage by nonprofits in diverse contexts (Bürger, 
+
+2015; Campbell & Lambright, 2020; Svensson et al., 2015; Zhou & Pan, 2016). Overall, these 
+
+3 
+
+ 
+ 
+studies argue a majority of organizations still use social media platforms primarily for 
+
+disseminating information, with limited communication and engagement focused on community 
+
+building or calls to action.  
+
+Another important stream of research examines the relationship between social media usage, 
+
+such as the frequency of posting messages and subsequent engagement with followers, and 
+
+attracting donors and donations (Bhati & McDonnell, 2020; Elvira-Lorilla et al., 2023; Enjolras, 
+
+2023; Lee, 2021; Olinski & Szamrowski, 2021; Saxton & Wang, 2014; Suh, 2022; Sun & 
+
+Asencio, 2019). Although these studies provide valuable insights about the relationship between 
+
+social media usage and fundraising, they do examine which type of fundraising messages are 
+
+most successful at generating support. This question is essential as nonprofits are fiercely 
+
+competing to get attention from potential donors (Guo & Saxton, 2018).  
+
+A small number of studies examie whether the content of social media messagesis associated 
+
+with attracting donations. In an experimental study, Baek & Yoon (2022) found that participants 
+
+expressed a higher intention to give when fundraising appeals on social media triggered a 
+
+particular emotion. For example, participants show higher intention to give when they are shown 
+
+ads focusing on egoistic benefits (i.e., benefits to the donor). Similar results were found by 
+
+Daniel, Curley & Walk (2024) examing social media fundraising messages. They found “donors 
+
+most positively responded to the philanthropic or altruistic attempts to raise funds” (p. 79). In 
+
+another experimental study using participants from Amazon MTurk, Xiao et al. (2022) found 
+
+that messages containing details on outcomes produced by donations elicited higher intention to 
+
+donate. These studies suggest that message content influences prosocial behavior in the relation 
+
+4 
+
+ 
+ 
+ 
+of social media. However, the research on this topic is nascent and founded on experimental 
+
+studies and/or small samples. Our study addresses this gap by using observational data on 
+
+nonprofit’s social media messages and their subsequent success during online fundraising events.  
+
+Data and Method 
+
+Our data consists of 983 observations for 752 nonprofits that participated in one or both Omaha 
+
+Gives fundraising events in 2015 and 2020. 231 of these 752 organisations participated in both 
+
+events (2015 and 2020) and 521 nonprofits participated in one Omaha Gives. Omaha Gives was 
+
+a 24-hour fully online, community-wide event in the Omaha Metro area organized by Omaha 
+
+Community Foundation (OCF). The event took place for eight consecutive years between 2013 
+
+and 2020 and raised over $58 million for local nonprofits (OCF, 2021). In Omaha Gives 2015 
+
+and 2020, a total of 1,720 nonprofits participated (2015 – 704 and 2020 – 1,016). However, only 
+
+752 organizations either received any donations or had a social media presence that we could 
+
+measure. All participating organizations created a public profile at omahagives.org where donors 
+
+can donate as little as $10 through the website. Throughout the 24 hours, the total amount raised 
+
+is publically accessible using the Omaha Gives portal, and participating nonprofits can 
+
+continuously appeal to potential donors through their social media platforms.  
+
+The data underpinning this study records total donations received by the organization, its 
+
+program service area and budget size, as well as Facebook information on the number of likes, 
+
+posts, shares, and message content and diversity. While the social media landscape evolves at 
+
+pace, Facebook remains an important platform for nonprofits (Carboni & Maxwell, 2015; 
+
+Campbell & Lambright, 2020). We collect social media data using a three-stage process. First, 
+
+5 
+
+ 
+ 
+ 
+we collected all  Facebook posts by each organization from their profile in the months leading up 
+
+to each event (including the day it took place). Second, we filter posts to those containing terms 
+
+related to Omaha Gives, such as “Omaha Gives,” “omahagives,” “#omahagives,” “omaha gives,” 
+
+“omahagives!,” and “May 20.” Third, Facebook posts were hand coded into distinct message 
+
+types drawn from previous literature on fundraising messaging (Table 1). Each post was assigned 
+
+a single code based on the message types listed in Table 1; in instances where a post appeared to 
+
+fit multiple categories, codes were assigned after considering the post’s primary focus (Lovejoy 
+
+& Saxton, 2012; Saxton & Waters, 2014). Further, any discrepancies between coding were 
+
+discussed and code rules were refined until an agreement was reached by the researchers.  
+
+Table 1: Categories of fundraising posts by organizations participating in Omaha Gives  
+
+Category 
+Beneficiaries  
+
+Goal 
+attainment 
+
+Gratitude 
+
+Explanation 
+Focus of the post is 
+discussing how 
+organization is 
+helping its 
+beneficiaries by 
+naming them 
+(Duncan, 2004; 
+Smith & 
+McSweeney, 2007) 
+Motivating donors 
+to give by targeting 
+a fundraising goal 
+(Cryder, 
+Loewenstein, 
+Seltman, 2013; Dai 
+& Zhang, 2019)  
+Posts focusing on 
+thanking donors for 
+their donations (Li 
+et al., 2020; Waters 
+& Feneley, 2013) 
+
+Example 
+@NebraskaMed 
+
+Your donation to #OmahaGives helps our Child Life team 
+take care of patients like Abby! Donate today: 
+bit.ly/1IREaG7 
+
+@YCBinc 
+
+Thank you everyone!!!  We made it to $4,245.00!!!!!   
+This is a great accomplishment. Your donations are going 
+directly to help teens and adults with disabilities.  Can we 
+make it to $5,000?  You can help!!! 
+
+@ nebraskaculturalendowment 
+We are feeling the love! Thank you Ree & Jun, Heidi, 
+Sharee & Murray, John & Judy and Matt & Kristi to for 
+your generous gifts to the NCE through #OmahaGives! 
+There is still plenty of time to give during this community 
+#givetogether.  
+
+May 20th is #OmahaGives! Give to the NCE at 
+http://bit.ly/1zT1d1g 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Mission 
+
+Focus of the post is 
+discussing 
+organizations’ 
+mission and how it 
+helps its 
+beneficiaries (Milde 
+& Yawson, 2017) 
+
+Social media 
+engagement 
+
+Solicitation 
+
+Engaging with 
+donors by 
+requesting them to 
+change their profile 
+picture on 
+Facebook or share 
+fundraising 
+message with their 
+friends (Castillo et 
+al., 2014) 
+Overall focus of 
+the post is sharing 
+details and 
+persuading donors 
+to give (Bekkers & 
+Wiepking, 2011) 
+
+@ ZPHIBNebraska 
+
+Did you know that Omaha Gives! is less than a month 
+away?! This year consider making a gift to the Nebraska 
+Sigma Zeta Education Foundation (Nebraska Sigma Zeta 
+Education Foundation, Inc.) as we spread awareness 
+about the importance of prenatal care and Stork's Nest, 
+our #1 prenatal education program!  
+
+The program provides incentives and encouragement for 
+women to keep prenatal appointments, a critical factor for 
+helping babies get a healthy start in life. Your gift will 
+help us keep two Omaha metropolitan area locations open 
+as we continue to serve more women, families and babies!  
+@WIFCaP2 
+
+If you have, or if you are going to donate to 
+Omahagives24.org on behalf of WIFCaP on Wednesday 
+May 20th (two days away!)  feel free to make one of these 
+cool #OmahaGives profile pics yours, from now thru the 
+20th!  We would love to see LOTS of WIFCaP logo's out 
+there supporting our cause!  Thank you! 
+
+@62649475309 
+
+Omaha Gives is a 24-hour charitable challenge to benefit 
+metro area non-profits. This community "give together" 
+begins at midnight on May 20 with a minimum gift of 
+only $10. There will be hourly drawings, prizes, and 
+bonus dollars to boost your gifts. 
+
+Ask your friends, families, and co-workers to join the fun. 
+On May 20 go to omahagives24.org and donate to 
+CrossOver Prison Ministries. 
+
+Analytical Approach 
+
+Our dependent variable is the total donations ($) raised by a participating nonprofit during an 
+
+Omaha Gives event. Drawing on  past studies, we operationalize ten independent variables: five 
+
+relating to organizational characteristics and five concerning social media use. Budget size is 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+measured using an ordinal variable with three categories: (1) budget size less than $250,000 
+
+(Small); (2) budget between $250,000 - $999,999 (Medium); and (3) budget more than $999,999 
+
+(Large). Organization age is calculated by subtracting year of each Omaha Gives event from the 
+
+nonprofit’s year of formation. Prior participation in Omaha Gives is measured as a binary 
+
+categorical variable - 1 if the organization participated in past Omaha Gives and 0 if it is its first 
+
+time. Program service area is a nominal variable with nine categories representing areas of 
+
+activity, including Human Services, Religious, Education, Arts & Culture, etc. Finally, we 
+
+employ a binary variable to measure the difference in donations for the 2015 and 2020 events (1 
+
+= donations raised during 2020, 0 = donations raised during 2015).  
+
+We specify three numeric measures of social media usage: (1) total likes on nonprofits’s 
+
+Facebook page (network size), (2) total number of posts related to Omaha Gives (network 
+
+activity), and (3) total shares of posts relating to Omaha Gives by the organization’s Facebook 
+
+followers (network engagement). We operationalize fundraising message content as a categorical 
+
+measure capturing the most common (modal) Facebook post type based on our classification: 
+
+Beneficiary, Goal, Gratitude, Mission, Social Media,  Solicitation, and Tie (which captures 
+
+instances where a nonprofit has more than one most common post type e.g., same number of 
+
+Mission and Gratitude posts). For example, a nonprofit has total of 8 Facebook posts, 4 were 
+
+coded as Gratitude (50 percent of total posts), 2 were coded as Goal, 1 was coded as Mission and 
+
+1 was coded as Social Media; in this instance Gratitude is the most common post type. Finally, 
+
+we measure fundraising message diversity as a continuous variable ranging between 0 (very 
+
+concentrated post types) and 1 (very diverse post types). For example, a nonprofit that only posts 
+
+Solicitation messages will have a score of 0, while an organization that posts an equal number of 
+
+all post types will have a score of 1. 
+
+8 
+
+ 
+We employ ordinary least squares (OLS) regression with cluster-robust standard errors on a log-
+
+transformed version of total donations: the transformation ensures that our regression 
+
+coefficients fall within the valid range of the dependent variable (i.e., nonzero, positive values 
+
+for total donations). Cluster-robust OLS, which adjusts statistical significance tests in light of 
+
+some organisations appearing more than once in the data, is preferred to panel data models with 
+
+organisation fixed-effects as only 231 of 752 organisations provide observations for more than a 
+
+single year and thus there is little variation over time in the data. Fixed-effects models only 
+
+examine within-unit variation in the outcome; in this instance the model coeficients could only 
+
+be interpreted in terms of how organisations change over time, not differences between them. We 
+
+estimate our models in an iterative process, adding in the organizational characteristic variables, 
+
+followed by our three numeric measures of Facebook use, and finally, our measures of Facebook 
+
+post type – we examine the statistical significance of adding in each set of variables using 
+
+Likelihood Ratio tests. We test for multicollinearity among the independent variables in each 
+
+model by calculating the variance inflation factors (VIF): mean VIF is never higher than 1.5 and 
+
+no variable has a VIF greater than 2.5 in any model which is below the thresholds of suggesting 
+
+multicollinearity is not a problem (Allison, 1999).  
+
+Sample Description 
+
+Results 
+
+The mean and median donations raised per nonprofit organization was $11,969 (SD=$29,644) 
+
+and $3,395 respectively, with this amount ranging from $2 to $419,624. The mean age of 
+
+participating nonprofits was 32 years (SD = 33). Approximately 50 percent of organizations had 
+
+an annual budget of less than $250,000, while 28 percent had a budget size of $1 million or 
+
+9 
+
+ 
+ 
+ 
+greater. 60 percent of nonprofits participated in past Omaha Gives events. Finally, participating 
+
+nonprofits covered diverse program service areas: human services (24 percent) was largest, 
+
+followed by education (17 percent), and arts & culture (14 percent). 
+
+The total number of likes on an organization’s Facebook page ranged from 1 to 269,382; 50 
+
+percent of organizations had 1,300 or fewer likes. The number of Facebook posts participating 
+
+nonprofits made relating to Omaha Gives ranged from 1 to 80, with a mean and median of 7 
+
+(SD=8) and 5, respectively. The number of shares of posts related to Omaha Gives by 
+
+nonprofits’ followers ranged from 0 - 2,249, with a mean of 23 (SD=12) and median of 6; 25 
+
+percent of organizations had 2 or fewer shares.  
+
+Table 2. Summary statistics for dependent and independent variables 
+
+Variable  
+
+Total donations 
+
+Organisation age 
+
+Network size (no. of likes) 
+
+Network activity (no. of posts) 
+
+Network engagement (no. of shares) 
+
+Budget size 
+
+Small (< $250,000) 
+
+Medium ($250,0000 -    
+$999,999) 
+
+N 
+
+983 
+
+983 
+
+983 
+
+983 
+
+983 
+
+N 
+
+453 
+
+251 
+
+Median  Mean 
+
+SD 
+
+Minimum  Maximum 
+
+$419,624 
+
+184 
+
+269,382 
+
+80 
+
+2,249 
+
+$3,395 
+
+$11,969 
+
+$29,6449 
+
+$2 
+
+1 
+
+1 
+
+1 
+
+0 
+
+21 
+
+32 
+
+33 
+
+1,300 
+
+3,939 
+
+12,902 
+
+7 
+
+23 
+
+8 
+
+112 
+
+5 
+
+6 
+
+% 
+
+46 
+
+26 
+
+Large (> $1 million) 
+
+279 
+
+28 
+
+Program Service area 
+
+Arts & Culture 
+
+Education 
+
+Environment / Animal 
+
+Health 
+
+Human Services 
+
+Community 
+Improvement/Social 
+Advocacy 
+
+142 
+
+169 
+
+44 
+
+132 
+
+234 
+
+98 
+
+14 
+
+17 
+
+4 
+
+13 
+
+24 
+
+10 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Post type 
+
+Religious 
+
+Neighborhoods 
+
+Other 
+
+Beneficiary 
+
+Goal 
+
+Gratitude 
+
+Mission 
+
+Social Media 
+
+Solicitation 
+
+Tie 
+
+Past participation 
+
+Year 
+
+No 
+
+Yes 
+
+2015 
+
+2020 
+
+115 
+
+12 
+
+21 
+
+28 
+
+24 
+
+25 
+
+35 
+
+126 
+
+8 
+
+653 
+
+112 
+
+407 
+
+576 
+
+491 
+
+492 
+
+2 
+
+3 
+
+2 
+
+3 
+
+4 
+
+13 
+
+1 
+
+66 
+
+11 
+
+41 
+
+59 
+
+50 
+
+50 
+
+Notes: Figures rounded to nearest whole number and therefore percentages may not round to 
+
+100. 
+
+Predicting Donations using Message Content and Diversity 
+
+We present the results of a set of nested statistical models predicting total donations as a function 
+
+of our independent variables. The models are estimated on a consistent sample of 752 
+
+organizations (983 observations) with no missing values for the variables of interest. We 
+
+describe the regression coefficients as the percentage change in total donations for a given 
+
+change (absolute or percentage) in the independent variables e.g., an x percent increase in the 
+
+number of Facebook post shares is associated with a y percent increase in total donations.1 We 
+
+interpret Model 3 coefficients to make substantive claims about the association between each of 
+
+the independent variables and the outcome – this model was chosen as it constitutes a better fit 
+
+1 The calculation for independent variables in their original scale: (exponent(model coefficient) – 1) * 100, which 
+produces the percentage change in the outcome for a one-unit change in the independent variable. The calculation 
+for independent variables in their log scale: (1.10^model coefficient - 1) * 100, which produces the percentage 
+change in the outcome for a percentage change in the independent variable. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+for the data compared to the other two models as per the statistically significant likelihood ratio 
+
+tests, and encompasses organizational characteristic variables, measures of Facebook use, and 
+
+our measure of Facebook post type.  
+
+Age is not associated with fundraising performance during Omaha Gives: the predicted level of 
+
+total donations does not vary substantially across organizations of different ages (e.g., newer vs. 
+
+older). There is a clear gradient in the association between budget size and total donations: 
+
+medium (between $250,000 and $1mn) and large (over $1mn) organizations are predicted to 
+
+raise 79 percent (exp(0.580), p<.001)) and 265 percent (exp(1.296), p < .001) more than small 
+
+organizations respectively. Nonprofits participating in Omaha Gives 2020 raised 29 per cent less 
+
+in expected donations compared to organizations taking part in the 2015 event. Finally, there is 
+
+considerable variation by program service area: compared to human service organizations, 
+
+neighborhood nonprofits raised over 100 percent more and health nonprofits 17 percent less. 
+
+There are statistically significant, positive relationships between each of the numeric measures of 
+
+social media usage and total donations. We find a 2.2 percent increase in donations for a 10 
+
+percent increase in the number of likes on participating nonprofit’s Facebook profile. Similarly, a 
+
+10 per cent increase in the number of posts or the times a post is shared is associated with 
+
+predicted increases in donations of 3 percent and 1.4 percent, respectively. There are variable – 
+
+both in terms of the magnitude of the coefficients and their statistical significance - differences in 
+
+expected donations by Facebook post type: compared to organizations that most commonly use 
+
+general solicitation posts, organizations that rely most heavily on messages relating to gratitude 
+
+or goals raised 59 and 78 percent more in donations respectively, while those that relied mainly 
+
+12 
+
+ 
+ 
+ 
+on posts calling on followers to behave a certain way on Facebook, e.g., change their profile 
+
+picture (Social Media) raised 58 percent less. One explanation for the latter could be that donors 
+
+do not feel the need to donate as they have already taken “action” by changing their profile 
+
+picture. Nonprofits that have more than one most common type of post raised 10 percent more 
+
+those that mainly post general solicitation posts. 
+
+Table 3. Regression Analyses of Total Donations in Omaha Gives 2015, 2020 
+
+Table 3: Linear Regression Models of Total Donations (Log), Coef. (SE) 
+
+Age of organisation 
+
+Budget Size 
+  Small 
+
+  Medium 
+
+  Large 
+
+Program Service Area 
+  Arts & Culture 
+
+  Education 
+
+  Environment / Animal 
+
+  Health 
+
+  Human Services 
+
+  Community Improvement / 
+Social Advocacy 
+
+  Religious 
+
+Model 1 
+
+0.00  ** 
+
+(0.00) 
+
+Model 2 
+
+0.00  ** 
+
+(0.00) 
+
+Model 3 
+
+0.00  ** 
+
+(0.00) 
+
+REF. 
+
+REF. 
+
+REF. 
+
+0.79  *** 
+
+(0.13) 
+
+1.72  *** 
+
+(0.13) 
+
+0.37  * 
+
+(0.15) 
+-0.11 
+(0.17) 
+
+0.59  ** 
+
+(0.22) 
+-0.19 
+(0.16) 
+REF. 
+
+-0.11 
+(0.19) 
+-0.16 
+(0.20) 
+
+0.59  *** 
+
+(0.12) 
+
+1.29  *** 
+
+0.58  *** 
+
+(0.12) 
+
+1.30  *** 
+
+(0.14) 
+
+0.12 
+(0.14) 
+0.02 
+(0.15) 
+-0.10 
+(0.20) 
+-0.20 
+(0.15) 
+REF. 
+
+-0.23 
+(0.18) 
+0.04 
+(0.20) 
+
+(0.13) 
+
+0.11 
+(0.15) 
+0.04 
+(0.16) 
+-0.09 
+(0.20) 
+-0.19 
+(0.15) 
+REF. 
+
+-0.21 
+(0.19) 
+0.05 
+(0.19) 
+
+  Neighborhoods 
+
+0.89  ** 
+
+0.69  * 
+
+0.73  * 
+
+  Other 
+
+Past Participation 
+  No 
+
+  Yes 
+
+(0.33) 
+-0.17 
+(0.30) 
+
+REF. 
+
+-0.15 
+
+(0.30) 
+-0.25 
+(0.28) 
+
+REF. 
+
+-0.04 
+
+(0.30) 
+-0.28 
+(0.27) 
+
+REF. 
+
+-0.04 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(0.12) 
+
+REF. 
+
+-0.08 
+(0.12) 
+
+Year 
+  2015 
+
+  2020 
+
+Network size (log of no. of 
+likes) 
+
+Network activity (log of no. 
+of posts) 
+
+Network engagement (log of 
+no. of shares) 
+
+(0.11) 
+
+REF. 
+
+-0.34  ** 
+(0.11) 
+
+0.23  *** 
+
+(0.05) 
+
+0.32  *** 
+
+(0.07) 
+
+0.13  * 
+
+(0.05) 
+
+Post Type 
+  Beneficiary 
+
+  Goal 
+
+  Gratitude 
+
+  Mission 
+
+  Social Media 
+
+  Solicitation 
+
+  Tie 
+
+Intercept 
+
+(0.11) 
+
+REF. 
+
+-0.34  ** 
+(0.11) 
+
+0.23  *** 
+
+(0.05) 
+
+0.31  *** 
+
+(0.07) 
+
+0.15  ** 
+
+(0.05) 
+
+0.06 
+(0.26) 
+
+0.58  * 
+
+(0.24) 
+
+0.47  * 
+
+(0.20) 
+-0.19 
+(0.15) 
+-0.88 
+(0.98) 
+REF. 
+
+0.10 
+(0.13) 
+
+7.42  *** 
+
+5.23  *** 
+
+5.23  *** 
+
+Number of observations 
+Adjusted R-squared 
+AIC 
+BIC 
+Notes: Program service area is not globally statistically significant; budget size and post type are 
+globally statistically significant. REF. = reference category *** p<.001, ** p<.01, * p<.05 
+
+(0.31) 
+983 
+0.33 
+3419.67 
+3216.86 
+
+(0.12) 
+983 
+0.22 
+3562.48 
+3122.96 
+
+(0.31) 
+983 
+0.33 
+3420.67 
+3250.09 
+
+The results from model 3 are robust to using a different operationalization of post type: the raw 
+counts of the number of times an organization made each post.  
+
+Model 4 replaces post type with post diversity. Model fit statistics are almost identical to Model 
+
+3, therefore we focus more on the substantive interpretation: nonprofits that post a variety of 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fundraising message types on Facebook raise more in total donations than organizations that use 
+
+homogenous messaging (98 percent more).  
+
+Age of organisation 
+
+Budget Size 
+  Small 
+
+  Medium 
+
+  Large 
+
+Program Service Area 
+  Arts & Culture 
+
+  Education 
+
+  Environment / Animal 
+
+  Health 
+
+  Human Services 
+
+  Community Improvement / Social Advocacy 
+
+  Religious 
+
+  Neighborhoods 
+
+  Other 
+
+Past Participation 
+  No 
+
+  Yes 
+
+Year 
+  2015 
+
+  2020 
+
+Network size (log of no. of likes) 
+
+Network activity (log of no. of posts) 
+
+Network engagement (log of no. of shares) 
+
+Model 4 
+
+0.00  ** 
+
+(0.00) 
+
+REF. 
+
+0.59  *** 
+
+(0.12) 
+
+1.26  *** 
+
+(0.14) 
+
+0.09 
+(0.15) 
+0.02 
+(0.15) 
+-0.09 
+(0.20) 
+-0.19 
+(0.15) 
+REF. 
+
+-0.23 
+(0.18) 
+0.08 
+(0.19) 
+
+0.64  * 
+
+(0.30) 
+-0.27 
+(0.28) 
+
+REF. 
+
+-0.02 
+(0.11) 
+
+REF. 
+
+-0.38  ** 
+(0.11) 
+
+0.23  *** 
+
+(0.05) 
+
+0.22  ** 
+
+(0.08) 
+
+0.11  * 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diversity of post type 
+
+Intercept 
+
+Number of observations 
+Adjusted R-squared 
+AIC 
+BIC 
+
+(0.05) 
+
+0.67  ** 
+
+(0.22) 
+
+5.22  *** 
+
+(0.30) 
+981 
+0.33 
+3406.44 
+3243.670 
+
+Finally, we consider the potential moderating effect of budget size on the association between 
+
+message diversity and fundraising success. Using model 4, we see consistency in the association 
+
+between message diversity and fundraising success: the expected increase in donations is similar 
+
+across nonprofit budget size (Figure 1). 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Figure 1. Association between predicted donations and message diversity, by budget size 
+
+Discussion  
+
+This study adds to the fundraising literature by demonstrating the relationship between the 
+
+content and diversity of social media messages and attracting donations. Our findings suggest 
+
+that mixing different types of fundraising messages on social media is positively associated with 
+
+higher levels of donations: nonprofits with more diverse fundraising posts raise 98 percent more 
+
+in donations during Omaha Gives. We also examined whether the main type of message posted 
+
+on Facebook - such as goal setting, gratitude, discussing the mission of the organization and 
+
+general solication – was associated with fundraising success. The picture is mixed but compared 
+
+to general solicitation messages, nonprofits that mainly posted messages of gratitude or goal 
+
+attainment raised more during the events; for other post types there was no significant difference 
+
+with general solicitation messages in the amount raised. The variable overall is statistically 
+
+significant, indicating that message type is an important explanatory factor of fundraising 
+
+performance during online giving events. This coheres with expectations from the literature, as 
+
+diverse messaging  targets different types of potential donors who might be motivated to give 
+
+based on emotional or efficacy framing (Bekkers & Wiekping, 2011). 
+
+We highlight a number of other key findings. First, we find a range of differences – in degree of 
+
+association and statistical significance - in expected donations by Facebook post type; overall the 
+
+variable is globally significant, suggesting there are statistically significant differences across the 
+
+post types overall. Compared to posts where the general aim is solicitation, those that focus on 
+
+17 
+
+ 
+ 
+ 
+ 
+thanking or displaying gratitude towards donors are associated with an increase in donations (Li 
+
+et al., 2020; Waters & Feneley, 2013). One of the organizations in our dataset posted following 
+
+Facebook message thanking their donors: 
+
+Thank you to over 126 different individuals who have made contributions already and 
+
+received their personal calls of thanks from our Executive Director! 
+
+In addition, many organizations posted the names of their donors. Coupled with our findings, this 
+
+suggests that donors are more likely to give in online fundraising events when organizations 
+
+nurture relationships by showing gratitude. As argued previously by Lacetera et al. (2016),  
+
+mentioning specific donors in their gratitude posts can create peer effects among the 
+
+organization’s/donors’ social media networks. 
+
+Second, our results suggest that posts calling on followers to take action on behalf of the 
+
+organization, such as changing their profile picture on Facebook, are associated with a 58 percent 
+
+decrease in donations. This finding resonates with Lovejoy & Saxton’s (2012) three-tier 
+
+“hierarchy of engagement” model – information, community, and action. Often it is assumed that 
+
+“action” is the most important part of messaging as it urges donors to do something like share 
+
+content or change their profile picture. However, in the context of fundraising during online 
+
+giving days, such calls to action appear least effective among the variety of message types and 
+
+strategies a nonprofit could adopt.  
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+This study uses data from a single social media platform (Facebook) and thus overlooks 
+
+fundraising activities conducted on other platforms such as X (formerly Twitter), TikTok, etc. 
+
+We suspect that the effect of message diversity and type is consistent across platforms, but we do 
+
+not show this empirically. We also do not observe offline/non-social media fundraising activities 
+
+of the organization such as its supporters in the community, board members’ engagement in 
+
+fundraising, or solicitation through mail or emails. We encourage future researchers to develop 
+
+more robust models capturing both offline and online fundraising activities of nonprofit 
+
+organizations. 
+
+Conclusion 
+
+Overall, we found that mixing different types of social media posts is more likely to achieve 
+
+fundraising success. We also found that organizations that mainly posted about gratitude or goal 
+
+attainment raised more during the event as compared to general solicitation messages. This 
+
+suggest that message time is important factor predicting fundraising success using social media. 
+
+In addition, we showed how the benefit of more diverse messaging is the same for nonprofits of 
+
+varying budget sizes, lending weight to the argument that social media platforms can be effective 
+
+mechanisms for generating donations for smaller organizations with limited staffing.   
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+
+Allison P. (1999). Multiple regression: A primer. Thousand Oak, CA: Pine Forge Press. 
+
+Baek, T., & Yoon, S. (2022). Pride and gratitude: Egoistic versus altruistic appeals in social 
+
+media advertising. Journal of Business Research, 142, 499-511. 
+
+Bekkers, R., & Wiepking, P. (2011). A literature review of empirical studies of philanthropy: 
+
+Eight mechanisms that drive charitable giving. Nonprofit and Voluntary Sector Quarterly, 
+
+40(5), 924-973  
+
+Bhati, A., & McDonnell, D. (2020). Success in an online giving day: The role of social media in 
+
+fundraising. Nonprofit and Voluntary Sector Quarterly, 49(1), 74–92.  
+
+Bortree, D., & Seltzer, T. (2009). Dialogic strategies and outcomes: An analysis of 
+
+environmental advocacy groups’ Facebook profiles. Public Relations Review, 35(3), 317–
+
+319.  
+
+Briones, R., Kuch, B., Liu, B., & Jin, Y. (2011). Keeping up with the digital age: How the 
+
+American Red Cross uses social media to build relationships. Public Relations Review, 
+
+37(1), 37–43.  
+
+Bürger, T. (2015). Use of digital advocacy by German nonprofit foundations on Facebook. 
+
+Public Relations Review, 41(4), 523-525. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Campbell, D., & Lambright, K. (2020). Terms of engagement: Facebook and Twitter use among 
+
+nonprofit human service organizations. Nonprofit Management and Leadership, 30(4), 545-
+
+568. 
+
+Campbell, D., Lambright, K., & Wells, C. (2014). Looking for friends, fans, and followers? 
+
+Social media use in public and nonprofit human services. Public Administration Review, 
+
+74(5), 655–663.  
+
+Carboni, J., & Maxwell, S. (2015). Effective social media engagement for nonprofits: What 
+
+matters? Journal of Public and Nonprofit Affairs, 1(1), 18–28.  
+
+Castillo, M., Petrie, R., & Wardell, C. (2014). Fundraising through online social networks: A 
+
+field experiment on peer-to-peer solicitation. Journal of Public Economics, 114, 29–35.  
+
+Cryder, C., Loewenstein, G., & Seltman, H. (2013). Goal gradient in helping behavior. Journal 
+
+of Experimental Social Psychology, 49(6), 1078–1083.  
+
+Dai, H., & Zhang, D. (2019). Prosocial goal pursuit in crowdfunding: Evidence from kickstarter. 
+
+Journal of Marketing Research, 56(3), 498–517. 
+
+Daniel, J.L., Curley, C., & Walk, M. (2024). Message (in)congruence: Tweeting while 
+
+completing for donations. Communication and the Public. 
+
+doi.10.1177/20570473231224822 
+
+Duncan, B. (2004). A theory of impact philanthropy. Journal of Public Economics, 88(9–10), 
+
+2159–2180.  
+
+Elvira-Lorilla, T., Garcia-Rodriguez, I., Romero-Merino, M., & Santamaria-Mariscal, M. (2023). 
+
+The role of social media in nonprofit organizations’ fundraising. Nonprofit and Voluntary 
+
+Sector Quarterly. https://doi.org/10.1177/08997640231213286 
+
+21 
+
+ 
+Enjolras, B. (2023). Determinants of Voluntary Organizations’ Attention on Facebook: The Case 
+
+of Norwegian Voluntary Organizations. Nonprofit and Voluntary Sector Quarterly, 52(5), 
+
+1308-1330.  
+
+Global Trends. (2020). 2020 global trends in giving report. 
+
+Guidry, J., Waters, R., & Saxton, G. (2014). Moving social marketing beyond personal change to 
+
+social change. Journal of Social Marketing, 4(3), 240-260. 
+
+Guo, C., & Saxton, G. (2014). Tweeting Social Change: How Social Media Are Changing 
+
+Nonprofit Advocacy. Nonprofit and Voluntary Sector Quarterly, 43(1), 57–79.  
+
+Guo, C., & Saxton, G. (2018). Speaking and Being Heard: How Nonprofit Advocacy 
+
+Organizations Gain Attention on Social Media. Nonprofit and Voluntary Sector Quarterly, 
+
+47(1), 5-26.  
+
+Hackler, D., & Saxton, G. (2007). The strategic use of information technology by nonprofit 
+
+organizations: Increasing capacity and untapped potential. Public Administration Review, 
+
+67(3), 474–487.  
+
+Harris, E., Neely, D., & Saxton, G. (2021). Social media, signaling, and donations: testing the 
+
+financial returns on nonprofits’ social media investment. Review of Accounting Studies, 1-
+
+31  
+
+Huang, Y., Lin, Y., & Saxton, G. (2016). Give me a like: How HIV/AIDS nonprofit 
+
+organizations can engage their audience on Facebook. AIDS Education and Prevention, 
+
+28(6), 539-556. 
+
+Kang, S., & Norton, H. (2004). Nonprofit organizations’ use of the World Wide Web: Are they 
+
+sufficiently fulfilling organizational goals? Public Relations Review, 30(3), 279–284.  
+
+22 
+
+ 
+Lacetera, N., Macis, M., & Mele, A. (2016). Viral Altruism? Charitable Giving and Social 
+
+Contagion in Online Networks. Sociological Science, 3, 202–238.  
+
+Lee, Y. (2021). Liked on Facebook, liked for real?: Nonprofits’ online popularity and financial 
+
+performance. Nonprofit Management and Leadership, 31(3), 609-621. 
+
+Li, P., Men, L., & Yue, C. (2020). An exploratory study of stewardship for Chinese nonprofit 
+
+organizations. International Journal of Nonprofit and Voluntary Sector Marketing, 25(2), 
+
+1–12.  
+
+Lovejoy, K., & Saxton, G. (2012). Information, community, and action: How nonprofit 
+
+organizations use social media. Journal of Computer-Mediated Communication, 17(3), 
+
+337–353. 
+
+Milde, K., & Yawson, R. (2017). Strategies for Social Media Use in Nonprofits. Journal of 
+
+Management Policy and Practice, 18(1), 19–27. 
+
+Olinski, M., & Szamrowski, P. (2021). Facebook as an engagement tool: How are public benefit 
+
+organizations building relationships with their public? PLoS ONE, 16(9). 
+
+https://doi.org/10.1371/journal.pone.0256880 
+
+Saxton, G., & Wang, L. (2014). The Social Network Effect: The Determinants of Giving 
+
+Through Social Media. Nonprofit and Voluntary Sector Quarterly, 43(5), 850–868.  
+
+Saxton, G., & Waters, R. (2014). What do Stakeholders Like on Facebook? Examining Public 
+
+Reactions to Nonprofit Organizations’ Informational, Promotional, and Community-
+
+Building Messages. Journal of Public Relations Research, 26(3), 280-299. 
+
+Smith, J., & McSweeney, A. (2007). Charitable giving: The effectiveness of a revised theory of 
+
+planned behaviour model in predicting donating intentions and behaviour. Journal of 
+
+Community & Applied Social Psychology, 17(5), 363–386. 
+
+23 
+
+ 
+Suh, J. (2022). Revenue Sources Matter to Nonprofit Communication? An Examination of 
+
+Museum Communication and Social Media Engagement. Journal of Nonprofit and Public 
+
+Sector Marketing, 34(3), 271-290. 
+
+Sun, R., & Asencio, H. (2019). Using Social Media to Increase Nonprofit Organizational 
+
+Capacity. International Journal of Public Administration, 42(5), 392-404. 
+
+Svensson, P., Mahoney, T., & Hambrick, M. (2015). Twitter as a Communication Tool for 
+
+Nonprofits: A Study of Sport-for-Development Organizations. Nonprofit and Voluntary 
+
+Sector Quarterly, 44(6), 1086-1106. 
+
+Waters, R., Burnett, E., Lamm, A., & Lucas, J. (2009). Engaging stakeholders through social 
+
+networking: How nonprofit organizations are using Facebook. Public Relations Review, 
+
+35(2), 102–106.  
+
+Waters, R., & Feneley, K. (2013). Virtual stewardship in the age of new media: Have nonprofit 
+
+organizations’ moved beyond Web 1.0 strategies? International Journal of Nonprofit & 
+
+Voluntary Sector Marketing, 18(3), 216–230.  
+
+Waters, R., & Jamal, J. (2011). Tweet, tweet, tweet: A content analysis of nonprofit 
+
+organizations’ Twitter updates. Public Relations Review, 37(3), 321–324.  
+
+Xiao, A., Huang, Y., Bortree, D., & Waters, R. (2022). Designing Social Media Fundraising 
+
+Messages: An Experimental Approach to Understanding How Message Concreteness and 
+
+Framing Influence Donation Intentions. Nonprofit and Voluntary Sector Quarterly, 51(4), 
+
+832–856.  
+
+Zhou, H., & Pan, Q. (2016). Information, Community, and Action on Sina-Weibo: How Chinese 
+
+Philanthropic NGOs Use Social Media. Voluntas, 27(5), 2433-57. 
+
+24

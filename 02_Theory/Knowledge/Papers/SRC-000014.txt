@@ -1,0 +1,6070 @@
+Faith, Hope, and Christian Charity: How Religion
+Explains Giving when Warm Glow and Impure
+Altruism Do Not
+
+Clive D. Fraser
+The University of Leicester
+
+April 17, 2018
+
+I am indebted to the Economics Division at the University of Leicester for supporting this
+research. I bene…ted from a very useful suggestion from Roland Benabou during his visit to Leicester
+in November 2015, and from detailed comments by David Reinstein, Godfrey Charles-Cadogan, and
+seminar participants at Lingnan University, Hong Kong, the University of Birmingham, the 2016
+Public Economic Theory Conference, Rio de Janeiro, and the 2016 EEA/ESEM Congress, Geneva.
+I am especially indebted to my sister, Evangelist Cherry Diane Brown, Nabila Mallick and Richard
+Cornes for teaching me about charity.
+
+1
+Electroniccopy
+copyavailable
+available at:
+at: https://ssrn.com/abstract=3164327
+Electronic
+https://ssrn.com/abstract=3164327
+
+Abstract
+Many charities, especially religious ones, spend signi…cantly to improve poor community
+members’living standards. Conventional theoretical philanthropy models with altruism or
+impure altruism/warm glow cannot explain poverty-alleviating private transfers in the type
+and size of communities where this occurs - e.g., congregations. However, if preferences
+re‡ect religious precepts (“you are your brother’s keeper”; “treat neighbours like yourself”),
+charitable poverty alleviation can be optimal even in large communities. Income and price
+elasticities for giving prove important. Surprisingly, charitable private transfers are less
+likely when donors care for recipients’living standard instead of the aggregate amount all
+recipients get.
+
+2
+Electroniccopy
+copyavailable
+available at:
+at: https://ssrn.com/abstract=3164327
+Electronic
+https://ssrn.com/abstract=3164327
+
+List (2011, 177) notes: "what we do not know dwarfs what we do know about the economics of charity." This motivates new approaches to study neglected aspects of giving. I
+analyse charitable poverty alleviation. I use central tenets of Christianity to explain theoretically and numerically, inter alia, why: (i) religion is a large recipient of charity; (ii) a
+major use of the proceeds is poverty alleviation. However - as shown below - leading philanthropy models, e.g. the "Nash contribution" and joint-product/warm glow models, imply
+that private transfers to reduce poverty are cost-ine¤ective in large societies if competing
+with other uses for charitable funds, like on a pure public good. This cost-ine¤ectiveness
+is from the second of two large-number e¤ects in voluntary provision of a public good and
+a private good. The …rst is the conventional e¤ect leading to free-riding and public good
+under-provision. The second arises as a transfer directly bene…ts a sole recipient; but, its
+opportunity cost increases with the bene…ciaries who would have consumed the public good
+that it could have …nanced.1 Warm glow overcomes the …rst large-number e¤ect but not
+the second. So, it does not explain giving to alleviate poverty. I show that preferences
+embodying the central tenets of religion overcome the second e¤ect.
+Christianity’s central tenets that underpin religious benevolence include: "You are your
+brother’s keeper"; "Love your neighbour like yourself" and “Without charity, I am nothing
+and I gain nothing." "So faith, hope, and charity abide, these three. But the greatest of these
+is charity" (1 Corinthians 13:1-13). Thus, unsurprisingly in a deeply pious USA, charitable
+giving is considerable - the largest portion occuring in religious congregations. Americans
+give in cash approximately what they spend on clothing, around half their direct spending
+from post-tax income on healthcare (Bureau of Labour Statistics, 2013). They give religious
+charities fourteen times what they spend on the 3 major sports (Duin, 2001). Such charities
+get the largest portion of total US charitable giving and are joint …rst in the UK. In the
+US, religion gets circa 35%-40% of total donations by value, nearly thrice the next largest
+1
+
+Fraser (1996) shows that this second e¤ect could make it socially optimal to make a poor person worse
+o¤ by forcing them to contribute to an excludable public good. I think Fraser (2005) is the …rst model of
+competing uses of charitable donations for private transfers or a public good where this e¤ect plays a role.
+
+3
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+category, education (Andreoni, 2006; Andreoni and Payne, 2013; List, 2011).
+Much of that giving is to reduce poverty. Congregations spent $20bn on philanthropy,
+40% of their $50bn of total US charitable donations of near $100bn, in 1989 (Biddle, 1992).
+So, they used 20% of all charitable receipts for philanthropy - expenditures that “address
+the speci…c material needs of members of the congregation or [...] support the provision of
+services to people regardless of their a¢ liation with the congregation.”2 Allard (2007) shows
+how religious charities focus more on material needs than secular charities and, since 1997,
+have compensated for U.S. governments’reduced stress on cash assistance for the poor.3
+This importance of poverty alleviation in motivating charity is not often studied explicitly. Indeed, despite the data, Roberts (1984) claims government welfare spending has
+crowded out private charity for poverty alleviation. He explicitly analyses agents’spending
+interpretable as direct monetary transfers to others. While many later crowding out studies exist, there is little focus on this in relation to poverty alleviation.4 One exception is
+Boberg-Fazlic and Sharp (2017). They "…nd strong empirical support for a positive relationship between welfare provision and charitable giving using data from the late eighteenth and
+early nineteenth centuries". I.e., they …nd crowding-in, not crowding-out.
+2
+“60 per cent of all congregations o¤ered a food pantry, 52% o¤ered clothing closets, 44 percent had
+programs for visiting patients in hospitals, 43 per cent had programs for visiting the sick and 41 per cent
+sponsored a soup kitchen. These activities aim to help those a- icted by poverty, hunger and disease. . . ”
+Cnaan and Yancey (2000). Saxon-Harrold et al (2000, p15) state: “In 1997, less than 20% of congregations
+charged fees for their programs or services. This is far less than other types of non-pro…t organisations.
+Nearly 85% of these congregations adjusted their fees by the ability of their recipients to pay...”
+3
+Allard (2007, p.26) says, "Whether operating a food pantry or meals program, helping a working poor
+family to make a car payment, or covering utility bills during a particularly expensive winter season, religious non-pro…t organizations are more likely to o¤er cash and in-kind assistance than secular nonpro…ts.
+For example, faith-based integrated organizations are much more likely to o¤er food assistance (85 percent respectively) than secular nonpro…t organizations (43 percent respectively). Similarly, faith-integrated
+organizations reported providing emergency cash assistance nearly twice as often as secular nonpro…t organizations or government agencies." He quotes Chaves’(2002) …nding that below ten percent of congregations
+provide services outside basic food, clothing or housing needs. Google/Indiana University’s Center on Philanthropy (2007) estimates: (i) 84% ($20.28 bn.) of $24.14 bn gifted to religious benevolences in 2005 went to
+the poor; (ii) $17.03 bn (77%) of Combined Purpose charities’(e.g., United Ways and Jewish Federations)
+funds did too. Of this, 25.7% met basic needs (e.g., food; housing); (iii) 30.1% of total charitable giving of
+$252.55 bn in 2005 directly met the poor’s needs.
+4
+de Wit and Bekkers’(2017) extensive meta-analysis of the empirical evidence on crowding out studies how
+di¤erent empirical approaches in‡uence the extent of crowding out (or crowding in) found. They conclude
+that "private giving is generally not crowded out by public funding". However, they concentrate on possible
+crowding out in the charitable provision of public goods. Charitable private transfers are not studied.
+
+4
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+A facile explanation for a dearth of explicit theoretical analyses of charitable provision
+of private goods is that, as in the emblematic Bergstrom, Blume and Varian (1986) paper,
+focus is on "voluntary provision of public goods". Authors might not have got to studying
+charitable provision of private goods with public goods yet. Another argument is Hochman
+and Rodgers’(1969): "charitable giving, motivated by altruism, creates a public good out of
+the charity" (Andreoni, 2006). Donors’altruism towards recipients of, e.g., money transfers,
+daycare or housing makes these, or their institutional arrangements, public goods. But,
+while the resulting theoretical models consider the public good aspects explicitly, the private
+goods provided simultaneously, which yield distinct bene…ts, are not.
+The crux of my model is my assumption that the total amount given to alleviate poverty
+entering agents’utility functions as an argument separate from the amount used for a pure
+public good embodies religious precepts like being your brother’s keeper. This captures List’s
+(2011, 165) idea that di¤erent factors to other types of charity motivate religious giving.5
+He advances social insurance: "it might be [...] that people give to churches so that in time
+of need they can more readily receive church services or help from fellow churchgoers." Total
+charitable funding for poverty alleviation being an argument in both donors’and recipients’
+utility functions re‡ects satisfaction both from being your brothers’keeper in times of need
+and knowing that they are yours similarly. I call such preferences "pious". With pious
+preferences, a utilitarian charity can …nd poverty alleviating private transfers cost-e¤ective.
+My approach complements three empirical strands. One (e.g., Clark and Lelkes, 2006;
+Scheve and Stasavage, 20066 ) focuses on religion and redistribution. Religiosity insures
+against adverse life events for it yields similar pyschic bene…ts as, say, good health, employment, or pension. So, all else equal, the welfare state is smaller as society’s religiosity
+increases as religion’s psychic bene…ts substitute for state bene…ts.7 Another (e.g., Hunger5
+
+Andreoni and Payne (2013, 10) echo this.
+I am indebted to Roland Benabou for this reference.
+7
+Although not focused on religion and redistribution, Campante and Yanagaziwa-Drott (2015) is relevant
+to the trade-o¤ between religious satisfaction and material welfare. They show empirically how religious
+observation (Ramadan fasting) can decrease economic output but increase subjective well-being. More
+generally, Barro and McCleary (2003) demonstrates that economic growth can increase with religious belief
+6
+
+5
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+man, 2005) argues that church welfare spending substitutes directly for the state’s. Again,
+the welfare state is smaller in more religious societies. The third suggests religious giving
+insures for the afterlife (Hrung, 2004; Chang, 2005; Thornton and Helms, 2013).
+My model predicts that, without religion, charitable poverty alleviation will often not
+occur. So, it rationalises theoretically the …rst two empirical strands above. People could
+have preferences of the form that I posit without being explicitly religious. But, if they are
+religious according to the precepts noted, they will have the preferences that I analyse.
+I show that using part of charitable donations for private transfers to the poor can
+increase giving even if transfers give donors no altruistic externality. An altruistic externality
+(so transfers function as a public good), can enhance giving, increase welfare and might
+explain why transfers prevail in typical-sized congregations. Section I reviews theoretical
+models of giving without religion. Section II shows the di¢ culty of incorporating poverty
+alleviation via private transfers in a model of public good provision with standard altruistic
+preferences. Section III shows how pious preferences overcome this di¢ culty. Section IV
+examines other preferences, including joint-product/warm-glow ones. Section V concludes.
+
+I Related Literature: Models of Giving without Religion
+The key theoretical papers that I build on are: Becker (1974); Warr (1982, 1983); Cornes
+and Sandler (1984, 1985, 1994); Roberts (1984); Bergstrom, Blume and Varian (BBV) (1986);
+Bernheim (1986); Andreoni (1988, 1989, 1990); Fraser (1992, 2005); Vicary (1997) and Ribar
+and Wilhelm (2002). All, bar Becker, Warr (1982), Roberts and Fraser (2005), study when
+charitable donations supply a public good without explicit private transfers. Hence, their
+theoretical models say little about important parts of the charity landscape.8
+but decline with religious participation. Relatedly, Iannaccone (1992) shows how costly, apparently selfdenying, practices can be welfare-improving for religious communities.
+8
+An extensive literature builds on Becker (1974) to consider the motives for and consequences of private
+transfers within households and families. See, e.g., Cox (1987); Cox and Jakubson (1995) and Cox, Hansen
+and Jiminez (2004). However, like de Wit and Bekkers, I only examine charity where donors do not have a
+personal relationship with the recipients.
+
+6
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+BBV’s “classic”Nash equilibrium model gets striking …ndings via assumption (A.1):
+(A.1) Individuals (i’s) have quasi-concave utility functions ui [xi ; G], i = 1; :::; n; de…ned over private good consumption, xi , and public good consumption, G, which are nonP
+decreasing in their arguments. Incomes (mi ), are exogenous.9 G = i g i sums individual
+contributions (g i
+
+0) to providing the public good.
+
+These …ndings include: (i) the neutrality property (Warr, 1983): if income is redistributed between donors so that a loser loses no more than his original donation, total donations
+are unchanged. An extension of this model (Andreoni, 1988) produces (ii) the limit result:
+in large economies, hardly anyone donates.
+A consensus exists that this “Nash contribution model”predicts “too little”giving and
+must be modi…ed. The most relevant modi…cation here is Cornes and Sandler’s (1984) and
+Andreoni’s (1989, 1990) “joint product/impure altruism”/“warm glow” model. In this, a
+donor bene…ts from both the public good and giving per se. So, still using u for a utility
+function, theirs is ui [xi ; g i ; G], again quasi-concave non-decreasing. The g i , a private good for
+i, gives i an extra spur to donate. This can alter the neutrality and limit results (Andreoni,
+1989, 1990; Ribar and Wilhelm, 2002).10
+In my model, all consumers get utility from: (i) total private transfers to the poor; (ii)
+spending on a shared good like a church building. So, it has two public goods, both subject
+to crowding-out incentives. However, I show that we can still get total giving and the share
+of it used for transfers that are “realistic” in a large society. My model relates to Ghosh,
+Karaivanov and Oak (GKO; 2007) and Cornes and Itaya (2010), who also study multiple
+public goods. GKO study a charity’s incentive to bundle two public goods, not a private and
+a public good, or private transfers. Their two-consumer model also ignores the size e¤ects
+that are key in mine. Cornes and Itaya study many public goods and many consumers. They
+focus mainly on the neutrality result and also ignore charitable transfers.11
+9
+
+Bernheim (1986) considers endogenous incomes.
+Allouch (2013) elaborates competitive equilibrium in a warm-glow economy. Evren and Minardi (2017)
+provide an axiomatic foundation for warm-glow preferences.
+11
+Faias et al (2014) extend BBV’s results to multiple public and private goods.
+10
+
+7
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Becker (1974), Warr (1982), Roberts (1984) and Brown (1997) are among few who
+theoretically model charitable private transfers. Becker, Warr and Roberts’donors’utilities
+depend on the sole recipient’s welfare, measured by total income. Total transfers to the
+poor are then a public good, separate from any altruistic externality from giving. However,
+Becker’s single-donor, single-recipient model has no population e¤ects that decide the value
+of charitable private transfers. Brown ignores recipients, beyond that the average donation
+to them is an altruistic externality in donors’utility functions. I show below that if donors
+care for average rather than total donations, this militates against private transfers. None of
+these authors considers that intermediaries often organize charity and make transfers if and
+only if they are cost-e¤ective. This depends on the number of consumers of any public good
+that funds could …nance alternatively, which all ignore by studying a sole use for donations.12
+Maybe closest to my analysis, Kotchen (2006) models a scenario applicable to charity
+for a good with public and private characteristics. E.g., buying a grocery item might lead to
+a …xed donation toward buying a public good. His model’s principal di¤erences to mine are
+twofold: …rst, its mix of characteristics is …xed exogenously in a one-stage game. In mine,
+taking the church/charity as bundling a public good and private transfers, the proportions
+these are combined in arises endogenously from a strategic interaction between charity and
+consumers in a two-stage game. Second, while he examines how group size a¤ects equilibrium
+provision of the public characteristic, his model is not set up to show how group size impacts
+whether or not charitable private transfers are made between consumers.
+Despite a dearth of theory on charitable private transfers or religious charities, an impressive empirical religious charity literature exists. Bekkers and Wieping (2011) review key
+articles. Here, its main signi…cance is to give estimated elasticities to situate my results.
+12
+
+Three more recent analyses of poverty-reducing private transfers are Atkinson (2009), for overseas aid,
+Echazu and Nocetti (2015), for a discrete good, and Bourles et al (2017) for altruism in a network. Donations
+in all three are used solely for a private good. There is no bundling of public and private goods.
+
+8
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+II Poverty Alleviation Without Pious Preferences13.
+Imagine a religious congregation run by "a welfarist charity" intermediary - e.g., Church
+Elders. Like a Stackelberg leader, in stage 1 of a 2-stage game with congregationers, it collects
+funds for two mutually-exclusive stage-2 uses: (i) …nancing services and facilities, including
+upkeep of the church and pastor, which bene…t all members as Samuelson public goods;
+(ii) private goods and services like food, clothing and shelter, alleviating congregationers’
+poverty. It creates an altruistic externality if, while not consuming these goods, e.g., soup
+kitchens, donors get utility as recipients bene…t. Giving then creates a public good via this
+externality. It also provides private goods for soup kitchen patrons - not usually modelled,
+but part of our focus. We study cases without and with this externality. The charity …xes
+the portions of total donations used for public good supply and to alleviate poverty, mindful
+of how giving by congregationers (”followers”) depends on them. So, even if donors do not
+care about poverty alleviation per se, the charity does via its overall welfare concern.
+To focus sharply on poverty alleviation, my “two-class model”makes these assumptions:
+(A.2) There are two types, indexed h and l, respectively, with exogenous “high” and
+“low”incomes mi > 0; i = h; l; mh > ml . There are ni (ni
+
+1) individuals of type i; i = h; l.
+
+(A.3) Both types have the concave increasing utility function U (x; G) (i.e., with subscripts for partial derivative, Ui > 0, Uii
+
+0; i = x; G). Respectively, x and G are amounts
+
+of the in…nitely divisible sole private and sole public good with unit resource costs of unity.
+(A.4)(i) The utility function is supermodular:
+
+@2U
+@x@G
+
+UxG
+
+0. (ii) Each good is
+
+essential and satis…es an Inada condition: `im:Ux (x; G) = 1; `im:UG (x; G) = 1.
+x&0
+
+G&0
+
+In a richer model of more than two income types, a charity would endogenize which
+qualify for transfers. For tractability, I limit the model to skirt this. Tractability is also a
+defence of (A.3). Maybe more compelling justi…cations for (A.3) are: (i) while knowing that
+taste di¤erences exist, economists rather explain di¤erences in behavior by those in prices
+and incomes, thus opportunities; (ii) as I focus on behaviour within religious communities,
+13
+
+Some of the steps in this section were …rst taken in Fraser (2005).
+
+9
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+their members might have similar tastes à la Tiebout. If taste di¤erences do exist, well-being
+is not obviously measured just by income. But, in practice, most charities use income to
+di¤erentiate "rich" from "poor". (A.3) means that, initially, I assume consumers get no
+altruistic externality from any private transfers to the poor.
+(A.4)(i) ("Edgeworth-Pareto complementarity" of x and G) is needed for monotone
+comparative statics. With only two goods, x and G are Hicksian substitutes. (A.4)(ii)
+implies that any equilibrium is interior.
+
+The Charity
+At stage 2, the utilitarian charity14 , sole provider of the tangible public good, uses
+donations to supply it and for transfers to the poor l types in proportions it …xes at stage 1
+to re‡ect its concern for inequality. I focus …rst on stage 2 under the next assumption:
+(A.5) The charity uses a share
+
+2 [0; 1] of its receipts to supply the public good and
+
+for the private transfers. It can identify the poor and divides transfers equally: each
+
+1
+
+recipient gets (1
+
+) =nl from a total transfer of 1
+
+(A.5) implies that, as
+
+.
+
+decreases, it costs more for an h type to augment G by giving.
+
+Simultaneously, it is cheaper for an l type, if h types are also giving.
+
+Consumer Behaviour
+Consider a given regime de…ned by the charity’s chosen . Suppose an arbitrary l-type
+1 others each gives g l to charity and the nh h types each gives
+
+agent conjectures that the nl
+
+g h . Then, if this l type donates g l , it conjectures that it will receive a transfer, cl , satisfying
+nl cl = (1
+
+) nh g h + nl
+
+cl =
+
+1 g l + g l = (1
+1
+nl
+
+nh g h + nl
+
+) G + nl cl , i.e.,
+
+1 gl + gl =
+
+1
+nl
+
+G
+
+(1)
+
+14
+
+Bilodeau and Slivinski (1997) study charities’motivations and competition. Instead of utilitarianism, we
+could consider a charity that allocates funds democratically. Roberts (1984) uses a median voter model and
+Scharf (2000) a ”citizen-candidate” one to show how democracy might shape the environment for giving.
+
+10
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Hence, by the …rst equality in (1), the l type has the budget constraint
+
+xl = ml + cl
+
+g l = ml +
+
+1
+
+nh g h + nl
+
+nl
+
+1 gl
+
+nl +
+nl
+
+1
+
+gl
+
+(2)
+
+1 of its type gives g h and the nl of
+
+If an h type conjectures that each of the other nh
+
+type l each gives g l , as it gets no transfer, its budget constraint is
+
+xh = m h
+
+Let G l
+
+nh g h + nl
+
+gh
+
+(3)
+
+1 g l denote others’ total contribution to the public good
+
+supply conjectured by an arbitrary type l. Then, by
+
+G = G l + g l =) g l =
+
+(G
+
+G l)
+
+(4)
+
+the outer equality in (1) and the …rst in (2), its rewritten budget constraint is
+
+ml +
+
+G l
+
+= xl +
+
+"
+
+nl +
+
+1
+nl
+
+#
+
+(5)
+
+G
+
+The LHS of (5) is an arbitrary type l’s “full income”, given others’ donations. With
+(nl + 1)
+this income, it chooses its desired G at an e¤ective price
+per unit.
+nl
+De…ning G h similarly, an h type’s budget constraint is
+mh +
+
+G h
+
+= xh +
+
+G
+
+By (5)-(6), G’s e¤ective price for an h (i.e., 1 ) exceeds that for an l (i.e.,
+
+(6)
+
+(nl +
+
+1)
+
+nl
+
+) if
+
+< 1. So, the poor might give to charity despite receiving charitable transfers as they …nd
+giving relatively cheap. However, their incentive to donate falls rapidly as nl increases.
+
+11
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Using (5)-(6), the types’maximization problems are
+
+M ax: U mh +
+
+G G
+
+G
+
+(7)
+
+;G ;
+
+h
+
+M ax:U ml +
+G G
+
+G h
+
+G l
+
+nl +
+
+1
+
+l
+
+(8)
+
+G; G
+
+nl
+
+Analogous to Bergstrom, Blume and Varian (1986), these yield public good demand
+i
+h
+i
+h
+i
+h
+G l
+G h 1
+G h 1
+nl + 1
+l
+h
+h
+;
+and f m +
+;
+; ;G
+functions f m +
+satisfying G f m +
+nl
+h
+i
+l
+f ml + G l ; n +nl 1 for some function f (:). As G is essential, at least one of these weak
+inequalities is an equality as a G > 0 must be the optimal demand for at least one type; if
+
+both types donate, both are equalities. At such an interior equilibrium, private consumption
+and utilities are not equalized, unlike in the standard Nash model. If
+
+< 1, the l type faces
+
+a lower e¤ective price for G, yet demands the same as the h. So, with G normal, the l type
+has lower equilibrium income and private consumption.
+
+The second-stage equilibrium
+I study a subgame perfect equilibrium. At stage 2, this involves a Nash equilibrium
+in giving. I study a symmetric equilibrium with all members of an income type behaving
+identically. For a given , this stage-2 equilibrium can be shown to exist and be unique.
+Let us use the following notation for the arbitrary utilities of the two types:
+
+L gh; gl ;
+
+U ml +
+
+1
+nl
+
+H gh; gl ;
+
+nh g h + nl
+
+U mh
+
+1 gl +
+
+nl
+
+1
+nl
+
+g l ; G l + g l ; (9)
+
+gh; G h + gh
+
+(10)
+
+Let U i [:] be a utility magnitude for an i; i = h; l; with omitted functional arguments. Then,
+with each person taking others’donations as given, using subscripts to show partial deriva-
+
+12
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+tives for the indicated variables, their donations in a Nash equilibrium satisfy, respectively,
+nl
+
+1
+
+Lg l =
+
+nl
+Hgh =
+
+Uxl [:] + UGl [:]
+
+Uxh [:] + UGh [:]
+
+0; g l
+
+0; g h
+
+(11)
+
+0;
+
+(12)
+
+0
+
+By Kuhn-Tucker theory, the inequalities in (11) cannot both be strict, likewise those in
+(12). Also, as the public good is essential, at least one of g h > 0 or g l > 0 holds, so one of
+Lgl and Hgh equals zero.
+
+The Charity’s Maximisation
+The utilitarian charity’s maximand (i.e., social welfare) is
+
+W
+
+nh H g h ; g l ;
+
++ nl L g h ; g l ;
+
+(13)
+
+Intuitively obviously, with an income distribution such that both types wish to contribute
+at
+
+= 1, there are no poverty-alleviating transfers. Incomes are equalized in the Nash
+
+equilibrium and @W
+j =1 = 0 (Fraser, 2005). Relatedly, Fraser (2005) shows, again intuitively
+@
+obviously, that an utilitarian charity equilibrium never has the poor donating. So, here,
+I study scenarios with income distributions such that only the rich donate when
+
+= 1
+
+and explore when the charity wishes to alleviate poverty then. This must be social welfare
+improving. Thus, we need @W
+j =1 < 0: I.e., if welfare is decreasing in
+@
+reducing
+
+from
+
+at
+
+= 1, then
+
+= 1 increases welfare over some range of .
+
+Denote g i ( ), g i0 ( ), i = h; l, as the levels and derivatives with respect to
+
+of types’
+
+and use g l (1) = 0 = g l0 (1). Then (omitting functional arguments)
+h
+i
+nh g h
+@W
+h h
+h h
+h
+h0
+l
+l
+l h
+h
+h0
+j
+=
+n
+U
+n
+g
++
+n
+1
+g
++
+n
+U
++
+U
+n
+g
++
+g
+=1
+x
+G
+G
+@
+nl
+
+donations at an arbitrary
+
+= nh UGh + nl UGl
+|
+{z
+
+Uxl nh g h + nh UGh + nl UGl
+} |
+{z
+
+"an income e¤ect"
+
+Uxh nh g h0
+}
+
+(14)
+
+"a price e¤ect"
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+13
+
+= nh UGh + nl UGl nh g h + g h0
+|
+{z
+
+nh g h Uxl + g h0 Uxh
+
+welfare e¤ect of marginally introducing private transfers
+
+using UGh = Uxh at
+
+= 1 from (12). Also, from di¤erentiating Hgh = 0 at
+
+h
+g h0 (1) = Uxx
+
+h
+h
+nh + 1 UxG
++ nh UGG
+
+Uh
+
+((A.4)(i)) and
+
+(15)
+
+}
+
+G UGG
+h
+
+1
+
+h
+nh g h UxG
+
+h
+nh g h UGG
+
+= 1,
+
+h
+UGh : So, UxG
+
+0
+
+1, with one inequality strict, su¢ ce for g h0 (1) < 0; similarly, an
+
+G
+
+additively separable U [:] and
+
+Uh
+
+G UGG
+< 1 give g h0 (1) > 0. We easily …nd examples with
+h
+G
+
+l
+
+l0
+
+h0
+
+g (1) = 0 = g (1) and g (1) < 0 and, so, the charity could increase aggregate giving by
+making private transfers to the poor (i.e., reducing
+
+= 1).15 The crucial question
+
+from
+
+is, is this welfare-improving in reasonably-sized giving communities like congregations? For
+this, W must increase as
+
+j =1 < 0 must hold.16
+decreases from 1: @W
+@
+
+In (15), marginally introducing transfers to the poor a¤ects public and private good consumption. All else equal, marginally reducing
+
+from
+
+= 1 reduces G at rate nh g h , changing
+
+giving by nh g h0 . To …rst-order, G reduces by nh g h + g h0 , of utility value
+
+nh UGh + nl UGl nh g h + g h0 .
+
+This yields funds to transfer at a rate nh g h , raising the poor’s utility by nh g h Uxl : As reducing
+induces the rich to change giving by nh g h0 , their utility from private consumption alters
+by nh g h0 Uxh . So, (15) nets these utility e¤ects for an increase in .
+Alternatively, (14) shows how community size determines if private transfers are desirable. The "income e¤ect" is the opportunity cost of reducing
+released from G for transfers, all else equal. The reduced
+
+from
+
+= 1 and using funds
+
+induces a change in giving of
+
+nh g h0 (1). To …rst order, the "price e¤ect" is the welfare e¤ect of this altered private giving,
+net of its impact on donors’private consumption.
+Note that g h0 (1) < 0 is neither necessary nor su¢ ces for @W
+j =1 < 0: if g h0 (1) = 0,
+@
+@W
+j =1 < 0 is possible if
+@
+
+nh UGh + nl UGl
+
+Uxl nh g h < 0 at
+
+= 1:However, it is immediately
+
+evident that the latter is unlikely for large nh and/or large nl , as Proposition 1 shows.
+Proposition 1. nh UGh + nl UGl
+15
+
+Uxl nh g h > 0 at
+
+= 1 if nh and/or nl is su¢ ciently large.
+0
+
+As I show presently, it is also easy to …nd examples where g h < 0 does not hold.
+16
+Andreoni and Payne (2013) cautions that "we must resist the inference that anything that increases
+donations is good for society."
+
+14
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Proof. Fraser (2005) shows Nash equilibrium existence and uniqueness in this model for
+an arbitrary . In a symmetric Nash equilibrium for an arbitrary nh with only the h type
+contributing at
+
+g h ; nh g h = UG mh
+
+= 1, the optimal g h satis…es Ux mh
+
+g h ; nh g h
+
+and Ux ml ; nh g h = UG ml ; nh g h . Now, the optimal g h is a function of nh and mh but
+is independent of nl and ml . So, both Ux ml ; nh g h and UG ml ; nh g h are …xed and …l
+
+l
+
+b UG ml ; nh g h =
+b > 1, we have n
+nite at a given nh . Hence, for su¢ ciently large nl = n
+Ux ml ; nh g h . Thus, nh UG mh
+l
+
+g h ; nh g h + nl UG ml ; nh g h
+
+Ux ml ; nh g h
+
+nh g h > 0
+l
+
+b : Also, UG mh
+for nl = n
+
+b,
+g h ; nh g h = UG ml ; nh g h by UxG = 0: So, for nh ; nl = n
+
+Whether nh UGh + nl UGl
+
+Uxl nh g h > 0 for an actual population nh ; nl can be veri…ed
+
+nh UG mh
+
+Ux ml ; nh g h
+
+g h ; nh g h + nl UG ml ; nh g h
+
+nh g h > 0 :
+
+once the utility function is speci…ed.
+Next, to closely study what determines g h0 ( ), I use the properties of the public good deh
+i
+mand function, G f mh + G h ; 1 = nh g h ( ). The next proposition relates sign g h0 ( )
+to the price and income elasticities of giving.
+
+Proposition 2. Let fm and fp , respectively, denote the derivatives of f (:) with respect
+to an h0 s full income, m
+
+m h + nh
+
+1 g h ( ) in a symmetric equilibrium and the public
+
+good’s e¤ective price, p
+
+1= . Let "m
+
+1
+
+mfm =f and "p
+
+fp =f , respectively, be the
+
+income and price elasticity of demand for the public good. Then, for "large" nh , "p >
+
+1
+
+and "m 5 1 su¢ ce but are unnecessary for g h0 ( ) < 0.
+f [mh +(nh 1)g h ( ); 1 ]
+Proof. As g h ( ) =
+in a symmetric Nash equilibrium with only the rich
+nh
+donating, di¤erentiation and manipulation yield
+f
+
+g h0 ( ) =
+
+So
+
+2 h
+n
+
+"
+
+g h0 ( ) 1
+
++
+
+1
+nh
+
+fm nh 1
+nh
+
+#
+
+f m nh
+
+=
+
+1 g h0 ( )
+
+1
+2 h
+n
+
+f+
+
+1
+
+fp
+
+1
+
+2
+
+fp
+
+15
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+1
+
+f + 1 fp
+[1 fm (nh 1) = nh ]
+2
+3
+1
+4 (1 + "p ) 5
+2 h
+1
+1 "m
+n
+
+=) g h0 ( ) =
+
+=
+
+2 h
+n
+
+f
+
+(16)
+
+m
+
+on dividing both numerator and denominator by f; using the de…nitions of "m and "p , and
+(nh 1)
+= 1 for large nh . If numerator and denominator of the last square-bracketed term
+nh
+have opposite (the same) signs, g h0 ( ) > (<)0. Now,
+
+su¢ ces for
+as "p
+
+>
+<
+
+1
+f
+
+1 "m
+m
+
+>
+<
+
+0 as
+
+m
+f
+
+>
+<
+
+"m . But
+
+1 g h > nh g h = f = G, as mh > g h : So, f 1 m > 1. Thus, "m 5 1
+
+m h + nh
+
+m=
+
+1
+f
+
+1 "m
+m
+
+> 0, but
+
+1. Hence, "p >
+
+1
+f
+
+1 "m
+m
+
+> 0 is possible with "m > 1. Also, (1 + "p )
+
+>
+<
+
+0
+
+1 and "m 5 1 su¢ ce but are unnecessary for g h0 ( ) < 0.
+
+No consensus exists on "p and "m for charitable giving, for religion or generally, within
+a large empirical literature. Taussig’s (1967) seminal paper …nds very small "p of the order 0.04 to - 0.10 and "m signi…cantly above 1.0. Later studies - e.g., Auten, Sieg and Clotfelter
+(2002) - …nd larger price elasticities but smaller income ones. Their preferred estimates for
+transitory price elasticities range from - 0.40 to - 0.61 and those for persistent prices from 0.79 to -1.26. Their estimates of persistent income elasticities range from 0.40 to 0.87 and
+those for transitory income from 0.29 to 0.45. Karlan and List (2007) argue, based on a
+large-scale natural …eld experiment, that 0 = "p =
+
+1.
+
+Feldstein (1975) and others (e.g., Backus, 2010, Scharf and Smith, 2010) also disaggregate the data for elasticities of di¤erent types of giving. He …nds that, in absolute value,
+the price elasticity is below 1 for religion but exceeds 1 for education, hospitals, health and
+welfare, and all else. His estimated income elasticities exceed 1 for hospitals and educational
+institutions but are below 1 for all else. These di¤erences suggests that we could have di¤erent signs empirically for g h0 ( ) for di¤erent categories of charitable giving. A tendency for
+0 < "m < 1 and
+
+1 < "p < 0 empirically for religious giving implies that g h0 ( ) < 0 might
+
+hold with this if either the model of this section or the next one applies.
+Lastly, for more insight, I consider a log Cobb-Douglas example, as in Ribar and Wilhelm
+16
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+(2002) and Andreoni (2006), but without warm glow. So, suppose preferences are U [x; G] =
+1 log x +
+
+2 log G,
+
+i
+
+(0; 1), i = 1; 2, being elasticity of marginal utility parameters.
+
+A symmetric Nash equilibrium with only h persons giving at
+UG mh
+
+= 1 satis…es
+
+g h (1) ; nh g h (1) = Ux mh
+
+g h (1) ; nh g h (1) (a)
+
+UG ml ; nh g h (1) 5 Ux ml ; nh g h (1)
+
+(b)
+
+(17)
+
+With the log Cobb-Douglas preferences, (17)(a) implies mh g1h (1) = nh gh2(1) , or g h (1) =
+h
+2m =
+
+2+
+
+1n
+
+h
+
+. (17)(b) then implies
+
+1
+2
+= h h
+=
+l
+m
+n g (1)
+
+2 + 1n
+nh mh
+
+h
+
+=)
+
+mh
+=
+ml
+
+2+
+1
+
+h
+1n
+=1+
+nh
+
+2
+h
+1n
+
+:
+
+(18)
+
+So, (18) re‡ects the well-known fact that, in a large community, the income disparity need
+not be great for only the highest income type to donate.
+h
+h
+In this example, UxG
+= 0 = GUGG
++ UGh , so g h0 (1) = 0:17 Thus, from (14),
+
+sign
+
+@W
+j =1
+@
+
+= sign
+
+nh UGh + nl UGl
+
+nh UGh + nl UGl Uxl j =1 = nh + nl 2
+n o
+h
+T 0 as nh + nl
+ml
+2 + 1n
+
+=
+
+h
+1n
+
+nh + nl ml
+
+mh +
+
+h
+2m
+,
++
+[ 2 1 nh ]
+
+Uxl j =1 : As g h (1) =
+( 2 + 1 nh )
+2m
+
+h nh
+
+1
+
+ml
+
+h h
+1m n
+
+n o
+h
+l
+l
+n
++
+n
+m
+T 0:
+2
+
+For an U.S. congregation of mean size 186 or median size 75, nh + nl ml > mh : the
+ratio of the income of a typical giver to that of a typical transfer recipient is much smaller
+than the median or mean congregation size. So, as this is su¢ cient, not necessary, for
+@W
+j =1 > 0, we expect @W
+j =1 > 0, irrespective of the parameters
+@
+@
+
+i > 0.
+
+Thus we expect
+
+no private transfers to occur with log Cobb-Douglas utility.
+17
+
+Note that g h0 (1) = 0 is consistent with the approximate formula for g h0 ( ) in (16) above. With CobbDouglas utility, the price elasticity of demand for the public good is 1, so the numerator of the g h0 ( )
+expression in (16) equals 0: To see this in the current context, note that when each h person maintains g h
+as changes, consumption of G = nh g h must change exactly in proportion - i.e., the price elasticity = 1
+1
+as the e¤ective unit price of G is
+.
+
+17
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+III Poverty Alleviation with Pious Preferences
+To re‡ect the assumption that all congregationers care about the total amount of funds
+being transferred to the poor, denoted T , I now posit that preferences satisfy (A.6):
+(A.6). All households have the utility function U [x; T; G], x and G de…ned as before.
+U is concave increasing in its arguments and satisfy Inada conditions for x and G.
+(A.6) is consistent with Hochman and Rodgers’ conception of interdependent preferences, with the interdependence as an external economy. I assume that transfers, T , do not
+satisfy an Inada condition for two reasons. First, to do otherwise forces the model to generate
+the very behaviour that I seek to explain. I do not want assumptions on preferences to force
+transfers to the poor to be made; I want them to occur if the charity …nds it cost-e¤ective
+to make them. Second, at the model’s highly aggregative level, private consumption of some
+sort is indispensable to every consumer, as is public good consumption. However, giving to
+the poor need not be perceived as indispensable to anyone.
+A charity that behaves as analyzed above and transfers a fraction 1
+
+of total donations
+
+to the poor will, in a symmetric equilibrium, make total transfers of
+
+T = (1
+
+Using G =
+
+)
+
+Xnh
+
+j=1
+
+(T + G), T = (1
+
+gjh +
+
+Xnl
+
+k=1
+
+) (T + G) =
+
+preferences now maximises U xl ; T; G = U xl ;
+xl + gl 5 ml + (1
+
+) nl
+
+=) xl + gl + (1
+
+) gl +
+
+5 ml +(1
+
+) nl
+
+1
+
+1
+
+nh g h + nl
+nh g h + nl
+
+nh g h + nl
+
+gkh = (1
+
+(1
+1
+
+)
+
+) nh g h + nl g l
+
+(19)
+
+G, an arbitrary poor person of pious
+G; G subject to the budget constraint
+
+1 gl + gl
+1 g l + (1
+
+1 gl + gl +
+
+) nh g h + nl
+
+nh g h + nl
+
+1 g l +(1
+
+1 gl
+) nh g h + nl
+
+=) xl + T + G 5 ml + (1
+) nl [T + G] + T l + G l
+h l
+i
+h l
+i
+=) xl + (T + G) n +nl 1 5 ml + T l + G l =) xl + n +nl 1 G 5 ml + G l .
+1
+
+18
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+1 gl
+
+So, with non-satiation, this person has the optimisation
+i
+h l
+i
+G; G s.t. xl + n +nl 1 G = ml + G l
+xl ; G G l
+h
+i
+i
+h l
+G l
+(1 )
+n+ 1 G
+l
+() M ax:U m +
+G; G
+;
+nl
+h
+M ax: U xl ;
+
+G G
+
+(1
+
+)
+
+(20)
+
+l
+
+The analogous optimisation for an the arbitrary rich person is
+G; G s.t. xh + G = mh + G h
+G h
+h
+i
+G h
+1
+h
+() M ax: U m +
+G;
+G; G
+1
+
+M ax: U xh ;
+
+xh ;G
+
+G G
+
+(21)
+
+h
+
+The crucial di¤erence from optimising with non-pious preferences is the new argument in utilh
+i
+G h
+1
+1
+1
+h
+p
+ph
+ity, T =
+m +
+and
+G. This yields public good demands G = f
+;
+G h;
+Gp = f pl ml + G l ;
+
+1
+
+G l;
+
+(nl +
+
+nl
+
+1)
+
+, superscript p denoting "from pious preferences."
+
+As before, as only the rich give in an utilitarian charity equilibrium, I examine just
+i
+h
+G h
+;( 1 )G h ; 1
+f ph mh +
+ph
+: So, di¤erentiating with respect to
+their behaviour. Now, g ( ) =
+nh
+, rearranging, using the same notation as with non-pious preferences, plus "rel
+
+T
+
+ph
+h fT
+
+f ph
+
+h
+
+,
+
+the elasticity of giving due to a concern about the welfare of others, gives
+
+g ph0 ( ) =
+
+1
+2 h
+n
+
+2
+4
+
+ph
+1 + "pp + frel
+1
+f ph
+
+p
+
+1 "m
+m
+
+"rel
+G h
+
+3
+5
+
+(22)
+
+Compared with non-pious preferences, the ceteris paribus impact of pious preferences
+ph
+on sign g ph0 ( ) is ambiguous a priori. It is in‡uenced by sign frel
+, thus, the identically-
+
+signed "rel . Similar to before, g ph0 ( ) > (<)0 if the numerator and denominator of the
+square-bracketed term in (22) have opposite (the same) signs. As my exemplary public good
+is a church, I think reasonably that the religious regard it as complementary with transfers
+ph
+to the poor, whence frel
+> 0; "rel > 0. Empirical evidence from Feldstein (1975) on also
+
+tends to suggest that giving to religion is less price elastic than non-religious giving, whence
+ph
+1 + "pp + frel
+> 1 + "pp > 1 + "p > 0 holds. All else equal, religiosity then could make g ph0 ( )
+
+19
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+more negative if it makes
+
+ph
+(> 0) larger than the counterpart (1 + "p ) > 0
+1 + "pp + frel
+p
+
+1 "m
+m
+
+in the non-pious case, and f 1ph
+
+"rel
+(> 0) smaller than its non-pious counterpart,
+G h
+
+1 "m
+(> 0).18
+m
+
+1
+f ph
+
+Standard comparative statics gives Proposition 3 for sign g ph0 ( ) :
+0
+
+Proposition 3. g ph (1) is a priori ambiguous in general. If U (x; G; T ) is additively separable,
+
+G UUGG
+= 1 su¢ ces for g ph (1) < 0. If U (x; G; T ) is log Cobb-Douglas, then g ph (1) < 0.
+G
+0
+
+0
+
+Proof. Consider a neighbourhood of
+
+= 1 where g ph ( ) > 0 = g l ( ) The relevant FOC
+
+for an arbitrary h person’s g h ( ) at a symmetric equilibrium is
+Ux mh
+
+g ph ( ); nh g ph ( ); (1
+
+) nh g ph ( )
+
++ UG mh
+
+g ph ( ); nh g ph ( ); (1
+
+) nh g ph ( )
+
+) UT mh
+
+g ph ( ); nh g ph ( ); (1
+
+) nh g ph ( ) = 0
+
+(1
+
+(23)
+
+Di¤erentiating (23) with respect to ; omitting functional arguments,
+0=
++ (1
+
+0
+
+UxG nh g ph + nh g ph
+0
+
+g ph UxT + UT T (1
+
+)
+
+UT +
+
+) nh g ph
+
+0
+
+nh g ph
+
+(24)
+
+0
+
++UGT nh g ph + nh gpph + UG
++
+
+UxG
+
+0
+
+g ph + UGT (1
+
+0
+
+=) g ph (1) =
+
+UT
+
+) nh g ph
+
+0
+
+nh g ph + UGG nh g ph + nh g ph
+
+UG nh g ph (UxT UxG UGT + UGG )
+[Uxx (nh + 1) UxG + nh UGG ]
+
+By concavity and supermodularity, Uxx
+
+su¢ ces for g ph (1) < 0. When U (x; G; T ) is log Cobb-Douglas,
+18
+
+0
+
+G UUGG
+=1
+G
+
+G UUGG
+= 1:
+G
+
+ph
+ph
+But, other combinations are possible. E.g., frel
+> 0 might produce: (i) 1 + "pp + frel
+> 0 if (1 + "p ) <
+
+0, and f 1ph
+1
+f ph
+
+(25)
+
+nh + 1 UxG + nh UGG < 0, but g ph (1) is a
+
+priori ambiguous. If U (x; G; T ) is separable, UxT = UxG = UGT = 0, and
+0
+
+0
+
+p
+
+1 "m
+m
+
+p
+ph
+"rel
+1 "m
+1
+1 "m
+p
+m
+G h < 0 if f
+m < 0 in the non-pious case; (ii) 1 + "p + frel > 0 if (1 + "p ) > 0 and
+"rel
+1
+1 "m
+h0
+ph0
+( ) > 0.
+G h < 0 if f
+m > 0 in the non-pious case. These could change g ( ) < 0 to g
+
+20
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+The outcome of the standard comparative statics is again consistent with direct exi
+h
+G h
+;( 1 )G h ; 1
+f ph mh +
+ph
+, as with its counterpart for
+ploration of the derivative of g ( ) =
+nh
+0
+
+0
+
+non-pious preferences. With Cobb-Douglas utility, g ph (1) < g h (1) = 0: Pious agents are
+likely to regard the church’s services and transfers to the poor as complementary. This will
+0
+
+0
+
+0
+
+0
+
+make g ph ( ) more negative than g h ( ): exactly what g ph (1) < g h (1) = 0 says.
+Ultimately, sign g ph0 ( ) can only be resolved empirically or by explicit preferences.
+For example, suppose utility is again log Cobb-Douglas, now U xh ; G;
+2 log G +
+
+3 log
+
+1+
+
+1
+
+G ;
+
+i
+
+1
+
+G =
+
+1 log x
+
+h
+
++
+
+(0; 1), i = 1; 2; 3, again elasticity parameters. The addi-
+
+tive constant, 1, in the third argument is to stop transfers to the poor satisfying an Inada
+condition. Substituting in the budget constraint xh + G = mh + G h ; the arbitrary h man
+chooses G to maximise
+
+1 log
+
+mh + G h
+
+G
+
++
+
+2 log G +
+
+3 log
+
+1+
+
+1
+
+G : The FOC
+
+for this generates the following quadratic equation in G:
+
+mh +
+
+G h
+
+2
+
+2+
+
+mh +
+
+(1
+
+)
+
+(1
+
+)( 1 +
+
+G h
+
+2+
+
+( 2+
+
+3)
+
+( 1+
+
+2)
+
+(26)
+
+G
+
+2
+3 ) G = 0:
+
+This can be solved for G as a function of the h-person’s full income, mh + G h , the
+elasticity parameters,
+
+i ; and expenditure shares, (
+
+using G = nh g ph and G h =
+
+nh
+
+; (1
+
+)). Alternatively, by symmetry,
+
+1 g ph in (26) and rearranging, the individual donation
+
+in a Nash equilibrium is found from the following quadratic equation de…ning g ph implicitly
+in terms of :
+
+h
+2m +
+
+( 2+
+
+3 ) (1
+
+) mh nh
+
+2+
+
+h
+1n
+
+g ph
+
+(1
+
+) nh
+
+2+
+
+3+
+
+h
+1n
+
+2
+
+g ph = 0
+(27)
+
+21
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+The Charity’s Maximisation with Pious Preferences
+In a symmetric Nash equilibrium, if only the rich donate, the charity’s welfare is now
+
+W P = nh U mh
+
+g h ; (1
+
+) nh g h ; nh g h + nl U ml +
+
+(1
+
+) h h
+n g ; (1
+
+nl
+
+) nh g h ; nh g h
+(28)
+
+Let subscript T show derivatives for the T argument of U (x; G; T ). Simplifying with an
+h-type’s FOC, the derivative of W P w.r.t.
+@W P
+@
+
+= nh g h nh UGh + nl UGl
+
+at
+
+nh UTh
+
+= 1 is
+0
+
+nl UTl
+
+Uxl + nh g h
+
+nh
+
+1 UGh + nl UGl
+
+(29)
+
+=1
+
+From (29) and (14) or (15), pious preferences makes poverty alleviation relatively more coste¤ective. The population size e¤ect militating against using donations to alleviate poverty in
+favour of public good provision no longer operates. The altruistic externality from poverty
+alleviation (i.e., nh UTh + nl UTl ) now increases with the population just like the o¤setting
+marginal bene…t from the public good, nh UGh + nl UGl . Poverty alleviation is worthwhile if the
+marginal utility of the …rst increment of private transfers exceeds that from the marginal
+amount of public good when all donations are used for the latter.
+I verify this insight numerically in the log-Cobb-Douglas case.
+0
+
+nh UTh
+
+g ph (1) < 0. So, nh g ph (1) nh UGh + nl UGl
+0; by (29). Now, g ph (1) =
+
+h
+2m
++
+[ 2 1 nh ]
+
+nl UTl
+
+and Gp (1) =
+
+By Proposition 3,
+
+Uxl j =1 5 0 su¢ ces for @W
+@
+
+h h
+2m n
+h
+2+ 1n
+
+P
+
+<
+=1
+
+, as with non-pious preferences.
+
+Thus,
+nh g ph (1) nh UGh + nl UGl
+= nh g ph (1)
+T 0 as nh + nl
+= ml f nh + nl
+
+nh + nl
+2+
+2+
+
+2
+
+Gp
+
+nh UTh
+
+nl UTl
+
+nh + nl
+
+3
+
+Uxl
+
+(30)
+1
+
+ml
+
+h
+
+ml
+
+nh + nl
+
+h h l
+3n m m
+
+1n
+
+h
+
+h h
+3n m
+
+h mh
+1 n ml g
+
+1n
+
+h h
+1n m
+
+T 0:
+
+The expression in the last line of (30) is negative for plausible parameter values and,
+speci…cally, most U.S. congregation sizes. So, notably, a larger community does not make
+22
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+@W P
+@
+
+< 0 less likely now. It also shows a dual in‡uence of mh in deciding the desirability
+=1
+
+and a¤ordability of private transfers. First, the larger is mh relative to ml , thus the greater is
+h mh
+1 n ml < 0, so the
+
+inequality and a need for transfers, all else equal, the more negative is
+more likely is @W
+@
+
+P
+
+< 0. Second, as
+
+i
+
+=1
+
+(0; 1) ; i = 1
+
+is determined mainly by the relative magnitudes of
+
+1n
+
+3, sign
+h
+
+and
+
+2+
+
+h
+1n
+
+h h
+3n m
+
+h h
+h
+3 n m , independent of n .
+
+All else equal, this ambiguous term is more likely negative, so @W
+@
+
+P
+
+< 0 and poverty=1
+
+alleviating transfers are more likely, the larger is mh . This re‡ects that the larger is mh , all
+else equal, the more the rich can a¤ord private transfers to the poor.
+Table I here
+Table I exempli…es the charity optimum with pious preferences to show that it plausibly
+entails 1 >
+
+p
+
+> 0. Throughout, the congregation size is set at a realistic 180, nh =nl = 5
+
+and each rich putative donor has …ves times the income of a poor putative private transfer
+recipient. Only preference parameters,
+
+i
+
+(0; 1) ; i = 1
+
+3, change between cases. In each,
+
+the charity maximises welfare W P subject to the constraint (27) given by donors’maximising
+behaviour in the Nash equilibrium19 . The lessons from this simple exercise are as expected:
+(i) Being able to make poverty alleviating transfers can produce a relatively large increase in total welfare. E.g., in case A, welfare increases by over 50% (from 482:22 to 730:91).
+(ii) It can result in a substantial increase in giving, to such an extent that the impact
+on the provision of the pure public good is negligible. For example, in case A, while just
+over half of the value of donations is used for private transfers to the poor, public good
+provision is still nearly 98% of its level without private transfers. In this case, the amount
+of an h person’s donation that goes to public good provision is 0:4942 (1:3093) = 0:647 06.
+This compares to a donation of 0:662 25 going totally to public good provision in the case
+without transfers. In the other examples, the smallest ratio of pure public good provision
+with transfers to that without occurs in case B at nearly 90%.
+19
+
+These solutions, detailed in an Online Appendix, are found numerically using Maple in Scienti…c Workplace. The Appendix shows that the second-order condition holds at these solutions.
+
+23
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+(iii) It can lead to a signi…cant increase in the poor’s private consumption and living
+standard. In the examples, the smallest increase in their consumption occurs in C, at just
+over 4%; the largest occurs in A at over 16:5%:
+(iv)
+
+is determined by the relative weight put upon the public good and private transfers
+
+in the utility function. An equal or near-equal weighting results in a
+
+close to 0:5 too. As
+
+the weight put on transfers ( 3 ) increases relative to that put on public good consumption
+( 2 ), so the share of total giving devoted to private transfers (1
+
+) increases. So, in the
+
+simulations, as in case D, when the weight on transfers is approximately twice that on the
+public good, approximately twice as much of donations go to transfers as to the public good.
+(v) Other things equal, the amount each rich person donates is determined by the total
+weighting in the utility function of transfers and the public good relative to the weighting
+for private consumption. The greater the weighting on private consumption, the less given.
+(vi) When there is no scope for poverty alleviation, giving and welfare is independent of
+the exponent on private transfers in the utility function. This is seen by comparing giving
+and welfare in cases A and B, C and D, and E and F.
+(vii) The levels of giving in the simulation can approximate those found empirically in
+congregations: in some examples, over 1% of aggregate income is donated, with just under
+half being used for poverty alleviation.
+The Cobb-Douglas case shows these points clearly, but I expect such considerations to
+be relevant to other pious utility functions.
+
+IV Other Preferences
+Warm glow/joint-product preferences.
+Would a utilitarian charity with a constituency of donors who have joint-product/warm
+glow preferences without piety …nd it cost-e¤ective to engage in poverty alleviation? No.
+This is easily seen by extending the argument utilised so far.
+24
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+With warm glow/joint-product preferences, U mh
+
+g h ; g h + G h ; g h is an arbitrary
+
+rich person’s utility. I assume that the third argument (which yields warm glow from giving)
+has no Inada condition, but the second does. So, no-one is forced by their tastes to give.
+Let subscript w on the utility function now denote its derivative with respect to warm glow;
+superscript w identi…es magnitudes in this case. In a Nash equilibrium in giving with a
+fraction (1
+
+) of donations going to the poor, such a person has FOC
+
+Ux mh
+
+g h ; g h + G h ; g h + UG mh
+
++Uw mh
+
+gh; gh + G h; gh
+
+(31)
+
+gh; gh + G h; gh = 0
+
+A symmetric equilibrium with only rich donors gives a charity maximand
+w
+
+W = nh U mh
+
+g h ; nh g h ; g h + nl U
+
+Di¤erentiating W w and evaluating at
+@W W
+@
+
+ml +
+
+(1
+
+) nh g h
+; nh g h ; 0
+nl
+
+(32)
+
+= 1 using an h-person’s FOC,
+
+= nh g wh nh UGh + nl UGl
+
+0
+
+Uxl + nh g wh
+
+nh
+
+1 UGh + nl UGl
+
+(33)
+
+=1
+
+Equation (33) is identical in form to (14) for the charity’s behaviour at
+pious preferences without warm glow. Again, @W
+@
+
+W
+
+= 1 with non-
+
+> 0 is likely for even moderately=1
+
+sized communities and reasonable parameters. E.g., consider the log Cobb-Douglas example
+with warm glow instead of utility from total transfers to the poor. Then, I can show that
+0
+
+g wh (1) = 0 and, for large nh and/or nl , that nh g wh nh UGh + nl UGl
+
+Uxl > 0, so private
+
+transfers to the poor are not made. I summarise this in Proposition 4.
+Proposition 4. If consumers have identical log-Cobb-Douglas preferences with warm glow/jointproduct from giving, a utilitarian charity will not make private transfers to the poor in a
+large community if resources can be used instead for a pure public good.
+
+25
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Joint-product/warm glow preferences give a generalised increased incentive for giving.
+This induces more giving, all else equal. But, as Proposition 4 shows, warm glow per se does
+not a¤ect the cost-e¤ectiveness of using donations for transfers to reduce poverty.
+
+Warm glow from multiple giving
+A variant on the warm-glow model is suggested, but not formally analyzed, by Reinstein
+(2011). He argues, from his empirical …ndings, that "larger givers" might have "concave
+multi-charity warm-glow preferences". I have examined multiple uses for a donation, albeit
+not multiple charities. It is intuitively plausible that some donors might wish to diversify
+their giving if the incremental warm glow from donating for a given purpose falls as the
+donation increases. So, suppose donors get di¤erent amounts of warm glow from a given
+gift depending upon how it is split between, say, poverty alleviation and the pastor’s and
+church’s upkeep. I make the following assumption:
+(A.7). (i) Each putative donor has a concave utility function U (x; G; !) incorporating
+the concave warm glow function, ! ( g; (1
+
+) g), which is increasing in each of its argu-
+
+! 1 > 0; @!(@((1g;(1 )g))g)
+
+! 2 > 0 and Ui (x; G; !) > 0, i = x; G; !; (ii)
+
+g;(1 )g)
+ments: @!( @(
+g)
+
+! 2 (g; 0) > ! 1 (g; 0); (iii) ! ii 5 0, i = 1; 2; (iv) ! ij = 0, i; j = 1; 2;(v) ! (0; 0) = 0.
+The classic Andreoni model with warm glow a linear function of aggregate giving is a
+special case of this formulation with ! 1 = ! 2 = 1 instead of (A.7)(ii) and ! ii
+
+0, i = 1; 2:20
+
+I do not impose an Inada condition on !, so someone with …nite resources need not feel
+in…nite misery from not giving. However, (A.7)(ii) means someone giving for the public
+good but not poverty alleviation would get increased utility if a marginal amount of their
+gift was shifted from public good provision to poverty alleviation.
+Denote magnitudes in this case by scripts !. Again consider a distribution such that only
+the rich donate. An arbitrary rich person has utility U mh
+
+gh;
+
+g h + nh
+
+1 gh ; !
+
+g h ; (1
+
+20
+
+Null (2011, note 6, p.457) suggests that the classic Andreoni case is more general than that with multigiving warm glow. This is clearly incorrect, given my argument here.
+
+26
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+) gh
+
+:
+
+The charity’s maximand in a symmetric equilibrium is
+
+W ! = nh U mh
+
+g h ; nh g h ; !
+
+g h ; (1
+
++ nl U ml +
+
+) gh
+
+(1
+
+)
+
+g h ; nh g h ; ! (0; 0)
+
+nl
+
+(34)
+An h person’s FOC in a symmetric Nash equilibrium is:
+
+Ux mh
+
+g h! ; nh g h! ; !
+
+g h! ; (1
+
+) g h!
+
++ UGh [:]+
+
+! h1 + (1
+
+) ! h2 U!h [:] = 0 (35)
+
+So, omitting functional arguments,
+@W !
+=
+@
+
+0
+
+0
+
+0
+
+nh Uxh g h! +nh UGh nh g h! + nh g h! +nh U!h ! h1 g h! + ng h! + ! h2 (1
+n h h!
+0o
+0
+(1 )nh g h!
+n g
++nl Uxl
++
++ nl UGl nh g h! + nh g h!
+nl
+nl
+Rearranging this and using the FOC (35) at
+
+@W !
+0
+j =1 = nh g h! (1)
+@
+
+nh
+
+0
+
+g h!
+
+! h2
+
+Uxl
+
+) g h!
+
+= 1 yields
+
+1 UGh + nl UGl + U!h ! h1 +nh g h! (1) nh UGh + nl UGl + U!h ! h1
+
+(36)
+I can now show the following.
+Proposition 5. If agents have concave multi-giving warm glow functions ! ( g; (1
+) g),
+h
+h
+h
+@[(! 1 ! 2 )=! ]
+!
+0
+j =1 is ambiguously-signed; (ii) g h! (1) is ambiguously-signed;
+50
+then: (i) @W
+@
+@g h
+0
+
+su¢ ces for g h! (1) < 0 when U [:] is log Cobb-Douglas.
+Proof. (i) For notational ease, let xh! (1)
+xl! (1)
+
+ml ; nh g h! (1) ; ! (0; 0) . At
+
+Ux xh! (1)
+
+mh
+
+g h! (1) ; nh g h! (1) ; ! g h! (1) ; 0
+
+and
+
+= 1, an h person’s FOC shows ! 1 g h! (1) ; 0 U! [xh! (1)] =
+
+UG xh! (1) > 0: So, ! h1 U!h is …nite at
+
+= 1, as is ! h1
+
+! h2 U!h (< 0) in (36)
+
+!
+
+for @W
+j =1 . By an argument used above, for a given mh and nh , Ux xl! (1) is …xed and
+@
+…nite. The same is true of U! xl! (1) . Hence, although
+
+Ux xl! (1) + UG xl! (1) +
+
+! l1 U! xl! (1) 5 0 holds, there exists n
+bl > 1 so that nh UG xh! (1) + nl UG xl! (1) +
+
+Ux xh! (1)
+
+! h1
+
+! h2
+
+!
+
+j =1 is positive, for
+Ux xl! (1) > 0, thus the g h! (1) term in @W
+@
+
+nl = n
+bl . So, @W
+j =1 is ambiguous and g h! < 0 is necessary but not su¢ cient for @W
+j =1 < 0
+@
+@
+!
+
+0
+
+!
+
+27
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+when nh and/or nl is "large".
+0
+
+(ii) To sign the term in g h! , again consider a neighbourhood of
+
+= 1 where g h! (1) >
+
+0 = g l! (1). Then, di¤erentiating through an h person’s FOC (35), rearranging and evaluating at
+
+= 1 gives
+h
+g h! (1) nh UGG
++ ! h1 ! h1
+
+0
+
+g h! (1) =
+h
+
+Now, D
+
+h
+! h2 U!!
++ ! h11
+D
+
+i
+
+2
+
+! h12 U!h + ! h1
+
+! h2 U!h + UGh
+(37)
+
+h
+h
+h
+Uxx
++ ! h1 U!!
++ ! h11 U!h + nh UGG
+< 0 by concavity. However, the sign of the
+0
+
+0
+
+numerator of g h! (1) is a priori ambiguous, as is g h! (1) therefore. For tractability and
+h
+comparability, consider a log-Cobb-Douglas U [:]. Then nh g h! (1) UGG
++ UGh = 0. Thus,
+h
+h
+h
+h
+h
+h
+h
+h
+h
+fg h! (1)[! h
+0
+1 (! 1 ! 2 )U!! +(! 11 ! 12 )U! ]+(! 1 ! 2 )U! g
+:
+g h! (1) =
+D
+U!h
+!h
+
+h
+=
+Likewise, U!!
+
+! h1 ! h1
+=
+
+U!h
+!h
+
+as U [:] is log-Cobb-Douglas. So,
+
+h
++ ! h11
+! h2 U!!
+
+! h12 U!h =
+
+! h11
+
+! h1 ! h1
+
+! h12 ! h
+
+! h2
+
+h
+
+! h2 U!!h + ! h11 ! h12 U!h
+1
+h
+h
+@[(! h
+]
+1 ! 2 )(! )
+5 0,
+= ! h U!h
+@g h
+
+! h1 ! h1
+
+all these magnitudes being evaluated at ! g h! (1) ; 0 . Thus, as ! h1 ! h2 < 0 at = 1
+1
+h
+h
+]
+@[(! h
+0
+1 ! 2 )(! )
+5 0 su¢ ces for g h! (1) < 0 in the log-Cobb-Douglas case.
+from (A.7),
+@g h
+Now, ! 1 g h! (1) ; 0
+
+! 2 g h! (1) ; 0 is the marginal incentive to give for the public good
+[! 1 (g h! (1);0) ! 2 (g h! (1);0)]
+instead of poverty alleviation if no alleviation occurs;
+is that incentive
+! (g h! (1);0)
+0
+relative to warm glow then. So, intuitively, it su¢ ces for g h! (1) < 0 that warm glow from
+public good giving declines relative to that from transfers the larger is public good giving and
+warm glow from it already. If a donor’s warm glow is linear in total giving irrespective of its
+!
+
+uses, with log-Cobb-Douglas utility, g hw0 (1) = 0 and, for large nh and/or nl , @W
+j =1 > 0.
+@
+With concave multi-giving warm glow, g !0 (1) < 0 might hold even if @W
+j =1 = 0 does.
+@
+!
+
+I.e., a charity might increase giving if it uses part of donations for transfers, but this need
+not increase welfare. Anyway, multi-giving concave warm glow makes outcomes for poverty
+reduction and welfare less predictable than if warm glow just depends on total giving.
+
+28
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Brown (1997) preferences.
+In Brown’s model, rich donors get an altruistic externality from giving that depends on
+the poor’s per capita income.21 Brown does not consider the poor’s welfare explicitly. But,
+suppose we do when resources used for private transfers to them can instead be used for a
+pure public good. I can show that, even if everyone (including the poor) gets an altruistic
+externality from giving that alters the poor’s per capita income, there is unlikely to be enough
+incentive for poverty alleviation in typically-sized giving communities like congregations.
+Indexing this case by "B", the charity now maximises welfare given by
+
+W B = nh U
+
+mh
+
+g h ; nh g h ; ml +
+
+)nh g h
+;
+nl
+
++nl U ml + (1
+
+(1
+
+nh g h ; ml + (1
+
+) nh g h
+nl
+)nh g h
+nl
+
+(38)
+
+:
+
+Letting subscripts s denote derivatives for the poor’s per capita income,
+@W B
+@
+
+= nh g Bh nh UGh + nl UGl
+=1
+
++nh g Bh
+
+0
+
+nh
+
+nh
+nl
+
+Ush
+
+Usl
+
+Uxl
+
+(39)
+
+1 UGh + nl UGl
+
+The poor’s living standard, their per capita income, is now an externality for all community members. Still, this is insu¢ cient to ensure private transfers to the poor are cost-e¤ective
+in large communities. The reason is evident from (39). Each donated dollar used for private
+1
+
+transfers is split equally among the poor, raising their per capita income by nl
+yields total altruistic externality of nl Usl nl
+
+1
+
+= Usl for the poor and nh Ush nl
+
+1
+
+: This
+
+for the
+
+rich, compared with nl Usl and nh Ush , respectively, with pious preferences. Conversely, using
+the same dollar instead for pure public good provision gives bene…ts that rise in proportion to the sizes of the rich and poor communities, as with pious preferences. This make
+21
+
+This feature links Brown’s model to Atkinson (2009).
+
+29
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+poverty alleviation less likely with Brown preferences than pious preferences. This can be
+0
+
+again illustrated by log-Cobb-Dougas preferences. It holds although g Bh (1) < 0 is true in
+the log-Cobb-Douglas case and can be shown to hold generally under the same condition
+Uh
+
+( GB UGG
+h = 1) as with pious preferences. I summarise this in Proposition 6:
+G
+
+Proposition 6. If utility is log-Cobb-Douglas and increases with the poor’s per capita
+consumption, then, if funds can be used instead for a pure public good, a utilitarian charity
+is less likely to make private transfers to the poor if consumers have Brown preferences than
+it would if they have pious preferences.
+
+V Conclusion
+Becker, in his "A Theory of Social Interactions" (1974), quotes The Random House Dictionary of the English Language’s (1967, unabridged) de…nition of charity: "the benevolent
+feeling, especially towards those in need or in disfavour." He includes the recipients’ wellbeing in the donors’utility functions to study explicitly the trade-o¤ between a recipient’s
+income and a charitable person’s giving. However, explicit analyses of charitable transfers to
+the needy are conspicuously absent in much of the theoretical charity literature in the subsequent 40 years. I have shown a di¢ culty of incorporating such transfers in models based
+on utility functions common in that literature. This di¢ culty arises as a large-population
+e¤ect makes poverty-alleviating private transfers cost-ine¤ective if the funds could instead
+be used for a public good. I also show that this di¢ culty is overcome if we posit preferences close to the spirit of both Becker’s and Hochman and Rodgers’original conceptions.
+Such preferences internalise the amount the community gives to the poor and so also re‡ect
+the religious precepts that one is one’s brothers’keeper and should love thy neighbours like
+yourself. Hence I label them "pious preferences" for short.
+Several authors (e.g., Feldstein, 1975, List, 2011; Andreoni and Payne, 2013) suggest,
+from empirical …ndings, that religious giving is di¤erent from other forms. For example, it is
+30
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+less susceptible to vagaries of the economic cycle (List, 2011), is less price elastic (Feldstein,
+1975, and followers) and the amount given depends on the devoutness of the giver (The
+Barna Group, 2009; McKitrick et al, 2013). Such …ndings suggest that the motivation for
+religious giving is not narrowly economic. I have captured this aspect of religious giving by
+modeling agents who empathize with their poorer brethren by having utility that responds
+positively to the total amount given to the latter. As "eleven o’clock Sunday morning continues to be the most segregated hour in America" (Hartford Institute for Religion Research,
+2015), I believe that this empathy is also important for reasons I have not stressed: religious giving allows donors to improve the well-being only of people that they identify with.
+So, it is bound up with the e¤ect that Alesina et al (1999) identify, wherein giving within
+essentially homogeneous communities substitutes for and undermines more widely distributed state provision. This is an issue to be pursued in further research.The same is true
+of the exploration of any complementarity or substitutability in the relationship between
+joint-product/warm-glow giving and pious preferences.
+
+References
+Alesina, A., R. Baqir, and W. Easterly.
+
+1999.
+
+"Public Goods and Ethnic Divi-
+
+sions."Q.J.E. 114 (4): 1243-1284.
+Allard, S. W. 2007. "Access and Stability: Comparing Faith-based and Secular Nonpro…t Service Providers." Working Paper, Taubman Center for Public Policy, Brown University.
+Allouch, N. 2013. "A Competitive Equilibrium for a Warm -glow Economy." Economic
+Theory 53 (1): pp. 269-82.
+Andreoni, J. 1988. "Privately Provided Public Goods in a Large Economy: the Limits
+of Altruism’, J. Public Econ. 35(1): 57-73.
+______. 1989. "Giving with Impure Altruism: Applications to Charity and Ricar-
+
+31
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+dian Equivalence." J.P.E. 97 (6): 1447-58.
+______.1990. "Impure altruism and donations to public goods: a theory of warmglow giving." Econ. J. 100 (June): 464-77.
+______. 2006. "Philanthropy". In Handbook of Giving, Reciprocity and Altruism,
+edited by S-C Kolm and J. Mercier Ythier. Amsterdam: North-Holland.
+______, and T. C. Bergstrom 1996. "Do Government Subsidies Increase the Private
+Supply of Public Goods?" Public Choice 88 (3-4): 295-308.
+______, and A. A. Payne. 2013. "Charitable Giving." In Handbook of Public Economics, Vol. 5, edited by A. A. Auerbach, R. Chetty, M.S. Feldstein and E. Saez. Amsterdam: Elsevier Science B.V.
+Atkinson, A. B. 2009. "Giving Overseas and Public Policy." J. Public Econ. 93 (5-6):
+647-653.
+Auten, G. E., H. Sieg, and C.H. Clotfelter. 2002. "Charitable Giving, Income and
+Taxes: an Analysis of Panel Data’, A.E.R. 92 (1): 371-82.
+Backus, P. 2010. "Is Charity a Homogeneous Good?" University of Warwick Economics
+Research Paper no. 951.
+Barna Group, The. 2009. "New Study Shows Trends in Tithing and Donating." At
+https://www.barna.com/research/new-study-shows-trends-in-tithing-and-donating/#. Last
+accessed 01 December 2016
+Barro, Robert J., and R. M. McCleary. 2003. "Religion and Economic Growth across
+Countries." Am. Sociological Rev. 68 (5): 760-781.
+Becker, G M. 1974. "A Theory of Social Interactions." J.P. E. 82 (6): 1063-1093.
+Bekkers, R., and P. Wiepking. 2011. "Who Gives? A Literature Review of Predictors of
+Charitable Giving Part One: Religion, Education, Age and Socialisation." Voluntary Sector
+Rev. 2 (3): 337-365.
+Benabou, R., and J. Tirole. 2006. "Incentives and Prosocial Behaviour." A.E.R. 96 (5):
+1652-1678.
+
+32
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Bergstrom, T. C., L. Blume and H. R. Varian. 1986. "On the Private Provision of
+Public Goods." J. Public Econ. 29 (1): 25-49.
+Bernheim, B. D. 1986. "On the Voluntary and Involuntary Provision of Public Goods."
+A.E.R 76 (4): 789-793..
+Biddle, J. E.. 1992. "Who Bene…ts from the Activities of America’s Religious Congregations?" in Who Bene…ts from the Nonpro…t Sector? edited by C. T. Clotfelter, Chicago,
+IL: University of Chicago Press.
+Bilodeau, M., and A. Slivinski.1997. "Rival charities." J. Public Econ. 66 (3): 449-67.
+Boberg-Fazlíc, N., and P. Sharp. 2017. "Does Welfare Spending Crowd Out Charitable
+Activity? Evidence from Historical England under the Poor Laws." Econ. J. 127 (February):
+50-83.
+Bourles, R.., Y. Bramoullé, and E. Perez-Richet. 2017. "Altruism in Networks." Econometrica 85(2): 675-689.
+Brown, E. 1997. "Altruism towards Groups: The Charitable Provision of Private
+Goods.”Nonpro…t and Voluntary Sector Quarterly 26 (2): 175-184.
+Campante, F., and D. Yanagizawa-Drott.
+
+2015.
+
+"Does Religion A¤ect Economic
+
+Growth and Happiness? Evidence from Ramadam." Q.J.E. 130 (2): 615-658.
+Chang, W-C. 2005. "Religious Giving, Non-religious Giving and After-life Consumption." Topics in Econ. Anal. and Policy 5(1): 1-30.
+Chaves, M. 2002. "Religious Congregations." In The State of Nonpro…t America, edited
+by L. M. Salamon. Washington D.C.: The Brookings Institution Press.
+Clark, A., and O. Lelkes. 2006. "Deliver Us from Evil: Religion as Insurance." Working
+Paper PER 06/03, European Network on the Economics of Religion.
+Cnaan, R., and G. I. Yancey. 2000. "Our Hidden Safety Net." In What’s God Got to Do
+with the American Experiment? edited by E. J. Dionne Jr, and J. J Jioulio Jr. Washington
+D.C.: Brookings Institution Press.
+Cornes, R., and T. Sandler. 1984. "Easy Riders, Joint Production, and Public Goods."
+
+33
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Econ. J. 94 (September): 580-94.
+____, _____, 1994. "The Comparative Statics of the Impure Public Good Model."
+J. Public Econ. 54 (3): 403-421.
+____, and J-I Itaya. 2010. "On the Private Provision of Two or More Public Goods."
+J. Public Econ. Theory 12 (2): 363-385.
+de Wit, A., and R. H. F. P. Bekkers. 2017. "Government Support and Charitable Donations: A Meta-analysis of the Crowding-out Hypothesis." Journal of Public Administration
+Research and Theory, 27(2): 301-319.
+Duin, J., 2001. "Giving in Di¤erent Denominations." Philanthropy, May/June.
+Echazu, L., and D. Nocetti. 2015. "Charitable Giving: Altruism has No Limits." J.
+Public Econ. 125 (1): 46-53.
+Evren, Ö., and S. Minardi. 2017. "Warm-glow Giving and Freedom to Be Sel…sh." Econ
+J. 127 (August): 1381-1409.
+Faias, M., E. Moreno-García, and M. H. Wooders. 2014. "A Strategic Market Game
+Approach for the Private Provision of Public Goods."J. Dynamics and Games 1 (2): 283-298.
+Feldstein, M. S. 1975. "The Income Tax and Charitable Contributions: Part II - the
+Impact on Religious, Educational and other Organizations." National Tax Journal 28 (2):
+209-226.
+Fraser, C. D. 1992. "The Uniqueness of Nash Equilibrium in the Private Provision of
+Public Goods: An Alternative Proof." J. Public Econ. 49 (3): 389-390.
+_____. 1996. "On the Provision of Excludable Public Goods." J. Public Econ. 60
+(1): 111-130.
+_____. 2005. What’s the Good in Giving? A (Small) Contribution to the Economics
+of Charity. University of Leicester Working Paper.
+Ghosh, S., A. Karaivanov, and M. Oak. 2007. "A Case for Bundling Public Good
+Contributions." J. Public Econ. Theory 9 (3): 425-449.
+Google. 2007. "Patterns of Household Charitable Giving by Income Group, 2005.
+
+34
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Giving Focused on Helping the Poor." Prepared for Google by the Center on Philanthropy
+at Indiana University.
+Hartford Institute for Religion Research. 2015. Fast Facts about American Religion.
+http://hirr.hartsem.edu/research/fastfacts/fast_facts.html. Last accessed 11 May 2016.
+Hochman, H. M., and J. D. Rodgers. 1969. "Pareto Optimal Redistribution." A.E.R.
+59 (4): 542-557.
+Hrung, W. B. 2004. "After-life Consumption and Charitable Giving." Amer. J. Econ.
+and Sociology, 63 (3): 731-745.
+Hungerman, D. M. 2005. "Are Church and State Substitutes? Evidence from the 1996
+Welfare Reform." J. Public Econ. 89 (11-12): 2245-2267.
+Iannaccone, L. R. 1992. "Sacri…ce and Stigma: Reducing Free-Riding in Cults, Communes, and Other Collectives." J.P.E 100 (2): 271-291.
+Karlan, D., and J. A. List. 2007. "Does Price Matter in Charitable Giving? Evidence
+from a Large-scale Natural Field Experiment." A.E.R. 97 (5): 1774-93.
+Kotchen, M.J. 2006. "Green Markets and Private Provision of Public Goods." J.P.E.
+114(4): 816-834.
+List, J. A. 2011. "The Market for Charitable Giving." J. Econ. Perspectives 25 (2):
+157-180.
+McKitrick, M. A., J. S. Landres, M. Ottoni-Wilhelm, and A. D. Hayat. 2013. Connected
+to Give: Faith Communities. Los Angeles: Jumpstart Labs.
+Null, C. 2011. "Warm Glow, Information and Ine¢ cient Charitable Giving." J. Public
+Econ. 95 (5-6): 455-465.
+Reinstein, D. 2011. “Does One Contribution Come at the Expense of Another? Empirical Evidence on Substitution Among Charitable Donations.” The B.E. J. Econ. Analysis
+& Policy (Advances) 11 (1): Article 40.
+Ribar, D. C., and M. O. Wilhelm. 2002. "Altruistic and Joy-of-giving Motivations in
+Charitable Behavior." J.P.E. 110 (1): 425-457.
+
+35
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Roberts, R. D. 1984. "A Positive Model of Private Charity and Public Transfers."
+J.P.E. 92 (1): 136-48.
+Saxon-Harrold, S. K. E., S. J. Wiener, M. T. McCormack, and M. A. Weber. 2000.
+America’s Religious Congregations: Measuring Their Contributions to Society. Washington,
+DC: Independent Sector.
+Scharf, K. A. 2000. "Why are Tax Incentives for Giving Embodied in Fiscal Constitutions?" J. Public Econ. 75 (3): 365-387.
+____., and S. Smith. 2010. "The Price Elasticity of Charitable Giving." IFS Working
+Paper W10/07, Institute of Fiscal Studies.
+Scheve, K., and D. Stasavage. 2006. "Religion and Preferences for Social Insurance."
+Quarterly J. Political Sci. 1 (3): 255-286.
+Taussig, M. K. 1967. "Economic Aspects of the Personal Income Tax Treatment of
+Charitable Contributions." National Tax J. 20(1): 1-19.
+Thornton, J. P, and S. Helms. 2010. "Afterlife Incentives in Charitable Giving." Applied
+Econ. 45 (19): 2779-2791.
+U.S. Bureau of Labour Statistics. 2013. Consumer Expenditure Survey.
+Vicary, S. 1997. "Joint Production and the Private Provision of Public Goods." J.
+Public Econ. 63 (3): 429-445.
+Warr, P. G. 1982. "Pareto Optimal Redistribution and Private Charity." J. Public Econ.
+19 (1): 131-38.
+______. 1983. "The private provision of a public good is independent of the distribution of income." Econ. Letters 13 (2-3): 207-11.
+
+36
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+Table 1. Illustrative Simulations of Giving with Pious Preferences
+
+mh = 100; ml = 20; nh = 150; nl = 30
+Case
+
+Paremeters
+
+Giving
+With Transfers
+
+1 = 0:3;
+
+A
+
+2 = 0:3;
+
+3 = 0:3
+1 = 0:3;
+
+B
+
+1 = 0:4;
+
+2 = 0:3;
+
+1 = 0:4;
+
+2 = 0:1;
+
+Giving (g)
+
+Welfare
+
+g = 1:3093
+
+730:91
+
+16:56
+
+0:662 25
+
+482:22
+
+680:93
+
+15:17
+
+0:662 25
+
+482:22
+
+428:31
+
+4:12
+
+0:166 39
+
+370:07
+
+440:82
+
+8:25
+
+0:166 39
+
+370:07
+
+668:26
+
+8:30
+
+0:33232
+
+509:37
+
+655:07
+
+7:81
+
+0:33232
+
+509:37
+
+g = 0:325 79
+= 0:493 63
+
+2 = 0:1;
+
+g = 0:490 98
+= 0:327 78
+
+1 = 0:45;
+
+2 = 0:225;
+
+3 = 0:225
+
+g = 0:65574
+= 0:493 74
+
+1 = 0:45;
+
+F
+
+l0 s % consumption increase
+
+= 0:495 04
+
+3 = 0:2
+
+E
+
+Welfare
+
+g = 1: 201 6
+
+3 = 0:1
+
+D
+
+Giving
+
+= 0:4942
+
+3 = 0:25
+
+C
+
+Without transfers
+
+2 = 0:225;
+
+3 = 0:21
+
+g = 0:633 90
+= 0:507 3
+
+Online Appendix to "Faith, Hope and Christian Charity: How Religion Explains Giving when Warm Glow
+and Impure Altruism Do Not" by Clive D. Fraser
+For the numerical solutions reported in the paper, the Charity solves the following
+constrained optimisation problem:
+M ax:M (g; )
+
+nh
+
+nl
+
+1
+nl
+
+g;
+
+1 ln
+
+ml +
+
+= nh 1 ln mh
+
+1 ln
+
+mh
+
+nh g h +
+
+gh +
+2 ln
+
+2 ln
+
+nh g h +
+
+g h + nl 1 ln ml +
+
+1
+nl
+
+nh g h +
+
+3 ln
+
+3 ln
+
+1
+
+1+
+
+1+
+
+1
+
+nh g h
+
++
+
+nh g h
+
+nh g h +
+37
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+nh + nl
+
+nh g h + nh + nl
+
+2 ln
+
+3 ln
+
+) nh g h
+
+1 + (1
+
+(40)
+
+subject to the constraint from the households’maximisation if only the h-type gives,
+
+C (g; ) =
+
+h
+2m + ( 2 +
+
+) mh nh
+
+3 ) (1
+
+2+
+
+1n
+
+h
+
+g h (1
+
+) nh
+
+2+
+
+3+
+
+1n
+
+2
+
+gh = 0
+
+h
+
+(41)
+Forming the Lagrangian L = M (g; )
+
+C (g; ), where
+
+is a Lagrange multiplier, the
+
+FOC for this maximisation are the constraint (2) and
+
+rM (g; ) = rC (g; )
+
+(42)
+
+I.e., omitting the script in g h , the FOC are rL = rM (g; )
+0; where
+
+0
+
+B
+rM (g; ) = @
+
+and
+
+@M
+@g
+@M
+@
+
+0
+
+0
+
+1
+
+C B
+A=@
+
+@C
+
+1
+
+@C
+@
+
+1
+(nh +nl )(1 )nh
+(1+(1 )nh g) C
+A
+h
+l
+h
+3 (n +n )n g
+(1+(1 )nh g)
+
+(n +n ) 2
+(1 ) 1 nh nl
+nh 1
++
++
++
+h
+g
+(m g) (ml nl +(1 )nh g)
+
+0
+
+B @g C B
+@
+A=@
+
+rC (g; ) =
+
+rC (g; ) = 0; C (g; ) =
+h
+
+h l
+1n n g
+l
+l
+m n +(1 )nh g
+
+(
+(1
+
+) ( 2+
+
+)
+
++
+
+(nh +nl ) 2
+
+h h
+3) m n
+
+( 2+
+
+l
+
+2nh
+
+2+
+
+h h
+h
+3) m n g + n
+
+3
+
+3+
+
+1n
+
+h
+
+g
+
+2+
+
+3+
+
+1n
+
+2+
+h
+
+g2
+
+For the second-order condition (SOC), from Murata (1977) Theorem 36 Corollary (p59
+and pp.267-8), the Hessian of the Lagrangian L = M (g; )
+
+de…nite for all variations
+
+where
+
+1 = @C (g;
+
+2 = @C (g;
+
+satisfying rC 0 = 0: This is so if f
+
+C (g; ) must be negative
+0
+
+1
+
+2
+
+1
+
+11
+
+12
+
+2
+
+12
+
+22
+
+> 0,
+
+) =@g;
+
+) =@ ;
+
+2
+2
+2
+11 = @ L=@g = @ M (g;
+2
+12 = @ L=@g@
+
+) =@g 2
+
+= @ 2 M (g; ) =@g@
+
+@ 2 C (g; ) =@g 2 ;
+@ 2 C (g; ) =@g@ ;
+38
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+1n
+
+h
+
+2
+2
+= @ 2 M (g;
+22 = @ L=@
+
+) =@ 2
+
+@ 2 C (g; ) =@ 2 :
+
+I assume mh = 100; ml = 20; nh = 150; nl = 30 in the numerical examples. So,
+1 = @C (g;
+
+) =@g = ( 2 +
+
+2 = @C (g;
+
+) =@ =
+
+2
+12 = @ L=@g@
+
+(150 ( 2 +
+
+( 2+
+
+150 1
+(100 g)2
+
+2
+2
+11 = @ L=@g =
+
+3 ) (1
+
+) 15000 ( 2 +
+
+3 ) 15000g + 150 ( 2 +
+)2 22500
+)150g)2
+
+30 1 (1
+(600+(1
+
+2 180
+g2
+
+3 + 150 1 ) 2g
+
+( 2+
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+180 3 (1 )2 22500
+(1+(1 )150g)2
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150g)
+)150g)2
+
+=
+
+3 + 150 1 )
+
+2
+
+300 (1
+
+)( 2 +
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+3 ) 15000)
+2
+
+22500 1 30g
+@ 2 C (g; ) ==@ 2 = (600+(1
+)150g)2
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+
+22
+
+1 150)
+
+2 180
+2
+
++
+
+22500 3 180g 2
+(1+(1 )150g)2
+
+Example A
+2
+
+= 0:3;
+
+3
+
+M (g; ) = nh
+
+1 ln
+
+mh
+
+1
+
+= 0:3;
+
+= 0:3; mh = 100; ml = 20; nh = 150; nl = 30: The charity’s
+
+maximand is
+
++nl
+
+1 ln
+
+ml +
+
+1
+nl
+
+gh +
+
+nh g h +
+
+2 ln
+
+= nh 1 ln mh
+
+g h + nl 1 ln ml +
+
++ nh + nl
+
+1 + (1
+
+3 ln
+
+nh g h +
+
+2 ln
+
+nh g h +
+1
+nl
+
+3 ln
+3 ln
+
+1 + (1
+
+1 + (1
+
+nh g h + nh + nl
+
+) nh g h
+) nh g h
+2 ln
+
+nh g h
+
+) nh g h
+
+= 45 ln (100
+
+g) + 54 ln ( 150g) + 54 ln (1 + (1
+) 150g) + 9 ln (20 + (1
+h
+l
+h
+l
+)nh
+(n +n ) 2
+3 (n +n )(1
+@M (g; )
+(1 ) 1 nh nl
+nh 1
+=
++
++
++
+@g
+g
+(mh g)
+(ml nl +(1 )nh g)
+(1+(1 )nh g)
+150(1 )
+45(1 )
+= 10045 g + 54
++ +54 1+150(1
++ 20+5(1
+g
+)g
+)g
+h +nl
+h
+l
+n
+(
+)
+(nh +nl )nh g
+2
+3
+@M (g; )
+1n n g
+=
++
+@
+(ml nl +(1 )nh g)
+(1+(1 )nh g)
+150g
+45g
+= 54 54 1+150(1
+)g
+20+5(1 )g
+C (g; ) = 30 + 9000g
+
+9000g
+
+45:3g
+
+= 30 + (1
+
+6840g 2 )
+
+45:3g
+
+) (9000g
+
+@C(g; )
+= 9000
+@g
+
+= (1
+
+) (9000
+
+@C(g; )
+=
+@
+
+9000
+
+45:3
+
+13680g)
+
+) 5g)
+
+6840g 2 + 6840g 2
+
+13680g + 13680g
+
+45:3
+
+9000g + 6840g 2
+
+39
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+3 + 150 1 )
+
+The FOC then yield the following simultaneous equation system to be solved:
+
+54
+150 (1
+45
++ +54
+100 g g
+1 + 150 (1
+
+)
+
+45 (1
+) g 20 + 5 (1
+
+)
+
++
+
+)g
+
+= ((9000
+
+13680g) (1
+
+)
+
+45:3)
+(43)
+
+54
+
+54
+
+150g
+1 + 150 (1
+
+30 + (1
+
+)g
+
+) 9000g
+
+45g
+20 + 5 (1
+6840g 2
+
+)g
+
+=
+
+6840g 2
+
+(44)
+
+9000g
+
+(45)
+
+45:3g = 0
+
+Using
+Maple, the solution is:
+9
+8
+>
+4
+>
+>
+[g = 1: 018 4 8: 430 9i; = 1:0 + 7: 793 7 10 i; = 1: 805 3 0:153 81i] ; >
+>
+>
+>
+>
+>
+>
+>
+>
+>
+4
+=
+< [g = 1: 018 4 + 8: 430 9i; = 1:0 7: 793 7 10 i; = 1: 805 3 + 0:153 81i] ; >
+>
+>
+>
+>
+[g = 1: 309 3; = 0:494 18; = 1: 814 1 10 2 ] ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+;
+:
+4
+[g = 1: 317 0; = 3: 771 3; = 4: 180 2 10 ]
+
+The Second-order Condition for Example A
+With g = 1:3093;
+
+= 0:4942
+
+=
+
+1: 814 1
+
+10 2 being the only sensible real solu-
+
+tion,
+1 = @C (g;
+
+= 0:6 (1
+
+) =@g = ( 2 +
+
+0:4942) 15000
+
+2 = @C (g;
+
+3 ) (1
+
+(0:3 + 45)
+
+) =@ =
+
+( 2+
+
+150 (0:6 + 45) (1:30932 ) =
+
+58: 117
+
+150 1
+(100 g)2
+
+2
+2
+11 = @ L=@g =
+
+=
+
+45
+(100 1:3093)2
+
++ (1: 814 1
+
+(150 ( 2 +
+
+(1
+
+30 1 (1
+(600+(1
+
+)2 22500
+)150(g))2
+
+=
+
+3 + 150 1 ) 2g
+
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+0:4942) 300 (0:6 + 45) 1:3093 =
+
+3 ) 15000g+150 ( 2 +
+
+9(1 0:4942)2 22500
+(600+(1 0:4942)150(1:3093))2
+
+10 2 ) 300 (1
+
+2
+12 = @ L=@g@
+
+) 15000 ( 2 +
+
+2 180
+g2
+
+54
+1:30932
+
+3 + 150 1 ) g
+
+2
+
+=
+
+180 3 (1 )2 22500
+(1+(1 )150g)2
+
+3 + 150 1 ) 1:3093
+
+4552: 6
+
+(0:6) 15000 (1:3093)+
+
+300 (1
+
+)( 2 +
+
+54(1 0:4942)2 22500
+(1+(1 0:4942)150(1:3093))2
+
+0:4942) (0:6 + 45) = 63: 037
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150g)
+)150g)2
+
+( 2+
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+3 ) 15000)
+
+40
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+3 + 150 1 )
+
+1350
++ 6750(1 0:4942)30(1:3093)
+(600+(1 0:4942)150(1:3093)) (600+(1 0:4942)150(1:3093))2
+
+=
+(1: 814 1
+
+10 2 ) (150 (0:6 + 45) 2 (1:3093)
+
+22500 1 30g 2
+2
+2
+= (600+(1
+22 = @ L=@
+)150g)2
+2
+
+(6750)30(1:3093)
+= (600+(1
+0:4942)150(1:3093))2
+
+(54)150
++ 54(1 0:4942)(1:3093)22500 +
+(1+(1 0:4942)150(1:3093)) (1+(1 0:4942)150(1:3093))2
+
+(0:6) 15000) = 159: 20
+
+2 180
+2
+
+2
+
+22500 3 180g
++ (1+(1
+)150g)2
+
+(6750)180(1:3093)2
+54
+=
+2 +
+(0:4942)
+(1+(1 0:4942)150(1:3093))2
+
+So, the determinant of the bordered Hessian matrix is
+
+13: 502
+
+0
+
+4552: 6
+
+58: 117
+
+4552: 6
+
+63: 037
+
+159: 20
+
+58: 117
+
+159: 20
+
+13: 502
+
+=
+
+108 > 0
+
+3: 638 8
+
+Hence, this solution identi…es a maximum point.
+
+Welfare
+With g = 1: 309 3;
+54 ln (1 + (1
+
+) 150g) + 9 ln (20 + (1
+
+= 45 ln (100
+9 ln (20 + (1
+
+= 0:494 18, Welfare is given by 45 ln (100
+
+g) + 54 ln ( 150g) +
+
+) 5g)
+
+1:3093)+54 ln ((0:49418)150(1:3093))+54 ln (1 + (1
+
+0:49418) 150(1:3093))+
+
+0:49418) 5(1:3093)) = 730: 91:
+
+With no poverty alleviation,
+
+= 1 and g =
+
+h
+2m
+h
+2+ 1n
+
+, so g = 0:662 25 now: Welfare is
+
+given by
+45 ln (100
+
+g) + 54 ln ( 150g) + 54 ln (1 + (1
+
+= 45 ln (100
+
+) 150g) + 9 ln (20 + (1
+
+) 5g)
+
+0:662 25) + 54 ln (150(0:662 25)) + 54 ln (1) + 9 ln (20) = 482: 22 < 730: 91
+
+Transfers
+With g = 1:3093;
+
+=
+= 0:4942; the transfer to each poor person = 150(1 0:4942)1:3093
+30
+
+2
+3: 311 2. This is signi…cant as it is 3: 311
+(100%) = 16:5 56% of the poor person’s original
+20
+
+income.
+Example B:
+1 = 0:3;
+
+2 = 0:3;
+
+3 = 0:25
+
+mh = 100; ml = 20 nh = 150; nl = 30 The FOC sys-
+
+tem to be solved is
+41
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+(1
+)9
+54
+45 (1
+45
++
++
++
+(100 g) (4 + (1
+) g)
+g
+(1 + (1
+
+) 150
+=
+) 150g)
+
+((1
+
+) (8250
+
+13665g)
+
+45:3)
+(46)
+
+9g
+(4 + (1
+
+) g)
+
+30 + (1
+
+The 8
+solution is:
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+<
+
++
+
+54
+
+(54) 150g
+=
+(1 + (1
+) 150g)
+6832:5g 2
+
+) 8250g
+
+[g =
+
+4
+
+6: 067 8
+
+10 ;
+
+[g = 1: 201 6;
+
+6832:5g 2
+
+(47)
+
+8250g
+
+(48)
+
+45:3g = 0
+
+=
+
+4: 995 3;
+
+= 0:495 04;
+
+=
+
+3
+
+= 1: 901 3
+1: 978 5
+
+10 ] ;
+
+10 2 ] ;
+
+[g = 0:934 75 1: 914 7i; = 1: 000 5 + 3: 066 1 10 3 i; = 2: 177 8 4: 169 9
+>
+>
+>
+>
+>
+[g = 0:934 75 + 1: 914 7i; = 1: 000 5 3: 066 1 10 3 i; = 2: 177 8 + 4: 169 9
+>
+>
+>
+>
+>
+:
+[g = 1: 208 5; = 4: 022 7; = 1: 281 2 10 4 ]
+Hence the only sensible real solution is [g = 1: 201 6;
+
+= 0:495 04;
+
+=
+
+10 2 i] ;
+
+9
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+=
+
+>
+>
+>
+>
+2
+10 i] ; >
+>
+>
+>
+>
+>
+;
+10 2 ] :
+
+1: 978 5
+
+Checking the Second-Order Condition for Example B
+1 = @C (g;
+
+= (0:55) (1
+
+) =@g = ( 2 +
+
+3 ) (1
+
+0:495 04) 15000
+
+) 15000 ( 2 +
+
+(0:3 + 45)
+
+(1
+
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+0:495 04) 300 (0:55 + 45) (1: 201 6) =
+
+4170: 8
+2 = @C (g;
+
+) =@ =
+
+2
+2
+11 = @ L=@g =
+
+((:01978 5)) 300 (1
+
+(0:55) 15000 (1: 201 6) + 150 (0:55 + 45) (1: 201 6)2 =
+
+45
+(100 (1: 201 6))2
+
+2
+
+9(1 0:495 04) 22500
+(600+(1 0:495 04)150(1: 201 6))2
+
+54(1 0:495 04)2 22500
++
+(1+(1 0:495 04)150(1: 201 6))2
+
+0:495 04) (0:55 + 45) = 62: 417
+
+2
+12 = @ L=@g@
+
+=
+
+1350
++ 6750(1 0:495 04)30(1: 201 6)
+(600+(1 0:495 04)150(1: 201 6)) (600+(1 0:495 04)150(1: 201 6))2
+
+54(1 0:495 04)(1: 201 6)22500
++ (:01978 5) (300 (45:55) (1: 201 6)
+(1+(1 0:495 04)150(1: 201 6))2
+22
+
+54
+(1: 201 6)2
+
+48: 146
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+2
+
+201 6)
+54
++ (1+(1 (6750)180(1:
+=
+0:495 042
+0:495 04)150(1: 201 6))2
+
+(54)150
++
+(1+(1 0:495 04)150(1: 201 6))
+
+(0:55) 15000) = 158: 99
+2
+
+201 6)
+@ 2 C (g; ) ==@ 2 = (600+(1(6750)30(1:
+0:495 04)150(1: 201 6))2
+
+12: 538
+
+42
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+0
+
+4170: 8
+
+48: 146
+
+4170: 8
+
+62: 417
+
+158: 99
+
+48: 146
+identi…ed.
+
+158: 99
+
+12: 538
+
+108 > 0 So, a maximum point has been
+
+= 2: 818 1
+
+Welfare
+Without poverty alleviation, g =
+Now, welfare = nh 1 ln mh
+nh + nl
+
+3 ln
+
+1 + (1
+
+= 45 ln (100
+
+h
+2m
+h
+2+ 1n
+
+30
+= 0:3+45
+= 0:662 25:
+1
+nl
+
+g h + nl 1 ln ml +
+
+0:66225) + 9 ln (20) + 54 ln (150 (0:662 25)) + (180) 0:25 ln (1) = 482: 22
+
+nh g h + nh + nl
+
+2 ln
+
+= 45 ln (100
+45 ln (1 + (1
+
+nh g h +
+
+2 ln
+
+) nh g h
+
+With poverty alleviation, welfare = nh 1 ln mh
+nh + nl
+
+nh g h + nh + nl
+
+3 ln
+
+1 + (1
+
+1: 201 6)+9 ln (20 + (1
+
+g h + nl 1 ln ml +
+
+1
+nl
+
+nh g h +
+
+) nh g h
+
+0:495) 5 (1: 201 6))+54 ln ((0:495) 150 (1: 201 6))+
+
+0:495) 150 (1: 201 6)) = 680: 93
+
+This is obviously a signi…cant improvement on the case without transfers.
+_____________________________
+Example C:
+1 = 0:4;
+
+2 = 0:1;
+
+3 = 0:1
+
+mh = 100; ml = 20 nh = 150; nl = 30 After simpli…ca-
+
+tion of some terms, the system of FOC is
+
+(1
+) 12
+4 + (1
+)g
+
+60
+18
+(1
+) 2700
++ +
+= ((1
+100 g g 1 + (1
+) 150g
+
+) (3000
+
+18060g)
+
+60:1)
+(49)
+
+12g
+18
+2700g
++
+=
+(4 + (1
+) g)
+(1 + (1
+) 150g)
+10 + (1
+
+) 3000g
+
+9030g 2
+
+3000g + 9030g 2
+
+60:1g = 0
+
+(50)
+(51)
+
+The solution of this equation system is:
+
+43
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+8
+>
+>
+>
+>
+>
+>
+>
+<
+
+[g = 0:332 60;
+
+= 9: 904 2;
+
+[g = 0:325 79;
+
+= 1: 822 3
+
+= 0:493 63;
+
+=
+
+10 ] ;
+
+0:071 83] ;
+
+>
+>
+[g = 0:205 03 2: 788 0i; = 1:0 + 2: 378 3 10 3 i; = 1: 802 5: 046 3
+>
+>
+>
+>
+>
+: [g = 0:205 03 + 2: 788 0i; = 1:0 2: 378 3 10 3 i; = 1: 802 + 5: 046 3
+Hence, g = 0:325 79;
+
+= 0:493 63;
+
+9
+>
+>
+>
+>
+>
+>
+>
+=
+
+4
+
+>
+10 2 i] ; >
+>
+>
+>
+>
+>
+2
+10 i] ;
+
+0:071 83 is the only sensible real solution.
+
+=
+
+The Second-Order Condition for Example C
+To check for the SOC with
+1 = @C (g;
+
+= (0:2) (1
+=
+
+) =@g = ( 2 +
+
+3 ) (1
+
+) 15000 ( 2 +
+
+(0:1 + 60)
+
+(1
+
+3 = 0:1;
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+0:493 63) 300 (0:2 + 60) (0:325 79)
+
+1520: 4
+) =@ =
+
+( 2+
+
+150 (0:2 + 60) (0:325 79)2 =
+
+3 + 150 1 ) g
+
+2
+
+=
+
+(0:2) 15000 (0:325 79)+
+
+)2 22500
+)150(g))2
+
+2 180
+g2
+
+180 3 (1 )2 22500
+(1+(1 )150g)2
+
+18
+(0:325 79)2
+
+300 (1
+
+)( 2 +
+
+18(1 0:493 63)2 22500
+(1+(1 0:493 63)150(0:325 79))2
+
+0:493 63) (0:2 + 60) = 330: 45
+
+2
+12 = @ L=@g@
+
+(150 ( 2 +
+
+30 1 (1
+(600+(1
+
+12(1 0:493 63)2 22500
+(600+(1 0:493 63)150(0:325 79))2
+
+60
+(100 (0:325 79))2
+
+( 0:071 83) 300 (1
+
+3 ) 15000g+150 ( 2 +
+
+18: 934
+
+150 1
+(100 g)2
+
+2
+2
+11 = @ L=@g =
+
+=
+
+2 = 0:1;
+
+0:493 63) 15000
+
+2 = @C (g;
+
+=
+
+1 = 0:4;
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150g)
+)150g)2
+
+=
+
+3 + 150 1 ) 2g
+
+( 2+
+
+3 ) 15000)
+
+2250(1 0:493 63)30(0:325 79)
+1800
++ (600+(1
+(600+(1 0:493 63)150(0:325 79))
+0:493 63)150(0:325 79))2
+
+18(1 0:493 63)(0:325 79)22500
+(1+(1 0:493 63)150(0:325 79))2
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+(18)150
++
+(1+(1 0:493 63)150(0:325 79))
+
+( 0:071 83) (150 (0:2 + 60) 2 (0:325 79)
+
+(0:2) 15000) = 200:
+
+21
+22
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+
+2
+
+22500 1 30g
+@ 2 C (g; ) ==@ 2 = (600+(1
+)150g)2
+
+2 180
+2
+
++
+
+22500 3 180g 2
+(1+(1 )150g)2
+2
+
+79)
+= (600+(1(9000)30(0:325
+0:493 63)150(0:325 79))2
+
+79)2
+18
++ (1+(1(2250)180(0:325
+=
+0:493 632
+0:493 63)150(0:325 79))2
+
+0
+
+1520: 4
+
+18: 934
+
+1520: 4
+
+330: 45
+
+200: 21
+
+18: 934
+
+200: 21
+
+8: 944 3
+
+= 3: 208 4
+
+8: 944 3:
+
+107 > 0, so this is a maximum point.
+
+44
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+3 + 150 1 )
+
+Welfare in Example C
+Without poverty alleviation, in this case, g =
+
+h
+2m
+h
+2+ 1n
+
+10
+= 0:1+60
+= 0:166 39 and welfare
+
+is given by
+g h + nl 1 ln ml +
+
+nh 1 ln mh
++ nh + nl
+
+3 ln
+
+= 60 ln (100
+
+1+
+
+1
+
+1
+nl
+
+nh g h + nh + nl
+
+18 ln (1 + (1
+
+nh g h
+
+nh g h
+
+0:166 39) + 12 ln (20) + 18 ln (150 (0:166 39)) + 18 ln (1) = 370: 07
+
+With poverty alleviation, with g = 0:325 79;
+60 ln (100
+
+2 ln
+
+0:325 79)+12 ln (20 + (1
+
+= 0:493 63, welfare is given by
+
+0:493 63) 5 (0:325 79))+18 ln ((0:493 63) 150 (0:325 79))+
+
+0:493 63) 150 (0:325 79)) = 428: 31 > 370: 07:
+
+In this case, the transfer to each poor household is 5 (0:32579) (1
+As a proportion of original income this is 0:824 85=20 = 4: 124 3
+
+0:493 63) = 0:824 85:
+
+10 2 : I.e., approximately
+
+4%.
+
+_________________________________________________________
+
+Example D.
+Consider a case with
+1 = 0:4;
+
+2 = 0:1;
+
+3 >
+
+2:
+
+3 = 0:2
+
+mh = 100; ml = 20 nh = 150; nl = 30 The system of
+
+FOC in this case is
+
+(1
+) 12
+(4 + (1
+) g)
+
+60
+18
+36 (1
++
++
+(100 g)
+g
+(1 + (1
+
+) 150
+=
+) 150g)
+
+((1
+
+) (4500
+
+18090g)
+
+60:1)
+(52)
+
+12g
+18
++
+(4 + (1
+) g)
+10 + 4500 (1
+
+)g
+
+(36) 150g
+=
+(1 + (1
+) 150g)
+
+(60:1) g
+
+9045 (1
+
+4500g + 9045g 2
+
+) g2 = 0
+
+(53)
+(54)
+
+45
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+8
+9
+>
+2
+>
+>
+[g = 0:490 98; = 0:327 78; = 3: 652 9 10 ] ; >
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+<
+=
+[g = 21: 815; = 0:999 70; = 1: 477 7] ;
+The solution is:
+>
+>
+>
+>
+[g = 0:533 11; = 0:991 54; = 1: 794 4] ;
+>
+>
+>
+>
+>
+>
+>
+>
+>
+: [g = 0:498 19; = 7: 515 9; = 1: 434 8 10 4 ] >
+;
+The only sensible real solution is g = 0:490 98; = 0:327 78; = :03652 9:
+
+The Second-Order Condition for Example D
+In this example,
+1 = @C (g;
+
+= (0:3) (1
+
+) =@g = ( 2 +
+
+3 ) (1
+
+) 15000 ( 2 +
+
+0:327 78) 15000 (0:1 + 60) (1
+
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+0:327 78) 300 (0:3 + 60) (0:490 98) =
+
+3005:
+
+7
+2 = @C (g;
+
+) =@ =
+
+60
+(100 g)2
+
+2
+2
+11 = @ L=@g =
+
+2
+
+12(1 ) 22500
+(600+(1 )150(g))2
+
+12(1 0:327 78)2 22500
+(600+(1 0:327 78)150(0:490 98))2
+
+60
+(100 (0:490 98))2
+
+( 3: 652 9
+
+3 ) 15000g + 150 ( 2 +
+
+3 + 150 1 ) g
+
+2
+
+=
+
+(0:3) 15000 (0:490 98) + 150 (0:3 + 60) (0:490 98)2 =
+
+= @C (g; ) =@ =
+
+=
+
+( 2+
+
+10 2 ) 300 (1
+
+18
+g2
+
+36(1
+(1+(1
+
+2
+
+) 22500
+)150g)2
+
+29: 010
+
+300 (1
+
+) (0:3 + 60)
+
+36(1 0:327 78)2 22500
+(1+(1 0:327 78)150(0:490 98))2
+
+18
+(0:490 98)2
+
+0:327 78) (0:3 + 60)
+
+= 225: 76
+2
+12 = @ L=@g@
+
+(150 ( 2 +
+=
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150g)
+)150g)2
+
+=
+
+3 + 150 1 ) 2g
+
+( 2+
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+3 ) 15000)
+
+9000(1 0:327 78)30(0:490 98)
+1800
++ (600+(1
+(600+(1 0:327 78)150(0:490 98))
+0:327 78)150(0:490 98))2
+
+36(1 0:327 78)(0:490 98)22500
++ (1+(1
+( 3: 652 9
+0:327 78)150(0:490 98))2
+
+(36)150
+(1+(1 0:327 78)150(0:490 98))
+
+10 2 ) (150 (0:3 + 60) 2 (0:490 98)
+
+(0:3) 15000) =
+
+155: 39
+22
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+
+2
+
+22500 1 30g
+@ 2 C (g; ) ==@ 2 == (600+(1
+)150g)2
+
+2 180
+2
+
++
+
+22500 3 180g 2
+(1+(1 )150g)2
+2
+
+98)
+= (600+(1(9000)30(0:490
+0:327 78)150(0:490 98))2
+
+2
+
+98)
+18
++ (1+(1 (4500)180(0:490
+=
+0:327 782
+0:327 78)150(0:490 98))2
+
+90: 838
+
+Therefore, the determinant of the bordered Hessian matrix is
+
+46
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+0
+
+3005: 7
+
+29: 010
+
+3005: 7
+
+225: 76
+
+155: 39
+
+29: 010
+maximum.
+
+155: 39
+
+90: 838
+
+108 > 0: So, this solution identi…es a
+
+= 8: 475 6
+
+Welfare in Case D
+= 0:327 78, welfare = nh 1 ln mh
+
+If g = 0:490 98;
+nh + nl
+
+nh g h + nh + nl
+
+2 ln
+
+3 ln
+
+150g h + 18 ln 150g h + 18 ln 1 + (1
+
+= 60 ln 100
+
+g h + 12 ln 20 +
+
+= 60 ln (100
+
+0:490 98)+12 ln (20 + (1
+
+18 ln (1 + (1
+
+1
+nl
+
+nh g h +
+
+) nh g h
+
+1 + (1
+
+1
+nl
+
+g h + nl 1 ln ml +
+
+) 150g h
+
+0:327 78) 5 (0:490 98))+18 ln ((0:327 78) 150 (0:490 98))+
+
+0:327 78) 150 (0:490 98)) = 440: 82
+
+When there is no poverty alleviation and
+
+10
+= 1; g = 60:1
+= 0:166 39 and G = 1500
+= 24:
+60:1
+
+958.
+Then welfare = 60 ln (100
+
+0:166 39) + 12 ln 20 + 18 ln 24: 958 + 18 ln (1) = 370: 07
+
+This is less than the welfare when poverty alleviation occurs.
+The transfer to a poor household when g = 0:490 98;
+
+= 0:327 78 is 5(0:490 98) (1
+
+0:327 78) =
+
+1: 650 2: so, as a proportion of the original total income of the poor, the transfer is 1:
+650 2=20 = 0:082 51 - i.e., over 8%.
+
+Example E.
+1 = 0:45;
+
+h
+l
+h
+l
+3 = 0:225; m = 100; m = 20; n = 150; n = 30: The charity’s
+
+2 = 0:225;
+
+maximand is
+M (g; ) = nh
++nl
+
+1 ln
+
+1 ln
+1
+nl
+
+ml +
+
+mh
+
+gh +
+
+nh g h +
+
+2 ln
+2 ln
+
+= nh 1 ln mh
+
+g h + nl 1 ln ml +
+
++ nh + nl
+
+1 + (1
+
+3 ln
+
+= 67:5 ln (100
+
+nh g h +
+
+nh g h +
+1
+nl
+
+3 ln
+3 ln
+
+1+
+
+1
+
+1 + (1
+
+nh g h + nh + nl
+
+nh g h
+) nh g h
+2 ln
+
+nh g h
+
+) nh g h
+
+g)+40:5 (ln 150 + ln + ln g)+40:5 ln (1 + 150 (1
+
+) g)+13:5 ln (20 + (1
+
+substituting in parameters and suppressing the script in g h : So,
+47
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+) 5g) ;
+
+@M (g; )
+=
+@g
+
+150(1
+67:5
++ 40:5
++ 40:5 1+150(1
+100 g
+g
+
+@M (g; )
+= 40:5
+@
+
+150g
+40:5 1+150(1
+
+)
+67:5(1
++ 20+5(1
+)g
+
+)
+)g
+
+67:5g
+20+5(1 )g
+
+)g
+
+Likewise, substituting the parameters into the constraint and simplifying,
+C (g; ) = 0:225mh +(0:45) (1
+
+0:225 + 0:45nh g nh 0:45 + 0:45nh (1
+
+) mh nh g
+
+) g2 =
+
+0
+= 22:5 + (1
+
+) (6750g
+
+10193g 2 )
+
+@C(g; )
+= (1
+@g
+
+) (6750
+
+20386g)
+
+@C(g; )
+=
+@
+
+(67:725) g h
+67:725
+
+6750g + 10193g 2
+
+The system of FOC to be solved is
+
+40:5
+g
+
+67:5
+6075 (1
++
+100 g 1 + 150 (1
+
+)
+13:5 (1
++
+) g 4 + (1
+
+)
+=
+)g
+
+((1
+
+) (6750
+
+20386g)
+
+67:725)
+(55)
+
+40:5
+22:5 + (1
+
+The solution is:
+
+6075g
+1 + 150 (1
+
+)g
+
+) 6750g
+
+10193g 2
+
+8
+>
+>
+[g = 99: 088;
+>
+>
+>
+>
+>
+<
+>
+>
+>
+>
+>
+>
+>
+:
+
+13:5g
+=
+4 + (1
+)g
+
+(56)
+(57)
+
+(67:725) g = 0
+
+= 1: 000 1;
+
+=
+
+324: 01] ; [g = 0:662 87;
+
+[g = 0:655 74;
+
+[g = 0:456 36
+
+6750g + 10193g 2
+
+4: 972 6i;
+
+[g = 0:456 36 + 4: 972 6i;
+
+= 0:493 74;
+
+=
+
+= 6: 108 1;
+
+3: 604 5
+
+= 2: 706 7
+
+10 4 ]
+
+10 2 ] ;
+
+= 1:0 + 1: 329 4
+
+10 3 i;
+
+= 1: 803 6
+
+9: 150 3
+
+10 2 i] ;
+
+= 1:0
+
+10 3 i;
+
+= 1: 803 6 + 9: 150 3
+
+10 2 i]
+
+1: 329 4
+
+The only feasible real solution now is [g = 0:65574;
+
+= 0:493 74;
+
+=
+
+:03 6045] :
+
+Checking the Second-order Condition in Example E
+Using [g = 0:65574;
+1 = @C (g;
+
+= (0:45) (1
+
+= 0:493 74;
+
+) =@g = ( 2 +
+
+3 ) (1
+
+=
+
+:03 6045],
+) 15000 ( 2 +
+
+0:49374) 15000 (0:225 + (0:45) 150) (1
+
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+0:49374) 300 (0:45 + 150 (0:45)) 0:65574 =
+48
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+3417: 8
+2 = @C (g;
+
+=
+
+) =@ =
+
+150 1
+(100 g)2
+
+2
+12 = @ L=@g@
+
+(150 ( 2 +
+
+30 1 (1
+(600+(1
+
+)2 22500
+)150(g))2
+
+30(0:45)(1 0:49374)2 22500
+(600+(1 0:49374)150(0:65574))2
+
+150(0:45)
+(100 0:65574)2
+
+( :03 6045) 300 (1
+
+=
+
+3 ) 15000g + 150 ( 2 +
+
+3 + 150 1 ) g
+
+2
+
+(0:45) 15000 (0:65574) + 150 (0:45 + 150 (0:45)) (0:655741)2 =
+
+2
+2
+11 = @ L=@g =
+
+=
+
+( 2+
+
+2 180
+g2
+
+=
+43: 508
+
+180 3 (1 )2 22500
+(1+(1 )150g)2
+
+300 (1
+
+)( 2 +
+
+3 + 150 1 )
+
+180(0:225)(1 0:49374)2 22500
+(1+(1 0:49374)150(0:65574))2
+
+(0:225)180
+0:655742
+
+0:49374) (0:45 + 150 (0:45)) = 187: 09
+
+=
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150(g))
+)150g)2
+
+3 + 150 1 ) 2g
+
+( 2+
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+3 ) 15000)
+
+4500(0:45)
+0:49374)30(0:65574)
++ 22500(0:45)(1
+(600+(1 0:49374)150(0:65574))
+(600+(1 0:49374)150(0:65574))2
+
+180(0:225)150
+(1+(1 0:49374)150(0:65574))
+
+0:49374)(0:65574)22500
++ 180(0:225)(1
+( :03 6045) (150 (0:45 + 150 (0:45)) 2 (0:65574)
+(1+(1 0:49374)150(0:65574))2
+
+(0:45) 15000)
+
+= 233: 29
+22
+
+2
+
+22500 1 30g
+@ 2 C (g; ) ==@ 2 = (600+(1
+)150g)2
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+
+2 180
+2
+
++
+
+22500 3 180g 2
+(1+(1 )150g)2
+2
+
+22500(0:45)30(0:65574)
+= (600+(1
+0:49374)150(0:65574))2
+
+(0:225)180
+22500(0:225)180(0:65574)2
+=
++ (1+(1
+0:493742
+0:49374)150(0:65574))2
+
+0
+
+3417: 8
+
+43: 508
+
+3417: 8
+
+187: 09
+
+233: 29
+
+= 2: 321 8
+
+43: 508 233: 29
+13: 967
+So, [g = 0:65574; = 0:493 74; =
+
+13: 967
+
+108 > 0
+
+:03 6045] is a maximum point.
+
+Welfare in Example E
+Welfare with poverty alleviation is now
+M (g; ) = 67:5 ln (100
+13:5 ln (20 + (1
+= 67:5 ln (100
+
+g) + 40:5 (ln 150 + ln + ln g) + 40:5 ln (1 + 150 (1
+
+) g) +
+
+) 5g)
+0:65574) + 40:5 (ln 150 + ln 0:493 74 + ln 0:65574) +
+
+40:5 ln (1 + 150(0:65574)
+
+150(0:493 74)0:65574)+13:5 ln (20 + (1
+
+0:493 74) 5(0:65574)) =
+
+= 67:5 ln (99:34426)+40:5 (ln 48:56476014)+40:5 ln (50:79623986)+13:5 ln (20 + 1:659874662) =
+668: 26
+49
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+When
+
+= 1 and there is no poverty alleviation, with these parameters, g =
+
+h
+2m
+
+[ 2 + 1 nh ]
+
+=
+
+22:5
+= 0:332 23 : Thus, welfare is
+0:225+67:5
+
+nh 1 ln mh
+
+g h + nl 1 ln ml + nh + nl
+
+= 150(0:45) ln(100
+
+2 ln
+
+nh g h + nh + nl
+
+3 ln (1)
+
+0:3322259) + 30(0:45) ln 20 + 180 (0:225) ln (150 (0:33223)) = 509:
+
+37 < 668: 26.
+So, poverty alleviation results in a signi…cant increase in the total amount donated and
+in welfare
+The transfer to each poor household in this case is 5 (0:65574) (1
+
+0:493 74) = 1: 659 9:
+
+As a proportion of a poor household’s income, this is 1: 659 9=20 = 8: 299 5
+
+10 2 , or
+
+approximately 8.3%.
+
+_________________________________________________________
+
+Example F
+1 = 0:45;
+
+2 = 0:225;
+
+3 = 0:21
+
+mh = 100; ml = 20 nh = 150; nl = 30 . Proceed-
+
+ing as before yields the following FOC system to solve for the optimum:
+
+67:5
+(1
+) 13:5
+40:5
+(1
+) 5670
++
++
++
+=
+(100 g) (4 + (1
+) g)
+g
+(1 + (1
+) 150g)
+
+((1
+
+) (6525
+
+20380:5g)
+
+67:725)
+(58)
+
+40:5
+13:5
++
+(4 + (1
+) g)
+
+5670g
+=
+(1 + (1
+) 150g)
+
+6525g + 150 (67:935) g 2
+(59)
+
+22:5 + (1
+
+) 6525g
+
+10190:25g 2
+
+(67:725) g = 0
+
+(60)
+
+The solution is:
+
+50
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+8
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+<
+
+[g = 0:633 90;
+
+2
+
+6 g=
+4
+
+1: 419 9
+
+=
+
+9: 860 6
+
+4
+
+3: 826 4
+
+10 ] ;
+
+3
+
+= 0:501 68 + 3: 426 0i; 7
+5;
+= 1: 288 2 10 3 + 5: 292 7 10 3 i
+3
+4
+4
+1: 419 9 10 + 9: 860 6 10 i; = 0:501 68 3: 426 0i; 7
+5;
+= 1: 288 2 10 3 5: 292 7 10 3 i
+
+2
+
+6 g=
+4
+
+10
+
+4
+
+= 0:507 3;
+
+10 i;
+
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+[g = 0:640 98; = 5: 818 8; = 1: 597 2 10 3 ] ;
+>
+>
+>
+>
+>
+>
+[g = 1: 673 2 4: 630 0i; = 1: 000 4 + 1: 316 7 10 3 i; = 1: 826 4 8: 592 5
+>
+>
+>
+>
+>
+: [g = 1: 673 2 + 4: 630 0i; = 1: 000 4 1: 316 7 10 3 i; = 1: 826 4 + 8: 592 5
+The only real feasible solution is g = 0:633 90;
+
+= 0:507 3;
+
+9
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+=
+
+2
+
+=
+
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+2
+>
+10 i] ; >
+>
+>
+>
+>
+>
+2
+10 i] ;
+
+:03 826 4
+
+The Second-order condition in Example F
+We proceed as before to get
+1 = @C (g;
+
+= (0:435) (1
+
+) =@g = ( 2 +
+
+3 ) (1
+
+) 15000 ( 2 +
+
+0:507 3) 15000 (0:225 + 67:5) (1
+
+1 150)
+
+(1
+
+) 300 ( 2 +
+
+3 + 150 1 ) g
+
+0:507 3) 300 (0:435 + 67:5) (0:633 90) =
+
+3218: 1
+2 = @C (g;
+
+=
+
+) =@ =
+
+3 ) 15000g + 150 ( 2 +
+
+150 1
+(100 g)2
+
+2
+
+30 1 (1
+(600+(1
+
+) 22500
+)150(g))2
+2
+
+13:5(1 0:507 3) 22500
+(600+(1 0:507 3)150(0:633 90))2
+
+67:5
+(100 (0:633 90))2
+
+2 180
+g2
+
+0:507 3) (0:435 + 67:5) = 193: 08
+
+2
+12 = @ L=@g@
+
+22500 1 (1 )30g
+4500 1
++ (600+(1
+(600+(1 )150g)
+)150g)2
+
+( ) (150 ( 2 +
+
+=
+
+3 + 150 1 ) 2g
+
+( 2+
+
+41: 457
+
+2
+
+300 (1
+
+)( 2 +
+
+2
+
+37:8(1 0:507 3) 22500
+(1+(1 0:507 3)150(0:633 90))2
+
+)g22500
+180 3 150
+3 (1
++ 180
+(1+(1 )150g)
+(1+(1 )150g)2
+
+3 ) 15000)
+
+10125(1 0:507 3)30(0:633 90)
+2025
++ (600+(1
+(600+(1 0:507 3)150(0:633 90))
+0:507 3)150(0:633 90))2
+
+37:8(1 0:507 3)(0:633 90)22500
+(1+(1 0:507 3)150(0:633 90))2
+
+2
+
+180 3 (1 ) 22500
+(1+(1 )150(g))2
+
+40:5
+(0:633 90)2
+
+( :03 826 4) 300 (1
+
+=
+
+3 + 150 1 ) g
+
+(0:435) 15000 (0:633 90) + 150 (0:435 + 67:5) (0:633 90)2 =
+
+2
+2
+11 = @ L=@g =
+
+=
+
+( 2+
+
+(37:8)150
++
+(1+(1 0:507 3)150(0:633 90))
+
+( :03 826 4) (150 (:435 + 67:5) 2 (0:633 90)
+
+(0:435) 15000) =
+
+239: 29
+22
+
+= @ 2 L=@ 2 = @ 2 M (g; ) =@ 2
+
+2
+
+22500 1 30g
+@ 2 C (g; ) ==@ 2 = (600+(1
+)150g)2
+
+2 180
+2
+
++
+51
+
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+3 + 150 1 )
+
+22500 3 180g 2
+(1+(1 )150g)2
+2
+
+(10125)30(0:633 90)
+= (600+(1
+0:507 3)150(0:633 90))2
+
+90)2
+40:5
++ (1+(1(4725)180(0:633
+=
+0:507 32
+0:507 3)150(0:633 90))2
+
+7: 806 5
+
+Hence, the determinant of the bordered Hessian matrix is
+0
+
+3218: 1
+
+41: 457
+
+3218: 1
+
+193: 08
+
+239: 29
+
+41: 457 239: 29
+7: 806 5
+So g = 0:633 90; = 0:507 3; =
+
+= 1: 443 6
+
+108 > 0:
+
+:03 826 4 is a maximum point.
+
+Welfare in Example F
+With g = 0:633 90;
+nh + nl
+
+2 ln
+
+= 0:507 3; welfare is given by nh 1 ln mh
+
+nh g h + nh + nl
+
+3 ln
+
+1+
+
+1
+
+= 67:5 ln mh
+
+g h +13:5 ln 20 + (1
+
+= 67:5 ln (100
+
+0:633 90)+13:5 ln (20 + (1
+
+37:8 ln (1 + (1
+
+g h +nl 1 ln ml +
+
+1
+nl
+
+nh g h +
+
+nh g h
+
+) 5g h +40:5 ln 150g h +37:8 ln 1 + (1
+
+) 150g h
+
+0:507 3) 5 (0:633 90))+40:5 ln ((0:507 3) 150 (0:633 90))+
+
+0:507 3) 150 (0:633 90)) = 655: 07
+
+Without poverty alleviation, giving satis…es g =
+welfare = 67:5 ln (100
+
+h
+2m
+h
++
+2
+1n
+
+22:5
+= 0:225+67:5
+= 0:332 23: Then
+
+0:33223) + 13:5 ln (20) + 40:5 (ln (150 (0:33223))) + 37:8 ln (1) = 509:
+
+37
+The poverty alleviating transfer in this case to each poor person = 5 (0:633 90) (1
+
+0:507 3) =
+
+1: 561 6: As a proportion of original income, this equals
+1: 561 6=20 = 0:078 08 - i.e., nearly 8%.
+________________________________________________
+
+References
+Murata, Y. 1977. Mathematics for Stability and Optimization of Economic Systems. London:
+Academic Press.
+
+52
+Electronic copy available at: https://ssrn.com/abstract=3164327
+
+

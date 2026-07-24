@@ -1,0 +1,3317 @@
+Measuring world governance: revisiting the institutions
+hypothesis
+
+Mehmet Pinar
+Edge Hill University (cid:3)
+
+December 16, 2013
+
+Abstract
+
+We consider the weighting scheme that results in a best-case scenario in the construc-
+tion of the World Governance Indicators (WGIs), a proxy of institutional quality. To do
+that we use an approach that relies on consistent tests for stochastic dominance e¢ ciency
+of a given index with respect to all possible indices constructed from a set of individual
+components. The test statistics and the estimators are computed using mixed integer pro-
+gramming methods. The results show that the equally-weighted (…xed weights) composite
+WGI index is not the best-case scenario and that governance indicators at di¤erent years
+should be weighted di¤erently. Furthermore, we revisit the institutions hypothesis in the
+empirical growth literature, where institutional quality is the main determinant of long
+term development. We …nd that not only institutions matter for economic development,
+but also geography and macroeconomic policies do a¤ect economic development directly.
+
+JEL Classi…cations: C12; C13; C14; C15; O1; O57
+Key Words: World Governance Indicators; Institutions; Geography; Openness; Nonparametric
+
+Stochastic Dominance; Mixed Integer Programming
+
+(cid:3)Business School, Edge Hill University, St Helens Road, Ormskirk, Lancashire, L39 4QP, United
+
+Kingdom. Tel.: +44 1695657629; fax: +44 1695584675. E-mail:pinarmeh@edgehill.ac.uk
+
+1
+
+1 Introduction
+
+One of the crucial questions in economics is what determines income di¤erences among coun-
+tries. Why are there such large and persistent income di¤erences among countries? Growth
+di¤erences between countries are accounted for by di¤erences in human capital, physical capital
+and technology (e.g. Mankiw et al. 1992). However, why is a poor country unable to replicate
+a rich country to achieve higher human, physical capital and technology levels? Over the last
+two decades there has been a lot of research devoted to better understanding the long term
+determinants of economic development. In that respect, institutions, international trade and
+geography are found to be the factors that a¤ect income di¤erences between countries in the
+long term.
+
+One camp argues that institutional quality is the most important determinant of income
+di¤erences among countries. North (1990) pointed out the importance of institutions as a
+main factor of economic development. Hall and Jones (1999) pointed out the importance of
+institutions and linked institutions to colonial time and the origin of the colonizer. Acemoglu
+et al. (2001) found that many countries’institutional quality was shaped at colonization time
+and persisted over time and the di¤erence in institutional quality is the main reason behind
+cross-country income per capita di¤erences. Engerman and Sokolo¤ (1997), Easterly and Levine
+(2003), Rodrik et al. (2004), Bosker and Garretsen (2009) are among the many papers that
+contributed to the debate of the e¤ect of institutions on economic development in the long
+term.
+
+Another camp argues that geographical characteristics of the country are the most direct
+determinants of development. Sachs (2003) pointed out the importance of the disease envi-
+ronment that acts as a barrier to economic development for the poorest countries. Bloom and
+Sachs (1998) and Gallup et al. (1998) found that the disease environment has an e¤ect on
+economic growth and suggest that a disease environment is geographically speci…c after con-
+trolling for institutions. Sachs (2003) shows malaria transmission directly a¤ects the level of
+per capita income after controlling for the quality of institutions. Since malaria transmission
+is strongly a¤ected by ecological conditions, Sachs (2003) concluded that geography a¤ects
+economic development directly.
+
+International trade is also considered to be one of the main determinants of economic de-
+velopment. Frankel and Romer (1999) argue that trade openness has a causal link to economic
+development. They use geographical factors to obtain trade openness by summing the pre-
+dicted bilateral trade shares and found that it has a direct e¤ect on economic development.
+Diamond (1997), Sachs and Warner (1995), Dollar and Kraay (2003) are some other papers
+
+2
+
+which emphasized the impact of international trade on development.
+
+There has been a lot of research done on what is called “deep”determinants of economic de-
+velopment. However, there have been many criticisms on how institutional quality is measured.
+As Glaeser et al. (2004) pointed out, how institutional quality is measured is the root ques-
+tion. Among the most commonly used institutional quality measures are the World Governance
+Indicators (WGI hereafter). Our present study will try to contribute to this debate.
+
+Kaufmann, Kraay and Zoido-Lobaton (1999), KKZ hereafter, …rst establish a new database
+of governance indicators. They constructed six aggregate indicators corresponding to six basic
+governance concepts: voice and accountability (VA hereafter), political stability (PS hereafter),
+government e¤ectiveness (GE hereafter), regulatory quality (RQ hereafter), rule of law (RL
+hereafter) and control of corruption (CC hereafter). Over the years these aggregate indicators
+were updated, see KKZ (2002), Kaufmann, Kraay and Mastruzzi, KKM hereafter, (2004, 2005,
+2006, and 2007a). KKM (2008) lastly updated WGI, six aggregate governance indicators for the
+years 1996, 1998, 2000 and 2002-2007 annually, covering 202 countries. These aggregate indica-
+tors are based on hundreds of speci…c and disaggregated individual variables measuring various
+dimensions of governance, taken from 35 data sources provided by 32 di¤erent organizations.
+
+In the empirical literature, WGIs are used as composite (equally-weighted) indices in two
+ways: …rst use is the WGI composite index for a given year (i.e. averaging six governance
+indicators at a given year),1 its second use is the indicator composite index (i.e. taking average
+of a speci…c indicator: VA, GE, PS, RQ, RL or CC over the whole period or a speci…c indicator
+at a given year).2
+
+Using both the WGI and indicator composite indices with …xed equal weights in the empir-
+ical literature su¤ers from many shortcomings as it ignores the dependence among governance
+indicators, it introduces double counting of highly correlated indicators and it is also plagued
+by measurement error problems. In this paper we will follow an approach for the construc-
+tion of best-case scenario of aggregate indices based on stochastic dominance e¢ ciency (SDE
+hereafter) analysis that avoids the problems mentioned above.3
+
+Constructing a best-case scenario governance index based on SDE analysis has advantages,
+since it provides an e¢ cient index resulting from the least variable combination of components
+
+1See, for example, Neumayer (2002); Easterly and Levine (2003); Beck and Laeven (2006); Easterly
+
+(2007); Durlauf et al. (2008) for the similar use of the world governance indicators.
+
+2See, for example, Dollar and Kraay (2003); Rodrik et al. (2004); Bulte et al. (2005); Harms and
+Lutz (2006); Aidt et al. (2008); Brunnschweiler (2008); Bosker and Garretsen (2009) for the similar
+use of the world governance indicators.
+
+3Space restrictions preclude us to present the best-case scenario WGIs for each year but we present
+the best-case scenario for each governance indicator. The results for the best-case scenarios for each
+year are available upon request from the author.
+
+3
+
+that maximize the level of governance over time for each country or group of countries. Sec-
+ondly, economic theory is agnostic in terms of o¤ering us strong guidance about functional
+form of preferences and distributions of the di¤erent components of governance indicators, and
+relatively large data sets are available, so that nonparametric analysis can let the data “speak
+for themselves”. The best-case scenario of the governance index refers to the fact that it gives
+the greatest value of governance level over time for a given probability. In other words, we
+will construct an index with those weights that will make it stochastically dominate all other
+competitor indices.
+
+It is worth mentioning that the best-case scenario weighting scheme that we obtain in
+this paper is derived from the nature of the stochastic dominance (SD hereafter) optimization
+problem and refers to the “measured” level of governance and not the “true” governance.
+In our analysis, we take the choice of governance indicators as given and we look at what
+constitutes the most optimistic scenario given the choice of these governance indicators. This
+criterion gives emphasis on reducing the overall volatility and as such favoring more equal
+governance levels. An index that is the least volatile produces the most meaningful comparisons
+across countries under consideration and any movements over time will be less subjected to
+measurement error (i.e. change in scores to upward or downward shift will be minimized). In
+the next section we discuss some of the issues and shortcomings with the use of the equally-
+weighted governance indices and discuss how the best-case scenario institutional quality indices
+handle those shortcomings.
+
+An important reason why SD has not been applied before (based on its theoretical attrac-
+tiveness) in the construction of indices is that until recently, SD could only be tested pair-wise.
+This restriction was limiting the scope of SD tests, because indices are constructed from a
+set of components and they e¤ectively face in…nitely many choice alternatives. Barrett and
+Donald (2003) developed pair-wise SD comparisons that relied on Kolmogorov-Smirnov type
+tests developed within a consistent testing environment. This o¤ers a generalization to An-
+derson (1996), Beach and Davidson (1983) and Davidson and Duclos (2000) who have looked
+at second order SD using tests that rely on pair-wise comparisons made at a …xed number of
+arbitrary chosen points. This is not a desirable feature since it introduces the possibility of test
+inconsistency. Davidson and Duclos (2000) have discussed the importance of …rst, second and
+third order stochastic dominance concepts (SD1, SD2, and SD3 respectively) between income
+distributions for social welfare and poverty rankings of distributions. As the above mentioned
+tests are pair-wise in nature, Bawa et al. (1985) extend on the concept of convex stochastic
+dominance which is …rst introduced by Fishburn (1974), and provided tests that satisfy neces-
+sary and su¢ cient conditions if more than two choice alternatives are compared. However, the
+
+4
+
+Bawa et al. (1985) approach only considers a …nite number of choice alternatives, not a full
+diversi…cation.
+
+On the other hand, recently Post (2003) and Kuosmanen (2004) introduced the notion
+of SDE, which allow for full diversi…cation. Both the Post (2003) and Kuosmanen (2004)
+approaches are based on derivations of ranked observations under an independent identical
+distribution (iid) assumption of the asset returns. In other words, both Post (2003) and Kuos-
+manen (2004) o¤er a sampling scheme assuming iid observations and therefore do not allow for
+possible data dependence such as GARCH e¤ects often encountered in high frequency returns
+(see e.g. Linton and Whang 2012). Scaillet and Topaloglou (2010), hereafter ST, not only allow
+for full diversi…cation similar to the Post (2003) and Kuosmanen (2004) methodologies but also
+extend the Barrett and Donald (2003) and Horvath et al. (2006) approaches by allowing for
+time-dependent data. In other words, the ST methodology allows for full diversi…cation for
+serially correlated time-dependent data by extending the existing approaches mentioned above.
+As the WGIs are serially correlated over time and there are in…nitely many alternative weight-
+ing schemes to choose from, we employ the ST methodology to obtain the best-case scenario
+governance indices. We use the ST approach to test whether the equally-weighted governance
+indicators are the best-case scenarios or there exist alternative weighing schemes that domi-
+nate any other alternative weighting scheme by using the same set of attributes (i.e. VA, PS,
+GE, RQ, RL and CC over time) to construct the best-case scenario governance indices.4 We
+derive the best-case scenarios of governance indicators that maximize the measured governance
+levels in a …rst-order stochastic dominance sense. The best-case scenario governance indicators
+therefore maximize the measured achieved governance levels and also achieve the minimum
+variability among its competitors.5
+
+To sum up, in this paper, …rstly we obtain the best-case governance indices for a study spe-
+ci…c sample of countries that have been used as institutional quality proxy in the literature and
+therefore, tackling the issue of excess variability in the construction of equally-weighted gov-
+
+4Similar applications employed by Pinar et al. (2013) to construct the best-case scenario of Human
+(2012) to construct a riskiest sovereign risk index for the
+Development Index and Agliardi et al.
+emerging countries. The current study di¤ers from the above mentioned ones in two ways. Firstly,
+both Pinar et al. (2013) and Agliardi et al. (2012) examine the absolute levels of human development
+and sovereign risk respectively. However, in the current paper we examine the relative levels of
+governance indicators. In that case we derive the least volatile governance indices and therefore these
+indices will be less subject to measurement error. Secondly, the current study examines the e¤ect of
+the use of the proposed indices in the relevant literature as institutional quality proxies and provides
+further insights on how measurement could be an important issue.
+
+5As each governance indicator is bounded between -2.5 and +2.5, higher measured governance
+levels for more countries suggest a distribution that is negatively skewed and therefore having lower
+variability across countries and over time.
+
+5
+
+ernance indices by using stochastic dominance e¢ ciency. Secondly, we revisit three prominent
+studies, namely Easterly and Levine (2003), EL hereafter, Rodrik et al. (2004), and Bosker and
+Garretsen (2009), BG hereafter, with the proposed best-case governance indices as institution
+proxies. Rather than using an average of six governance indicators as an institutional quality
+(e.g. Easterly and Levine 2003) or certain indicator(s) for a given year (e.g. Rodrik et al. 2004
+and Bosker and Garretsen 2009), we use the best-case scenario institutional quality indices as
+proxies for institutions and revisit the institutions hypothesis. The reason we have chosen these
+studies is to capture the di¤erent speci…cations that tackled the institutions hypothesis. EL
+(2003) pointed out the importance of endowments’impact on economic development through
+institutions, Rodrik et al. (2004) examined a lager sample and …nd that “institutions rule”over
+geography and international trade for the economic development of a country and BG (2009)
+point out the importance of not only a country’s own institutions but also the neighboring
+countries’institutions as the main determinant of economic development.
+
+The …ndings of this paper are as the following. We …nd that for di¤erent set of countries,
+the equally-weighted institutional quality index does not capture the best-case scenario. One
+can construct many other hybrid indices that dominate the equally-weighted governance index.
+With the most optimistic view of the relative levels of governance, across countries and over
+time, we derive an institutional quality index representing the highest possible governance.
+Furthermore, this index as the least volatile both across countries and over time would be less
+subject to measurement error. Secondly, those best-case scenario governance indices for each set
+of country samples are used as institutional quality proxies to revisit the …ndings of the recent
+literature. We …nd that not only the country’s own and neighboring countries’ institutions
+matter for the long term economic development but also the geography and policies matter
+directly. We …nd that the valid instrumental variable for institutions will vary with the use of
+di¤erent institutional quality proxies and one would need to choose a valid instrument before
+proceeding with the application at hand.
+
+The remainder of the paper is as follows. In section 2 we present the use of world governance
+indicators and the debate regarding the use of governance indicators and the purposes that it
+serves.
+In section 3, we examine the main framework of analysis, we de…ne the notions of
+stochastic dominance e¢ ciency and we discuss the general hypothesis for stochastic dominance
+of any order. In section 4, we present some simulations to show the importance of the empirical
+distribution of components over time for the e¢ ciency of the index. In section 5 we present
+an empirical application. We …rst look at the data and o¤er descriptive statistics, and we use
+the ST methodology to ascertain whether governance composite indices for each indicator over
+time are the best-case scenarios with the use of equal weights, or whether we can obtain an
+
+6
+
+alternative weighting with the most optimistic weights for each year for the di¤erent constituent
+components of the index for each study speci…c samples. In section 6, after obtaining study
+speci…c best-case institutional quality indices, we revisit the institutions hypothesis in the three
+prominent studies’baseline estimations. Finally, section 7 concludes.
+
+2 Literature
+
+There has been a vibrant debate on the use, purpose and construction of WGI. The WGI
+is used as a composite index of various attributes with …xed weights that measure countries’
+institutional quality. A serious shortcoming is that the construction of all the above hybrid
+measures, as in the case of the separate analysis of single attributes, ignores the association
+among the various attributes. Another shortcoming for the use of composite indices is the issue
+of double counting when the components are highly correlated. “When using an equal weights,
+composite index with averaging, it may happen that – by combining variables with a high
+degree of correlation –an element of double counting may be introduced to the index: if two
+collinear indicators are included in the composite index with a weight of w1 and w2, the unique
+dimension that the two indicators measure would have weight (w1 + w2) in the composite
+index. The response has often been to test indicators for statistical correlation – using the
+Pearson correlation coe¢ cient (Manly, 1994) –and choose only indicators which exhibit a low
+degree of correlation, e.g. principal component analysis, or to adjust weights correspondingly,
+e.g. giving less weight to correlated indicators” (Nardo et al. 2005, p. 21). Knack (2006)
+points out that the aggregate WGIs are constructed from di¤erent sources by weighting sources
+di¤erently where the sources that tend to be more highly correlated with the other sources
+are given greater weight. However, Knack (2006) points that the highly correlated sources
+getting greater weight is not desirable if the measurement error is correlated among sources (i.e.
+measurement errors are not independent). Moreover, since each world governance indicator is
+highly correlated with the other ones and each indicator is highly correlated over the years6, it
+is suggested that the composite index ranks countries in a manner not dissimilar from the way
+any governance indicator ranks them. These correlations would seem to lie at the heart of the
+indicated redundancy, both in terms of rankings and values, of the composite indices.
+
+Another shortcoming for WGIs with …xed equal weights is measurement error. Both earlier
+and currently updated aggregate level of governance indicators have reported margin of errors
+
+6Each aggregate governance indicator is highly correlated with the other aggregate governance
+indicators at a given year. Moreover, each governance indicator outcomes at a given year is highly
+correlated with the following year outcomes of that indicator. The correlation coe¢ cients, both the
+simple and the Spearman-rank one are very high (above 0.9) and very signi…cant.
+
+7
+
+due to permanent measurement errors among all indicators of governance. However, other than
+the reported margins of error, there are three other sources of measurement error. First of all,
+aggregate governance indicators rely on the perception of governance by the public sector, the
+private sector, NGO experts, …rms and citizens. Glaeser et al. (2004) point out those governance
+indicators are ex-post outcomes, highly correlated with the level of economic development,
+rather than political constraints per se. Therefore, WGIs are plagued by recent economic
+performances and/or policy rather than being in‡uenced by actual governance levels. Kurtz and
+Schrank (2007) …nd that GDP per capita maintains a substantively and statistically important
+relationship to government e¤ectiveness and once investment, education, in‡ation and the last
+two year rates of economic growth e¤ects are controlled for; government e¤ectiveness no longer
+fosters subsequent rates of economic growth. Therefore, both Glaeser et al. (2004) and Kurtz
+and Schrank (2007) point out that the economic development of a country had an e¤ect on the
+governance indicators, not vice versa.
+
+The second source of measurement error is related to the construction of WGIs over time.
+Arndt and Oman (2006), and Knack (2006) indicate that comparisons cannot be made since
+WGIs are scaled to have zero mean and one standard deviation at a given year. As more
+countries are covered over time and all aggregate governance indicators are standardized to have
+a zero mean and unit standard deviation for a certain year, there is a need for adjustments to
+earlier periods to maintain the zero mean and unit standard deviation. As a result, changes in
+scores over time are related to updating scores rather than actual improvements or deteriorations
+in governance. Moreover, Knack (2006) suggests that updating governance scores to maintain
+the zero mean and unit variance is the source of the change of the relative rankings of the
+counties.
+
+The third source of the measurement error is that the individual disaggregated data are
+di¤erent for each country over time and updating scores will make the di¤erent data sources
+become more correlated with each other over time and as such they will result in weights that
+will produce ine¢ cient …xed weight indices of the aggregate level of governance, as the latter
+will become more variable. Knack (2006) state that indicators for 2002 and 2004 are based on
+the same set of sources for only 4 of the 27 countries in Eastern European and Central Asia
+(ECA) counties, therefore the comparison between two countries or a country over time may
+be based on a totally independent source of data and the changes in scores over time may be
+caused by the correction of the scores over time. Therefore, Knack (2006) investigates the e¤ect
+of updating scores on Eastern Europe and Central Asia countries and …nds that updating scores
+will make the di¤erent data sources become more correlated with each other over time.
+
+In this paper, we question the use of composite governance indices in the empirical growth
+
+8
+
+literature (e.g. averaging governance levels over time for each respective indicator). As gov-
+ernance levels for all indicators are highly correlated over time, assigning equal weights to
+governance levels of each year might produce a double counting problem. Moreover, it is im-
+portant to deal with the presence of measurement error as it creates high variability for the
+…xed weight indices. If the governance levels for a given indicator are highly correlated over
+time, more weight should be given to a governance level of a particular year that has a di¤erent
+empirical distribution function (i.e. governance levels of that year release di¤erent information
+than the ones of other years) and that is also the least volatile one over time (i.e. governance
+levels of that year are less subject to score updating and measurement error). KKM (2007b)
+claim that particular weights given to di¤erent sources in order to construct the aggregate in-
+dicators do not make a signi…cant di¤erence in overall estimates of governance. However, this
+claim is not true for the use of composite indices of aggregate indicators. We will show empiri-
+cally that the equally-weighted composite indices are not the best-case scenarios and there are
+many alternative composite indices that dominate the equally-weighted ones.
+
+3 SD E¢ ciency Testing
+
+f
+
+2
+
+Z
+g
+
+taking values in Rn. The observations
+Y t; t
+We consider a strictly stationary process
+f
+Y t; t = 1; :::; T
+. These data correspond to observed values of the
+consist of a realization of
+g
+given governance indicator’s levels over time (i.e. nine di¤erent given governance indicator levels
+over time, e.g. VA in 1996, 1998, 2000, 2002, 2003, 2004, 2005, 2006, and 2007). We denote by
+F (y), the continuous cdf of Y = (Y1; :::; Yn)0 at point y = (y1; :::; yn)0. Let us consider a hybrid
+composite index with a weighting vector (cid:21)
+with e being a
+vector of ones. This means that all the di¤erent year outcomes of the given governance indicator
+have positive weights and that these weights sum up to one. Let us denote by G(z; (cid:21); F ) the
+
++ : e0(cid:21) = 1
+g
+
+L where L :=
+
+(cid:21)
+f
+
+Rn
+
+2
+
+2
+
+cdf of the hybrid index value (cid:21)0Y at point z given by G(z; (cid:21); F ) :=
+
+(cid:21)0u
+
+I
+f
+
+z
+
+g
+
+(cid:20)
+
+dF (u):
+
+ZRn
+
+3.1 Tests for SD E¢ ciency of di¤erent indices
+
+In that
+SDE is a direct extension of SD to the case where full diversi…cation is allowed.
+setting we derive statistics to test for SDE of the equally-weighted governance composite index
+(with the vector of equal weights denoted by (cid:28) ) with respect to all possible combinations of
+weighting schemes ((cid:21)) constructed from the set of year outcomes of given governance indicator.7
+
+7We have de…ned above (cid:21) and (cid:28) to be di¤erent weighting vectors that are associated with di¤erent
+In the discussion that follows we use (cid:21) and (cid:28) interchangeably with the index that they
+
+indices.
+
+9
+
+In this paper we test whether the use of equally-weighted governance indicator, (cid:28) , is the best-
+case scenario, in the sense that it gives the maximum value and lower variability of measured
+governance levels across countries and over time or whether we can construct another composite
+index (cid:21) (alternative weighting scheme) from the set of year outcome levels that dominates it.
+The distribution of the hybrid index (cid:21) dominates the distribution of the index (cid:28) stochas-
+tically at …rst-order (SD1) if, for any argument z; G(z; (cid:28) ; F )
+If z denotes a
+governance level, then the inequality in the de…nition means that the proportion of countries
+in distribution (cid:21) with value of governance smaller than z is not larger than the proportion of
+such countries in (cid:28) . In other words, there is at least as high a proportion of governance in (cid:21) as
+in (cid:28) . If the composite index (cid:21) dominates the index (cid:28) at …rst order, then there are always more
+countries having relative levels of governance below a given governance level, z, in (cid:28) than in (cid:21),
+so that (cid:21) achieves higher relative levels of measured governance for more observations than (cid:28) .
+
+G(z; (cid:21); F ).
+
+(cid:21)
+
+The objective function that we use is the following:
+
+M ax
+z;(cid:21)
+
+[G(z; (cid:28) ; F )
+
+(cid:0)
+
+G(z; (cid:21); F )]
+
+The above maximization results in the best-case scenario (most optimistic) governance index
+(cid:21) constructed from the set of year outcomes of that governance indicator in the sense that
+it reaches the highest level of measured governance for a given probability, implying that the
+number of observations having a relative governance level above a given argument z is maxi-
+mized.
+
+As pointed out in Pinar et al. (2013), it is worth mentioning that SD is considerably more
+general than mean-variance analysis (MVA) which only looks at the …rst two moments of the
+two distributions under comparison. On the other hand, Post (2003) suggested that the MVA
+is consistent with expected utility theory if and only if investor preferences and/or empirical
+distributions obey certain conditions. On the other hand the SDE methodology allows for full
+diversi…cation considering all moments and therefore o¤ers more robust …ndings. Moreover,
+SDE has additional advantages over MVA as the latter allows for possible trade-o¤ between two
+moments and might classify inferior portfolios as e¢ cient and ine¢ cient portfolios as optimal
+(see e.g. Post and Versijb 2007). Therefore, the MVA analysis only looks into a dominant
+relation with a higher mean and lower variance, whereas the SDE methods consider all possible
+moments. Only in the case where one compares two normal distributions does SD reduce to
+mean-variance analysis. This is also true for PCA which is based on the consideration of the
+second moment alone after standardizing for a common mean. However, the assumption of
+
+represent.
+
+10
+
+normality for each component is di¢ cult to support empirically. In contrast, SD analysis takes
+into account the whole distribution, not only the mean and the variance. Hence, one could
+expect signi…cant di¤erences between the SD e¢ cient index and the mean-variance e¢ cient
+index when more realistic assumptions are made concerning the distributions of the di¤erent
+components. SD is attractive because it is e¤ectively nonparametric as no explicit speci…cation
+of a utility function or probability distribution functional form is required (Post 2003; Post
+and Versijb 2007; Wong et al. 2008; Scaillet and Topaloglou 2010). In addition, the entire
+probability density function is taken into account rather than a …nite number of moments so it
+can be considered less restrictive and more robust.
+
+When studying governance measures, certain criteria need to be satis…ed. The SD1 criterion
+corresponds to all types of utility functions as long as they are non-decreasing in governance
+levels. SD1 only relies on the fact that people are rational in the sense that they prefer more
+rather than less governance (also known as the monotonicity axiom). Therefore, a sensible
+aggregate measure should increase in any indicator which is a social ‘good’, and decrease in
+any indicator which represents a social ‘bad’. Accordingly, for aggregate governance indices
+containing only social ‘good’indicators (i.e. di¤erent set of governance measures), one hybrid
+outcome as expressed by the index (cid:21) should be ranked higher than that of another hybrid
+outcome expressed by the index (cid:28) if at least one country is better o¤ in (cid:21) than in (cid:28) , and no
+one is worse o¤. So, SD1 of (cid:28) by (cid:21) means that (cid:21) corresponds to a higher measured relative
+governance than (cid:28) .
+
+When there is no governance index (cid:21) that dominates the given index (cid:28) at …rst-order, we
+
+move to the SD2 criterion. The objective function that we use is the following:
+
+M ax
+z;(cid:21)
+
+z
+
+Z
+
+(cid:0)1
+
+G(u; (cid:28) ; F )du
+
+z
+
+(cid:0)
+
+Z
+
+(cid:0)1
+
+G(u; (cid:21); F )du
+
+This maximization results in the best-case governance index (cid:21) constructed from the set of year
+outcomes of a given governance indicator in the sense that it also gives the greatest value of
+governance for a given probability.
+
+Overall, the ST methodology ensures the regularity conditions of nonsatiation (…rst-order
+SDE) and risk aversion (second-order SDE). The best-case scenario must be …rst-order sto-
+chastic dominance e¢ cient for all governance indicators that use a nonsatiable decision maker
+(see Fishburn 1974; Bawa et al. 1985; Post 2003; Kuosmanen 2004; Scaillet and Topaloglou
+2010 among many others) which is appropriate for both risk averse and risk lover individu-
+als as utility function may have concave and convex segments respectively. In other words,
+…rst-order SDE is more general as it corresponds to all types of utility functions as long as
+
+11
+
+they are non-decreasing. We …rst test for …rst-order SDE of the equally-weighted governance
+index to ascertain whether it is a best-case scenario governance index or whether there exists
+alternative weighting schemes that dominate it. Therefore, …rst-order dominance will suggest
+whether the equally-weighted index constitutes a rational choice or not. If it is dominated by
+alternative weight schemes, then it will never be chosen independently of whether the decision
+maker is risk averse, risk neutral or risk lover. If there is no alternative weighting scheme, (cid:21),
+that dominates the equally-weighted one, (cid:28) , we move to the second-order SDE that allows for
+a nonsatiable and additionally risk-averse decision maker which permits a selection of weights
+for the best-case scenario.
+
+We can further de…ne for z
+
+R:
+
+2
+
+1(z; (cid:21); F ) := G(z; (cid:21); F );
+
+J
+
+2(z; (cid:21); F ) :=
+
+J
+
+3(z; (cid:21); F ) :=
+
+J
+
+z
+
+G(u; (cid:21); F )du =
+
+Z
+
+(cid:0)1
+z
+
+u
+
+z
+
+Z
+
+(cid:0)1
+
+G(v; (cid:21); F )dvdu =
+
+Z
+
+(cid:0)1 Z
+
+(cid:0)1
+
+1(u; (cid:21); F )du;
+
+J
+
+z
+
+Z
+
+(cid:0)1
+
+2(u; (cid:21); F )du;
+
+J
+
+and so on.
+
+From Davidson and Duclos (2000) Equation (2), we know that
+
+j(z; (cid:21); F ) =
+
+J
+
+z
+
+(j
+
+Z
+
+(cid:0)1
+
+1
+
+(cid:0)
+
+(z
+
+1)!
+
+(cid:0)
+
+u)j
+
+(cid:0)
+
+1dG(u; (cid:21); F );
+
+which can be rewritten as
+
+j(z; (cid:21); F ) =
+
+J
+
+1
+
+(cid:0)
+
+(j
+
+ZRn
+
+(z
+
+1)!
+
+(cid:0)
+
+(cid:21)0u)j
+
+(cid:0)
+
+1
+
+(cid:21)0u
+
+I
+f
+
+z
+
+g
+
+(cid:20)
+
+dF (u):
+
+The general hypotheses for testing SDE of order j of (cid:28) , hereafter SDEj, can be written
+
+compactly as:
+
+H j
+H j
+
+0 :
+1 :
+
+j(z; (cid:28) ; F )
+
+j(z; (cid:28) ; F ) >
+
+(cid:20) J
+
+J
+
+J
+
+J
+
+j(z; (cid:21); F )for all z
+
+2
+j(z; (cid:21); F )for some z
+
+R and for all (cid:21)
+
+2
+R or for some (cid:21)
+
+L;
+
+2
+
+L:
+
+2
+
+Under the null hypothesis H j
+0 there is no governance index (cid:21) constructed from the set of year
+outcomes of a given governance indicator that dominates the given equally-weighted index
+(cid:28) (i.e. equally-weighted year outcomes of a given governance indicator) at order j. In this
+j(z; (cid:21); F ) for all possible
+case, the function
+
+j(z; (cid:28) ; F ) is always lower than the function
+
+J
+
+J
+
+12
+
+hybrid indices (cid:21) for any argument z. Under the alternative hypothesis H j
+1, we can construct
+j(z; (cid:28) ; F ) is greater than the
+a governance index (cid:21) that for some arguments z, the function
+j(z; (cid:21); F ). In other words, the main focus of the hypotheses is to test the e¢ ciency of
+function
+the equally-weighted index (i.e. whether the equally-weighted index is the best-case scenario at
+all levels of governance). If the null is rejected, then the evaluated index (i.e. equally-weighted
+index) is not the best-case scenario.
+
+J
+
+J
+
+We consider the weighted Kolmogorov-Smirnov type test statistic
+
+^S := pT sup
+z;(cid:21)
+
+j(z; (cid:28) ; ^F )
+
+J
+
+(cid:0) J
+
+j(z; (cid:21); ^F )
+i
+
+;
+
+h
+
+and a test based on the decision rule:
+
+reject H j
+0
+
+if
+
+^Sj > cj ;
+
+where cj is some critical value (see section 2 of Scaillet and Topaloglou 2010 for the derivation of
+the test). In order to make the result operational, we need to …nd an appropriate critical value
+cj. Since the distribution of the test statistic depends on the underlying distribution, we rely on
+block bootstrap methods to simulate p-values. The use of block bootstrapping is designed for
+time series applications and we used block bootstrap in the present case to guard the …ndings
+against the time dependence of the panel structure; however, di¤erent set of bootstrapping
+approaches could also be employed in future studies to account for panel dependence.8
+
+We derive statistics to test for SDE of the equally-weighted governance index with respect
+to all possible combinations of weighting schemes constructed from the set of year outcomes
+of a given governance indicator. In the next section, before moving to the empirical analy-
+sis of WGIs, we present some simulation experiments to evaluate the importance of di¤erent
+distributional component characteristics in the derivation of best-case scenario weights.
+
+4 Simulations
+
+We present some simulations to demonstrate the importance of empirical distribution of com-
+ponents over time. We present simulation results for two di¤erent experiments. In each case
+we have six di¤erent components (e.g. those components could be considered as governance
+levels of a given indicator over a six year period) and all of them are normally distributed as in
+
+8Test statistics are obtained for di¤erent governance levels considering all possible weight combi-
+nations which require mixed integer and linear programming for the …rst- and second-order SDE test
+statistics. See section 4 of the ST for the mathematical formulation details.
+
+13
+
+the case of the construction of each governance indicator at a given period. Then those com-
+ponents are used to construct the equally-weighted composite index by using 500 observations.
+The simulation results are reported in Table 1.
+
+In the …rst experiment, we simulate six components which are normally distributed with
+each component having di¤erent mean, 0.25, 0.2, 0.15, 0.1, 0.05 and 0 respectively and same
+standard deviation, 1, and we proceed to construct an equally-weighted composite index from
+these simulated components. The results of the …rst panel of Table 1, show that there are 494
+composite indices for a given “z” point that dominate the equally-weighted composite index
+and it is clear that the highest mean component has the greatest impact. In that case, the
+highest mean component’s weight (the …rst component) from these 494 dominant indices is on
+average 0.422. On the other hand the other components with respective means 0.2, 0.15, 0.1,
+0.05 and 0 have weights 0.285, 0.122, 0.068, 0.062 and 0.041 respectively. The above simulation
+results suggest that using the equally weighted composite index is not the best-case scenario
+index and it is dominated by many other potential component indices with di¤erent weights.
+One can see that when the means of each component are di¤erent, with the same standard
+deviations, the component with highest mean has the greatest impact in the construction of
+the best-case index. In the second and third cases in the …rst panel, where we decrease the
+mean di¤erences among the components (e.g.
+in the second case, the gap between means is
+0.03 and in the third case, this gap is 0.01), we can see that the component with the highest
+mean has the greatest impact in the construction of the best-case index, however, this impact
+decreases as the gap between the means of the di¤erent components decreases. Similarly, when
+the mean gap between components decreases, the weight assigned to each component is getting
+closer to each other. Finally, for the fourth case, we have six components which are normally
+distributed and all have same mean of “0” and same standard deviation of “1”. There is no
+composite index for a given “z” point that dominates the equally-weighted composite index
+where we can conclude that the average weighting is the best-case scenario. Therefore, when
+the means are close to each other and each component has the same variability as any other,
+the equally-weighted index becomes the best-case scenario since each component will have the
+same empirical distribution and will contribute equally to the composite index. Since the index
+is bounded between -2.5 and +2.5, the higher mean component has the least standard deviation
+in the upper tails. Therefore, not only the component with higher mean is getting more weight
+but also does the component which is least variant.
+
+In the second experiment, we allow the six components to have the same mean values
+(i.e. 0), but some of them have di¤erent standard deviations. In the …rst case of the second
+experiment, we allow some of the components to have di¤erent standard deviations (i.e. each
+
+14
+
+component’s standard deviation is set to be 1, 1, 1, 0.8, 0.5 and 0.2 respectively). The results
+of the …rst case of this experiment show that there are 41 composite indices for a given “z”
+point that dominate the equally-weighted composite index and it is clear that the least variable
+component has the greatest impact. In that case, the least variable component’s weight (the
+last component) from these 41 dominant indices is on average 0.384. In the third case, we allow
+some of the components to have di¤erent means and di¤erent standard deviations. First three
+variables have one standard deviation and last three variables have 0.8 standard deviation.
+First and fourth variable, second and …fth variable, third and sixth variable have mean values
+0.2, 0 and -0.2 respectively. In that case, the component with higher mean and least standard
+deviation has the highest weight in the construction of the best-case scenario. The highest mean
+and least variable component’s weight (the fourth component) is on average 0.394. Moreover,
+the component with lowest mean and highest standard deviation has the lowest weight in the
+construction of the best-case scenario. The lowest mean and most variable component’s weight
+(the third component) is on average 0.053. There is a trade o¤ between mean and variance.
+For example, the second and …fth components have the same mean but …fth component has
+lower standard deviation than the second component. The gap between the …rst and second
+component’s weights in the construction of the best-case scenario index is 0.154, but the gap
+between the weights of the …rst and …fth component is 0.12.
+
+Overall, we …nd that under normality, when all components have di¤erent means but the
+same standard deviation, the component with the highest mean has the greatest impact (weight)
+in the construction of the best-case index. When the gap between the means of the di¤erent
+components decreases, then the weights of these components become similar to each other.
+Finally, if all components have the same distribution (i.e. zero mean and a variance of one),
+then averaging the components is the best-case scenario since all distribution of components is
+equally informative and there is no other weighting scheme that dominates the given index. On
+the other hand, when each component has the same mean and di¤erent standard deviations,
+then the least variable component has the greatest impact in the construction of the best-
+case scenario index. When both mean and standard deviations vary, then the component
+with the highest mean and the lowest variability relative to the other components has the
+greatest impact in the construction of the most optimistic index. There is a trade o¤ between
+mean and standard deviation and in the case where one component has the highest mean and
+highest standard deviation and the other component has the second highest mean but the least
+variability, then the gap between the components’ weights will be less in the construction of
+the best-case scenario index.
+
+The SD approach maximizes the distributional distance between the given (equally-weighted)
+
+15
+
+index and any possible alternative. In comparing distributions, we know that the mean plays
+the key role, followed by variability. The mean indicates the better governance level o¤ered,
+while the standard deviation shows the volatility of the governance level. The best-case scenario
+index obtained from the SDE approach is the one that o¤ers the greatest governance level over
+time and at the same time exhibits discernibly the most stable governance level.
+
+5 Empirical Application
+
+5.1 Data and Descriptive Statistics
+
+We use the World Bank’s World Governance Indicators (see KKM, 2008 where the units of the
+aggregate governance indicators will be those of a standard normal random variable, i.e. with
+zero mean, unit standard deviation, and ranging approximately from -2.5 to 2.5 with higher
+scores corresponding to better governance). The mean of the governance estimates for each
+indicator at a given year is set to zero, and the standard deviation is one. In particular, for
+each indicator at a given year, KKM (2008) subtract the sample mean (across countries) from
+each country, and divide by the sample standard deviation (across countries).
+
+Each governance indicator composite index represents the simple arithmetic average of the
+
+nine year entry of that indicator:
+
+9
+
+Indicator composite indexI = I1996+I1998+I2000+I2002+I2003+I2004+I2005+I2006+I2007
+while I = V A; P S; GE; RQ; RL; CC
+Table 2 presents the descriptive statistics for each individual governance indicator over time
+and the equally-weighted composite index obtained by averaging the governance levels over
+time. One can see that each indicator composite index has lower standard deviation than the
+standard deviation of the indicator at a given year as expected. However, in order to have a
+balanced data set, countries that do not have all components for any given year need to be
+excluded from the analysis. Therefore, even though the original indicators are constructed to
+preserve the zero mean and unit standard deviation for the full sample size, in practice when
+certain countries are selected for a speci…c study and some observations are excluded to form
+a balanced data set, the distribution of indicators no longer has the property of zero mean
+and unit standard deviation.
+In the next section, we will examine the e¢ ciency results for
+equally-weighted governance indices for each study speci…c sample size.
+
+16
+
+5.2 Results for the e¢ ciency of the equally-weighted governance
+
+indices
+
+In this section, we provide the results of the SD e¢ ciency tests. We …nd that the equally-
+weighted index is not the best-case scenario for all di¤erent sample sizes as there are alternative
+weighting schemes at di¤erent governance levels that dominate the evaluated index. Therefore,
+it is clear that the equally-weighted index is not the best-case scenario index for di¤erent sample
+sizes. Below, we will o¤er the results for each sample case and give the best-case scenario for
+each sample, and also provide comparisons between the equally-weighted index (i.e. evaluated
+index) and the proposed best-case scenario index for all sample cases.
+
+In the EL (2003) study, the sample size is 72 countries. Table 3A summarizes the results
+when equally-weighted governance indices (i.e. evaluated composite VA, PS, GE, RQ, RL and
+CC indices which are averaged over time) are tested. The …rst column of Table 3A o¤ers the
+governance indicator that is being evaluated, whereas the second panel gives the number of
+countries that have a balanced data set for the sample. After conducting tests, we …nd that
+the over time equally-weighted index for each governance indicator is not the best-case scenario
+as there are many other indices (cid:21) consisting of the nine years that dominate the evaluated
+composite index. For each governance level, z, there is an alternative weighting sheme that
+results in the best-case scenario for that given governance level.
+
+To derive a weighting scheme that is the best-case scenario, we average the dominating
+weighting schemes that are found for di¤erent z levels. In order to test whether these proposed
+best-case scenarios are best cases, we implemented the proposed test for these …rst-stage best-
+case scenarios.9 The …rst-stage best-case scenarios are also dominated by alternative schemes
+but fewer times (i.e. …rst-stage best-case scenario is a better case for more governance levels
+when compared to the equally-weighted one). Therefore, we continue implementing iterations
+of testing the best-case scenarios. The third column of Table 3A o¤ers the number of itera-
+tions took to reach the best-case scenarios for each governance level. On average, it takes 5-6
+iterations to reach the best-case scenario for a given governance indicator. After implement-
+ing iterations of the test, we …nd the best-case scenario for each governance level that is not
+dominated by any alternative weighting scheme. For example, the best-case VA index is ob-
+tained when governance levels in 1996 and 2004 are weighted by 96.5% and 3.5% respectively.
+Similarly, the best-case scenario weighting schemes for the remaining governance indicators are
+given in each row of Table 3A for the EL (2003) sample.
+
+To make the results with the best-case scenario more apparent, we o¤er comparisons between
+
+9We thank an anonymous referee for suggesting us to test for the …rst-stage best-case scenarios.
+
+17
+
+the evaluated index (i.e. equally-weighted governance index) and the best-case scenarios for each
+governance indicator in Table 3B. We provide comparisons between the evaluated and the best-
+case scenarios for the …rst three quartiles of the empirical distribution of the evaluated index.
+The second column o¤ers the governance levels of the equally-weighted index at these …rst three
+quartiles. Finally, the last two columns o¤er the number of observations that are above these
+governance levels at di¤erent quartiles. For example, there are 56, 37, and 19 countries above
+-0.872, -0.220, and 0.329 governance levels with the equally-weighted VA index. However, there
+are always more countries above these governance levels with the best-case scenario weighting
+scheme (57, 38 and 21 countries respectively). Similarly, Table 3B o¤ers the comparison between
+the evaluated and best-case scenario index for the remaining governance indicators.
+
+Moving to the Rodrik et al. (2004) study, there are three di¤erent sample sizes that are used,
+namely the Acemoglu sample, the extended Acemoglu sample and a larger sample with each
+sample having 64, 79 and 137 countries respectively. For all these sample sizes, we …nd that
+the equally-weighted indicator index is not the best-case governance index for each governance
+indicator. Tables 4A, 5A, and 6A o¤er the best-case weighting schemes for each governance
+indicator for each sample with 64, 79, and 137 countries respectively. Similar to that of Table
+3A, we o¤er the number of countries for each application and the number of iterations of testing
+employed to obtain the best-case scenarios. Tables 4B, 5B, and 6B o¤er the comparisons
+between evaluated and the best-case scenarios for the …rst three quartiles of the empirical
+distribution of the evaluated index. We …nd that there are always more countries that are
+above a given governance level with the best-case scenario when compared with the evaluated
+index.
+
+Lastly, the BG (2009) paper uses two di¤erent samples. One sample is used for choosing
+the instrumental variable and consists of 79 countries. The other sample is used for baseline
+estimation and consists of 147 countries. We also …nd that the equally-weighted indicator
+index is not the best-case governance index for each governance indicator. Tables 7A and
+8A summarize the best-case scenario weighting schemes for each governance indicator for the
+79 and 147-country samples. Tables 7B and 8B o¤er the comparisons between the evaluated
+index and the best-case scenario index when the number of countries (observations) above a
+given governance level is given for the …rst three quartiles of the empirical distribution of the
+evaluated index. We …nd that the best-case scenario indices for each governance level result in
+a higher number countries achieving higher governance levels.
+
+The above results suggest that using the equally-weighted index is not the best-case scenario
+because it is stochastic e¢ ciently dominated by many other potential composite indices with
+di¤erent weights for each year of a given governance indicator. We …nd that di¤erent years
+
+18
+
+contribute di¤erently to the construction of the most optimistic governance index. In the next
+section, we revisit the …ndings of the three prominent studies by using the best-case scenario
+indices as a proxy for the institutional quality.10
+
+It is important to point out that the weights assigned to each year for each governance
+indicator and the degree of e¢ ciency may change over time as pointed out by Post (2003).
+Firstly, with the additional releases of WGIs, the weights assigned to each year for each re-
+spective governance index might change. The best-case governance indices for any given set
+of countries, i.e. best-case governance indices for the pre-determined samples, can vary over
+time. Secondly, if di¤erent sample sizes are used, each year might yield di¤erent weights for
+the best-case scenario governance indices. Therefore, the weights assigned to each year for the
+best-case governance indices need to be re-estimated periodically.11
+
+6 Revisiting the Institutions Hypothesis
+
+6.1 Case 1: Easterly and Levine (2003)
+
+EL (2003) …nd that geographic endowments explain economic development through their impact
+on institutions but do not have direct impact on economic development. On the other side,
+EL found no impact of policies on economic development once institutions are controlled for.
+The main question that we pose here is the following: Are the …ndings of the EL study still
+valid once we use our proposed best-case governance indices as proxies for institutional quality
+and/or are there some di¤erences? Do policies matter once we use our proxies for institutional
+quality? Do endowments a¤ect economic development directly or through channels other than
+their impact on institutions?
+
+We …nd that when the best-case governance indices are used as institutional quality proxy,
+institutions are still signi…cant after controlling for legal origin, religion and ethnolinguistic
+
+10The next sections summarize the …ndings of the three studies when the best-case scenario gov-
+ernance indices are used as institutional proxies. However, detailed …ndings of the three studies are
+available upon request from the author.
+
+11To assess the robustness of the …ndings in the next sections, we also test whether the equally-
+weighted governance indices are the best-case scenario indices or not for the full sample size which
+consists around 200 observations. We …nd that the equally-weighted indices are not the best-case
+scenarios for all governance indices when the full sample size is used. Even though weights assigned to
+each year in the case of full sample size di¤er from the ones that are found with di¤erent sample sizes,
+the …ndings that are presented in the next sections do not change signi…cantly when the best-case
+scenario governance indices for the full sample size are used as institutional proxies. Especially, the
+di¤erent results with the revisited papers still hold when the best-case scenario indices for the full
+sample size are used. Full sample size best-case scenario governance indices and detailed …ndings of
+three studies with those indices are available upon request from the author.
+
+19
+
+diversity and use of di¤erent endowments as instruments. However, over-identi…cation tests o¤er
+di¤erent results compared with those in the EL Table 4. We do …nd that the data sometimes
+reject the hypothesis that endowments only explain the economic development through their
+ability to explain institutional development. Therefore, once some of the best-case governance
+indices are used as institution index, endowments are not valid instruments and endowments
+do explain economic development through other channels rather than institutions alone.
+In their Table 5, EL further control for the main macroeconomic policies (i.e.
+
+in‡ation,
+real exchange rate overvaluation and trade openness) and …nd that only institutions are the
+main signi…cant variable. Once we use best-case scenario institutional quality indices, we …nd
+that the institutions are still signi…cant. Therefore, our …ndings with the best-case scenario
+indices still favor the institutions approach. However, we also …nd that policies do matter.
+In‡ation, trade openness, real exchange rate overvaluation enter signi…cantly in the regressions.
+In‡ation enters with the “wrong”sign, but trade openness and real exchange rate overvaluation
+enter signi…cantly and with the “correct”sign. Once some of the best-case institutional quality
+indices are used, trade openness has a positive impact and overvaluation has a negative impact
+on development. On the other side, we also …nd that once the most optimistic institutional
+quality indices are used, in some cases, the over-identi…cation test is rejected, so settler mortality
+and latitude do explain economic development through other channels that are di¤erent from
+the institutions.
+
+In Table 6 of EL (2003), they …nd that institutions are still signi…cant and none of the policy
+variables enter the regressions signi…cantly at 10% level when policies are treated as endoge-
+nous variables. However, we …nd that for some speci…cations, once our proposed institutional
+quality indices are used, institutions are not signi…cant any more, something that contradicts
+the institutions hypothesis. On the other side, we …nd that trade openness a¤ects economic
+development signi…cantly. When institutions and trade openness are used in the regressions,
+we found that once the best-case PS indices are used as proxy for institutional quality, trade
+openness is signi…cant at 10% level. Moreover, when institutions, trade openness, religion and
+French legal origin are used in the regressions, we …nd that trade openness signi…cantly a¤ects
+development when the best-case PS and VA institutional quality indices are used.
+
+Finally, when the institution index and trade openness are used in the regressions, we …nd
+that once the best-case GE, RL and CC indices are used as a proxy for the institutions, the
+over-identi…cation test is rejected at the 5% level. Moreover, when the institutions and the real
+exchange rate overvaluation are used in the regressions, we …nd that the over-identi…cation test
+is also rejected at the 5% level when the best-case GE, RL and CC indices are used. Over-
+identi…cation test rejection means that endowments do explain economic development through
+
+20
+
+other channels that are di¤erent than institutions alone and therefore they cannot act as valid
+instrumental variables for institutions.
+
+6.1.1 Case 2: Rodrik et al. (2004)
+
+Rodrik et al. (2004) investigate the contributions of the deep determinants of economic de-
+velopment, namely geography, institutions and international trade to income level di¤erences
+around the world. Rodrik et al. (2004) …nd that institutions “trumps” since institutions have
+a direct impact on economic development with di¤erent sample sizes and speci…cations. Once
+institutions are controlled for, geography has indirect e¤ect on economic development through
+its impact on institutions. On the other hand, once institutions are controlled for, international
+trade is always insigni…cant and with the “wrong”sign.
+
+Rodrik et al. (2004) di¤ers from the EL (2003) study in a couple of ways. Firstly, Rodrik et
+al. (2004) have larger sample sizes (79 and 137 countries) whereas EL (2003) only consider 72
+countries. Secondly, Rodrik et al. (2004) consider international trade in their main estimation,
+but EL (2003) did not test its impact on economic development (see footnote 3 in Rodrik et al.
+2004 for further details).
+In the Rodrik et al.
+
+(2004) study, geography is treated as an exogenous variable and
+measured by absolute latitude. Institution is treated as an endogenous variable and is measured
+with the rule of law in 2000, taken from world governance indicators. Depending on the sample
+size, settler mortality (sample with 64 and 79 countries) or percentage of population speaking
+English and percentage of population speaking European language (sample of 137 countries)
+are used as instrumental variable(s) for the institutions. Finally, international trade is treated
+as an endogenous variable and is measured as the ratio of trade to GDP. Predicted trade shares
+from Frankel and Romer (1999) are used as an instrumental variable for international trade.
+
+Since the Rodrik et al. (2004) paper uses scores of the rule of law 2000 from world governance
+indicators as an institution proxy, the main questions that we pose are: Are the …ndings of the
+Rodrik et al. (2004) still valid once we use our proposed best-case scenario indices as proxies
+for institutional quality and/or are there some di¤erences? Do institutions “trump” after all?
+Does geography or international trade have a direct impact on economic development?
+
+In their baseline …ndings, Table 3 of Rodrik et al. (2004), they …nd that the institutions
+“trump”with di¤erent speci…cations and sample sizes. On the other hand, when the best-case
+scenario of governance indices are used, for the samples of 64-countries and 79-countries, except
+for the best-case PS index, all most optimistic institutional quality indices con…rm the …ndings
+of Rodrik et al. (2004), where institutions “trump” over integration and geography. Once the
+best-case PS index is used as a proxy for institutions, the institutions are not signi…cant for the
+
+21
+
+64- and 79-country case which contradicts the institutions hypothesis. Moreover, we …nd that
+Rodrik et al. (2004) …ndings for the large sample are not robust when some of the best-case
+governance indices are used as institutional proxy. We …nd that geography has a direct impact
+on economic development once the most optimistic VA and RQ indices are used as a proxy which
+is consistent with the geography approach. Geography has not only an indirect e¤ect through
+institutions but also has a direct impact on economic development. Finally, unlike the Rodrik
+et al. (2004) …ndings, when the best-case VA, PS and RQ institutional quality indices are used,
+the over-identi…cation test is not rejected at the 10% level for the large sample, which means
+that percentage of population speaking English and percentage speaking European language
+are valid instruments for the institutions. Since both instruments are valid for some best-case
+institutional quality indices, then one can exploit the …ndings in the large sample case.
+In
+the Rodrik et al. (2004) …ndings, the large sample …ndings are ignored since in their case the
+instruments were not passing the over-identi…cation test. However, when the best-case VA and
+RQ indices are used, not only are instruments valid for the large sample but also geography
+has a direct impact on economic development, something that favors the geography approach.
+Following Rodrik et al. (2004) Table 4, Rodrik et al. examined the inter-relations between
+institutions and international trade for the samples of 79-countries and 137-countries. Rodrik
+et al. (2004) …nd that for the 79-country sample, geography a¤ects institutions signi…cantly
+and positively. Countries that are in higher latitudes trade less and countries that have better
+institutions trade more. On the other side, for the large sample case, the only signi…cant IV
+estimate is that geography a¤ects institutions signi…cantly and positively. When the majority
+of the best-case institutional quality indices are used, our …ndings con…rm Rodrik et al. (2004)
+…ndings. However, we have two major di¤erences from their …ndings. Firstly, once the best-case
+PS index is used, then international trade does a¤ect institutions signi…cantly and positively
+for the 79-country sample. Secondly, once the best-case VA index is used, institutions are not
+signi…cant any more in a¤ecting international trade for the 79-country sample.
+
+6.1.2 Case 3: Bosker and Garretsen (2009)
+
+BG (2009) mainly concentrated on absolute geography, measured as the absolute latitude of a
+country; institutions of a country, measured with the rule of law in 2000 from world governance
+indicators; institutions of neighboring countries, measured as the average of institution proxy
+for neighboring countries. BG (2009) …nd that it is not only the country’s own institutions that
+matter for economic development but also the neighboring countries’institutions are important
+for development of that country.
+
+In the BG (2009) study, the country’s own institution proxy and the neighboring countries’
+
+22
+
+institutions are treated as an endogenous variable; therefore, at least two instrumental vari-
+ables are needed for instrumental variable estimation.12 There are three possible instrumental
+variables suggested by the literature, settler mortality rate (available only for 79 countries),
+percentage of population speaking English and percentage of population speaking a European
+language (sample of 147 countries). In order to exploit the larger sample case, BG (2009) uses
+percentage of population speaking European language as a valid instrument for institutions
+(see section 3.3 and Appendix B of the BG study for detailed procedure of the choice of the in-
+strumental variable). Once the percentage of population speaking a European language is used
+as an instrument for institutions, BG (2009) …nd that not only the country’s own institutions
+that matter for economic development but also the neighboring countries’institutions as well.
+Absolute geography on the other hand has an indirect e¤ect on economic development through
+its e¤ect on institutions.
+
+Since the BG (2009) paper uses scores of the rule of law in 2000 from the world governance
+indicators as an institutional proxy, the questions we pose are the following: Are the …ndings
+of BG (2009) still valid once we use our proposed best-case scenario indices as proxies for in-
+stitutional quality and/or are there some di¤erences? Is the percentage of population speaking
+European language still a valid instrument or is it valid to use other instruments? Do institu-
+tions of a country or neighboring institutions matter for economic development after all? Does
+geography have a direct impact on economic development?
+
+First, we examine the choice of the instrumental variable. When the majority of the best-case
+governance indices are used as proxies for institutions, our …ndings con…rm BG (2009) …ndings
+that the percentage of population speaking a European language is a valid instrument. However,
+we …nd that di¤erent instruments are valid once we use some other best-case governance indices
+as proxies for institutional quality. Firstly, when we use the best-case VA, PS and RQ indices
+as institutional quality proxies, we …nd that using both the percentage of population speaking
+English and the percentage of speaking a European language are valid instruments since over-
+identi…cation tests are not rejected. On the other hand, using all possible three instruments
+together is a valid option when the best-case PS and RQ governance indices are used.
+
+With the 147-country sample, when the best-case VA, PS and RQ indices are used, both
+language instruments are valid. For the remaining best-case institutional quality indices, us-
+ing the percentage of population speaking European language is a valid instrument. Overall,
+the validity of instruments changes depending on which best-case governance index is used.
+
+12BG (2009) cited Rodrik et al.
+
+(2004) paper that the available language instruments for large
+sample do not pass over-identi…cation test, whereas in the previous section, we …nd that the language
+instruments are valid for some of the best-case institutional quality indices. However, we continue
+with BG speci…cation.
+
+23
+
+Using the percentage of population speaking European language is not always valid and the
+percentage of population speaking English is also a valid instrument when some of the best-case
+institutional quality indices are used.
+
+Finally, we replicate the baseline …ndings of the BG paper (see Table 3 of BG paper for their
+baseline …ndings). Our …ndings con…rm BG (2009) …ndings that a country’s own institutions as
+well as neighboring countries’institutions matter for the development of a country and absolute
+geography, climate or disease environment, have an indirect e¤ect on economic development
+through their e¤ect on institutions when the majority of the best-case scenario indices are used
+as institution proxies. However, when the best-case RQ and VA institutional quality indices are
+used and the country’s own institutions are accounted for, the absolute geography has a direct
+e¤ect on economic development. On the other hand, when a country’s own institutions and
+neighboring countries’institutions are accounted for and the best-case VA institutional quality
+index is used, geography has a direct e¤ect on economic development.
+
+7 Conclusion
+
+In this paper we conduct consistent tests for stochastic dominance e¢ ciency at any order
+of a given equally-weighted index for each governance indicator when it is compared to all
+possible governance indices constructed from over time levels of governance. We …nd that the
+equally-weighted indicator composite indices (i.e. average of each speci…c governance indicator
+over time) are not the best-case scenarios for governance. We …nd that each year contributes
+di¤erently in the construction of the most optimistic governance indices for each governance
+measure for each speci…c sample of countries used in empirical literature (Easterly and Levine
+2003; Rodrik et al. 2004; and Bosker and Garretsen 2009).
+
+Moreover, we use the best-case scenario indices as proxies for institutional quality to check
+for robustness of the results obtained in three prominent applications where the best-case indices
+are used to assess the link between economic development and institutional quality. With some
+of the best-case scenario institutional quality proxies, we con…rm the …ndings of the EL (2003)
+study. However, for some other best-case institutional quality indices, the EL (2003) …ndings
+are not robust. We …nd that for some speci…cations, the institutions are not signi…cant when
+the most optimistic governance indices are used, something that contradicts the institutions
+hypothesis. We also …nd that policies do matter for certain speci…cations once some of the best-
+case institutional quality indices are used. Moreover, endowments are not valid instruments for
+institutions for all of the best-case institutional quality indices, since we …nd that endowments
+do a¤ect economic development through channels that are di¤erent than institutional quality.
+
+24
+
+For the Rodrik et al. (2004) paper, for the samples of 64-countries and 79-countries, we
+con…rm the …ndings of Rodrik et al. (2004), where institutions “trump” over integration and
+geography with the exception of the best-case PS index. When the best-case PS index is
+used, institutions are not signi…cant for the 64 and 79-country samples, a contradiction of
+the institutions hypothesis. Overall, when some of the best-case institutional quality indices
+are used, the Rodrik et al.
+(2004) …ndings for the large sample case are not robust. We
+…nd that once the best-case VA and RQ indices are used, geography has a direct impact on
+economic development which is consistent with the geography approach. Geography has not
+only an indirect e¤ect through institutions but also a direct impact on economic development.
+Moreover, we …nd that the percentage of population speaking English and the percentage of
+population speaking European language are valid instruments for institutions for the large
+sample when some of the best-case institutional quality indices are used.
+
+Finally, when the best-case indices are used as institutional quality proxies, our …ndings
+con…rm the BG (2009) …ndings. A country’s own institutions as well as neighboring countries’
+institutions matter for the development of that country and absolute geography has an indirect
+e¤ect on economic development through their e¤ect on institutions. However, once the best-case
+VA index is used, we …nd that absolute geography has a direct e¤ect on economic development.
+Moreover, we …nd that validity of the instruments used depends on the choice of the best-case
+scenario index used.
+
+Overall, with many of the best-case scenarios of the institutional quality indices, we con-
+…rm the …ndings in the literature that the institutional quality of a country and that of its
+neighboring countries are the primary reason for economic development and geography has an
+indirect e¤ect on economic development through its impact on institutions. However, there are
+certain cases where we …nd that not only the country’s own and neighboring institutions mat-
+ter for economic development but also geography and policies do matter directly for economic
+development. Finally, valid instruments for institutions vary with the use of di¤erent best-case
+institutional quality indices. One has to be careful with using instruments for institutions since
+the results vary with di¤erent institutional quality indices. Moreover, instruments used in liter-
+ature are not valid for some cases and instruments which are considered as not being valid are
+actually found to be valid. One can see that the …ndings in the literature for the institutional
+hypothesis are fragile, and therefore more careful research is needed to be taken before policy
+recommendations are made.
+
+As it was suggested by a referee, there is a methodological caveat with our approach in
+that we test the standard benchmark of equal weights as adopted and applied in the literature.
+Yet, the dominating indices when averaged to form a new “optimal index” may generally be
+
+25
+
+dominated by some other combinations. To improve on that, one can use the e¢ ciency tests
+by Post (2003), Kuosmanen (2004), Kopa and Chovanec (2008), and Kopa and Post (2011) to
+identify a dominating alternative. We leave that interesting approach for future research.
+
+Finally, it is important to note that WGIs are updated every year and some earlier gov-
+ernance scores are adjusted over time, and as such the weights assigned to each year for each
+respective governance index might change. In other words, the best-case governance indices
+for any given set of countries can vary over time. Moreover, each study uses di¤erent set of
+countries for their analysis and the best-case scenario governance indices for those samples are
+potentially di¤erent. Therefore, the best-case scenario weights need to be re-estimated periodi-
+cally and/or a robustness analysis with di¤erent and full sample size best-case scenarios should
+be considered in any future analysis.
+
+Acknowledgements This research is part of author’s PhD thesis at the Department of
+Economics of the University of Guelph. The author wishes to thank his PhD supervisor Thana-
+sis Stengos, and committee members, Michael Hoy, Ege Yazgan, Alex Maynard, Ilias Tsiakas,
+and James Amegashie for their helpful suggestions and comments on improving the paper. The
+author is also grateful to anonymous referees for their constructive comments and suggestions.
+
+26
+
+References
+Aidt T, Dutta J, Sena V (2008) Governance regimes, corruption and growth: theory and
+
+evidence. J Comp Econ 36:195-220
+
+Acemoglu D, Johnson S, Robinson JA (2001) The colonial origins of comparative develop-
+
+ment: an empirical investigation. Am Econ Rev 91:1369-1401
+
+Agliardi E, Agliardi R, Pinar M, Stengos T, Topaloglou N (2012) A new country risk index
+
+for emerging markets: a stochastic dominance approach. J Emp Financ 19:741-761
+
+Anderson G (1996) Nonparametric tests of stochastic dominance in income distributions.
+
+Econometrica 64:1183-1193
+
+Arndt C, Oman C (2006) Uses and abuses of governance indicators. Organization for
+
+Economic Cooperation and Development (OECD) Development Center Study.
+
+Barrett GF, Donald SG (2003) Consistent test for stochastic dominance. Econometrica
+
+71:71-104
+
+Bawa VS, Bodurtha Jr. JN, Rao MR, Suri HL (1985) On determination of stochastic
+
+dominance optimal sets, J Financ 40:417-431
+
+Beach C, Davidson R (1983) Distribution-free statistical inference with Lorenz curves and
+
+income shares. Rev Econ Stud 50:723-735
+
+Beck T, Laeven L (2006) Institution building and growth in transition economies. J Econ
+
+Growth 11:157-186
+
+Bloom DE, Sachs JD (1998) Geography, demography, and economic growth in Africa.
+
+Brookings Pap Econ Act 2:207-295
+
+Bosker M, Garretsen H (2009) Economic development and geography of institutions. J Econ
+
+Geogr 9:295-328
+
+Brunnschweiler CN (2008) Cursing the blessings? Natural resource abundance, institutions,
+
+and economic growth. World Dev 36:399-419
+
+Bulte EH, Damania R, Deacon RT (2005) Resource intensity, institutions and development.
+
+World Dev 33:1029-1044
+
+Davidson R, Duclos J-Y (2000) Statistical inference for stochastic dominance and for the
+
+measurement of poverty and inequality. Econometrica 68:1435-1464
+
+Diamond J (1997) Guns, germs, and steel: the fates of human societies. W.W. Norton, New
+
+York
+
+Dollar D, Kraay A (2003) Institutions, trade and growth. J Monet Econ 50:133-162
+Durlauf SN, Kourtellos A, Tan CM (2008) Are any growth theories robust? Econ J 118:329-
+
+346
+
+Engerman SL, Sokolo¤, KL (1997) Factor endowments, institutions, and di¤erential paths of
+
+27
+
+growth among new world economies: a view from economic historians of the United States. In
+Haber S (ed) How Latin America fell behind. Stanford University Press, Stanford, pp 260-304
+Easterly W, Levine R (2003) Tropics, germs, and crops: how endowments in‡uence economic
+
+development. J Monet Econ 50:3-39
+
+Easterly W (2007) Inequality does cause underdevelopment: Insights from a new instrument.
+
+J Dev Econ 84:755-776
+
+Fishburn PC (1974) Convex stochastic dominance with continuous distribution functions.
+
+J Econ Theory 7:143-158
+
+Frankel JA, Romer D (1999) Does trade cause growth? Am Econ Rev 89:379-399
+Gallup JL, Mellinger AD, Sachs JD (1998) Geography and economic development. NBER
+
+working paper no. 6849
+
+Glaeser EL, La Porta R, Lopez-de-Silanes F, Shleifer A (2004) Do institutions cause growth?
+
+J Econ Growth 9:271-303
+
+Hall RE, Jones C (1999) Why do some countries produce so much more output per worker
+
+than others? Q J Econ 114:83-116
+
+Harms P, Lutz M (2006) Aid, governance and private foreign investment: Some puzzling
+
+…ndings for the 1990s. Econ J 116:773-790
+
+Horvath L, Kokoszka P, Zitikis R (2006) Testing for stochastic dominance using the weighted
+
+McFadden-type statistic. J Econometrics 133:191-205
+
+Kaufmann D, Kraay A, Zoido-Lobaton P (1999) Aggregating governance indicators. World
+
+bank policy research working paper 2195
+
+Kaufmann D, Kraay A, Zoido-Lobaton P (2002) Governance matters II - Updated indicators
+
+for 2000/01. World bank policy research working paper 2772
+
+Kaufmann D, Kraay A, Mastruzzi M (2004) Governance matters III: Governance indicators
+
+for 1996, 1998, 2000, and 2000. World Bank Econ Rev 18:253-287
+
+Kaufmann D, Kraay A, Mastruzzi M (2005) Governance matters IV: Governance indicators
+
+for 1996-2004. World bank policy research working paper 3630
+
+Kaufmann D, Kraay A, Mastruzzi M (2006) Governance matters V: Aggregate and individ-
+
+ual governance indicators for 1996-2005. World bank policy research working paper 4012
+
+Kaufmann D, Kraay A, Mastruzzi M (2007a) Governance matters VI: Aggregate and indi-
+
+vidual governance indicators for 1996-2006. World bank policy research working paper 4280
+
+Kaufmann D, Kraay A, Mastruzzi M (2007b) The worldwide governance indicators project:
+
+Answering the critics. World bank policy research working paper 4149
+
+Kaufmann D, Kraay A, Mastruzzi M (2008) Governance matters VII: Aggregate and indi-
+
+vidual governance indicators for 1996-2007. World bank policy research working paper 4654
+
+28
+
+Knack S (2006) Measuring corruption in Eastern Europe and Central Asia: a critique of the
+
+cross-country indicators. World bank policy research working paper 3968
+
+Kopa M, Chovanec P (2008) A second-order stochastic dominance portfolio e¢ ciency mea-
+
+sure. Kybernetika 44:243-258
+
+Kopa M, Post T (2011) A general test for portfolio e¢ ciency. SSRN Working Paper, available
+
+at SSRN: http://ssrn.com/abstract=1824174
+
+Kuosmanen T (2004) E¢ cient diversi…cation according to stochastic dominance criteria.
+
+Manage Sci 50:1390-1406
+
+Kurtz MJ, Schrank A (2007) Growth and governance: models, measures and mechanisms.
+
+J Polit 69:538-554
+
+Linton O, Whang, Y-J (2012) Testing for the stochastic dominance e¢ ciency of a given
+
+portfolio. CEMMAP Working Paper No. CWP27/12
+
+Mankiw NG, Romer D, Weil DN (1992) A contribution to the empirics of economic growth.
+
+Q J Econ 107:407-437
+
+Manly BFJ (1994) Multivariate statistical methods: a primer. Chapman & Hall, London
+Nardo M, Saisana M, Saltelli A, Tarantola S, Ho¤man A, Giovanni E (2005) Handbook
+on constructing composite indicators: methodology and user guide. OECD Statistics working
+paper 2005/3
+
+Neumayer E (2002) Is good governance rewarded? A cross-national analysis of debt forgive-
+
+ness. World Dev 30:913-930
+
+North DC (1990) Institutions, institutional change and economic performance. Cambridge
+
+University Press, New York
+
+Pinar M, Stengos T, Topaloglou N (2013) Measuring human development: a stochastic
+
+dominance approach. J Econ Growth 18:69-108
+
+Post T (2003) Empirical tests for stochastic dominance e¢ ciency. J Financ 58:1905-1932
+Post T, Versijp P (2007) Multivariate tests for stochastic dominance e¢ ciency of a give
+
+portfolio. J Financ Quant Anal 42:489-516
+
+Rodrik D, Subramanian A, Trebbi F (2004) Institutions rule: the primacy of institutions
+
+over geography and integration in economic development. J Econ Growth 9:131-165
+
+Sachs JD (2003) Institutions matter, but not for everything. Financ Dev 40:38-41
+Sachs JD, Warner AM (1997) Fundamental sources of long-run growth. American Economic
+
+Review 87:184-188
+
+Scaillet O, Topaloglou N (2010) Testing for stochastic dominance e¢ ciency. J Bus Econ
+
+Stat 28:169-180
+
+Wong W-K, Phoon K, Lean H (2008). Stochastic dominance analysis of Asian hedge funds.
+
+29
+
+Paci…c-Basin Finance Journal 16:204–223
+
+30
+
+Table 1: Simulations 
+
+Case 1a:             where                                                                        
+X6 
+
+X4 
+
+X2 
+
+X3 
+
+X1 
+
+X5 
+Average of dominating indices 
+
+Distance 
+
+0.12505 
+
+Number of 
+dominating indices 
+494 
+
+0.422 
+
+0.285 
+
+0.122 
+
+0.068 
+
+0.062 
+
+0.041 
+
+Case 1b:             where                                                                          
+
+Distance 
+
+0.07505 
+
+Number of 
+dominating indices 
+434 
+
+X1 
+
+X2 
+
+X3 
+
+X5 
+Average of dominating indices 
+
+X4 
+
+X6 
+
+0.366 
+
+0.275 
+
+0.132 
+
+0.091 
+
+0.079 
+
+0.058 
+
+Case 1c:             where                                                                          
+
+Distance 
+
+0.02411 
+
+Number of 
+dominating indices 
+347 
+
+X1 
+
+X2 
+
+X3 
+
+X5 
+Average of dominating indices 
+
+X4 
+
+X6 
+
+0.269 
+
+0.244 
+
+0.162 
+
+0.134 
+
+0.102 
+
+0.089 
+
+Case 1d:                                                
+
+Distance 
+
+0.0000 
+
+Number of 
+dominating indices 
+0 
+
+X1 
+
+X2 
+
+X3 
+
+X5 
+Average of dominating indices 
+
+X4 
+
+X6 
+
+n/a 
+
+n/a 
+
+n/a 
+
+n/a 
+
+n/a 
+
+n/a 
+
+Case 2:       ,                                                              
+
+Distance 
+
+0.00002 
+
+Number of 
+dominating indices 
+41 
+
+X1 
+
+X2 
+
+X3 
+
+X5 
+Average of dominating indices 
+
+X4 
+
+X6 
+
+0.030 
+
+0.024 
+
+0.026 
+
+0.199 
+
+0.337 
+
+0.384 
+
+Case 3:                              and                                                                 
+
+Distance 
+
+0.01998 
+
+Number of 
+dominating indices 
+420 
+
+X1 
+
+X2 
+
+X3 
+
+X5 
+Average of dominating indices 
+
+X4 
+
+X6 
+
+0.249 
+
+0.095 
+
+0.053 
+
+0.394 
+
+0.129 
+
+0.080 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2: Data and Descriptive Statistics 
+
+Voice and Accountability 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+1996 
+193 
+-0.05 
+-0.04 
+-0.16 
+1.02 
+
+1998 
+193 
+-0.05 
+-0.09 
+-0.04 
+1.01 
+
+2000 
+193 
+-0.05 
+-0.10 
+-0.06 
+1.02 
+
+2002 
+193 
+-0.05 
+-0.09 
+-0.10 
+1.01 
+
+2003 
+193 
+-0.05 
+-0.03 
+-0.09 
+1.02 
+
+2004 
+193 
+-0.04 
+-0.08 
+0.00 
+1.02 
+
+2005 
+193 
+-0.05 
+-0.07 
+-0.05 
+1.01 
+
+2006 
+193 
+-0.05 
+-0.02 
+-0.19 
+1.01 
+
+2007 
+193 
+-0.05 
+-0.06 
+-0.20 
+1.01 
+
+Composite Index 
+
+193 
+-0.05 
+-0.08 
+-0.06 
+1.00 
+
+ Political Stability 
+1996 
+179 
+-0.11 
+0.04 
+-0.67 
+1.01 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+1998 
+179 
+-0.11 
+-0.04 
+-0.57 
+1.01 
+
+Government Effectiveness 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+1996 
+181 
+-0.04 
+-0.25 
+0.80 
+0.99 
+
+iv) Regularity Quality 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+Rule of Law 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+1996 
+182 
+-0.05 
+0.08 
+-0.58 
+0.99 
+
+1996 
+170 
+-0.08 
+-0.24 
+0.36 
+1.01 
+
+1998 
+181 
+-0.04 
+-0.23 
+0.44 
+1.00 
+
+1998 
+182 
+-0.05 
+-0.10 
+-0.21 
+1.00 
+
+1998 
+170 
+-0.08 
+-0.25 
+0.33 
+1.01 
+
+vi) Control for Corruption 
+1998 
+153 
+-0.02 
+-0.34 
+0.66 
+1.05 
+
+Sample 
+Mean 
+Median 
+Skewness 
+Std. Dev. 
+
+1996 
+153 
+-0.02 
+-0.27 
+0.71 
+1.06 
+
+2000 
+179 
+-0.11 
+-0.03 
+-0.44 
+1.01 
+
+2000 
+181 
+-0.03 
+-0.19 
+0.51 
+1.00 
+
+2000 
+182 
+-0.04 
+-0.10 
+-0.08 
+0.99 
+
+2000 
+170 
+-0.10 
+-0.32 
+0.38 
+1.01 
+
+2000 
+153 
+-0.01 
+-0.31 
+0.67 
+1.06 
+
+2002 
+179 
+-0.11 
+-0.02 
+-0.31 
+1.00 
+
+2002 
+181 
+-0.04 
+-0.29 
+0.60 
+1.01 
+
+2002 
+182 
+-0.05 
+-0.17 
+0.12 
+1.00 
+
+2002 
+170 
+-0.11 
+-0.36 
+0.46 
+1.01 
+
+2002 
+153 
+-0.01 
+-0.33 
+0.78 
+1.07 
+
+2003 
+179 
+-0.12 
+-0.06 
+-0.30 
+1.00 
+
+2003 
+181 
+-0.03 
+-0.26 
+0.55 
+1.01 
+
+2003 
+182 
+-0.05 
+-0.20 
+0.10 
+1.00 
+
+2003 
+170 
+-0.11 
+-0.40 
+0.44 
+1.03 
+
+2003 
+153 
+0.00 
+-0.34 
+0.72 
+1.06 
+
+2004 
+179 
+-0.14 
+-0.08 
+-0.40 
+0.97 
+
+2004 
+181 
+-0.04 
+-0.25 
+0.58 
+1.02 
+
+2004 
+182 
+-0.06 
+-0.26 
+0.15 
+1.00 
+
+2004 
+170 
+-0.11 
+-0.29 
+0.42 
+1.03 
+
+2004 
+153 
+-0.04 
+-0.35 
+0.73 
+1.07 
+
+2005 
+179 
+-0.14 
+-0.06 
+-0.39 
+0.97 
+
+2005 
+181 
+-0.05 
+-0.28 
+0.46 
+1.01 
+
+2005 
+182 
+-0.06 
+-0.24 
+0.07 
+1.00 
+
+2005 
+170 
+-0.13 
+-0.38 
+0.46 
+1.02 
+
+2005 
+153 
+-0.05 
+-0.36 
+0.76 
+1.05 
+
+2006 
+179 
+-0.13 
+-0.03 
+-0.49 
+0.98 
+
+2006 
+181 
+-0.04 
+-0.23 
+0.52 
+1.01 
+
+2006 
+182 
+-0.05 
+-0.18 
+0.06 
+1.00 
+
+2006 
+170 
+-0.13 
+-0.48 
+0.49 
+1.02 
+
+2006 
+153 
+-0.04 
+-0.33 
+0.81 
+1.05 
+
+2007 
+179 
+-0.12 
+0.04 
+-0.63 
+0.98 
+
+2007 
+181 
+-0.05 
+-0.29 
+0.49 
+1.01 
+
+2007 
+182 
+-0.04 
+-0.21 
+0.06 
+1.00 
+
+2007 
+170 
+-0.12 
+-0.44 
+0.49 
+1.02 
+
+2007 
+153 
+-0.04 
+-0.39 
+0.91 
+1.05 
+
+Composite Index 
+179 
+-0.12 
+-0.08 
+-0.36 
+0.95 
+
+Composite Index 
+181 
+-0.04 
+-0.26 
+0.60 
+0.98 
+
+Composite Index 
+182 
+-0.05 
+-0.20 
+0.03 
+0.96 
+
+Composite Index 
+170 
+-0.11 
+-0.41 
+0.47 
+1.00 
+
+Composite Index 
+153 
+-0.03 
+-0.35 
+0.81 
+1.04 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1998 
+
+1996 
+
+Table 3A: EL (2003) sample best-case scenario governance indices for each indicator 
+Indicator  Number of 
+observations 
+72 
+72 
+71 
+72 
+72 
+63 
+
+0.965  0.000  0.000  0.000  0.000  0.035  0.000  0.000  0.000 
+0.000  0.032  0.966  0.000  0.000  0.000  0.002  0.000  0.000 
+0.001  0.061  0.011  0.000  0.861  0.066  0.000  0.000  0.000 
+0.989  0.003  0.000  0.000  0.001  0.005  0.001  0.001  0.000 
+0.992  0.000  0.000  0.000  0.002  0.004  0.002  0.000  0.000 
+0.078  0.000  0.130  0.008  0.775  0.009  0.000  0.000  0.000 
+
+Number of 
+iterations 
+6 
+5 
+5 
+5 
+6 
+7 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2005 
+
+2006 
+
+2007 
+
+2002 
+
+2004 
+
+2003 
+
+2000 
+
+Table 3B: Comparisons between evaluated and best-case scenario index for EL (2003) sample 
+
+Quartile 
+
+Governance 
+level 
+
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-0.872 
+-0.220 
+0.329 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-1.240 
+-0.320 
+0.180 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.834 
+-0.395 
+0.065 
+
+Regulatory quality 
+
+-0.670 
+-0.271 
+0.270 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-0.902 
+-0.514 
+0.098 
+Control of corruption 
+
+Q1 
+Q2 
+Q3 
+
+-0.824 
+-0.414 
+0.114 
+
+56 
+37 
+19 
+
+56 
+37 
+19 
+
+56 
+36 
+18 
+
+56 
+37 
+19 
+
+56 
+37 
+19 
+
+47 
+31 
+15 
+
+57 
+38 
+21 
+
+59 
+39 
+23 
+
+57 
+38 
+19 
+
+58 
+48 
+28 
+
+58 
+41 
+21 
+
+48 
+33 
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1998 
+
+1996 
+
+Table 4A: Rodrik et al. (2004) Acemoglu Sample best-case scenario governance indices for each indicator 
+2007 
+Indicator  Number of 
+observations 
+64 
+64 
+64 
+64 
+64 
+64 
+
+0.016  0.000  0.000  0.000  0.006  0.972  0.000  0.000  0.006 
+0.003  0.014  0.920  0.009  0.000  0.052  0.002  0.000  0.000 
+0.000  0.020  0.006  0.001  0.896  0.075  0.002  0.000  0.000 
+0.957  0.026  0.000  0.000  0.004  0.010  0.000  0.000  0.003 
+0.970  0.011  0.000  0.000  0.000  0.015  0.004  0.000  0.000 
+0.020  0.000  0.008  0.000  0.954  0.005  0.013  0.000  0.000 
+
+Number of 
+iterations 
+4 
+4 
+5 
+3 
+5 
+6 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2006 
+
+2002 
+
+2005 
+
+2004 
+
+2003 
+
+2000 
+
+Table 4B: Comparisons between evaluated and best-case scenario index for Acemoglu sample 
+Quartile 
+
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Governance 
+level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-0.873 
+-0.347 
+0.322 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-1.104 
+-0.345 
+0.167 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.816 
+-0.414 
+0.066 
+
+Regulatory quality 
+
+-0.625 
+-0.259 
+0.271 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-0.939 
+-0.539 
+0.022 
+Control of corruption 
+
+Q1 
+Q2 
+Q3 
+
+-0.835 
+-0.468 
+-0.051 
+
+48 
+32 
+16 
+
+48 
+32 
+16 
+
+48 
+32 
+16 
+
+48 
+32 
+16 
+
+48 
+32 
+16 
+
+48 
+32 
+16 
+
+52 
+38 
+18 
+
+51 
+34 
+19 
+
+50 
+35 
+17 
+
+52 
+46 
+29 
+
+51 
+35 
+20 
+
+49 
+33 
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1996 
+
+Table 5A: Rodrik et al. (2004) Extended Acemoglu Sample best-case scenario governance indices for each 
+indicator 
+Indicator  Number of 
+observations 
+79 
+79 
+78 
+79 
+79 
+70 
+
+0.943  0.000  0.000  0.003  0.000  0.048  0.003  0.003  0.000 
+0.000  0.000  0.003  0.000  0.000  0.995  0.000  0.002  0.000 
+0.000  0.006  0.000  0.017  0.843  0.134  0.000  0.000  0.000 
+0.998  0.000  0.000  0.000  0.001  0.001  0.000  0.000  0.000 
+0.992  0.000  0.000  0.000  0.004  0.000  0.002  0.000  0.002 
+0.001  0.000  0.000  0.004  0.984  0.005  0.004  0.000  0.002 
+
+Number of 
+iterations 
+5 
+5 
+5 
+6 
+6 
+7 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2006 
+
+2002 
+
+2000 
+
+2007 
+
+2004 
+
+2003 
+
+2005 
+
+1998 
+
+Quartile 
+
+Table 5B: Comparisons between evaluated and best-case scenario index for Extended Acemoglu sample 
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Governance 
+level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-1.017 
+-0.354 
+0.300 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-1.146 
+-0.345 
+0.181 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.878 
+-0.427 
+-0.069 
+
+Regulatory quality 
+
+-0.688 
+-0.312 
+0.171 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-0.989 
+-0.540 
+0.001 
+Control of corruption 
+
+Q1 
+Q2 
+Q3 
+
+-0.876 
+-0.468 
+-0.044 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+52 
+34 
+17 
+
+63 
+45 
+22 
+
+65 
+41 
+21 
+
+63 
+42 
+23 
+
+61 
+52 
+34 
+
+63 
+41 
+22 
+
+53 
+35 
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1998 
+
+1996 
+
+Table 6A: Rodrik et al. (2004) Large Sample best-case scenario governance indices for each indicator 
+Indicator  Number of 
+observations 
+137 
+137 
+136 
+137 
+137 
+125 
+
+0.004  0.000  0.000  0.000  0.000  0.995  0.001  0.000  0.000 
+0.000  0.001  0.991  0.005  0.002  0.001  0.000  0.000  0.000 
+0.172  0.163  0.361  0.303  0.000  0.001  0.000  0.000  0.000 
+0.282  0.567  0.037  0.025  0.033  0.037  0.005  0.000  0.014 
+0.980  0.020  0.000  0.000  0.000  0.000  0.000  0.000  0.000 
+0.178  0.022  0.581  0.217  0.002  0.000  0.000  0.000  0.000 
+
+Number of 
+iterations 
+5 
+7 
+5 
+4 
+6 
+7 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2006 
+
+2002 
+
+2005 
+
+2000 
+
+2004 
+
+2003 
+
+2007 
+
+Table 6B: Comparisons between evaluated and best-case scenario index for Large sample 
+
+Quartile 
+
+Governance 
+level 
+
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-0.866 
+-0.097 
+0.740 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-0.924 
+-0.090 
+0.511 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.720 
+-0.235 
+0.651 
+
+Regulatory quality 
+
+-0.576 
+-0.156 
+0.695 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-0.832 
+-0.329 
+0.730 
+Control of corruption  
+-0.756 
+-0.313 
+0.718 
+
+Q1 
+Q2 
+Q3 
+
+105 
+69 
+36 
+
+105 
+69 
+36 
+
+105 
+69 
+36 
+
+105 
+69 
+36 
+
+105 
+69 
+36 
+
+94 
+63 
+31 
+
+108 
+70 
+37 
+
+111 
+75 
+41 
+
+110 
+72 
+37 
+
+112 
+80 
+39 
+
+106 
+80 
+37 
+
+98 
+68 
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1996 
+
+Table 7A: Bosker and Garretsen (2009) IV Selection Sample best-case scenario governance indices for 
+each indicator 
+Indicator  Number of 
+observations 
+79 
+79 
+78 
+79 
+79 
+69 
+
+0.940  0.000  0.000  0.000  0.000  0.058  0.002  0.000  0.000 
+0.004  0.000  0.002  0.000  0.000  0.989  0.000  0.005  0.000 
+0.072  0.024  0.065  0.000  0.640  0.199  0.000  0.000  0.000 
+0.996  0.000  0.000  0.000  0.001  0.001  0.001  0.001  0.000 
+0.980  0.000  0.000  0.000  0.000  0.014  0.006  0.000  0.000 
+0.001  0.000  0.000  0.003  0.992  0.003  0.002  0.000  0.000 
+
+Number of 
+iterations 
+6 
+6 
+4 
+6 
+5 
+6 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2006 
+
+2002 
+
+2000 
+
+2003 
+
+2005 
+
+2007 
+
+2004 
+
+1998 
+
+Quartile 
+
+Table 7B: Comparisons between evaluated and best-case scenario index for IV Selection Sample 
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Governance 
+level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-0.959 
+-0.354 
+0.300 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-1.146 
+-0.355 
+0.181 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.909 
+-0.458 
+-0.069 
+
+Regulatory quality 
+
+-0.714 
+-0.312 
+0.171 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-1.012 
+-0.550 
+0.001 
+Control of corruption 
+
+Q1 
+Q2 
+Q3 
+
+-0.876 
+-0.468 
+-0.044 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+60 
+40 
+20 
+
+52 
+34 
+17 
+
+63 
+46 
+22 
+
+67 
+42 
+21 
+
+65 
+41 
+23 
+
+61 
+53 
+33 
+
+63 
+42 
+23 
+
+53 
+35 
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1996 
+
+Table 8A: Bosker and Garretsen (2009) Large Sample best-case scenario governance indices for each 
+indicator 
+Indicator  Number of 
+observations 
+146 
+144 
+146 
+147 
+137 
+122 
+
+0.988  0.000  0.000  0.000  0.000  0.012  0.000  0.000  0.000 
+0.000  0.847  0.153  0.000  0.000  0.000  0.000  0.000  0.000 
+0.465  0.175  0.181  0.053  0.037  0.069  0.010  0.003  0.007 
+0.182  0.336  0.401  0.000  0.000  0.034  0.034  0.007  0.006 
+0.055  0.931  0.000  0.003  0.003  0.000  0.000  0.005  0.003 
+0.998  0.000  0.000  0.000  0.002  0.000  0.000  0.000  0.000 
+
+Number of 
+iterations 
+6 
+8 
+4 
+4 
+6 
+7 
+
+VA 
+PS 
+GE 
+RQ 
+RL 
+CC 
+
+2006 
+
+2002 
+
+2004 
+
+2007 
+
+2005 
+
+2000 
+
+2003 
+
+1998 
+
+Table 8B: Comparisons between evaluated and best-case scenario index for Large Sample 
+
+Quartile 
+
+Governance 
+level 
+
+Number of observations with the 
+equally-weighted index that are above a 
+given governance level 
+
+Number of observations with the 
+best-case scenario index that are 
+above a given governance level 
+
+Voice and accountability 
+
+Q1 
+Q2 
+Q3 
+
+-0.804 
+0.001 
+0.810 
+
+Political stability 
+
+Q1 
+Q2 
+Q3 
+
+-0.924 
+-0.015 
+0.700 
+
+Government effectiveness 
+
+Q1 
+Q2 
+Q3 
+
+-0.672 
+-0.196 
+0.560 
+
+Regulatory quality 
+
+-0.576 
+-0.113 
+0.666 
+
+Q1 
+Q2 
+Q3 
+Rule of law 
+Q1 
+Q2 
+Q3 
+
+-0.812 
+-0.210 
+0.783 
+Control of corruption 
+
+Q1 
+Q2 
+Q3 
+
+-0.756 
+-0.268 
+0.825 
+
+109 
+73 
+38 
+
+109 
+73 
+38 
+
+109 
+73 
+38 
+
+109 
+73 
+38 
+
+105 
+69 
+34 
+
+91 
+61 
+31 
+
+110 
+76 
+40 
+
+116 
+74 
+41 
+
+112 
+74 
+40 
+
+115 
+83 
+40 
+
+109 
+73 
+37 
+
+92 
+64 
+32

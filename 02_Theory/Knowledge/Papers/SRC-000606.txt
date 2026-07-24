@@ -1,0 +1,2410 @@
+DISCUSSION PAPER SERIES
+
+IZA DP No. 11760
+
+The Shape of Warm Glow:
+Field Experimental Evidence
+from a Fundraiser
+Jeffrey Carpenter
+
+AUGUST 2018
+
+DISCUSSION PAPER SERIES
+
+IZA DP No. 11760
+
+The Shape of Warm Glow:
+Field Experimental Evidence
+from a Fundraiser
+Jeffrey Carpenter
+
+Middlebury College and IZA
+
+AUGUST 2018
+
+Any opinions expressed in this paper are those of the author(s) and not those of IZA. Research published in this series may
+include views on policy, but IZA takes no institutional policy positions. The IZA research network is committed to the IZA
+Guiding Principles of Research Integrity.
+The IZA Institute of Labor Economics is an independent economic research institute that conducts research in labor economics
+and offers evidence-based policy advice on labor market issues. Supported by the Deutsche Post Foundation, IZA runs the
+world’s largest network of economists, whose research aims to provide answers to the global labor market challenges of our
+time. Our key objective is to build bridges between academic research, policymakers and society.
+IZA Discussion Papers often represent preliminary work and are circulated to encourage discussion. Citation of such a paper
+should account for its provisional character. A revised version may be available directly from the author.
+
+IZA – Institute of Labor Economics
+Schaumburg-Lippe-Straße 5–9
+53113 Bonn, Germany
+
+Phone: +49-228-3894-0
+Email: publications@iza.org
+
+www.iza.org
+
+IZA DP No. 11760
+
+AUGUST 2018
+
+ABSTRACT
+The Shape of Warm Glow:
+Field Experimental Evidence
+from a Fundraiser
+Theory commonly posits agents who care both for the level of provision of a public good
+and the extent to which they personally contribute to the cause. Simply put, agents feel
+some “warm glow” from the donations they make. I discuss a fundraiser devised to
+exogenously vary the incentive to give and identify the structural parameters of warm glow.
+Estimates suggest that for participants claiming warm glow as their primary motivation, its
+shape is increasing and concave. Nevertheless, welfare analysis suggests that warm glow is
+unlikely to be the only important factor in the decision to give.
+JEL Classification:
+
+H41, D03, D64, C93
+
+Keywords:
+
+public good, altruism, warm glow, structural estimate,
+philanthropy, pari mutuel lottery, fundraising, field experiment,
+survey validation
+
+Corresponding author:
+Jeffrey Carpenter
+Department of Economics
+Middlebury College
+Middlebury, VT 05753
+USA
+E-mail: jpc@middlebury.edu
+
+1
+
+Introduction
+
+Since its formalization in economic theory (Andreoni, 1989, 1990), the concept of impure altruism, according to which agents may both embody traditional altruistic motivations to see public goods provided, regardless of the source, and feel “warm glow” for
+their own contributions has become a cornerstone of theorizing about the economics
+of philanthropy, public finance, labor supply and political economy. In addition to the
+more standard references to contributing monetarily to the provision of public goods
+(e.g., Harbaugh, 1998; Brekke et al., 2003; Scharf, 2014), warm glow has been offered
+as rationale for acting “pro-socially” (Benabou and Tirole, 2006), volunteering time
+(Duncan, 1999; Imas, 2014; Lilley and Slonim, 2014) and blood (Ferguson et al., 2012;
+Costa-Font et al., 2013), and as the impetus for corporate social responsibility (e.g.,
+Baron, 2007). At the same time, the implications of warm glow for optimal tax policy
+have also been studied (Saez, 2004; Diamond, 2006), as have the roles warm glow plays
+in determining the labor supply of public sector workers (Delfgaauw and Dur, 2008),
+and voting behavior (Dawes et al., 2011; Cherepanov et al., 2013).
+Coterminously, the related empirical literature from both the experimental lab and
+from studies of naturally occurring donation data has focused on verifying the existence
+of warm glow. The standard test is an indirect one, relying on the fact that the
+donations of pure altruists to a public good should be crowded out, one-for-one, by
+any other source of funding (Andreoni, 1993; Payne, 1998; Ribar and Wilhelm, 2002;
+Eckel et al., 2005; Crumpler and Grossman, 2008; Konow, 2010, Andreoni and Payne,
+2011; Tonin and Vlassopoulos, 2014). As a means to test for warm glow directly, other
+researchers have studied the neural activation of donors making contributions while in
+an fMRI. These studies largely confirm the existence of warm glow (Moll et al., 2006;
+Harbaugh et al., 2007).
+Although the bulk of the evidence suggests that warm glow exists and affects behavior in a variety of contexts, there have been but a few studies that examine, to any
+extent, the details of warm glow, in particular its shape. Instead, theoretical treatments
+assume that warm glow diminishes as donations grow (i.e., it is concave), which makes
+sense because otherwise donors would give all that they could, and the few studies
+that offer structural estimates either assume the same (e.g., DellaVigna et al., 2012;
+2013; 2016), are content to estimate the decision weight put on one’s donation (e.g.,
+Ottoni-Wilhelm et al., 2017) or seek to categorize donors (Huck et al., 2015). This is
+
+1
+
+largely because the main emphasis of these studies lies elsewhere.
+I design a field experiment to extend the previous work by focussing on warm glow
+and digging deeper to reveal its shape. The current study is unique because it is one of
+the few examples of what DellaVigna et al. (2016) describe as “structural behavioral
+economics.” Specifically, while the experiment confirms the theoretical predictions of
+Morgan (2000) about the efficacy of different lottery mechanisms for fundraising, its
+primary purpose is to provide a predictable exogenous source of variation in donative
+behavior that can be used to identify the shape of warm glow. This study is also
+unique because it focuses just on warm glow and does not endeavor to estimate a mix
+of different preference parameters. In addition and different from most of the previous
+studies, I estimate a variety of flexible functional forms instead of assuming that warm
+glow is concave. In this sense, the study approaches the estimation agnostically and
+allows the data to reveal the shape of warm glow. As part of the design, I also offer
+a new and behaviorally validated survey measure of warm glow to supplement and
+corroborate our structural analysis. Lastly, the study is distinct in its size. The
+intrepid research assistants who gathered the donation data door-to-door visited over
+two thousand homes.
+Like the lab study of Dale (2004), we confirm in the field the Morgan (2000) prediction that pari mutuel lotteries for charity e.g., the familiar 50|50 lottery in which
+half the donations fund the lottery prize and the other half are kept by the charity,
+do no better than simply asking for voluntary contributions. More importantly for the
+purpose of estimating warm glow, the different lottery treatments we implement affect
+donor incentives at the margin by exogenously adjusting the relative draw of the lottery
+prize compared to the warm glow received. Using our novel altruism survey question
+we categorize slightly more than a fifth of our participants as impure givers and structurally estimate the parameters of a warm glow function for the resulting two types
+separately, a classification later confirmed by finite mixture methods. Considering our
+preferred functional form, we find large differences in preferences for high warm glow
+and low warm glow participants. Low warm glow participants are estimated to have
+parameters that predict their donations will fall as the charity claims a larger share
+of the donations gathered, consistent with the expected prize falling. This prediction
+closely matches the observed behavior for this type of participant. At the same time,
+the high warm glow participants are estimated to have parameters that match the
+standard theoretical assumptions. The estimated shape of warm glow for this type of
+2
+
+donor is, indeed, increasing and concave in one’s donation. Specifically, warm glow is
+1
+estimated to be w(xi ) ≈ 2xi2 where xi is the donor’s contribution. As with low warm
+glow participants, the predicted response of the high warm glow donors, based on their
+estimated preference parameters, matches the observed donation behavior closely.
+In the next two sections I discuss the design of the field experiment, beginning
+with a theoretical framework that describes how warm glow can be identified using the
+lottery treatments we implemented in the field. The next section provides the details
+of the experiment and describes the charity with which we partnered and the donors
+who participated. Reduced form estimates of the efficacy of the pari mutuel lotteries
+are discussed in the “Experimental results” section. The main structural results are
+then described, followed by an analysis of the robustness of our estimates, including
+a behavioral validation of the new survey instrument. I conclude with a discussion of
+the implications of the structural estimates for policy and future work.
+
+2
+
+Voluntary and lottery-based contributions
+
+To properly identify a warm glow function from donation data, one needs to design
+an experiment that includes an exogenous “shifter,” something that theory suggests
+will affect the donative response of our participants. While there may be a number of
+ways to achieve this (e.g., varying the transactions cost of donating or the productivity
+of a donation) we chose to embed a lottery in our fundraiser to adjust the benefit of
+contributing. In particular, we implemented a pari mutuel lottery for a local charity in
+which the size of the lottery prize is endogenously determined by the total contributions
+received and the share of this total claimed by the charity. As we will see below, this
+mechanism is particularly useful for our purposes because donations in this form of
+charity lottery ought to vary in predictable ways with the charity’s share (i.e., their
+“handle”).1
+In the remainder of this section we describe a simple model of voluntary contributions that provides intuition for the lottery treatments we propose. Based on the
+formulations originating in Andreoni (1990) and Morgan (2000), consider N potential
+donors indexed i = 1...N , each of whom has financial resources, wi > 0. Active donors
+contribute xi to the provision of a public good and, together with inactive donors,
+1
+
+Further, in some reasonable and common utility specifications, donations in the lottery setting
+should only be positive in the presence of warm glow.
+
+3
+
+P
+
+receive an amount of utility, Gi ( xi ), in return. Here we assume that the derivative
+of the public good benefit function (using notation similar to Andreoni, 1990), Gix , is
+positive for donor i and that it is either concave or linear in donations (i.e., Gixx ≤ 0)
+to encompass the familiar formulation used in the experimental lab (Ledyard, 1995).
+Summarizing, the quasi-linear utility of each potential donor can be represented as:
+Ui = (wi − xi ) + Gi (
+
+P
+
+xi ).
+
+The optimizing donor calculates the first-order condition and contributes until
+Gix = 1.
+When the benefit function is sufficiently concave, one’s donation will be positive and
+when it is linear, donors will realize that they should donate nothing because it is
+dominant to do so (assuming, as our predecessors, that the fixed marginal benefit is
+smaller than one) and hope to free ride on the donations of others.
+Though donations may be positive in the general case, it is easy to show that they
+will be too small from the social planner’s point of view. The planner endeavors to
+P
+maximize total welfare (i.e.,
+Ui ) by picking the correct aggregate donation level,
+P
+xi . The first-order condition of the planner’s maximization problem is just
+P
+
+d( Ui )
+P
+= G1x + G2x + G3x + ... + GN x − 1 = 0.
+d( xi )
+
+or
+P
+
+Gix = 1.
+
+Comparing this condition to the previous one illustrates the familiar “Samuelson Principle” - individuals fail to adequately account for the positive externalities that their
+contributions generate.
+Now suppose that donors are impurely altruistic and get some warm glow from
+giving, a benefit that is not crowded out by the donations of others. In other words,
+suppose donors receive some unspecified private benefit from their gifts, gi (xi ), where
+gix > 0 and gixx < 0 . With this addition, utility becomes
+Ui = (wi − xi ) + Gi (
+
+P
+
+xi ) + gi (xi )
+
+and the first-order condition now requires donors to give more, up to where Gix + gix =
+1.
+4
+
+While models like this one have become the cornerstone of our understanding of
+donations to public goods, notice that the framework does not allow one to empirically
+identify the shape of gi (xi ) from donation data without already knowing the slope of
+the public good benefit function, Gix . To solve this problem the experimenter needs
+to introduce an observable parameter that affects donations and can be manipulated
+exogenously.
+With the goal of identification in mind, consider giving lottery tickets to donors
+who make positive contributions, the intuition being that doing so will exogenously
+increase the expected benefit of contributing. As is common in both large-scale state
+lotteries and small-scale grassroots fundraisers, an obvious format to examine is the
+pari mutuel form of self-financing lottery wherein the proceeds from the lottery are
+split such that a share, s, goes to the charity and the residual share, (1 − s), is the
+prize awarded to the lottery winner. In this case donor utility becomes
+Ui = (wi − xi ) +
+
+
+
+Pxi
+
+xi
+
+
+
+(1 − s) (
+
+P
+
+xi ) + Gi (s
+
+P
+
+xi ) + gi (xi , s),
+
+where we allow warm glow to be determined by the charity’s take, s, as well. For
+example, it makes sense that contributors may only receive warm glow over their net
+donations. Notice that this expression quickly reduces to the following because using
+the standard contest success function of the lottery, the negative externality imposed on
+other donors when buying another ticket is cancelled exactly by the positive externality
+of increasing the prize for everyone.
+Ui = (wi − sxi ) + Gi (s
+
+P
+
+xi ) + gi (xi , s)
+
+As the reader can anticipate, the first-order condition for the warm glow donor who
+participates in this lottery now has a contribution hurdle that depends on 1 − s, what
+is in effect a donation subsidy. Specifically, donors now contribute at the intersection
+of the marginal cost of contribution and the marginal benefits, where Gix + gix = s.2
+As Figure 1 depicts, the experimenter should, in theory, be able to exogenously
+manipulate the charity’s handle to affect donations and identify the shape of warm
+glow. Further, the pari mutuel lottery is also useful for identification because it suggests
+2
+
+It is important to note (as pointed out in Morgan 2000 and Dale 2004) that without warm glow the
+pari mutuel lottery collapses to a version of the voluntary contribution mechanism discussed
+above.
+P
+In the absence of warm glow the derivative for the lottery can be written as GixP
+(s xi ) = s while
+the same condition for the simple voluntary contribution mechanism is just Gix ( xi ) = 1. In both
+cases, the public good is under-provided.
+
+5
+
+that a natural bifurcation in the donation data should appear: those people who are
+solicited but are not sufficiently motivated by warm glow should behave differently than
+those who are, especially when there isn’t much curvature to the public good benefit
+function (i.e., when Gixx ≈ 0 ). At a minimum, warm glow donors should donate more.
+Of course, this differentiation depends on being able to classify potential donors into
+these two groups, a point we return to below.
+
+Figure 1: Equilibrium Donations with and without the Lottery (Note: solid lines
+indicate the equilibrium without the lottery, i.e., s = 1, and the dashed lines depict
+equilibrium conditions with the lottery and s = 0.5).
+To be more specific about identification, notice that as the share of the lottery
+proceeds that go to the charity increases, the behavior of warm glow donors will depend
+on the cross partial derivative of the warm glow function. In other words, as one can
+also see in Figure 1, changes in s affect both the height of the contribution threshold
+and the slope of the marginal benefits. At its essence, beyond the basic free riding
+incentives, the decision problem boils down to the pull between the expected prize
+which shrinks as the charity increases s and the warm glow one receives from donating
+to the charity (and not to the prize). In other words, the sign of
+dx∗i
+=−
+ds
+
+
+
+Gixs +gixs −1
+Gixx +gixx
+
+
+
+depends on gixs . Starting in the denominator, by assumption, gixx < 0, otherwise
+donors’ warm glow would cause them to give away everything and recall that for this
+to continue to be a public goods problem, Gixx ≤ 0. In the numerator, it seems safe
+6
+
+to assume that Gixs = 0. That is, while the charity’s take will affect how far along the
+public goods benefit function one finds oneself, it is not clear why s would affect the
+curvature of the function itself. Therefore, when the warm glow cross derivative gixs
+is negative or positive but small, the effect of the shrinking expected prize dominates
+and donors give less. However, when gixs is positive and sufficiently large, warm glow
+dominates and donors care more about giving to the charity than to some prize winner.
+These two cases are illustrated in Figure 2.
+
+Figure 2: The Effect of the Charity’s Share on Equilibrium Donations (Note:
+marginal benefits plotted for low and high values of s that depend on gixs ).
+There are two remaining theoretical considerations. First, although the added lottery appears, at first blush, to also introduce the incentives of a contest and the related
+problem of entry, predictions on the extensive margin are straightforward. Another
+important benefit of introducing the pari mutuel form of lottery is that it does not
+suffer from the participation coordination problems of similar contests. The logic for
+this property is driven by the fact that the externalities mentioned above cancel each
+other in this format. In other words, the pari mutuel lottery is not a traditional contest with a shared expected surplus that determines the optimal number of entrants (à
+la Corcoran, 1984). Instead, participation choices are subsumed within the donation
+decision, implying that this choice too will depend on the magnitude and sign of gixs .
+Second, revenue predictions are also uncomplicated. To examine this closer, notice
+that in the symmetric equilibrium the charity’s revenue per solicitation is just R = sx∗i
+and working backwards yields the subgame perfect equilibrium value for the charity’s
+7
+
+dx∗
+
+take, s∗ . The first-order condition for the charity’s choice can be written as s dsi +x∗i = 0
+indicating that there is, indeed, a balance between the opposing effects of increasing
+s. On one hand, and as the second part of the condition indicates, increasing s leads
+to a larger take of any given amount collected. However, on the other hand, the
+disincentive effect of increasing s may lead to a reduced handle, as represented by the
+first part of the optimizing condition. In the end, the balance will be determined,
+again, by the form/strength of warm glow. If increasing s has little, or even a positive,
+effect on donations then s∗ is clearly one and the voluntary contribution mechanism
+dominates. However, if people are drawn mostly by the expected prize, and donations
+fall sufficiently quickly as s is increased, then the opposite result will arise and the
+charity does best by claiming a modest share of a larger pot of donations.
+
+3
+
+Methods
+
+The use of field experiments has become more common in the empirical literature on
+public goods and the economics of philanthropy (List, 2008). If one can randomize
+potential contributors to solicitation treatments, then observable (and unobservable)
+characteristics of the participants should balance across treatments and, though these
+characteristics might affect behavior, their effects will be orthogonal to those of the
+different solicitations. In other words, randomization should allow “clean estimates” of
+treatment effects to result from a relatively modest sample. For these reasons, together
+with trained solicitors, I conducted a field experiment to gather donations that should
+vary by how much of the take is kept by the charity. Based on this data, I can identify
+and estimate a population average warm glow function.
+I trained solicitors to follow a standardized script and then sent them into the field
+(in Addison County, Vermont during April and May of 2016) to sell lottery tickets
+door-to-door. All the proceeds of the lotteries benefitted a local charity. Based on the
+previous section, we ran four treatments s ∈ (0.25, 0.50, 0.75, 1.00), where s = 1.00
+is just the standard voluntary contribution mechanism (VCM), to examine the effects
+of the charity claiming a larger share of the lottery proceeds on participation, giving
+and public good provision. The details of this experiment are as follows.
+Started in 1965, our charity provides various forms of assistance to the needy population of the surrounding county including a food bank, heating fuel vouchers, job
+training, counseling and other basic needs. Because of the high profile work done by
+8
+
+the charity, it is both well-known and highly regarded in the state. The activities of the
+charity are financed by grants, a resale shop and private donations. During the course
+of the year our charity runs a number of fundraisers such as letter drives to increase
+donations. As a result, our door-to-door solicitation would not have seemed out of the
+ordinary to potential donors.
+To raise awareness of our fundraiser, we advertised the event in various ways. The
+charity publicized the lottery on its Facebook page, we hung posters around the surrounding area (e.g., in shop windows and on bulletin boards) and we ran advertisements
+in the local newspaper and on a local radio station. These advertisements also highlighted important considerations like how winners would be chosen, when the drawings
+would take place and when the winners would be announced by the charity. To increase
+the perceived legitimacy of the fundraiser, when collecting donations the solicitors wore
+t-shirts that bore the logo of the charity and carried charity-issued identity cards.
+Thirty Middlebury College students were trained as research solicitors at the beginning of April. At the end of April and beginning of May the solicitors, in teams of
+two, approached more than 2000 homes in Addison County, Vermont. The solicitors
+were instructed to follow a protocol and script that dictated each encounter from before a home was approached to after stepping off the stoop. Before knocking on the
+next door, each solicitor pair randomized the home into one of the four treatments by
+drawing a color-coded chit from an opaque bag.
+If the door was answered, the team first briefly described the charity and its work.
+They then explained the fundraiser and the specific treatment to which the home had
+been assigned and asked for a donation. Specifically, they asked how many $1 lottery
+tickets the participant wanted to purchase when s < 1 and they simply asked for a
+donation in the VCM. The solicitors accepted cash or checks made out directly to the
+beneficiary. After the “ask” the team recorded the outcome of the solicitation and made
+a few quick follow-up inquires. The first question was whether anyone in the home had
+benefited from the services provided by the charity, the hypothesis being that previous
+beneficiaries might have a stronger attachment to the charity.
+Given the central role of warm glow in the theory discussed in the previous section,
+the second question we asked was designed to elicit some information about its strength
+as a motive for our participants. We decided against using a “crowding” question based
+on the principle that only purely altruistic donations will be completely crowded out
+by grants or other sources of funding (Andreoni, 1990) and instead designed a more
+9
+
+direct question in which we tried to detach the subject’s general response from the
+result of the current solicitation:
+“Think about the last time you gave to charity before today. What was
+most important to you (i) the total amount given by everyone, (ii) the
+amount that you personally gave or (iii) some other aspect of giving?”
+We categorize participants who gave the first response as “pure altruists” and those
+that gave the second one as “high warm glow altruists.” 3 While at first blush these
+categorizations may seem intuitive but arbitrary, in Section 6 we discuss the details of
+a complementary study we conducted to behaviorally validate this survey question.
+Once off the stoop, the solicitor teams recorded the estimated age and gender
+of the donation decision-maker. As another potentially important control, we used
+the charity’s administrative records to determine whether any of the households had
+previously given to the organization. We collected this data on previous donations
+to account for and estimate any “warm list” effects (as in Landry et al., 2010 and
+Carpenter and Matthews, 2017).
+The protocol (and script) only varied where necessary to describe the treatment
+differences.4 In the s = 1.00/VCM treatment, potential donors were told,
+“Hi, our names are ____ and ____ and we’re raising money for {Charity Name}, a local poverty relief organization. {Charity Name} leads various programs that assist in providing Addison County families with health
+care, housing, heating, and essential household goods. To raise money for
+{Charity Name}, we’re gathering donations. All of the proceeds will benefit
+{Charity Name}. Do you have any questions about the fundraiser?”
+By comparison, after the introductory sentences, potential donors in the s = 0.50
+treatment heard:
+“...To raise money for {Charity Name}, we’re conducting a lottery. 50% of
+the proceeds of this lottery will benefit {Charity Name}, and 50% of the
+proceeds will be awarded to the winning ticket holder. We will draw the
+winning number during the second week of May and notify the winner. Do
+you have any questions about the lottery?
+3
+
+Though beyond the scope of the current study, many of those citing the third response said that
+the overhead spending was a determining factor in whether or not they donated.
+4
+The full script is reproduced in the appendix.
+
+10
+
+The remaining two treatments (s = 0.25, 0.75) only differed from this wording in
+that the corresponding percentages were changed. It is important to note that the
+s = 1.00/VCM treatment refers to a “fundraiser” instead of a “lottery” like the other
+three scripts but we decided that clarity was paramount in the field (i.e., it would have
+been too confusing to explain a lottery in which 100% of the proceeds went to the
+charity and the “prize” was zero).
+Table 1: Participant Characteristics (by treatment)
+s = 0.25
+
+s = 0.50
+
+s = 0.75
+
+s = 1.00
+
+Overall
+
+Age (Est.)
+
+53.01
+
+53.28
+
+52.94
+
+53.67
+
+53.23
+
+Female (I)
+
+0.55
+
+0.55
+
+0.57
+
+0.50
+
+0.54
+
+Benefit from charity (I)
+
+0.07
+
+0.07
+
+0.07
+
+0.07
+
+0.07
+
+Warm list (I)
+
+0.14
+
+0.14
+
+0.13
+
+0.13
+
+0.14
+
+High warm glow (I)
+
+0.20
+
+0.19
+
+0.22
+
+0.24
+
+0.21
+
+Notes: Means of participant observables; (Est.) solicitor estimate; (I) indicator variable.
+
+During 1107 of the home visits, the door was answered and the person answering the
+door was treated by one of the four scripts. According to the Census Bureau estimates
+for 2015, there are just 37k people in the county living in 17k households. As a result,
+our 1107 solicitations represents a relatively large sample. Considering the observable
+characteristics of these people in Table 1, our solicitors estimated their age to be 53
+years, on average, 54% of our participants were women, 7% had previously benefited
+from our charity’s services and 14% had donated to the charity before (i.e., they were
+on the warm list). Lastly, though experiments like Andreoni (1993) or Crumpler and
+Grossman (2008) tend to find a slightly greater incidence of warm glow in the lab,
+we find that approximately one-fifth of our field participants report warm glow as the
+most important factor in their giving.5
+The similarity between the treatment averages reported in Table 1 indicate that our
+randomization appears to have worked well because we achieved balance, including on
+the number of high warm glow givers across treatments. In fact, the lowest p-value
+resulting from pairwise t-tests of the participant observables was 0.09 concerning the
+difference in the proportion of women in the s = 0.75 and s = 1.00 conditions.
+5
+
+In Section 6, I discuss a replication of Crumpler and Grossman (2008) in which the frequency of
+warm glow types is between these two benchmarks.
+
+11
+
+4
+
+Experimental results
+
+Our fundraiser results are summarized in Table 2. Overall, 40% of our participants
+(i.e., the 1107 people who answered the door) purchased at least one lottery ticket,
+the mean donation (including zeros for those who did not participate but answered the
+door) was $3.97 and, on average, the charity received $2.49 in revenue per solicitation.
+Altogether, our experiment yielded $4400 in donations. Next we examine the effects of
+exogenously varying s on participation, donations and revenue, in turn. We then test
+for heterogeneous treatment effects using our surveyed warm glow responses.
+Table 2: Giving behavior (by treatment)
+Donate (xi > 0)?
+Donation (xi )
+Revenue (per solicitation)
+
+s = 0.25
+
+s = 0.50
+
+s = 0.75
+
+s = 1.00
+
+Overall
+
+0.42
+
+0.45
+
+0.48
+
+0.27
+
+0.40
+
+(0.49)
+
+(0.50)
+
+(0.50)
+
+(0.45)
+
+(0.49)
+
+4.16
+
+3.99
+
+3.63
+
+4.12
+
+3.97
+
+(9.79)
+
+(15.77)
+
+(5.97)
+
+(8.79)
+
+(10.72)
+
+1.04
+
+1.99
+
+2.72
+
+4.12
+
+2.49
+
+(2.45)
+
+(7.88)
+
+(4.48)
+
+(8.79)
+
+(6.58)
+
+Notes: Means of behavior; (standard deviations).
+
+4.1
+
+Treatment effects
+
+Considering participation, recall that, conditional on being sufficiently motivated by
+warm glow, all donors should participate and the effect of s on participation should
+depend on its effect on warm glow. The participation results are listed in the first row
+of Table 2. Participation rising slightly in the three lower s treatments suggests that
+the cross partial derivative of marginal warm glow with respect to s is positive, but the
+derivative cannot be too large because the three lower s treatments are statistically
+indistinguishable based on summary t-tests and all three lower s treatments elicit
+significantly greater participation than the VCM (i.e., when s = 1.00).6
+Switching focus to mean donations, we see in the second row of Table 2 that the
+observed differences are also modest, the largest being 53 cents between the s = 0.25
+and s = 0.75 conditions. While the average donation does fall as the charity’s take is
+6
+
+The 15 percentage point difference between s = 0.25 and s = 1.00, the 18 percentage point
+difference between s = 0.50 and s = 1.00, and the 21 percentage point difference between s = 0.75
+and s = 1.00 are all significant according to t-tests at better than the 1% level.
+
+12
+
+increased in the three lowest handle treatments, none of the differences are significant
+dx∗
+according to t-tests. This suggests that the numerator of dsi from Section 2, Gixs +
+gixs − 1, is close to zero and, therefore, gixs is, again, most likely positive. In fact, the
+only thing that significantly predicts donations is being on the warm list, as indicated in
+Table 3 in which we report regressions wherein the dependent variable is the donation
+(including any zeros), the observables that we collected are included and the estimated
+standard errors are robust. Here we see that “Warm list donors” give approximately
+twice as much as the others.
+Table 3: Donation (xi ) Treatment Differences
+(1)
+
+(2)
+
+(3)
+
+-0.167
+
+-0.162
+
+0.025
+
+(1.113)
+
+(1.103)
+
+(1.173)
+
+-0.532
+
+-0.467
+
+-0.330
+
+(0.699)
+
+(0.693)
+
+(0.685)
+
+-0.037
+
+0.038
+
+0.217
+
+(0.793)
+
+(0.808)
+
+(0.806)
+
+-0.006
+
+-0.003
+
+(0.015)
+
+(0.016)
+
+0.619
+
+0.501
+
+(0.708)
+
+(0.707)
+
+-0.024
+
+0.048
+
+(1.124)
+
+(1.239)
+
+4.545**
+
+3.726*
+
+(1.879)
+
+(1.913)
+
+4.157***
+
+3.469***
+
+4.003***
+
+(0.598)
+
+(0.842)
+
+(1.234)
+
+Solicitor team fixed effects
+
+No
+
+No
+
+Yes
+
+Observations
+
+1107
+
+1107
+
+1107
+
+R2
+
+0.01
+
+0.02
+
+0.05
+
+s = 0.50
+s = 0.75
+s = 1.00
+Age (Est.)
+Female (I)
+Benefited from charity (I)
+Warm list (I)
+Constant
+
+Notes: Dependent variable is the amount donated, including zeros; (robust
+standard errors); * p<0.10, ** p<0.05, *** p<0.01.
+
+Where we do find significant differences is when we compare the revenue per solicitation across treatments at the bottom of Table 2, a direct consequence of the
+13
+
+unchanging donations. As s increases, so too does revenue; the charity is claiming a
+larger share of an unchanging “pot” of donations. Relying again on t-tests, only the
+s = 0.50 - s = 0.75 comparison is not significant at the 10% level and all but this and
+the s = 0.25 - s = 0.50 comparisons are significant at better than the 5% level.
+In the end, assuming that all the data is representative of one type of participant,
+the one represented in Section 2, we find some support for a specification of warm
+glow in which giving to win the lottery prize is roughly balanced against giving to the
+charity. As we will see in the next subsection, however, there is evidence that there is
+more than one type of participant.
+
+4.2
+
+Heterogeneous effects
+
+The donative behavior captured in the summary statistics from the experiment (Table
+2) point to a representative agent who is conflicted, someone who appears motivated
+by the lottery prize and, almost equally, the opportunity to give to charity. Instead of
+this conflicted agent, another possibility is that there are two types of participants in
+our study, those motivated primarily by the lottery prize and those motivated mostly
+by donating to the charity. Pooling the behavior of these two types would generate
+data like those in Table 2. In fact, our informal discussions in the field suggested that
+there were quite a few participants who did not like the lotteries because they wanted
+to give to the charity, not some anonymous prize winner who may not need the money.
+To examine the possibility of heterogeneous treatment effects more closely, we separate the sample by whether or not the respondent claimed warm glow as a primary
+motivation for giving when asked after being solicited.7 Reassessing the donations of
+our participants after splitting the sample, Table 4 reports mean giving by the two
+participant types. As the reader can see, the patterns of behavioral change of the two
+types are almost exactly opposite. While opposite, the behavior does make sense if
+one considers the effect of increasing s on the two motivations separately. Consider
+first the “expected prize” effect. The marginal benefit of a donation can be written as
+(1 − s) + Gix (xi , s) + gix (xi , s) and it is clear from the first term that as s increases
+the benefit from the expected prize falls and this causes donors to pull back, especially
+if the participant feels little warm glow. This is exactly what we see in the first row
+7
+
+Initially, we tried separating participants into warm glow givers and purely altruistic givers but
+there are too few people who list pure altruism as their primary motivation (<10%) for the category
+to gain any traction in the analysis.
+
+14
+
+of Table 4. At the same time, if another donor is primarily driven by the “warm glow
+effect,” the impact of s on gix (i.e., the cross partial, gixs , mentioned above) determines
+how this donor reacts. If, like the participants we informally interviewed remarked, the
+cross partial is sufficiently positive, donations will grow as s is increased instead. This
+is what we see in the third row of Table 4.
+Table 4: Heterogeneous donations (by surveyed warm glow and treatment)
+Low Warm Glow Participants
+High Warm Glow Participants
+
+s = 0.25
+
+s = 0.50
+
+s = 0.75
+
+s = 1.00
+
+4.65
+
+3.56
+
+2.26
+
+1.22
+
+(10.55)
+
+(16.90)
+
+(3.96)
+
+(4.06)
+
+2.15
+
+5.85
+
+8.43
+
+13.20
+
+(5.32)
+
+(9.37)
+
+(8.81)
+
+(12.65)
+
+Notes: Reporting mean donations; (standard deviations).
+
+In the first column of Table 5 we examine the treatment differences for our two
+types of participants more closely. In each set of estimates in the table we include
+the observables we collected and solicitor team fixed effects. Consistent with Table 4,
+donations for the low warm glow participants are decreasing in s. In addition to the
+significant differences listed in the table, both of the point estimate differences between
+s = 1.00 and s = 0.50, 0.75 are significant at better than the 5% level. Turning to high
+warm glow respondents, column (2) indicates that high warm glow donors give more as
+the charity claims a larger share of the handle. As in column (1), comparing the point
+estimates in column (2) we find that the s = 0.50, s = 0.75 difference is significant at
+the 8% level and both of the other two differences (s = 0.50, 1.00 and s = 0.75, 1.00 )
+are significant at better than the 1% level. In addition, converting the treatments into
+a continuous variable and using a simultaneous equations estimator, I tested whether
+the responses to the treatments were significantly different. Indeed they are - the
+hypothesis that the slopes are the same can easily be rejected (χ2 = 71.29, p < 0.01).
+In sum, as the charity claims a larger handle, donations decrease significantly for low
+warm glow participants (consistent with them placing most weight on the expected
+prize) and donations increase significantly for high warm glow participants (consistent
+with wanting to maximize their net donations).
+
+15
+
+Table 5: Heterogeneous treatment effects
+(1)
+
+(2)
+
+Sample
+
+Low WG
+
+High WG
+
+s = 0.50
+
+-0.798
+
+2.944*
+
+(1.379)
+
+(1.598)
+
+-2.033***
+
+5.835***
+
+(0.785)
+
+(1.392)
+
+-3.206***
+
+10.948***
+
+(0.853)
+
+(1.578)
+
+-0.001
+
+-0.001
+
+(0.017)
+
+(0.040)
+
+-0.670
+
+3.154**
+
+(0.822)
+
+(1.251)
+
+0.418
+
+-1.975
+
+(1.458)
+
+(2.270)
+
+3.800
+
+1.488
+
+(2.690)
+
+(1.704)
+
+4.761***
+
+3.684
+
+(1.317)
+
+(2.903)
+
+Solicitor team fixed effects
+
+Yes
+
+Yes
+
+Observations
+
+872
+
+235
+
+R2
+
+0.05
+
+0.28
+
+s = 0.75
+s = 1.00
+Age (Est.)
+Female (I)
+Benefited from charity (I)
+Warm list (I)
+Constant
+
+Notes: Dependent variable is the amount donated, including zeros; (robust
+standard errors); * p<0.10, ** p<0.05, *** p<0.01.
+
+5
+
+Structural estimates of warm glow
+
+The predictions discussed in Section 2 point out that beyond the standard public
+good incentives, potential donors have to balance the expected prize from participating
+in the lottery against the warm glow they receive from making a larger donation.
+Theoretically, the effect of our exogenous treatment variable, the charity’s handle, on
+the warm glow experienced determines which factor dominates for the donor. In this
+section, we permit the data to inform us as to the shape of warm glow, allowing this
+shape to vary for different types of participants.
+
+16
+
+To proceed, we consider two sources of curvature in the donor’s objective function,
+that emerging from warm glow, and that which may arise as part of the public goods
+benefit function. The former is our primary concern and the latter, though potentially
+interesting, is only of secondary significance and acts mostly to discipline our estimates
+of the first. To proceed, we impose functional forms on both the public goods and warm
+P
+glow functions. We start with the simplest case, a linear public good, Gi = α(s xi )
+which, admittedly, assumes all the curvature we estimate is the result of warm glow.
+That said, the assumption is plausible for a number of reasons. First, the linear public
+goods formulation is the workhorse of much of the experimental public goods literature
+(see Ledyard, 1995 or Chaudhuri, 2011). Second, not only does Rabin’s calibration
+theorem imply that utility has to be linear over small gambles (Rabin, 2000), much
+of the recent experimental literature estimating utility functions finds little curvature
+in monetary rewards when discounting is accounted for (e.g., Andreoni and Sprenger,
+2012; Augenblick et al., 2015; Andreoni et al., 2015).
+Given our linear public good assumption, what are some functional forms for warm
+glow that could result in an upward sloping donation profile? Utilizing the flexible
+power function, the obvious first candidate is where donors feel warm glow over their
+b
+net contributions such that gi = (sxbi ) and b captures the curvature of warm glow.
+Substituting this into the objective function described in Section 2, along with the
+P
+public goods benefit function Gi = α(s xi ) and doing the calculations, one finds the
+1
+b−1
+
+optimal donation, x∗i = (1−α)s
+, and that gixs = b(sxi )b−1 > 0. A second, more flexible,
+specification that allows the possibility of both upward and downward sloping donation
+xsb
+profiles over s, is gi = bi . Here changing the charity’s handle directly identifies the
+curvature parameter. When this is used instead, a slightly different optimal choice
+1
+results, xi = (1 − α) sb−1 with a different cross partial, gixs = xsb−1
+(sb ln(xi ) + 1), one that
+i
+can be either negative or positive.
+Utilizing these two flexible power function specifications, we use our data to recover
+the implied parameters of warm glow from nonlinear least squares estimates of the
+b
+different first-order conditions. We start the analysis with gi = (sxbi ) where donors
+receive warm glow only over their net donations. Here it is important to recall that
+this functional form assures that the partial gixs > 0, allowing the possibility that
+the warm glow effect can dominate the expected prize effect. For the estimation,
+1
+b−1
+xi = (1−α)
++ i where i ∼ N (0, σ 2 ) is the random component of the donor’s choice.
+s
+Because we observe both xi and s in our experiment, we can recover α and b via
+17
+
+structural estimation.
+In the top panel of Table 6 we present our estimates of α and b. In the first,
+“Combined” column, we examine the preference parameters using all 1107 participants.
+Inspired by the estimation procedure used in Bellemare and Sebald (2016) to assess the
+importance of belief-dependent preferences, in the second “Low Warm Glow” column we
+report estimates from the 872 people whose surveyed reason for giving was something
+other than warm glow and in the last “High Warm Glow” column we offer estimates for
+the 235 participants who were classified as high warm glow givers by their responses.
+Table 6: Structural Estimates of Preference Parameters
+Functional Form
+
+Parameter
+
+Combined
+
+Low Warm Glow
+
+High Warm Glow
+
+b
+gi = (sxbi )
+
+α
+
+0.326***
+
+0.320
+
+-0.303***
+
+(0.062)
+
+(426.104)
+
+(0.072)
+
+0.004
+
+-3.35e-11
+
+1.345***
+
+(.)
+
+(1623.148)
+
+(0.072)
+
+Obs.
+
+1107
+
+872
+
+235
+
+R2
+
+0.09
+
+0.08
+
+0.14
+
+α
+
+0.756***
+
+0.937***
+
+0.705***
+
+(0.050)
+
+(0.079)
+
+(0.047)
+
+-0.036
+
+-3.074
+
+0.529***
+
+(0.220)
+
+(2.841)
+
+(0.067)
+
+Obs.
+
+1107
+
+872
+
+235
+
+R2
+
+0.12
+
+0.08
+
+0.45
+
+b
+
+gi =
+
+xsb
+i
+b
+
+b
+
+Notes: NLLS estimates identified on the exogenous charity share, s; * p<0.10, ** p<0.05, *** p<0.01.
+
+The first thing to notice is that the simple power function specification using “net”
+warm glow results in reasonable parameter estimates, at a minimum. In fact, the
+combined results return a highly significant value for α of 0.326 which is between zero
+and one and is, therefore, plausible. However, the estimate of b is both statistically and
+economically not different from zero. Taken at face value, the warm glow estimate for
+the combined sample is, essentially, a fixed bump of 250 utils.8 One could also argue
+that the low warm glow participant estimates in the next column are plausible because
+they are very similar to the combined estimates and the prediction of a fixed amount of
+8
+
+That is, given the estimated parameters, the optimal donation for s = 1 is xi = (1−0.33)1
+
+0.004
+1.5 and therefore w = (1.5)
+≈ 250.
+0.004
+
+18
+
+1
+0.004−1
+
+≈
+
+warm glow does suggest that, at the margin, the lottery aspect of the choice problem
+will dominate. At the same time, the enormous standard errors (or the lack of one
+in the first column) suggests that the estimator struggles to converge to a meaningful
+result when this functional form is imposed. The results improve more for the high
+warm glow participants, however. Here the standard errors are of a reasonable size
+and the estimates for both α and b are precise. The problem is that the estimates fall
+outside the important benchmarks. The estimate for α is less than zero and b is larger
+than one which is problematic since this convexity implies that there is no interior
+optimum - one maximizes her utility by giving away her entire endowment.
+The second functional form we consider allows the charity’s share to directly affect
+the curvature of warm glow which is beneficial because, as discussed in Section 2, it
+more flexibly allows the cross partial gixs to be either positive or negative. In this last
+1
+xsb
+case, where gi = bi , the estimating equation becomes xi = (1 − α) sb−1 + i and nonlinear
+least squares yields the parameters in the bottom panel of Table 6. The reader can see
+that these results strongly contrast those of the upper panel. Here the calculated values
+of α all fit between N1 and 1 and are precisely estimated. Further, b is indistinguishable
+from zero for the combined and low warm glow participants but very close to a half
+for the high warm glow participants.9
+
+Figure 2: Estimated Warm Glow Functions For Those Motivated by Warm Glow
+b
+(Note: the dashed convex line results from assuming a power functional form, (sxbi )
+xsb
+and the solid line represents the more flexible form bi ).
+9
+
+These estimates are unchanged (i.e., remain within the original confidence intervals) when controls
+for the observables (age, gender, benefit and warm list status) are added.
+
+19
+
+Comparing the estimated warm glow functions for those participants who find it
+motivating for the two hypothesized functional forms in Figure 2 illustrates the contrast
+and the importance of iterating to the more flexible specification. Not only is warm
+glow concave in this second functional form and therefore any utility maximizing choice
+will lie in the interior of the choice space, as we will see, the predictions based on our
+structural estimates look remarkably like the donation data we collected.
+To examine the extent to which our preferred structural estimates of the warm
+glow function map onto observed donation choices from the field experiment, consider
+Figure 3 which again splits the data into the two types of participants. On the left, the
+bars represent the mean amounts donated (along with the 95% confidence intervals)
+for the low warm glow participants and the solid line specifies the prediction for these
+participants based on the estimates in the bottom panel of Table 6. Because these
+participants appear to have a very high value for α, 0.94, and a relatively large (negative) b, the model predicts that the utility from the lottery will dominate and these
+donors will back off when the size of the expected prize falls. This is exactly what we
+see in the data. The intuition here is that large estimated values for b, regardless of
+being positive or negative, imply low levels of warm glow. This, combined with the fact
+that the rest of the first-order condition is decreasing in s, indicates that for marginal
+donors, when s is low and the expected value of the prize is relatively large, some will
+consider giving. However, as s increases this inclination fades and donors pull back.
+On the right side of Figure 3 we superimpose the model’s predicted donations
+based on the parameter estimates we gathered for the participants who claimed warm
+glow as a primary motivation on the actual mean donations of these participants. In
+this case, the estimates of α = 0.71 and b = 0.53 assure that the lure of warm glow
+more than outweighs the effect of the lottery prize and contributions are therefore
+predicted to rise as the charity’s share increases. Again, this is precisely what the
+data indicate. Overall, we conclude that our estimates using the second specification
+provide parameter estimates that are not only precisely estimated and plausible, they
+fit the observed data very closely.
+
+20
+
+Figure 3: Predicted vs. Actual Giving (Note: based on structural estimates using
+sb
+gi = xb ).
+
+6
+
+Robustness
+
+Considering the resilience of our warm glow estimates, there are two important identifying assumptions that should be examined further. The first assumption, already
+discussed at the beginning of the previous section, has to do with other potential
+sources of curvature in the utility function. The second assumption is that our survey
+measure of warm glow is a good or natural way to bifurcate the data. We consider the
+robustness of these assumptions in this section.
+For the estimates discussed in Section 5 we assumed that there was only one potential source of curvature in a donor’s utility function, warm glow. What happens when
+we relax this assumption? To begin, suppose we relax the assumption that Gixx = 0,
+that is that the public good benefit function is linear. It turns out that allowing curvature in both the warm glow and the public good benefits is trickier that it might
+xsb
+) and
+first appear. Utilizing our preferred specification of warm glow (i.e., gi = bi P
+(αs
+xi )c
+adding a similarly designated formulation for the public good benefit, Gi =
+,
+c
+th
+results in an n degree polynomial first-order condition at the symmetric equilibrium,
+with many potential, but no obvious, roots. To resolve this complication, we calculate
+second-order Taylor approximations of this optimizing condition expanded around the
+predicted optimal donation, taking the parameter estimates from Table 6 as a starting
+point. The idea is to examine whether allowing curvature in both benefits will affect
+21
+
+our warm glow estimates in the neighborhood of the optimal choice implied by the
+parameters we found in Table 6.
+To be precise, we first calculate the value around which to approximate the firstorder condition, the optimal donation given the estimated parameters in the bottom
+panel of Table 6 (e.g., α = 0.705, b = 0.529), assuming c ≈ 1, while varying the charity’s
+handle. For instance, the optimal choice of a high warm glow donor when c = 0.95
+and s = 0.25 is predicted to be $4.25. We then calculate the second-order Taylor
+approximation of the optimizing condition at this donation, solve it for x∗ (s, a, b, c)
+and estimate this approximation, again using nonlinear least squares. It is important
+to note that while our estimates are seeded near those of the linear model, they are
+allowed to “wander” in any direction before converging.
+The results of this robustness check are reported in Table 7. In the first column
+are listed the various values of s used in the experiment and the predicted donations
+around which the first-order condition is expanded. As in Table 6, in the rest of Table
+7 we list the estimated preference parameters using the combined sample of 1107, the
+sample of 872 low warm glow participants and the sample of 235 high warm glow
+participants.
+There are three important things to notice about the results in Table 7. First, as
+in the lower portion of Table 6, all our estimates of α are less than one and therefore
+plausible. In addition, these estimates are close to what we found when assuming a
+linear public good. Second, and most importantly, our estimates of the curvature of
+warm glow, b, are also similar to those we found in Table 6. Focussing on the estimates
+for the high warm glow donors, the curvature parameters vary between a low of 0.463
+and a high of 0.581 which is a relatively tight band around the linear public good
+estimate of warm glow curvature, 0.529. In fact, the linear prediction of 0.529 is in the
+confidence interval of each of nonlinear public good estimates. In other words, relaxing
+the identifying assumption that the public good benefit is linear does not affect our
+estimates of the shape of warm glow in any fundamental way. The reason for this
+conclusion is apparent when one considers our estimates of c, the curvature of the
+public good function. In each of the twelve cases, the predicted value of c is close to
+one and in none of these cases is one not in the confidence interval of the estimate
+of c. Hence, we conclude that our simpler, linear public good, estimates are robust relaxing the linearity assumption results in a public good curvature parameter of one
+and does not significantly change our predictions for the shape of warm glow.
+22
+
+Table 7: Structural Estimates (with nonlinear public good)
+Charity’s handle
+
+Parameter
+
+Combined
+
+Low Warm Glow
+
+High Warm Glow
+
+α
+
+0.707***
+
+0.845***
+
+0.666***
+
+(0.117)
+
+(0.055)
+
+(0.044)
+
+0.308
+
+-0.809
+
+0.550***
+
+(0.554)
+
+(0.767)
+
+(0.224)
+
+0.875***
+
+0.972***
+
+1.130***
+
+∗
+
+s = 0.25, x = 4.25
+
+b
+
+c
+
+(0.311)
+
+(0.213)
+
+(0.075)
+
+2
+
+0.12
+
+0.08
+
+0.45
+
+α
+
+0.725***
+
+0.829***
+
+0.667***
+
+(0.089)
+
+(0.044)
+
+(0.042)
+
+0.252
+
+-0.581
+
+0.581***
+
+(0.520)
+
+(0.578)
+
+(0.196)
+
+0.906***
+
+0.981***
+
+1.090***
+
+(0.238)
+
+(0.167)
+
+(0.073)
+
+R2
+
+0.12
+
+0.08
+
+0.45
+
+α
+
+0.764***
+
+0.831***
+
+0.671***
+
+(0.047)
+
+(0.035)
+
+(0.055)
+
+0.118
+
+-0.298
+
+0.463***
+
+(0.268)
+
+(0.363)
+
+(0.176)
+
+0.945***
+
+1.000***
+
+1.013***
+
+R
+s = 0.50, x∗ = 4.84
+
+b
+
+c
+
+∗
+
+s = 0.75, x = 6.13
+
+b
+
+c
+
+(0.138)
+
+(0.115)
+
+(0.095)
+
+2
+
+0.12
+
+0.08
+
+0.45
+
+α
+
+0.823***
+
+0.848***
+
+0.753***
+
+(0.014)
+
+(0.011)
+
+(0.025)
+
+0.090
+
+-0.169
+
+0.522***
+
+(0.224)
+
+(0.201)
+
+(0.169)
+
+0.977***
+
+0.997***
+
+0.985***
+
+(0.060)
+
+(0.048)
+
+(0.058)
+
+R2
+
+0.12
+
+0.08
+
+0.45
+
+Obs.
+
+1107
+
+872
+
+235
+
+R
+s = 1.00, x∗ = 8.95
+
+b
+
+c
+
+Notes: NLLS estimates of a second-degree Taylor approximation of the first-order condition for
+a nonlinear public good (α(s
+
+P
+
+xi )c /c); * p<0.10, ** p<0.05, *** p<0.01.
+
+23
+
+As another robustness check on our primary results, we can consider a second potential source of “auxiliary curvature.” While it is standard to model lotteries assuming
+that agents are risk neutral (e.g., Morgan 2000), what if one’s risk attitude caused
+utility to be nonlinear with respect to one’s financial holdings, i.e., (wi − xi )? Like
+the nonlinear public good case, specifying a power function for the financial holdings,
+(wi −xi )c
+, results in another nth degree polynomial first order condition when one tries
+c
+to derive the predicted donation. Further, in this case, the decision maker’s endowment, wi , also survives the maximization process. As before, we again proceed by
+estimating the second-order Taylor series approximations around the predicted donation, given the structural estimates calculated in Table 6 (i.e., α = 0.705, b = 0.529)
+and assuming the decision maker is risk neutral (i.e., c ≈ 1) to begin. In addition, we
+assume wi = 5, because this results in predictions that are close to the observed modal
+(positive) contribution.
+In many ways, the results of this robustness test are similar to the ones we saw
+in Table 7, though the nonlinear estimator does have a harder time converging to
+sensible results for the combined sample. These estimates are reproduced in the third
+column of Table 8 where, again, the table is organized by the charity’s handle (and
+predicted optimal donation). In each of the four cases, the estimates for α are beyond
+the theoretical bounds. In three of the four cases the value is negative and in the
+remaining case α is estimated to be well over one hundred. In addition, the estimates
+of warm glow curvature, b, and risk attitude, c, are also imprecise and/or beyond
+sensible bounds. Considering the comparison of these results to the pooled results in
+Table 6, it is not clear that relaxing the assumption of risk neutrality is improving our
+estimates.
+However, separating the data by warm glow type again results in more reasonable
+estimates. For low warm glow participants, the estimates of α in column 4 of Table 8
+are all between zero and one and the warm glow curvature parameters, b, are similar
+to what we saw in Tables 6 and 7. For high warm glow donors, our estimates of α
+are also similar to what we found in Tables 6 and 7, while the estimates of b are a bit
+larger, closer to 0.7 than 0.5 and the new estimates from Table 8 do not include the
+original value, 0.53, in the confidence interval, though it is always very close. As with
+the conjecture of a nonlinear public good, what is most important, however, is that for
+both types of donor, the estimated value of c, in this case one’s risk attitude, is always
+very close to 1, indicating that risk neutrality is also a sensible assumption.
+24
+
+Table 8: Structural Estimates (with potential risk aversion)
+Charity’s handle
+∗
+
+s = 0.25, x = 3.99
+
+Parameter
+
+Combined
+
+Low Warm Glow
+
+High Warm Glow
+
+α
+
+-2.145
+
+0.225
+
+0.666***
+
+(1.720)
+
+(0.402)
+
+(0.037)
+
+1.594**
+
+1.775***
+
+0.699***
+
+(0.644)
+
+(0.664)
+
+(0.053)
+
+-604.043**
+
+1.223***
+
+1.015***
+
+b
+
+c
+
+(238.597)
+
+(0.142)
+
+(0.004)
+
+2
+
+0.12
+
+0.09
+
+0.45
+
+α
+
+-7.84e+08
+
+0.809***
+
+0.665***
+
+(.)
+
+(0.017)
+
+(0.037)
+
+19.511***
+
+-0.347**
+
+0.691***
+
+(4.738)
+
+(0.154)
+
+(0.056)
+
+-48.201***
+
+1.020***
+
+1.008***
+
+(5.772)
+
+(0.007)
+
+(0.003)
+
+R2
+
+0.01
+
+0.08
+
+0.45
+
+α
+
+170.703
+
+0.445
+
+0.671***
+
+(3289.555)
+
+(0.514)
+
+(0.040)
+
+4.418
+
+1.773***
+
+0.679***
+
+(13.926)
+
+(0.585)
+
+(0.062)
+
+-1.389
+
+1.099***
+
+1.003***
+
+R
+s = 0.50, x∗ = 4.29
+
+b
+
+c
+
+∗
+
+s = 0.75, x = 4.69
+
+b
+
+c
+
+(12.038)
+
+(0.078)
+
+(0.001)
+
+2
+
+0.12
+
+0.08
+
+0.45
+
+α
+
+-4.268
+
+0.829***
+
+0.679***
+
+(51.560)
+
+(0.027)
+
+(0.044)
+
+1.921
+
+-0.566
+
+0.670***
+
+(6.563)
+
+(0.454)
+
+(0.066)
+
+0.896
+
+01.000***
+
+1.000***
+
+(0.888)
+
+(0.001)
+
+(0.002)
+
+R2
+
+0.12
+
+0.08
+
+0.45
+
+Obs.
+
+1107
+
+872
+
+235
+
+R
+s = 1.00, x∗ = 4.94
+
+b
+
+c
+
+Notes: NLLS estimates of a second-degree Taylor approximation of the first-order condition for
+nonlinear wealth holdings (wi − xi )c /c); * p<0.10, ** p<0.05, *** p<0.01.
+
+25
+
+Moving on to the second identifying assumption, we now investigate whether our
+survey measure of warm glow is a sensible way to split the sample and estimate heterogeneous preference parameters. To begin, without some external validation, we can’t
+be sure that the new survey instrument measures a preference for warm glow and not
+some other factor that correlates with donations. To test the validity of this new instrument, I conducted a separate experiment using Amazon’s Mechanical Turk platform.
+In this experiment, participants were paid incentives that were slightly better than
+the hourly rate people typically expect from work on human intelligence tasks (HITs).
+Specifically, they were paid up to $3 for a HIT that lasted less than 10 minutes.
+In the experiment, participants first worked for 4 minutes solving a mathematical
+task (based on Ariel et al., 2009) in which they had to choose the two numbers that
+summed to exactly 10 from a matrix composed of twelve numbers enumerated to the
+second decimal place. For solving three or more of these puzzles correctly, participants
+were paid a $2 bonus on top of a $1 participation payment. The performance threshold
+was set low so that anyone who was not just clicking through the HIT would earn the
+bonus. Participants could then donate any fraction of this earned income to a charity
+that they picked from a list of five diverse and prominent causes (as determined by
+the choices recorded in Carpenter et al., 2008).10 The actual donation decision is our
+behavioral measure of warm glow because we use the procedures developed in Crumpler
+and Grossman (2008). Instead of the standard dictator game in which participants
+simply transfer any fraction of their bonus to the charity, in this “warm glow dictator
+game” the participants are informed that,
+“You can donate any amount between $0 and $2. The proctor of this experiment will also donate $2 to your selected charity. However, the amount
+contributed by the proctor to your selected charity will be reduced by the
+amount you donate. In other words, your selected charity will receive neither more nor less than $2.”
+Put differently, the participant’s donation crowds out the proctor’s one-for-one. As a
+result, only warm glow altruists should be motivated to give. Pure altruists, like those
+who respond to our survey question with “the total amount given by everyone,” should
+10
+
+The charities and the relative frequencies with which they were picked by the MTurk participants
+were the American Cancer Society (0.35), the American Diabetes Association (0.06), the American
+Red Cross (0.17), Doctors Without Borders (0.18) and the Humane Society of the United States
+(0.24).
+
+26
+
+not donate because they can’t increase the total.
+Participants also responded to a short, six-question, survey that included two demographics (age and gender), our warm glow question and three questions that have
+previously been used to measure altruistic preferences, more generally. From Falk et al.
+(2016) we included, “You won $1000 in a lottery. Considering your current situation,
+how much would you donate to charity?” (denoted Falk et al. 1) and “How willing
+are you to give to good causes without expecting anything in return?” (Falk et al. 2).
+From the contingent valuation literature, we included “There are some funding campaigns to which I feel very close and therefore do not hesitate to contribute a donation,”
+question M12 from Nunes and Schokkaert (2003). We included these questions to test
+the relative predictive power of our instrument against both the other responses within
+our instrument and against other instruments that have previously been validated as
+measures of altruism to one extent or another.
+Lastly, we balanced the ordering of the experiment such that roughly half of our
+respondents first completed the warm glow dictator game and then did the survey and
+for the other half, the order was reversed. We, therefore, control for order effects in
+our analysis.
+
+Figure 4: Survey Validation (mean warm glow experimental giving by survey
+response).
+In Figure 4 we see how well our survey instrument correlates with warm glow
+giving from the dictator game. In this figure we record the average donation by our
+27
+
+MTurk participants sorted by their survey response. As one can see, the participants
+that we categorize as high warm glow types give 45 cents, on average, while our pure
+altruists give the least, as they should (the mean is 6 cents). In the first two columns
+of Table 9, in which we report standardized regression coefficients to aid comparisons,
+we confirm this difference in predictive power. In column 1 we see that a standard
+deviation increase in our warm glow survey instrument results in a 0.415 standard
+deviation increase in real giving (p < 0.01) and when we include an indicator for the
+pure altruist response in column 2, we see that the difference in warm glow giving
+between these two groups is 0.441 of a standard deviation (also p < 0.01). In other
+words, our survey responses do a very good job of predicting the incentivized behavioral
+measure of warm glow and are thus valid when compared against each other.
+Table 9: Warm Glow - Survey vs. Experiment
+Amount I Gave (I)
+
+(1)
+
+(2)
+
+(3)
+
+0.415***
+
+0.397***
+
+0.406***
+
+-0.044
+
+-0.070
+
+Total Given (I)
+Female(I)
+
+0.062
+
+Age
+
+-0.181*
+
+Falk et al. 1
+
+0.182*
+
+Falk et al. 2
+
+0.176*
+
+Nunes & Schokkaert M12
+
+-0.004
+
+Experiment Order (I)
+
+0.087
+
+0.084
+
+0.053
+
+Observations
+
+109
+
+109
+
+109
+
+Adj. R2
+
+0.153
+
+0.147
+
+0.190
+
+Notes: Dependent variable is donation in warm glow experiment;
+standardized coefficients reported; robust standard errors unreported;
+* p<0.10, ** p<0.05, *** p<0.01.
+
+In the last column of Table 9, we assess how well our survey instrument does at
+predicting actual warm glow giving when compared to the other, already validated,
+survey questions. To begin, it is encouraging that we see that the two Falk et al.
+(2016) questions also predict in our setting; however, the Nunes and Schokkaert (2003)
+question does not correlate with warm glow giving at all. Even more interesting, is
+the fact that our warm glow survey instrument does particularly well in this predictive
+“horse race.” The standardized regression coefficients on the Falk et al instruments,
+while positive, are of half the magnitude of the one associated with the new instrument,
+28
+
+they are less precisely estimated, and, as one can see from the adjusted R2 , most of
+the predictive power comes from the inclusion of this new instrument. While this is
+expected, given the Falk et al. questions are not designed to discriminate between pure
+and impure altruism, we conclude that the new warm glow survey instrument is valid.
+To be complete, one could also look for the effects of latent classes in a finite mixture
+model if one is still not convinced that the survey is valid. The benefit of doing this
+is that the classes are determined by the experimental data itself. To test whether a
+mixture model will identify the same two classes of donors as our survey instrument, we
+examine a simple bivariate relationship between the charity’s handle and donations.11
+The results are presented in Table 10.
+Table 10: A Finite Mixture Model of Latent Donor Type
+Parameter
+
+Combined
+
+Class 1
+
+Class 2
+
+-0.043
+
+1.414***
+
+-5.164***
+
+(0.262)
+
+(0.264)
+
+(1.270)
+
+1.407***
+
+1.236***
+
+3.160***
+
+(0.181)
+
+(0.188)
+
+(0.604)
+
+1107
+
+1107
+
+1107
+
+Mean predicted donation (by class)
+
+-
+
+9.051
+
+2.179
+
+Marginal predicted class probabilities
+
+-
+
+0.309
+
+0.691
+
+s
+
+constant
+
+Observations
+
+Notes: Finite mixture estimates of tickets bought using negative binomial regressor;
+* p<0.10, ** p<0.05, *** p<0.01.
+
+As expected, when all the data are combined, in the second column of Table 10,
+donations are estimated to be flat with respect to the charity’s handle. This, more or
+less, replicates what we saw in Table 2. However, when we let the finite mixture model
+search for two latent classes of donors, it does so and the behavior of these two classes
+is very different. Donors in Class 1 (column 3) buy more tickets as the charity increases
+its take and donors in Class 2 buy fewer. In fact, the $9.05 predicted donation of the
+members of Class 1, seen near the bottom of Table 10, is considerably more generous
+than what Class 2 is predicted to give, $2.18, on average. Lastly, the finite mixture
+11
+
+Applying the finite mixture approach has complications, the most important of which is that the
+model struggles to converge with left-skewed donation data like ours. Because the main goal of this
+exercise is class identification, we work around this issue by employing the negative binomial regressor
+and use the number of tickets purchased as the dependent variable instead of the expenditure. Of
+course, the two are identical given the ticket price was fixed at $1.
+
+29
+
+model places approximately 30% of the participants in Class 1 and the remaining 70%
+in Class 2.
+
+Figure 5: The Predicted Posterior Probability of Being Assigned to Class 1 (by Warm
+Glow Type).
+How does the finite mixture bifurcation of the participants compare to the sorting
+done by our warm glow survey instrument? Returning to Figure 3, one sees that the
+estimated behavior of Class 1 donors looks very similar to those people classified as
+high warm glow types by our survey question and Class 2 donors mimic the behavior
+of our low warm glow types. Further, our survey instrument places 21% of donors in
+the high warm glow category, a fraction similar to that assigned to Class 1. On top
+of all this, high warm glow donors give an average of $7.83 and low warm glow donors
+give just $2.93, on average. Again this behavior is similar to the split determined by
+the finite mixture model. Perhaps most convincing, however, in Figure 5 we display
+the average posterior probability of being assigned to Class 1 by surveyed warm glow
+type. The probability of being assigned to Class 1 is almost twice as large, on average,
+for those responding as high warm glow types in our survey.
+
+7
+
+Policy counterfactuals and welfare
+
+From the policy point of view, these estimates of the shape of warm glow provide
+the basis for welfare analysis and the design of optimal policies. In this section, we
+offer an example of each. Considering the provision of a public good, given we better
+30
+
+understand the implied preferences of our participants, we can assess the optimal design
+of the voluntary contribution mechanism. Should charities bother appending lotterybased mechanisms onto simple solicitations and, if they should, how much of the handle
+should they claim? As the revenue calculations at the end of section 2 indicate, this
+choice will depend on how donations react to changes in the charity’s handle, s. If
+participants are mostly drawn in by the lottery prize, then increasing s and reducing
+the expected prize is unlikely to be optimal policy. If instead, warm glow dominates
+and donations are actually increasing in the charities handle, then the optimal lies at
+the other extreme and it may be both more effective and simpler to drop the lottery
+and keep all the funds raised. Not only does the revenue raised depend on how each
+type of donor responds to increases in the charity’s handle, it also depends on the
+population shares of the two types of potential donors.
+To assess which policy is the best in the current population of participants, we
+calculated expected revenue as a function of the charity’s handle and the fraction of
+each type of participant in the population and graph this relationship in Figure 6
+below. What is important to notice in Figure 6 is that in each case, expected charity
+revenue rises as the charity keeps more of what it collects; hence s∗ = 1. This indicates
+that warm glow is an important decision factor, at least at the margin. In the case of
+the solid line graphed in Figure 6, 95% of the participants are high warm glow types
+and revenues are convex in the charity’s share. This makes sense considering what we
+heard in the field from a number of participants who wanted their donations to go to
+the charity and not to some other donor who may not need the money. However, as
+the dashed line drawn such that only half the donor population is of the high warm
+glow type indicates, as more of the population is drawn primarily to the lottery aspect
+of the campaign, the expected revenue function becomes concave, at least initially.
+The question is, given the preferences we estimate, can this concavity ever dominate if
+enough of the population is low warm glow? It turns out, no, it can’t. Even when 95%
+of the population are low warm glow types, in the case of the dotted line, the optimal
+policy is still s = 1 because the observed rate at which donations fall for the low warm
+glow types when s increases does not make up for the fact that the charity is keeping
+more of each dollar donated.
+
+31
+
+Figure 6: Expected Revenue as a Function of the Charity’s Handle (Note: the dotted
+line is where 5% of donors are high warm glow types, the dashed line is where 50%
+are and the solid line is where 95% are).
+Considering welfare, using our parameters we can also ask how important warm
+glow is to potential donors, overall. One simple way to answer this question is to use
+our preferred parameter estimates to calculate an estimate of the utility experienced by
+each of our participants and determine what fraction of the total utility is comprised
+of warm glow, on average. Because endowments, wi , are unobserved it makes sense
+to focus on the utility received just from the public good created and any warm glow
+received. In other words, what fraction of the sum of the benefits received from the
+total donated plus the warm glow benefits accruing to those who contribute does the
+warm glow component account for?
+As a first pass at the relative importance of warm glow, consider an estimate from
+the entire sample - all participants whether or not their primary inclination was warm
+glow and whether or not they gave anything. Lumping all these participants together,
+we find that warm glow doesn’t account for even 1% of total utility (the fraction is
+0.0003). While this is not encouraging, there are reasons why this is just the first pass.
+Specifically, there are two obvious problems. First, it might make sense to focus on
+just the participants whose primary motivation was warm glow and, second, it seems
+unreasonable to estimate the public good benefit for each participant to be 94 percent
+32
+
+of the total amount donated. The second problem, in particular, will make the warm
+glow benefit seem small, given we collected $4400. This assumption is also at odds with
+the “scope insensitivity” results of Small et al., (2007) and the model and empirics of
+Ribar and Wilhelm (2002). That is, just like donors appear to be as motivated by one
+particular beneficiary as by many of them, donors are also unlikely to be motivated by
+(or able to anticipate) the actions of all the other potential donors.
+Restricting attention to the participants for whom warm glow was important does
+not help much. The fraction of total utility rises to just 0.0007. This is partially due
+to there being just a fifth self-identified high warm glow types (fewer than the third
+found in Huck et al., 2015). However, if we think more realistically about the scale of
+the public good benefit and consider “neighborhood-level” donations, the importance
+of warm glow does increase, as one might expect.
+Suppose that instead of estimating the public good benefit in the entire population,
+we imagine people made their choices with their local neighborhoods in mind, specifically they considered only the behavior of a finite number of other participants. Based
+on this rationale, we randomly sampled participants in “neighborhoods” of 100, 50, 20
+and 10 and calculated their utility based on the total donation in these smaller groups.
+Among the warm glow givers, when the neighborhood size is 100, the fraction of utility
+composed of warm glow rises to 1.2% on average. In the other neighborhoods, the averages rose as follows: 1.1% in neighborhoods of size 50, 7.8% in neighborhoods of size 20
+and 11.9% in neighborhoods of size 10. As giving becomes more local, the fraction of
+utility composed of warm glow rises as expected and in small intimate neighborhoods
+it rises to almost an eighth of the total. Though these estimates indicate that warm
+glow is substantial, they also suggest that it may not be the only factor influencing
+altruism (a conclusion echoed in Ottoni-Wilhelm et al., 2017).
+
+8
+
+Conclusion
+
+Because impure altruism is now invoked as a motivation to not only make voluntary
+donations to the provision of public goods but to make other forms of donations as well
+(e.g., time, effort or even blood), to start a firm for the public benefit or even to vote,
+it is important to closely examine the concept of warm glow. To offer a first estimate
+of the shape of the warm glow function, we conduct a field experiment in which pari
+mutuel lotteries are used to alter the incentives to give to a prominent local charity and,
+33
+
+by doing so, provide the exogenous variation needed to identify the curvature of warm
+glow. Among those participants whose primary stated reason to give (as classified by
+our newly validated survey instrument) is impure altruism, we find that the shape of
+.
+warm glow is gi (xi ) = 1.89x0.53
+i
+Much of the related literature in which structural estimates of altruism parameters
+are offered is focused on measuring multiple parameters or examining policy interventions or demographic effects. As a result, these studies often estimate functional forms
+that presume concavity. By contrast, I estimate a variety of flexible forms that allow
+the data to confirm the concavity of warm glow. That said, I can also use these other
+functional forms to test whether the resulting parameter estimates are similar. For example, the estimates offered by DellaVigna et al. (2012, 2013) come from utilizing the
+logarithmic function gi (xi ) = ln(b + xi ) which results in b ≈ 10. Using the data from
+the current experiment, I estimate a much smaller “curvature” parameter: regardless
+of whether the b is estimated from the entire sample or just one subsample, it robustly
+equals zero (while α remains between 0 and 1). This suggests that my results using
+the natural log jibe more closely with the functional form adopted in Ottoni-Wilhelm
+et al. (2017) who assume a Cobb-Douglas specification in which gi (xi ) = βln(xi ).
+When all is said and done, it is comforting to know that the estimates of warm
+glow resulting from this experiment coincide with traditional theoretical assumptions.
+For those motivated by it, warm glow is increasing in one’s own contribution and it
+is concave which, in many instances, assures an interior optimal choice for the agent.
+Not only do these results go a long way toward confirming the comparative statics of
+the original theory of warm glow described in Andreoni (1989, 1990), they also potentially have important implications for tax policy (Diamond, 2006) and labor supply
+(Carpenter and Meyers, 2010 or Imas, 2014).
+
+34
+
+References
+Andreoni, J., 1989. Giving with Impure Altruism: Applications to Charity and
+Ricardian Equivalence. Journal of Political Economy 97, 1447-1458.
+Andreoni, J., 1990. Impure Altruism and Donations to Public Goods: a theory of
+warm glow giving. Economic Journal 50, 464-477.
+Andreoni, J., 1993. An experimental test of the public-goods crowding-out hypothesis. American Economic Review 83, 1317-1327.
+Andreoni, J., Kuhn, M., Sprenger, C., 2015. Measuring time preferences: A comparison of experimental methods. Journal of Economic Behavior & Organization 116,
+451-464.
+Andreoni, J., Payne, A., 2011. Is crowding out due entirely to fundraising? Evidence from a panel of charities. Journal of Public Economics 95, 334-343.
+Andreoni, J., Sprenger, C., 2012. Estimating Time Preferences from Convex Budgets. American Economic Review 102, 3333-3356.
+Ariely, D., Gneezy, U., Loewenstein, G., Mazr, N. 2009. Large Stakes and Big
+Mistakes. Review of Economic Studies 76, 451–69.
+Augenblick, N., Niederle, M., Sprenger, C., 2015. Working over time: dynamic
+inconsistency in real effort tasks. Quarterly Journal of Economics 130, 1067-1115.
+Baron, D., 2007. Corporate social responsibility and social entrepreneurship. Journal of Economics and Management Strategy 16, 683-717.
+Bellemare, C. Sebald, A., 2016. Measuring belief-dependent preferences without
+information about beliefs, Laval University working paper.
+Benabou, R., Tirole, J., 2006. Incentives and Prosocial Behavior. American Economic Review 96, 1652-1678.
+Brekke, K.A., Kverndokk, S., Nyborg, K., 2003. An economic model of moral
+motivation. Journal of Public Economics 87, 1967-1983.
+Carpenter, J., Connolly, C., Knowles Myers, C. 2008. Altruistic Behavior in a
+Representative Dictator Experiment. Experimental Economics 11, 282–98.
+Carpenter, J., Matthews, P.H., 2017. Using raffles to fund public goods: lessons
+from a field experiment. Journal of Public Economics 150, 30-38.
+Carpenter, J., Myers, C.K., 2010. Why Volunteer? Evidence on the Role of Altruism, Reputation and Incentives. Journal of Public Economics 94, 911-920.
+Chaudhuri, A., 2011. Sustaining cooperation in laboratory public good experi-
+
+35
+
+ments: a selective survey of the literature. Experimental Economics 14, 47-83.
+Cherepanov, V., Feddersen, T., Sandroni, A., 2013. Revealed preferences and aspirations in warm glow theory. Economic Theory 54, 501-535.
+Corcoran, W., 1984. Long-run Equilibrium and Total Expenditures on Rentseeking. Public Choice 43, 89-94.
+Costa-Font, J., Jofre-Bonet, M., Yen, S., 2013. Not all incentives wash out the
+warm glow: The case of blood donation revisited. Kyklos 66, 529-551.
+Crumpler, H., Grossman, P., 2008. An experimental test of warm glow giving.
+Journal of Public Economics 92, 1011-1021.
+Dale, D., 2004. Charitable lottery structure and fund raising: theory and evidence.
+Experimental Economics 7, 217-234.
+Dawes, C., Loewen, P.J., Fowler, J., 2011. Social preferences and political participation. the Journal of Politics 73, 845-856.
+Delfgaauw, J., Dur, R., 2008. Incentives and workers’ motivation in the public
+sector. The Economic Journal 118, 171-191.
+DellaVigna, S., List, J., Malmendier, U., 2012. Testing for altruism and social
+pressure in charitable giving. Quarterly Journal of Economics 127, 1-56.
+DellaVigna, S., List, J., Malmendier, U., Rao, G., 2013. The importance of being
+marginal: Gender differences in generosity. American Economic Review 103, 586-590.
+DellaVigna, S., List, J., Malmendier, U., Rao, G., 2016. Estimating social preferences and gift exchange at work, NBER Working Paper.
+Diamond, P., 2006. Optimal tax treatment of private contributions for public goods
+with and without warm glow preferences. Journal of Public Economics 90, 897-919.
+Duncan, B., 1999. Modeling charitable contributions of time and money. Journal
+of Public Economics 72, 213-242.
+Eckel, C., Grossman, P., Johnston, R., 2005. An experimental test of the crowding
+out hypothesis. Journal of Public Economics 89, 1543-1560.
+Falk, A., Becker, A., Dohmen, T., Huffman, D., Sunde., U. 2016. The Preference Survey Module: A Validated Instrument for Measuring Risk, Time and Social
+Preferences. IZA DP No. 9674.
+Ferguson, E., Taylor, M., Keatley, D., Flynn, N., Lawrence, C., 2012. Blood donors’
+helping behavior is driven by warm glow: more evidence for the blood donor benevolence hypothesis. Transfusion 52, 2189-2200.
+Harbaugh, W., 1998. What do donations buy? A model of philanthropy based on
+36
+
+prestige and warm glow. Journal of Public Economics 67, 269-284.
+Harbaugh, W., Mayr, U., Burghart, D., 2007. Neural responses to taxation and
+voluntary giving reveal motives for charitable donations. Science 316, 1622-1625.
+Huck, S., Rasul, I., Shephard, A., 2015. Comparing charitable fundraising schemes:
+evidence from a natural field experiment and a structural model. American Economic
+Journal: Economic Policy 7, 326-369.
+Imas, A., 2014. Working for the "warm glow": On the benefits and limits of
+prosocial incentives. Journal of Public Economics 114, 14-18.
+Konow, J., 2010. Mixed feelings: Theories of and evidence on giving. Journal of
+Public Economics 94, 279-297.
+Landry, C., Lange, A., List, J., Price, M., Rupp, N., 2010. Is a donor in hand better
+that two in the bush? Evidence from a natural field experiment. American Economic
+Review 100, 958-983.
+Ledyard, J., 1995. Public Goods: a survey of experimental research, in: Kagel,
+J., Roth, A. (Eds.), The Handbook of Experimental Economics. Princeton University
+Press, Princeton, pp. 111-194.
+Lilley, A., Slonim, R., 2014. The price of warm glow. Journal of Public Economics
+114, 58-74.
+List, J., 2008. Introduction to field experiments in economics with applications to
+the economics of charity. Experimental Economics 11, 203-212.
+Moll, J., Krueger, F., Zahn, R., Pardini, M., de Oliveira-Souza, R., Grafman, J.,
+2006. Human fronto-mesolimbic networks guide decisions about charitable donation.
+Proceedings of the National Academy of Science USA 103, 15623-15628.
+Morgan, J., 2000. Financing Public Goods by Means of Lotteries. Review of
+Economic Studies 67, 761-784.
+Nunes, P., Schokkaert, E. 2003. Identifying the Warm Glow Effect in Contingent
+Valuation. Journal of Environmental Economics and Management 45: 231–45.
+Ottoni-Wilhelm, M., Vesterlund, L., Xie, H., 2017. Why do people give? Testing
+pure and impure altruism. American Economic Review 107, 3617-3633.
+Payne, A., 1998. Does the government crowd-out private donations? New evidence
+from a sample of non-profit firms. Journal of Public Economics 69, 323-345.
+Rabin, M., 2000. Risk aversion and expected-utility theory. Econometrica 68,
+1281-1292.
+Ribar, D., Wilhelm, M., 2002. Altruistic and joy-of-giving motivations in charitable
+37
+
+behavior. Journal of Political Economy 110, 425-457.
+Saez, E., 2004. The optimal treatment of tax expenditures. Journal of Public
+Economics 88, 2657-2684.
+Scharf, K., 2014. Impure prosocial motivation in charity provision: Warm-glow
+charities and implications for public funding. Journal of Public Economics 114, 50-57.
+Small, D., Loewenstein, G., Slovic, P., 2007. Sympathy and callousness: the impact
+of deliberative thought on donations to identifiable and statistical victims. Organizational Behavior and Human Decision Processes 102, 143-153.
+Tonin, M., Vlassopoulos, M., 2014. An experimental investigation of intrinsic motivations for giving. Theory and Decision 76, 47-67.
+
+38
+
+Appendix - Lottery solicitor scripts
+Note, the name of the beneficiary has been redacted. The following is the script
+read by solicitors for the s = 0.75 treatment. The language for the other lotteries is
+identical except for the percentages going to the charity and the lottery winner. For
+the s = 1.00/V CM treatment, the second section, explaining the VCM, was, “To raise
+money for {Charity Name}, we’re gathering donations. All of the proceeds will benefit
+{Charity Name}. Do you have any questions about the fundraiser?” Everything else
+was identical.
+LOTTERY 75/25 [BLUE]
+PRESENTING {Charity Name}
+Hi, our names are ____ and ____ and we’re raising money for {Charity Name},
+a local poverty relief organization. {Charity Name} leads various programs that assist
+in providing Addison County families with health care, housing, heating, and essential
+household goods.
+EXPLAINING THE LOTTERY
+To raise money for {Charity Name}, we’re conducting a lottery. 75% of the proceeds
+of this lottery will benefit {Charity Name}, and 25% of the proceeds will be awarded
+to the winning ticket holder. We will draw the winning number during the second week
+of May and notify the winner. Do you have any questions about the lottery?
+ASKING FOR A DONATION
+Would you like to make a donation to {Charity Name} today and enter the lottery?
+Each ticket costs $1 and you can buy as many as you like.
+GENERAL QUESTIONS
+1. Think about the last time you gave to charity before today. What was most
+important to you (i) the total amount given by everyone, (ii) the amount that you
+personally gave or (iii) some other aspect of giving?
+2. Have you ever benefited from the services provided by {Charity Name}?
+
+39
+
+

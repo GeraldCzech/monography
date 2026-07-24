@@ -1,0 +1,3331 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+https://www.emerald.com/insight/0309-0566.htm
+
+How preexisting beliefs and
+message involvement drive
+charitable donations: an
+integrated model
+Eric Van Steenburg
+Jake Jabs College of Business and Entrepreneurship, Montana State University,
+Bozeman, Montana, USA, and
+
+Nancy Spears
+
+Preexisting
+beliefs
+
+209
+Received 14 January 2020
+Revised 8 September 2020
+27 December 2020
+5 May 2021
+21 July 2021
+9 September 2021
+Accepted 30 October 2021
+
+G. Brint Ryan College of Business, University of North Texas, Denton, Texas, USA
+
+Abstract
+Purpose – The purpose of this paper is to investigate how individuals respond to messages asking for
+donations in broadcast advertising. It does so by considering both preexisting attitudes and beliefs related to
+donating, as well as message processing. The goal is to uncover messages that may help nonproﬁt
+organisations increase donations.
+Design/methodology/approach – The research combines the theory of planned behaviour (TPB) to
+measure preexisting beliefs and the elaboration likelihood model (ELM) to measure involvement in an
+investigation of donation responses to broadcast-quality advertisements developed by a professional
+ad agency featuring the following two messages: one that leverages social norms and another that
+legitimises minimal giving. Two studies collected data from a total of 544 respondents in two
+between-subjects 2  2  2 experiments.
+
+Findings – Injunctive norm messages affect the intended donation behaviour of individuals who are predisposed to donating, but only if they are highly involved with the ad. Social legitimisation messages affect
+donations from individuals who look to referents to direct behaviour, but unlike what was expected, only by
+those not highly involved with the ad. Similarly, individuals who do not think they can donate increased
+donations when they saw the legitimisation message and had low advertisement involvement.
+
+Research limitations/implications – Results extend the ELM-TPB integrated framework by
+discovering when and how involvement drives intended donation behaviour. The research also sheds light on
+message processing by focussing on the preexisting characteristics of recipients.
+
+Practical implications – The results provide nonproﬁt managers with strategies to increase donations
+with targeted messages. Those who pay attention to the ad and have a positive attitude toward giving are
+going to donate if they are told others support the cause. Therefore, the focus should be on those who are not
+involved with the ad but still believe giving is appropriate.
+Originality/value – This research is the ﬁrst to use the ELM-TPB framework to discover that ELM has
+varying utilities and values from TPB in different ad contexts.
+Keywords Nonproﬁt, Donations, Advertising, Cause marketing, Theory of planned behaviour,
+Elaboration likelihood model
+Paper type Research paper
+
+Introduction
+To be effective, nonproﬁt marketing managers must attract new donors and retain old ones
+by implementing marketing communications strategies that are designed to change
+
+European Journal of Marketing
+Vol. 56 No. 1, 2022
+pp. 209-251
+© Emerald Publishing Limited
+0309-0566
+DOI 10.1108/EJM-01-2020-0031
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+210
+
+attitudes and beliefs in the hope of enhancing donations (Kogut and Ritov, 2011; Ratner
+et al., 2011). The challenge for most nonproﬁt organisations (NPOs) is to develop effective
+persuasive messages that inform, educate and convince recipients to act (Bendapudi et al.,
+1996; Cole et al., 2016; Summers and Summers, 2017). Prior research has added to our
+understanding of these efforts through the impact of diverse elements of the marketing mix
+(Beale and Bosnal, 2006; Boer and Westhoff, 2006; Hill and Abraham, 2008), while other
+research has tested speciﬁc components of nonproﬁt advertisements such as leveraging
+emotions (Choi et al., 2016; Erlandsson et al., 2018; Genevsky and Knutson, 2015; Moriuchi
+and Chung, 2018), storytelling (Merchant et al., 2010; Small, 2011) and providing speciﬁc
+information about the individual in need (Kogut and Ritov, 2011; Small and Verrochi, 2009;
+Summers and Summers, 2017). Despite this, few studies examine nonproﬁt advertising and
+the messages used that speciﬁcally ask for money (Hong and Lee, 2018), exposing a
+potential gap in the research. Then fewer still have focussed speciﬁcally on affecting
+donations using communication messages in broadcast-style ads. This research attempts to
+ﬁll that gap.
+For NPOs, it is imperative to understand how message content can inﬂuence someone to
+act (Sargeant, 2014; Summers and Summers, 2017). The integration of the theory of planned
+behaviour (TPB) and the elaboration likelihood model (ELM) can help explain how this can
+be achieved because beliefs, attitudes and intentions can help determine whether a message
+has its desired effects (Rucker and Petty, 2006). Both theories are applicable to research in
+nonproﬁt contexts because each attempts to explain how beliefs and attitudes can affect
+behaviour. However, while ELM is often used to examine message processing, “many
+studies do not include the intention-adoption link in their model even though their
+underlying assumptions are based on the theory of planned behaviour”, (Goh et al., 2017,
+p. 14). In fact, it is argued that the ﬂaw in ELM is that it fails to test the links between
+changes in attitude and changes in behaviour and that TPB ﬁlls that gap (Wilson, 2014).
+Further, integrating theories is important as combining two theories can address what
+neither can do independently (Mayer and Sparrowe, 2013).
+To advance our understanding of the issues related to the effectiveness of donation
+messages in broadcast advertisements, the present study combines precepts from TPB and
+ELM to investigate donation responses to two types of messages, the ﬁrst featuring social
+normative messages and the second communicating social legitimisation. To date, ELM and
+TPB have not been examined in tandem in an experimental design-based study to explain
+behavioural intention through exposure to advertising messages despite the fact that the
+combination can offer insight into the effectiveness of messaging (Wilson, 2014). Efforts
+have been made to combine TPB with ELM to leverage the dual-processing routes of the
+ELM framework while integrating TPB’s decision-making path (Brown et al., 2010;
+Prochaska and DiClemente, 1983; Teng et al., 2015; Valois et al., 2001). However, none of
+these speciﬁcally researched messages in advertising, nor did they explore the interactive
+effects of involvement with the ad and the TPB antecedents to behavioural intention, nor did
+any do so within the context of cause marketing – deﬁned as the marketing of nonproﬁt,
+political or social efforts (Dann et al., 2007). The present research does all three. Speciﬁcally,
+the three TPB antecedents of attitude toward the behaviour (i.e. donating to a cause or
+ATB), subjective norms (what referent groups are doing or SN) and perceived behavioural
+control (ability to comply with the message request for a donation or PBC) are tested to see if
+they inﬂuence donation responses to NPO ads depending upon the level of involvement with
+the ad.
+In doing so, the present research contributes to theory and marketing management in the
+following ways. Firstly, it applies ELM to combine the literature on prosocial causes, media
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+presentation and giving opportunities to explain how individuals behave differently based
+on level of involvement (Chang and Lee, 2010). Secondly, it extends the ELM-TPB integrated
+framework by discovering key results including that ELM has varying utilities and values
+from TPB in different ad contexts. Thirdly, the research relies on TPB to respond to the call
+for investigations into the identiﬁcation of factors such as consumer traits and campaign
+structural elements that may impact consumer involvement in cause marketing campaigns
+and ultimately inﬂuence process mechanisms responsible for behaviour (Grau and Folse,
+2007). Finally, the study responds to the call by Tangari et al. (2010) for investigations
+testing the effects of ad processing and message framing on self-regulation, which argues
+that consumers use internal and external cues to affect behaviour, particularly in situations
+where they consider the expected behaviour of others (Bandura, 1986, 1991).
+
+Preexisting
+beliefs
+
+211
+
+Donation marketing research review
+Donating is consumer behaviour and NPOs can beneﬁt from knowing what affects donor
+motivations. That is why researchers and practitioners need to understand the implications
+of various underlying processes to develop campaigns and programmers that translate into
+long-term behavioural changes (Smith et al., 1994). In addition, NPOs not only need to
+persuade individuals to defer spending their money on consumer goods and leisure
+activities but also must persuade individuals to direct their contribution to a speciﬁc NPO
+(Strahilevitz, 2011).
+Factors that affect one’s inclination to donate to a nonproﬁt organisation include:
+ motivations such as altruism, empathy and guilt;
+ social norms;
+ socio-economics, ﬁnancial ability and past giving history; and
+ message delivery features such as framing and content (Sargeant, 2014).
+Emotions appear to play one of the most important roles in the donor-NPO relationship. For
+example, previous research found the reaction to a nonproﬁt advertisement was strongly
+affected by processing motivation and preexisting attitudes, with positive emotions
+producing stronger reactions to nonproﬁt advertisements than negative emotions (Randle
+et al., 2016). In fact, ads that elicit negative emotions often lead to negative outcomes such as
+decreased reaction to the ad. When testing emotional versus rational appeals, Chen et al.
+(2016) found that emotional message frames were more effective, with guilt appeals the most
+effective. It is also important to develop trust and commitment between the donor and the
+NPO, as previous research shows it is related to giving behaviour (Sargeant and Lee, 2004).
+Playing on the emotional beneﬁts of prosocial behaviour does increase donations, but
+informing potential donors that giving makes people happy does not because that type of
+information acts only as an incentive, and therefore affects just short-term giving (Anik
+et al., 2011). Prosocial behaviour can also be driven simply by the need to shape self-identity
+as someone who helps others (Wilson and Musick, 1997), which can motivate individuals to
+donate. Other research has found that donations can increase if nonproﬁts offer donors
+opportunities to make regular, smaller donations rather than one large donation once, a
+strategy that also affects the relationship between how much a donor gives and how good
+they feel about donating (Strahilevitz, 2011).
+Research has also found that donors read signs and the effect of the signs is due to the
+message on the sign rather than simply the sign’s presence (Martin and Randal, 2011).
+However, message differences did not factor into donation amount. The amount people give
+also is not based on the amount of a number of individuals in need, nor how efﬁciently
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+212
+
+donated funds are spent by the NPO asking for the contribution (Oppenheimer and Olivola,
+2011). In fact, individuals prefer to donate to a single, identiﬁed victim rather than to a group
+of victims (Kogut and Ritov, 2011). This has led some to wonder whether social norms play a
+signiﬁcant role in donation behaviour. In that vein, Croson and Shang (2011) found the size
+of a potential donation is inﬂuenced by the size of a previous contributor’s donation and the
+impact is affected by the perceived similarities of the donor to the individual who gave just
+before them.
+However, the perception of social norms has been shown to be negatively correlated with
+an individual’s relation to the NPO (Shang and Sargeant, 2016). In addition, the norm of selfinterest, in which people feel it is only important to donate when the cause is of personal
+interest, keeps some people from giving (Ratner et al., 2011). In research on crowdfunding,
+there was no difference in appeals that featured a self-beneﬁt or others-beneﬁt (Chen et al.,
+2016). Still, it seems that donation decisions more often than not depend on the salience of
+the beneﬁciary (Cryder and Loewenstein, 2011) as other-beneﬁt appeals performed better
+than self-beneﬁt appeals when the beneﬁciaries were part of the in-group but not the outgroup (Park and Lee, 2015). In the case of the latter, donations actually decreased. In
+addition, the level of interest, compassion and surprise have positive effects on behavioural
+intention when individuals were shown different types of nonproﬁt advertising appeals
+(Cockrill and Parsonage, 2016) while leveraging communal messaging can also increase
+donations in a political context (Kaikati et al., 2017).
+Speciﬁcally, in the context of TPB, efforts have been made to better understand the link
+between marketing elements and donor behaviour through the use of leaﬂets (Beale and
+Bosnal, 2006; Hill and Abraham, 2008), social networking (Boer and Westhoff, 2006), word of
+mouth (Wann-Yih et al., 2009) and a full campaign (Stead et al., 2005), with results showing
+that marketing messages have an effect on attitudes and behaviours toward a cause.
+Strategies such as soliciting feedback, providing updates and offering value to donors (such
+as through a participatory fundraising event) have also proven to improve donations and
+long-term donor relationships (Strahilevitz, 2011).
+Conceptual framework
+Theory of planned behaviour and persuasion
+The TPB is a valuable model used by researchers to predict behavioural intention, which is
+considered a summation of the motivations necessary to perform a speciﬁc behaviour
+(Armitage and Christian, 2004) and has demonstrated to be effective in predicting consumer
+behaviour or more speciﬁcally, the intentions of the individual (Ajzen, 1991). For this reason,
+the TPB has been found to be better at predicting behaviour than models that measure just
+attitudes (Armitage and Christian, 2004).
+TPB relies on direct measures of attitudes and when desirable (Ajzen, 1991), indirect
+measures of beliefs to predict behavioural intention, which is signiﬁcantly related to
+behaviour. TPB contains three constructs that predict intentions:
+(1) attitude toward the behaviour;
+(2) subjective norms (the perceived social pressure to perform or not to perform the
+behaviour); and
+(3) perceived behavioural control (the belief in one’s ability to perform the behaviour).
+The importance of each construct varies across situations and between individuals (Ajzen,
+1991). That is, in some studies, only one construct may be strongly related to intention. It
+could also be that two of the three are signiﬁcant, while sometimes it is all three. In sum,
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+TPB has shown that individuals consider the consequences of the behaviour, evaluate what
+they believe others expect them to do and weigh whether or not they believe they have the
+ability to adopt that behaviour.
+There has been extensive empirical support for the effectiveness of TPB in predicting
+intention and behaviour. A meta-analysis conducted by Armitage and Conner (2001) of 185
+studies found TPB accounted for 39% of the variance for intention and 27% of the variance
+for behaviour. Still, some research has demonstrated ﬂaws with the TPB, ranging from poor
+operational deﬁnitions of attitudes, subjective norms, perceived behavioural control and
+their outcomes (Gagné and Godin, 2000) making it impossible to develop hypotheses
+(Ogden, 2003), to various constructs within the model failing to predict either outcome
+(Bagozzi and Kimmel, 1995; Sideridis et al., 1998).
+When leveraging TPB, persuasive communications designed to inﬂuence a belief about
+an object produce changes in attitudes toward the object. Messages directed toward
+normative beliefs can inﬂuence subjective norms, while those directed toward control beliefs
+can inﬂuence perceived behavioural control (Maddock et al., 2008; Stead et al., 2005). Studies
+on persuasive communications have relied on the TPB framework, including promotion
+leaﬂets designed to stimulate beliefs about condom use, campaigns to educate about the
+dangers of speeding and messages regarding exercise or healthy food (Hill and Abraham,
+2008; Maddock et al., 2008; Stead et al., 2005).
+Persuasive messages and TPB have also been examined in combination in studies
+related to cause marketing. For example, research on green marketing (ShabbirHusain and
+Varshney, 2019); suicide interventions (Shemanski Aldrich and Cerel, 2009) and healthy
+eating (Tsorbatzoudis, 2005) have examined attitudes and beliefs. More recently, Erlandsson
+et al. (2018) examined attitudes in relation to appeals that had either positive or negative
+messaging, ﬁnding that positive appeals are better at creating favourable attitudes toward
+the NPO and the ad, but that negative appeals lead to more donations.
+
+Preexisting
+beliefs
+
+213
+
+Elaboration likelihood and message processing
+Decision-making is one of the foundations of consumer behaviour and provides an avenue
+for persuasive communications to affect beliefs, attitudes and behaviours (Barden and Petty,
+2008; Petty et al., 1983). One of the most reliable models in understanding how persuasion
+works within the decision-making process is the ELM (Teng et al., 2015). ELM assumes
+that individuals process persuasive information differently (Petty and Cacioppo, 1984) with
+that processing beginning the moment they receive a message, such as through an
+advertisement. As soon as the message is received, the individual attempts to relate the
+information to any preexisting beliefs they have about the issue (Cialdini et al., 1981).
+Messages are more persuasive when they support these beliefs.
+ELM research has shown that beliefs, attitudes and behaviour can change based on how
+well cognitive responses align with a message being communicated (Petty et al., 1983). In
+ELM, individuals process persuasive information differently (Petty and Cacioppo, 1984),
+with processing beginning the moment they receive a message. Processing proceeds upon
+one of two routes – central or peripheral – depending on factors such as message content,
+inherent traits of the consumer and the situation in which the consumer ﬁnds themself
+(Cialdini et al., 1981). Individuals follow the central route to persuasion when highinvolvement information processing takes place, meaning that the individual is motivated to
+expend cognitive effort on the message. The peripheral route is followed when a consumer is
+engaged in low-involvement information processing when motivation and ability are low
+(Cialdini et al., 1981) where involvement is deﬁned as the personal relevance of the
+information (Mowen and Minor, 2006).
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+214
+
+In challenging ELM, some researchers suggest a single route for processing persuasive
+communications because, they argue, motivation and cognition are impacted similarly no
+matter how the individual processes the message (Kruglanski and Thompson, 1999). But
+ELM argues that individuals do process messages differently and that the central and
+peripheral routes are capable of explaining processing of both message and non-message
+variables, as well as when motivation is high and low (Petty et al., 1999). Therefore, ELM
+may provide a more robust model of message processing than the proposed unimodal.
+ELM has been extended in terms of antecedents, including engagement with
+advertisements (Wang, 2006), need for cognition (Tam and Ho, 2005), cultural orientation
+(Luo et al., 2014), expertise and involvement (Sussman and Siegal, 2003), job relevance
+(Bhattacherjee and Sanford, 2006) and mobile app privacy (Gu et al., 2017). For its part,
+TPB’s antecedents are relevant inﬂuences that precede downstream attitudes toward
+donating to NPOs. For example, individuals have preexisting beliefs toward donating
+(attitude toward the behaviour) and assess their ability to comply with the request when
+confronted with a persuasive message asking for some contribution (perceived behavioural
+control), while also considering whether or not referent groups are important to the
+behaviour would approve or disapprove of the behaviour (subjective norms). However,
+individuals with varying preexisting beliefs about donating also have different levels of
+involvement with NPO messages.
+An integrated ELM-TPB model
+There has been debate on whether researchers working on persuasion theories should focus
+on just one process or combine multiple processes together (Petty et al., 1999). According to
+Ajzen (1991), efforts should be made to develop alternative models that could better describe
+the relations between beliefs and constructs. The TPB “is open to the inclusion of additional
+predictors if it can be shown that they capture a signiﬁcant proportion of the variance in
+intention or behaviour” after the variables within the theory are taken into account (Ajzen,
+1991, p. 199). Researchers have taken these words to heart and have developed various
+integrated models incorporating TPB and multiple theories.
+For example, one early study paired TPB and ELM with the transtheoretical change
+model that identiﬁes various degrees of motivation leading toward change (Prochaska and
+DiClemente, 1983) with results showing that attitude could predict the level of processing for
+messages related to exercise (Rosen, 2000). In another study, researchers integrated TPB
+with a model developed by the World Health Organisation on the international classiﬁcation
+of functioning disability and health (Bonetti and Johnston, 2008). Results showed
+signiﬁcance for the predictiveness of perceived behavioural control and self-efﬁcacy on
+intention and behaviour. TPB was also tested in conjunction with the spiral of silence theory
+to determine social inﬂuence, ﬁnding signiﬁcance for peer inﬂuence on opinion expression
+behaviour and marginal signiﬁcance for the perception of majority attitude particularly that
+of peers (Neuwirth and Frederick, 2004).
+In investigating the possibilities of incorporating TPB into a dual-process model of
+attitude-behaviour relationships, Conner and Armitage (1998) posited that attitude toward
+the behaviour may predict intention and behaviour when individuals are both motivated
+and have the opportunity (high perceived behavioural control). But when one or the other is
+low, attitude toward the behaviour may either diminish the probability of the behaviour
+even happening or may make the behaviour more spontaneous. Therefore, incorporating a
+dual-process model like ELM should provide a more comprehensive model for
+understanding the attitude-behaviour relationship (Conner and Armitage, 1998). They call
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+for more research to determine what processes inﬂuence the factors of TPB and what factors
+of TPB inﬂuence other processes.
+In an early effort to evaluate the combined effects of persuasive messages and
+behavioural intention, researchers found a signiﬁcant relationship between exposure to the
+message and self-reported self-examination for cancer on both behaviour and intention
+(Brubaker and Fowler, 1990). Afterwards, TPB and ELM were integrated to verify the effect
+of persuasive messages on beliefs, attitudes and intentions regarding nursing care (Valois
+et al., 2001), demonstrating that such messages could change beliefs and attitudes among
+nursing students who had to provide care for people living with HIV/AIDS. More recently,
+the two theories have been integrated using structural equation modelling to improve the
+predictive ability of behavioural intention in tourists (Meng and Choi, 2019) verifying
+the moderating role of involvement through ELM, as well as predicting the intention to use
+electronic word-of-mouth (Wang, 2015). A third study using SEM also found that
+elaboration predicted the components of TPB (Miller et al., 2019) with some components of
+TPB functioning as a mediator between elaboration and behavioural intention.
+Still, ELM and TPB have not been examined in tandem in an experimental design-based
+marketing study to explain effects on behavioural intention through exposure to advertising
+messages. At best, research has demonstrated that individuals approach a speciﬁc topic
+with pre-determined beliefs that, when combined with their innate message processing
+abilities, can affect change in behaviour. Research in this area has focussed on attitudes and
+beliefs in such topics as afﬁrmative action (White et al., 2008), organ donation (Bae, 2008;
+Reid and Wood, 2008), e-commerce (Lim and Dubinsky, 2005), exercise (Boer and Westhoff,
+2006; Jones et al., 2004; Maddock et al., 2008; Rosen, 2000), healthy eating (Chan and Tsang,
+2011) and transportation options (Beale and Bosnal, 2006; Stead et al., 2005).
+Investigating TPB with ELM contributes to the ﬁeld by testing the links between
+changes in attitude and changes in behaviour (Wilson, 2014). Likewise, the integration of
+TPB with ELM adds to our understanding of how antecedent individual factors, such as
+those expressed in TPB, inﬂuence responses to NPO ads, depending upon the level of
+involvement with the ad. Because ELM has demonstrated that individuals process
+messages through two routes (central and peripheral) related to involvement and because
+the reaction to a nonproﬁt ad are strongly affected by preexisting attitudes and processing
+motivation (Randle et al., 2016), it is believed:
+ the preexisting beliefs held by the individual, integrated with;
+ the type of persuasive message to which the viewer is exposed; and
+ the viewer’s message processing measured as one’s involvement with the
+advertisement, will shape behavioural intention.
+
+Preexisting
+beliefs
+
+215
+
+Taking this into account and following previous research that investigated the interactive
+effects of three variables on a dependent variable (Merlo and Augh, 2009), a model
+integrating TPB and ELM to predict intended donation behaviour is proposed (Figure 1).
+Hypothesis development
+Social normative messages
+Individuals may support NPOs for reasons including social norms, religious convictions and
+personal relevance (Kogut and Ritov, 2011; Ratner et al., 2011). Social norms can predict a
+positive relationship between donation size and the perceived average size of previous
+donations, with average donation per individual sensitive to whether or not others have
+given in the past (Martin and Randal, 2011). While some donation research has revealed that
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+216
+Figure 1.
+Integrated model
+depicting three-way
+interaction on
+donation behaviour
+
+perceptions of social norms do not correlate with how donors feel about the importance of
+their donor identity nor the NPO they support (Shang and Sargeant, 2016), others argue that
+social norms should be included in all models of predictive behaviour related to donations
+(Bennett and Vijaygopal, 2019). Previous research shows persuasive messages that contain
+information about others’ giving can inﬂuence an individual’s donations (Croson and Shang,
+2011; Shang and Croson, 2008), while similar messages indicating that others did, versus did
+not support the charitable organisations also positively inﬂuenced behavioural intention
+(Cao, 2018). In addition, the more similarities that exist between the potential donor and the
+previous donor to which the persuasive message is referring, the more impactful the
+information about the previous donor is to the potential donor (Shang et al., 2008).
+In research speciﬁcally examining the intention to donate, three types of social normative
+messaging – descriptive, injunctive and moral – have been evaluated to determine which
+would be most effective in predicting behavioural intention (Smith and McSweeney, 2007).
+Descriptive norms are what individuals believe is typically done in a given situation or what
+they think most people do, while injunctive norms are behaviours that individuals believe
+are approved by society or what people think they should do (Cialdini et al., 1990). Moral
+norms, however, are not related to social pressure, but instead are an individual’s internal
+rules for living and personal feelings of responsibility (Smith and McSweeney, 2007). In
+examining the effects of injunctive and descriptive norms, Smith and Louis (2008) informed
+participants that a proportion of the people approve of the behaviour (e.g. 73% for high
+approval and 29% for low approval) to test injunctive norms and used the same proportions
+to describe how many people participated in the behaviour (73% performance versus 29%
+performance) to test descriptive norms.
+While previous research (Slovic, 2007; Small et al., 2007) has found that providing
+statistics can inhibit giving because the statistics make potential donors consider the
+information analytically rather than emotionally – which has proven to be effective in
+motivating donors (Anik et al., 2011; Kogut and Ritov, 2011; Small, 2011) – the methodology
+used by Smith and Louis (2008) was based on the group-norm approach to social identity,
+where perceived norms of a group in which an individual identiﬁes himself or herself have a
+signiﬁcant effect on behavioural intentions. Therefore, if individuals have a positive attitude
+toward the behaviour, the relationship between attitude and behaviour will be strong if they
+perceive the behaviour is supported by the referent group and weak if they perceive the
+opposite.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+In addition, persuasion can produce changes in attitude that have a duration related to
+the amount of processing (i.e. involvement with the ad) extended by the individual (Cialdini
+et al., 1981). As a result, it is expected that the combination of preexisting attitudes and
+beliefs, integrated with involvement and the type of message, will have an effect on donation
+behaviour (i.e. donation intention and the donation amount). Therefore, there will be a threeway interaction between involvement with the advertisement, persuasive normative
+messages and each measure of TPB on donation behaviour. While evidence from previous
+research indicates injunctive and descriptive norms can have an effect on attitudes,
+intentions and behaviour (Albrecht et al., 2017; Manning, 2011; Warburton and Terry, 2000),
+the effect is also relative to the level of normative support (Shang and Croson, 2008, 2009;
+Smith and Louis, 2008). That is, the more support for the behaviour as communicated
+through the message, the greater the effect of the message, creating the three-way
+interaction. However, when normative messaging is in a low condition, it is expected one’s
+involvement with the ad will be the primary driver of intention, creating a main effect. Thus:
+
+Preexisting
+beliefs
+
+217
+
+H1a. The moderating effect of high normative messaging on the relationship between
+attitude toward the behaviour and donation intention will be greater at high (vs
+low) levels of involvement with the ad.
+H1b. The moderating effect of high normative messaging on the relationship between
+subjective norms and donation intention will be greater at high (vs low) levels of
+involvement with the ad.
+H1c. The moderating effect of high normative messaging on the relationship between
+perceived behavioural control and donation intention will be greater at high (vs low)
+levels of involvement with the ad.
+Social legitimisation messages
+Behavioural inﬂuence relies on strong normative behaviour to cause individuals to comply
+with a request. In the nonproﬁt industry, those tasked with fundraising may be better
+served by framing their solicitations as beneﬁcial for the community rather than themselves
+(Sargeant, 2014). To this end, a messaging technique that has been proven effective in
+charitable giving situations is social legitimisation (Chen et al., 2008; Shearman and Yoo,
+2007). This social legitimisation of the minimum (SLM) is also known as the “even a penny”
+technique (Cialdini and Schroeder, 1976). It argues the legitimisation of small favours
+increases the likelihood that one will comply with the request because individuals have an
+innate desire to take actions that make them look good and will not want to be perceived
+negatively (Dibble et al., 2011). When an individual is asked to perform some task and the
+request contains a phrase that indicates that others approve of making even a minimal
+effort, the total number of people responding favourably to the request increases compared
+to when the legitimisation of the minimum phrase is left out. In addition, when confronted
+with a small request, it is difﬁcult for individuals to develop and/or defend a reason not to
+comply (Dibble et al., 2011; Shearman and Yoo, 2007) making it difﬁcult for the individual to
+escape looking like an unhelpful person (Dibble et al., 2011).
+Individuals conforming to social norms are inﬂuenced by evidence of numerous small
+donations, which cause actual donations to increase in frequency but be smaller on average
+per donor compared to conditions where the total amount is the same but the number of
+donations is less (Martin and Randal, 2011). If an NPO were to ask two different pools of
+potential donors to make contributions, the number of individuals who donate would be
+higher if the donation message included some form of minimal giving request. However, the
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+218
+
+average donation amount per donor would be less than donations by individuals in the
+group that did not receive the message containing a request for a small gift (Cialdini and
+Schroeder, 1976). The challenge inherent within the strategy of simply making minimum
+requests is that while it leads to a higher percentage of compliant individuals, the outcome
+per individual is usually diminished from what it would be if such a minimum request was
+not made (Dibble et al., 2011; Reeves and Saucer, 1993; Shearman and Yoo, 2007).
+Because we know message processing through involvement affects behaviour, there
+should be a three-way interaction between involvement with an advertisement, social
+legitimisation messages and each measure of TPB on donation behaviour. Applying this to
+the previous predictions of an NPO asking for a donation, the group receiving the message
+containing SLM giving should have a higher percentage of individuals complying with the
+request than the group that does not receive such a message (Shearman and Yoo, 2007).
+Therefore, the three-way interaction should take place when social legitimisation messages
+are present. However, when such messages are absent, involvement with the ad is left as the
+driver of behaviour, thus producing a main effect based on the individual’s level of
+involvement. As a result, the following is proposed:
+H2a. The moderating effect of social legitimisation messaging on the relationship
+between attitude toward the behaviour and donation intention will be greater at
+high (vs low) levels of involvement with the ad.
+H2b. The moderating effect of social legitimisation messaging on the relationship
+between subjective norms and donation intention will be greater at high (vs low)
+levels of involvement with the ad.
+H2c. The moderating effect of social legitimisation messaging on the relationship
+between perceived behavioural control and donation intention will be greater at
+high (vs low) levels of involvement with the ad.
+Methodology
+After determining the format and message options based on the content analysis of 125
+existing NPO ads, a professional agency based in Texas named RD&F Advertising, a
+subsidiary of Ivie and Associates, developed different versions of a two-minute, broadcastquality advertisement to conduct a pre-test on each potential manipulation. This is important
+because a key step in developing effective messages is comparing the desired message with a
+no-message control or with alternative messages (Rucker and Petty, 2006). Because previous
+experience with a particular NPO may act as a covariate in this research (Kidwell and Jewell,
+2008), a ﬁctitious nonproﬁt named the Better Cities Coalition – whose “mission” is to make
+cities more livable by improving infrastructure through the development of better block
+designs, bike routes and pedestrian zones – was created to “make” the contribution requests.
+This type of NPO is not uncommon in the USA, where governments often turn to the private
+sector to address issues the government cannot. Examples include the Rails to Trails
+Conservancy, the Better Block Foundation, the National Complete Streets Coalition, the
+Central Park Conservancy and numerous other organisations that work with governments in
+public-private partnerships on infrastructure planning.
+In general, cause marketing ads that feature an emotional appeal are more persuasive
+(Moriuchi and Chung, 2018). Additionally, storytelling increases donations (Merchant et al.,
+2010) and the best story that can be told to a prospective donor is to use a single, identiﬁable
+victim to arouse sympathy (Small, 2011). This works because people are more apt to make
+attributions about individuals than groups (Kogut and Ritov, 2011). In addition, portraying
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+a victim expressing sadness (Shim and Key, 2018; Small and Verrochi, 2009) and prior to
+receiving support from the viewer (Genevsky and Knutson, 2015) is the most effective and
+can lead to more donations (Choi et al., 2016; Erlandsson et al., 2018) because the potential
+donor watching the portrayal empathises with the victim, making them more likely to
+respond (Small, 2011; Summers and Summers, 2017). This is enhanced by providing more
+information about the individual, such as his or her name and photographs (Kogut and
+Ritov, 2011). In addition, in research that leveraged eye-tracking and electroencephalogram
+biometrics, images in NPO ads attracted the most attention (Alonso Dos Santos et al., 2017),
+while it may not matter if a campaign uses positive or negative imagery (Chen et al., 2016).
+Finally, donation campaigns leveraging sad expressions of a victim have greater effects on
+donations than when happy expressions are used (Pham and Septianto, 2020), though it can
+be better to expose the victim’s helpless situation ﬁrst followed by a positive outcome later
+(Shim and Key, 2018). Therefore, ﬁnal versions of the advertisements focus on an affected
+individual named “Ricky” and show him in a highly emotive state and conclude by
+explaining the beneﬁts to all those who live in the city in which the viewer lives, as appeals
+showing positive emotional beneﬁts enhance donations (Moran and Bagchi, 2019).
+A total of eight different broadcast ads were created, four each for the social normative
+manipulations and the social legitimisation manipulations. To test the normative
+manipulations, this research adopted Smith and Louis’ (2008) conceptualisations of
+descriptive norms by indicating a percentage of participation rates (73% for high and 29%
+for low) and injunctive norms (using the same percentages) to describe approval of a
+behaviour. Social legitimisation messages were placed in the four other ads for the pre-test.
+They included the message “even a penny” in one ad because it has been used extensively in
+social legitimisation message manipulations (Andrews et al., 2008), the message “even a
+dollar” in another because it was used in the original SLM research, the “for less than a
+dollar a day” message that emerged from the content analysis as the most commonly used
+donation request phrase was placed in a third ad and a control ad that features no social
+legitimisation message in the fourth (see Appendix 1 for ad spot scripts).
+Data for the pre-test were collected via snowball sampling (Biernacki and Waldorf, 1981)
+in an online questionnaire distributed via email and social network sites. Because age has
+been shown to inﬂuence donations (O’Neil and Schenke, 2007; Peterson et al., 2018; Yen,
+2002), a screening question was asked to ensure participants were at least 21 years old. After
+eliminating respondents (n = 75) who either failed to complete the survey, did not follow
+directions or did not meet the age requirement, a ﬁnal sample size of 235 (75.8%) was
+evaluated with a mean age of 49.5 (SD = 16.28) that was 53.6% male.
+Manipulations for the injunctive norm advertisement were checked with items that read
+“Recalling the advertisement you saw, how would you rate the number of people who have
+donated to the Better Cities Coalition”? “Recalling the advertisement you saw, the amount of
+people who are supportive of donating to the Better Cities Coalition is high” and the reversecoded “Based on the advertisement I saw, I have no idea how supportive people are of the
+Better Cities Coalition”. The manipulations were analysed using a one-way ANOVA, ﬁnding
+a signiﬁcant difference [F(1, 80) = 5.168, p = 0.026] between high and low injunctive
+normative manipulations, but no signiﬁcance between high and low descriptive norms (p =
+0.740). Therefore, the ads depicting high and low injunctive normative messages were
+chosen as the manipulation for the ensuing ﬁrst study.
+For the SLM manipulation, manipulation check items included “Recalling the
+advertisement you saw, a minimal amount can be donated to the Better Cities Coalition”,
+“Recalling the advertisement you saw, it is OK to donate the bare minimum to the Better
+Cities Coalition” and the reverse-coded “Based on the advertisement you saw, making a
+
+Preexisting
+beliefs
+
+219
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+220
+
+minimal donation to the Better Cities Coalition is not acceptable”. Analysis also showed
+signiﬁcant differences [F(1,51) = 6.211, p = 0.016] between “even a penny” appeal and a
+control group that saw no message, as well as signiﬁcance [F(1,57), p = 0.020] between “even
+a dollar” and the control group. There was no signiﬁcance (p = 0.167) for the message “for
+less than a dollar a day”. That is, the phrase most often used in nonproﬁt advertising today
+to ask for donations has no signiﬁcant difference in raising money than an ad that features
+no request at all. Therefore, because the “even a penny” manipulation was signiﬁcant and
+because it has been used by research investigating SLM in the past (Andrews et al., 2008),
+the ads communicating that message, along with the control group ad that had no SLM
+message, were used in Study 2 of the present research. However, an opportunity exists to
+test the “even a dollar” message in the future. A summary of which advertisements were
+used based on the results of the pre-tests can be found in Table 1.
+Methods and measurement
+Based on the results of the pre-test, Study 1 experimentally manipulated injunctive norm
+messages, as well as measured each of the TPB variables and measured involvement with
+the ad in a 2 (ATB/SN/PBC: high vs low)  2 (injunctive norm: high vs low)  2
+(involvement: high vs low) between-subjects design. Because the ads were for an NPO
+involved with environmental issues, potential covariates attitude toward charitable
+organisations (Webb et al., 2000) and environmental concern (Weigel and Weigel, 1978) were
+measured ﬁrst to eliminate any potential confounds. Preexisting beliefs were measured next,
+with attitude toward the behaviour captured on an 11-item semantic differential scale, while
+social norms and perceived behavioural control were measured on four- and ﬁve-item scales,
+respectively (Fishbein and Ajzen, 2010). The injunctive norm manipulations leveraged in the
+pre-test (Smith and Louis, 2008) were then viewed by participants in the broadcast
+advertisement, followed by the two outcome variables – donation intention and donation
+amount. Donation intention was measured using a nine-item, seven-point semantic
+differential scale for behavioural intention (Fishbein and Ajzen, 2010), while donation
+amount was captured on a single-item scale that asked “If you were to make a donation to
+this nonproﬁt, how much would give”? This was followed by the measurement of
+involvement with an advertisement message via a six-item Likert-type scale (Cox and Cox,
+2001). The instrument concluded with manipulation checks and demographic measures (see
+Appendix 2 for scales used).
+The 39-item questionnaire was delivered online nationwide in the US on a one-time basis
+to participants via a US-based marketing research ﬁrm. Basic psychometric properties of the
+scales were examined using exploratory factor analysis and items with small loading or
+high cross-loading were removed (Appendix 3). This included one from the subjective norms
+
+Table 1.
+Results of pre-tests
+for ads used
+
+Ad number
+
+Message type
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+High injunctive social normative – “73% are supportive”
+Low injunctive social normative – “29% are supportive”
+High descriptive social normative – “73% have participated”
+Low descriptive social normative – “29% have participated”
+High social legitimisation – “Even a penny”
+High social legitimisation – “Even a dollar”
+High social legitimisation – “For less than a dollar a day”
+No social legitimisation – Control ad
+
+Status
+Used in Study 1
+Used in Study 1
+Not used
+Not used
+Used in Study 2
+Not used
+Not used
+Used in Study 2
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+scale and one from the perceived behavioural control scale. All scales were evaluated for
+reliability using Cronbach’s alpha, with each scale exceeding 0.70 minimums for reliability
+(Hair et al., 2009). For example, the three planned behaviour scales – attitude toward the
+behaviour (a = 0.948), subjective norms (a = 0.804), perceived behavioural control (a =
+0.813) – proved reliable, as did donation intention (a = 0.962) and involvement with the ad
+(a = 0.949). The covariate measures, attitude toward charitable organisations (a = 0.886)
+and environmental concern (a = 0.720) were also reliable.
+
+Preexisting
+beliefs
+
+221
+
+Results and analysis – Study 1
+A total of 329 individuals participated in Study 1, with the survey software randomly and
+evenly distributing participants between the manipulations. From the total, 274 complete
+responses (83.3%) were used in the ﬁnal analysis after removing invalid responses, with
+52.2% (n = 153) viewing the high injunctive norm message and age (M = 48.9, SD = 15.5)
+and gender (52.4% male) similar to the pre-test subjects. A one-way ANOVA was used to
+evaluate the same manipulation questions used in the pre-test, with results (p < 0.001)
+indicating it was successful. To test the hypotheses, each model was evaluated through
+slope analysis (Aiken and West, 1991; Hayes and Matthes, 2009) for a signiﬁcant three-way
+interaction between one of the TPB predictors, involvement with the advertisement (INVAD)
+and the message manipulation. In this way, the statistical model takes the form of a linear
+equation, which can be expressed as follows:
+Y = b0 þ b1X þ b2W þ b3Z þ b4XW þ b5XZ þ b6WZ þ b7XWZ þ e
+where XWZ represents the three-way interaction between the independent variables. By
+inserting the variables of interest for this study (Sun and Govind, 2017), the equations read:
+DI = b0 þ b1ATB þ b2 INVAD þ b3MANIP þ b4ATB* INVAD þ b5ATB*MANIP
+þ b6INVAD * MANIP þ b7ATB * INVAD * MANIP þ e
+
+(1)
+
+DI = b0 þ b1SN þ b2INVAD þ b3MANIP þ b4SN*INVAD þ b5SN*MANIP
+þ b6INVAD * MANIP þ b7SN * INVAD * MANIP þ e
+
+(2)
+
+DI = b0 þ b1PBC þ b2INVAD þ b3MANIP þ b4PBC * INVAD þ b5PBC * MANIP
+þ b6INVAD * MANIP þ b7PBC * INVAD * MANIP þ e
+
+(3)
+
+where DI denotes donation intention, INVAD denotes involvement with the advertisement,
+MANIP is the manipulation, ATB is the attitude toward the behaviour, SN denotes subjective
+norms and PBC is perceived behavioural control. Additional equations were analysed using
+donation amount (DAmt) replacing donation intention as the dependent variable while
+maintaining all independent variables from equations (1)–(3). Analysis was conducted using
+the PROCESS macro for probing interactions in OLS and logistic regression (Hayes, 2012).
+This was leveraged because the independent variables were a combination of continuous
+(TPB and involvement) and categorical (message type). Testing a moderation hypothesis
+involving continuous variables or between a continuous and a dichotomous variable, using
+linear regression analysis “allows the effect of X on Y to vary linearly with the moderator”
+(Hayes and Montoya, 2017, p. 2). Results of this analysis can be found in Table 2.
+Attitude toward the behaviour proved to be the best predictor of all the independent
+variables, being involved in signiﬁcant three-way interactions with the advertisement type
+and INVAD for both donation intention (R2 = 0.514, F(1,273) = 22.97, t = 2.39, p = 0.017)
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+222
+
+B
+
+SE
+
+R2
+
+F
+
+t-value
+
+p-value
+(Interaction)
+
+DV: Donation intention
+IV: ATB
+INVad
+MANIP
+
+0.189
+
+0.079
+
+0.514
+
+22.967
+
+2.394
+
+0.017*
+
+2
+
+DV: Donation Amount
+IV: ATB
+INVad
+MANIP
+
+7.342
+
+3.790
+
+0.187
+
+4.993
+
+1.937
+
+0.043*
+
+4
+
+DV: Donation Intention
+IV: SN
+INVad
+MANIP
+
+0.122
+
+0.074
+
+0.512
+
+22.773
+
+1.640
+
+0.102
+
+5
+
+DV: Donation Amount
+IV: SN
+INVad
+MANIP
+DV: Donation Intention
+IV: PBC
+INVad
+MANIP
+DV: Donation Amount
+IV: PBC
+INVad
+MANIP
+
+4.585
+
+3.570
+
+0.182
+
+4.843
+
+1.284
+
+0.200
+
+0.040
+
+0.109
+
+0.513
+
+22.907
+
+0.364
+
+0.716
+
+4.387
+
+5.219
+
+0.188
+
+5.042
+
+0.841
+
+0.401
+
+Model
+
+Dependent variable
+
+1
+
+7
+
+8
+
+Table 2.
+Three-way
+interaction results –
+Study 1
+
+Notes: ***p < 0.001; **p < 0.01; *p < 0.05
+
+and donation amount (R2 = 0.187, F(1,273) = 4.99, t = 1.84, p = 0.043). These results
+provide initial support for H1a. Because neither subjective norms nor perceived behavioural
+control were signiﬁcant as part of a three-way interaction with the advertisement type and
+involvement, H1b and H1c are not supported and neither was analysed going forward.
+Likewise, neither attitude toward charities nor environmental concern were signiﬁcant
+covariates and were not part of the remaining analysis.
+To further test the hypotheses, the two models showing signiﬁcant three-way
+interactions were analysed using the PROCESS macro to check for signiﬁcant two-way
+interactions between attitude toward the behaviour and INVAD for those who saw the high
+injunctive norm message versus those who saw the low injunctive norm message. This
+analysis evaluates lower-level conﬁdence intervals (LLCI) and upper-level conﬁdence
+intervals (ULCI) at one standard deviation less than and one standard deviation more than,
+the mean. Signiﬁcance is demonstrated if the conﬁdence intervals do not cross zero (Hayes,
+2012). Statistical equations (Hayes and Matthes, 2009) for analysis in this research are:
+DI ¼ b0 þ b1 ATB þ b2 INVAD þ b3 ATB  INVAD þ e
+DAmt ¼ b0 þ b1 ATB þ b2 INVAD þ b3 ATB  INVAD þ e
+
+(4)
+(5)
+
+Results indicate that type of injunctive norm message had a signiﬁcant effect on
+the interaction of attitude toward the behaviour and INVAD for both donation intention
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+(t = 3.488; p < 0.001; LLCI = 0.1751, ULCI = 0.6039) and donation amount (t = 2.240; p =
+0.027; LLCI = 0.1369, ULCI = 24.5958) when individuals viewed the high injunctive norm
+message, but not when they viewed the low injunctive norm message (p > 0.05). That is,
+individuals high in attitude toward the behaviour had a greater response to the high
+injunctive norm messages than those who are low when their involvement with the ad is
+high rather than when their involvement is low (Figure 2). Results were similar for the model
+with donation amount as the dependent variable when comparing high versus low INVAD
+(Figure 3), thus H1a is supported (Table 3). In addition, the main effect was found for
+involvement in the low injunctive condition for donation intention [F (5,125) = 19.707, t =
+1.257 p < 0.106].
+In sum, these results help demonstrate that injunctive norm messages may signiﬁcantly
+affect the intended donation behaviour of individuals who are pre-disposed to donating, but
+only if they are highly involved with the advertisement. When not involved, donations
+decrease when messages indicate others support the cause. This lack of involvement may be
+a case of learned helplessness, cognitive exhaustion or simply donor fatigue – all of which
+could be the result of the growth of the nonproﬁt sector and the accompanying marketing.
+The purpose of Study 2, then, is to determine if involvement with the ad has similar effects
+when the messages change from one of normative injunction to one of social legitimisation.
+
+Preexisting
+beliefs
+
+223
+
+Results and analysis – Study 2
+Study 2 followed a similar procedure as Study 1 except that a social legitimisation of
+minimal giving message was manipulated instead of the injunctive norm message, with one
+group seeing the “even a penny” message and the other group seeing no such message. The
+experiment was another 2 (ATB/SN/PBC: high vs low)  2 (social legitimisation: present vs
+absent)  2 (involvement: high vs low) between-subjects design. In total, 302 respondents
+participated in Study 2 using the same instrument from Study 1 and collecting data online
+via a nationwide research ﬁrm that randomly and evenly distributed participants into
+the two message manipulations. After removing invalid or incomplete responses, a ﬁnal
+sample of 270 individuals (89.4%) was used in the analysis, of which 51.1% (n = 139) saw
+the “even a penny” manipulation and were of age (M = 44.8, SD = 15.39) and gender (47.8%
+
+Figure 2.
+Interaction of ATB
+and INVad for high
+IN message on
+donation intention
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+224
+
+Figure 3.
+Interaction of ATB
+and INVad for high
+IN message on the
+donation amount
+
+male) similar to the subjects from the pre-test and Study 1. A one-way ANOVA evaluated
+the manipulation, with results (p < 0.001) indicating it was successful.
+As was done in Study 1, each model was evaluated using the PROCESS macro for a
+signiﬁcant three-way interaction between one of the TPB predictors, involvement with the
+advertisement (INVAD) and the message manipulation through regression analysis. Of the
+models analysed to test the hypotheses, two had signiﬁcant three-way interactions:
+subjective norms with INVAD and advertisement type on donation intention (R2 = 0.514, F
+(9,260) = 71.477, t = 2.166, p = 0.031) and perceived behavioural control on donation
+intention (R2 = 0.187, F (9,260) = 71.477, t = 2.166. p = 0.007). Unlike Study 1, attitude toward
+the behaviour was not a good predictor for behavioural intention, thus H2a is not supported.
+However, these results provide initial support for H2b and H2c (Table 4). Again, neither
+covariate was signiﬁcant, and therefore was not part of the remaining analysis.
+The data were again analysed using the PROCESS macro for signiﬁcant two-way
+interactions between the signiﬁcant TPB predictors (subjective norms and perceived
+behavioural control) and INVAD. Interestingly, results from the model featuring the interaction
+of social legitimisation messages and INVAD were the opposite of what was predicted. That is,
+
+Dependent variable
+DV: Donation intention
+IV: ATB
+INVad
+ATB* INVad
+DV: Donation amount
+IV: ATB
+Table 3.
+INVad
+Interaction results by
+ATB* INVad
+
+injunctive norm
+message – Study 1
+
+Group
+(1= High IN;
+2 = Low IN)
+
+n
+
+B
+
+SE
+
+R2
+
+F
+
+t-value
+
+p-value
+(interaction)
+
+1
+2
+
+143
+131
+
+0.190
+0.040
+
+0.054
+0.052
+
+0.572
+0.441
+
+46.007
+19.707
+
+3.488
+0.764
+
+0.001**
+0.447
+
+1
+2
+
+143
+131
+
+7.191
+0.114
+
+3.211
+1.921
+
+0.200
+0.100
+
+11.523
+4.704
+
+2.240
+0.060
+
+0.027*
+0.953
+
+Notes: ***p < 0.001; **p < 0.01; *p < 0.05
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Model
+
+Variables
+
+B
+
+SE
+
+R
+
+F
+
+t-value
+
+p-value
+(Interaction)
+
+1
+
+DV: Donation intention
+IV: ATB
+INVad
+MANIP
+DV: Donation amount
+IV: ATB
+INVad
+MANIP
+DV: Donation intention
+IV: SN
+INVad
+MANIP
+DV: Donation amount
+IV: SN
+INVad
+MANIP
+DV: Donation intention
+IV: PBC
+INVad
+MANIP
+DV: Donation amount
+IV: PBC
+INVad
+MANIP
+
+0.074
+
+0.054
+
+0.684
+
+62.578
+
+1.357
+
+0.176
+
+2.364
+
+9.378
+
+0.079
+
+0.252
+
+0.074
+
+0.801
+
+0.092
+
+0.042
+
+0.712
+
+71.477
+
+2.166
+
+0.031*
+
+7.570
+
+7.570
+
+0.0862
+
+2.437
+
+1.000
+
+0.318
+
+0.169
+
+0.062
+
+0.687
+
+63.345
+
+2.726
+
+0.007**
+
+10.755
+
+10.646
+
+0.076
+
+2.371
+
+1.010
+
+0.313
+
+2
+
+4
+
+5
+
+7
+
+8
+
+2
+
+Notes: ***p < 0.001; **p < 0.01; *p < 0.05
+
+Preexisting
+beliefs
+
+225
+
+Table 4.
+Three-way
+interaction results –
+Study 2
+
+individuals high in subjective norms responded signiﬁcantly different (t = 2.764; p = 0.007;
+LLCI = 0.2066, ULCI = 0.6377) from the low subjective norm individuals for donation
+intention when social legitimisation was absent and INVAD was high rather than when social
+legitimisation was present and INVAD was high (Figure 4), thus H2b is not supported.
+
+Figure 4.
+Interaction of SN and
+INVad for a message
+without SLM on
+donation intention
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+226
+
+In addition, main effects were found for the condition where SLM was present [F (4,133) =
+67.060, t = 3.757, p < 0.000], rather than absent, the opposite of what was predicted.
+Similar results were found for the model with perceived behavioural control as the
+independent variable in that respondents acted in an opposite fashion to what was expected.
+Signiﬁcant differences (t = 2.111; p = 0.037; LLCI = 0.0084, ULCI = 0.4797) for donation
+amount were found under the condition when social legitimisation was absent for high
+INVAD, but not when social legitimisation was present, therefore the opposite of what was
+predicted (Figure 5). Main effects were observed when social legitimisation was present
+[F (5,132) = 47.414, t = 3.467, p < 0.001] but not when it was absent (p > 0.05). These results
+can be found in Table 5.
+The results of Study 2 seem to indicate that the SLM message is an effective tool in
+nonproﬁt advertisements only when viewed by individuals who believe they do not have the
+ability to take action. In both instances where perceived behavioural control was part of a
+signiﬁcant three-way interaction with INVAD and the type of ad, only when individuals who
+were low in PBC saw the social legitimisation message did they express a greater
+behavioural intention than their high PBC counterparts.
+It is possible the absence of messages boosting self-efﬁcacy forces individuals to make
+decisions based solely on their interest in the ad. Those who were involved were more likely
+to donate when there was no social legitimisation message than when there was. This would
+seem to indicate that messages justifying minimum giving have a suppressing effect on
+those who believe they have the ability to give. However, the opposite is true when
+involvement is low, where the SLM message enhances donations.
+General conclusions
+The research found that one’s involvement with the advertisement combines with one’s
+attitude toward donating (i.e. ATB) to help determine propensity to donate and the amount
+of the donation. However, this is dependent upon the message in the ad. When messages
+indicate that others are supportive of the cause, donations increase when one is more
+involved with the ad and is generally agreeable to donating. But these messages have the
+opposite effect when one is not involved with the ad – donations decrease when the message
+indicates others support the cause. And when messages indicate that even a minimal
+
+Figure 5.
+Interaction of PBC
+and INVad for a
+message without
+SLM on donation
+intention
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Dependent variable
+DV: Donation intention
+IV: SN
+INVad
+SN* INVad
+DV: Donation intention
+IV: PBC
+INVad
+PBC* INVad
+
+Group
+(1= SLM present;
+2= SLM absent)
+
+n
+
+B
+
+SE
+
+R2
+
+F
+
+p-value
+t-value (Interaction)
+
+1
+2
+
+138 0.009 0.032 0.669 67.060 0.281
+132
+0.089 0.032 0.681 53.894
+2.764
+
+0.779
+0.007**
+
+1
+2
+
+138 0.081 0.053 0.642 47.414 1.530
+132
+0.081 0.039 0.664 49.770
+2.111
+
+0.129
+0.037*
+
+Preexisting
+beliefs
+
+227
+
+Notes: ***p < 0.001; **p < 0.01; *p < 0.05
+
+Table 5.
+Interaction results by
+social legitimisation
+message – Study 2
+
+donation is possible, the attitude driver has no effect on intended donation behaviour. This
+is consistent with previous ﬁndings because peripheral cues are typically more persuasive
+than rational arguments for individuals who have low involvement with the ad (AmichaiHamburger et al., 2003).
+For individuals who tend to rely on referents for their own actions (i.e. SN), differing
+messages in advertisements have little effect whether they are involved with the ad or not.
+That is, in most cases, only their involvement with the ad seems to be the real indicator of
+behaviour. That said, the message that indicates that minimum giving is acceptable (i.e.
+SLM) seems to affect donations, as individuals more prone to seek referent input rely on this
+message to help direct behaviour. But, the cues were more readily adopted by those who
+were not highly involved. These results are similar to studies (Dibble et al., 2011; Takada
+and Levine, 2007) that showed when it came to volunteerism, there were no differences
+between behavioural intention whether simply asking for help or couching it by requesting
+that an individual perform the bare minimum.
+Finally, whether one believes they have the ability to donate (i.e. PBC) can be affected by
+SLM messages indicating minimal gifts are acceptable. Therefore, individuals who do not
+believe they can make a gift are more persuaded by messages that make it possible for small
+donations. When such messages do not exist, however, individuals are likely to donate only
+when they are highly involved with the ad. That is, the absence of messages boosting selfefﬁcacy forces individuals to make decisions based solely on their interest in the ad. Those
+who were involved were more likely to donate when there was no SLM message than when
+there was. This would seem to indicate that messages justifying minimum giving have a
+dampening effect on those who believe they have the ability to give. However, the opposite
+is true when involvement is low, where the SLM message increases donations. This may
+simply be a case of individuals considering a simple way to participate when they do not
+believe they can do much to help. Because they do not have self-efﬁcacy for the task,
+messages that demonstrate the ease of participation increase their intention to do so.
+Theoretical contributions
+This research makes theoretical contributions to three areas:
+(1) nonproﬁt advertising;
+(2) information processing; and
+(3) behavioural intention.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+228
+
+It does so by integrating message framing, attitudes and beliefs, injunctive norms, selfregulation and advertising response literature to examine the effects of normative and
+legitimisation messages on individual responses to advertisements. For example, the
+present investigation contributes to our understanding of the linkage between participation
+and donations to nonproﬁts by investigating how injunctive norm messaging that
+references other supportive participants relate to intended donations (Kim et al., 2021). In
+addition, the current study responds to the call by Lay et al. (2020) for more research that
+investigates how messaging that uses injunctive norms shape donation responses.
+Similarly, Bradford (2021, p. 415) suggests that:
+Given the deﬁcits faced by most nonproﬁts, it may be worthwhile to examine which types of
+reframing are most helpful. For example, the researchers could examine how opportunities for
+donation might be reframed and what types of resources are most useful for nonproﬁts and
+individuals in conducting such reframing.
+
+This research did so by manipulating messages in broadcast quality nonproﬁt
+advertisements.
+The present research also contributes by responding to calls for further investigations
+into how marketing messages can be developed that advance the welfare of society
+through charitable donations (Zhang et al., 2021). In addition to simply demonstrating
+message effectiveness, this research helped clarify how key variables comingle to affect
+message processing to deepen our understanding of intended donation behaviour. It also
+sheds light on the current understanding of the central and peripheral routes of the ELM
+by focussing on the preexisting characteristics of information recipients through TPB.
+The goal was to learn how preexisting attitudes and beliefs toward donating interact
+with an individual’s involvement with a nonproﬁt advertisement and what effects the
+interplay between these constructs has on intent to donate. Integrating two theories, as
+was done here, can provide better answers to such research questions (Mayer and
+Sparrowe, 2013).
+In making these contributions, this research addresses the request from Chang and Lee
+(2010) for theoretical advancement through studies that combine prosocial causes, media
+presentation and giving opportunities to explain how individuals behave differently based
+on level of involvement. It also responds to the call from Dann et al. (2007) to expand the
+research in philanthropy, gift-giving and fundraising and answered the challenge from Grau
+and Folse (2007) to explore factors such as consumer traits and campaign structural
+elements that may impact consumer involvement in nonproﬁt marketing campaigns and
+affect the process mechanisms responsible for behaviour. Likewise, the research responds
+to the suggestion by Tangari et al. (2010) that researchers should examine the effects
+of ad processing and message framing on self-regulation, where consumers use internal
+and external cues to affect behaviour in situations where they consider social norms
+(Bandura, 1986, 1991). This was done by leveraging the predictive constructs of TPB related
+to attitude and subjective norms that constitute internal cues, while the advertising message
+functions as the external cue. The research responds to Dunn et al.’s (2020) suggestion that
+research should seek to identify preexisting beliefs that may play an important role in
+responding to donation opportunities by examining the TPB constructs in a message
+framing context.
+Further, the research joins the recent contributions of Rifkin et al. (2021), who have
+investigated how small donations can be encouraged by testing messages characterised by
+the social legitimisation of minimum giving. Further, by testing messages characterised by
+the social legitimisation of minimum giving, the research extends our understanding and
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+generalisability of such messages. Speciﬁcally, Dibble et al. (2011) and Shanahan et al. (2012)
+asked for research that could help improve the generalisability of social legitimisation
+messages by:
+ using continuous dependent variables, which this research does for donation
+intention,
+ improving the explanatory power of social legitimisation messages by increasing
+the sample size from previous research where N = 63 (Takada and Levine, 2007) and
+N = 145 (Dibble et al., 2011), which was accomplished in this research where N =
+270 for Study 2.
+
+Preexisting
+beliefs
+
+229
+
+In answering these calls for more research, the results extend the ELM-TPB integrated
+model. Firstly, the research shows that ELM has varying utilities and values from TPB
+in different contexts. While involvement with the advertisement, a construct of ELM,
+has more explanatory power in most cases, when considered holistically, the
+explanatory power varies for one person versus another. For example, SLM messages
+indicating that minimum giving is acceptable seem to affect donations from individuals
+who are more likely to look to their referents to help direct their behaviour. But, these
+SLM cues were more readily adopted by those who were not highly involved with the
+advertisement rather than those who were. Similarly, individuals who do not think they
+have the ability to make a donation (i.e. low self-efﬁcacy) showed an increase in
+donations when they saw the SLM message and had low ad involvement. These results
+help answer the request from Xu and Huang (2020) for research on potential moderators
+of framing effects in nonproﬁt advertising. Still, in general, involvement with the ad
+was the key to increasing donations more so than preexisting attitudes and beliefs. In
+reaching this conclusion, the research responds to the suggestion by Tao et al. (2021) to
+develop a better understanding of how varying levels of involvement affect information
+processing to create more effective donation messaging strategies.
+Finally, another goal of this research was to test TPB in an online advertising
+environment within the context of nonproﬁt donation. In that regard, the theory performed
+quite well. Not only did both measured dependent variables – donation intention and
+donation amount – show some level of signiﬁcance across four different massage
+treatments, but all three predictors were signiﬁcant at least once. Thus, TPB performed well
+in terms of generalisability and showed that the decision to support a nonproﬁt organisation
+is an individual choice under the guidance of attitudes, perceived norms and self-efﬁcacy.
+This helps refute calls (Sniehotta et al., 2014) to retire the TPB by demonstrating that it is
+still an efﬁcient tool with explanatory power and supports the meta-analysis by Steinmetz
+et al. (2016) that shows signiﬁcant effects for TPB-based interventions.
+Still, more research is always needed describing how involvement can be used by
+practitioners to make strategic marketing decisions. One such study did ﬁnd involvement
+differences accounted for advertisement effectiveness based on donation proximity and
+message framing (Grau and Folse, 2007). However, involvement was conceptualised in
+terms of involvement with the cause rather than involvement with the ad, as was the case in
+this research. Still, strategically targeting audiences based on involvement may lead to
+better fundraising results. Therefore, what nonproﬁt marketing managers need is the ability
+to identify the causal antecedents, such as the ones used in this research (attitude toward the
+behaviour, social norms, perceived behavioural control) and behavioural outcomes (donation
+intention) to have a better understanding of what audiences to target and what messages to
+deliver to increase the propensity of affecting their behaviour in a way that is positive to the
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+organisation. The following managerial implications attempt to provide guidance to
+practitioners interested in leveraging persuasive communications in three ways:
+(1) identifying their audiences;
+(2) developing marketing strategies; and
+(3) implementing and executing appropriate tactics.
+
+230
+Managerial implications
+The results offer nonproﬁt marketing managers and boards of directors additional insight
+into various donor groups and how best to increase donations. Based on the results and
+previous discussion, the following strategies are recommended. Firstly, those who pay
+attention to the ad and have a positive attitude toward charitable giving are going to donate
+if they are told that others support the cause. Therefore, special focus should be on those
+who are not involved with the ad but still believe giving to NPOs is appropriate behaviour.
+Increasing involvement may turn them from non-donor to donor when accompanied by
+messages of community support.
+Secondly, to increase involvement, marketing managers should focus on execution cues
+that can motivate audiences to attend to and process, the information in the advertisement
+(Grau and Folse, 2007). Surprise can help engage individuals with a nonproﬁt (Cockrill and
+Parsonage, 2016). However, nonproﬁt marketing managers must also guard against making
+audiences too uncomfortable, thus risking negative emotional response and leading to
+antithetical behaviour (Garg and Lerner, 2013; Shanahan et al., 2012). Involvement may also
+increase through repeated campaign messages and the use of positive, rather than negative,
+message framing (Grau and Folse, 2007). The key is to make people interested in the
+advertisement by keeping them off balance, within the appropriateness of the cause. Putting
+people on edge through the unusual and unexpected gets attention and ultimately, increases
+audience involvement. Ads by the anti-smoking campaign TheTruth.com may be a good
+example of a way to accomplish this and have been proven to be a signiﬁcant factor in
+declining numbers of smokers (Farrelly et al., 2005). In any situation, marketing managers
+must be aware that taking a risk with marketing efforts means they are using funds from
+previous donors to raise money through edgy advertising (West and Sargeant, 2004) and
+those donors may question the use of their contributions in the face of perceived
+uncomfortable communications.
+Thirdly, when it comes to individuals who look to others for behavioural cues, messages
+that make minimal participation acceptable have the effect of increasing donations, but only
+for those who are not involved in the advertisement. Therefore, NPOs should consider the
+likelihood of their audience being involved in the ad when using this type of message
+because a social legitimisation message will have a suppressing effect on individuals who
+are engaged. Public service announcements are often scheduled by broadcasters at times of
+low viewership, such as after midnight or early Sunday morning, when those who are
+viewing may not be terribly involved in the advertisement. It is at this time that minimal
+giving messages might have a positive effect on donations. However, messages indicating
+minimal effort might not be advisable, as research has found that the number of work NPOs
+requires of the consumer is positively related to greater behavioural orientation (Garretson
+and Landreth, 2005). Late-night television viewing is also more common among younger
+audiences and, therefore may offer another justiﬁcation for using minimum giving
+messages. The United Way has attempted this with ads that contain messages “Donate $1”
+and “Text ‘ﬁt’ to give $5”. It may be fruitful for future research to investigate the differences
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+between the effects of messages communicating minimal giving versus those
+communicating minimal effort and to determine if the combination of the two impacts
+donations.
+Finally, this research indicates those who believe they are not able to contribute are more
+likely to give when they encounter a message that says the minimum effort is socially acceptable.
+This is true whether they are involved with the ad or not. But when it comes to those who believe
+they can contribute, such a message generates varying reactions. It suppresses giving among
+those paying attention to the ad and enhances giving from those not paying attention. Therefore,
+marketing managers must be careful about asking regular donors to make minimal gift requests,
+but should instead save such messages for donor prospects. Because of the growing need for
+domestic audiences to provide ﬁnancial assistance to international issues (Moriuchi and Chung,
+2018), NPOs that ask potential donors in one country to help individuals in another may consider
+incorporating this strategy.
+
+Preexisting
+beliefs
+
+231
+
+Limitations and future research
+As with all research, there are limitations to what the results of these studies are able to explain.
+For example, while some research has shown that consumers are more likely to donate to an
+individual (Kogut and Ritov, 2011; Small, 2011; Small et al., 2007), other results counter the
+identiﬁable victim effect, particularly when the NPO is physically removed from the donor (EinGar and Levontin, 2013). Therefore, the ads in this research could be construed by respondents as
+either the identiﬁable victim or the physiologically distant NPO because the organisation was
+ﬁctitious. Future research could determine the situational inﬂuences of nonproﬁt advertisements
+featuring an identiﬁed victim. Alternative message framing can also be leveraged to address the
+limitation of viewers interpreting the ad through the lens of either the identiﬁable victim or the
+physiologically distant NPO. Speciﬁcally, whether the message is framed as promoting altruism
+through helping others or making oneself feel better through satisfaction has been shown to
+affect donation behaviour (Nelson et al., 2006). In addition, the strength of the storytelling has an
+effect on the viewer’s perception of the narrative in the advertisement being of a victim or a
+distant NPO (Chang and Lee, 2010). Future research could examine the congruency of the
+narrative with the types of messages used in this research – injunctive norms and social
+legitimisation – because it may increase ad effectiveness, particularly when the story is
+framed negatively (e.g. “Ricky has a problem”) and has potentially negative outcomes for the
+protagonist (Smith and Shaffer, 2000).
+Other variables that may have affected the results of these studies and are, therefore,
+potential limitations, include temporal inﬂuences such as time of year, environmental
+variables such as natural disasters and any associated relief efforts and similar campaigns
+that might increase awareness of the issue and affect toward donating. For example, the
+tsunami in the Indian Ocean and Hurricane Katrina took place within eight months of one
+another in 2004–2005 and could have affected donations at that time because of increased
+awareness of the devastation caused by such natural disasters. In addition, making
+donations at the end of a calendar year is a “well-established tool” in tax planning (Gill, 2020,
+p. 34), though data were collected for these studies in the third quarter.
+Because involvement was the driver in the integrated ELM-TPB model used in this
+research, it would be valuable to identify the boundary conditions in which involvement is
+no longer the primary inﬂuence in the individual’s behavioural intention. Involvement with
+the advertisement is just one measure of involvement, however. It would also be beneﬁcial to
+examine the ELM-TPB model measuring involvement with the cause, conceptualised as the
+degree to which individuals ﬁnd the cause to be personally relevant (Grau and Folse, 2007),
+as a potential moderating variable. In addition, the advertisements featured organisation-
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+232
+
+related information, which communicate characteristics of the NPO and the cause it
+supports and which previous research found has a greater effect on donation amount
+decisions than behavioural decisions (Fajardo et al., 2018). Therefore, injunctive norm and
+SLM messages should be tested in donor-related informational ads, communicating intrinsic
+characteristics of the donor and his or her self-perception, as well.
+Also, beliefs and attitudes may function with additional predictor variables to determine
+behavioural intention. For example, O’Cass and Grifﬁn (2006) have suggested that
+believability of an advertisement in conjunction with attitude/beliefs could be an important
+relationship in cause marketing because marketers are attempting to change attitudes as a
+means of inﬂuencing social behaviours. Concepts from symbolic consumption theory may
+also be at play and should be investigated. While mostly used in research investigating
+volunteer behaviour (Mitchell and Clark, 2020; Wymer and Samu, 2002), the four functions of
+symbolic consumption – emblematic, role acquisition, connectedness and expressiveness –
+may be factors in responding to a donation request in response to an advertising stimulus.
+There appears to be a need to investigate the concept of social legitimisation messages as well.
+Because this study and other efforts (Dibble et al., 2011; Goswami and Urminsky, 2016;
+Takada and Levine, 2007), have failed to show any effects for SLM messages, the call here is to
+further examine why these types of messages appear to fail in motivating respondents into
+intentions that indicate behaviour.
+Research has found demographic variables such as income (Jones and Posnett, 1991), education
+(Mears, 1992), age (Peterson et al., 2018) and gender (Nichols, 1998) are strong predictors of donation
+levels. Therefore, it is possible that demographic variables may serve as moderators similar to how
+involvement is in this study. That is, if age should be considered when understanding individual
+responses to persuasive messages as previous research has indicated, what other variables might
+moderate this integrated theory? Perhaps, gender, religion, education and household income should
+be closely considered as moderators in an ELM-TPB framework, with one or more potentially
+showing much more explanatory power than others.
+References
+Aiken, L.S. and West, S.G. (1991), Multiple Regression: Testing and Interpreting Interactions, Sage,
+Newbury Park, CA.
+Ajzen, I. (1991), “The theory of planned behaviour”, Organizational Behavior and Human Decision
+Processes, Vol. 50 No. 2, pp. 179-211.
+Albrecht, A., Walsh, G., Brach, S., Gremler, D. and Herpen, E. (2017), “The inﬂuence of service
+employees and other customers on customer unfriendliness: a social norms perspective”, Journal
+of the Academy of Marketing Science, Vol. 45 No. 6, pp. 827-847.
+Alonso Dos Santos, M., Lobos, C., Munoz, N., Romero, D., Gremler, D. and Sanhueza, R. (2017), “The
+inﬂuence of image valence on the attention paid to charity advertising”, Journal of Nonproﬁt and
+Public Sector Marketing, Vol. 29 No. 3, pp. 346-363.
+Amichai-Hamburger, Y., Mukulincer, M. and Zalts, N. (2003), “The effects of learned helplessness on
+the processing of a persuasive message”, Current Psychology, Vol. 22 No. 1, pp. 37-46.
+Andrews, K.R., Carpenter, C.J., Shaw, A.S. and Boster, F.J. (2008), “The legitimization of paltry favors
+effect: a review and meta-analysis”, Communication Reports, Vol. 21 No. 2, pp. 59-69.
+Anik, L., Aknin, L.B., Norton, M.I. and Dunn, E.W. (2011), “Feeling good about giving: the beneﬁts (and
+costs) of self-interested charitable behaviour”, in Oppenheimer, D.M. and Olivola, C.Y. (Eds), The
+Science of Giving: Experimental Approaches to the Study of Charity, Taylor and Francis Group,
+New York, NY, pp. 3-13.
+Armitage, C.J. and Conner, M. (2001), “Efﬁcacy of the theory of planned behaviour: a meta-analytic
+review”, British Journal of Social Psychology, Vol. 40 No. 4, pp. 471-499.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Armitage, C.J. and Christian, J. (2004), Planned Behaviour: The Relationship between Human Thought
+and Action, Transaction Publishers, New Brunswick, NJ.
+Bae, H.S. (2008), “Entertainment-education and recruitment of cornea donors: the role of emotion and
+issue involvement”, Journal of Health Communication, Vol. 13 No. 1, pp. 20-36.
+Bagozzi, R.P. and Kimmel, S.K. (1995), “A comparison of leading theories for the prediction of goaldirected behaviours”, British Journal of Social Psychology, Vol. 34 No. 4, pp. 437-461.
+Bandura, A. (1986), “Social foundations of thought and action”, in Marks, D. (Ed.), Health Psychology
+Reader, Sage, London, pp. 94-106.
+Bandura, A. (1991), “Social cognitive theory of self-regulation”, Organizational Behavior and Human
+Decision Processes, Vol. 50 No. 2, pp. 248-287.
+Barden, J. and Petty, R.E. (2008), “The mere perception of elaboration creates attitude certainty:
+exploring the thoughtfulness heuristic”, Journal of Personality and Social Psychology, Vol. 95
+No. 3, pp. 489-509.
+Beale, J.R. and Bosnal, P.W. (2006), “Marketing in the bus industry: a psychological interpretation of
+some attitudinal and behavioural outcomes”, Transportation Research Part F: Trafﬁc
+Psychology and Behaviour, Vol. 10 No. 4, pp. 271-287.
+Bendapudi, N., Singh, S.N. and Bendapudi, V. (1996), “Enhancing helping behaviour: an integrative
+framework for promotion planning”, Journal of Marketing, Vol. 60 No. 3, pp. 33-49.
+Bennett, R. and Vijaygopal, R. (2019), “Towards a model of donor behaviour”, Social Business, Vol. 9
+No. 3, pp. 249-272.
+Bhattacherjee, A. and Sanford, C. (2006), “Inﬂuence processes for information technology acceptance:
+an elaboration likelihood model”, MIS Quarterly, Vol. 30 No. 4, pp. 805-825.
+Biernacki, P. and Waldorf, D. (1981), “Snowball sampling: problems and techniques of chain referral
+sampling”, Sociological Methods and Research, Vol. 10 No. 2, pp. 141-163.
+Boer, H. and Westhoff, Y. (2006), “The role of positive and negative signaling communication by strong
+and weak ties in the shaping of safe sex subjective norms of adolescents in South Africa”,
+Communication Theory, Vol. 16 No. 1, pp. 75-90.
+Bonetti, D. and Johnston, M. (2008), “Perceived control predicting the recovery of individual-speciﬁc
+walking behaviours following stroke: testing psychological models and constructs”, British
+Journal of Health Psychology, Vol. 13 No. 3, pp. 463-478.
+Bradford, T.W. (2021), “We can ﬁx this! donor activism for nonproﬁt supply generation”, Journal of the
+Academy of Marketing Science, Vol. 49 No. 2, pp. 397-417.
+Brown, T.J., Ham, S.H. and Hughes, M. (2010), “Picking up litter: an application of theory-based
+communication to inﬂuence tourist behaviour in protected areas”, Journal of Sustainable
+Tourism, Vol. 18 No. 7, pp. 879-900.
+Brubaker, R.G. and Fowler, C. (1990), “Encouraging college males to perform testicular selfexamination: evaluation of a persuasive message based on the revised theory of reasoned
+action”, Journal of Applied Social Psychology, Vol. 20 No. 17, pp. 1411-1422.
+Cao, X. (2018), “Impact of social information on intentions to volunteer domestically for foreign causes”,
+Nonproﬁt Management and Leadership, Vol. 29 No. 2, pp. 273-283.
+Chan, K. and Tsang, L. (2011), “Promote healthy eating among adolescents: a Hong Kong study”,
+Journal of Consumer Marketing, Vol. 28 No. 5, pp. 354-362.
+Chang, C.T. and Lee, Y.K. (2010), “Effects of message framing, vividness congruency and statistical
+framing on responses to charity advertising”, International Journal of Advertising, Vol. 29 No. 2,
+pp. 195-220.
+Chen, J.C., Patten, D.M. and Roberts, R. (2008), “Corporate charitable contributions: a corporate
+social performance or legitimacy strategy?”, Journal of Business Ethics, Vol. 82 No. 1,
+pp. 131-144.
+
+Preexisting
+beliefs
+
+233
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+234
+
+Chen, S., Thomas, S. and Kohli, C. (2016), “What really makes a promotional campaign succeed on a
+crowd funding platform? Guilt, utilitarian products, emotional messaging and fewer but
+meaningful rewards drive donations”, Journal of Advertising Research, Vol. 56 No. 1, pp. 81-94.
+Choi, J., Rangan, P. and Singh, S.N. (2016), “Do cold images cause cold-heartedness? The impact of
+visual stimuli on the effectiveness of negative emotional charity appeals”, Journal of Advertising,
+Vol. 45 No. 4, pp. 1-10.
+Cialdini, R. and Schroeder, D. (1976), “Increasing compliance by legitimizing paltry contributions: when
+even a penny helps”, Journal of Personality and Social Psychology, Vol. 34 No. 4, pp. 599-604.
+Cialdini, R., Petty, R.E. and Cacioppo, J.T. (1981), “Attitude and attitude change”, Annual Review of
+Psychology, Vol. 32 No. 1, p. 366.
+Cialdini, R., Reno, R.R. and Kallgren, C.A. (1990), “A focus theory of normative conduct: recycling the
+concept of norms to reduce littering in public places”, Journal of Personality and Social
+Psychology, Vol. 58 No. 6, pp. 1015-1026.
+Cockrill, A. and Parsonage, I. (2016), “Shocking people into action: does it still work?”, Journal of
+Advertising Research, Vol. 56 No. 4, pp. 401-413.
+Cole, G.E., Keller, P.A., Reynolds, J., Schaur, M. and Krause, D. (2016), “CDC message works: designing
+and validating a social marketing tool to craft and defend effective messages”, Social Marketing
+Quarterly, Vol. 22 No. 1, pp. 3-18.
+Conner, M. and Armitage, C.J. (1998), “Extending the theory of planned behavior: a review and avenues
+for further research”, Journal of Applied Social Psychology, Vol. 28 No. 15, pp. 1429-1464.
+Cox, D. and Cox, A.D. (2001), “Communicating the consequences of early detection: the role of evidence
+and framing”, Journal of Marketing, Vol. 65 No. 3, pp. 91-103.
+Croson, R. and Shang, J. (2011), “Social inﬂuences in giving: ﬁeld experiments in public radio”, in
+Oppenheimer, D.M. and Olivola, C.Y. (Eds), The Science of Giving: Experimental Approaches to
+the Study of Charity, Taylor and Francis Group, New York, NY, pp. 65-80.
+Cryder, C. and Loewenstein, G. (2011), “The critical link between tangibility and generosity”, in
+Oppenheimer, D.M. and Olivola, C.Y. (Eds), The Science of Giving: Experimental Approaches to
+the Study of Charity, Taylor and Francis Group, New York, NY, pp. 237-252.
+Dann, S., Harris, P., Sullivan Mort, G., Fry, M. and Binney, W. (2007), “Reigniting the ﬁre: a
+contemporary research agenda for social, political and nonproﬁt marketing”, Journal of Public
+Affairs, Vol. 7 No. 3, pp. 291-304.
+Dibble, J.L., Cacal, M., Kubulins, A.R., Peyton, A.M., Taniguchi, E., Van Raalte, L.J. and Wisner, A.M.
+(2011), “Sequential persuasion strategies: testing explanations for and the generality of the
+legitimization of paltry favors effect”, Communication Reports, Vol. 24 No. 2, pp. 63-73.
+Dunn, L., White, K. and Dahl, D.W. (2020), “A little piece of me: when mortality reminders lead to giving
+to others”, Journal of Consumer Research, Vol. 47 No. 3, pp. 431-453.
+Ein-Gar, D. and Levontin, L. (2013), “Giving from a distance: putting the charitable organization at the
+center of the donation appeal”, Journal of Consumer Psychology, Vol. 23 No. 2, pp. 197-211.
+Erlandsson, A., Nilsson, A. and Västfjäll, D. (2018), “Attitudes and donation behaviour when reading
+positive and negative charity appeals”, Journal of Nonproﬁt and Public Sector Marketing, Vol. 30
+No. 4, pp. 444-474.
+Fajardo, T.M., Townsend, C. and Bolander, W. (2018), “Toward an optimal donation solicitation:
+evidence from the ﬁeld of the differential inﬂuence of donor-related and organization-related
+information on the donation choice and amount”, Journal of Marketing, Vol. 82 No. 2,
+pp. 142-152.
+Farrelly, M.C., Davis, K.C., Haviland, M.L., Messeri, P. and Healton, C.G. (2005), “Evidence of a doseresponse relationship between ‘truth’ antismoking ads and youth smoking prevalence”,
+American Journal of Public Health, Vol. 95 No. 3, pp. 425-431.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Fishbein, M. and Ajzen, I. (2010), Predicting and Changing Behaviour: The Reasoned Action Approach,
+Psychology Press, New York, NY.
+Gagné, C. and Godin, G. (2000), “The theory of planned behaviour: some measurement issues
+concerning belief-based variables”, Journal of Applied Social Psychology, Vol. 30 No. 10,
+pp. 2173-2193.
+Garg, N. and Lerner, J.S. (2013), “Sadness and consumption”, Journal of Consumer Psychology, Vol. 23
+No. 1, pp. 106-113.
+Garretson, J. and Landreth, S. (2005), “Cause-related marketing: consumer effort and ﬁrm donation
+type”, in Langenderfer, J., Cook, D.L. and Williams, J.D. (Eds), American Marketing Association
+Marketing and Public Policy Proceedings, American Marketing Association, Chicago, Vol. 15,
+pp. 112-113.
+Genevsky, A. and Knutson, B. (2015), “Neural affective mechanisms predict market-level micro
+lending”, Psychological Science, Vol. 26 No. 9, pp. 1411-1422.
+Gill, A. (2020), “Keep charitable giving conversations going beyond year-end tax planning”, Journal of
+Financial Planning, Vol. 36 No. 10, pp. 34-36.
+Goh, T.T., Yang, B., Dai, X. and Jin, D. (2017), “A study of purchase inﬂuence and behavioural intention
+on the adoption of electronic word of mouth (eWOM) systems”, Journal of Electronic Commerce
+in Organizations, Vol. 15 No. 3, pp. 14-32.
+Goswami, I. and Urminsky, O. (2016), “When should the ask be a nudge? The effect of default amounts
+on charitable donations”, Journal of Marketing Research, Vol. 53 No. 5, pp. 829-846.
+Grau, S.L. and Folse, J.A.G. (2007), “Cause-related marketing (CRM): the inﬂuence of donation proximity
+and message-framing cues on the less-involved”, Journal of Advertising, Vol. 36 No. 4, pp. 19-33.
+Gu, J., Xu, Y., Xu, H., Zhang, C. and Ling, H. (2017), “Privacy concerns for mobile app download: an
+elaboration likelihood perspective”, Decision Support Systems, Vol. 94, pp. 19-28.
+Hair, J.F., Black, W.C., Babin, B.J. and erson, R.E. and Tatham, R.L. (2009), Multivariate Data Analysis,
+Pearson Prentice Hall, Englewood Cliffs, NJ.
+Hayes, A.F. (2012), “Process: a versatile computational tool for observed variable mediation,
+moderation, and conditional process modeling”, available at: www.afhayes.com/public/
+process2012.pdf (accessed 8 February 2013).
+Hayes, A.F. and Matthes, J. (2009), “Computational procedures for probing interactions in OLS and logistic
+regression: SPSS and SAS implementations”, Behavior Research Methods, Vol. 41 No. 3,
+pp. 924-936.
+Hayes, A.F. and Montoya, A.K. (2017), “A tutorial on testing, visualizing and probing an interaction
+involving a multi categorical variable in linear regression analysis”, Communication Methods
+and Measures, Vol. 11 No. 1, pp. 1-30.
+Hill, C.A. and Abraham, C. (2008), “School-based, randomized controlled trail of an evidence-based
+condom promotion leaﬂet”, Psychology and Health, Vol. 23 No. 1, pp. 41-56.
+Hong, J.M. and Lee, W.N. (2018), “A content analysis of compatible ﬁt among message elements in
+philanthropy ads”, Journal of Promotion Management, Vol. 24 No. 6, pp. 820-844.
+Jones, A. and Posnett, J. (1991), “Charitable donations by UK households: evidence from the family
+expenditure survey”, Applied Economics, Vol. 23 No. 2, pp. 343-351.
+Jones, L.W., Sinclair, R.C., Rhodes, R.E. and Courneya, K.S. (2004), “Promoting exercise behaviour: an
+integration of persuasion theories and the theory of planned behavior”, British Journal of Health
+Psychology, Vol. 9 No. 4, pp. 505-521.
+Kaikati, A.M., Torelli, C.J., Winterich, K.P. and Rodas, M.A. (2017), “Conﬁrming conservatives: how salient
+social identities can increase donations”, Journal of Consumer Psychology, Vol. 27 No. 4, pp. 422-434.
+Kidwell, B. and Jewell, R.D. (2008), “The inﬂuence of past behaviour on behavioural intent: an
+information-processing explanation”, Psychology and Marketing, Vol. 25 No. 12, pp. 1151-1166.
+
+Preexisting
+beliefs
+
+235
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+236
+
+Kim, S., Gupta, S. and Lee, C. (2021), “Managing members, donors and member-donors for effective
+nonproﬁt fundraising”, Journal of Marketing, Vol. 85 No. 3, pp. 220-239.
+Kogut, T. and Ritov, I. (2011), “The identiﬁable victim effect: causes and boundary conditions”, in
+Oppenheimer, D.M. and Olivola, C.Y. (Eds), The Science of Giving: Experimental Approaches to
+the Study of Charity, Taylor and Francis Group, New York, NY, pp. 133-148.
+Kruglanski, A.W. and Thompson, E.P. (1999), “Persuasion by a single route: a view from the unimodel”,
+Psychological Inquiry, Vol. 10 No. 2, pp. 83-109.
+Lay, S., Zagefka, H., Gonzalez, R., Álvarez, B. and Valdenegro, D. (2020), “Don’t forget the group! the
+importance of social norms and empathy for shaping donation behaviour”, International Journal
+of Psychology, Vol. 55 No. 4, pp. 518-531.
+Lim, H. and Dubinsky, A.J. (2005), “The theory of planned behavior in e-commerce: making a case for
+interdependencies between salient beliefs”, Psychology and Marketing, Vol. 22 No. 10,
+pp. 833-855.
+Luo, C., Wu, J., Shi, Y. and Xu, Y. (2014), “The effects of individualism-collectivism cultural orientation
+on eWOM information”, International Journal of Information Management, Vol. 34 No. 4,
+pp. 446-456.
+Maddock, J.E., Silbanus, A. and Reger-Nash, B. (2008), “Formative research to develop a mass media
+campaign to increase physical activity and nutrition in a multiethnic state”, Journal of Health
+Communication, Vol. 13 No. 3, pp. 208-215.
+Manning, M. (2011), “When we do what we see: the moderating role of social motivation on the relations
+between subjective norms and behavior in the theory of planned behavior”, Basic and Applied
+Social Psychology, Vol. 33 No. 4, pp. 351-364.
+Martin, R. and Randal, J. (2011), “How social norms, price and scrutiny inﬂuence donation behaviour:
+evidence from four natural ﬁeld experiments”, in Oppenheimer, D.M. and Olivola, C.Y. (Eds),
+The Science of Giving: Experimental Approaches to the Study of Charity, Taylor and Francis
+Group, New York, NY, pp. 81-112.
+Mayer, K.J. and Sparrowe, R.T. (2013), “From the editors: integrating theories in AMJ articles”,
+Academy of Management Journal, Vol. 56 No. 4, pp. 917-922.
+Mears, P. (1992), “Understanding strong donors”, Fund Raising Management, Vol. 23 No. 2, pp. 45-46.
+Meng, B. and Choi, K. (2019), “Tourists’ intention to use location-based services (LBS)”, International
+Journal of Contemporary Hospitality Management, Vol. 31 No. 8, pp. 3097-3115.
+Merchant, A., Ford, J.B. and Sargeant, A. (2010), “Charitable organizations’ storytelling inﬂuence on
+donors’ emotions and intentions”, Journal of Business Research, Vol. 63 No. 7, pp. 754-762.
+Merlo, O. and Augh, S. (2009), “The effects of entrepreneurial orientation, market orientation and
+marketing subunit inﬂuence on ﬁrm performance”, Marketing Letters, Vol. 20 No. 3,
+pp. 295-311.
+Miller, Z.D., Freimund, W., Metcalf, E.C., Nickerson, N. and Powell, R.B. (2019), “Merging elaboration
+and the theory of planned behavior to understand bear spray behavior of day hikers in yellow
+stone national park”, Environmental Management, Vol. 63 No. 3, pp. 366-378.
+Mitchell, S.-L. and Clark, M. (2020), “Volunteer choice of nonproﬁt organisation: an integrated
+framework”, European Journal of Marketing, Vol. 55 No. 1, pp. 63-94.
+Moran, N. and Bagchi, R. (2019), “The power of emotional beneﬁts: examining the role of beneﬁt focus
+on donation behaviour”, Journal of Advertising, Vol. 48 No. 3, pp. 1-8.
+Moriuchi, E. and Chung, C. (2018), “Young Americans’ ethnic identity toward disaster advertising: the
+effects of disaster location and message types”, International Journal of Nonproﬁt and Voluntary
+Sector Marketing, Vol. 23 No. 1, p. e1596.
+Mowen, J.C. and Minor, M.S. (2006), Understanding Consumer Behaviour, 1st ed., Thomson, Mason,
+OH, pp. 133-143.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Nelson, M.R., Brunel, F.F., Supphellen, M. and Manchanda, R.V. (2006), “Effects of culture, gender and
+moral obligations on responses to charity advertising across masculine and feminine cultures”,
+Journal of Consumer Psychology, Vol. 16 No. 1, pp. 45-56.
+Neuwirth, K. and Frederick, E. (2004), “Peer and social inﬂuence on opinion expression: combining the
+theories of planned behavior and the spiral of silence”, Communication Research, Vol. 31 No. 6,
+pp. 669-703.
+Nichols, J.E. (1998), “Understanding the increasing afﬂuence of women”, International Journal of
+Nonproﬁt and Voluntary Sector Marketing, Vol. 3 No. 3, pp. 218-223.
+O’Cass, A. and Grifﬁn, D. (2006), “Antecedents and consequences of social issue advertising
+believability”, Journal of Nonproﬁt and Public Sector Marketing, Vol. 15 Nos 1/2, pp. 87-104.
+O’Neil, J. and Schenke, M. (2007), “An examination of factors impacting athlete alumni donations to
+their alma mater: a case study of a US university”, International Journal of Nonproﬁt and
+Voluntary Sector Marketing, Vol. 12 No. 1, pp. 59-74.
+Ogden, J. (2003), “Some problems with social cognition models: a pragmatic and conceptual analysis”,
+Health Psychology, Vol. 22 No. 4, pp. 424-428.
+Oppenheimer, D.M. and Olivola, C.Y. (2011), The Science of Giving: Experimental Approaches to the
+Study of Charity, Taylor and Francis Group, New York, NY.
+Park, K. and Lee, S.S. (2015), “The role of beneﬁciaries’ group identity in determining successful appeal
+strategies for charitable giving”, Psychology and Marketing, Vol. 32 No. 12, pp. 1117-1132.
+Peterson, N., Tripoli, El., Langenbach, K. and Devasagayam, R. (2018), “Celebrity endorsements and
+donations: empirical investigation of impact on philanthropic giving”, Business Perspectives and
+Research, Vol. 6 No. 2, pp. 79-89.
+Petty, R.E. and Cacioppo, J.T. (1984), “Source factors and the elaboration likelihood model of
+persuasion”, in Kinnear, T.C. (Ed.), Advances in Consumer Research, Association for Consumer
+Research, Provo, UT, Vol. 11 No. 1, pp. 668-672.
+Petty, R.E., Cacioppo, J.T. and Schumann, D. (1983), “Central and peripheral routes to advertising
+effectiveness: the moderating role of involvement”, Journal of Consumer Research, Vol. 10 No. 2,
+pp. 135-146.
+Petty, R.E., Wheeler, S.C. and Bizer, G.Y. (1999), “Is there one persuasion process or more? Lumping
+versus splitting in attitude change theories”, Psychological Inquiry, Vol. 10 No. 2, pp. 156-163.
+Pham, C. and Septianto, F. (2020), “A smile – the key to everybody’s heart? The interactive effects of
+image and message in increasing charitable behavior”, European Journal of Marketing, Vol. 54
+No. 2, pp. 261-281.
+Prochaska, J.O. and DiClemente, C.C. (1983), “Stages and processes of self-change of smoking: toward
+an integrative model of change”, Journal of Consulting and Clinical Psychology, Vol. 51 No. 3,
+pp. 39-95.
+Randle, M., Miller, L., Stirling, J. and Dolnicar, S. (2016), “Framing advertisements to elicit positive
+emotions and attract foster carers: an investigation into the effects of advertising on highcognitive-elaboration donations”, Journal of Advertising Research, Vol. 56 No. 4, pp. 456-469.
+Ratner, R.K., Zhao, M. and Clarke, J.A. (2011), “The norm of self-interest: implications for charitable
+giving”, in Oppenheimer, D.M. and Olivola, C.Y. (Eds), The Science of Giving: Experimental
+Approaches to the Study of Charity, Taylor and Francis Group, New York, NY, pp. 113-132.
+Reeves, R.A. and Saucer, P.R. (1993), “A test of commitment in legitimizing paltry contributions”,
+Journal of Social Behaviour and Personality, Vol. 8 No. 3, pp. 537-544.
+Reid, M. and Wood, A. (2008), “An investigation into blood donation intentions among non-donors”,
+International Journal of Nonproﬁt and Voluntary Sector Marketing, Vol. 13 No. 1, pp. 31-43.
+Rifkin, J.R., Du, K.M. and Berger, J. (2021), “Penny for your preferences: leveraging self-expression to
+encourage small prosocial gifts”, Journal of Marketing, Vol. 85 No. 3, pp. 204-219.
+
+Preexisting
+beliefs
+
+237
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+238
+
+Rosen, C.S. (2000), “Integrating stage and continuum models to explain processing of exercise messages and
+exercise initiation among sedentary college students”, Health Psychology, Vol. 19 No. 2, pp. 172-180.
+Rucker, D.D. and Petty, R.E. (2006), “Increasing the effectiveness of communications to consumers:
+recommendations based on elaboration likelihood and attitude certainty perspectives”, Journal
+of Public Policy and Marketing, Vol. 25 No. 1, pp. 39-52.
+Sargeant, A. (2014), “A retrospective – charitable giving: towards a model of donor behaviour”, Social
+Business, Vol. 4 No. 4, pp. 293-323.
+Sargeant, A. and Lee, S. (2004), “Trust and relationship commitment in the United Kingdom voluntary
+sector: determinants of donor behaviour”, Psychology and Marketing, Vol. 21 No. 8, pp. 613-635.
+ShabbirHusain, R.V. and Varshney, S. (2019), “Is current way of promoting sustainability,
+sustainable?”, Journal of Nonproﬁt and Public Sector Marketing, Vol. 31 No. 1, pp. 84-113.
+Shanahan, K.J., Hopkins, C.D., Carlson, L. and Raymond, M.A. (2012), “Depictions of self-inﬂicted
+versus blameless victims for nonproﬁts employing print advertisements”, Journal of
+Advertising, Vol. 41 No. 3, pp. 55-74.
+Shang, J. and Croson, R. (2008), “The impact of downward social information on contribution
+decisions”, Experimental Economics, Vol. 11 No. 3, pp. 221-233.
+Shang, J. and Croson, R. (2009), “A ﬁeld experiment in charitable contribution: the impact of social information
+on the voluntary provision of public goods”, The Economic Journal, Vol. 119 No. 540, pp. 1422-1439.
+Shang, J. and Sargeant, A. (2016), “Social norms and fundraising: the trade-off between enhanced
+donations and donor identity esteem”, Journal of Nonproﬁt and Public Sector Marketing, Vol. 28
+No. 4, pp. 351-363.
+Shang, J., Reed, A. and Croson, R. (2008), “Identity congruency effects on donations”, Journal of
+Marketing Research, Vol. 45 No. 3, pp. 351-361.
+Shearman, S.M. and Yoo, J.H. (2007), “Even a penny will help!: legitimization of paltry donation and
+social proof in soliciting donation to a charitable organization”, Communication Research
+Reports, Vol. 24 No. 4, pp. 271-282.
+Shemanski Aldrich, R. and Cerel, J. (2009), “The development of effective message content for suicide
+intervention”, Crisis, Vol. 30 No. 4, pp. 174-179.
+Shim, D. and Key, S.K. (2018), “Effect of persuasion knowledge on purchase intention in on/ofﬂine
+shopping channel”, Journal of Marketing Thought, Vol. 5 No. 1, pp. 30-36.
+Sideridis, G.D., Kaissidis, A. and Padeliadu, S. (1998), “Comparison of the theories of reasoned action and
+planned behaviour”, British Journal of Educational Psychology, Vol. 68 No. 4, pp. 563-580.
+Slovic, P. (2007), “‘If I look at the mass I will never act’: psychic numbing and genocide”, Judgment and
+Decision Making, Vol. 2 No. 2, pp. 79-95.
+Small, D.A. (2011), “Sympathy biases and sympathy appeals”, in Oppenheimer, D.M. and Olivola, C.Y.
+(Eds), The Science of Giving: Experimental Approaches to the Study of Charity, Taylor and
+Francis Group, New York, NY, pp. 149-160.
+Small, D.A. and Verrochi, N.M. (2009), “The face of need: facial emotion expression on charity
+advertisements”, Journal of Marketing Research, Vol. 46 No. 6, pp. 777-787.
+Small, D.A., Loewenstein, G. and Slovic, P. (2007), “Sympathy and callousness: the impact of
+deliberative thought on donations to identiﬁable and statistical victims”, Organizational
+Behavior and Human Decision Processes, Vol. 102 No. 2, pp. 143-153.
+Smith, J.R. and McSweeney, A. (2007), “Charitable giving: the effectiveness of a revised theory of
+planned behaviour model in predicting donating intentions and behaviour”, Journal of
+Community and Applied Social Psychology, Vol. 17 No. 5, pp. 363-386.
+Smith, J.R. and Louis, W.R. (2008), “Do as we say and as we do: the interplay of descriptive and
+injunctive group norms in the attitude-behaviour relationship”, British Journal of Social
+Psychology, Vol. 47 No. 4, pp. 647-666.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Smith, S.M. and Shaffer, D.R. (2000), “Vividness can undermine or enhance message processing: the
+moderating role of vividness congruency”, Personality and Social Psychology Bulletin, Vol. 26
+No. 7, pp. 769-779.
+Smith, S.M., Haugtvedt, C.P. and Petty, R.E. (1994), “Attitudes and recycling: does the measurement of
+affect enhance behavioural prediction?”, Psychology and Marketing, Vol. 11 No. 4, pp. 359-374.
+Sniehotta, F.F., Presseau, J. and Araujo-Soares, V. (2014), “Time to retire the theory of planned
+behavior”, Health Psychology Review, Vol. 8 No. 1, pp. 1-7.
+Stead, M., Tagg, S., Mackintosh, A.M. and Eadie, D. (2005), “Development and evaluation of a mass
+media theory of planned behaviour intervention to reduce speeding”, Health Education Research,
+Vol. 20 No. 1, pp. 36-50.
+Steinmetz, H., Knappstein, M., Ajzen, I., Schmidt, P. and Kabst, R. (2016), “How effective are behavior
+change interventions based on the theory of planned behavior? A three-level meta-analysis”,
+Zeitschrift Für Psychologie, Vol. 224 No. 3, pp. 216-233.
+Strahilevitz, M.A. (2011), “A model of the value of giving to others compared to having more:
+implications for fundraisers seeking to maximize donor satisfaction”, in Oppenheimer, D.M. and
+Olivola, C.Y. (Eds), The Science of Giving: Experimental Approaches to the Study of Charity,
+Taylor and Francis Group, New York, NY, pp. 15-34.
+Summers, J. and Summers, J. (2017), “Motivating intention to take action on behalf of an out-group:
+implications for the use of advocacy messages in social marketing strategies”, Journal of
+Marketing Management, Vol. 33 Nos 11/12, pp. 973-1002.
+Sun, W. and Govind, R. (2017), “Product market diversiﬁcation and market emphasis: impacts on ﬁrm
+idiosyncratic risk in market turbulence”, European Journal of Marketing, Vol. 51 Nos 7/8, pp. 1308-1331.
+Sussman, S.W. and Siegal, W.S. (2003), “Informational inﬂuence in organizations: an integrated
+approach to knowledge adoption”, Information Systems Research, Vol. 14 No. 1, pp. 47-65.
+Takada, J. and Levine, T.R. (2007), “The effects of the even-a-few-minutes-would-help strategy,
+perspective taking and empathic concern on the successful recruiting of volunteers on campus”,
+Communication Research Reports, Vol. 24 No. 3, pp. 177-184.
+Tam, K.Y. and Ho, S.Y. (2005), “Web personalization as a persuasion strategy: an elaboration likelihood
+model perspective”, Information Systems Research, Vol. 16 No. 3, pp. 271-291.
+Tangari, A.H., Garretson Folse, J.A., Burton, S. and Kees, J. (2010), “The moderating inﬂuences of
+consumers’ temporal orientation on the framing of societal needs and corporate responses in
+cause-related marketing campaigns”, Journal of Advertising, Vol. 39 No. 2, pp. 35-50.
+Tao, W., Zongchao, C.L., Chen, Z.F. and Ji, Y.G. (2021), “Public responses to nonproﬁt social media messages:
+the roles of message features and cause involvement”, Public Relations Review, Vol. 47 No. 2, pp. 1-13.
+Teng, S., Khong, K.W. and Goh, W.W. (2015), “Persuasive communication: a study of major attitudebehaviour theories in a social media context”, Journal of Internet Commerce, Vol. 14 No. 1, pp. 42-64.
+Tsorbatzoudis, H. (2005), “Evaluation of a planned behaviour theory-based intervention programme to
+promote healthy eating”, Perceptual and Motor Skills, Vol. 101 No. 2, pp. 587-604.
+Valois, P., Turgeon, H., Godin, G., Blondeau, D. and Cote, F. (2001), “Inﬂuence of a persuasive strategy
+on nursing students’ beliefs and attitudes toward provision of care to people living with HIV/
+AIDS”, Journal of Nursing Education, Vol. 40 No. 8, pp. 354-358.
+Wang, A. (2006), “Advertising engagement: a driver of message involvement on message effects”,
+Journal of Advertising Research, Vol. 46 No. 4, pp. 355-368.
+Wang, P. (2015), “Exploring the inﬂuence of electronic word-of-mount on tourists’ visit intention”,
+Journal of Systems and Information Technology, Vol. 17 No. 4, pp. 381-395.
+Wann-Yih, W., Huang, C.H. and Sou, V. (2009), “Persuasive messages and word-of-mouth
+communications formation: Taiwan and Cambodia tourist destination sites”, in Kehoe, W.J. and
+Whitten, L.K. (Eds), Advances in Marketing: Embracing Challenges and Change – A Global
+Perspective, Society for Marketing Advances, Tuscaloosa, AL, pp. 268-269.
+
+Preexisting
+beliefs
+
+239
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+240
+
+Warburton, J. and Terry, D.J. (2000), “Volunteer decision making by older people: a test of a revised
+theory of planned behaviour”, Basic and Applied Social Psychology, Vol. 22 No. 3, pp. 245-257.
+West, D.C. and Sargeant, A. (2004), “Taking risks with advertising: the case for the not-for-proﬁt
+sector”, Journal of Marketing Management, Vol. 20 Nos 9/10, pp. 1027-1045.
+Webb, D.J., Green, C.L. and Brashear, T.G. (2000), “Development and validation of scales to measure
+attitudes inﬂuencing monetary donations to charitable organizations”, Journal of the Academy of
+Marketing Science, Vol. 28 No. 2, pp. 299-309.
+Weigel, R. and Weigel, J. (1978), “Environmental concern: the development of a measure”, Environment
+and Behavior, Vol. 10 Nos 1, pp. 3-15.
+White, F.A., Charles, M.A. and Nelson, J.K. (2008), “The role of persuasive arguments in changing
+afﬁrmative action attitudes and expressed behavior in higher education”, Journal of Applied
+Psychology, Vol. 93 No. 6, pp. 1271-1286.
+Wilson, C. (2014), “Evaluating communication to optimize consumer-directed energy efﬁciency
+interventions”, Energy Policy, Vol. 74, pp. 300-310.
+Wilson, J. and Musick, M. (1997), “Who cares? Towards an integrated theory of volunteer work”,
+American Sociological Review, Vol. 62 No. 5, pp. 694-713.
+Wymer, W.W. and Samu, S. (2002), “Volunteer service as symbolic consumption: gender and
+occupational differences in volunteering”, Journal of Marketing Management, Vol. 18
+Nos 9/10, pp. 971-989.
+Xu, J. and Huang, G. (2020), “The relative effectiveness of gain-framed and loss-framed messages in
+charity advertising: meta-analytic evidence and implications”, International Journal of Nonproﬁt
+and Voluntary Sector Marketing, Vol. 25 No. 4, pp. 1-11.
+Yen, S. (2002), “An econometric analysis of household donations in the USA”, Applied Economics
+Letters, Vol. 9 No. 13, pp. 837-841.
+Zhang, K., Cai, F. and Shi, Z. (2021), “Can promotions make consumers more generous? The
+impact of price promotions on consumers’ donation behavior”, Journal of Marketing,
+Vol. 85 No. 3, pp. 240-255.
+Appendix 1. Script – nonprofit ad spots (manipulations shown in italics)
+Text with images
+Text: Ricky has a problem. (image 1)
+Text: He can’t get to school safely.
+Text: It’s not gangs or drugs that make the route to school unsafe. (image 2)
+Text: It’s the roads. (image 3, 4)
+Text: That’s because our cities have been built with one thing in mind. (image 5, 6)
+Text: Cars. (image 7)
+Text: The result?
+Text: Unsafe routes to schools put our children in danger. (image 8, 9)
+Text: Pollution from trafﬁc makes asthma worse. (image 10)
+Text: impairs lungs, hardens the heart.
+Text: and can lead to death.
+Voice over with images
+VO: “Because of the decline in walking and riding a bike to school, our children have the highest
+obesity rate in history and breathe more pollution”. (image 11, 12)
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+VO: “As a result, life expectancy for the average American could decline by as much as ﬁve years, the
+ﬁrst sustained drop in life expectancy in the modern era”. (image 13, 14)
+Voice over and text with images
+VO: “Do we want our children to be the ﬁrst ones who don’t live longer than their parents”?
+Text: Is this what we want to give our children? (image 15)
+VO: “This decline is not inevitable if we make simple improves to the cities in which we live”.
+Text: But you can change that.
+VO: “The Better Cities Coalition is making infrastructure improvements to our cities all across the
+country”.
+Text: The Better Cities Coalition is making our cities better. (image 16, 17, 18)
+VO: “Better parks, better sidewalks and better cities mean healthier and happier people”.
+Text: For everyone . . . (image 19, 20)
+VO: “Please support the Better Cities Coalition today by making a donation online or volunteering for
+our Better Block Programme. Americans just as you have responded”. (image 21, 22)
+
+Preexisting
+beliefs
+
+241
+
+Study 1 manipulation of high (low) injunctive norms
+VO: “To date, 73% (29%) of the people where you live are supportive of building better cities”.
+Text: To date, 73% (29%) of the people where you live are supportive of building better cities. (image 23)
+VO: “Please give to the Better Cities Coalition today”.
+Text: Won’t you please donate or volunteer today? (image 24)
+Study 2 manipulation of present (absent) social legitimisation
+VO: “Even a penny will help”.
+Text: Even a penny will help. (image 24)
+VO: “Because Ricky is counting on you”.
+Text: Ricky is counting on you. (image 1)
+VO: “Go to www.BetterCities.org”.
+Text: www.BetterCities.org.
+VO: “And help us make life better, for everyone”. (image 25)
+Text: bettercities.org.
+Text: making life better for everyone.
+Appendix 2. Donation intention (Fishbein and Ajzen, 2010)
+Based on the advertisement I just saw, by donating to the Better Cities Coalition would be:
+
+
+
+
+
+
+
+
+
+
+unlikely/likely,
+nonexistent/existent,
+improbable/probable,
+impossible/possible,
+uncertain/certain,
+deﬁnitely yes/deﬁnitely no, (r)
+not at all/very frequent,
+no chance/certain chance,
+probably/probably not. (r)
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+Donation amount
+If you were to make a donation to this nonproﬁt, how much would give?
+Attitude toward the behaviour (Fishbein and Ajzen, 2010)
+My donating to a nonproﬁt organisation would be:
+
+242
+
+
+
+
+
+
+
+
+
+
+
+
+
+bad/good,
+pleasant/unpleasant, (r)
+valuable/worthless, (r)
+important/unimportant, (r)
+worthless/worthwhile,
+lousy/nice,
+useless/useful,
+unpleasant/enjoyable,
+satisfying/unrewarding, (r)
+pointless/meaningful,
+rewarding/ungratifying. (r)
+
+Subjective norms (Fishbein and Ajzen, 2010)
+
+(1)
+(2)
+(3)
+(4)
+
+Most people who are important to me approve of my donating to a nonproﬁt
+organisation sometime in the next year.
+Most people like me donated to a nonproﬁt organisation sometime in the past year.
+It is expected of me that I donate to a nonproﬁt organisation sometime in the next year.
+Most people whose opinions I value donated to a nonproﬁt organisation sometime in
+the past year.
+
+Perceived behavioural control (Fishbein and Ajzen, 2010)
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+I am conﬁdent that if I wanted to I could donate to a nonproﬁt organisation sometime in
+the next year.
+My donating to a nonproﬁt organisation sometime in the next year is completely up to me.
+I have complete control over whether or not I donate to a nonproﬁt organisation.
+Donating to a nonproﬁt organisation is beyond my capabilities. (r)
+For me to donate to a nonproﬁt organisation sometime in the next year is extremely
+difﬁcult/extremely easy.
+
+Involvement with the ad (Cox and Cox, 2001)
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+
+I got involved in what the ad had to say.
+The message seemed relevant to me.
+This ad really made me think.
+This ad was thought-provoking.
+The Better Cities Coalition was very interesting.
+I felt strong emotions while watching this ad.
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Attitude toward charitable organisations (webb et al., 2000)
+
+(1)
+(2)
+(3)
+(4)
+(5)
+
+The money given to charities goes for good causes.
+Much of the money donated to charities is wasted. (r)
+My image of charitable organisations is positive.
+Charitable organisations have been quite successful in helping the needy.
+Charity organisations perform a useful function for society.
+
+Preexisting
+beliefs
+
+243
+
+Environmental concern (Weigel and Weigel, 1978)
+
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+
+The federal government will have to introduce harsh measures to halt pollution, as
+few people will regulate themselves.
+We should not worry about killing too many game animals because in the long run
+things will balance out. (r)
+I’d be willing to make personal sacriﬁces for the sake of slowing down pollution even
+though the immediate results may not seem signiﬁcant.
+Pollution is not personally affecting my life. (r)
+The beneﬁts of modern consumer products are more important than the pollution that
+results from their production and use. (r)
+We must prevent any type of animal from becoming extinct, even if it means
+sacriﬁcing some things for ourselves.
+A course focussing on the conservation of natural resources should be taught in public
+schools.
+Although there is continual contamination of our lakes, streams and air, nature’s
+purifying process soon returns to normal. (r)
+Because the government has such good inspecting and control agencies, it’s very
+unlikely that pollution due to energy production will become excessive. (r)
+The government should provide each citizen with a list of agencies and organisations
+to which citizens could report grievances concerning pollution.
+Predators such as hawks, crows, skunks and coyotes with prey on farmers’ grain
+crops and poultry should be eliminated. (r)
+The currently active anti-pollution organisations are really more interested in
+disrupting society than they are in ﬁghting pollution. (r)
+Even if public transportation was more efﬁcient than it is, I would prefer to drive my
+car to work. (r)
+Industry is trying its best to develop effective anti-pollution technology. (r)
+If asked, I would contribute time, money or both to an organisation like the Sierra Club
+that works to improve the quality of the environment.
+
+Manipulation check-in message ads
+
+(1)
+(2)
+(3)
+
+Recalling the advertisement you saw, how would you rate the number of people who
+have donated to the Better Cities Coalition?
+Recalling the advertisement you saw, the amount of people who are supportive of
+donating to the Better Cities Coalition is high.
+Based on the advertisement I saw, I have no idea how supportive people are of the
+Better Cities Coalition. (r)
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+Manipulation check – social legitimisation of the minimum message ads
+
+Recalling the advertisement you saw, a minimal amount can be donated to the Better
+Cities Coalition.
+Recalling the advertisement you saw, it is OK to donate the bare minimum to the Better
+Cities Coalition.
+Based on the advertisement you saw, making a minimal donation to the Better Cities
+Coalition is not acceptable. (r)
+
+244
+
+Appendix 3
+
+Item
+
+Factor loadings
+
+Cronbach’s alpha
+0.962
+
+1.
+
+Unlikely/likely
+
+0.937
+
+2.
+
+Non-existent/existent
+
+0.922
+
+3.
+
+Improbable/probable
+
+0.937
+
+4.
+
+Impossible/possible
+
+0.688
+
+5.
+
+Uncertain/certain
+
+0.843
+
+6.
+
+Deﬁnitely yes/deﬁnitely no
+
+0.824
+
+Table A1.
+
+7.
+
+Not at all/very frequent
+
+0.898
+
+Donation intention –
+Study 1
+
+8.
+
+No chance/certain chance
+
+0.930
+
+Item
+
+Table A2.
+Behavioural
+intention – Study 1
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+
+0.968
+
+0.971
+
+1.
+
+I plan to donate to a nonproﬁt organisation sometime in
+the next year
+
+2.
+
+I will make an effort to donate to a nonproﬁt
+organisation sometime in the next year
+
+0.957
+
+3.
+
+The chances of me donating to a nonproﬁt organisation
+sometime in the next year is:
+
+0.947
+
+4.
+
+I intend to donate to a nonproﬁt organisation sometime
+in the next year
+
+0.971
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Item
+
+Factor loadings
+
+Cronbach’s alpha
+0.948
+
+Preexisting
+beliefs
+
+1.
+
+Bad/good
+
+0.702
+
+2.
+
+Pleasant/unpleasant
+
+0.811
+
+3.
+
+Valuable/worthless
+
+0.821
+
+4.
+
+Important/unimportant
+
+0.849
+
+5.
+
+Worthless/worthwhile
+
+0.856
+
+6.
+
+Lousy/nice
+
+0.822
+
+7.
+
+Useless/useful
+
+0.862
+
+8.
+
+Unpleasant/enjoyable
+
+0.785
+
+9.
+
+Satisfying/unrewarding
+
+0.861
+
+10.
+
+Pointless/meaningful
+
+0.829
+
+Table A3.
+
+Rewarding/ungratifying
+
+0.816
+
+Attitude toward the
+behaviour – Study 1
+
+11.
+
+Item
+
+245
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+
+0.741
+
+0.804
+
+1.
+
+Most people who are important to me approve of my
+donating to a nonproﬁt organisation sometime in the
+next year
+
+2.
+
+Most people like me donated to a nonproﬁt organisation
+sometime in the past year
+
+3.
+
+It is expected of me that I donate to a nonproﬁt
+organisation sometime in the next year
+
+0.751
+
+4.
+
+Most people whose opinions I value donated to a
+nonproﬁt organisation sometime in the past year
+
+0.881
+
+0.817
+
+Table A4.
+Subjective norms –
+Study 1
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.813
+
+1.
+
+I am conﬁdent that if I wanted to I could donate to a
+nonproﬁt organisation sometime in the next year
+
+0.754
+
+2.
+
+My donating to a nonproﬁt organisation sometime in
+the next year is completely up to me
+
+0.847
+
+3.
+
+I have complete control over whether or not I donate to a
+nonproﬁt organisation
+
+0.829
+
+4.
+
+Donating to a nonproﬁt organisation is beyond my
+capabilities
+
+0.595
+
+5.
+Perceived
+behavioural control –
+Study 1
+
+For me to donate to a nonproﬁt organisation sometime
+in the next year is:
+
+0.592
+
+246
+
+Table A5.
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.949
+
+1.
+
+I got involved in what the ad had to say
+
+0.899
+
+2.
+
+The message seemed relevant to me
+
+0.897
+
+3.
+
+This ad really made me think
+
+0.928
+
+4.
+
+This ad was thought-provoking
+
+0.919
+
+5.
+
+The Better Cities Coalition was very
+interesting
+
+0.910
+
+I felt strong emotions while watching this
+ad
+
+0.805
+
+6.
+Table A6.
+Involvement with the
+ad – Study 1
+
+Item
+
+Table A7.
+Attitude toward
+charitable
+organisations –
+Study 1
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.839
+
+1.
+
+The money given to charities goes for good causes
+
+0.895
+
+2.
+
+Much of the money donated to charity is wasted
+
+0.914
+
+3.
+
+My image of charitable organisations is positive
+
+0.480
+
+4.
+
+Charitable organisations have been quite successful in
+helping the needy
+
+0.871
+
+5.
+
+Charity organisations perform a useful function for
+society
+
+0.836
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+
+0.695
+
+0.865
+
+1.
+
+The federal government will have to introduce harsh
+measures to halt pollution, as few people will regulate
+themselves
+
+2.
+
+We should not worry about killing too many game
+animals because in the long run things will balance out
+
+3.
+
+I’d be willing to make personal sacriﬁces for the sake of
+slowing down pollution even though the immediate
+results may not seem signiﬁcant
+
+4.
+
+Pollution is not personally affecting my life
+
+5.
+
+The beneﬁts of modern consumer products are more
+important than the pollution that results from their
+production and use
+
+6.
+
+We must prevent any type of animal from becoming
+extinct, even if it means sacriﬁcing some things for
+ourselves
+
+7.
+
+A course focussing on the conservation of natural
+resources should be taught in public schools
+
+8.
+
+Although there is continual contamination of our lakes,
+streams and air, nature’s purifying process soon returns
+them to normal
+
+9.
+
+Because the government has such good inspecting and
+control agencies, it’s very unlikely that pollution due to
+energy production will become excessive
+
+10.
+
+The government should provide each citizen with a list of
+agencies and organisations to which citizens could
+report grievances concerning pollution
+
+11.
+
+Predators such as hawks, crows, skunks and coyotes
+which prey on farmers’ grain crops and poultry should
+be eliminated
+
+12.
+
+The currently active anti-pollution organisations are really
+more interested in disrupting society than they are in
+ﬁghting pollution
+
+13.
+
+Even if public transportation was more efﬁcient than it is,
+I would prefer to drive my car to work
+
+0.675
+
+14.
+
+Industry is trying its best to develop effective antipollution technology
+
+0.817
+
+15.
+
+If asked, I would contribute time, money or both to an
+organisation like the Sierra Club that works to improve
+the quality of the environment
+
+0.686
+
+Preexisting
+beliefs
+
+247
+
+0.704
+
+0.684
+0.731
+
+0.691
+
+0.797
+0.769
+
+0.773
+
+0.729
+
+0.648
+
+0.463
+
+0.772
+
+Table A8.
+Environmental
+concern – Study 1
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+248
+
+Table A9.
+Donation intention –
+Study 2
+
+Item
+
+Factor loadings
+
+Cronbach’s alpha
+0.970
+
+1.
+
+Unlikely/likely
+
+0.924
+
+2.
+
+Non-existent/existent
+
+0.946
+
+3.
+
+Improbable/probable
+
+0.935
+
+4.
+
+Impossible/possible
+
+0.777
+
+5.
+
+Uncertain/certain
+
+0.879
+
+6.
+
+Deﬁnitely yes/deﬁnitely no
+
+0.859
+
+7.
+
+Not at all/very frequent
+
+0.910
+
+8.
+
+No chance/certain chance
+
+0.931
+
+9.
+
+Probably/probably not
+
+0.915
+
+Item
+
+Table A10.
+Behavioural
+intention – Study 2
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.964
+
+1.
+
+I plan to donate to a nonproﬁt organisation sometime in
+the next year
+
+0.954
+
+2.
+
+I will make an effort to donate to a nonproﬁt
+organisation sometime in the next year
+
+0.949
+
+3.
+
+The chances of me donating to a nonproﬁt organisation
+sometime in the next year is:
+
+0.937
+
+4.
+
+I intend to donate to a nonproﬁt organisation sometime
+in the next year
+
+0.964
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Item
+
+Factor loadings
+
+Cronbach’s alpha
+0.959
+
+1.
+
+Bad/good
+
+0.805
+
+2.
+
+Pleasant/unpleasant
+
+0.805
+
+3.
+
+Valuable/worthless
+
+0.828
+
+4.
+
+Important/unimportant
+
+0.902
+
+5.
+
+Worthless/worthwhile
+
+0.891
+
+6.
+
+Lousy/nice
+
+0.872
+
+7.
+
+Useless/useful
+
+0.898
+
+8.
+
+Unpleasant/enjoyable
+
+0.888
+
+9.
+
+Satisfying/unrewarding
+
+0.810
+
+1.
+
+Pointless/meaningful
+
+0.862
+
+1.
+
+Rewarding/ungratifying
+
+0.737
+
+Item
+
+Preexisting
+beliefs
+
+249
+
+Table A11.
+Attitude towards the
+behaviour – Study 2
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+
+0.771
+
+0.824
+
+1.
+
+Most people who are important to me approve of my
+donating to a nonproﬁt organisation sometime in the
+next year
+
+2.
+
+Most people like me donated to a nonproﬁt organisation
+sometime in the past year
+
+0.815
+
+3.
+
+It is expected of me that I donate to a nonproﬁt
+organisation sometime in the next year
+
+0.772
+
+4.
+
+Most people whose opinions I value donated to a
+nonproﬁt organisation sometime in the past year
+
+0.890
+
+Table A12.
+Subjective norms –
+Study 2
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+EJM
+56,1
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.835
+
+1.
+
+I am conﬁdent that if I wanted to I could donate to a
+nonproﬁt organisation sometime in the next year
+
+0.755
+
+2.
+
+My donating to a nonproﬁt organisation sometime in
+the next year is completely up to me
+
+0.853
+
+3.
+
+I have complete control over whether or not I donate to a
+nonproﬁt organisation
+
+0.838
+
+4.
+Table A13.
+Perceived
+behavioural control – 5.
+Study 2
+
+Donating to a nonproﬁt organisation is beyond my
+capabilities
+
+0.619
+
+For me to donate to a nonproﬁt organisation sometime
+in the next year is:
+
+0.632
+
+250
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.953
+
+1.
+
+I got involved in what the ad had to say
+
+0.892
+
+2.
+
+The message seemed relevant to me
+
+0.890
+
+3.
+
+This ad really made me think
+
+0.940
+
+4.
+
+This ad was thought-provoking
+
+0.900
+
+5.
+
+The Better Cities Coalition was very
+interesting
+
+0.932
+
+I felt strong emotions while watching this
+ad
+
+0.847
+
+Table A14.
+Involvement with the 6.
+ad – Study 2
+
+Item
+
+Table A15.
+Attitude toward
+charitable
+organisations –
+Study 2
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+0.886
+
+1.
+
+The money given to charities goes for good causes
+
+0.873
+
+2.
+
+Much of the money donated to charity is wasted
+
+0.839
+
+3.
+
+Charitable organisations have been quite successful
+in helping the needy
+
+0.871
+
+4.
+
+Charity organisations perform a useful function for
+society
+
+0.871
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+Item
+
+Factor
+loadings
+
+Cronbach’s
+alpha
+
+0.714
+
+0.720
+
+1.
+
+The federal government will have to introduce harsh
+measures to halt pollution, as few people will
+regulate themselves
+
+2.
+
+We should not worry about killing too many game
+animals because in the long run things will balance
+out
+
+3.
+
+I’d be willing to make personal sacriﬁces for the sake of
+slowing down pollution even though the immediate
+results may not seem signiﬁcant
+
+4.
+
+Pollution is not personally affecting my life
+
+5.
+
+The beneﬁts of modern consumer products are more
+important than the pollution that results from their
+production and use
+
+6.
+
+We must prevent any type of animal from becoming
+extinct, even if it means sacriﬁcing some things for
+ourselves
+
+7.
+
+A course focussing on the conservation of natural
+resources should be taught in public schools
+
+8.
+
+Although there is continual contamination of our lakes,
+streams and air, nature’s purifying process soon
+returns them to normal
+
+9.
+
+Because the government has such good inspecting and
+control agencies, it’s very unlikely that pollution due
+to energy production will become excessive
+
+10.
+
+The government should provide each citizen with a list
+of agencies and organisations to which citizens
+could report grievances concerning pollution
+
+0.674
+
+11.
+
+Predators such as hawks, crows, skunks and coyotes
+which prey on farmers’ grain crops and poultry
+should be eliminated
+
+0.653
+
+0.773
+
+Preexisting
+beliefs
+
+251
+
+0.736
+0.803
+
+0.745
+
+0.769
+0.784
+
+0.779
+
+Table A16.
+Environmental
+concern – Study 2
+
+Corresponding author
+Eric Van Steenburg can be contacted at: eric.vansteenburg@montana.edu
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/ejm/article-pdf/56/1/209/174842/ejm-01-2020-0031.pdf by WU Wirtschaftsuniversitet Wien user on 23
+
+

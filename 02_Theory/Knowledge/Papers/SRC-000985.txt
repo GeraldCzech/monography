@@ -1,0 +1,3328 @@
+Voluntas (2019) 30:783–799
+https://doi.org/10.1007/s11266-017-9843-3
+
+ORIGINAL PAPER
+
+Charitable Giving: What Influences Donors’ Choice Among
+Different Causes?
+Michaela Neumayr1 • Femida Handy2
+
+Published online: 1 March 2017
+Ó International Society for Third-Sector Research and The Johns Hopkins University 2019
+
+Abstract While the literature is replete with studies that
+identify factors explaining why people are likely to make
+monetary contributions, less is known about which particular charitable causes they are likely to choose and how
+much they donate to them. This article examines donor
+choice among eight different causes using survey data
+collected in 2011 for a nationally representative sample in
+Austria. In particular, the study investigates the role of
+individual-level factors: subjective dispositions such as
+empathic concern, trust, and religiosity, and resources such
+as education and income. We find that subjective dispositions rather predict a donor’s incidence of giving among
+causes but not the amount donated. Human resources, in
+contrast, are associated with both the incidence and the
+amount donated to particular causes, and they also mediate
+the impact of subjective dispositions. What is more, the
+study reveals that being asked to donate has the highest
+explanatory power regarding the incidence of giving
+among all causes investigated.
+
+Update 20 July 2019 The PDF version of this article was reformatted
+to a larger trim size.
+& Michaela Neumayr
+mneumayr@wu.ac.at
+Femida Handy
+fhandy@sp2.upenn.edu
+1
+
+Institute for Nonprofit Management, WU – Vienna University
+of Economics and Business, Welthandelsplatz 1,
+1020 Vienna, Austria
+
+2
+
+School of Social Policy and Practice, University of
+Pennsylvania, 3701 Locust Walk, Philadelphia,
+PA 19104-6214, USA
+
+Keywords Charitable giving  Philanthropy  Donations 
+Donor choice  Solicitation  Resources  Personality traits
+
+Introduction
+Charitable giving is a ubiquitous global phenomenon
+(Wiepking and Handy 2015), and this naturally raises
+questions like: Why do people give away their money, and
+when they do, what influences their choice of what causes
+to support? While the extant literature is replete with
+studies that examine why people make contributions of
+money, less is known about the factors that predispose an
+individual’s choice to the particular causes. The literature
+survey undertaken by Bekkers and Wiepking (2011),
+across various disciplines and methodologies, reveals eight
+mechanisms that explain donors’ decisions to give. They
+include the awareness of need by the donor, being solicited
+for donations, and donors’ reputational concerns and values
+(Bekkers and Wiepking 2011). While these mechanisms
+may explain why individuals donate, they do not explain
+donors’ choices among the various causes. For example, an
+individual might be motivated by his/her values to make a
+charitable donation; however, what influences the individual’s choice among a plethora of causes seeking funds?
+In this paper, we examine this underexplored question
+using a nationally representative sample from Austria and
+investigate factors that are likely to predict which causes
+people donate to and the amount donated.
+While this study primarily draws on literature that has
+identified mechanisms that predict charitable giving, it also
+includes studies that have established human resources and
+subjective dispositions–such as personality traits, attitudes
+and values– that may impact donations (Bekkers 2006;
+Einolf 2011; Wilson 2012). The principal focus of this
+
+123
+
+784
+
+research thus is on ‘donor choice,’ referring to both the
+incidence of giving and the amount donated using factors
+identified in the literature. It extends the current knowledge
+on donor choice in several ways. By utilizing a nationally
+representative data on donor choice, the amount donated to
+eight different causes and whether individuals had been
+solicited for each of the causes or not, we are able to
+address several limitations of previous studies. For example, existing studies examine giving to different organizations, or one or two causes, do not investigate the amount
+donated or do not use nationally representative samples.
+Moreover, we examine the influence of both individual
+resources and subjective dispositions and analyze the predictors in a stepwise approach, applying Heckman regression models to explore their differential impact and
+whether the effects of subjective dispositions are mediated
+by resources.
+
+Review of the Literature on Donors’ Choice
+We first examine the research addressing donors’ giving to
+various causes, followed by the literature on the determinants of donor choice. From this, we derive hypotheses
+related to (1) subjective dispositions and (2) resources.
+Overview of Studies on Donor Choice
+A large number of studies investigate the factors that affect
+giving among one or two types of charities in a single
+study. Most frequently, these studies analyze giving to
+secular and religious causes (e.g., Helms and Thornton
+2012) or explore giving to international and national causes
+(e.g., Rajan et al. 2008). Other studies concentrate on a
+single cause (e.g., arts and culture, see Barnes 2011) or
+focus on a particular factors’ impact on donor choice, such
+as income (e.g., Breeze and Lloyd 2013; Ostrower 1997) or
+gender (e.g., Andreoni et al. 2003; Brown and Ferris 2007;
+Piper and Schnepf 2008; Rooney et al. 2007).
+Few empirical studies investigate factors influencing
+donor choice between more than two causes in a single
+study. Among them is an article of Casale and Baumann
+(2015) employing data from the USA, the studies of
+Micklewright and Schnepf (2009), Sargeant et al. (2008),
+Kottasz (2004), and Bennett (2003), all of them referring to
+data from the UK, and the work of Wiepking (2010) and
+Srnka et al. (2003), both from continental Europe (see
+Table 1).
+While all of them investigate determinants of donor
+choice across at least three causes, donor choice is often
+reduced to the incidence, while the amount donated is not
+considered, a serious limitation in the study of donor
+choice. Some of them solely examine donations for
+
+123
+
+Voluntas (2019) 30:783–799
+
+particular organizations (e.g., Bennett 2003; Sargeant et al.
+2008; Wiepking 2010) or do not use nationally representative samples (e.g., Srnka et al. 2003).
+As mentioned above, we address these limitations in our
+study by examining the amount donated over eight different subsectors, looking at several determinants, such as
+donors’ subjective dispositions and resources. Furthermore,
+our research is conducted in a non-English-speaking
+country using a nationally representative sample, adding to
+the literature on donor choice, which for the most part has
+investigated English-speaking countries and non-representative samples.
+Determinants of Donor Choice and Hypotheses
+The large disciplinary and interdisciplinary literature on the
+determinants of prosocial behavior in general and giving in
+particular is surveyed in noteworthy exhaustive literature
+reviews by Bekkers and Wiepking (2011), Wiepking and
+Bekkers (2012b) and Wilson (2012). It finds that psychological theories tend to focus on subjective dispositions
+such as personality traits, attitudes, values, norms, selfconcepts, and motivations in order to explain prosocial
+behavior, while sociological theories emphasize individual
+socio-demographic characteristics and human resources
+(Wilson 2012, p. 178). Scholars unanimously suggest to
+combine insights from various disciplines when studying
+the determinants of charitable behavior in order to generate
+new knowledge and not replicate findings from single
+disciplines (Wiepking and Bekkers 2012b).
+Drawing on previous research that explored whether
+individual resources compensate or moderate subjective
+dispositions’ impact on charitable giving (Bekkers 2006;
+Einolf 2011), we include both resources and subjective
+dispositions to explain donor choice. We next present,
+based on the literature, how (1) subjective dispositions and
+(2) human resources affect donor choice. The term subjective disposition comprises a wide range of concepts,
+including personality traits, motives, attitudes, norms, and
+values which all refer ‘to the way people interpret themselves and the world around them’ (Wilson 2012, p. 179).
+In our study, the subjective dispositions used are generalized trust, empathic concern and religiosity. Human
+resources generally include the individual assets that may
+impact giving such as education and income.
+Subjective Dispositions: Generalized Trust,
+Empathic Concern, and Religiosity
+Generalized Trust
+Individuals with higher levels of general trust are both
+more likely to donate and to give higher amounts compared
+
+Voluntas (2019) 30:783–799
+
+785
+
+Table 1 Empirical literature investigating donor choice
+Authors
+
+Country
+
+Sample
+
+Dependent
+Variable(s)
+
+Causes Investigated: Donor choice
+
+Casale and Baumann
+(2015)
+
+US
+
+Nationally
+representative
+sample
+
+Incidence of
+giving
+
+International and pooled Domestic issues (Religion, Youth
+development, Education, Health, Human services,
+Environment, Adult recreation, Arts, Public/societal benefit,
+Political, Private foundations)
+
+Wiepking (2010)
+
+NL
+
+Incidence of
+giving
+
+Sixty-four nonprofits
+
+Incidence and
+intensity of
+giving
+
+International and Domestic causes,
+[Partial analyses for Animal welfare, Medical research, Children]
+
+n = 4178
+Nationally
+representative
+sample
+
+(International, Faith-based, Children, Culture, Community/
+welfare services, Health/disability, Environment/animal
+protection)
+
+n = 1246
+households
+
+[investigated: organizations]
+
+Micklewright and
+Schnepf (2009)
+
+UK
+
+Nationally
+representative
+sample
+n = 9050
+
+(Last 4 weeks)
+
+Sargeant et al. (2008)
+
+UK
+
+Donors from nine
+nonprofits
+n = 1255
+
+Incidence of
+giving
+
+Visual impairment, Animal welfare, Children
+
+Non-random
+sample
+
+Preference for
+giving
+
+Animal welfare, Arts, Social services
+
+n = 217
+
+(Conjoint
+analyses)
+
+One geographical
+region
+
+Incidence of
+giving
+
+Church Organizations, Social services, Health care, Emergency
+aid, Children’s organizations, Environment/Animal protection,
+Refugee, Development Aid, Human rights
+
+Intensity of giving
+£100 (Forced
+choice)
+
+Animal Welfare, Cancer research, Human rights
+
+Kottasz (2004)
+
+Srnka et al. (2003)
+
+UK
+
+Austria
+
+[investigated: organizations]
+
+n = 264
+(quota-sample)
+Bennett (2003)
+
+UK
+
+Non-random
+sample
+n = 250
+
+to people with lower levels of general trust (Bekkers 2003a,
+p. 598). Moreover, the individual level of general trust
+influences the charity of choice (Brown and Ferris 2007;
+Wiepking 2010), since more trusting individuals are more
+likely to give to organizations where trust is required
+(Bekkers 2003a, p. 598). Philanthropic organizations
+depend on donors’ trust, as donors cannot easily monitor
+the use of their donations (Bekkers 2003a, p. 596). For
+example, nonprofits that take on issues regarding international relief or environmental protection cannot easily be
+monitored by donors and require donor trust to elicit
+donations as their output may not be directly traced to their
+efforts or take place many years after. Thus, such nonprofits may likely attract donors that have higher levels of
+generalized trust (Wiepking 2010, p. 1085).
+Hypothesis 1 Generalized trust is positively related to
+the incidence of giving and the amount donated for International Relief and Environmental Issues.
+
+[investigated: organizations]
+
+Empathic Concern
+It is intuitively plausible that individuals who score higher
+on the empathic concern scale (i.e., responding to another
+person’s situation with feelings that resemble the experience of the other) understand the needs of others better than
+those who do not score that high and thus are more likely to
+show prosocial behavior (Wiepking and Maas 2009; Wilson 2012). Indeed, empirical studies reveal that empathic
+concern is positively related to charitable giving (Bekkers
+and Wiepking 2011; Bennett 2003). Bekkers (2006), for
+instance, finds a positive relationship between empathic
+concern and generosity, with higher empathy related to
+higher total donations. The ability to empathize with others
+matters particularly when the beneficiaries are vulnerable
+and need some sort of protection (Webb and Khoo 2010,
+p. 2) or are suffering (Verhaert and Van den Poel 2011,
+p. 1293). This suggests that empathic donors are more
+likely to be attracted by causes that activate empathy such
+as international relief. Cheung and Chan (2000) found
+empathy to be related to the incidence of giving to international causes. Bennett (2003), in his study of donor
+
+123
+
+786
+
+choice among three organizations, found that empathic
+concern was related to the incidence of giving for cancer
+care and animal welfare, but not human rights. Thus, on
+donor choice, we hypothesize:
+Hypothesis 2 Empathic concern is positively related to
+the incidence of giving and the amount donated for
+Domestic Relief, International Relief, Social Services,
+Health and Animal Welfare.
+Religiosity
+Individual level of religiosity, regardless of whether indicated by religious affiliation or religious service attendance, is a significant predictor of the likelihood and the
+level of giving (Bekkers and Wiepking 2011). The mechanisms involved in this relationship differ for the two
+indicators of religiosity. Religious affiliated people give
+because they are taught it is their duty to help and because
+they may have stronger prosocial values compared to not
+religious affiliated individuals. People who regularly attend
+religious services are—in addition of having stronger
+prosocial values—more strongly involved in the religious
+community; they give because they face a stronger social
+norm on giving and higher levels of social pressure to
+conform to group standards (Bekkers and Wiepking 2011).
+Moreover, religious service attendance brings people into
+opportunities to engage in promoting the collective good as
+they receive more solicitations (at religious service) to
+contribute to religious and secular causes the congregation
+supports (Brooks 2003; Brown and Ferris 2007). Empirical
+studies find religious affiliation and attendance at religious
+services positively related to religious giving and also
+secular giving (Bekkers and Wiepking 2011). For example,
+Wiepking (2010) finds that religious organizations have an
+increased likelihood of receiving donations from religiously affiliated people, while Casale and Baumann
+(2015) find that religious attendance is a significant predictor of religious giving as well as giving to international
+causes. The latter is due to ‘religious institutions taking up
+special collections for international programs’ (p. 115).
+Taking account for the different mechanisms at work for
+religious affiliation and religious attendance, we formulate
+two hypotheses:
+Hypothesis 3a Religious Affiliation is positively related
+to the incidence of giving and the amount donated for
+Religious Causes.
+Hypothesis 3b Religious Attendance is positively related
+to the incidence of giving and the amount donated for
+Religious Causes and International Relief.
+
+123
+
+Voluntas (2019) 30:783–799
+
+Human Resources: Education and Income
+Education
+The level of formal education is one of the main predictors
+of charitable giving, and it is positively related to the
+inclination to give and the amount donated (Bekkers and
+Wiepking 2011). This is because of values, as education
+fosters prosocial motivation, and because education brings
+people into social networks, entailing higher levels of
+solicitations (Bekkers and Wiepking 2011; Brown and
+Ferris 2007). Also, it is argued that people with higher
+levels of education have higher cognitive abilities, which
+make them ‘better able to understand’ complex situations
+and therefore the needs of distant others (Wiepking and
+Maas 2009, p. 1977). In addition, higher levels of education are assumed to increase the degree of abstract thinking, which is necessary for making charitable donations to
+less concrete causes without quantifiable goals (Wiepking
+and Maas 2009, p. 1978), such as international relief or
+environmental issues. In other words, the awareness of
+need (Bekkers and Wiepking 2011) for rather distant and
+abstract causes is assumed to be more developed among
+people who have attained higher levels of formal education. Prior empirical research underpins these assumptions;
+it identifies a positive relation between higher educated
+donors and giving to international causes (Micklewright
+and Schnepf 2009; Rajan et al. 2008; Ribar and Wilhelm
+1995). Srnka et al. (2003) in their bivariate analyses find
+education positively related to development aid, human
+rights, environment, and animal protection. We note that
+animal welfare includes both animal shelters as well as the
+protection of endangered wildlife, which is less proximate
+(elephants, for example) and likely to be abstract as compared to animal shelters. Based on these considerations, we
+thus hypothesize:
+Hypothesis 4 Higher Education is positively related to
+the incidence of giving and the amount donated for International Relief, Animal Welfare, and Environmental
+Issues.
+Income
+While income is consistently identified as an important
+predictor of the amount donated, the results are mixed for
+the association between income and the incidence of giving; studies either find a positive or no relationship. As
+people with all levels of income are capable of making
+donations, those with higher income can afford to give
+more (Wiepking and Bekkers 2012a). With regard to
+donors’ choice, individuals with higher income may also
+
+Voluntas (2019) 30:783–799
+
+prefer to donate to different causes than those with lower
+incomes.
+Due to their life-experience, wealthy people and poor
+people ‘might have different perspectives of the issues that
+are most deserving assistance’ (Bennett 2012, p. 873). As
+individuals with lower incomes are closer to social problems such as bad housing, vulnerability to crime, or lowquality medical care, they are said to be particularly more
+aware of social needs of others (Bennett 2012). Others
+argue that giving provides an opportunity to express personal taste, passion, personal interest and is an act of selfactualization (Bennett 2003; Ostrower 1997; Radley and
+Kennedy 1995). Donors thus give to causes which relate to
+their personal taste and also care about the cause’s reputation (Breeze and Lloyd 2013; Kottasz 2004). Breeze and
+Lloyd (2013), Banks and Tanner (1999), and Sargeant and
+Woodliffe (2007) show that affluent people predominately
+give to arts and culture and higher education in the UK.
+According to Kottasz (2004), high-earning professional
+males are attracted to giving to arts and cultural charities,
+particularly well-established organizations from which they
+can then receive invitations to special events and are likely
+to be solicited. Similar results were found by Ostrower
+(1997), who investigated elite giving. Furthermore, qualitative studies provide evidence that wealthy people are
+more likely to donate to arts and culture, education, health,
+and medical research, but not that frequently to environmental causes, religious organizations, and overseas
+development (Lloyd 2004, p. 2). Following the reasoning
+above, we thus hypothesize:
+Hypothesis 5 Income is positively related to the incidence of giving and the amount donated for Culture and
+Education.
+
+787
+
+Using these longer modules results in more accurate
+data as people are better in recollecting their actual donations when cues (such as method used or cause for the
+solicitation) are given (Bekkers and Wiepking 2006),
+thereby avoiding the recall bias of shorter surveys (Hall
+2001; Kirsch et al. 2001; Rooney et al. 2004; Wilhelm
+2007). The responses provided detailed data that included
+information on the amount donated for each of the eight
+listed causes. In addition, the survey measured individuallevel variables beyond socio-demographics, such as levels
+of generalized trust, income, religiosity, community type,
+and volunteering behavior.
+Dependent Variables
+The dependent variable in the first part of our analysis is
+the intensity of giving in the previous 12 months: a continuous variable in the form of the log of the total amount
+donated by an individual. In the second part of our analyses, we investigate eight dependent variables; the log of
+the amount donated to each of the following causes: Animal Welfare, Environmental Issues, International Relief,
+Domestic Relief, Social Services, Health, Religious Causes, and Culture and Education. In the descriptive statistics
+in Table 2, we report on the donations made to each particular cause, and note that more than half of the sample
+(54.9%) made a donation (i.e., to any cause).
+Independent Variables
+The predictor variables we use to test our hypotheses refer
+to individuals’ human resources and subjective dispositions. Human resources are the level of formal education
+and income. Education is measured by three categorical
+variables. The initial level (B9 years of formal education)
+
+Data, Measures, and Method
+Table 2 Descriptive statistics on dependent variables
+
+This study employs data derived from a research project
+using a stratified multistage design and face-to-face interviews of 1011 Austrian adults aged 15 years and older. The
+sample is nationally representative, and the data were
+collected in the fall of 2011 with questions probing individuals’ giving behavior in the previous 12 months.
+To avoid recall bias associated with donations made in
+the previous 12 months, the survey included several recall
+cues in the form of two separate modules. Module 1 asks
+the individual to recall whether they have made donations
+using one of the different methods listed (e.g., door-todoor, online, etc.) and if yes, the amount donated; module 2
+asks if an individual has made donations to any one the
+causes listed (e.g., international relief, animal welfare,
+etc.), and if yes, how much.
+
+Dep. variables
+
+Amount (Euro)
+Mean
+
+Median
+
+SD
+
+Total donations
+
+98.807
+
+35.500
+
+263.547
+
+Animal Welfare
+
+58.713
+
+20.000
+
+243.522
+
+Environmental Issues
+
+53.375
+
+25.000
+
+63.401
+
+International Relief
+
+58.961
+
+50.000
+
+57.975
+
+Domestic Relief
+Social Services
+
+26.099
+64.983
+
+20.000
+25.000
+
+31.573
+171.390
+
+Health
+
+130.734
+
+25.000
+
+670.218
+
+Religious Causes
+
+48.424
+
+20.000
+
+160.830
+
+Culture and Education
+
+209.621
+
+20.000
+
+922.467
+
+n = 1011; the research design allowed people to indicate giving to
+multiple causes
+
+123
+
+788
+Table 3 Descriptive statistics
+on independent variables
+
+Voluntas (2019) 30:783–799
+
+Independent variables
+
+Mean
+
+SD
+
+Min
+
+Max
+
+Age less than 30 (cat. reference)
+
+0.176
+
+0.381
+
+0.00
+
+1.00
+
+Age between 30 and 64
+
+0.572
+
+0.495
+
+0.00
+
+1.00
+
+Age more than 64
+
+0.252
+
+0.435
+
+0.00
+
+1.00
+
+Gender (female = 1)
+
+0.574
+
+0.495
+
+0.00
+
+1.00
+
+Material status (married = 1)
+
+0.477
+
+0.500
+
+0.00
+
+1.00
+
+Children in household (yes = 1)
+
+0.157
+
+0.364
+
+0.00
+
+1.00
+
+Community type (rural = 1; urban = 0)
+
+0.676
+
+0.468
+
+0.00
+
+1.00
+
+Generalized trust
+
+2.797
+
+0.889
+
+1.00
+
+5.00
+
+Empathic concern
+
+3.349
+
+0.937
+
+1.00
+
+5.00
+
+Religious affiliation (yes = 1)
+
+0.806
+
+0.396
+
+0.00
+
+1.00
+
+Religious attendance (never = 1; often = 4)
+
+2.110
+
+1.040
+
+1.00
+
+4.00
+
+Level of education 1 (cat. reference)
+
+0.196
+
+0.397
+
+0.00
+
+1.00
+
+Level of education 2
+
+0.579
+
+0.494
+
+0.00
+
+1.00
+
+Level of education 3
+
+0.226
+
+0.418
+
+0.00
+
+1.00
+
+Ln of income
+Volunteering (yes = 1)
+
+6.773
+0.173
+
+1.470
+0.379
+
+0.00
+0.00
+
+8.41
+1.00
+
+Solicited for any cause (yes = 1)
+
+0.575
+
+0.495
+
+0.00
+
+1.00
+
+N = 1011
+
+serves as reference category followed by the second category (10–12 years of formal education) and third category
+([12 years of formal education). Income is measured by
+the natural logarithm of respondents’ annual income.
+Subjective dispositions measured in the survey include:
+generalized trust, empathic concern as well as religious
+affiliation and attendance. The degree of generalized trust
+is measured using three items on a five-point Likert scale
+developed by Rosenberg (1956) and modified by Bekkers
+(2003a). The items are: ‘In general, most people can be
+trusted,’ ‘You cannot be too careful in dealing with other
+people,’ (reverse coded) and ‘Most people would tell a lie
+if they could gain by it’ (reverse coded). The trust variable
+was computed as the mean of these items (Cronbach’s
+alpha = 0.790).
+Empathic Concern levels measured by four items on a
+five-point Likert scale, developed by Davis (1994) are: ‘I
+often feel concern for people who are less fortunate
+materially then me,’ ‘Other people’s problems don’t usually bother me’ (reverse coded), ‘I am often touched by
+what other people go through,’ and ‘Other people’s misfortune does not usually bother me’(reverse coded) (cf.
+Bekkers 2004; Davis 1994). Empathic Concern was calculated as the mean of these items (Cronbach’s
+alpha = 0.704).1
+Religious Affiliation is measured by a dummy variable
+indicating self-identified religious affiliation (such as
+Roman Catholic and Protestant); and Religious Attendance
+1
+
+Responses were factor analyzed; one-dimensional solutions
+emerged in both Generalized Trust and Empathic Concern.
+
+123
+
+was measured using a scale with response ranging from 1
+(=never attending) to 4 (=attending often) (Table 3).
+Our control variables are socio-demographics that are
+found to influence charitable giving in the literature. We
+include a dummy variable for gender (female = 1) and
+measure age by three categories with a dummy variable for
+each of them. Dummy variables for age are used as the
+relationship between age (in years) and giving may be
+nonlinear. In other words, age might be related to giving
+only when it is above a certain threshold (cf. Bekkers
+2003b, p. 608). The three categories used are: greater than
+64 years old, between 30 and 64 years, and less than
+30 years old, which is the reference category.2
+We also control for marital status with a dummy variable for individuals who are ‘married or cohabitating,’ as
+opposed to single, divorced and not-cohabiting, and widowed people. This controls for the belief that individuals
+with more extended social networks are more often solicited for donations (Wiepking and Maas 2009, p. 1976).
+Similarly, we include a dummy variable indicating whether
+the respondents live in a household with at least one child
+younger than 14 years or whether the individual has done
+volunteer work (dummy variable) in the previous
+12 months, to control for extended social networks that
+may influence charitable giving and solicitations. Moreover, we control for the type of community in which donors
+2
+
+Empirically, there is evidence that giving might increase until
+people retire (this is at about 65 in Austria), but decreases afterward,
+at least for those who have low levels of income (Bekkers and
+Wiepking 2011).
+
+Voluntas (2019) 30:783–799
+
+789
+
+reside; individuals in rural environments are significantly
+more likely to donate as compared to individuals in urban
+environments (AFP 2010) due to a greater sense of
+reciprocity and higher social pressure due to increased
+likelihood of face-to face contacts, and making non-compliance with social norms easily detected (Bekkers
+2005, 2006, p. 350). The Community Type variable was
+measured by a dummy variable = 1 if living in a community with less than 50,000 inhabitants, and 0 = if living
+in a community with more than 50,000 inhabitants.
+Our final control is a dummy variable which refers to
+‘Being Asked,’ since the majority of donations occur in
+response to a solicitation (Andreoni and Payne 2003;
+Bryant et al. 2003). Being asked makes the donor aware of
+the need, exerts social pressure and also presents an
+opportunity to donate (Wang and Graddy 2008). In the first
+part of our analysis, the dummy variable ‘Being Asked’
+refers to any cause. In the second part of the analysis, the
+dummy refers to giving to different causes and is the
+responses to the eight questions in the survey: ‘In the last
+12 months, have you been personally asked for donating
+money to the following causes?’ With a list of causes
+provided: Animal Welfare; Health; etc.
+
+The stepwise approach allows us to examine the impact
+of subjective dispositions and human resources sequentially and to see whether the effects of the predictor variables stay robust when adding the controls for solicitation
+and volunteering. By introducing subjective dispositions
+before human resources in our regressions, we are able to
+test whether effects of subjective dispositions are mediated
+by resources, following Bekkers (2005). We employ the
+same regressors in the first (selection) and in the second
+(outcome) equation of the Heckman model, except for the
+variable on an individuals’ community type, which is
+excluded in the second-stage regression as this variable has
+a stronger influence on the incidence and not intensity to
+donate (AFP 2010).
+In order to compare the effect sizes of the various predictors, variables were Z-standardized before running
+regression analyses. Our analysis on total giving refers to
+the full sample; all subsequent analyses on donor choice
+are based on donors only, i.e., individuals who have
+donated to at least one cause.
+
+Method
+
+In this section, we first describe the findings on the factors
+that influence total giving, both on the decision to give and
+the amount donated. Subsequently, we report the results on
+the factors that influence donor choice for the different
+causes and make reference to the relevant hypotheses with
+respect to our findings.
+
+For our analytical strategy, we utilize Heckman’s two-stage
+regression models (Heckman 1979) to investigate factors
+that influence donor behavior. This is done as the decision
+to donate precedes the amount donated, and this prior
+decision may be influenced by different factors than the
+secondary decision on the amount given (Forbes and
+Zampelli 2011, p. 1149). The Heckman two-stage regression model estimates the first selection (to donate or not)
+with a probit and incorporates the results of the first-stage
+selection in the second-stage decision (amount donated)
+(Forbes and Zampelli 2011, p. 1149). We conduct our
+analysis with Stata/SE 14.1.
+In order to test the hypotheses of this study, for each of
+the eight charitable causes we present three Heckman
+regression models.3 The first model (Model I for each
+cause) includes our controls for age, gender, children,
+marital status, and the four predictor variables on subjective dispositions: level of Generalized Trust, Empathic
+Concern, Religious Affiliation, and Religious Attendance.
+In the second model (Model II), we add our predictors on
+human resources, i.e., Education and Income. In the final
+model (Model III for each cause), we add the variables on
+solicitation and volunteering.
+3
+
+Multinomial regression analyses are not applicable because the
+research design allowed respondents to indicate giving to multiple
+causes.
+
+Findings
+
+Results on Total Giving
+Table 4 exhibits the coefficients of the Heckman two-stage
+regression on individuals’ amount donated. We find that all
+subjective dispositions predictors: Generalized Trust,
+Empathic Concern, Religious Affiliation, and Religious
+Attendance are positively and significantly related to the
+incidence to donate. Empathic Concern and Religious
+Attendance are also positively related to the amount
+donated, while Religious Affiliation and the amount
+donated are negatively associated. Human resources,
+Education and Income, are not associated with the decision
+to donate in our data; however, Education is related positively to the amount donated: People who have attained
+twelve or more years of education are more generous
+compared to those with fewer years of education.
+The opposite is true for being solicited, which is positively and significantly associated with the decision to
+donate, but not with the amount donated. Older individuals,
+those who are married/cohabitated and those who volunteer—compared to their respective counterparts, are more
+likely to make a donation, while age and volunteering are
+
+123
+
+790
+
+Voluntas (2019) 30:783–799
+
+Table 4 Donations to all
+causes (Heckman two-stage
+regression analyses)
+
+Selection (of giving)
+Coefficients
+
+Amount of total donations
+Coefficients
+
+Age 30–64
+
+0.162*
+
+0.282**
+
+Age \64
+
+0.332***
+
+0.426**
+
+Gender (female = 1)
+
+0.077
+
+0.042
+
+Married
+
+0.145**
+
+0.074
+
+Children
+
+-0.085(?)
+
+-0.092
+
+Community type (rural = 1)
+
+0.009
+
+–
+
+Generalized trust
+
+0.104*
+
+0.078
+
+Empathic concern
+
+0.199***
+
+0.171*
+-0.183*
+
+Religious affiliation
+
+0.113*
+
+Religious attendance
+
+0.144**
+
+0.191*
+
+Level of education 2
+Level of education 3
+
+0.073
+0.093
+
+0.071
+0.447***
+
+ln of income
+
+-0.025
+
+0.065
+
+Volunteering
+
+0.152
+
+0.125*
+
+Solicited for any cause
+
+0.750
+
+-0.014
+
+Constant
+
+0.153
+
+3.426***
+
+N = 1011 447 censored observations; Dependent variable in outcome equation: ln of the amount donated;
+Coefficients base on z-standardized data; Wald ch2 = 142.37; Levels of significance: *** p B 0.01;
+** p B 0.05; * p B 0.10; (?) p B 0.10
+
+also positively associated with the amount donated.
+Examining the coefficients, we note that solicitation has the
+greatest association on whether a person has donated or not
+while the level of formal Education (twelve or more years)
+has the greatest impact on the total amount donated. Age,
+particularly being older than 64 years, has the secondstrongest impact both on the decision to give and the
+amount given. Control variables that are unrelated to
+individual giving behavior are: gender, having children,
+and the community type in which people reside.
+Results on Donor Choice
+Our findings on donors’ choice, expressed by the incidence
+of giving and the amount donated to the eight different
+causes are exhibited in Tables 5a–d. Using a stepwise
+approach, we identify predictors that are significant on the
+0.05-level in the three models (Model I, Model II and
+Model III) and focus on those that remain significant in
+Model II. For each predictor, we present our findings and
+relate them to the hypotheses proposed. The results on our
+hypotheses are summarized in Table 6.
+Subjective Dispositions: Our findings for subjective
+dispositions vary by cause as expected but not always in
+the ways hypothesized. We find subjective dispositions
+more likely to influence the decision to give but not the
+amount given with a few exceptions. Generalized Trust is
+positively associated with the decision to give and the
+amount given to Religious Causes, but negatively
+
+123
+
+associated with the decision to give to Domestic Relief.
+Thus, Hypothesis 1 is partially supported, as we find as
+expected a positive relationship between higher levels of
+Generalized Trust with International Relief but not with
+Environmental Issues—causes that are hard to evaluate or
+observe for the donor as compared to other causes.
+Our findings regarding Empathic Concern show partial
+support for Hypothesis 2. Donors higher on the empathic
+concern scale are more likely to give to International
+Relief, Social Services and Health in Models II, however,
+not for Domestic Relief and Animal Welfare. Remarkably,
+Empathic Concern, the ability of putting oneself in somebody’s shoes, influences the decision to give to particular
+causes but does not influence the amount donated to these
+causes, which suggests empathic individuals want to do
+something, but not much; we refer to this as the ‘low-cost’
+solution, that we expand on later.
+Religious Affiliation is not a predictor for giving to
+religious causes lending no support to Hypothesis 3a.
+Interestingly, it is negatively related to giving to Social
+Services and Environmental Issues, implying religiously
+affiliated donors being less likely to give toward these two
+causes. With respect to Religious Attendance, as expected
+there is a positive and significant relation with giving to
+Religious Causes, both for incidence and intensity but no
+support for International Relief, contrary to our expectations. Also, we find a significant and positive association
+with the decision to give to Social Services but negatively
+with giving to Health, Animal Welfare, and Culture and
+
+Voluntas (2019) 30:783–799
+
+791
+
+Table 5 Donations given by Cause (Heckman two-stage regressions)
+Animal Welfare
+
+Environmental Issues
+
+Model I
+
+Model II
+
+Model III
+
+Model I
+
+Model II
+
+Model III
+
+Age 30–64
+
+0.023
+
+0.231
+
+0.289
+
+0.062
+
+0.104
+
+0.118
+
+Age \64
+
+0.101
+
+0.295
+
+0.498
+
+0.865
+
+0.934
+
+Gender (female = 1)
+
+0.999
+
+0.462
+
+0.404
+
+-0.484
+
+-0.651
+
+-0.654
+
+Married
+
+-0.660
+
+-0.276
+
+-0.398
+
+0.239
+
+0.256
+
+0.295
+
+Children
+
+-0.594
+
+-0.249
+
+-0.295
+
+0.071
+
+0.054
+
+-0.028
+
+0.474
+
+0.037
+
+0.064
+
+-0.598(?)
+
+-0.622
+
+-0.406
+-0.227
+
+(a)
+Outcome Model
+
+Generalized trust
+
+0.762 (?)
+
+Empathic concern
+
+0.294
+
+0.086
+
+0.168
+
+0.011
+
+-0.013
+
+Religious affiliation
+
+-0.276
+
+-0.143
+
+0.044
+
+0.288
+
+0.418
+
+0.438
+
+Religious attendance
+Level of education 2
+
+-1.314
+
+-0.259
+0.203
+
+-0.293
+0.234
+
+-0.033
+
+-0.148
+-0.132
+
+-0.268
+0.006
+
+0.534 (?)
+
+-0.411
+
+0.047
+
+0.046
+
+-0.148
+
+Level of education 3
+
+0.673*
+
+ln of income
+
+0.055
+
+Volunteering
+
+-0.034
+
+Solicitation
+Constant
+
+-0.139
+-0.379
+
+1.178
+
+-1.297
+
+-8.606
+
+-0.624
+
+-1.369
+
+7.876**
+
+9.504 (?)
+
+10.328
+
+Age 30–64
+
+-0.015
+
+0.028
+
+0.059
+
+-0.137
+
+-0.091
+
+-0.094
+
+Age \64
+
+-0.004
+
+0.035
+
+0.144
+
+-0.277*
+
+-0.204
+
+-0.204
+
+0.148*
+
+0.172*
+
+0.138 (?)
+
+Married
+
+-0.107
+
+-0.109
+
+-0.171*
+
+Children
+
+-0.086
+
+-0.098
+
+-0.114
+
+Selection Model
+
+Gender (female = 1)
+
+-0.062
+
+0.168 (?)
+-0.066
+
+0.188 (?)
+-0.079
+
+-0.009
+
+-0.024
+
+-0.222**
+
+-0.157 (?)
+
+-0.044
+
+0.061
+
+0.118
+
+0.088
+
+0.028
+
+0.093
+0.077
+
+0.057
+-0.224**
+
+0.056
+-0.219**
+
+0.162
+-0.221*
+
+-0.212 **
+
+-0.237**
+
+0.052
+
+0.089
+
+0.129
+
+-0.044
+
+-0.027
+
+0.157
+
+0.160
+
+Community type (rural = 1)
+
+0.057
+
+0.129 (?)
+
+0.135 (?)
+
+Generalized trust
+
+0.084
+
+0.055
+
+Empathic concern
+Religious affiliation
+
+0.048
+-0.024
+
+0.042
+-0.019
+
+Religious attendance
+
+-0.233**
+
+Level of education 2
+
+0.139
+
+0.007
+
+Level of education 3
+
+0.172 (?)
+
+0.098
+
+0.307*
+
+0.204
+
+ln of income
+
+0.039
+
+0.025
+
+0.007
+
+0.027
+
+Volunteering
+
+-0.007
+
+Solicitation
+Constant
+
+0.128
+
+0.563***
+-0.903***
+
+-0.920***
+
+-1.056***
+
+International Relief
+
+0.544***
+-1.594***
+
+-1.626***
+
+-1.897***
+
+Domestic Relief
+
+Model I
+
+Model II
+
+Model III
+
+Model I
+
+Model II
+
+Model III
+
+Age 30–64
+
+-0.132
+
+-0.172
+
+-0.501
+
+0.216
+
+0.083
+
+-0.040
+
+Age \64
+
+-0.251
+
+-0.302
+
+-0.735
+
+0.286
+
+0.221
+
+0.099
+
+0.007
+
+0.056
+
+-0.051
+
+-0.216
+
+-0.103
+
+-0.068
+
+(b)
+Outcome Model
+
+Gender (female = 1)
+Married
+
+0.097
+
+0.071
+
+0.098
+
+0.193
+
+0.194*
+
+0.167*
+
+Children
+
+-0.072
+
+-0.093
+
+-0.194
+
+-0.039
+
+-0.049
+
+-0.075
+
+Generalized trust
+
+-0.030
+
+-0.015
+
+-0.112
+
+-0.180
+
+-0.146
+
+-0.099
+
+Empathic concern
+
+-0.180
+
+-0.140
+
+-0.383
+
+0.126
+
+0.122(?)
+
+0.121(?)
+
+Religious affiliation
+
+-0.016
+
+-0.037
+
+-0.166
+
+0.137
+
+0.140
+
+0.116
+
+123
+
+792
+
+Voluntas (2019) 30:783–799
+
+Table 5 continued
+International Relief
+
+Religious attendance
+
+Domestic Relief
+
+Model I
+
+Model II
+
+Model III
+
+Model I
+
+Model II
+
+Model III
+
+-0.144
+
+-0.094
+
+-0.099
+
+0.017
+
+0.042
+
+0.034
+
+0.051
+
+0.004
+
+0.132
+
+0.118
+
+Level of education 2
+Level of education 3
+
+0.133
+
+0.063
+
+0.239*
+
+0.231*
+
+ln of income
+Volunteering
+
+0.071
+
+0.150
+0.123
+
+0.148
+
+0.099
+0.077
+
+Solicitation
+Constant
+
+-0.966
+
+0.088
+
+5.203***
+
+4.978***
+
+6.886**
+
+1.608
+
+2.026**
+
+2.492**
+
+Age 30–64
+
+0.243*
+
+0.342**
+
+0.370**
+
+0.308
+
+0.290*
+
+0.151
+
+Age \64
+
+0.314**
+
+0.408**
+
+0.473**
+
+0.266
+
+0.236(?)
+
+0.147
+
+Selection Model
+
+Gender (female = 1)
+
+-0.004
+
+-0.005
+
+0.061
+
+-0.129
+
+-0.103
+
+Married
+
+0.016
+
+-0.004
+
+-0.030
+
+0.054
+
+0.069
+
+-0.001
+
+Children
+
+0.013
+
+-0.011
+
+0.053
+
+0.063
+
+0.073
+
+0.173*
+
+Community type (rural = 1)
+
+-0.126(?)
+
+-0.289***
+
+-0.221**
+
+-0.125(?)
+
+0.181
+
+0.203**
+
+0.194*
+
+Generalized trust
+
+0.164*
+
+0.130*
+
+0.128(?)
+
+-0.190
+
+-0.195**
+
+-0.135(?)
+
+Empathic concern
+
+0.264***
+
+0.266***
+
+0.295***
+
+-0.017
+
+-0.020
+
+0.051
+
+Religious affiliation
+
+0.024
+
+0.036
+
+0.087
+
+0.144
+
+Religious attendance
+
+0.122
+
+0.135(?)
+
+0.076
+
+-0.055
+
+Level of education 2
+Level of education 3
+
+-0.020
+0.241**
+
+ln of income
+
+-0.090
+
+0.144(?)
+
+0.080
+
+-0.037
+
+-0.071
+
+-0.026
+0.158
+
+-0.061
+-0.003
+
+-0.069
+-0.062
+
+-0.069
+
+0.156*
+
+0.214*
+
+Volunteering
+
+0.005
+
+0.043
+
+Solicitation
+
+0.544***
+
+0.871***
+
+Constant
+
+-0.806***
+
+-0.830***
+
+-0.923***
+
+Social Services
+
+-0.714
+
+-0.722***
+
+-0.923***
+
+Model II
+
+Model III
+
+0.251
+
+Health
+
+Model I
+
+Model II
+
+Model III
+
+Model I
+
+Age 30–64
+
+0.208
+
+0.246
+
+0.260
+
+0.030
+
+0.078
+
+Age \64
+
+0.422*
+
+0.453*
+
+0.484*
+
+-0.453
+
+-0.607
+
+0.238
+
+-0.106
+
+-0.092
+
+-0.085
+
+-0.455
+
+-0.756
+
+-0.199
+
+(c)
+Outcome Model
+
+Gender (female = 1)
+Married
+
+0.130
+
+0.134
+
+0.142
+
+-0.246
+
+-0.449
+
+0.041
+
+Children
+
+-0.062
+
+-0.069
+
+0.001
+
+0.114
+
+0.150
+
+-0.045
+
+Generalized trust
+
+0.098
+
+0.098
+
+0.116
+
+-0.008
+
+-0.007
+
+-0.023
+
+Empathic concern
+
+-0.071
+
+-0.058
+
+-0.205
+
+-0.571
+
+-0.749
+
+-0.179
+
+Religious affiliation
+
+0.157
+
+0.131
+
+0.176
+
+0.052
+
+0.096
+
+-0.122
+
+Religious attendance
+
+-0.204(?)
+
+-0.167
+
+-0.286
+
+0.736
+
+0.782
+
+0.279
+
+Level of education 2
+
+0.077
+
+-0.008
+
+-0.221
+
+0.040
+
+Level of education 3
+ln of income
+
+0.120
+0.003
+
+0.064
+-0.035
+
+-0.109
+-0.929
+
+0.209
+-0.319
+
+Volunteering
+
+0.124
+
+0.341
+
+Solicitation
+
+-0.509
+
+-0.552
+
+Constant
+
+4.500***
+
+4.308***
+
+5.470***
+
+10.068
+
+11.790
+
+5.947
+
+Age 30–64
+
+0.140
+
+0.139
+
+0.094
+
+0.055
+
+0.035
+
+0.023
+
+Age \64
+
+0.095
+
+0.112
+
+0.073
+
+0.235*
+
+0.230*
+
+0.224(?)
+
+Selection Model
+
+123
+
+Voluntas (2019) 30:783–799
+
+793
+
+Table 5 continued
+Social Services
+Model I
+Gender (female = 1)
+Married
+
+Health
+Model II
+
+Model III
+
+Model I
+
+Model II
+
+Model III
+
+0.024
+
+0.045
+
+0.026
+
+0.125(?)
+
+0.167*
+
+0.203**
+
+-0.010
+
+-0.011
+
+0.006
+
+0.143*
+
+0.158*
+
+0.165*
+
+Children
+
+-0.082
+
+-0.082
+
+-0.114(?)
+
+-0.082
+
+-0.075
+
+-0.107
+
+Community type (rural = 1)
+Generalized trust
+
+-0.217***
+0.062
+
+-0.192**
+0.053
+
+-0.095
+0.009
+
+-0.068
+0.011
+
+-0.050
+0.011
+
+0.011
+0.030
+
+Empathic concern
+
+0.140*
+
+0.142*
+
+Religious affiliation
+
+-0.148*
+
+-0.147*
+
+Religious attendance
+
+0.151*
+
+0.202**
+-0.094
+
+0.181**
+
+0.189**
+
+0.244**
+
+-0.005
+
+-0.013
+
+0.069
+
+-0.188*
+
+0.168*
+
+0.137(?)
+
+-0.164*
+
+-0.208*
+
+Level of education 2
+
+0.104
+
+0.114
+
+0.075
+
+0.126
+
+Level of education 3
+
+0.131
+
+0.099
+
+0.052
+
+0.062
+
+ln of income
+
+0.032
+
+0.047
+
+0.188(?)
+
+0.136
+
+Volunteering
+
+-0.051
+
+Solicitation
+Constant
+
+-0.107
+
+0.493***
+-0.506***
+
+-0.510***
+
+-0.532***
+
+Religious Causes
+
+0.502***
+-0.911***
+
+-0.929***
+
+-1.034***
+
+Culture/Education
+
+Model I
+
+Model II
+
+Model III
+
+Model I
+
+Model II
+
+Model III
+
+Age 30–64
+
+0.068
+
+0.143
+
+0.176
+
+0.032
+
+0.768
+
+0.610
+
+Age \64
+
+0.189
+
+0.291*
+
+0.330**
+
+-0.048
+
+-0.009
+
+0.000
+
+-0.376
+
+-0.136
+
+-0.210
+
+0.020
+
+-0.011
+
+-0.020
+
+-0.034
+
+0.333
+
+0.286
+
+-0.136(?)
+0.230**
+
+-0.143*
+0.229***
+
+0.077
+0.068
+
+0.436(?)
+0.234
+
+0.489
+0.140
+0.201
+
+(d)
+Outcome Model
+
+Gender (female = 1)
+Married
+Children
+Generalized trust
+
+-0.115
+0.237**
+
+Empathic concern
+
+0.041
+
+0.066
+
+0.070
+
+0.334
+
+0.139
+
+Religious affiliation
+
+0.188
+
+0.148
+
+0.071
+
+-0.049
+
+0.218
+
+0.426
+
+Religious attendance
+
+0.599*
+
+0.383
+
+0.300*
+
+0.241
+
+-0.147
+
+-0.250
+
+0.093
+
+0.076
+
+0.088
+
+-0.140
+
+Level of education 2
+Level of education 3
+
+0.297*
+
+ln of income
+
+-0.084
+
+0.309**
+-0.108
+
+Volunteering
+
+0.063
+
+Solicitation
+
+-0.014
+
+Constant
+
+2.025*
+
+2.727**
+
+3.004***
+
+0.525
+
+0.286
+
+0.273
+
+0.276
+0.236
+0.334
+
+6.312
+
+0.737
+
+0.736
+
+0.308*
+
+0.356**
+
+0.586*
+
+Selection Model
+Age 30–64
+
+-0.074
+
+-0.098
+
+-0.071
+
+Age \64
+
+-0.083
+
+-0.120
+
+0.001
+
+Gender (female = 1)
+
+-0.088
+
+-0.084
+
+-0.080
+
+0.090
+
+0.144
+
+0.168
+
+Married
+
+-0.001
+
+0.011
+
+0.008
+
+0.143
+
+0.166
+
+0.213
+
+0.016
+0.152
+
+0.074
+0.224**
+
+0.100
+-0.007
+
+0.093
+0.102
+
+0.126
+0.270
+
+Children
+Community type (rural = 1)
+
+0.004
+0.166**
+
+Generalized trust
+
+-0.073
+
+-0.062
+
+-0.070
+
+0.044
+
+0.001
+
+-0.024
+
+Empathic concern
+
+-0.074
+
+-0.074
+
+0.002
+
+0.103
+
+0.106
+
+0.408*
+
+Religious affiliation
+
+0.159*
+
+0.154(?)
+
+0.087
+
+0.105
+
+0.110
+
+0.171
+
+Religious attendance
+
+0.495***
+
+0.503***
+
+0.366***
+
+-0.220*
+
+-0.200(?)
+
+-0.342*
+
+Level of education 2
+
+-0.062
+
+0.003
+
+Level of education 3
+
+-0.109
+
+-0.027
+
+-0.008
+0.269(?)
+
+0.014
+0.277
+
+123
+
+794
+
+Voluntas (2019) 30:783–799
+
+Table 5 continued
+Religious Causes
+Model I
+
+Culture/Education
+Model II
+
+ln of income
+
+0.086
+
+Volunteering
+
+Model I
+
+Model II
+
+0.106
+
+0.095
+
+0.160*
+
+Solicitation
+Constant
+
+Model III
+
+-0.494***
+
+-0.588***
+
+0.147
+0.365**
+
+0.821***
+-0.489***
+
+Model III
+
+0.722***
+-1.737***
+
+-1.810***
+
+-2.713***
+
+N = 545 (Donors only); Dependent variable in outcome equation: ln of the amount donated; coefficients base on z-standardized data; Levels of
+significance: *** p B 0.01; ** p B 0.05; * p B 0.10; (?) p B 0.10
+
+Table 6 Findings on
+hypotheses
+
+Hypotheses
+
+Results
+Decision to give
+
+Amount given
+
+? International Relief
+
+Supported
+
+Not supported
+
+? Environmental Issues
+
+Not supported
+
+Not supported
+
+? Domestic Relief
+
+Not supported
+
+Not supported
+
+? International Relief
+
+Supported
+
+Not supported
+
+? Social Services
+
+Supported
+
+Not supported
+
+? Health
+
+Supported
+
+Not supported
+
+? Animal Welfare
+
+Not Supported
+
+Not Supported
+
+H3a. Religious Affiliation
+
+? Religious Causes
+
+Not Supported
+
+Not supported
+
+3b. Religious Attendance
+
+? Religious Causes
+
+Supported
+
+Supported
+
+? International Relief
+
+Not Supported
+
+Not supported
+
+H4. Higher Education
+
+? International Relief
+? Environmental Issues
+
+Supported
+Supported
+
+Not supported
+Not supported
+
+? Animal Welfare
+
+Not supported
+
+Supported
+
+H5. Income
+
+? Culture and Education
+
+Not supported
+
+Not supported
+
+H1. Generalized Trust
+H2. Empathic Concern
+
+Education (the latter significant on the 0.1-level in Model
+II). Results do not support Hypothesis 3a, but lend partial
+support to Hypothesis 3b.
+Human resources: Our data lend partial support for
+Hypothesis 4 that Education is an important predictor for
+donor choice with regard to giving. Education is positively
+associated with the decision to give to Environmental
+Issues and International Relief. In addition, donors having
+attained twelve or more years of formal education give
+higher amounts to Animal Welfare, to Domestic Relief and
+to Religious Causes. Hypothesis 4, suggesting the level of
+Education associated with giving to Environmental Issues,
+International Relief and Animal Welfare, is partially supported. The effect on Environmental Issues and International Relief, however, disappears as further predictors on
+solicitation and volunteering are added in Model III, giving
+reason to assume that people with higher levels of education also are likely to volunteer and thus solicited. Income
+positively influences the decision to give to Domestic
+
+123
+
+Expected relation
+
+Relief. Hypothesis 5, which states that income is positively
+related to Arts and Culture, is not supported by our data.
+
+Discussion
+What factors determine which causes donors choose to
+support: donors’ subjective dispositions or their human
+resources? In particular, we examined whether donors’
+inclination to give to charitable causes and the amount
+donated to these causes can be predicted by their subjective
+dispositions or their resources. While prior studies had
+investigated donors’ choice among organizations, few have
+examined more than two causes, and often focusing on the
+likelihood of giving and not the amount donated. These
+limitations were addressed in this study by investigating
+eight subsectors. Based on the literature review, we
+developed five hypotheses on donor choice for particular
+causes that we tested on our nationally random sample
+
+Voluntas (2019) 30:783–799
+
+795
+
+using Heckman two-stage regressions. We find partial
+support for our hypotheses (see Table 6) as related to
+Generalized Trust, Empathic Concern, Religious Attendance, and Education and no support for Religious Affiliation and Income.
+Donor’s subjective dispositions generally influence the
+choice for a particular cause, but not the amount donated to
+a cause. For instance, Empathic Concern is associated with
+giving to International Relief, Social Services, and Health,
+but not with the amount donated to these causes. We relate
+this to the literature that individual attitudes and values
+tend to predict behaviors that incur low material costs, but
+not when substantial costs are involved, referred to as the
+low-cost hypothesis (Neuberg et al. 1997). This low-cost
+hypothesis may well explain our results: While subjective
+dispositions are useful to predict who is more likely to take
+out their wallets to donate, they cannot predict how much
+they donate. Giving small amounts of money is a low-cost
+measure that easily alleviates the social pressure of the
+‘ask’ while giving higher amounts is costly to the donor,
+therefore not undertaken. Further research on the alignment
+of the cause of the solicitation and the donor’s values need
+to be made to understand who is willing to undertake a
+high-cost measure of donating generously.
+In contrast to subjective dispositions, human resources
+are associated with both, donors’ decisions to give and the
+amount donated to particular causes in our study. This
+general pattern is also supported by non-hypothesized
+relationships that turned out to be significant, showing
+Education positively associated with the amount donated to
+Domestic Relief and Religious Causes, and Income positively related to giving to Domestic Relief (see Table 7).
+We also found that effects of subjective dispositions are
+mediated by human resources, as slightly significant effects
+
+Table 7 Findings on
+unexpected relations
+
+Subjective Dispositions/
+
+(on the 0.1-level) of Generalized Trust and Religiosity on
+the amount donated found in Model I disappear in Model II
+when human resources are added. This is the case for
+associations between Generalized Trust and Environmental
+Issues (an association suggested in Hypothesis 1) and for
+associations between Religious Attendance and both Social
+Services and Religious Causes (the latter refers to
+Hypothesis 3b). These results are in line with Bekkers
+(2006, p. 358) who found the effects of resources on philanthropy—in his study measured by the incidence—
+stronger than those of personality characteristics; he also
+noted that levels of empathic concerns on donors generosity are mediated by verbal proficiency, which he
+defines as an indicator of human capital.
+Regarding the hypotheses on human resources, we find
+support for the assumption that the ability of abstract
+thinking is necessary for giving to less concrete causes
+without quantifiable goals, as discussed earlier (Cheung
+and Chan 2000; Wiepking and Maas 2009). While higher
+levels of Education are associated with giving to Environmental Issues and International Relief, we find Education also positively associated with the amount donated to
+Animal Welfare. Thus, the level of Education is a meaningful predictor for all three causes.
+Income is not associated with donors’ decision to give to
+Arts and Education; this does not support our hypothesis
+and contradicts findings in the literature. Our hypothesis
+builds on literature based on research on Anglo-Saxon
+countries where the funding for higher education and arts
+and culture traditionally depend on private giving, whereas
+in Austria the situation is much different: Higher education
+is offered (almost) for free and paid for by tax revenues;
+and arts and culture organizations are also funded by public
+sources to a large extent. For example, funding comes from
+
+Causes
+
+Human Resources
+Generalized Trust
+
+Domestic Relief
+
+Results
+Decision to give
+
+Amount given
+
+Negatively related
+
+Positively related
+
+Religious Causes
+Empathic Concern
+
+Culture and Education
+
+Positively related
+
+Religious Affiliation
+
+Environmental Issues
+
+Negatively related
+
+Social Services
+
+Negatively related
+
+Religious Attendance
+
+Culture and Education
+
+Negatively related
+
+Social Services
+
+Positively related
+
+Health
+
+Negatively related
+
+Animal Welfare
+
+Negatively related
+
+Higher Education
+
+Domestic Relief
+
+Income
+
+Religious Causes
+Domestic Relief
+
+Positively related
+Positively related
+Positively related
+
+123
+
+796
+
+the public sector for Culture (33%) and Education (73%) in
+Austria, as compared 7% and 20%, respectively, in the
+USA (Salamon and Sokolowski 2004). Therefore, giving to
+Art and Education, which is common practice among
+affluent individuals in the USA or UK, is not prevalent in
+the Austrian context. In contrast, we found individuals with
+higher levels of income more likely to give to Domestic
+Relief (see Table 7). As local fire brigades are included in
+this cause and they often use door-to-door solicitations, it
+could be that the social pressure to give is higher for more
+affluent people.
+Testing hypotheses on individuals’ subjective dispositions revealed that higher levels of Generalized Trust are
+indeed necessary for making donations to causes where the
+impact is often physically distant and harder to measure.
+Our study supports this assumption for International Relief,
+and in part replicates Wiepking (2010), who finds individuals with confidence in nonprofits more likely to donate
+to International Relief. A finding not hypothesized is that
+Generalized Trust is negatively related to giving to
+Domestic Relief, underpinning our argument that individuals with lower levels of trust prefer to monitor what
+happens with their donation, and this might be easier for
+donations to Domestic than International Relief.
+The hypothesis that suggests a positive relation between
+Religious Affiliation and giving to Religious Causes is not
+supported. This finding is at the odds with results from a
+large body of empirical work on this topic (Bekkers and
+Wiepking 2011). We also note that results on total giving
+(Table 4) show that Religious Affiliation is positively and
+significantly associated with the decision to give, but
+negatively and significantly with the total amount donated.
+Thus, religiously affiliated donors in Austria are more
+likely to give, but may not feel the need to support religious
+causes (Table 5d). Indeed, as religiously affiliated individuals have to pay an obligatory church membership fee
+to maintain their affiliation in Austria, they may not face
+any social pressure or even be aware of the religious causes, unless they attend church services to donate to Religious Causes. Thus, not surprisingly, Religious Attendance
+is positively related to donor choice to Religious Causes as
+it results in social pressure and awareness of religious
+causes that need support as well as many collections for
+donations take place during Roman Catholic services;4
+there is the ease and opportunity of making a donation
+(Bekkers and Wiepking 2011).
+The same mechanisms—solicitations in church and
+social pressure—we hypothesized would explain why
+Religious Attendance influences donor choice of International Relief; however, this relationship was not supported.
+4
+
+The Roman-Catholic denomination is the far most populous
+denomination in Austria.
+
+123
+
+Voluntas (2019) 30:783–799
+
+This may be because prompts in the survey for International Relief did not include development aid, which is
+often a target for collections at places of worship. In contrast, Religious Attendance turned out to be positively
+related to the incidence of giving to Social Services (see
+Table 7). This might be explained by the fact that collections during or after religious services sometimes indeed
+target social issues such as homeless people or refugees in
+Austria.
+With regard to other relationships that turned out to be
+significant, for example the negative association between
+Religious Affiliation and Environmental Issues and Religious Attendance and Animal Welfare, we can only speculate about the mechanisms at work. A guess would be that
+(Roman Catholic) religious people are rather conservative
+and most of them also affiliated with one of the conservative political parties in Austria, while animal and environmental protection is mainly an issue of those political
+parties they are not affiliated with.
+Some of the socio-demographic controls were significant for the model explaining donor choice. For example,
+age to the incidence of giving to International Relief,
+Domestic Relief, Health, and Arts and Education. Also,
+Age is negatively related to giving to Environmental
+Issues. Female donors are more inclined to give to Animal
+Welfare, replicating a finding of Srnka et al. (2003), while
+married/cohabited donors and female donors are more
+inclined to choose Health-related causes. Volunteering
+donors are more likely to give to Religious Causes and
+Culture and Education compared to those not volunteering.
+With respect to donor choice and the amount donated,
+older individuals are more likely to donate larger amounts
+to Social Services and Religious Causes, while married/cohabited donors are more inclined to give higher
+amounts to International Relief compared to their
+counterparts.
+Being solicited for a particular cause is influential across
+all causes. It is a significant predictor with regard to the
+decision to give for a cause; however, solicitation is not
+associated with the amount given for any of the causes
+investigated. We find this result in line with the argument
+that asking for donations provides the donor an opportunity
+to donate as well as exerts some social pressure to donate
+(Meer and Rosen 2011). Yet, what it does not seem to do is
+to make the donor to give higher amounts—compared to
+donors not solicited. When comparing the coefficients in
+the regression models (which our analyses allow for
+because of z-standardized data), we find that solicitation
+has the strongest influence on donor decision to give for all
+of the eight causes investigated. This contributes to the
+literature on charitable giving, which often looks to individual-level characteristics to explain donations separately
+and does not compare it with other predictors, and it
+
+Voluntas (2019) 30:783–799
+
+substantiates Bekkers and Wiepking (2011) who identified
+solicitation as a primary mechanism of giving. When
+introducing solicitation into the model, its effect eliminated
+the effects of some other individual-level characteristics
+such as Education or Age, which are related to donor
+choice in other studies that do not control for solicitation.
+Yet, almost all hypothesized findings of the predictor
+variables of this study remain the same when solicitation is
+added in Model III.
+
+Conclusion
+This research is among the first few studies—following
+Wiepking’s (2010) research based in the Netherlands that
+investigates the factors that impact donors’ choice in continental Europe. Our study builds on previous findings, and
+examines how individual-level subjective dispositions and
+human resources affect donor choice and the amount
+donated across eight different causes.
+We find that while human resources are significant
+predictors for both donors’ likelihood to give and the
+amount donated among causes, subjective dispositions
+such as Empathic Concern may only predict donors’ incidence to give, but not the amount donated to any of the
+causes analyzed. This refers to the low-cost hypothesis,
+stating that individual attitudes and values do not predict
+behaviors when substantial costs are involved. Moreover,
+our research corroborates a findings of prior studies,
+namely that human resources mediate the impact of subjective dispositions on donor choice.
+This study also explains why certain findings differ from
+studies undertaken with data from North America or UK.
+We find that in a representative, random sample, the
+mechanisms at work are those typical for a welfare-mix in
+continental Europe. For example, findings such as income
+not being related to donor choice for Art and Education
+might be due to the political context. Public funding for
+arts and culture and education in Austria is very different
+than in the USA or UK, where there are long-standing
+traditions of support for higher education that is private and
+alumni-supported. Thus, the generalizability of the findings
+to other countries with a different welfare-mix is limited.
+Our study has limitations. We did not consider tax
+effects for charitable giving on donors’ choice. From prior
+literature, we know that tax deductions affect the level of
+contribution by way of price and income effects (Peloza
+and Steel 2005). Since the incentive was introduced in
+Austria only in 2009 for certain causes (Schober et al.
+2015), and the data looked at donations made in 2010, it is
+likely that donor decisions were not made on the basis of
+this law. Future studies on donor choice need to examine
+
+797
+
+the impact of tax incentives, as they are only granted for
+donations to particular causes.
+Furthermore, our finding that being asked to donate has
+the highest explanatory power regarding the incidence of
+giving among all causes investigated has to be interpreted
+with caution. An obvious difficulty here is that solicitation
+may also be a consequence of prior donations to this
+organization. While most studies do not take this endogeneity effect into account (e.g., Forbes and Zampelli
+2011), Yörük’s (2007) study controlled for it; he found that
+solicitations still explain an increase in the likelihood and
+the amount of giving.
+Further research on charitable giving and particularly on
+donor choice should particularly address the interaction of
+different predictors, for example resources, attitudes and
+values. Also, revisiting the low-cost hypothesis in research
+on charitable behavior is much needed. The alignment of
+the cause of the solicitation and the donor’s values need to
+be made to understand who is willing to undertake a highcost measure of donating generously. Finally, with regard
+to solicitation, it is necessary to untangle whether it was the
+opportunity (being made aware of the cause) or the social
+pressure to which donors are responding, as both factors
+may interact to produce generous donors.
+Acknowledgements The data for this research came from the project
+‘Private charitable giving in Austria,’ that was funded by the
+Anniversary Fund of the Oesterreichische Nationalbank.
+
+References
+AFP, The Association of Fundraising Professionals & The Center on
+Philanthropy at Indiana University. (2010). Charitable giving by
+type of community: Comparing donation patterns of rural and
+urban donors. Indianapolis: Indiana University.
+Andreoni, J., Brown, E., & Rischall, I. (2003). Charitable giving by
+married couples: Who decides and why does it matter? Journal
+of Human Resources, 38(1), 111–133.
+Andreoni, J., & Payne, A. (2003). Do government grants to private
+charities crowd out giving or fund-raising? The American
+Economic Review, 93(3), 792–812.
+Banks, J., & Tanner, S. (1999). Patterns in household giving:
+Evidence from UK data. Voluntas: International Journal of
+Voluntary and Nonprofit Organizations, 10(2), 167–178.
+Barnes, M. L. (2011). ‘‘Music to our ears’’: Understanding why
+canadians donate to arts and cultural organizations. International
+Journal of Nonprofit and Voluntary Sector Marketing, 16(1),
+115–126.
+Bekkers, R. (2003a). Trust, accreditation, and philanthropy in The
+Netherlands. Nonprofit & Voluntary Sector Quarterly, 32(4),
+596–615.
+Bekkers, R. (2003b). Trust, accreditation, and philanthropy in the
+netherlands. Nonprofit & Voluntary Sector Quarterly, 32(4),
+596–615.
+Bekkers, R. (2004). Giving and volunteering in the netherlands.
+Sociological and psychological perspectives. Utrecht: University
+of Utrecht.
+
+123
+
+798
+Bekkers, R. (2005). Participation in voluntary associations: Relations
+with resources, personality, and political values. Political
+Psychology, 26(3), 439–454.
+Bekkers, R. (2006). Traditional and health-related philanthropy: The
+role of resources and personality. Social Psychology Quarterly,
+69(4), 349–366.
+Bekkers, R., & Wiepking, P. (2006). To give or not to give, that is the
+question: How methodology is destiny in dutch giving data.
+Nonprofit and Voluntary Sector Quarterly, 35(3), 533–540.
+Bekkers, R., & Wiepking, P. (2011). Who gives? A literature review
+of predictors of charitable giving i—religion, education, age, and
+socialization. Voluntary Sector Review, 2(3), 337–365.
+Bennett, R. (2003). Factors underlying the inclination to donate to
+particular types of charity. International Journal of Nonprofit
+and Voluntary Sector Marketing, 8(1), 12–29.
+Bennett, R. (2012). Why urban poor donate: A study of low-income
+charitable giving in london. Nonprofit and Voluntary Sector
+Quarterly,
+41(5),
+870–891.
+https://doi.org/10.1177/
+0899764011419518.
+Breeze, B., & Lloyd, T. (2013). Richer lives: Why rich people give.
+London: Directory of Social Change.
+Brooks, A. C. (2003). Do government subsidies to nonprofits crowd
+out donations or donors? Public Finance Review, 31(2),
+166–179.
+Brown, E., & Ferris, J. M. (2007). Social capital and philanthropy: An
+analysis of the impact of social capital on individual giving and
+volunteering. Nonprofit and Voluntary Sector Quarterly, 36(1),
+85–99.
+Bryant, W. K., Jeon-Slaughter, H., Kang, H., & Tax, A. (2003).
+Participation in philanthropic activities: Donating money and
+time. Journal of Consumer Policy, 26(1), 43–73.
+Casale, D., & Baumann, A. (2015). Who gives to international
+causes? A sociodemographic analysis of U.S. Donors. Nonprofit
+and Voluntary Sector Quarterly, 44(1), 98–122.
+Cheung, C. K., & Chan, C. M. (2000). Social-cognitive factors of
+donating money to charity, with special attention to an international relief organization. Evaluation and Program Planning,
+23(2), 241–253.
+Davis, M. H. (1994). Empathy: A social psychologial approach.
+Boulder, CO: Westview.
+Einolf, C. J. (2011). Gender differences in the correlates of
+volunteering and charitable giving. Nonprofit and Voluntary
+Sector Quarterly, 40(6), 1092–1112.
+Forbes, K. F., & Zampelli, E. M. (2011). An assessment of alternative
+structural models of philanthropic behavior. Nonprofit and
+Voluntary Sector Quarterly, 40(6), 1148–1167. https://doi.org/
+10.1177/0899764010379054.
+Hall, M. H. (2001). Measurement issues in surveys of giving and
+volunteering and strategies applied in the design of canada’s
+national survey of giving, volunteering and participating.
+Nonprofit and Voluntary Sector Quarterly, 30(3), 515–526.
+Heckman, J. (1979). Sample selection bias as a specification error.
+Econometrica, 47, 153–162.
+Helms, S. E., & Thornton, J. P. (2012). The influence of religiosity on
+charitable behavior: A copps investigation. The Journal of SocioEconomics, 41(4), 373–383.
+Kirsch, A. D., McCormackw, M. T., & Saxon-Harrold, Susan K. E.
+(2001). Evaluation of differences in giving and volunteering data
+collected by in-home and telephone interviewing. Nonprofit and
+Voluntary Sector Quarterly, 30(3), 495–504.
+Kottasz, R. (2004). Differences in the donor behavior characteristics
+of young affluent males and females: Empirical evidence from
+britain. Voluntas: International Journal of Voluntary and
+Nonprofit Organizations, 15(2), 181–203.
+Lloyd, T. (2004). Why rich people give. London: Association of
+Charitable Foundations.
+
+123
+
+Voluntas (2019) 30:783–799
+Meer, J., & Rosen, H. S. (2011). The abcs of charitable solicitation.
+Journal of Public Economics, 95(5), 363–371.
+Micklewright, J., & Schnepf, S. V. (2009). Who gives charitable donations for overseas development? Journal of Social Policy,
+38(02), 317–341.
+Neuberg, S. L., Cialdini, R. B., Brown, S. L., Luce, C., Sagarin, B. J.,
+& Lewis, B. P. (1997). Does empathy lead to anything more than
+superficial helping? Comment on batson et al. (1997). Journal of
+Personality and Social Psychology, 73(3), 510–516.
+Ostrower, F. (1997). Why the wealthy give: The culture of elite
+philanthropy. Princeton: Princeton University Press.
+Peloza, J., & Steel, P. (2005). The price elasticities of charitable contributions: A meta-analysis. Journal of Public Policy and
+Marketing, 24(2), 260–272.
+Piper, G., & Schnepf, S. V. (2008). Gender differences in charitable giving in Great Britain. Voluntas, 19, 103–124.
+Radley, A., & Kennedy, M. (1995). Charitable giving by individuals:
+A study of attitudes and practice. Human Relations, 48(6),
+685–709.
+Rajan, S. S., Pink, G. H., & Dow, W. H. (2008). Sociodemographic
+and personality characteristics of canadian donors contributing to
+international charity. Nonprofit and Voluntary Sector Quarterly,
+38(3), 413–440.
+Ribar, D. C., & Wilhelm, M. O. (1995). Charitable contributions to
+international relief and development. National Tax Journal, 48,
+229–244.
+Rooney, P., Brown, E., & Mesch, D. (2007). Who decides in giving to
+education? A study of charitable giving by married couples.
+International Journal of Educational Advancement, 7(3),
+229–242.
+Rooney, P., Steinberg, K., & Schervish, P. G. (2004). Methodology is
+destiny: The effect of survey prompts on reported levels of
+giving and volunteering. Nonprofit and Voluntary Sector Quarterly, 33(4), 628–654.
+Rosenberg, M. (1956). Misanthropy and political ideology. American
+Sociological Review, 21(6), 690–695.
+Salamon, L. M., & Sokolowski, W. (2004). Global civil society:
+Dimensions of the nonprofit sector (Vol. 2). Bloomfield:
+Kumarian Press.
+Sargeant, A., Ford, J. B., & Hudson, J. (2008). Charity brand
+personality: The relationship with giving behavior. Nonprofit
+and Voluntary Sector Quarterly, 37(3), 468–491.
+Sargeant, A., & Woodliffe, L. (2007). Gift giving: An interdisciplinary review. International Journal of Nonprofit and Voluntary
+Sector Marketing, 12, 275–307.
+Schober, C., Pervan, E., Pervan-Al Soqauer, I., Greiner, S., Hoff, M.,
+& Müller, C. (2015). Evaluierung der ausgeweiteten steuerlichen Spendenabsetzbarkeit in Österreich. Vienna: Vienna
+University of Economics and Business.
+Srnka, K. J., Grohs, R., & Eckler, I. (2003). Increasing fundraising
+efficiency by segmenting donors. Australasian Marketing Journal, 11(1), 70–86.
+Verhaert, G. A., & Van den Poel, D. (2011). Empathy as added value
+in predicting donation behavior. Journal of Business Research,
+64(12), 1288–1295.
+Wang, L., & Graddy, E. (2008). Social capital, volunteering, and
+charitable giving. Voluntas: International Journal of Voluntary
+and Nonprofit Organizations, 19(1), 23–42.
+Webb, D., & Khoo, V. (2010). Exploring singaporean giving
+behaviour to different charitable causes. Journal of Research
+for Consumers, 18, 1–5.
+Wiepking, P. (2010). Democrats support international relief and the
+upper class donates to art? How opportunity, incentives and
+confidence affect donations to different types of charitable organizations. Social Science Research, 39(6), 1073–1087.
+
+Voluntas (2019) 30:783–799
+Wiepking, P., & Bekkers, R. (2012a). Who gives? A literature review
+of predictors of charitable giving ii—gender, marital status,
+income and wealth. Voluntary Sector Review, 3(2), 217–246.
+Wiepking, P., & Bekkers, R. (2012b). Who gives? A literature review
+of predictors of charitable giving. Part two: Gender, family
+composition and income. Voluntary Sector Review, 3(2),
+217–245.
+Wiepking, P., & Handy, F. (Eds.). (2015). The Palgrave research
+companion to global philanthropy. Basingstoke and New York:
+Palgrave McMillan.
+
+799
+Wiepking, P., & Maas, I. (2009). Resources that make you generous:
+Effects of social and human resources on charitable giving.
+Social Forces, 87(4), 1973–1995.
+Wilhelm, M. O. (2007). The quality and comparability of survey data
+on charitable giving. Nonprofit and Voluntary Sector Quarterly,
+36(1), 65–84.
+Wilson, J. (2012). Volunteerism research: A review essay. Nonprofit
+and Voluntary Sector Quarterly, 41(2), 176–212. https://doi.org/
+10.1177/0899764011434558.
+Yörük, B. K. (2007). How responsive are charitable donors to
+requests to give?. Boston: Boston College.
+
+123
+
+

@@ -1,0 +1,1221 @@
+Journal of Behavioral Medicine (2025) 48:43–56
+https://doi.org/10.1007/s10865-024-00545-8
+
+Progress on theory of planned behavior research: advances in research
+synthesis and agenda for future research
+Martin S. Hagger1,2,3,4,5
+
+· Kyra Hamilton2,3,4
+
+Received: 18 November 2024 / Accepted: 17 December 2024 / Published online: 20 January 2025
+© The Author(s) 2024
+
+Abstract
+The theory of planned behavior is a social cognition theory that has been widely applied to identify the psychological
+determinants of intentions and behavior in health contexts. Our 2015 meta-analysis of theory applications in chronic illness
+contributed to a burgeoning evidence base comprising syntheses supporting theory predictions in health behavior. In this
+review, we identify limitations of prior meta-analyses of theory applications in health behavior and highlight salient evidence gaps, summarize how recent meta-analyses of the theory have addressed some of the limitations, outline outstanding research questions, and suggest future research syntheses, including those currently in progress, to resolve them. We
+point to recent and ongoing meta-analyses addressing theory hypotheses and assumptions not tested in previous syntheses,
+such as perceived behavioral control moderating effects and indirect effects of environmental (e.g., sociostructural variables) and intrapersonal (e.g., personality traits) determinants on health behavior mediated by theory constructs. We also
+highlight meta-analyses examining behavioral effects of constructs representing extended processes (e.g., habit, implicit
+cognition) in the context of the theory. Further, we summarize recent meta-analyses addressing directional and causal
+inferences in theory effects, including meta-analyses of longitudinal studies and experimental and intervention research.
+We also highlight attempts to test the mechanisms of action of interventions based on the theory including the change
+meta-analysis method and mediation analyses. We conclude by summarizing the advances that recent meta-analyses of
+the theory have made to the evidence base of health behavior determinants and interventions and highlighting suggestions
+for meta-analyses that will further progress the evidence base.
+Keywords Research synthesis · Social cognition theory · Behavior change intervention · Mechanisms of action ·
+Mediation and moderation · Meta-analytic structural equation modelling
+
+Martin S. Hagger
+mhagger@ucmerced.edu
+1
+
+Department of Psychological Sciences, University of
+California, Merced, USA
+
+2
+
+Health Sciences Research Institute, University of California,
+Merced, USA
+
+3
+
+Faculty of Sport and Health Sciences, University of
+Jyväskylä, Jyväskylä, Finland
+
+4
+
+School of Applied Psychology, Griffith University, Mount
+Gravatt, Australia
+
+5
+
+Social and Health Psychology Behavioral Research for
+Prevention and Promotion (SHARPP) Lab, Department of
+Psychological Sciences, University of California, Merced,
+5200 N. Lake Rd, Merced, CA 95343, USA
+
+Despite epidemiological research reporting associations
+between regular participation in health promoting behaviors
+and avoidance of health risk behaviors (e.g., smoking, alcohol consumption) and adaptive health outcomes, particularly
+markedly lower chronic disease risk (e.g., cardiovascular
+disease, cancers, diabetes; Adams et al., 2019), a substantive
+proportion of the population does not meet guideline levels
+of health behavior participation necessary to confer benefits
+(Liu et al., 2016). State and federal health departments and
+advocates have, therefore, identified the development and
+promulgation of interventions aimed at promoting health
+behavior change as a key public health priority (Glanz
+& Bishop, 2010; Michie & West, 2013; Oldenburg et al.,
+2010). At the individual level, theorists and researchers
+have suggested that such interventions should be based on
+behavioral theory to optimize their efficacy and effectiveness (Kok et al., 2016; Michie et al., 2018; Prestwich et
+
+13
+
+44
+
+al., 2015). Such theories enable specification of potentially
+modifiable health behavior determinants that represent the
+psychological processes underpinning action and may serve
+as targets for change as a result of exposure to techniques
+adopted in interventions (Hagger et al., 2020a; Johnston et
+al., 2021; Sheeran et al., 2017). Research on the theoretical determinants of health behavior is expected, therefore,
+to provide formative evidence that may guide intervention
+(Hagger, 2025).
+Social cognition theories, which assume individuals’
+behavioral decisions are informed by their reasoned processing of social information, are a prominent class of
+theory that have been consistently adopted in health behavior determinants research (Conner & Norman, 2015). The
+theory of planned behavior, prototypical of the social cognition approach, is a well-specified, general theory purposed
+to predict social behavior (Ajzen, 1991). The theory predicts that individuals’ behavioral, normative, and capacity
+beliefs, captured by the attitude, subjective norm, and perceived behavioral control constructs, respectively, are key
+determinants of intentions to perform a target behavior in
+future, and intentions are hypothesized to mediate effects
+of these constructs on subsequent behavior (Hagger, 2019).
+The theory has been widely applied in health behavior
+determinants research – predictive studies have supported
+its hypotheses and its capacity to account for unique variance in multiple health behaviors across a range of contexts
+and populations (e.g., Ajzen, 2011; Ajzen & Schmidt, 2020;
+Hagger, 2019). Meta-analyses synthesizing evidence from
+hundreds of applications of the theory in health behavior
+contexts have provided converging evidence for its proposed effects and indicated that they hold across behaviors
+and other sociodemographic and methodological moderators (e.g., Albarracín et al., 2001; Hagger et al., 2002; Hamilton et al., 2020; McEachan et al., 2011; Rich et al., 2015).
+As an example, we offer our 2015 meta-analysis of studies applying the theory to predict adherence to treatment
+for chronic illness prevention and management (Rich et
+al., 2015). Our findings indicated that the theory not only
+accounted for unique variance in intentions and behavioral
+adherence and lent support to independent effects of each
+theory construct on intention, and of intention on behavior,
+across eligible studies, but also confirmed a key mechanistic role of intention as a mediator of belief-behavior
+relations. Also important was our tests of candidate moderators of theory effects in this context that indicated consistency regardless of behavior (e.g., diet, exercise, self-care
+activities, medication adherence), behavioral measure type
+(self-report, non-self-report), and population type (e.g.,
+socio-demographic variables). In sum, our analysis represents one of many relatively robust data points derived from
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+meta-analyses of theory tests that support to its predictive
+validity in health behavior contexts.
+In the intervening 10 years since the publication of our
+analysis, there have been a number of notable conceptual
+and methodological advances on the theory of planned
+behavior, and others of its class, in health behavior contexts.
+These advances have addressed some identified limitations
+in research that has applied it that have furthered knowledge on health behavior determinants and the mechanisms
+involved. The advances have also had important ramifications for informing health behavior change interventions.
+In the current article, we provide a selective summary of
+salient conceptual and methodological advances in research
+applying the theory in health behavior contexts with a focus
+on meta-analytic syntheses, outline the contribution these
+advances have made to the furtherment of knowledge on
+health behavior determinants and health behavior change
+interventions, and discuss some of the most pertinent
+research questions arising from this evidence that should set
+an agenda for future research inquiry in this domain. We
+begin by identifying some conceptual shortcomings of prior
+research syntheses of the theory in health behavior contexts:
+(a) failure to test some central theory predictions such as
+perceived behavioral control moderating effects and conceptually-related hypotheses such as construct correspondence and patterns of effects of indirect and direct measures
+of theory constructs on intention and behavior; (b) lack of
+account for the effects of variables representing the broader
+environmental and intrapersonal determinants of health
+behavior; and (c) failure to consider the unique role of constructs representing other salient processes likely implicated
+in health behavior participation such as non-conscious or
+implicit processes. Next, we focus on some methodological issues that delimit the inferences that can be made from
+research syntheses: (a) limitations relating to causal and
+directional inferences in theory effects; and (b) a lack of
+account for the mechanisms by which interventions based
+on the theory operate. In each case, we outline how recent
+meta-analyses of the theory address these shortcomings and
+how they have contributed to augmenting the evidence base
+of health behavior determinants based on the theory. We
+present the diagram in Fig. 1 as an accompaniment to our
+review, which illustrates some of issues identified and suggested directions for future research.
+
+Comprehensive tests and additional
+processes in research syntheses
+Prior meta-analyses of research applying the theory of
+planned behavior in health behavior (e.g., Albarracín et al.,
+2001; Hagger et al., 2002; McEachan et al., 2011), including
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+45
+
+Fig. 1 Schematic representation of theory of planned behavior constructs and its predicted effects augmented to include effects of additional variables, constructs, and moderators
+
+our 2015 analysis (Rich et al., 2015), have lent support for
+some of its key hypotheses, such as unique effects of its constructs on intentions and behavior, and the mediating role of
+intentions. These syntheses have done so by applying multivariate analyses to meta-analytically synthesized data that
+mirror those typically used in primary research testing the
+theory, such as multiple regression, path analysis, and structural equation modelling1. However, these tests have not
+typically synthesized and tested key hypotheses central to
+the theory including the role of perceived behavioral control
+and measurement correspondence as moderators of theory
+1
+
+It should be noted that recent commentaries have identified limitations in the use of some implementations of these analytic approaches
+in meta-analyses of the theory of planned behavior and offered potential solutions (e.g., Cheung & Hong, 2017; Hagger & Hamilton, 2024b;
+Jak & W.-L. Cheung, 2024).
+
+effects and effects of global and belief-based measures of
+theory constructs. Further, prior syntheses have not typically examined the role of broader environmental and dispositional variables and constructs, or effects of constructs
+that represent other processes implicated in health behavior
+enactment. In this section, we visit each of these issues in
+turn and outline how recent meta-analyses have sought to
+address these limitations, their contribution, and potential
+avenues for future research.
+
+Comprehensive tests of theory hypotheses
+The theory of planned behavior is, essentially, an integrated
+theory incorporating a key construct, perceived behavioral
+control, into its predecessor, the theory of reasoned action
+(Ajzen & Fishbein, 1980). Perceived behavioral control
+
+13
+
+46
+
+summarizes individuals’ beliefs with respect to their capacity to perform the behavior in future and has been explicitly
+aligned with other control-related constructs such as selfefficacy from social cognitive theory (Bandura, 1986). Ajzen
+(1991) proposed that effects of attitudes and subjective
+norms on intention, and intention on behavior, were conditional on an individual having high control over the behavior. As such, individuals with higher beliefs in their control
+over performing a given target behavior in future would cite
+fewer barriers and more facilitating conditions with respect
+to future behavioral performance. Under such conditions,
+individuals were expected to be more likely to form intentions to perform the behavior in accordance with their utility
+and normative beliefs, summarized in the attitude and subjective norm constructs, and would be more likely to follow
+through in enacting their intentions. Perceived behavioral
+control was, therefore, conceptualized as a moderator the
+attitude-intention, subjective norm-intention, and intentionbehavior relationships. Further, to the extent that individuals reported their control over the behavior to be complete,
+attitude, subjective norm, and intention effects would be
+maximized, and the theory would, effectively, reduce to the
+theory of reasoned action. The perceived moderating effects
+are illustrated in Fig. 1 by the arrowed effects of perceived
+behavioral control on the effects of attitude and subjective
+norm on intention, and of intention on behavior.
+The moderating effects were tested in Ajzen’s and colleagues’ early studies on the theory (e.g., Ajzen & Driver,
+1992; Schifter & Ajzen, 1985). However, subsequent
+research tended to fixate on perceived behavioral control
+an indirect behavioral determinant mediated by intentions,
+and, when control perfectly aligned with behavior, a direct
+determinant. This means that fewer studies tested these
+moderating effects, and it was neglected in previous syntheses of research applying the theory in health behavior
+contexts (e.g., McEachan et al., 2011), including our previous analysis (Rich et al., 2015). Effectively, this rendered
+syntheses of research on the theory incomplete. The lack of
+meta-analyses of perceived behavioral control moderating
+effects could be attributed to the general lack of studies testing these effects, as well as a general tendency for researchers to not report sufficient data to provide a fit-for-purpose
+synthesis of these effects.
+We recently addressed this evidence gap in a synthesis
+of existing primary data sets from two programs of research
+(Hagger et al., 2022). This enabled us to capitalize on the
+availability of sufficient data to test direct and interactive
+moderating effects of perceived behavioral control, consistent with Ajzen’s (1991) original hypotheses. Our research
+also employed recent advances in meta-analytic structural
+equation modeling which enable tests of moderation on
+individual effects in a model representing theory predictions
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+(Jak & Cheung, 2020). Our analysis provided robust support
+for the moderation of the intention-behavior relationship by
+perceived behavioral control, consistent with the theory
+across 39 independent tests in ten health behaviors. Larger
+intention-behavior relations were observed among individuals reporting high control over their behavior. However, the
+analysis revealed much smaller moderating effects that were
+not distinguishable from the null for perceived behavioral
+control on attitude-intention and subjective norm-intention,
+so did not corroborate these predictions. Taken together,
+these findings provide the most comprehensive data yet in
+support of this hypothesized moderating effect for the intention-behavior relationship and moves the cumulative evidence supporting them in health behavior contexts beyond
+that provided in previous syntheses.
+The moderating effect of perceived behavioral control
+aside, prior meta-analyses of the theory have tested effects
+of other conceptual and methodological moderator variables
+on theory effects in health behaviors. For example, metaanalyses have consistently tested the moderating role of
+measurement lag on intention-behavior relations (Hagger et
+al., 2002; Hamilton et al., 2020; McEachan et al., 2011).
+Findings have tended to confirm that a proximal (shorter)
+lag between measurement of theory constructs and behavior leads to larger intention-behavior effect sizes, consistent
+with the original theory hypothesis. Such moderator tests
+illustrate the power of meta-analyses to provide robust tests
+of theory predictions. However, prior meta-analyses of the
+theory have not tested a number of other key moderators
+rendering them somewhat incomplete and represent key
+gaps in current evidence syntheses of the theory.
+A prominent untested moderator is measurement correspondence. Ajzen (1991) indicated that effective prediction
+of intentions and behavior in the theory is dependent on
+adoption of measures that capture the specific target behavior of interest precisely, consistent with the classic observation in attitude research that poor correspondence between
+attitude measures and behavior tends to attenuate or extinguish attitude-behavior associations (e.g., Wicker, 1969).
+Ajzen (1991) therefore proposed that measures of constructs
+such as attitudes and subjective norms should correspond
+with measures of intention and behavior in terms of target
+(i.e., the subject performing the behavior), action (i.e., the
+specific behavior of interest), context (i.e., the specific location or situation in which the behavior is to be performed),
+and time (i.e., the temporal period in which the behavior is
+to be performed). This moderating effect is illustrated by
+the direct arrowed effect on the intention-behavior effect in
+Fig. 1. Primary studies have indicated that measures that
+meet these correspondence standards lead to larger effects of
+the theory constructs on intentions and behavior (e.g., Ajzen
+& Timko, 1986). Future meta-analyses would do well to
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+consider testing the moderating effects of measurement correspondence in studies applying the theory in health behavior contexts. This could be done by coding studies included
+in the meta-analysis according to the extent to which the
+adopted measures conformed to Ajzen’s correspondence
+standards. Accordingly, we are currently working on a large
+pre-registered meta-analysis of the theory applied in physical activity contexts to test this moderation effect (Simpson-Rojas & Hagger, 2021). We have developed a coding
+scheme that scores study measures according to the number
+of correspondence standards they meet. We will test the correspondence hypothesis by using scores as a moderator of
+averaged theory effects across studies. We expect to observe
+larger averaged effects of theory constructs on intention and
+behavior in studies adopting measures with high correspondence relative to those with lower correspondence.
+A further fundamental set of predictions of the theory
+of planned behavior is the importance of salient beliefs as
+indirect indicators of the theory constructs. Ajzen (1991)
+proposed that the attitude, subjective norm, and perceived
+behavioral control constructs represent global summaries of
+specific sets of behavioral, normative, and control beliefs,
+respectively, that individuals hold regarding their future
+performance of the target behavior. In addition, individuals
+were also proposed to qualify each belief by a corresponding value, termed outcome evaluations, motivation to comply, and control belief strength, respectively, and applied
+an expectancy-value scoring model in which each belief
+measure was weighted by its corresponding value measure2. Salient beliefs were expected to vary across behavior,
+population, and context, and could be elicited through openended surveys administered in the population of interest.
+Most important, the belief-based constructs were expected
+to predict their respective global construct and each global
+construct expected to serve as a mediator of their respective
+belief-based construct effects on intentions and behavior.
+Although prior meta-analyses have supported associations
+between the belief-based and the global construct measures
+(Armitage & Conner, 2001), no meta-analysis to date has
+tested the proposed indirect effects. Previously, the relative
+dearth of studies incorporating measures of both beliefbased and global constructs in health behavior contexts has
+been a key impediment to such an analysis. However, there
+now exists a critical mass of studies applying the theory
+in health behavior contexts that include measures of both
+2
+
+Ajzen (1991) referred to the broad, summary measures of the attitude, subjective norm, and perceived behavioral control constructs as
+direct construct measures while measures of the specific behavioral,
+normative, and control beliefs were referred to as indirect measures.
+Here were refer to the direct construct measures as global measures
+and the indirect measures as belief-based measures in order to avoid
+confusion when discussing direct and indirect (mediated) effects of
+these constructs in tests of the theory.
+
+47
+
+construct forms to conduct this analysis. Accordingly, we
+propose to do so in our proposed updated meta-analysis
+of applications of the theory in physical activity contexts
+(Simpson-Rojas & Hagger, 2021). We expect the analysis
+will provide further formative evidence for interventions
+based on the theory given that it is the salient beliefs that
+should serve as primary targets for change in interventions
+(Ajzen & Schmidt, 2020).
+
+Environmental and intrapersonal determinants
+A fundamental, although often overlooked, assumption of
+the theory of planned behavior is that its constructs should
+account for the effects of variables that represent sociostructural influences, and dispositional constructs that represent
+intrapersonal influences, on health intentions and behavior.
+Ajzen (1991) proposed that such constructs represent potentially-salient sources of information that individuals account
+for when estimating their beliefs with respect to their future
+behavioral performance. For example, sociostructural variables that represent barriers to performing the behavior
+(e.g., lack of facilities, low access to inexpensive healthy
+food options, poor access to healthcare) should be reflected
+in individuals’ estimates of their capacity to perform behavior, that is, their perceived behavioral control. Similarly,
+individuals who tend to endorse measures of intrapersonal
+dispositional constructs, such as the conscientiousness trait
+from the five-factor model of personality (Digman, 1990),
+are more likely to align their beliefs regarding the utility
+of the behavior toward servicing salient goals and are more
+likely to invest effort in pursuing them, which would be
+expected to be reflected in their attitudes and intentions,
+respectively. Consistent with this proposal, the theory constructs should mediate effects of sociostructural variables
+and intrapersonal constructs on behavior, providing a mechanistic explanation for observed associations between these
+factors and behavior. The proposed mediated effects are
+illustrated in Fig. 1 comprising the direct arrowed effects of
+the sociostructural (e.g., age, education, income, race, sex)
+and intrapersonal (e.g., personality, trait self-control) on the
+global measures of attitude, subjective norms, and perceived
+behavioral control, the direct effects of these constructs on
+intention, and the direct effect of intention on behavior.
+Primary studies have lent support for hypotheses based
+on this assumption. For example, sociostructural variables
+such as indices of socio-economic status (e.g., income, education) and sociodemographic factors (e.g., age, sex, race;
+Godin et al., 2010; Orbell et al., 2017). Similarly, personality traits such as conscientiousness (Conner & Abraham,
+2001), agreeableness and openness to experience (Bogg
+& Milad, 2020), and extroversion (Rhodes & Courneya,
+2003), and sub-facets such as self-control (Conner et al.,
+
+13
+
+48
+
+2023; Hagger et al., 2019) have been shown to be indirectly
+related to health behavior mediated by the attitude, subjective norm, and perceived behavioral control constructs.
+However, it is only relatively recently that researchers have
+synthesized research testing these hypotheses in health
+behavior contexts. Such analyses are likely to have previously been precluded due to insufficient data reporting or
+availability – sociostructural variables, for example, have
+often considered mere covariates rather than as integral to
+the processes underpinning health intentions and behavior
+(Schüz, 2017). We recently capitalized in the proliferation
+of available studies encompassing these constructs, as well
+our own programs of research, to conduct meta-analyses
+corroborating primary research findings on the proposed
+mediation effects. Consistent with those prior findings, our
+analyses revealed averaged indirect effects of sociostructural variables such as sex and age (Hagger & Hamilton,
+2021) and health literacy (McAnally & Hagger, 2023) on
+health behaviors. These analyses provide a mechanistic
+explanation for observed disparities in health behavior participation and, ultimately, health outcomes. For example,
+our meta-analysis indicated that relations between health
+literacy and health behavior participation were mediated
+by attitudes (McAnally & Hagger, 2023). Individuals with
+inadequate health literacy may not know of, or fully comprehend, health-behavior links. Limitations in knowledge or
+comprehension are likely reflected in beliefs in the utility of
+health behaviors to promote health outcomes, represented
+by the attitude construct. Overall, these analyses provide
+important corroboration of a key theory prediction.
+However, there is considerable scope to extend evidence
+for this process-related effect in future research syntheses.
+For example, we are currently conducting pre-registered
+meta-analyses aimed at examining indirect effects of personality traits from the five-factor model (Hagger, 2018)
+and trait self-control (Hagger & Hamilton, 2024c; Primoceri et al., 2018) on health behaviors mediated by the theory
+constructs. Findings are expected to not only corroborate observed associations between these traits and health
+behavior, but provide further confirmation of the mediation hypotheses, particularly the constructs responsible for
+accounting for effects of these intrapersonal dispositional
+constructs. For example, relations between traits such as
+conscientiousness and self-control that reflect capacities
+to engage in goal-directed behavior likely positively orient individuals’ beliefs in capacity toward future health
+behavior participation. Such findings are important because
+although there is evidence that traits are malleable through
+intervention, effect sizes are small and may not be enduring (Roberts et al., 2017). By contrast, evidence suggests
+that the attitude, subjective norm, and perceived behavioral
+control constructs from the theory are more malleable and
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+can be changed through the techniques used in behavior
+change interventions (Ajzen & Schmidt, 2020; Sheeran et
+al., 2016b). As a consequence, such research may provide
+some formative evidence of candidate constructs that could
+be targeted in studies evaluating the efficacy of theory-based
+behavior change interventions.
+
+Extending the theory to account for other processes
+A prominent critique of the theory of planned behavior is the
+exclusive focus on constructs that represent reasoned, deliberative decision making. Such processes are captured by the
+intention-mediated effects of the attitude, subjective norms,
+and perceived behavioral control constructs on behavior
+that reflect utility, normative, and capacity considerations,
+respectively, with respect to performing a target health
+behavior in future. Theorists have suggested that such an
+approach neglects non-conscious, automatic, implicit processes that determine behavior beyond individuals’ attention with little or no deliberation (Hagger, 2016; Sheeran et
+al., 2013). As a consequence, researchers have proposed and
+tested integrated models that augment the theory of planned
+behavior with additional constructs that reflect the non-conscious processes implicated in health behavior (Hagger &
+Hamilton, 2020). These integrated models draw their inspiration from dual process models of cognition and social
+behavior (e.g., Deutsch & Strack, 2020). Such research
+has increased in intensity since our 2015 meta-analysis.
+Examples include studies that encompass measures of the
+habit construct (e.g., behavior frequency x context stability,
+response frequency, and self-report habit index measures;
+Verplanken et al., 1994; Verplanken & Orbell, 2003; Wood
+et al., 2002) and implicit cognition, such as implicit attitudes, identity, and motives (e.g., implicit association test,
+extrinsic affective Simon test; De Houwer, 2003; Greenwald et al., 1998). Studies testing integrated models have
+demonstrated that such constructs have unique effects on
+health behavior independent of intentions (e.g., Howell et
+al., 2016; Lindgren et al., 2015; Phipps et al., 2020). Critically, they have also identified conditions that determine
+when such measures tend to serve as the predominant determinant, such as when the behavior has been performed regularly and in the presence of stable contexts or cue in the
+case of habit (e.g., Ebert & Lin, 2024; Orbell & Verplanken,
+2010), or when cognitive resources are low particularly in
+the face of high temptation or impulse to perform the behavior in the case of implicit cognition (e.g., Ellis et al., 2016;
+Friese et al., 2008). Consistent with this research, there is
+also intriguing evidence that interventions adopting techniques purposed to target these constructs leads to behavior
+change (e.g., Folkvord et al., 2016; Forscher et al., 2019;
+Kaushal et al., 2017). Studies such as these have advanced
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+knowledge on health behavioral determinants and the processes involved (Sheeran et al., 2016).
+Proliferation of research testing integrated models that
+extend the theory of planned behavior to encompass constructs representing non-conscious processes in health
+behavior contexts, has also inspired research syntheses to
+provide robust tests of these effects and evaluate their variability and generalizability. Here we offer our meta-analysis
+of research examining effects of measures of the habit construct as an example (Hagger et al., 2023). We synthesized
+studies reporting associations between habit measures,
+intentions, and behavior. We used meta-analysis to estimate the relative effects of habit and intention on behavior
+and effects of salient moderators such as likelihood of the
+behavior to be formed as a habit and behavioral complexity.
+Findings indicated that both habit and intentions predicted
+habit in multiple health behaviors across studies, and that
+averaged habit effects were larger in studies on behaviors
+likely to be formed as habits and behaviors low in complexity, corroborating habit theory. The analysis is the first
+to provide a comprehensive synthesis of these effects and
+provides important evidence in support of extending the
+theory to encompass habits as an independent behavioral
+determinant.
+Prior meta-analyses have examined effects of implicit
+cognition such as implicit attitudes or identity on specific
+health behaviors (e.g., Rooke et al., 2008). This has been
+accompanied by a systematic review of research on implicit
+cognition across health behaviors (Rebar et al., 2016). However, there has been no comparable meta-analysis to date
+of research examining the relative effects of social cognition constructs such as those from the theory of planned
+behavior measured using explicit and implicit methods
+(e.g., explicit attitudes measured using survey measures and
+implicit attitudes measured using the implicit association
+test) on health behavior. To address this, we are currently
+conducting a large-scale pre-registered meta-analysis that
+reports independent effects of explicit and implicit attitudes
+on multiple behaviors, including health behaviors (Phipps et
+al., 2024). Preliminary findings indicate averaged independent effects of implicit and explicit attitudes on behavior,
+but no differences in the relative effects of the forms of attitude on behavior in behaviors that are more likely to be consciously controlled. However, a limitation of this analysis is
+that it will not account for intention effects and, therefore,
+precludes examination of the relative effects of the attitude
+forms and intentions on behavior consistent with the theory
+of planned behavior. We look to future research syntheses to
+investigate these effects.
+
+49
+
+Inferences and mechanism tests in research
+syntheses
+A frequent criticism levelled at research on theory-based
+determinants of health behavior, including studies based
+on the theory of planned behavior, is the preponderance of
+studies that adopt correlational designs (Hagger & Hamilton, 2021a; Hagger, 2025). These designs do not permit
+inference of direction or cause in theory effects, nor do they
+account for construct change over time. Given that theories
+such as the theory of planned behavior explicitly frame their
+predictions in causal terms (e.g., attitudes cause intentions,
+intentions cause behavior), direction and cause in effects
+from such studies are inferred from theory alone, not the
+data. Overreliance on correlational study designs has meant
+that the studies included in most meta-analyses of theory of
+planned behavior effects in health behavior, including our
+2015 analysis (Rich et al., 2015), tend to be predominately
+or exclusively correlational in design. As a consequence,
+the same criticisms apply to these research syntheses. Solutions lie in the adoption of alternative designs better suited
+to make directional and causal inferences in theory effects,
+particularly longitudinal cross-lagged panel designs and
+randomized controlled designs, respectively.
+Alongside this, concerns have been raised over the use
+of theory in developing and testing interventions purposed
+to change behavior. Specifically, researchers have suggested
+that many interventions do not explicitly match techniques
+that form intervention content with the targeted theoretical
+constructs the represent the psychological mechanisms by
+which the intervention is purported to operate in changing
+the behavior (e.g., Hagger et al., 2020; Kok et al., 2016;
+Michie et al., 2018; Sheeran et al., 2017). Further, studies
+evaluating the efficacy of theory-based interventions do not
+routinely test these mechanisms, often referred to as intervention mechanisms of action (Hagger et al., 2020a, b). In
+this section, we outline research that addresses these two
+key limitations. We initially outline how researchers have
+employed innovative research synthesis methods to provide robust estimates of theory of planned behavior effects,
+including syntheses of theory effects in studies adopting
+longitudinal and randomized controlled designs. We then
+examine how recent methodological developments could
+be utilized to test the mechanisms of action of interventions based on the theory. Specifically, we outline how
+advances in research synthesis methods and the expanding
+research literature employing appropriate designs enable
+such syntheses and evaluate their potential to contribute to
+knowledge on how interventions ‘work’ in changing health
+behavior.
+
+13
+
+50
+
+Directional and causal inferences
+Although most studies testing predictions of the theory of
+planned behavior in health behavior contexts have employed
+correlational designs, there is a broadening body of research
+testing its predictions using designs that enable better directional and causal inferences. For example, researchers have
+tested theory effects using cross-lagged panel designs that
+provide better support for directional inferences of theory
+predictions while controlling for temporal construct change,
+and in some implementations, intraindividual construct
+change (e.g., Prati et al., 2014; Reinecke et al., 1996). Such
+designs also have the added advantage of testing auxiliary
+hypotheses such as reciprocal effects among constructs
+through cross-lagged effects. For instance, these designs
+enable tests of prior behavioral participation effects on
+social cognition constructs, such as attitudes, in addition to
+construct effects on subsequent behavior, consistent with
+received theory (see Liska, 1984). Similarly, researchers
+have adopted experimental and intervention studies using
+randomized controlled designs to test the effects of manipulations (e.g., messages, persuasive communication) aimed
+at activating or changing one or more constructs from the
+theory on health behavior (e.g., Norman et al., 2018; Sniehotta, 2009). Randomization to conditions provides a better
+basis for causal inference by minimizing potential influences of extraneous factors that partially or entirely account
+for the effects3. Findings from these studies have provided
+some convergence in support for theory effects and extend
+primary research findings adopting correlational designs
+and prior meta-analyses based on studies adopting correlational designs.
+The availability of a critical mass of studies employing
+longitudinal and randomized designs to test the theory in
+health behavior since our 2015 meta-analysis (Rich et al.,
+2015), together with some methodological innovations, has
+permitted new syntheses of this research. Focusing first on
+longitudinal designs, we conducted a meta-analysis of 87
+longitudinal tests of the theory of planned behavior (Hagger & Hamilton, 2024a). The study also capitalized on
+innovations in meta-analytic structural equation modelling
+(e.g., Cheung & Hong, 2017), which allowed us to conduct
+a cross-lagged panel analysis of theory predictions that
+included all eligible studies even if they did not report a full
+panel design or measure all the theory constructs4. Findings
+3
+
+It should be noted that such designs do no entirely obviate issues
+relating to causal inference and other considerations need to be taken
+into account, for a review see Rohrer (2024).
+4
+
+For a discussion of analytic issues including meta-analyzing data
+from studies where the numbers of effect sizes in the analyzed matrix
+of correlations among theory constructs vary and its use to estimate
+novel models, see Hagger and Hamilton (2024b).
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+supported hypothesized theory effects over time while
+controlling for temporal construct stability and provided
+little evidence for reciprocal effects among its constructs.
+Although the analysis provided further robust support for
+the proposed directional effects of constructs as propose in
+the theory, the analysis was still based on correlational data
+and did not employ advanced implementations to analyze
+panel designs (e.g., random intercept cross-lagged panel
+analyses) that permit modelling of intraindividual change in
+addition to temporal change in constructs (e.g., Orth et al.,
+2021). These are avenues for future research, but analyses
+adopting random intercept analyses are dependent on gaining access to the raw data sets of included studies, which
+has, hitherto, presented challenges for research syntheses
+despite calls for data sharing.
+Turning to application of experimental and intervention
+study designs to test theory predictions, two meta-analyses
+have been conducted (Sheeran et al., 2016b; Steinmetz et
+al., 2016). These analyses focused exclusively on studies
+employing randomized designs including experimental,
+quasi-experimental, and intervention designs in which participants were randomly assigned to either treatment group
+exposed to manipulations or techniques aimed at changing one or more theory constructs or a control or comparison group that did not receive the treatment. An important
+innovation of Sheeran et al. (2016a, b) analysis was the
+application of a selection method to ensure that included
+studies sufficiently engaged the targeted theory construct.
+Specifically, studies had to report statistically significant
+post-intervention change in a measure of the targeted construct in addition to testing for subsequent change in intentions toward, and actual participation in, the targeted health
+behavior. This approach has been described as the change
+meta-analysis method (Sheeran et al., 2021). An important
+feature of the Steinmetz et al. (2016) analysis was to code
+studies according to the behavior change methods or techniques used, although they did not segregate their analysis
+into studies targeting change in each individual theory construct. Sheeran et al. (2016a, b) analysis indicated unique
+change in health behavior intentions and behavior in studies that targeted change in attitudes, intention, and behavior, with effect sizes on intentions larger than effect sizes on
+behavior, consistent with previous analyses (e.g., Webb &
+Sheeran, 2006). Similarly, Steinmetz et al. (2016) identified
+changes in theory constructs (attitude, subjective norm, and
+perceived behavioral control) and intentions and behavior
+in interventions based on the theory. They also identified
+persuasion, increasing skill use, and motivational strategies were most effective in changing selected theory constructs and intentions, but with few differences on behavior.
+Taken together, findings from these analyses provide the
+most robust evidence to date for causal effects of theory
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+constructs on intention and behavior change in the theory of
+planned behavior, and point to candidate methods that may
+be effectively employed in behavior change interventions
+based on the theory. The syntheses also provide evidence
+that interventions with a basis in theories like the theory of
+planned behavior can lead to effective behavior change.
+
+Mechanisms of action of theory-based interventions
+Although researchers have used theories such as the theory
+of planned behavior as a basis for interventions to change
+health behavior, studies evaluating these interventions have
+not routinely tested whether the methods or techniques that
+form the content of interventions operate to change behavior as specified in theory (Hagger et al., 2020a, b; Sheeran
+et al., 2017). Specifically, researchers have not been sufficiently explicit or consistent in describing how the techniques used match the targeted theory construct (Kok et
+al., 2016; Michie et al., 2018). Furthermore, researchers
+adopting randomized controlled studies to test intervention
+effects have not tended to include measures or analyses to
+evaluate whether technique exposure leads to change both
+the theoretical constructs and behavioral outcome (Hagger, 2025). Advances in research in the science of behavior
+change has led to the development of systematic definitions
+and descriptions of the techniques used in behavior change
+interventions organized into structured classifications –
+referred to as taxonomies and ontologies (e.g.,Marques et
+al., 2023). Alongside this, there have been evidence-based
+efforts to match these techniques with theory-based constructs that represent the mental processes proposed to be
+changed or activated by the technique (Carey et al., 2019;
+Connell et al., 2019; Kok et al., 2016), with accompanying
+protocols for researchers to do so (Birk et al., 2023; Johnston et al., 2021; Michie et al., 2018). Finally, researchers
+have also specified the kinds of designs and analyses necessary to provide fit-for-purpose evidence to support the proposed process by which such techniques operate to change
+behavior by engaging the targeted theory-based construct,
+known as the intervention mechanism of action (Birk et al.,
+2023; Hagger, 2025; Sheeran et al., 2017). Taken together,
+this research has provided the clearest guidance yet on how
+researchers can test how their interventions work in changing behavior.
+However, meta-reviews of behavior change interventions
+have indicated that evidence testing theory-based mechanisms of action is relatively sparse (Hagger et al., 2020a, b;
+Hennessy et al., 2020). As a consequence researchers have
+been comparatively limited in their capacity to conduct
+syntheses of intervention mechanisms of action such that
+cumulative evidence on such mechanisms is a recognized
+need (Hennessy et al., 2022). Such an evidence base will
+
+51
+
+provide interventionists with knowledge of the techniques
+likely to have efficacy in changing behavior, how they operate, and the conditions that may determine their efficacy
+(e.g., behavior, context, population characteristics). The
+meta-analyses of experimental and intervention research
+based on the theory of planned behavior outlined in the previous section provide important advances that contribute to
+this evidence based insofar as their efficacy, their engagement of the theoretical constructs, and the techniques used
+(Sheeran et al., 2016b; Steinmetz et al., 2016). However,
+they do not provide formal tests of mechanisms of action,
+that necessitate studies reporting sufficient data to conduct
+mediation analyses to confirm indirect effects of strategies
+or manipulations on change in behavioral outcomes through
+change in the theory construct proposed to be implicated in
+the change. Recent syntheses have advanced this research
+by providing such analyses. For example, Rhodes et al.
+(2021) demonstrated indirect effects of multiple techniques
+on physical activity behavior change mediated by constructs
+from multiple theories and Sheeran et al. (2020) demonstrated indirect effects of strategies from self-determination
+theory, a humanistic, needs-based theory of motivation, on
+health behavior change mediated by the autonomy and competence constructs from the theory. Both analyses revealed
+indirect effects that yielded cumulative evidence in support
+of their respective theory-based mechanism of action.
+However, both analyses were limited insofar as the data
+used did not account for change in the behavioral outcome
+resulting from change in the theory-based construct itself,
+that is, the mediator (for a discussion see Bullock & Green,
+2021). Such effects were, instead, based on correlational
+data (Sheeran et al., 2021). In future, meta-analyses need to
+conduct syntheses of intervention studies that report effect
+size data in which the intervention techniques used lead to
+demonstrable change in both the behavior and the targeted
+theoretical construct post-intervention, and, importantly,
+that change in the construct leads to change in the behavior
+post-intervention. This essentially extends Sheeran et al.’s
+(2021) change meta-analysis method to a full mediation
+analysis. However, few studies provide sufficient data to
+compute such analyses. There have been calls for researchers to report such data and methods to identify and archive
+such data that may feed into future evidence syntheses (Hagger, 2025; Hennessy et al., 2022). Such endeavors will serve
+to iteratively develop a cumulative evidence base of intervention mechanisms of action in health behavior research.
+
+13
+
+52
+
+Summary and conclusion
+Our 2015 meta-analysis of the theory of planned behavior
+provided cumulative evidence for associations between
+theory constructs and health-related intentions and behavior in populations with chronic illness (Rich et al., 2015).
+Our analysis contributed further to the evidence of psychological determinants of health behavior together with other
+meta-analyses of the theory (e.g., Albarracín et al., 2001;
+Hagger et al., 2002; Hamilton et al., 2020; McEachan et al.,
+2011). Since that time, new meta-analyses of research applying the theory in health behavior contexts have capitalized
+on theoretical, methodological, and analytic innovations to
+address limitations and fill evidence gaps of the prior syntheses. These analyses have made important contributions
+to knowledge on health behavior determinants research and
+behavior change interventions based on the theory. In this
+review, we summarized the findings of these meta-analyses,
+evaluated their contribution, highlighted arising limitations
+and evidence gaps, and suggested avenues for research.
+We began by highlighting limitations and gaps in knowledge on the theory and how prior research syntheses have
+fallen short of providing sufficient evidence to address them.
+Specifically, we outlined theory predictions that our study,
+and other contemporary meta-analyses, had not sufficiently
+addressed or tested, including (a) moderating effects of perceived behavioral control and construct correspondence
+and the mediated effects of indirect and direct measures
+of theory constructs on direct theory constructs, intention
+and behavior; (b) effects of variables and constructs representing sociostructural and intrapersonal health behavior determinants; and (c) effects of constructs representing
+non-conscious processes. We highlighted the contributions
+of new meta-analyses that capitalized on methodological
+innovations and evidence proliferation that lend support
+for perceived behavioral control moderating effects (Hagger et al., 2022), and effects of sociostructural variables
+(Hagger & Hamilton, 2021; McAnally & Hagger, 2023),
+and constructs representing non-conscious processes (e.g.,
+habit), on behavior (Hagger et al., 2023). We highlighted
+how these syntheses have also shed light on proposed theory-based assumptions and mechanisms (e.g., mediation of
+sociostructural variable effects on behavior by theory constructs; conditions determining relative contributions habit
+and intention on behavior). We also highlighted the need for
+additional syntheses addressing further theory-relevant limitations, and offered our currently in-progress meta-analyses
+of the theory incorporating personality traits (Hagger, 2018)
+and implicit attitudes (Phipps et al., 2024) as examples and
+discussed their implications.
+Next, we outlined key methodological issues that placed
+limits on the inferences that could be drawn from prior
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+
+meta-analyses of the theory in health behavior contexts: (a)
+including inferences of direction and cause in theory effects;
+and (b) tests of intervention mechanisms of action in the
+theory. We highlighted recent syntheses that capitalized
+on recent advances in methods and advances in data availability that partially addressed these limitations. Our recent
+meta-analysis of longitudinal research that tested directional
+and reciprocal effects in the theory (Hagger & Hamilton,
+2024a), and two recent meta-analyses of experimental and
+intervention research (Sheeran et al., 2016b; Steinmetz et
+al., 2016), were presented as examples of these innovations.
+We also highlighted the limitations of these analyses, and
+proposed recommendations for future meta-analyses testing
+the mechanisms of action of interventions based on the theory. Specifically, we suggested modifications to the mediation analyses used to test mechanisms of action of behavior
+change techniques in other theories as starting points for
+these proposed syntheses and how they might be modified
+to do so (Rhodes et al., 2021; Sheeran et al., 2020).
+Overall, the current review of new meta-analyses conducted since our 2015 analysis are indicative of the considerable progress that has been made in cumulative evidence
+on applications of theory in health behavior contexts.
+However, we have also highlighted ongoing deficiencies
+and gaps in available syntheses and signaled need for new
+syntheses to address them. We have offered our ongoing
+work and suggestions of new syntheses, particularly metaanalyses of experimental and intervention research and tests
+of mechanisms of action of behavior change, as possible
+avenues for future research and expect them to inform an
+agenda for new syntheses that advance knowledge on the
+theory in health behavior contexts.
+Author contributions Martin S. Hagger and Kyra Hamilton: Conceptualization, Methodology, Writing – Original Draft, Writing – Review
+and Editing.
+Funding The work reported in this article received no funding.
+Data availability Not applicable.
+
+Declarations
+Ethical approval Not applicable.
+Consent to participate Not applicable.
+Competing interests The authors declare no competing interests.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format,
+as long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons licence, and indicate
+if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless
+
+Journal of Behavioral Medicine (2025) 48:43–56
+indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons licence and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this licence, visit ​h​t​t​​p​:​/​/​​c​r​e​​a​t​i​​v​e​c​o​m​m​o​n​s​.​o​
+r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/​​​​.​ ​​
+
+References
+Adams, M. L., Grandpre, J., Katz, D. L., & Shenson, D. (2019). The
+impact of key modifiable risk factors on leading chronic conditions. Preventive Medicine, 120, 113–118. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​1​
+6​/​j​.​y​p​m​e​d​.​2​0​1​9​.​0​1​.​0​0​6​​​​​​​
+Ajzen, I. (1991). The theory of planned behavior. Organizational
+Behavior and Human Decision Processes, 50(2), 179–211. https:/​
+/doi.or​g/10.10​16/07​49-5978(91)90020-T
+Ajzen, I. (2011). The theory of planned behaviour: Reactions and
+reflections. Psychology & Health, 26(9), 1113–1127. ​h​t​t​​p​s​:​/​​/​d​o​​i​
+.​o​​r​g​/​1​0​.​1​0​8​0​/​0​8​8​7​0​4​4​6​.​2​0​1​1​.​6​1​3​9​9​5​​​​​​​
+Ajzen, I., & Driver, B. E. (1991). Prediction of leisure participation
+from behavioral, normative, and control beliefs: An application of
+the theory of planned behavior. Leisure Sciences, 13(3), 185–204.
+https:/​/doi.or​g/10.10​80/01​490409109513137
+Ajzen, I., & Driver, B. L. (1992). Application of the theory of planned
+behavior to leisure choice. Journal of Leisure Research, 24(3),
+207–224. https:/​/doi.or​g/10.10​80/00​222216.1992.11969889
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting social behavior. Prentice Hall.
+Ajzen, I., & Schmidt, P. (2020). Changing behavior using the theory of
+planned behavior. In M. S. Hagger, L. D. Cameron, K. Hamilton,
+N. Hankonen & T. Lintunen (Eds.), The handbook of behavior
+change (pp. 17–31). Cambridge University Press. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​
+1​0​.​1​0​1​7​/​9​7​8​1​1​0​8​6​7​7​3​1​8​0​.​0​0​2​​​​​​​
+Ajzen, I., & Timko, C. (1986). Correspondence between health, attitudes and behavior. Basic and Applied Social Psychology, 4(4),
+259–275. https:/​/doi.or​g/10.12​07/s1​5324834basp0704_2
+Albarracín, D., Johnson, B. T., Fishbein, M., & Muellerleile, P. A.
+(2001). Theories of reasoned action and planned behavior as
+models of condom use: A meta-analysis. Psychological Bulletin,
+127(1), 142–161. https:/​/doi.or​g/10.10​37/00​33-2909.127.1.142
+Armitage, C. J., & Conner, M. T. (2001). Efficacy of the theory of
+planned behaviour: A meta-analytic review. British Journal of
+Social Psychology, 40(4), 471–499. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​3​4​8​/​0​1​4​
+4​6​6​6​0​1​1​6​4​9​3​9​​​​​​​
+Bandura, A. (1986). Social foundations of thought and action: A
+social-cognitive theory. Prentice-Hall.
+Birk, J. L., Otto, M. W., Cornelius, T., Poldrack, R. A., & Edmondson,
+D. (2023). Improving the rigor of mechanistic behavioral science:
+The introduction of the Checklist for investigating mechanisms
+in Behavior-Change Research (CLIMBR). Behavior Therapy,
+54(4), 708–713. https:/​/doi.or​g/10.10​16/j.​beth.2022.12.008
+Bogg, T., & Milad, E. (2020). Demographic, personality, and social
+cognition correlates of coronavirus guideline adherence in a U.S.
+sample. Health Psychology, 39(12), 1026–1036. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​
+0​.​1​0​3​7​/​h​e​a​0​0​0​0​8​9​1​​​​​​​
+Bullock, J. G., & Green, D. P. (2021). The failings of conventional
+mediation analysis and a design-based alternative. Advances in
+Methods and Practices in Psychological Science, 4(4). ​h​t​t​​p​s​:​/​​/​d​o​​
+i​.​o​​r​g​/​1​0​.​1​1​7​7​/​2​5​1​5​2​4​5​9​2​1​1​0​4​7​2​2​7​​​​​​​
+Carey, R. N., Connell, L. E., Johnston, M., Rothman, A. J., de Bruin,
+M., Kelly, M. P., & Michie, S. (2019). Behavior change techniques
+and their mechanisms of action: A synthesis of links described in
+published intervention literature. Annals of Behavioral Medicine,
+53(8), 693–707. https:/​/doi.or​g/10.10​93/ab​m/kay078
+
+53
+Cheung, M. W. L., & Hong, R. Y. (2017). Applications of meta-analytic structural equation modeling in health psychology: Examples, issues, and recommendations. Health Psychology Review,
+11(3), 265–279. https:/​/doi.or​g/10.10​80/17​437199.2017.1343678
+Connell, L. E., Carey, R. N., de Bruin, M., Rothman, A. J., Johnston,
+M., Kelly, M. P., & Michie, S. (2019). Links between behavior
+change techniques and mechanisms of action: An expert consensus study. Annals of Behavioral Medicine, 53(8), 708–720. https:/​
+/doi.or​g/10.10​93/ab​m/kay082
+Conner, M. T., & Abraham, C. (2001). Conscientiousness and the
+theory of planned behavior: Toward a more complete model of
+the antecedents of intentions and behavior. Personality and Social
+Psychology Bulletin, 27(11), 1547–1561. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​1​7​7​
+/​0​1​4​6​1​6​7​2​0​1​2​7​1​1​0​1​4​​​​​​​
+Conner, M. T., & Norman, P. (2015). Predicting and changing health
+behaviour: Research and practice with social cognition models
+(3rd ed.). Open University.
+Conner, M. T., Wilding, S., Wright, C. E., & Sheeran, P. (2023). How
+does self-control promote health behaviors? A multi-behavior test
+of five potential pathways. Annals of Behavioral Medicine, 57(4),
+313–322. https:/​/doi.or​g/10.10​93/ab​m/kaac053
+De Houwer, J. (2003). The extrinsic affective Simon task. Experimental Psychology, 50(2), 77–85. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​2​6​/​/​1​6​1​8​-​3​1​6​
+9​.​5​0​.​2​.​7​7​​​​​​​
+Deutsch, R., & Strack, F. (2020). Changing behavior using the reflective-impulsive model. In M. S. Hagger, L. D. Cameron, K. Hamilton, N. Hankonen & T. Lintunen (Eds.), Handbook of behavior
+change (pp. 164–177). Cambridge University Press. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​
+r​g​/​1​0​.​1​0​1​7​/​9​7​8​1​1​0​8​6​7​7​3​1​8​0​.​0​1​2​​​​​​​
+Digman, J. M. (1990). Personality structure: Emergence of the fivefactor model. Annual Review of Psychology, 41(1), 417–440.
+https:/​/doi.or​g/10.11​46/an​nurev.ps.41.020190.002221
+Ebert, J. E. J., & Lin, X. Y. (2024). Confirming the causal rrole of
+consistent contexts in developing a walking habit: A randomized
+comparison with varied contexts. Annals of Behavioral Medicine,
+58(11), 741–751. https:/​/doi.or​g/10.10​93/ab​m/kaae045
+Ellis, E. M., Collins, R. L., Homish, G. G., Parks, K. A., & Kiviniemi,
+M. T. (2016). Perceived controllability of condom use shifts reliance on implicit versus explicit affect. Health Psychology, 35(8),
+842–846. https:/​/doi.or​g/10.10​37/he​a0000336
+Folkvord, F., Veling, H., & Hoeken, H. (2016). Targeting implicit
+approach reactions to snack food in children: Effects on intake.
+Health Psychology, 35(8), 919–922. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​h​e​a​
+0​0​0​0​3​6​5​​​​​​​
+Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M.,
+Devine, P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change implicit measures. Journal of Personality and
+Social Psychology, 117(3), 522–559. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​p​s​p​
+a​0​0​0​0​1​6​0​​​​​​​
+Friese, M., Hofmann, W., & Wänke, M. (2008). When impulses take
+over: Moderated predictive validity of explicit and implicit attitude measures in predicting food choice and consumption behaviour. British Journal of Social Psychology, 47(3), 397–419. https:/​
+/doi.or​g/10.13​48/01​4466607x241540
+Glanz, K., & Bishop, D. B. (2010). The role of behavioral science
+theory in development and implementation of public health interventions. Annual Review of Public Health, 31, 399–418. ​h​t​t​​p​s​:​/​​/​d​
+o​​i​.​o​​r​g​/​1​0​.​1​1​4​6​/​a​n​n​u​r​e​v​.​p​u​b​l​h​e​a​l​t​h​.​0​1​2​8​0​9​.​1​0​3​6​0​4​​​​​​​
+Godin, G., Sheeran, P., Conner, M., Belanger-Gravel, A., Gallani, B.
+J., & Nolin, B. (2010). Social structure, social cognition, and
+physical activity: A test of four models. British Journal of Health
+Psychology, 15(1), 79–95. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​3​4​8​/​1​3​5​9​1​0​7​0​9​x​4​
+2​9​9​0​1​​​​​​​
+Greenwald, A. G., McGhee, D. E., & Schwartz, J. L. K. (1998). Measuring individual differences in implicit cognition: The implicit
+
+13
+
+54
+association test. Journal of Personality and Social Psychology,
+74(6), 1464–1480. https:/​/doi.or​g/10.10​37//0​022-3514.74.6.1464
+Hagger, M. S. (2016). Non-conscious processes and dual-process
+theories in health psychology. Health Psychology Review, 10(4),
+375–380. https:/​/doi.or​g/10.10​80/17​437199.2016.1244647
+Hagger, M. S. (2018). Personality and the theory of planned behavior:
+A meta-analysis. Retrieved November 29, 2018, from ​h​t​t​p​s​:​/​/​o​s​f​
+.​i​o​/​k​p​j​q​w​​​​​​​
+Hagger, M. S. (2019). The reasoned action approach and the theories
+of reasoned action and planned behavior. In D. S. Dunn (Ed.),
+Oxford bibliographies in psychology. Oxford University Press.
+https:/​/doi.or​g/10.10​93/OB​O/9780199828340-0240
+Hagger, M. S. (2025). Psychological determinants of health behavior.
+Annual Review of Psychology, 76. 21.21–21.30
+Hagger, M. S., & Hamilton, K. (2020). Changing behavior using integrated theories. In M. S. Hagger, L. D. Cameron, K. Hamilton,
+N. Hankonen & T. Lintunen (Eds.), The handbook of behavior
+change (pp. 208–224). Cambridge University Press. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​
+r​g​/​1​0​.​1​0​1​7​/​9​7​8​1​1​0​8​6​7​7​3​1​8​.​0​1​5​​​​​​​
+Hagger, M. S., & Hamilton, K. (2021a). General causality orientations
+in self-determination theory: Meta-analysis and test of a process
+model. European Journal of Personality, 35(5), 710–735. ​h​t​t​​p​s​:​/​​/​
+d​o​​i​.​o​​r​g​/​1​0​.​1​1​7​7​/​0​8​9​0​2​0​7​0​2​0​9​6​2​3​3​0​​​​​​​
+Hagger, M. S., & Hamilton, K. (2021b). Effects of socio-structural
+variables in the theory of planned behavior: A mediation model
+in multiple samples and behaviors. Psychology & Health, 36(3),
+307–333. https:/​/doi.or​g/10.10​80/08​870446.2020.1784420
+Hagger, M. S., & Hamilton, K. (2024a). Longitudinal tests of the theory of planned behaviour: A meta-analysis. European Review of
+Social Psychology, 35(1), 198–254. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​8​0​/​1​0​4​6​
+3​2​8​3​.​2​0​2​3​.​2​2​2​5​8​9​7​​​​​​​
+Hagger, M. S., & Hamilton, K. (2024b). Testing theory predictions and
+intervention mechanisms of action in sport and exercise psychology using meta-analysis. Sport Exercise and Performance Psychology. https:/​/doi.or​g/10.10​37/sp​y0000352
+Hagger, M. S., & Hamilton, K. (2024c). Trait self-control as a determinant of health behavior: Recent advances on mechanisms and
+future directions for research. Current Opinion in Psychology, 60,
+101887. https:/​/doi.or​g/10.10​16/j.​copsyc.2024.101887
+Hagger, M. S., Chatzisarantis, N. L. D., & Biddle, S. J. H. (2002).
+A meta-analytic review of the theories of reasoned action and
+planned behavior in physical activity: Predictive validity and the
+contribution of additional variables. Journal of Sport and Exercise Psychology, 24(1), 3–32. https:/​/doi.or​g/10.11​23/js​ep.24.1.3
+Hagger, M. S., Hankonen, N., Kangro, E. M., Lintunen, T., Pagaduan,
+J., Polet, J., Ries, F., & Hamilton, K. (2019). Trait self-control,
+social cognition constructs, and intentions: Correlational evidence for mediation and moderation effects in diverse health
+behaviors. Applied Psychology: Health and Well-Being, 11(3),
+407–437. https:/​/doi.or​g/10.11​11/ap​hw.12153
+Hagger, M. S., Cameron, L. D., Hamilton, K., Hankonen, N., & Lintunen, T. (2020a). Changing behavior: A theory- and evidencebased approach. In M. S. Hagger, L. D. Cameron, K. Hamilton,
+N. Hankonen, & T. Lintunen (Eds.), The handbook of behavior
+change (pp. 1–14). Cambridge University Press. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​
+0​.​1​0​1​7​/​9​7​8​1​1​0​8​6​7​7​3​1​8​0​.​0​0​1​​​​​​​
+Hagger, M. S., Moyers, S., McAnally, K., & McKinley, L. E. (2020b).
+Known knowns and known unknowns on behavior change interventions and mechanisms of action. Health Psychology Review,
+14(1), 199–212. https:/​/doi.or​g/10.10​80/17​437199.2020.1719184
+Hagger, M. S., Cheung, M. W. L., Ajzen, I., & Hamilton, K. (2022).
+Perceived behavioral control moderating effects in the theory of
+planned behavior: A meta-analysis. Health Psychology, 41(2),
+155–167. https:/​/doi.or​g/10.10​37/he​a0001153
+Hagger, M. S., Hamilton, K., Phipps, D. J., Protogerou, C., Zhang, C.
+Q., Girelli, L., Mallia, L., & Lucidi, F. (2023). Effects of habit
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+and intention on behavior: Meta-analysis and test of key moderators. Motivation Science, 9(2), 73–94. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​m​
+o​t​0​0​0​0​2​9​4​​​​​​​
+Hamilton, K., van Dongen, A., & Hagger, M. S. (2020). An extended
+theory of planned behavior for parent-for-child health behaviors:
+A meta-analysis. Health Psychology, 39(10), 863–878. ​h​t​t​​p​s​:​/​​/​d​o​​
+i​.​o​​r​g​/​1​0​.​1​0​3​7​/​h​e​a​0​0​0​0​9​4​0​​​​​​​
+Hennessy, E. A., Johnson, B. T., Acabchuk, R. L., McCloskey, K., &
+Stewart-James, J. (2020). Self-regulation mechanisms in health
+behaviour change: A systematic meta-review of meta-analyses,
+2006–2017. Health Psychology Review, 14(1), 6–42. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​
+r​g​/​1​0​.​1​0​8​0​/​1​7​4​3​7​1​9​9​.​2​0​1​9​.​1​6​7​9​6​5​4​​​​​​​
+Hennessy, E. A., Acabchuk, R. L., Arnold, P. A., Dunn, A. G., Foo, Y.
+Z., Johnson, B. T., Geange, S. R., Haddaway, N. R., Nakagawa,
+S., Mapanga, W., Mengersen, K., Page, M. J., Sánchez-Tójar, A.,
+Welch, V., & McGuinness, L. A. (2022). Ensuring prevention science research is synthesis-ready for immediate and lasting scientific impact. Prevention Science, 23(5), 809–820. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​
+1​0​.​1​0​0​7​/​s​1​1​1​2​1​-​0​2​1​-​0​1​2​7​9​-​8​​​​​​​
+Howell, J. L., Ratliff, K. A., & Shepperd, J. A. (2016). Automatic
+attitudes and health information avoidance. Health Psychology,
+35(8), 816–823. https:/​/doi.or​g/10.10​37/he​a0000330
+Jak, S., & Cheung, M. W. L. (2020). Meta-analytic structural equation
+modeling with moderating effects on SEM parameters. Psychological Methods, 24(4), 430–455. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​m​e​t​0​0​
+0​0​2​4​5​​​​​​​
+Jak, S., & Cheung, W. L., M (2024). A cautionary note on using univariate methods for meta-analytic structural equation modeling.
+Advances in Methods and Practices in Psychological Science,
+7(4), 1–24. https:/​/doi.or​g/10.11​77/25​152459241274249
+Johnston, M., Carey, R. N., Bohlen, C., Johnston, L. E., Rothman,
+D. W., de Bruin, A. J., Kelly, M., Groarke, M. P., H., & Michie,
+S. (2021). Development of an online tool for linking behavior
+change techniques and mechanisms of action based on triangulation of findings from literature synthesis and expert consensus.
+Translational Behavioral Medicine, 11(5), 1049–1065. ​h​t​t​​p​s​:​/​​/​d​o​​
+i​.​o​​r​g​/​1​0​.​1​0​9​3​/​t​b​m​/​i​b​a​a​0​5​0​​​​​​​
+Kaushal, N., Rhodes, R. E., Spence, J. C., & Meldrum, J. T. (2017).
+Increasing physical activity through principles of habit formation
+in new gym members: A randomized controlled trial. Annals of
+Behavioral Medicine, 51(4), 578–586. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​0​7​/​s​1​
+2​1​6​0​-​0​1​7​-​9​8​8​1​-​5​​​​​​​
+Kok, G., Gottlieb, N. H., Peters, G. J. Y., Mullen, P. D., Parcel, G. S.,
+Ruiter, R. A. C., Fernández, M. E., Markham, C., & Bartholomew,
+L. K. (2016). A taxonomy of behavior change methods: An intervention mapping approach. Health Psychology Review, 10(3),
+297–312. https:/​/doi.or​g/10.10​80/17​437199.2015.1077155
+Lindgren, K. P., Neighbors, C., Teachman, B. A., Gasser, M. L., Kaysen, D., Norris, J., & Wiers, R. W. (2015). Habit doesn’t make
+the predictions stronger: Implicit alcohol associations and habitualness predict drinking uniquely. Addictive Behaviors, 45, 139–
+145. https:/​/doi.or​g/10.10​16/j.​addbeh.2015.01.003
+Liska, A. E. (1984). A critical examination of the causal structure of
+the Fishbein/Ajzen attitude-behavior model. Social Psychology
+Quarterly, 47(1), 61–74. https:/​/doi.or​g/10.23​07/30​33889
+Liu, Y., Croft, J. B., Wheaton, A. G., Kanny, D., Cunningham, T. J., Lu,
+H., Onufrak, S., Malarcher, A. M., Greenlund, K. J., & Giles, W.
+H. (2016). Clustering of five health-related behaviors for chronic
+disease prevention among adults, United States, 2013. Preventing Chronic Disease, 13, 160054. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​5​8​8​8​/​p​c​d​1​3​
+.​1​6​0​0​5​4​​​​​​​
+Marques, M., Wright, A., Corker, E., Johnston, M., West, R., Hastings,
+J., Zhang, L., & Michie, S. (2023). The behaviour change technique ontology: Transforming the behaviour change technique
+taxonomy v1. Wellcome Open Research, 8, 308. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​
+1​0​.​1​2​6​8​8​/​w​e​l​l​c​o​m​e​o​p​e​n​r​e​s​.​1​9​3​6​3​.​2​​​​​​​
+
+Journal of Behavioral Medicine (2025) 48:43–56
+McAnally, K., & Hagger, M. S. (2023). Health literacy, social cognition constructs, and health behaviors and outcomes: A metaanalysis. Health Psychology, 42(4), 213–234. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​
+.​1​0​3​7​/​h​e​a​0​0​0​1​2​6​6​​​​​​​
+McEachan, R. R. C., Conner, M. T., Taylor, N., & Lawton, R. J. (2011).
+Prospective prediction of health-related behaviors with the theory
+of planned behavior: A meta-analysis. Health Psychology Review,
+5(2), 97–144. https:/​/doi.or​g/10.10​80/17​437199.2010.521684
+Michie, S., & West, R. (2013). Behaviour change theory and evidence:
+A presentation to government. Health Psychology Review, 7(1),
+1–22. https:/​/doi.or​g/10.10​80/17​437199.2011.649445
+Michie, S., Carey, R. N., Johnston, M., Rothman, A. J., de Bruin, M.,
+Kelly, M. P., & Connell, L. E. (2018). From theory-inspired to
+theory-based interventions: A protocol for developing and testing
+a methodology for linking behaviour change techniques to theoretical mechanisms of action. Annals of Behavioral Medicine,
+52(6), 501–512. https:/​/doi.or​g/10.10​07/s1​2160-016-9816-6
+Norman, P., Cameron, D., Epton, T., Webb, T. L., Harris, P. R., Millings, A., & Sheeran, P. (2018). A randomized controlled trial
+of a brief online intervention to reduce alcohol consumption in
+new university students: Combining self-affirmation, theory of
+planned behaviour messages, and implementation intentions.
+British Journal of Health Psychology, 23(1), 108–127. ​h​t​t​​p​s​:​/​​/​d​
+o​​i​.​o​​r​g​/​1​0​.​1​1​1​1​/​b​j​h​p​.​1​2​2​7​7​​​​​​​
+Oldenburg, B., Absetz, P., & Chan, C. K. Y. (2010). Behavioral interventions for prevention and management of chronic disease. In A.
+Steptoe (Ed.), Handbook of behavioral medicine: Methods and
+applications (pp. 969–988). Springer New York. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​
+0​.​1​0​0​7​/​9​7​8​-​0​-​3​8​7​-​0​9​4​8​8​-​5​_​6​2​​​​​​​
+Orbell, S., & Verplanken, B. (2010). The automatic component of habit
+in health behavior: Habit as cue-contingent automaticity. Health
+Psychology, 29(4), 374–383. https:/​/doi.or​g/10.10​37/a0​019596
+Orbell, S., Szczepura, A., Weller, D., Gumber, A., & Hagger, M. S.
+(2017). South Asian ethnicity, socio-economic status and psychological mediators of faecal occult blood colorectal screening
+participation: A prospective test of a process model. Health Psychology, 36(12), 1161–1172. https:/​/doi.or​g/10.10​37/he​a0000525
+Orth, U., Clark, D. A., Donnellan, M. B., & Robins, R. W. (2021).
+Testing prospective effects in longitudinal research: Comparing
+seven competing cross-lagged models. Journal of Personality
+and Social Psychology, 120(4), 1013–1034. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​
+0​3​7​/​p​s​p​p​0​0​0​0​3​5​8​​​​​​​
+Phipps, D. J., Hagger, M. S., & Hamilton, K. (2020). Predicting limiting ‘free sugar’ consumption using an integrated model of health
+behavior. Appetite, 150, 104668. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​1​6​/​j​.​a​p​p​e​t​.​
+2​0​2​0​.​1​0​4​6​6​8​​​​​​​
+Phipps, D. J., Hagger, M. S., & Hamilton, K. (2024). Relative effects
+of implicit and explicit attitudes on behavior: Meta-analysis and
+test of key moderators. Retrieved April 17, 2024, from ​h​t​t​​p​s​:​/​​/​o​
+s​​f​.​i​​o​/​n​​d​8​2​​b​/​?​v​​i​e​​w​_​o​n​l​y​=​1​0​b​2​9​6​4​e​a​c​7​c​4​f​2​e​9​1​4​2​b​b​0​8​5​2​d​3​9​4​4​1​​​​​​​
+Prati, G., Mazzoni, D., & Zani, B. (2014). Perceived behavioural control, subjective norms, attitudes and intention to use condom: A
+longitudinal cross-lagged design. Psychology & Health, 29(10),
+1119–1136. https:/​/doi.or​g/10.10​80/08​870446.2014.913043
+Prestwich, A., Webb, T. L., & Conner, M. (2015). Using theory to
+develop and test interventions to promote changes in health behaviour: Evidence, issues, and recommendations. Current Opinion in
+Psychology, 5, 1–5. https:/​/doi.or​g/10.10​16/j.​copsyc.2015.02.011
+Primoceri, P., Hagger, M. S., & Ullrich, J. (2018). Trait self-control
+and social cognitive predictors of health behavior: A meta-analysis. Retrieved May 30, 2018, from ​h​t​t​​p​s​:​/​​/​w​w​​w​.​c​​r​d​.​​y​o​r​​k​.​a​c​​.​u​​k​/​p​r​
+o​s​p​e​r​o​/​d​i​s​p​l​a​y​_​r​e​c​o​r​d​.​p​h​p​?​I​D​=​C​R​D​4​2​0​1​8​0​9​5​9​6​4​​​​​​​
+Rebar, A. L., Dimmock, J. A., Jackson, B., Rhodes, R. E., Kates, A.,
+Starling, J., & Vandelanotte, C. (2016). A systematic review of the
+effects of non-conscious regulatory processes in physical activity.
+
+55
+Health Psychology Review, 10(4), 395–407. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​
+8​0​/​1​7​4​3​7​1​9​9​.​2​0​1​6​.​1​1​8​3​5​0​5​​​​​​​
+Reinecke, J., Schmidt, P., & Ajzen, I. (1996). Application of the theory
+of planned behavior to adolescents’ condom use: A panel study.
+Journal of Applied Social Psychology, 26(9), 749–772. ​h​t​t​​p​s​:​/​​/​d​o​​
+i​.​o​​r​g​/​1​0​.​1​1​1​1​/​j​.​1​5​5​9​-​1​8​1​6​.​1​9​9​6​.​t​b​0​1​1​2​8​.​x​​​​​​​
+Rhodes, R. E., & Courneya, K. S. (2003). Relationships between personality, an extended theory of planned behaviour model and
+exercise behaviour. British Journal of Health Psychology, 8(1),
+19–36. https:/​/doi.or​g/10.13​48/13​5910703762879183
+Rhodes, R. E., Boudreau, F., Josefsson, W., K., & Ivarsson, A. (2021).
+Mediators of physical activity behavior change interventions
+among adults: A systematic review and meta-analysis. Health
+Psychology Review, 15(2), 272–286. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​8​0​/​1​7​4​
+3​7​1​9​9​.​2​0​1​9​.​1​7​0​6​6​1​4​​​​​​​
+Rich, A., Brandes, K., Mullan, B. A., & Hagger, M. S. (2015). Theory
+of planned behavior and adherence in chronic illness: A metaanalysis. Journal of Behavioral Medicine, 38(4), 673–688. https:/​
+/doi.or​g/10.10​07/s1​0865-015-9644-3
+Roberts, B. W., Luo, J., Briley, D. A., Chow, P. I., Su, R., & Hill, P. L.
+(2017). A systematic review of personality trait change through
+intervention. Psychological Bulletin, 143(2), 117–141. ​h​t​t​​p​s​:​/​​/​d​o​​i​
+.​o​​r​g​/​1​0​.​1​0​3​7​/​b​u​l​0​0​0​0​0​8​8​​​​​​​
+Rohrer, J. M. (2024). Causal inference for psychologists who think that
+causal inference is not for them. Social and Personality Psychology Compass, 18(3), e12948. https:/​/doi.or​g/10.11​11/sp​c3.12948
+Rooke, S. E., Hine, D. W., & Thorsteinsson, E. B. (2008). Implicit
+cognition and substance use: A meta-analysis. Addictive Behaviors, 33(10), 1314–1328. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​1​6​/​j​.​a​d​d​b​e​h​.​2​0​0​8​.​
+0​6​.​0​0​9​​​​​​​
+Schifter, D. E., & Ajzen, I. (1985). Intention, perceived control, and
+weight loss: An application of the theory of planned behavior.
+Journal of Personality and Social Psychology, 49(3), 843–851.
+https:/​/doi.or​g/10.10​37/00​22-3514.49.3.843
+Schüz, B. (2017). Socio-economic status and theories of health behaviour: Time to upgrade a control variable. British Journal of Health
+Psychology, 22(1), 1–7. https:/​/doi.or​g/10.11​11/bj​hp.12205
+Sheeran, P., Gollwitzer, P. M., & Bargh, J. A. (2013). Nonconscious
+processes and health. Health Psychology, 32(5), 460–473. ​h​t​t​​p​s​:​/​​
+/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​a​0​0​2​9​2​0​3​​​​​​​
+Sheeran, P., Bosch, J. A., Crombez, G., Hall, P. A., Harris, J. L., Papies,
+E. K., & Wiers, R. W. (2016a). Implicit processes in health psychology: Diversity and promise. Health Psychology, 35(8), 761–
+766. https:/​/doi.or​g/10.10​37/he​a0000409
+Sheeran, P., Maki, A., Montanaro, E., Avishai-Yitshak, A., Bryan, A.,
+Klein, W. M. P., Miles, E., & Rothman, A. J. (2016b). The impact
+of changing attitudes, norms, and self-efficacy on health-related
+intentions and behavior: A meta-analysis. Health Psychology,
+35(11), 1178–1188. https:/​/doi.or​g/10.10​37/he​a0000387
+Sheeran, P., Klein, W. M. P., & Rothman, A. J. (2017). Health behavior
+change: Moving from observation to intervention. Annual Review
+of Psychology, 68(1), 573–600. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​1​4​6​/​a​n​n​u​r​e​v​-​
+p​s​y​c​h​-​0​1​0​4​1​6​-​0​4​4​0​0​7​​​​​​​
+Sheeran, P., Wright, C. E., Avishai, A., Villegas, M. E., Lindemans, J.
+W., Klein, W. M. P., Rothman, A. J., Miles, E., & Ntoumanis, N.
+(2020). Self-determination theory interventions for health behavior change: Meta-analysis and meta-analytic structural equation
+modeling of randomized controlled trials. Journal of Consulting
+and Clinical Psychology, 88(8), 726–737. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​
+7​/​c​c​p​0​0​0​0​5​0​1​​​​​​​
+Sheeran, P., Wright, C. E., Avishai, A., Villegas, M. E., Rothman, A. J.,
+& Klein, W. M. P. (2021). Does increasing autonomous motivation or perceived competence lead to health behavior change? A
+meta-analysis. Health Psychology, 40(10), 706–716. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​
+r​g​/​1​0​.​1​0​3​7​/​h​e​a​0​0​0​1​1​1​1​​​​​​​
+
+13
+
+56
+Simpson-Rojas, D., & Hagger, M. S. (2021). Physical activity and the
+theory of planned behavior: A revised meta-analysis. Retrieved
+July 2, 2021, from ​h​t​t​​p​s​:​/​​/​w​w​​w​.​c​​r​d​.​​y​o​r​​k​.​a​c​​.​u​​k​/​p​r​o​s​p​e​r​o​/​d​i​s​p​l​a​y​_​
+r​e​c​o​r​d​.​p​h​p​?​R​e​c​o​r​d​I​D​=​2​5​8​5​0​3​​​​​​​
+Sniehotta, F. F. (2009). An experimental test of the theory of Planned
+Behavior. Applied Psychology: Health and Well-Being, 1(2),
+257–270. https:/​/doi.or​g/10.11​11/j.​1758-0854.2009.01013.x
+Steinmetz, H., Knappstein, M., Ajzen, I., Schmidt, P., & Kabst, R.
+(2016). How effective are behavior change interventions based
+on the theory of Planned Behavior? A three-level meta-analysis.
+Zeitschrift Fur Psychologie-Journal of Psychology, 224(3), 216–
+233. https:/​/doi.or​g/10.10​27/21​51-2604/a000255
+Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A
+self-report index of habit strength. Journal of Applied Social Psychology, 33(6), 1313–1330. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​1​1​1​/​j​.​1​5​5​9​-​1​8​1​6​.​
+2​0​0​3​.​t​b​0​1​9​5​1​.​x​​​​​​​
+Verplanken, B., Aarts, H., van Knippenberg, A., & van Knippenberg,
+C. (1994). Attitude versus general habit: Antecedents of travel
+
+13
+
+Journal of Behavioral Medicine (2025) 48:43–56
+model choice. Journal of Applied Social Psychology, 24(4), 285–
+300. https:/​/doi.or​g/10.11​11/j.​1559-1816.1994.tb00583.x
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin, 132(2), 249–268. ​h​t​t​​p​s​:​
+/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​0​3​7​/​0​0​3​3​-​2​9​0​9​.​1​3​2​.​2​.​2​4​9​​​​​​​
+Wicker, A. W. (1969). Attitudes versus actions: The relationship of
+verbal and overt behavioral responses to attitude objects. Journal
+of Social Issues, 25(4), 41–78. ​h​t​t​​p​s​:​/​​/​d​o​​i​.​o​​r​g​/​1​0​.​1​1​1​1​/​j​.​1​5​4​0​-​4​5​6​
+0​.​1​9​6​9​.​t​b​0​0​6​1​9​.​x​​​​​​​
+Wood, W., Quinn, J. M., & Kashy, D. A. (2002). Habits in everyday
+life: Thought, emotion, and action. Journal of Personality and
+Social Psychology, 83(6), 1281–1297. ​h​t​t​​​​p​​s​:​​/​​/​d​​o​i​​​.​o​​r​​​g​/​1​0​.​1​0​3​7​/​0​
+0​2​2​-​3​5​1​4​.​8​3​.​6​.​1​2​8​1​​​​​​​
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+

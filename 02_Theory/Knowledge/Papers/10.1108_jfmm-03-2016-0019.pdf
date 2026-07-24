@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Repositório Aberto da Universidade do Porto: Perceptual and behavioural dimensions : measuring brand equity consumer based</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="Generator" content="DSpace 6.3" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+   
+        <link rel="shortcut icon" href="/favicon.png" type="image/x-icon"/>
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+   
+        <link rel="stylesheet" href="/static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui-1.10.3.custom.css" type="text/css" />
+        <link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css" type="text/css" />
+
+        <link rel="stylesheet" href="/static/css/bootstrap/dspace-theme.css" type="text/css" />
+    
+      <link rel="stylesheet" href="/static/css/UP.css" type="text/css" /> 
+      <link rel="stylesheet" href="/static/css/UP-theme.css" type="text/css" />
+    
+
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/open-search/description.xml" title="DSpace"/>
+
+
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.creator" content="Paula Rodrigues" />
+<meta name="DC.creator" content="Francisco Vitorino Martins" />
+<meta name="DCTERMS.dateAccepted" content="2022-09-16T06:25:33Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.available" content="2022-09-16T06:25:33Z" scheme="DCTERMS.W3CDTF" />
+<meta name="DCTERMS.issued" content="2016" scheme="DCTERMS.W3CDTF" />
+<meta name="DC.identifier" content="1361-2026" />
+<meta name="DC.identifier" content="sigarra:375686" />
+<meta name="DC.identifier" content="https://hdl.handle.net/10216/125421" scheme="DCTERMS.URI" />
+<meta name="DC.language" content="por" scheme="DCTERMS.RFC1766" />
+<meta name="DC.rights" content="openAccess" />
+<meta name="DC.title" content="Perceptual and behavioural dimensions : measuring brand equity consumer based" />
+<meta name="DC.type" content="Artigo em Revista Científica Internacional" />
+<meta name="DC.contributor" content="Faculdade de Economia" />
+<meta name="DC.identifier" content="10.1108/JFMM-03-2016-0019" />
+
+<meta name="citation_author" content="Paula Rodrigues" />
+<meta name="citation_author" content="Francisco Vitorino Martins" />
+<meta name="citation_issn" content="1361-2026" />
+<meta name="citation_date" content="2016" />
+<meta name="citation_abstract_html_url" content="https://repositorio-aberto.up.pt/handle/10216/125421" />
+<meta name="citation_language" content="por" />
+<meta name="citation_pdf_url" content="https://repositorio-aberto.up.pt/bitstream/10216/125421/2/375686.pdf" />
+<meta name="citation_keywords" content="Artigo em Revista Científica Internacional" />
+<meta name="citation_doi" content="10.1108/JFMM-03-2016-0019" />
+<meta name="citation_title" content="Perceptual and behavioural dimensions : measuring brand equity consumer based" />
+
+
+        
+        <script type='text/javascript' src="/static/js/jquery/jquery-1.10.2.min.js"></script>
+        <script type='text/javascript' src='/static/js/jquery/jquery-ui-1.10.3.custom.min.js'></script>
+        <script type='text/javascript' src='/static/js/bootstrap/bootstrap.min.js'></script>
+        <script type='text/javascript' src='/static/js/holder.js'></script>
+        <script type="text/javascript" src="/utils.js"></script>
+        <script type="text/javascript" src="/static/js/choice-support.js"> </script>
+        
+
+
+    
+    
+
+
+    
+    
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/static/js/html5shiv.js"></script>
+  <script src="/static/js/respond.min.js"></script>
+<![endif]-->
+    </head>
+
+    
+    
+    <body class="undernavigation">
+<a class="sr-only" href="#content">Skip navigation</a>
+<header class="navbar navbar-inverse navbar-fixed-top">    
+    
+            <div class="container">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+
+         <a class="navbar-brand" href="/">
+		<img height="25" src="/image/up_white.png" alt="UP logo" />
+		<img class="logo-dspace" src="/image/logo_dspace.png" alt="DSpace logo">
+	 </a>
+       </div>
+       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+         <ul class="nav navbar-nav">
+
+                
+           <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+               <li><a href="/community-list">Communities<br/>&amp;&nbsp;Collections</a></li>
+				<li class="divider"></li>
+        <li class="dropdown-header">Browse Items by:</li>
+				
+				
+				
+				      			<li><a href="/browse?type=dateissued">Issue Date</a></li>
+					
+				      			<li><a href="/browse?type=author">Author</a></li>
+					
+				      			<li><a href="/browse?type=title">Title</a></li>
+					
+				      			<li><a href="/browse?type=subject">Subject</a></li>
+					
+				      			<li><a href="/browse?type=type">Document Type</a></li>
+					
+				      			<li><a href="/browse?type=rights">Access types</a></li>
+					
+				      			<li><a href="/browse?type=fos">Scientific areas</a></li>
+					
+				      			<li><a href="/browse?type=fos_tag">Scientific areas (cloud format)</a></li>
+					
+				    
+				
+
+            </ul>
+          </li>
+          <li class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/help/index.html" target="dspacepopup">Help</a></noscript></li>
+       </ul>
+
+ 
+    <div class="nav navbar-nav navbar-right">
+	 <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Idioma<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='en';
+
+                  document.repost.submit();" href="?locale=en">
+         English
+       </a>
+      </li>
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='pt';
+
+                  document.repost.submit();" href="?locale=pt">
+         português
+       </a>
+      </li>
+ 
+     </ul>
+    </li>
+    </ul>
+  </div>
+ 
+ 
+       <div class="nav navbar-nav navbar-right">
+
+          
+	
+	<form method="get" action="/simple-search" class="navbar-form navbar-right">
+	    <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search" name="query" id="tequery" size="25"/>
+        </div>
+        <button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-search"></span></button>
+
+	</form></div>
+    </nav>
+
+            </div>
+
+</header>
+
+<main id="content" role="main">
+
+                
+
+<div class="container">
+    
+
+
+
+  
+
+<ol class="breadcrumb btn-success">
+
+  <li><a href="/">Repositório Aberto da Universidade do Porto</a></li>
+
+  <li><a href="/handle/10216/1863">FEP - Faculdade de Economia</a></li>
+
+  <li><a href="/handle/10216/1869">FEP - Artigo em Revista Científica Internacional</a></li>
+
+</ol>
+
+</div>                
+
+
+
+        
+<div class="container">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+
+                
+                <div class="well">Please use this identifier to cite or link to this item:
+                <code>https://hdl.handle.net/10216/125421</code></div>
+
+
+
+    
+    <table class="table itemDisplayTable">
+<tr><td class="metadataFieldLabel dc_creator">Author(s):&nbsp;</td><td class="metadataFieldValue dc_creator"><a class="author"href="/browse?type=author&amp;value=Paula+Rodrigues">Paula&#x20;Rodrigues</a><br /><a class="author"href="/browse?type=author&amp;value=Francisco+Vitorino+Martins">Francisco&#x20;Vitorino&#x20;Martins</a></td></tr>
+<tr><td class="metadataFieldLabel dc_title">Title:&nbsp;</td><td class="metadataFieldValue dc_title">Perceptual&#x20;and&#x20;behavioural&#x20;dimensions&#x20;:&#x20;measuring&#x20;brand&#x20;equity&#x20;consumer&#x20;based</td></tr>
+<tr><td class="metadataFieldLabel dc_date_issued">Issue Date:&nbsp;</td><td class="metadataFieldValue dc_date_issued">2016</td></tr>
+<tr><td class="metadataFieldLabel dc_identifier_doi">DOI:&nbsp;</td><td class="metadataFieldValue dc_identifier_doi">10.1108&#x2F;JFMM-03-2016-0019</td></tr>
+<tr><td class="metadataFieldLabel dc_identifier_uri">URI:&nbsp;</td><td class="metadataFieldValue dc_identifier_uri"><a href="https://hdl.handle.net/10216/125421">https:&#x2F;&#x2F;hdl.handle.net&#x2F;10216&#x2F;125421</a></td></tr>
+<tr><td class="metadataFieldLabel dc_type">Document Type:&nbsp;</td><td class="metadataFieldValue dc_type"><a class="type"href="/browse?type=type&amp;value=Artigo+em+Revista+Cient%C3%ADfica+Internacional">Artigo&#x20;em&#x20;Revista&#x20;Científica&#x20;Internacional</a></td></tr>
+<tr><td class="metadataFieldLabel dc_rights">Rights:&nbsp;</td><td class="metadataFieldValue dc_rights">openAccess</td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/handle/10216/1869">FEP - Artigo em Revista Científica Internacional</a><br/></td></tr>
+</table><br/>
+<div class="panel panel-info"><div class="panel-heading">Files in This Item:</div>
+<table class="table panel-body"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th><th>&nbsp;</th></tr>
+<tr><td headers="t1" class="standard break-all"><a target="_blank" href="/bitstream/10216/125421/2/375686.pdf">375686.pdf</a></td><td headers="t2" class="standard break-all">brand equity measurement model, SEM</td><td headers="t3" class="standard">176.28 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/bitstream/10216/125421/2/375686.pdf"><img src="/retrieve/e2235004-7089-4e38-bbf6-9dcde33b5138/375686.pdf.jpg" alt="Thumbnail" /></a><br /><a class="btn btn-primary" target="_blank" href="/bitstream/10216/125421/2/375686.pdf">View/Open</a></td></tr></table>
+</div>
+
+<div class="container row">
+
+
+    <a class="btn btn-default" href="/handle/10216/125421?mode=full">
+        Show full item record
+    </a>
+
+    <a class="btn btn-success" href="/suggest?handle=10216/125421" target="new_window">
+       Recommend this item</a>
+
+    <a class="statisticsLink  btn btn-primary" href="/handle/10216/125421/statistics">Display Statistics</a>
+
+    
+
+</div>
+<br/>
+    
+
+<br/>
+    
+
+    <p class="submitFormHelp alert alert-info">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+</div>
+</main>
+            
+             <footer class="navbar navbar-inverse navbar-bottom">
+ 
+
+             <div id="designedby" class="container">
+		<a href="http://www.up.pt" class="footer-uplogo"><img src="/image/up_white.png" alt="University of Porto Website"></a>
+
+            
+
+			<div id="footer_feedback" class="pull-right">                                    
+                                <p class="text-muted"><a target="_blank" href="http://www.dspace.org/">DSpace Software</a> Copyright&nbsp;&copy;&nbsp;2002-2019&nbsp; <a target="_blank" href="http://www.duraspace.org/">Duraspace</a>
+                                
+                                <a href="/htmlmap"></a></p>
+                                </div>
+			</div>
+    </footer>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.up.pt/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 3]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://piwik.up.pt/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+    </body>
+</html>
+

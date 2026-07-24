@@ -1,0 +1,10394 @@
+Proﬁ ling Donors of Blood, Money, 
+and Time
+
+A SIMULTANEOUS COMPARISON OF THE GERMAN POPULATION
+
+Edlira Shehu,1 Ann-Christin Langmaack,2 Elena Felchle,2 Michel Clement2
+
+1University of Southern Denmark, 2University of Hamburg
+
+Understanding donor profiles is crucial for donor relationship management. Whereas pre-
+vious research has focused on profiling blood, money, or time donor segments separately, we 
+define seven donor profiles based on their former donation behavior for blood, money, and 
+time donation and compare them to non-donors. Relying on representative data from the 
+German Socio Economic Panel, we use an extensive set of characteristics that include soci-
+odemographic, psychographic, health-related, and geographical measures and simultane-
+ously investigate profiles of donors for single and multiple donation forms and non-donors 
+by means of a multinomial logistic model. Our results reveal valuable insights for donor 
+acquisition and retention strategies of nonprofit organizations along the identified profiling 
+characteristics of donor segments. By this, our findings help nonprofit organization manag-
+ers to better target single and multiple donors across three donation forms.
+
+Keywords: donor segments, donor relationship management, donor profiles, donor 
+ typologies 
+
+NONPROFIT ORGANIZATIONS (NPOS) THAT SEEK VOLUNTEERS, money, or blood 
+donors are facing ﬁ ercer competition (Naskrent and Siebelt 2011). In the United States, for 
+example, the number of NPOs increased from 12,000 in 1940 to approximately 1.23 mil-
+lion in 2005, although the number of donors has been increasing underproportionally to the 
+number of NPOs (Venable and others 2005).
+
+As a response to the increasingly competitive market environment, NPOs are continually 
+adopting marketing instruments (Eikenberry 2009; Sargeant, Hudson, and West 2008; Sosin 
+2012). Speciﬁ cally, NPOs are aggressively relying on direct mail marketing strategies lead-
+ing to the NPO sector to be among the top ﬁ ve industries employing direct mailings (Feld 
+and others 2013). For example, in November 2006, more than ﬁ fteen German NPOs sent 
+more than one million direct mail articles to (potential) donors (Hermes 2007). Because of 
+the competitive donor relationship activities employed by NPOs and to natural restrictions 
+of donors’ time, money, and blood budgets, NPOs engaged in diﬀ erent forms of giving are 
+increasingly competing with each other for gaining donors’ attention and loyalty. Indeed, 
+
+Correspondence to: Edlira Shehu, University of Southern Denmark, Department of Marketing and Management, Niels 
+Bohrs Allé 1, DK-5230 Odense M, Denmark. Email: edsh@sam.sdu.dk.
+
+Journal sponsored by the Jack, Joseph and Morton Mandel School of Applied Social Sciences, Case Western Reserve University.
+
+Nonprofit Management & Leadership, vol. 25, no. 3, Spring 2015  
+Published online in Wiley Online Library (wileyonlinelibrary.com)  DOI: 10.1002/nml.21126
+
+© 2015 Wiley Periodicals, Inc.
+
+269
+
+270 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+studies have shown that donors’ main reason for lapsing after their ﬁ rst donations is switch-
+ing to other donation forms (Sargeant 2001).
+
+Against this background, a thorough understanding of (potential) donor profiles across 
+diﬀ erent donation forms is essential because of its importance for successful targeting and 
+relationship donor management (Naskrent and Siebelt 2011; Einolf 2011; Meslin, Rooney, 
+and Wolf 2008), especially because former donor engagement for diﬀ erent donation forms is 
+related to donor loyalty (Sargeant 2001). Although donor proﬁ ling for single donation forms 
+that is, blood, money, or volunteering, has been addressed by several studies in the past, only 
+single studies (for example, Houston 2006) analyze drivers of diﬀ erent donation types. Still, 
+even these single existing studies that investigate diﬀ erent forms of donation analyze each 
+donation form in a separate model. Consequently, these studies are not able to diﬀ erentiate 
+between segment proﬁ les for donors who are engaged only into one form of donation (for 
+example, blood doors) and those engaged into more than one donation form (for example, 
+blood and money donors). A diﬀ erentiated analysis of donor segments based on their engage-
+ment for one or multiple donation forms becomes even more important in light of recent 
+empirical studies evidencing that a remarkable portion of donors engages in more than one 
+form of donation (Bekkers 2006; Priller and Schupp 2011).
+
+From a research perspective, diﬀ erentiating between single-donation and multiple-donation 
+donor segments based on past donation behavior and investigating their proﬁ les simulta-
+neously provides additional insights that cannot be revealed in case each donation form is 
+investigated separately. Proﬁ les of individuals engaged in multiple donation forms are likely 
+to diﬀ er from those of the broader single-donor segment. On the one hand, multiple dona-
+tion engagement is positively related to higher donor commitment (Sargeant and Woodliﬀ e 
+2005), which is essential for donor retention and loyalty (Sargeant 2001). On the other 
+hand, multiple donors face time and resource limitations. Consequently, it is important to 
+understand how proﬁ les of these “multiple donors” diﬀ er from those of single-form donors 
+or non-donors.
+
+From a managerial perspective, this question is also substantial for eﬃ  cient donor targeting: 
+Both donor retention and new donor acquisition require that segment proﬁ les are described 
+as accurately as possible. For example, from the perspective of blood donation services inter-
+ested in new donor acquisition, grouping all individuals who do not donate blood into a 
+non-donor group is insuﬃ  cient because subsegments may exist that engaged formerly or 
+still engage in other donation forms such as monetary donation, voluntary work (time dona-
+tion), or both. Th  ese individuals may have higher adeptness to donation in general and con-
+sequently to blood donation. Indeed, past donation behavior is a strong predictor of future 
+donation behavior because prosocial behavior becomes a habit that drives the likelihood 
+of re-donation (Rosen and Sims 2011). In addition, prior behavior has a self-commitment 
+impact that increases the probability of a future donation, even in other donation forms 
+(Monin and Miller 2001; Mount 1996). Th  ese arguments suggest that speciﬁ c donor rela-
+tionship programs, depending on donors’ engagement for diﬀ erent donation forms, can be 
+advantageous for targeting strategies of NPOs. Especially NPOs engaged in multiple dona-
+tion forms (for example, the Red Cross, which collects blood and money and seeks volun-
+teers) could strongly beneﬁ t from diﬀ erentiated targeting strategies for donor subsegments 
+based on their former behavior for donation forms.
+
+Our article addresses proﬁ ling of (former) donors engaged in single and multiple donation 
+forms and contributes to the current scientific discourse as follows: (1) We examine the 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  271
+
+ proﬁ les of (former) blood, money, and time donors simultaneously and identify proﬁ les of 
+multiple- versus single-donor segments as compared to non-donors. By this, we add to exist-
+ing research by deﬁ ning donor segments based on their former donation behavior for diﬀ er-
+ent donation forms and proﬁ ling these segments simultaneously. We apply a multinomial 
+logistic model and investigate whether individuals who formerly or actively engage in more 
+than one donation form diﬀ er from non-donors or single donation form donors. Grounding 
+on former donation behavior we deﬁ ne seven segments (blood, money, time donors, as well 
+as their combinations) and identify segment-speciﬁ c proﬁ les compared to the non-donor 
+segment. (2) We use a wide set of predictors including sociodemographic, psychographic, 
+health-related as well as geographical variables for proﬁ ling donors. Th  us, our results provide 
+speciﬁ c insights regarding donor proﬁ ling. (3) We use data from the German sociodemo-
+graphic panel made up of more than 11,000 individuals, which is representative for the 
+German population. To the best of our knowledge, our study is the ﬁ rst to compare donor 
+segments based on the former donation behavior for blood, monetary, and time donations 
+for the German market. We can extend ﬁ ndings from other countries, for example, the Neth-
+erlands (Bekkers 2006) and Canada (Rajan, Pink, and Dow 2009) by our ﬁ ndings from the 
+German donation population.
+
+Additionally, our research has substantial managerial relevance for NPOs operating within 
+blood, money, and time donation sectors, especially for those NPOs that operate in more than 
+one donation sector. We oﬀ er distinguished implications with respect to targeting options for 
+new and existing donors depending on their engagement in other donation forms.
+
+Literature Review
+In the following we give an overview of existing studies investigating drivers of blood, money, 
+and time and discuss their ﬁ ndings.
+
+Overview of Studies on Blood, Money, and Time Donations
+We identify a large body of research on the determinants of blood donation, money dona-
+tion, and volunteer behavior. We analyze thirty-eight studies on the drivers of donation 
+behavior with respect to blood, money, and time according to two dimensions: (1) donation 
+forms considered and (2) predictor categories included in the analyses (see Table 1 for an 
+overview).
+
+With respect to the ﬁ rst dimension, our literature review shows that former studies focus 
+mostly on a single donation form, that is, money, blood, or volunteering (time donation). 
+Few studies consider two donation forms, for example, money and blood donation (Bekkers 
+2006; Priller and Schupp 2011) or money and time donation (Bekkers 2010; Berger 2006; 
+Einolf 2011; Mesch et al. 2006), and we can identify only two studies that analyze drivers of 
+all three donation forms—blood, money, and volunteering (time; Houston 2006; Lee, Pilia-
+vin, and Call 1999).
+
+Independently of the number of considered donation forms, existing studies analyze drivers 
+for each donation form separately, mainly by using bivariate logit regression analyses for the 
+identiﬁ cation of drivers of donation behavior (Taniguchi 2010; Wiepking 2007; Wiepking 
+and Bekkers 2010) and deﬁ ning non-overlapping donor segments (Houston 2006). Th  is 
+underlines the need for a simultaneous consideration of engagement for diﬀ erent donation 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+Table 1.  Literature Review of Studies on Blood, Money, and Time Donation
+
+Variable Type
+
+Blood donors vs. non-
+donors
+
+Empirical Study
+
+Data
+
+1
+
+2
+
+3
+
+Duboz et al. (2010)
+
+Solomon (2012)
+
+Burnett (1981)
+
+4 Nonis et al. (1996)
+
+N=600
+
+N=195 
+
+N=577
+
+N=195
+
+5
+
+6
+
+7
+
+Tscheulin and Lindenmeier (2005) N=210
+
+Andaleeb and Basu (1995)
+
+Boulware et al. (2002)
+
+8 Newman and Pyne (1997)
+
+N=148
+
+N=385
+
+N=236 
+
+Blood donor types
+
+9
+
+Schreiber et al. (2005)
+
+N=179,409 
+
+10 Duboz and Cunéo (2009)
+
+N=1,400
+
+11 Schreiber et al. (2003)
+
+12 Ibrahim and Mobley (1993)
+
+13 Burnett and Leigh (1986)
+
+14 Ownby et al. (1999)
+
+15 Thomson et al. (1998)
+
+16 Veldhuizen et al. (2009)
+
+17 Banks and Tanner (1999)
+
+N=6.4 
+million
+
+N=521 
+
+N=945
+
+N=879,816 
+
+N=34,726 
+
+N=340,470 
+
+N=85,000 
+
+18 Hughes and Luksetich (2008)
+
+N=2,041
+
+19 Piper and Schnepf (2008)
+
+20 Kottasz (2004)
+
+N=12,679
+
+N=217 
+
+21 Wiepking and Bekkers (2010)
+
+N=1,101 
+
+Money donors vs. 
+non-donors & donation 
+amount
+
+Money donation types
+
+23 Wiepking (2007)
+
+22 Schervish and Havens (1997)
+
+N=2,065
+
+N=1,316
+
+24 Rajan, Pink, and Dow (2009)
+
+N=13,125
+
+Time donors vs. non-
+donors & donation 
+amount
+
+25 Jeong (2010)
+
+26 Taniguchi (2010)
+
+27 Reed (2000)
+
+N=1,008
+
+N=2,836
+
+N=18,301
+
+Donation type
+
+28 Taniguchi and Thomas (2011)
+
+N=1,612
+
+Blood & money donors
+
+29 Priller and Schupp (2011)
+
+Money & time donors
+
+31 Mesch et al. (2006)
+
+30 Bekkers (2006)
+
+32 Berger (2006)
+
+33 Einolf (2011)
+
+34 Bryant (2003)
+
+35 Jones (2006)
+
+36 Bekkers (2010)
+
+37 Houston (2006)
+
+38 Lee et al. (1999)
+
+Blood, money, & time 
+donors
+
+This study
+
+N=16,963
+
+N=1,140
+
+N=532
+
+N=14,724
+
+N=3,032
+
+N=1,481
+
+N=2,719
+
+N=1587 
+
+N=1,301 & 
+N=1,142 
+
+N=1,002
+
+N=12,487
+
+Dependent 
+Variables
+
+d
+o
+o
+B
+
+l
+
+y
+e
+n
+o
+M
+
+e
+m
+T
+
+i
+
+l
+
+i
+
+a
+r
+o
+v
+a
+h
+e
+B
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+ x
+
+ x
+
+ x
+
+ x
+
+x
+
+x
+
+ x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Factors
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+h
+c
+y
+s
+P
+
+-
+o
+m
+e
+d
+o
+c
+o
+S
+
+i
+
+i
+
+c
+h
+p
+a
+r
+g
+
+l
+
+i
+
+a
+c
+h
+p
+a
+r
+g
+o
+e
+G
+
+h
+t
+l
+a
+e
+H
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  273
+
+forms based on former donation behavior. By this, proﬁ ling donor segments engaged in more 
+than one donation form can be deﬁ ned and compared to single-donation-form donors or 
+non-donors. Donors are confronted with trade-oﬀ s regarding their time, money and blood. 
+Consequently, their engagement with respect to one specific donation form is likely to 
+depend upon donation behavior regarding the other forms. Th  ese interrelationships, which 
+are substantial for unbiased identiﬁ cation of donor proﬁ les, are not suﬃ  ciently taken into 
+account in previous studies. A more detailed analysis should therefore help to target these 
+donor segments adequately.
+
+Regarding the second dimension, previous studies use independent factors in addition to the 
+donation forms already considered that may drive donor behavior. Th  ese considered inde-
+pendent factors can be classiﬁ ed into the following ﬁ ve categories: factors related to donation 
+behavior (for example, Priller and Schupp 2011; Schervish and Havens 1997); sociodemo-
+graphic factors (for example, Houston 2006; Wiepking 2007); psychographic factors (for 
+example, reasons to donate, Burnett and Leigh 1986; Nonis et al. 1996; or personality traits, 
+Bekkers 2006, 2010); health-related factors (for example, health status, Duboz and Cunéo 
+2009; Jeong 2010; or the presence of diseases, Boulware et al. 2002; Schreiber et al. 2003); 
+and, last, geographical factors (for example, region, urbanization level). From our literature 
+analysis of thirty-eight studies we identify that the majority of the studies (94.74 percent) 
+include sociodemographic variables in their models, followed by psychographic variables 
+(65.79 percent), health-related variables (26.32 percent), and variables related to donation 
+behavior (26.32 percent). Geographical variables are underrepresented (used in 21.05 percent 
+of our studies). Only three studies include factors from all ﬁ ve categories (Bekkers 2006, 
+2010; Rajan et al. 2009), indicating a need for additional research insights on the simultane-
+ous inﬂ uence of factors along all categories.
+
+In summary, our literature review indicates the necessity for additional research along two 
+dimensions: simultaneous consideration of (1) former donation behavior for all three dona-
+tion forms—money, blood, and time—and (2) diﬀ erent predictor categories. We substan-
+tially expand existing ﬁ ndings by addressing both gaps: we consider typologies of donors 
+based on their former donation behavior of money, blood, and time simultaneously, and we 
+include factors from all ﬁ ve categories identiﬁ ed from the literature review in Table 1.
+
+Drivers for Monetary, Blood, and Time Donations
+Earlier research on determinants of blood, money, and time donations provides insights on 
+drivers of each donation form. Tables 2 to 4 summarize the ﬁ ndings of our literature over-
+view on the drivers for money, blood, and time donation. Within each table, studies are 
+grouped according to whether they consider the binary donation decision or the donation 
+amount as dependent variable. Th  e columns display single drivers and the single-cell refer-
+ence to a study that has evidenced a driver’s eﬀ ect (positive signiﬁ cant, negative signiﬁ cant, or 
+not signiﬁ cant).
+
+With respect to blood donation, the ﬁ ndings reveal that blood donors are typically male, 
+educated, healthy, white, married, have children, and have a rare blood type (Andaleeb and 
+Basu 1995; Bekkers 2006; Boulware et al. 2002; Duboz et al. 2010; Newman and Pyne 
+1997; Nonis et al. 1996; Priller and Schupp 2011). Moreover, the frequency of blood dona-
+tion is signiﬁ cantly higher for male, older, white, and educated individuals (Burnett and 
+Leigh 1986; Schreiber et al. 2005; Veldhuizen et al. 2009).
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+274 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Table 2.  Blood Donation: Causal Relationships
+
+Factors
+
+Behavioral
+
+Sociodemographic
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+n
+o
+i
+t
+a
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+r
+o
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+d
+e
+t
+a
+n
+o
+d
+t
+n
+u
+o
+m
+a
+
+y
+e
+n
+o
+M
+
+r
+o
+n
+o
+d
+y
+e
+n
+o
+M
+
+29
+
+r
+o
+n
+o
+d
+n
+a
+g
+r
+O
+
+r
+e
+e
+t
+n
+u
+o
+V
+
+l
+
++
+
+–
+
+ns
+
+Blood 
+donation
+
++
+
+14
+
+16
+
+Blood 
+donation 
+frequency
+
+–
+
+ns
+
+)
+
+l
+
+e
+a
+m
+
+(
+
+r
+e
+d
+n
+e
+G
+
+1,3,
+
+4,6,
+
+7,8
+
+5,8,
+
+29,30,37
+
+12,13,
+
+14,16
+
+e
+g
+A
+
+1,6,
+
+30,37
+
+2,5,
+
+8,29
+
+4,7
+
+9,11,
+
+14,16
+
+9,11
+
+12
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+
+d
+o
+o
+B
+
+l
+
+²
+e
+g
+A
+
+l
+
+e
+v
+e
+
+l
+
+l
+
+a
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+1,3,
+
+4,5,
+
+29,30
+
+37
+
+37
+
+)
+
+d
+e
+i
+r
+r
+a
+m
+
+(
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+M
+
+l
+
+e
+z
+i
+s
+d
+o
+h
+e
+s
+u
+o
+H
+
+s
+s
+e
+n
+s
+u
+o
+g
+
+i
+
+i
+l
+
+e
+R
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+e
+c
+n
+a
+d
+n
+e
+t
+t
+a
+
+h
+c
+r
+u
+h
+C
+
+i
+
+p
+h
+s
+r
+e
+n
+w
+o
+e
+m
+o
+H
+
+t
+n
+e
+m
+y
+o
+p
+m
+E
+
+l
+
+e
+m
+o
+c
+n
+
+I
+
+29
+
+7
+
+3
+
+3
+
+3
+
+30
+
+6,
+
+37
+
+16
+
+13
+
+12
+
+30
+
+4,6,
+
+6
+
+37
+
+7,37
+
+16
+
+12
+
+12
+
+7,
+
+30
+
+30,
+
+37
+
+13
+
+6,7
+
+9,11,
+
+12,14
+
+7,
+
+30
+
+12
+
+1. Duboz et al. (2010)
+
+10. Duboz and Cunéo (2009)
+
+19. Piper and Schnepf (2008)
+
+2. Solomon (2012)
+
+3. Burnett (1981)
+
+11. Schreiber et al. (2003)
+
+20. Kottasz (2004)
+
+12. Ibrahim and Mobley (1993)
+
+21. Wiepking and Bekkers (2010)
+
+4. Nonis et al. (1996)
+
+13. Burnett and Leigh (1986)
+
+22. Schervish and Havens (1997)
+
+5. Tscheulin and Lindenmeier (2005)
+
+14. Ownby et al. (1999)
+
+23. Wiepking (2007)
+
+6. Andaleeb and Basu (1995)
+
+15. Thomson et al. (1998)
+
+24. Rajan et al. (2009)
+
+7. Boulware et al. (2002)
+
+16. Veldhuizen et al. (2009)
+
+25. Jeong (2010)
+
+8. Newman and Pyne (1997)
+
+17. Banks and Tanner (1999)
+
+26. Taniguchi (2010)
+
+9. Schreiber et al. (2005)
+
+18. Hughes and Luksetich (2008)
+
+27. Reed (2000)
+
+Money donors tend to be female, older, employed, and home owners with high incomes 
+and academic degrees (Banks and Tanner 1999; Bekkers 2010; Einolf 2011; Houston 2006; 
+Jones 2006; Piper and Schnepf 2008; Wiepking 2007). Furthermore, the amount of donated 
+money increases with age, educational level, income, and religious behavior (Banks and Tan-
+ner 1999; Mesch et al. 2006; Rajan et al. 2009; Wiepking and Bekkers 2010).
+
+Volunteer proﬁ les are similar to the proﬁ les of money donors with respect to gender (mostly 
+female), education (higher degree of education, and higher income) (Einolf 2011; Houston 
+2006; Jeong 2010; Taniguchi and Th  omas 2011). Similarly, money donors and volunteers are 
+often religious and have children (Bekkers 2010; Houston 2006; Jeong 2010; Jones 2006; 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  275
+
+Table 2.  Blood Donation: Causal Relationships (Continued)
+
+Factors
+
+Psychographic
+
+Health
+
+Geographical
+
+Socio-
+demographic
+
+)
+
+n
+a
+m
+r
+e
+G
+
+(
+
+y
+t
+i
+l
+
+a
+n
+o
+i
+t
+a
+N
+
+)
+
+e
+t
+i
+h
+w
+
+(
+
+e
+c
+a
+R
+
+e
+c
+n
+e
+
+i
+l
+
+a
+s
+
+h
+t
+l
+a
+e
+H
+
+i
+
+g
+n
+k
+a
+t
+
+k
+s
+i
+R
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+S
+
+i
+
+s
+s
+e
+n
+p
+p
+a
+H
+
+y
+t
+i
+c
+o
+r
+p
+c
+e
+R
+
+i
+
+e
+v
+i
+t
+n
+e
+c
+n
+I
+/
+d
+r
+a
+w
+e
+R
+
+m
+r
+o
+n
+
+e
+v
+i
+t
+c
+e
+b
+u
+S
+
+j
+
+m
+e
+e
+t
+s
+e
+
+f
+l
+e
+S
+
+m
+s
+i
+u
+r
+t
+l
+
+A
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+r
+o
+
+f
+
+s
+t
+s
+e
+u
+q
+e
+R
+
+l
+
+s
+s
+e
+n
+u
+f
+p
+e
+H
+
+l
+
+y
+h
+t
+a
+p
+m
+E
+
+r
+a
+e
+f
+
+t
+c
+a
+t
+n
+o
+c
+
+l
+
+a
+t
+i
+p
+s
+o
+h
+
+r
+o
+i
+r
+p
+
+t
+s
+e
+r
+e
+t
+n
+
+i
+
+l
+
+a
+c
+i
+t
+i
+l
+
+o
+p
+
+)
+
+e
+r
+a
+r
+(
+
+e
+p
+y
+t
+d
+o
+o
+b
+
+l
+
+3,
+
+4
+
+e
+p
+y
+t
+
+h
+r
+
+h
+t
+l
+a
+e
+h
+f
+
+o
+e
+t
+a
+t
+s
+
+8,
+
+30
+
+7,8
+
+6
+
+3
+
+29 29 4,5,
+
+8
+
+8
+
+30 30
+
+8
+
+)
+
+e
+t
+a
+v
+i
+r
+p
+
+(
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+h
+t
+l
+a
+e
+h
+
+7
+
+k
+s
+i
+r
+
+h
+t
+l
+a
+e
+h
+
+6
+
+4
+
+h
+t
+r
+o
+N
+
+(
+
+h
+t
+r
+i
+b
+
+f
+
+o
+y
+r
+t
+n
+u
+o
+c
+
+e
+g
+n
+a
+h
+c
+
+e
+c
+n
+e
+d
+i
+s
+e
+r
+
+l
+
+e
+v
+e
+
+l
+
+n
+o
+i
+t
+a
+z
+i
+n
+a
+b
+r
+u
+
+)
+a
+c
+i
+r
+e
+m
+A
+
+i
+
+n
+o
+g
+e
+r
+
+29
+
+30
+
+16
+
+29
+
+3
+
+37
+
+9,11,
+
+14
+
+16
+
+29
+
+29
+
+12
+
+13
+
+13
+
+28. Taniguchi and Thomas (2011)
+
+29. Priller and Schupp (2011)
+
+30. Bekkers (2006)
+
+31. Mesch et al. (2006)
+
+32. Berger (2006)
+
+33. Einolf (2011)
+
+34. Bryant (2003)
+
+35. Jones (2006)
+
+36. Bekkers (2010)
+
+3
+
+6
+
+5,7,
+
+8
+
+7
+
+7
+
+13
+
+13
+
+14 11
+
+14
+
+13
+
+12
+
+12
+
+37. Houston (2006)
+
+38. Lee et al. (1999)
+
++: positive effect
+
+–: negative effect
+
+ns: not significant
+
+Mesch et al. 2006; Reed 2000; Taniguchi and Th  omas 2011). However, with respect to the 
+number of volunteered hours, there are no distinct tendencies except that highly educated 
+people spend more time volunteering (Mesch et al. 2006; Taniguchi 2010).
+
+Th  e majority of discovered eﬀ ects regarding the drivers of blood, money, and time donation are 
+often ambiguous across studies (see Tables 2–4). For example, the eﬀ ect of age on blood donation 
+is not determined consistently because some studies reveal blood donors to be older (Andaleeb 
+and Basu, 1995; Bekkers 2006; Duboz et al. 2010), whereas other studies demonstrate that blood 
+donors are younger (Newman and Pyne 1997; Priller and Schupp 2011; Solomon 2012). Boul-
+ware et al. (2002) ﬁ nd that blood donors have higher incomes, whereas Bekkers (2006) reaches the 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+276 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Table 3.  Money Donation: Causal Relationships
+
+Behavioral
+
+Sociodemographic
+
+Factors
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+n
+o
+i
+t
+a
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+d
+e
+t
+a
+n
+o
+d
+t
+n
+u
+o
+m
+a
+
+y
+e
+n
+o
+M
+
+r
+o
+n
+o
+d
+y
+e
+n
+o
+M
+
+r
+o
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+r
+o
+n
+o
+d
+n
+a
+g
+r
+O
+
+)
+
+l
+
+e
+a
+m
+
+(
+
+r
+e
+d
+n
+e
+G
+
+r
+e
+e
+t
+n
+u
+o
+V
+
+l
+
++ 29
+
+36
+
+36
+
+23
+
+24,29
+
+t
+n
+e
+m
+y
+o
+p
+m
+E
+
+l
+
+e
+m
+o
+c
+n
+
+I
+
+i
+
+p
+h
+s
+r
+e
+n
+w
+o
+e
+m
+o
+H
+
+17,33
+
+17,30,
+31,33,37
+
+17,23
+
+l
+
+e
+v
+e
+
+l
+
+l
+
+a
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+17,29,
+30,31
+33,35,
+36,37
+
+e
+g
+A
+
+²
+e
+g
+A
+
+17,23,29,
+31,33,
+35,37
+
+)
+
+d
+e
+i
+r
+r
+a
+m
+
+(
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+M
+
+24
+
+e
+c
+n
+a
+d
+n
+e
+t
+t
+a
+
+h
+c
+r
+u
+h
+C
+
+l
+
+e
+z
+i
+s
+d
+o
+h
+e
+s
+u
+o
+H
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+s
+s
+e
+n
+s
+u
+o
+g
+
+i
+
+i
+l
+
+e
+R
+
+17
+
+33,36
+
+23
+
+24,36
+
+19,35,
+36,37
+
+24,36
+
+19
+
+24
+
+36
+
+23,30
+
+23,30,33
+
+23
+
+22
+
+22
+
+30
+
+17,21,
+22,23,
+30,31
+
+17,21,
+22,23,
+24,30,
+31,35
+
+24
+
+23
+
+17,18,
+30,31
+
+29,30,
+33
+
+17
+
+19,37
+
+23,30,
+36
+
+17,23,
+24
+
+33,35,
+37
+
+17,21
+
+19,21
+
+21
+
+24
+
+30,33,
+36
+
+21,22,
+30
+
+23,30,
+36,37
+
+21,22,
+23,30,
+35
+
+24
+
+19
+
+24
+
+23
+
+24
+
+17,
+
+22
+
+23,35
+
+21,23,
+24
+
+23
+
+30
+
+21,22
+24
+
+23,30
+
+23,24
+
+17
+
+22,24
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+V
+t
+n
+e
+d
+n
+e
+p
+e
+D
+
+y
+e
+n
+o
+M
+
+n
+o
+i
+t
+a
+n
+o
+d
+y
+e
+n
+o
+m
+
+d
+e
+t
+a
+n
+o
+d
+t
+n
+u
+o
+m
+a
+
+y
+e
+n
+o
+m
+
+–
+
+ns 36
+
++
+
+–
+
+ns
+
+1. Duboz et al. (2010)
+
+2. Solomon (2012)
+
+3. Burnett (1981)
+
+4. Nonis et al. (1996)
+
+10. Duboz and Cunéo (2009)
+
+19. Piper and Schnepf (2008)
+
+11. Schreiber et al. (2003)
+
+20. Kottasz (2004)
+
+12. Ibrahim and Mobley (1993)
+
+21. Wiepking and Bekkers (2010)
+
+13. Burnett and Leigh (1986)
+
+22. Schervish and Havens (1997)
+
+5. Tscheulin and Lindenmeier (2005)
+
+14. Ownby et al. (1999)
+
+23. Wiepking (2007)
+
+6. Andaleeb and Basu (1995)
+
+15. Thomson et al. (1998)
+
+24. Rajan, Pink and Dow (2009)
+
+7. Boulware et al. (2002)
+
+16. Veldhuizen et al. (2009)
+
+25. Jeong (2010)
+
+8. Newman and Pyne (1997)
+
+17. Banks and Tanner (1999)
+
+26. Taniguchi (2010)
+
+9. Schreiber et al. (2005)
+
+18. Hughes and Luksetich (2008)
+
+27. Reed (2000)
+
+opposite conclusion. Similar ambiguous results are also revealed with respect to other  independent 
+variables, for example, political interest (Jeong 2010; Rajan et al. 2009), household size (Andaleeb 
+and Basu, 1995; Banks and Tanner, 1999; Rajan et al. 2009; Schervish and Havens, 1997; Wiep-
+king 2007), blood type (Burnett and Leigh, 1986), as well as mood and mindset (Andaleeb and 
+Basu 1995; Burnett 1981; Burnett and Leigh 1986; Priller and Schupp 2011).
+
+In summary, previous research has addressed drivers of blood, money, and time donation. 
+Still, some results are not consistent across studies (see Tables 2–4). Our data set and meth-
+odological approach allow for simultaneously analyzing drivers of donor segments that are 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  277
+
+Table 3.  Money Donation: Causal Relationships (Continued)
+
+Factors
+
+Sociodemographic
+
+Psychographic
+
+Health
+
+Geographical
+
+)
+
+e
+t
+i
+h
+w
+
+(
+
+e
+c
+a
+R
+
+35
+
+19,31
+
+)
+
+n
+a
+m
+r
+e
+g
+
+(
+
+y
+t
+i
+l
+
+a
+n
+o
+i
+t
+a
+N
+
+e
+v
+i
+t
+n
+e
+c
+n
+i
+/
+d
+r
+a
+w
+e
+R
+
+m
+r
+o
+n
+
+e
+v
+i
+t
+c
+e
+b
+u
+s
+
+j
+
+m
+e
+e
+t
+s
+e
+-
+f
+l
+e
+S
+
+m
+s
+i
+u
+r
+t
+l
+
+A
+
+e
+c
+n
+e
+
+i
+l
+
+a
+s
+
+h
+t
+l
+a
+e
+H
+
+i
+
+g
+n
+k
+a
+t
+
+k
+s
+i
+R
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+S
+
+i
+
+s
+s
+e
+n
+p
+p
+a
+H
+
+y
+t
+i
+c
+o
+r
+p
+c
+e
+R
+
+i
+
+29
+
+29
+
+29
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+r
+o
+
+f
+
+s
+t
+s
+e
+u
+q
+e
+R
+
+23
+
+l
+
+s
+s
+e
+n
+u
+f
+p
+e
+H
+
+l
+
+)
+a
+c
+i
+r
+e
+m
+A
+h
+t
+r
+o
+N
+
+(
+
+h
+t
+r
+i
+b
+
+f
+
+o
+y
+r
+t
+n
+u
+o
+C
+
+)
+
+e
+t
+a
+v
+i
+r
+p
+
+(
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+h
+t
+l
+a
+e
+H
+
+t
+c
+a
+t
+n
+o
+c
+
+l
+
+a
+t
+i
+p
+s
+o
+h
+
+r
+o
+i
+r
+P
+
+k
+s
+i
+r
+
+h
+t
+l
+a
+e
+H
+
+e
+g
+n
+a
+h
+c
+
+e
+c
+n
+e
+d
+i
+s
+e
+R
+
+l
+
+e
+v
+e
+
+l
+
+n
+o
+i
+t
+a
+z
+i
+n
+a
+b
+r
+u
+
+i
+
+n
+o
+g
+e
+R
+
+29
+
+t
+s
+e
+r
+e
+t
+n
+
+i
+
+l
+
+a
+c
+i
+t
+i
+l
+
+o
+P
+
+)
+
+e
+r
+a
+r
+(
+
+e
+p
+y
+t
+d
+o
+o
+B
+
+l
+
+e
+p
+y
+t
+
+h
+r
+
+h
+t
+l
+a
+e
+h
+
+f
+
+o
+e
+t
+a
+t
+S
+
+y
+h
+t
+a
+p
+m
+E
+
+30,36
+
+r
+a
+e
+F
+
+29
+
+24
+
+29
+
+24
+
+36
+
+30
+
+23
+
+35
+
+30
+
+24
+
+24,30,
+36
+
+30
+
+23
+
+23
+
+30
+
+36
+
+30
+
+22,31
+
+24
+
+23
+
+30
+
+24
+
+24
+
+23
+
+24
+
+28. Taniguchi and Thomas (2011)
+
+29. Priller and Schupp (2011)
+
+37. Houston (2006)
+
+38. Lee et al. (1999)
+
+30. Bekkers (2006)
+
+31. Mesch et al. (2006)
+
+32. Berger (2006)
+
+33. Einolf (2011)
+
+34. Bryant (2003)
+
+35. Jones (2006)
+
+36. Bekkers (2010)
+
++: positive effect
+
+–: negative effect
+
+ns: not significant
+
+engaged in diﬀ erent forms of donation, that is, blood, money, time, and combinations of 
+these forms. We use a wide range of predictors from all previously described categories and 
+identify the characteristics of donor segments that are involved in all three forms and other 
+segments that choose a single favored donation format.
+
+Sample
+Th  e German Socio-Economic Panel Study (SOEP)1 is a representative longitudinal study 
+of German private households and individuals and represents one of the most  important 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+278 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Table 4.  Time Donation: Causal Relationships
+
+Factors
+
+Behavioral
+
+Sociodemographic
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+n
+o
+i
+t
+a
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+r
+o
+n
+o
+d
+d
+o
+o
+B
+
+l
+
+Volunteering + 36
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+V
+t
+n
+e
+d
+n
+e
+p
+e
+D
+
+e
+m
+T
+
+i
+
+Volunteer-
+ing hours
+
+–
+
+ns
+
++
+
+–
+
+ns
+
+r
+o
+n
+o
+d
+y
+e
+n
+o
+M
+
+36
+
+d
+e
+t
+a
+n
+o
+d
+t
+n
+u
+o
+m
+a
+
+y
+e
+n
+o
+M
+
+36
+
+36
+
+r
+o
+n
+o
+d
+n
+a
+g
+r
+O
+
+)
+
+l
+
+e
+a
+m
+
+(
+
+r
+e
+d
+n
+e
+G
+
+r
+e
+e
+t
+n
+u
+o
+V
+
+l
+
+e
+g
+A
+
+²
+e
+g
+A
+
+27,36
+
+25,33
+
+26,35
+
+33,36
+
+28
+
+28,35,
+36,37
+
+36 28
+
+36
+
+25,31,
+37
+
+26
+
+l
+
+e
+v
+e
+
+l
+
+l
+
+a
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+25,27,
+28,31,
+33,35,
+36,37
+
+t
+n
+e
+m
+y
+o
+p
+m
+E
+
+l
+
+33
+
+25
+
+)
+
+d
+e
+i
+r
+r
+a
+m
+
+(
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+M
+
+l
+
+e
+z
+i
+s
+d
+o
+h
+e
+s
+u
+o
+H
+
+i
+
+p
+h
+s
+r
+e
+n
+w
+o
+e
+m
+o
+H
+
+e
+m
+o
+c
+n
+
+I
+
+31,37
+
+28
+
+e
+c
+n
+a
+d
+n
+e
+t
+t
+a
+
+h
+c
+r
+u
+h
+C
+
+s
+s
+e
+n
+s
+u
+o
+g
+
+i
+
+i
+l
+
+e
+R
+
+28,37
+
+25,36,
+37
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+27,28,
+33,35,
+37
+
+36
+
+25,33,
+35
+
+25,37
+
+25,28
+
+36
+
+25,33,
+36
+
+26
+
+35
+
+26,31
+
+26
+
+26
+
+35
+
+26
+
+26,33
+
+31
+
+35
+
+26,31,
+35
+
+26
+
+1. Duboz et al. (2010)
+
+  10. Duboz and Cunéo (2009)
+
+19. Piper and Schnepf (2008)
+
+2. Solomon (2012)
+
+3. Burnett (1981)
+
+  11. Schreiber et al. (2003)
+
+20. Kottasz (2004)
+
+  12. Ibrahim and Mobley (1993)
+
+21. Wiepking and Bekkers (2010)
+
+4. Nonis et al. (1996)
+
+  13. Burnett and Leigh (1986)
+
+22. Schervish and Havens (1997)
+
+5. Tscheulin and Lindenmeier (2005)
+
+  14. Ownby et al. (1999)
+
+23. Wiepking (2007)
+
+6. Andaleeb and Basu (1995)
+
+  15. Thomson et al. (1998)
+
+24. Rajan et al. (2009)
+
+7. Boulware et al. (2002)
+
+  16. Veldhuizen et al. (2009)
+
+25. Jeong (2010)
+
+8. Newman and Pyne (1997)
+
+  17. Banks and Tanner (1999)
+
+26. Taniguchi (2010)
+
+9. Schreiber et al. (2005)
+
+  18. Hughes and Luksetich (2008)
+
+27. Reed (2000)
+
+tools for social and economic research in Germany (Schupp and Wagner 2002). The 
+panel study has been conducted annually since 1984 at the German Institute for Eco-
+nomic Research, DIW Berlin. Every year, 11,000 households and more than 20,000 
+individuals are invited by the market research institute TNS “Infratest Sozialforschung” 
+[Infraset] and participate in the paper-and-pencil survey (Krupp 2007). Th  e German 
+Socio Economic Panel (SOEP) has a high stability over time: 53 percent of households 
+that participated in the ﬁ rst SOEP wave were still participating twenty-ﬁ ve years later in 
+the SOEP wave of 2010.
+
+Th  e survey contains information on diﬀ erent topics including health and satisfaction indica-
+tors, household composition, occupational biographies, and diﬀ erent psychographic aspects. 
+Because the survey is continually being adapted to current social developments, certain ques-
+tions on speciﬁ c topics are only included at irregular intervals ranging from two to ten years. 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  279
+
+Table 4.  Time Donation: Causal Relationships (Continued)
+
+Factors
+
+Sociodemo-
+graphic
+
+Psychographic
+
+Health
+
+Geographical
+
+)
+
+e
+t
+i
+h
+w
+
+(
+
+e
+c
+a
+R
+
+31,35
+
+37
+
+31
+
+)
+
+n
+a
+m
+r
+e
+G
+
+(
+
+y
+t
+i
+l
+
+a
+n
+o
+i
+t
+a
+N
+
+e
+c
+n
+e
+
+i
+l
+
+a
+s
+
+h
+t
+l
+a
+e
+H
+
+i
+
+g
+n
+k
+a
+t
+-
+k
+s
+i
+R
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+S
+
+i
+
+s
+s
+e
+n
+p
+p
+a
+H
+
+y
+t
+i
+c
+o
+r
+p
+c
+e
+R
+
+i
+
+e
+v
+i
+t
+n
+e
+c
+n
+i
+/
+d
+r
+a
+w
+e
+R
+
+m
+r
+o
+n
+
+e
+v
+i
+t
+c
+e
+b
+u
+S
+
+j
+
+m
+e
+e
+t
+s
+e
+
+f
+l
+e
+S
+
+m
+s
+i
+u
+r
+t
+l
+
+A
+
+s
+n
+o
+i
+t
+a
+n
+o
+d
+r
+o
+
+f
+
+s
+t
+s
+e
+u
+q
+e
+r
+
+l
+
+s
+s
+e
+n
+u
+f
+p
+e
+H
+
+l
+
+)
+
+e
+t
+a
+v
+i
+r
+p
+
+(
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+h
+t
+l
+a
+e
+H
+
+t
+c
+a
+t
+n
+o
+c
+
+l
+
+a
+t
+i
+p
+s
+o
+h
+
+r
+o
+i
+r
+P
+
+h
+t
+r
+o
+N
+
+(
+
+h
+t
+r
+i
+b
+
+f
+
+o
+y
+r
+t
+n
+u
+o
+C
+
+k
+s
+i
+r
+
+h
+t
+l
+a
+e
+H
+
+e
+g
+n
+a
+h
+c
+
+e
+c
+n
+e
+d
+i
+s
+e
+R
+
+l
+
+e
+v
+e
+
+l
+
+n
+o
+i
+t
+a
+z
+i
+n
+a
+b
+r
+U
+
+)
+a
+c
+i
+r
+e
+m
+A
+
+i
+
+n
+o
+g
+e
+R
+
+t
+s
+e
+r
+e
+t
+n
+
+i
+
+l
+
+a
+c
+i
+t
+i
+l
+
+o
+P
+
+)
+
+e
+r
+a
+r
+(
+
+e
+p
+y
+t
+d
+o
+o
+B
+
+l
+
+e
+p
+y
+t
+
+h
+r
+
+h
+t
+l
+a
+e
+h
+
+f
+
+o
+e
+t
+a
+t
+S
+
+y
+h
+t
+a
+p
+m
+E
+
+r
+a
+e
+F
+
+36
+
+36
+
+25
+
+25
+
+25,36
+
+36
+
+26
+
+35
+
+28. Taniguchi and Thomas (2011)
+
+37. Houston (2006)
+
+29. Priller and Schupp (2011)
+
+38. Lee et al. (1999)
+
+30. Bekkers (2006)
+
+31. Mesch et al. (2006)
+
++: positive effect
+
+32. Berger (2006)
+
+33. Einolf (2011)
+
+34. Bryant (2003)
+
+35. Jones (2006)
+
+36. Bekkers (2010)
+
+-: negative effect
+
+ns: not significant
+
+Questions on donation behavior of individuals belong to these speciﬁ c topics and are not 
+part of every survey wave. Speciﬁ cally, questions on blood and monetary donation behavior 
+were integrated for the ﬁ rst time into the 2010 survey wave (see Table 5 for the detailed ques-
+tions) and are part of every ﬁ fth survey wave. Questions on time donation (volunteering) 
+were part of the 2009 survey wave and are included every two years in the survey. Th  is spe-
+ciﬁ c structure combines both survey waves 2009 and 2010 in order to consider former dona-
+tion behavior for all three donation forms, that is, blood, money, and time. Consequently, 
+participants of both SOEP waves 2009 and 2010 serve as the initial basis for our empirical 
+analyses.
+
+Th  e resulting sample comprises 18,024 participants (18,587 respondents participated in the 
+2009 wave and 19,101 respondents participated in the 2010 wave). To reduce biases because 
+of external factors and because we aim to analyze only drivers of potentially eligible donors 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+280 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Table 5.  Operationalization of Variables
+
+Variable
+
+Blood donation
+
+Have you donated blood in the last 10 years?
+
+l
+
+a
+r
+o
+i
+v
+a
+h
+e
+B
+/
+
+t
+n
+e
+d
+n
+e
+p
+e
+D
+
+Money donation
+
+Time donation
+
+And now a question about your donations. We understand dona-
+tions here as giving money for social, church, cultural, community, 
+and charitable aims, without receiving any direct compensation 
+in return. These donations can be large sums of money but also 
+smaller sums, for example, the change one puts into a collection 
+box. We also count church offerings.
+Did you donate money last year, in 2009—not counting member-
+ship fees?
+
+Which of the following activities do you take part in during your 
+free time?
+Volunteer work in clubs or social services
+
+Donor segments
+
+Defined based on questions on blood, money and time donations
+
+Gender (Male)
+
+Gender
+
+Age
+
+Age
+
+Are you currently in some sort of education? In other words, do 
+you attend a school or institution of higher education (including 
+doctorate/PhD), are you engaged in an apprenticeship, or are you 
+participating in further education or training?
+
+Are you currently in paid employment? Which of the following 
+applies best to your status?
+. . . Full-time employed
+
+Are you officially registered as unemployed at the Employment 
+Office (“Arbeitsamt”)?
+
+How high was your income from employment last month?
+. . . Net income, which means the sum after deduction of taxes, 
+social security, and unemployment and health insurance
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+m
+e
+d
+o
+c
+o
+S
+
+i
+
+Education/ 
+Apprenticeship
+
+Full-time 
+ employment
+
+Unemployment
+
+Net income
+
+Marital status
+(Married)
+
+Children
+
+Inheritance
+
+Operationalization
+
+Dummy variables
+1 = Yes; 0 = No
+
+1 = Only blood donation
+2 = Only money donation
+3 = Only time donation
+4 = Blood and money donation
+5 = Money and time donation
+6 = Blood and time donation
+7 = blood, money, and time 
+donation
+
+Dummy variable
+1 = Male; 0 = Female
+
+18 to 71
+
+Dummy variable 1 = Yes; 0 = No
+
+Dummy variable 1 = Yes; 0 = No
+
+Dummy variable 1 = Yes; 0 = No
+
+What is your marital status?
+. . . Married
+
+Dummy variable 1 = Yes; 0 = No
+
+Do children who were born in 1994 or later live in your household? Dummy variable 1 = Yes; 0 = No
+
+Did you or another member of the household receive a large 
+sum of money or other forms of wealth (car, house, and so on) as 
+inheritance, gift, or lottery winnings last year? We refer to money 
+or other forms of wealth worth more than 500 euros.
+As: Inheritance
+
+Dummy variable 1 = Yes; 0 = No
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  281
+
+Table 5.  Operationalization of Variables (Continued)
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+m
+e
+d
+o
+c
+o
+S
+
+i
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+h
+c
+y
+s
+P
+
+h
+t
+l
+a
+e
+H
+
+l
+
+i
+
+a
+c
+h
+p
+a
+r
+g
+o
+e
+G
+
+a
+t
+a
+D
+h
+t
+l
+a
+e
+H
+
+Variable
+
+Gift
+
+Lottery winnings
+
+Risk taking
+
+Job satisfaction
+
+Free-time 
+ satisfaction
+
+Life satisfaction
+
+Mood
+
+Did you or another member of the household receive a large 
+sum of money or other forms of wealth (car, house, and so on) as 
+inheritance, gift, or lottery winnings last year? We refer to money 
+or other forms of wealth worth more than 500 euros.
+As: gift
+
+Did you or another member of the household receive a large 
+sum of money or other forms of wealth (car, house, and so on) as 
+inheritance, gift, or lottery winnings last year? We refer to money 
+or other forms of wealth worth more than 500 euros.
+As: lottery winnings
+
+Operationalization
+
+Dummy variable 1 = yes; 0 = no
+
+Dummy variable 1 = yes; 0 = no
+
+How do you see yourself: Are you generally a person who is fully 
+prepared to take risks or do you try to avoid taking risks?
+
+0 = Risk averse to 10 = Fully 
+prepared to take risks
+
+How satisfied are you today with the following areas of your life? 
+How satisfied are you with . . .
+. . . your job/your income/your health
+
+0 = Totally unhappy to 
+10 = Totally happy
+
+How satisfied are you today with the following areas of your life? 
+How satisfied are you with . . .
+. . . your free time/your family life.
+
+0 = Totally unhappy to 
+10 = Totally happy
+
+In conclusion we would like to ask you about your satisfaction with 
+your life in general: How satisfied are you with your life, all things 
+considered?
+
+0 = Completely dissatisfied to 
+10 = Completely satisfied
+
+I will now read to you a number of feelings. Please indicate for 
+each feeling how often or rarely did you experience this feeling in 
+the last four weeks.
+
+How often have you felt . . .
+. . .angry/worried/happy/sad?
+
+Interest in politics
+
+Generally speaking, how interested are you in politics?
+
+1 = very rarely
+2 = rarely
+3 = occasionally
+4 = often
+5 = very often
+
+1 = not at all interested
+2 = not so interested
+3 = interested
+4 = very interested
+
+Care-dependent 
+individuals in the 
+household
+
+Chronic illness
+
+Health insurance 
+(compulsory)
+
+New states of 
+Germany
+
+Does someone in your household need care or assistance on a 
+constant basis because of age,sickness, or medical treatment?
+
+Dummy variable 1 = yes; 0 = no
+
+Are you suffering for at least one year, or as a chronic condition, 
+from certain complaints or illnesses?
+
+How are you ensured for sickness: Do you have state health insur-
+ance or are you almost exclusively privately ensured?
+. . .In compulsory health insurance
+
+Dummy variable 1 = yes; 0 = no
+
+Dummy variable 1 = yes; 0 = no
+
+Former East Germany
+
+Dummy variable 1 = yes; 0 = no
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+282 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+we exclude individuals who are not permitted to donate blood for German legal reasons. 
+First, we exclude 3,184 individuals who are younger than eighteen, or who are seventy-one or 
+older. Second, we exclude 3,498 persons who are not permitted to donate blood because of 
+self-reported medical reasons. Our ﬁ nal data set consists of 12,487 (potential) donors.
+
+Data
+This section provides the measures and descriptive statistics for the dependent and inde-
+pendent variables of our model. Table 5 provides a detailed overview of the original SOEP 
+questions and operationalization of the variables (see Appendix A for an overview of descrip-
+tive statistics). Past donation behavior is used to define donor segments and to create our 
+dependent variable. The dependent variable consists of eight categories that indicate one of 
+the eight groups outlined previously, with non-donors serving as the reference category. We 
+include explanatory variables from the remaining four classes described earlier: sociodemo-
+graphic, psychographic, health-related, and geographical factors.
+
+Donation Behavior
+We include three indicators of (former) donation behavior for blood, money, and time. In 
+the survey wave of 2010, respondents were asked directly whether they had donated blood 
+in the ten years prior to the study or speciﬁ cally in 2009. Consequently, we deﬁ ne donors as 
+individuals who have donated during the period 1999 to 2009.2 Similarly, donors are asked in 
+the SOEP questionnaire 2010 whether they have donated money in 2009. We deﬁ ne former 
+monetary donation based on this question. Speciﬁ cally, respondents answering the question 
+with yes are considered to be former monetary donors. Time donors (volunteers) are deﬁ ned 
+according to the survey wave of SOEP 2009, in which respondents were asked whether they 
+take part in volunteer work at clubs or with social services in the current year (that is, 2009). 
+Based on these three questions on former donation behavior out of two survey waves of 2009 
+and 2010, we deﬁ ne seven donor segments engaged in single or multiple donation forms as 
+well as non-donors. However, although the SOEP data allows combining information on for-
+mer donation behavior, information on former blood, time, and monetary donation behavior 
+refers to diﬀ erent time periods. Speciﬁ cally, the monetary and time donation behavior refers 
+to 2009, while the blood donation behavior refers to the period 1999–2009. Th  is diﬀ erent 
+time scaling of former behavior for blood, time, and money donation implies restrictions on 
+chronological order of donation engagement for diﬀ erent donation forms. Still, the segment 
+deﬁ nition based on former donation behavior corresponds to managerial practice as donor 
+relationship managers usually use all information on former donorship that is available in their 
+databases and enrich this information with external data. Data from diﬀ erent internal or exter-
+nal sources contain historical information with diﬀ erent time scaling, for example, a NPO 
+operating in the blood donation sector may have full historical information on blood dona-
+tion behavior, while information on volunteering engagement may be based on a cross-section 
+marketing research survey and be available only for the point of time when the survey was 
+conducted. Th  is logic supports our segment deﬁ nition despite the restriction of diﬀ erent time 
+scalings for former donation of money and time on one hand and blood on the other. Besides, 
+the segment deﬁ nition of blood donors on the ten years prior to the study addresses the gener-
+ally higher re-donation probability of former donors (Rosen and Sims 2011).
+
+We identify eight donor segments that were formerly engaged in (1) blood donation, (2) 
+money donation, (3) time donation, (4) blood and money donation, (5) money and time 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  283
+
+donation, (6) blood and time donation, (7) all three donation forms, and (8) none (non-
+donors; see Figure 1). We derive a variable deﬁ ning all groups, with non-donors as the refer-
+ence category, which serves as our dependent variable in the multinomial logistic regression.
+
+Sociodemographic Factors
+Based on previous findings we include variables that were found to determine donation 
+behavior signiﬁ cantly. Th  us, we account for respondent gender (gender; Nonis et al. 1996; 
+Tscheulin and Lindenmeier 2005) and family environment (marital status and children; 
+Burnett 1981) in our model. Additionally, we control for respondent employment status 
+(Bekkers 2006; Priller and Schupp 2011), full time, employed. or unemployed and use part-
+time employment as the base category. Last, we control for the professional education level of 
+respondents (education/apprenticeship).
+
+Our sample shows a balanced structure with respect to gender with 49.40 percent male par-
+ticipants. We detect that 47.91 percent of individuals are employed full time and that 11.04 
+percent were in training at the time of the survey. Th  ese results are consistent with the quota 
+of unemployed respondents (7.08 percent). We also account for age speciﬁ c eﬀ ects (age) 
+because previous studies identify significant age effects (for example, Andaleeb and Basu 
+1995; Newman and Pyne 1997).
+
+Income was identiﬁ ed as a relevant predictor particularly for money donations (Banks and 
+Tanner, 1999; Boulware et al. 2002; Jones 2006; Mesch et al. 2006; Rosen and Sims 2011). 
+We include in our study the variables net income, inheritance, gift and lottery winnings and 
+consider the eﬀ ect of the general ﬁ nancial circumstances of respondents.
+
+Psychographic Factors
+Blood donation is related to psychological barriers, for example, fear of needles (Oswalt 
+and Napoliello 1974). Therefore, consistent with past studies (Andaleeb and Basu 1995) 
+we include risk-taking propensity in our study (risk-taking), as well as the general mood of 
+the individual (mood), which is a factor made up of four emotional moods (angry, worried, 
+
+Figure 1.  Overview of Donor Segments
+
+(1) Blood Donors
+6.76%
+N = 738
+
+(4)
+4.49%
+N = 490
+
+(2) Money Donors
+17.01%
+N = 1,857
+
+(5)
+3.72%
+N = 406
+
+(3) Time Donors
+11.36%
+N = 1,240
+
+(7)
+4.73%
+N = 516
+
+(6)
+12.78%
+N = 1,396
+
+(8) Non-donors
+42.96%
+N = 7,743
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+284 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+happy, and sad). This factor is extracted by means of principal component analyses (α = 
+0.69, explained variance = 50 percent). A high value indicates a negative (sad) mood, and low 
+values are an indicator of happiness or of a good mood prior to the survey.3
+
+Individuals’ satisfaction was shown to discriminate between donors and non-donors (Ibrahim 
+and Mobley 1993; Nguyen et al. 2008; Priller and Schupp 2011; Rajan et al. 2009). Hence, 
+we include a measure of overall life satisfaction (life satisfaction). In addition, we compute 
+two indices for job satisfaction and leisure time satisfaction by means of a principal compo-
+nent analysis (α = 0.69, explained variance = 63.5 percent). Th  e job satisfaction factor com-
+prises the SOEP-variables with respect to satisfaction with work, income and health, and the 
+free time satisfaction factor comprises satisfaction with family life and free time. Finally, we 
+include the variable interest in politics, which measures the level of political engagement of 
+respondents (Jeong 2010; Rajan et al. 2009).
+
+Health-Related Factors
+Th  is group comprises characteristics related to health status as well as health insurance. We 
+include the variable “chronic illness” as a predictor because previous studies have shown that 
+blood donors generally have better health status (for example, Bekkers 2006; Newman and 
+Pyne 1997). Additionally, the inclusion of variables related to health insurance is important 
+(Boulware et al. 2002). Th  erefore, to capture systematic diﬀ erences related to health insur-
+ance status, we include the variable compulsory health insurance, which indicates whether 
+a person has a normal health insurance tariﬀ . Th  e majority of respondents in our sample 
+(84.14 percent) have compulsory health insurance. Next, we consider whether respondent 
+households include family members who need care (care-dependent individuals in the house-
+hold), because these respondents (2.29 percent of the total sample) have a higher proneness 
+toward helping others and show a higher commitment (Sargeant and Woodliﬀ e 2005).
+
+Geographical Factors
+We consider geographical location eﬀ ects between East and West Germany (new states of 
+Germany; Priller and Schupp 2011).
+
+Results
+We estimate a multinomial logistic regression model with a nominal variable that displays 
+our eight donor segments (including non-donors) as the dependent variable. Non-donors 
+serve as the reference category. To facilitate a straightforward interpretation of the results, we 
+display elasticity coeﬃ  cients of independent variables that show the probability of change 
+(in percentage) of a respondent belonging to one donor group, depending on a one percent 
+change of an independent variable (Greene 2003).
+
+The model is highly significant (Chi-square = 5,531, p < .001) with a pseudo-R2 of .06 
+(Table 6). Other related studies that do not integrate individual motives and norms into their 
+models report comparable levels of pseudo-R2 statistics, especially for blood donation behav-
+ior (Houston 2006), indicating the validity of our model that captures the blood, money, 
+and time donation behavior. Therefore, and because our objective is to identify segment 
+proﬁ les and not to predict segment assignments, the model is suﬃ  ciently appropriate for 
+addressing our research question.
+
+We identify diﬀ erent signiﬁ cant characteristics of all donor segments described previously.
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  285
+
+Blood Donors
+Age is shown to have the highest impact on blood donation behavior. Specifically, the 
+probability of being a blood donor drops by 1.4 percent for every 1 percent increase in 
+age (Table 6). Compulsory health insurance has the second largest elasticity, indicating 
+that blood donors use compulsory health insurance. Moreover, donors are comparatively 
+greater risk takers and less interested in politics. Th  ese ﬁ ndings add to ﬁ ndings of previous 
+studies that show inconsistent ﬁ ndings on the eﬀ ect of age and risk-taking (see Table 2). 
+Finally, blood donors are typically not married and do not have children, which is consist-
+ent with the age eﬀ ect but deviates from previous ﬁ ndings (see Table 2). Th  ese diﬀ erences 
+may be because of recent structural demographic changes in the German population. Fur-
+thermore, our blood donation segment comprises only blood donors who are not engaged 
+in other donation forms, whereas past studies do not control for subsegments of multiple 
+donors.
+
+Money donors. Th  e results show that the probability of monetary donations is signiﬁ cantly 
+higher for female (potential) donors. In addition, money donors are shown to be signiﬁ -
+cantly older with a higher net income as compared to non-donors, which is consistent to 
+results of prior studies (see Table 3). Interestingly, we also discover that lottery winnings 
+increase the probability to donate money. In contrast to blood donors, the probability of 
+being involved only in money donation is higher when respondents have children. Regard-
+ing the health status, the likelihood of individuals donating money is signiﬁ cantly higher 
+in case of chronically illnesses or if individuals do not rely on compulsory health insurance 
+compared to non-donors. Money donors are more satisfied with their lives, have better 
+short-term moods, and are comparatively interested in politics. Th  ese ﬁ ndings expand the 
+existing research, because few studies have examined the eﬀ ect of political interest, satisfac-
+tion, and happiness (see Table 3).
+
+Time donors. Age is determined to be the variable with the highest impact with respect 
+to donation of time, with an increasing probability for donation among younger people. 
+Interestingly, contrary to prior ﬁ ndings (see Table 4), our results reveal time donors to be 
+predominantly male, with lower incomes and a higher interest in politics. Th  ese diﬀ erences 
+may be due to the deviating segment deﬁ nitions in our study as compared to former studies. 
+Because of our distinct deﬁ nition of donor segments, we are able to capture the eﬀ ects of the 
+independent variables with greater granularity as compared, for example, to studies that are 
+based on bivariate segment deﬁ nitions (Jeong 2010). Similarly to money donors, time donors 
+do not rely on compulsory health insurance. Overall, people engaging in volunteer work are 
+shown to have a higher level of satisfaction with their lives.
+
+Blood and money donors. Consistent with blood donors, people who formerly engaged in 
+blood and money donation are younger compared to non-donors. In contrast to the segment 
+of blood donors, we ﬁ nd a higher probability of both (former) blood and money donation if 
+the donor is female. Th  is group has a higher income, is more interested in politics, and is also 
+more often chronically ill as compared to non-donors. Th  e latter may explain their involve-
+ment in both donation forms because individuals belonging to this segment may engage in 
+money donation during times of illness as a substitute for blood donation.
+
+Money and time donors. Individuals who formerly donated money and volunteered are shown 
+to have a similar background. Th  ey are typically older, female, married, and have children. 
+Furthermore, inheriting and receiving gifts increases the probability that an individual 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+286 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Table 6.  Elasticity Coefficients of Multinomial Logit Estimation
+
+Blood Donation
+
+Money Donation
+
+Time Donation
+
+Elas-
+ticity
+
+Standard 
+error
+
+Signifi-
+cance
+
+Elas-
+ticity
+
+Standard 
+error
+
+Signifi-
+cance
+
+0.041
+
+0.171
+
+0.014
+
+0.053
+
+0.010
+
+0.051
+
+0.057
+
+0.028
+
+0.006
+
+0.005
+
+0.001
+
+0.077
+
+0.009
+
+0.004
+
+0.255
+
+0.002
+
+0.115
+
+0.006
+
+0.026
+
+0.113
+
+***
+
+**
+
+***
+
+–0.166
+
+0.917
+
+–0.017
+
+–0.032
+
+–0.019
+
+0.169
+
+0.007
+
+0.030
+
+0.001
+
+0.001
+
+0.001
+
+**
+
+–0.094
+
+0.004
+
+0.003
+
+0.352
+
+–0.004
+
+0.364
+
+–0.001
+
+0.045
+
+***
+
+***
+
+–0.207
+
+0.027
+
+0.114
+
+0.014
+
+0.032
+
+0.009
+
+0.025
+
+0.033
+
+0.018
+
+0.003
+
+0.003
+
+0.000
+
+0.047
+
+0.005
+
+0.003
+
+0.153
+
+0.002
+
+0.067
+
+0.003
+
+0.014
+
+0.052
+
+***
+
+***
+
+**
+
+***
+
+*
+
+***
+
+** 
+
+**
+
+**
+
+***
+
+***
+
+***
+
+Elas-
+ticity
+
+0.096
+
+–0.386
+
+0.025
+
+–0.004
+
+–0.031
+
+–0.096
+
+0.041
+
+0.015
+
+–0.002
+
+–0.010
+
+–0.003
+
+0.036
+
+–0.009
+
+–0.004
+
+0.315
+
+–0.002
+
+0.152
+
+–0.005
+
+–0.009
+
+–0.121
+
+Standard 
+error
+
+Signifi-
+cance
+
+0.026
+
+0.120
+
+0.009
+
+0.038
+
+0.009
+
+0.042
+
+0.036
+
+0.018
+
+0.003
+
+0.004
+
+0.002
+
+0.049
+
+0.006
+
+0.003
+
+0.160
+
+0.002
+
+0.076
+
+0.004
+
+0.016
+
+0.059
+
+***
+
+***
+
+***
+
+***
+
+**
+
+**
+
+**
+
+**
+
+**
+
+Variable
+
+Sex (male)
+
+Age
+
+–0.013
+
+–1.418
+
+Education/apprenticeship –0.013
+
+Full-time employment
+
+Unemployement
+
+Net income
+
+Marital status (married)
+
+Children
+
+Inheritance
+
+Gift
+
+Lottery winnings
+
+Risk taking
+
+Job satisfaction
+
+Free time satisfaction
+
+Life satisfaction
+
+Mood
+
+Interest in politics
+
+Care-dependent individu-
+als in the household 
+
+Chronic illness
+
+Health insurance 
+( compulsory)
+
+0.041
+
+0.013
+
+–0.020
+
+–0.125
+
+–0.078
+
+–0.008
+
+0.004
+
+0.001
+
+0.155
+
+–0.001
+
+0.003
+
+–0.197
+
+0.001
+
+–0.323
+
+–0.003
+
+–0.009
+
+0.340
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+m
+e
+d
+-
+o
+c
+o
+S
+
+i
+
+i
+
+c
+h
+p
+a
+r
+g
+o
+h
+c
+y
+s
+P
+
+h
+t
+l
+a
+e
+H
+
+l
+
+i
+
+a
+c
+h
+p
+a
+r
+g
+o
+e
+G
+
+New states of Germany
+
+0.125
+
+0.016
+
+***
+
+–0.058
+
+0.014
+
+***
+
+–0.017
+
+0.013
+
+Wald χ²(147):
+
+Prob > χ²
+
+Pseudo R ²
+
+Significance level: ***p<.01; **p<.05; *p<.10.
+
+5531.99
+
+0.0000
+
+0.0532
+
+will belong to this donor segment. Consistent with these results, respondents rely less on 
+ compulsory health insurance compared to non-donors, indicating that they may be fam-
+ily insurance or private insurance holders. Money and time donors have better (short-term) 
+mood and are more interested in politics.
+
+Blood and time donors. Blood and time donors reveal the least signiﬁ cant eﬀ ects. Th  e results 
+show that these donors are younger, have no children, and are more interested in politics. In 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  287
+
+Table 6.  Elasticity Coefficients of Multinomial Logit Estimation (Continued)
+
+Blood and Money 
+Donation
+
+Money and Time 
+Donation
+
+Blood and Time 
+Donation
+
+Blood, Money, and Time 
+Donation
+
+Elas-
+ticity
+
+–0.281
+
+–0.918
+
+–0.045
+
+0.070
+
+–0.024
+
+0.108
+
+0.061
+
+–0.050
+
+0.009
+
+0.008
+
+–0.026
+
+0.015
+
+0.007
+
+0.007
+
+0.031
+
+0.003
+
+0.728
+
+–0.006
+
+0.068
+
+–0.138
+
+Standard 
+error
+
+Signifi-
+cance
+
+Elas-
+ticity
+
+Standard 
+error
+
+Signifi-
+cance
+
+0.052
+
+0.239
+
+0.024
+
+0.059
+
+0.018
+
+0.039
+
+0.070
+
+0.035
+
+0.005
+
+0.005
+
+0.001
+
+0.091
+
+0.010
+
+0.006
+
+0.330
+
+0.002
+
+0.142
+
+0.008
+
+0.030
+
+0.103
+
+***
+
+***
+
+*
+
+***
+
+*
+
+–0.059
+
+0.916
+
+0.018
+
+–0.119
+
+–0.053
+
+0.178
+
+0.117
+
+0.129
+
+0.005
+
+0.010
+
+***
+
+–0.001
+
+0.093
+
+0.001
+
+–0.005
+
+0.239
+
+–0.003
+
+0.858
+
+–0.011
+
+0.019
+
+–0.277
+
+***
+
+**
+
+0.030
+
+0.139
+
+0.014
+
+0.037
+
+0.013
+
+0.027
+
+0.040
+
+0.020
+
+0.003
+
+0.003
+
+0.001
+
+0.052
+
+0.006
+
+0.004
+
+0.196
+
+0.002
+
+0.080
+
+0.005
+
+0.017
+
+0.058
+
+*
+
+***
+
+***
+
+***
+
+***
+
+***
+
+***
+
+*
+
+***
+
+*
+
+*
+
+***
+
+**
+
+***
+
+Elas-
+ticity
+
+0.067
+
+–1.767
+
+0.015
+
+0.058
+
+–0.032
+
+–0.033
+
+–0.019
+
+–0.167
+
+0.001
+
+–0.005
+
+0.001
+
+0.033
+
+–0.019
+
+–0.010
+
+–0.017
+
+0.000
+
+0.356
+
+0.002
+
+–0.015
+
+0.064
+
+Standard 
+error
+
+Signifi-
+cance
+
+Elas-
+ticity
+
+Standard 
+error
+
+Signifi-
+cance
+
+0.053
+
+0.242
+
+0.018
+
+0.075
+
+0.017
+
+0.077
+
+0.071
+
+0.040
+
+0.007
+
+0.007
+
+0.001
+
+0.099
+
+0.011
+
+0.006
+
+0.305
+
+0.003
+
+0.154
+
+0.008
+
+0.035
+
+0.128
+
+***
+
+–0.123
+
+–0.068
+
+0.037
+
+0.025
+
+*
+
+–0.048
+
+***
+
+* 
+
+**
+
+0.042
+
+0.291
+
+0.002
+
+0.002
+
+0.016
+
+0.000
+
+0.040
+
+0.011
+
+–0.008
+
+0.084
+
+–0.001
+
+0.752
+
+0.003
+
+0.022
+
+–0.305
+
+0.050
+
+0.231
+
+0.021
+
+0.062
+
+0.021
+
+0.043
+
+0.071
+
+0.035
+
+0.006
+
+0.004
+
+0.001
+
+0.086
+
+0.011
+
+0.006
+
+0.337
+
+0.002
+
+0.132
+
+0.006
+
+0.030
+
+0.095
+
+**
+
+*
+
+**
+
+***
+
+***
+
+***
+
+***
+
+0.052
+
+0.022
+
+**
+
+–0.062
+
+0.016
+
+***
+
+0.087
+
+0.023
+
+***
+
+–0.011
+
+0.024
+
+addition, donors belonging to this segment are less satisﬁ ed with their jobs, indicating that 
+volunteer work may be a way to compensate for job dissatisfaction.
+
+Blood, money, and time donors. Th  is group is made up of committed donors. Although our 
+data do not contain information on donor motives, it seems logical to assume that this group 
+may be driven by altruism and prosocial motivation. Typically, individuals from this segment 
+are female and married. Receiving gifts from the social environment and being interested 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+288 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+in politics increase the probability of belonging to this segment, which reﬂ ects their social 
+engagement and prosocial attitude.
+
+Th  is study is the ﬁ rst to investigate donor segments based on their former engagement in 
+diﬀ erent donation forms; the respective segment proﬁ les therefore provide new ﬁ ndings and 
+broaden the existing body of research.
+
+Discussion and Implications
+The results of our analysis are highly supportive of the possibility of identifying charac-
+teristics of donor segments involved in different donation forms related to time, blood, 
+money, and their combinations. We apply a multinomial logistic model using non-donors 
+as a reference category and identify donor proﬁ les along sociodemographic, psychographic, 
+health-related, and geographical aspects. Our segment categories are deﬁ ned based on former 
+donation behavior for money, blood, and time; however, we do not aim to develop a forecast-
+ing model that optimizes segment assignment based on our predictors. Instead, our objective 
+is to investigate donor proﬁ les and enrich the existing research on drivers of donation behav-
+ior and donor proﬁ ling.
+
+We contribute to existing literature by simultaneously identifying proﬁ les of donor segments 
+basing on their former engagement in diﬀ erent forms of donation. To the best of our knowl-
+edge, this is the ﬁ rst study to examine all three donation forms simultaneously by deﬁ ning 
+segments of multiple donors and comparing these to donors of blood, money, or time as well 
+as non-donors. We therefore expand the literature on donor proﬁ ling and the literature on 
+donor relationship management, because our results deliver valuable insights for the customi-
+zation of donor and (non-donor) activities related to new donor acquisition and retention. 
+Our ﬁ ndings show that diﬀ erences exist between subsegments of donors engaged in diﬀ erent 
+donation forms. Th  is implies that future studies on segment proﬁ ling should control for (for-
+mer) behavior toward diﬀ erent donation forms to provide valid estimates for segment proﬁ l-
+ing. In addition, we identify signiﬁ cant eﬀ ects from all four predictor categories used in our 
+analyses, which underlines the need to capture for these eﬀ ects in future studies.
+
+Our analyses partially support the ﬁ ndings of previous research on drivers of the three dona-
+tion formats and provide additional new insights. Consistent with prior research, we identify 
+money donors as typically female, older, and with higher incomes (for example, Bekkers 
+2010; Clotfelter 2001; Priller and Schupp 2011; Rajan et al. 2009; Rosen and Sims 2011). 
+Blood and time donors are typically not married and have no children, which is contrary to 
+the earlier research ﬁ ndings (for example, Burnett 1981). Further, time donors are female 
+and have lower incomes. Finally, we provide additional empirical results regarding variables 
+with ambiguous eﬀ ects in former studies, for example, age in case of blood donation (see 
+Table 2).
+
+Our ﬁ ndings have high managerial relevance. First, our segment deﬁ nition based on former 
+donation behavior corresponds to managerial practice of donor relationship managers or data 
+miners. Still, existing research on multiple-donor proﬁ ling is missing, showing the need for 
+more insights in this ﬁ eld. Because donors have limited amounts of time, money, and blood 
+they may consider all three donation forms as substitutes. Given that donors who formerly 
+engaged in one or more donation forms will evaluate the decision as to whether donate in an 
+additional form diﬀ erently from single-form donors or non-donors, NPOs should customize 
+targeting strategies for these segments.
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  289
+
+Speciﬁ cally, for blood donation services we identify three relevant segments for donor reten-
+tion: the blood donor group, the blood and money donors, and the blood and time donors. 
+Specifically, blood donors—younger, unmarried people with no children and higher risk-
+taking proﬁ les—should be addressed by mailings with bolder content. Donors who (formerly) 
+donated blood and money are also younger than non-donors but diﬀ er from these and from 
+single-blood donors regarding their ﬁ nancial background (higher incomes and higher prob-
+ability of inheriting) and their frequency of chronic illnesses (see Table 7 and Appendix B). 
+Targeting strategies motivating this group to re-donate blood can focus on communicating 
+beneﬁ ts of blood donation for the health status. We also discover a stronger interest in poli-
+tics, leading to the implication that another targeting strategy for motivating (former) blood 
+and money donors to reengage into blood donation should emphasize the high relevance of 
+blood donation from a holistic perspective of health care system policies. Individuals who 
+formerly engaged in blood donation and volunteering show lower job satisfaction. Hence, 
+communication actions for this segment could focus on aﬀ ective aspects of blood donation 
+related to “warm glow.”
+
+For NPOs engaged in monetary donations, three segments are relevant for donor retention man-
+agement: the money donors, money and blood donors, and money and time donors. We discover a 
+higher amount of women within all three segments, leading to the implication that customer 
+retention campaigns for these groups should target female segments, for example by appropri-
+ate mailing creations or layout. NPOs can customize their communication for money donors, 
+for example, along the characteristic of satisfaction with life, which is generally higher within 
+this segment. Donors who (formerly) donated blood and money are more frequently chronically 
+ill. NPOs operating in the monetary donation sector can emphasize the ﬂ exibility of monetary 
+donations, which are not related to health requirements and can be made even in times of ill-
+nesses. In addition, NPOs could use a health-related trigger in the communication, for exam-
+ple, by emphasizing that monetary donations can help people in need in times of illnesses. Th  e 
+money and time donors live in established familiar settings (older, married, have children) and 
+have solid ﬁ nancial backgrounds (higher incomes, receiving gifts, and inheriting). Communi-
+cation campaigns for this segment can be optimized, for example, by creating mailings based 
+on family-related values and using corresponding images.
+
+Voluntary organizations can use the characteristic of lower job satisfaction of blood and time 
+donors and address this by drawing attention to the warm glow because of voluntary work.
+
+Last, the segment of committed donors involved in all three donation formats is relevant for 
+NPOs engaged in blood donation, money donation, as well as voluntary work. Th  is segment 
+is shown to consist of typically female individuals. Consequently, retention strategies should 
+contain elements that address female potential donors as their primary target market, but 
+new donor acquisition strategies could try to attract new male donors. We also discover a 
+higher political interest within this segment. NPOs should emphasize the social relevance of 
+donation and prosocial behavior for motivating individuals of this segment to re-donate.
+
+Based on a large data set, our study has some limitations, of which we would like to point 
+out three: First, our segment deﬁ nition based on former donation behavior in the SOEP sur-
+vey does not take into account the chronological order of the engagement in diﬀ erent dona-
+tion forms. Th  e structure of the SOEP data does not allow identifying the sequence of the 
+engagements. Although the procedure of deﬁ ning segments based on former donation behav-
+ior corresponds to best practice of donor relationship management and data  mining, future 
+research should control for the chronological order of engagement in different donation 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+d
+n
+a
+
+,
+y
+e
+n
+o
+M
+
+,
+
+d
+o
+o
+B
+
+l
+
+n
+o
+i
+t
+a
+n
+o
+D
+e
+m
+T
+
+i
+
+l
+
+e
+a
+m
+e
+F
+
+n
+o
+i
+t
+a
+c
+u
+d
+e
+n
+
+I
+
+i
+
+e
+m
+T
+d
+n
+a
+d
+o
+o
+B
+
+l
+
+i
+
+e
+m
+T
+d
+n
+a
+
+y
+e
+n
+o
+M
+
+d
+n
+a
+d
+o
+o
+B
+
+l
+
+s
+e
+
+l
+i
+f
+
+o
+r
+P
+t
+n
+e
+m
+g
+e
+S
+
+f
+
+i
+
+o
+w
+e
+v
+r
+e
+v
+O
+
+.
+7
+e
+b
+a
+T
+
+l
+
+l
+
+d
+e
+y
+o
+p
+m
+e
+e
+m
+
+i
+t
+-
+l
+l
+
+u
+f
+
+t
+o
+N
+
+r
+e
+g
+n
+u
+o
+Y
+
+l
+
+e
+a
+m
+e
+F
+
+r
+e
+d
+O
+
+l
+
+l
+
+e
+a
+m
+e
+F
+
+r
+e
+g
+n
+u
+o
+Y
+
+l
+
+e
+a
+M
+
+r
+e
+g
+n
+u
+o
+Y
+
+n
+o
+i
+t
+a
+c
+u
+d
+e
+n
+
+i
+
+t
+o
+N
+
+n
+o
+i
+t
+a
+c
+u
+d
+e
+n
+
+I
+
+l
+
+e
+a
+m
+e
+F
+
+r
+e
+d
+O
+
+l
+
+r
+e
+g
+n
+u
+o
+Y
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+n
+o
+i
+t
+a
+n
+o
+D
+y
+e
+n
+o
+M
+
+n
+o
+i
+t
+a
+n
+o
+D
+e
+m
+T
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+y
+e
+n
+o
+M
+
+n
+o
+i
+t
+a
+n
+o
+D
+d
+o
+o
+B
+
+l
+
+i
+
+p
+h
+s
+e
+c
+i
+t
+n
+e
+r
+p
+p
+A
+/
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+l
+
+e
+b
+a
+i
+r
+a
+V
+
+)
+
+l
+
+e
+a
+m
+
+(
+
+x
+e
+S
+
+e
+g
+A
+
+l
+
+t
+n
+e
+m
+y
+o
+p
+m
+e
+e
+m
+
+i
+t
+-
+l
+l
+
+u
+F
+
+t
+f
+i
+
+g
+e
+g
+r
+a
+
+l
+
+a
+d
+e
+v
+i
+e
+c
+e
+R
+
+t
+f
+i
+
+g
+e
+g
+r
+a
+
+l
+
+a
+d
+e
+v
+i
+e
+c
+e
+R
+
+t
+f
+i
+
+g
+e
+g
+r
+a
+
+l
+
+o
+n
+d
+e
+v
+i
+e
+c
+e
+R
+
+d
+e
+y
+o
+p
+m
+E
+
+l
+
+d
+e
+y
+o
+p
+m
+E
+
+l
+
+d
+e
+y
+o
+p
+m
+E
+
+l
+
+d
+e
+y
+o
+p
+m
+E
+
+l
+
+d
+e
+y
+o
+p
+m
+E
+
+l
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+n
+h
+g
+H
+
+i
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+n
+h
+g
+H
+
+i
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+n
+w
+o
+L
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+n
+h
+g
+H
+
+i
+
+d
+e
+i
+r
+r
+a
+M
+
+n
+e
+r
+d
+
+l
+i
+
+h
+c
+o
+N
+
+d
+e
+i
+r
+r
+a
+M
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+e
+c
+n
+a
+t
+i
+r
+e
+h
+n
+
+I
+
+e
+c
+n
+a
+t
+i
+r
+e
+h
+n
+
+I
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+d
+e
+i
+r
+r
+a
+m
+
+t
+o
+N
+
+n
+e
+r
+d
+
+l
+i
+
+h
+c
+o
+N
+
+)
+
+d
+e
+i
+r
+r
+a
+m
+
+(
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+M
+
+t
+n
+e
+m
+y
+o
+p
+m
+e
+n
+U
+
+l
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+N
+
+e
+c
+n
+a
+t
+i
+r
+e
+h
+n
+
+I
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+t
+f
+i
+
+G
+
+d
+o
+o
+m
+e
+v
+i
+t
+a
+g
+e
+N
+
+e
+f
+i
+l
+
+h
+t
+i
+
+w
+d
+e
+i
+f
+s
+i
+t
+a
+S
+
+e
+f
+i
+l
+
+h
+t
+i
+
+w
+d
+e
+i
+f
+s
+i
+t
+a
+S
+
+d
+o
+o
+m
+e
+v
+i
+t
+a
+g
+e
+N
+
+-
+
+s
+k
+s
+i
+r
+e
+k
+a
+t
+o
+t
+g
+n
+
+i
+l
+l
+i
+
+W
+
+s
+k
+s
+i
+r
+e
+k
+a
+t
+o
+t
+g
+n
+
+i
+l
+l
+i
+
+w
+
+t
+o
+N
+
+s
+k
+s
+i
+r
+e
+k
+a
+t
+o
+t
+g
+n
+
+i
+l
+l
+i
+
+W
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+e
+m
+
+i
+t
+e
+e
+r
+F
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+b
+o
+J
+
+i
+
+g
+n
+k
+a
+t
+-
+k
+s
+i
+R
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+e
+f
+i
+L
+
+d
+o
+o
+M
+
+i
+
+i
+
+s
+g
+n
+n
+n
+w
+y
+r
+e
+t
+t
+o
+
+l
+
+o
+N
+
+i
+
+i
+
+s
+g
+n
+n
+n
+w
+y
+r
+e
+t
+t
+o
+L
+
+i
+
+i
+
+s
+g
+n
+n
+n
+w
+y
+r
+e
+t
+t
+o
+L
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+d
+e
+t
+s
+e
+r
+e
+t
+n
+
+i
+
+t
+o
+N
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+c
+o
+N
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+-
+e
+r
+a
+c
+o
+N
+
+e
+h
+t
+n
+
+i
+
+s
+l
+a
+u
+d
+i
+v
+i
+d
+n
+
+i
+
+l
+
+d
+o
+h
+e
+s
+u
+o
+h
+
+-
+r
+u
+s
+n
+
+i
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+c
+o
+N
+
+e
+c
+n
+a
+
+l
+l
+i
+
+y
+l
+l
+
+i
+
+a
+c
+n
+o
+r
+h
+C
+
+l
+l
+i
+
+y
+l
+l
+
+i
+
+a
+c
+n
+o
+r
+h
+C
+
+e
+c
+n
+a
+
+e
+c
+n
+a
+
+-
+r
+u
+s
+n
+
+i
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+c
+o
+N
+
+-
+r
+u
+s
+n
+
+i
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+c
+o
+N
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+y
+r
+o
+s
+l
+u
+p
+m
+o
+C
+
+-
+u
+d
+i
+v
+i
+d
+n
+
+i
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+-
+e
+r
+a
+C
+
+l
+
+d
+o
+h
+e
+s
+u
+o
+h
+e
+h
+t
+n
+
+i
+
+s
+l
+a
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+h
+t
+l
+a
+e
+H
+
+)
+y
+r
+o
+s
+l
+u
+p
+m
+o
+ c
+(
+
+s
+s
+e
+n
+
+l
+l
+i
+
+i
+
+c
+n
+o
+r
+h
+C
+
+y
+n
+a
+m
+r
+e
+G
+
+y
+n
+a
+m
+
+f
+
+o
+s
+e
+t
+a
+t
+S
+w
+e
+N
+
+y
+n
+a
+m
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+d
+O
+
+l
+
+-
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+w
+e
+N
+
+y
+n
+a
+m
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+d
+O
+
+l
+
+y
+n
+a
+m
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+w
+e
+N
+
+y
+n
+a
+m
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+w
+e
+N
+
+Sociodemographic
+
+Psychographic
+
+Health
+
+Geographical
+
+.
+s
+r
+o
+n
+o
+d
+-
+n
+o
+n
+o
+t
+d
+e
+r
+a
+p
+m
+o
+c
+
+y
+t
+i
+l
+i
+
+b
+a
+b
+o
+r
+p
+t
+n
+e
+m
+n
+g
+i
+s
+s
+a
+
+t
+n
+e
+m
+g
+e
+s
+e
+h
+t
+e
+s
+a
+e
+r
+c
+n
+
+i
+
+s
+c
+i
+t
+s
+i
+r
+e
+t
+c
+a
+r
+a
+h
+c
+d
+e
+i
+f
+i
+c
+e
+p
+S
+
+:
+
+e
+t
+o
+N
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  291
+
+forms. Second, the donation motives are not available in the SOEP survey. Future studies 
+should use enriched data comprising motivational information. Last, our sample is repre-
+sentative for Germany. We encourage further studies to extend our ﬁ ndings by investigating 
+multiple donor proﬁ les in other countries.
+
+Notes
+1.  A detailed documentation of SOEP data is open to the public via the project’s homepage (www.diw.de/soep).
+2.  See http://www.diw.de/en/diw_02.c.222729.en/questionnaires.html for the complete questionnaires of 2009 
+
+and 2010.
+
+3.  As short-time mood was shown to be a valid indicator even for the long term (Watson and Walker 1996), we 
+expect this variable to account for variation among donors and non-donors, for example, because of the warm glow 
+effect (Andreoni 1990).
+
+References
+
+Andaleeb, S. S., and A. K. Basu. 1995. “Explaining Blood Donation: The Trust Factor.” Journal of Health Care 
+
+Marketing 15 (1): 42–48.
+
+Andreoni, J. 1990. “Impure Altrusim and Donations to Public-Goods—A Theory of Warm-Glow Giving.” 
+
+Economic Journal 100 (401): 464–77.
+
+Banks, J., and S. Tanner. 1999. “Patterns in Household Giving: Evidence from U.K. Data.” Voluntas 10 (2): 
+
+167–78.
+
+Bekkers, R. 2006. “Traditional and Health-Related Philanthropy: The Role of Resources and Personality.” 
+
+Social Psychology Quarterly 69 (4): 349–66.
+
+———. 2010. “Who Gives What and When? A Scenario Study of Intentions to Give Time and Money.” 
+
+Social Science Research 39 (3): 369–81.
+
+Berger, I. E. 2006. “The Influence of Religion on Philanthropy in Canada.” Voluntas 17 (2): 110–27.
+Boulware, L. E., L. E. Ratner, P. M. Ness, L. A. Cooper, S. Campbell-Lee, and T. A. LaVeist. 2002. “The 
+ Contribution of Sociodemographic, Medical, and Attitudinal Factors to Blood Donation among the 
+ General Public.” Transfusion 42 (6): 669–78.
+
+Bryant, W. K. 2003. “Participation in Philanthropic Activities: Donating Money and Time.” Journal of Con-
+
+sumer Policy 26 (1): 43–73.
+
+Burnett, J. J. 1981. “Psychographic and Demographic Characteristics of Blood Donors.” Journal of Consumer 
+
+Research 8 (1): 62–66.
+
+Burnett, J. J., and J. H. Leigh. 1986. “Distinguishing Characteristics of Blood Donor Segments Defined in 
+
+Terms of Donation Frequency.” Journal of Health Care Marketing 6 (2): 38–48.
+
+Clotfelter, C. T. 2001. “Who Are the Alumni Donors? Giving by Two Generations of Alumni from Selective 
+
+Colleges.” Nonprofit Management and Leadership 12 (2): 119–38.
+
+Duboz, P., and B. Cunéo. 2009. “Impact of Socioeconomic Status on Blood Donation.” Transfusion Clinique 
+
+Et Biologique: Journal De La Société Française De Transfusion Sanguine 16 (4): 371–78.
+
+Duboz, P., and B. Cunéo. 2010. “How Barriers to Blood Donation Differ between Lapsed Donors and Non-
+
+donors in France.” Transfusion 20 (4): 227–36.
+
+Duboz, P., E. Macia, and B. Cunéo. 2010. “Sociodemographic and Attitudinal Factors to Blood Donation in 
+
+the Urban Population of Dakar, Senegal.” Transfusion 50 (12): 2713–20.
+
+Eikenberry, A. M. 2009. “Refusing the Market: A Democratic Discourse for Voluntary and Nonprofit Organi-
+
+zations.” Nonprofit and Voluntary Sector Quarterly 38 (4): 582–96.
+
+Einolf, C. J. 2011. “Gender Differences in the Correlates of Volunteering and Charitable Giving.” Nonprofit 
+
+and Voluntary Sector Quarterly 40 (6): 1092–1112.
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+ 
+ 
+ 
+292 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Feld, S., H. Frenzen, M. Krafft, K. Peters, and P. C. Verhoef. 2013. “The Effects of Mailing Design Character-
+istics on Direct Mail Campaign Performance.” International Journal of Research in Marketing 30 (2): 143–59.
+
+Greene, W. H. 2003. Econometric Analysis. Vol. 5. Upper Saddle River, NJ: Prentice Hall.
+Hermes, V. 2007. “Das ist ein super Job, den ich hier habe!” [This is a Great Job I Have Here!] Absatzwirtschaft 
+
+50 (11): 100–03.
+
+Houston, D. J. 2006. “‘Walking the Walk’ of Public Service Motivation: Public Employees and Charitable 
+
+Gifts of Time, Blood, and Money.” Journal of Public Administration Research and Theory 16 (1): 67.
+
+Hughes, P., and W. Luksetich. 2008. “Income Volatility and Wealth: The Effect on Charitable Giving.” Non-
+
+profit and Voluntary Sector Quarterly 37 (2): 264–80.
+
+Ibrahim, N. A., and M. F. Mobley. 1993. “Recruitment and Retention of Blood Donors: A Strategic Linkage 
+
+Approach.” Health Care Management Review 18 (3): 67–73.
+
+Jeong, H. O. 2010. “How Do Religions Differ in Their Impact on Individuals’ Social Capital? The Case of 
+
+South Korea.” Nonprofit and Voluntary Sector Quarterly 39 (1): 142–60.
+
+Jones, K. S. 2006. “Giving and Volunteering as Distinct Forms of Civic Engagement: The Role of Community 
+Integration and Personal Resources in Formal Helping.” Nonprofit and Voluntary Sector Quarterly 35 (2): 249–66.
+Kottasz, R. 2004. “Differences in the Donor Behavior Characteristics of Young Affluent Males and Females: 
+
+Empirical Evidence from Britain.” Voluntas 15 (2): 181–203.
+
+Krupp, H.-J. 2007. Das Sozio-oekonomische Panel (SOEP): Genese und Implementation. [The Socio-Economic Panel 
+(SOEP): Genesis and Implementation] SOEP papers on Multidisciplinary Panel Data Research. DIW. Berlin.
+Lee, L., J. A. Piliavin, and V. R. A. Call. 1999. “Giving Time, Money, and Blood: Similarities and Differences.” 
+
+Social Psychology Quarterly 62 (3): 276–90.
+
+Mesch, D. J., P. M. Rooney, K. S. Steinberg, and B. Denton. 2006. “The Effects of Race, Gender, and Marital 
+Status on Giving and Volunteering in Indiana.” Nonprofit and Voluntary Sector Quarterly 35 (4): 565–87.
+Meslin, E. M., P. M. Rooney, and J. G. Wolf. 2008. “Health-Related Philanthropy: Toward Understanding 
+the Relationship between the Donation of the Body (and Its Parts) and Traditional Forms of Philanthropic 
+Giving.” Nonprofit and Voluntary Sector Quarterly 37 (1 suppl): 44S–62S.
+
+Monin, B., and D. T. Miller. 2001. “Moral Credentials and the Expression of Prejudice.” Journal of Personality 
+
+and Social Psychology 81 (1): 33–43.
+
+Mount, J. 1996. “Why Donors Give.” Nonprofit Management and Leadership 7 (1): 3–14.
+Naskrent, J., and P. Siebelt. 2011. “The Influence of Commitment, Trust, Satisfaction, and Involvement on 
+
+Donor Retention.” Voluntas 22 (4): 757–78.
+
+Newman, K., and T. Pyne. 1997. “Service Quality and Blood Donors—A Marketing Perspective.” Journal of 
+
+Marketing Management 13 (6): 579–99.
+
+Nguyen, D. D., D. A. Devita, N. V. Hirschler, and E. L. Murphy. 2008. “Blood Donor Satisfaction and Inten-
+
+tion of Future Donation.” Transfusion 48 (4): 742–48.
+
+Nonis, S. A., et al. 1996. “College Student’s Blood Donation Behavior: Relationship to Demographics, Per-
+
+ceived Risk, and Incentives.” Health Marketing Quarterly 13 (4): 33–46.
+
+Oswalt, R. M., and M. Napoliello. 1974. “Motivations of Blood Donors and Nondonors.” Journal of Applied 
+
+Psychology 59 (1): 122–24.
+
+Ownby, H. E., F. Kong, K. Watanabe, Y. Tu, and C. C. Nass. 1999. “Analysis of Donor Return Behavior: 
+
+Retrovirus Epidemiology Donor Study.” Transfusion 39 (10): 1128–35.
+
+Piper, G., and S. Schnepf. 2008. “Gender Differences in Charitable Giving in Great Britain.” Voluntas 19 (2): 
+
+103–24.
+
+Priller, E., and J. Schupp. 2011. “Soziale und ökonomische Merkmale von Geld- und Blutspendern in 
+Deutschland.” [Social and Economic Characteristics of Money and Blood Donors in Germany] DIW 
+Wochenbericht 78 (29): 3–10.
+
+Rajan, S. S., G. H. Pink, and W. H. Dow. 2009. “Sociodemographic and Personality Characteristics of Cana-
+dian Donors Contributing to International Charity.” Nonprofit and Voluntary Sector Quarterly 38 (3): 413–40.
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+PROFILING DONORS OF BLOOD, MONEY, AND TIME  293
+
+Reed, P. B. 2000. “Distinguishing Characteristics of Active Volunteers in Canada.” Nonprofit and Voluntary 
+
+Sector Quarterly 29 (4): 571–92.
+
+Rosen, H. S., and S. T. Sims. 2011. “Altruistic Behavior and Habit Formation.” Nonprofit Management and 
+
+Leadership 21 (3): 235–53.
+
+Sargeant, A. 2001. “Relationship Fundraising: How to Keep Donors Loyal.” Nonprofit Management and Lead-
+
+ership 12 (2): 177–92.
+
+Sargeant, A., J. Hudson, and D. C. West. 2008. “Conceptualizing Brand Values in the Charity Sector: The 
+
+Relationship between Sector, Cause and Organization.” Service Industries Journal 28 (5): 615–32.
+
+Sargeant, A., and L. Woodliffe. 2005. “The Antecedents of Donor Commitment to Voluntary Organizations.” 
+
+Nonprofit Management and Leadership 16 (1): 61–78.
+
+Schervish, P. G., and J. J. Havens. 1997. “Social Participation and Charitable Giving: A Multivariate Analysis.” 
+
+Voluntas 8 (3): 235–60.
+
+Schreiber, G. B., S. A. Glynn, M. A. Damesyn, D. J. Wright, Y. Tu, and R. Y. Dodd. 2003. “Lapsed Donors: 
+
+An Untapped Resource.” Transfusion 43 (1): 17–24.
+
+Schreiber, G. B., U. K. Sharma, D. J. Wright, S. A. Glynn, H. E. Ownby, and Y. Tu. 2005. “First Year Dona-
+tion Patterns Predict Long-Term Commitment for First-Time Donors.” Vox Sanguinis 88 (2): 114–21.
+Schupp, J., and G. Wagner. 2002. “Maintenance of and Innovation in Long-Term Panel Studies: The Case of 
+
+the German Socio-Economic Panel (GSOEP).” DIW Discussion Paper 276: 1–16.
+
+Solomon, G. 2012. “Segmentation and Communications to Solve the Blood Shortage: An Exploration of the 
+
+Problem with Recommendations.” Voluntas 23 (2): 415–33.
+
+Sosin, M. R. 2012. “Social Expectations, Constraints, and Their Effect on Nonprofit Strategies.” Nonprofit and 
+
+Voluntary Sector Quarterly 41 (6): 1231–50.
+
+Taniguchi, H. 2010. “Who Are Volunteers in Japan?” Nonprofit and Voluntary Sector Quarterly 39 (1): 161–79.
+Taniguchi, H., and L. Thomas. 2011. “The Influences of Religious Attitudes on Volunteering.” Voluntas 22 
+
+(2): 335–355.
+
+Thomson, R. A., J. Bethel, A. Y. Lo, H. E. Ownby, C. C. Nass, and A. E. Williams. 1998. “Retention of ‘Safe’ 
+
+Blood Donors.” Transfusion 38 (4): 359–67.
+
+Tscheulin, D. K., and J. Lindenmeier. 2005. “The Willingness to Donate Blood: An Empirical Analysis of Socio-
+demographic and Motivation-Related Determinants.” Health Services Management Research 18 (3): 165–74.
+Veldhuizen, I. J. T., C. J. M. Doggen, F. Atsma, and W. L. A. M. De Kort. 2009. “Donor Profiles: Demo-
+
+graphic Factors and Their Influence on the Donor Career.” Vox Sanguinis 97 (2): 129–38.
+
+Venable, B. T., G. M. Rose, V. D. Bush, and F. W. Gilbert. 2005. “The Role of Brand Personality in Charitable 
+
+Giving: An Assessment and Validation.” Journal of the Academy of Marketing Science 33 (3): 295–312.
+
+Watson, D., and L. M. Walker. 1996. “The Long-Term Stability and Predictive Validity of Trait Measures of 
+
+Affect.” Journal of Personality and Social Psychology 70 (3): 567–77.
+
+Wiepking, P. 2007. “The Philanthropic Poor: In Search of Explanations for the Relative Generosity of Lower 
+
+Income Households.” Voluntas 18 (4): 339–58.
+
+Wiepking, P., and R. Bekkers. 2010. “Does Who Decides Really Matter? Causes and Consequences of Personal 
+Financial Management in the Case of Larger and Structural Charitable Donations.” Voluntas 21 (2): 240–63.
+
+EDLIRA SHEHU is associate professor in the Department of Marketing and Management at the 
+ University of Southern Denmark and assistant professor of marketing and media at the University 
+of Hamburg.
+
+ANN-CHRISTIN LANGMAACK is a post-doctoral researcher at the University of Hamburg.
+
+ELENA FELCHLE is an MBA student at the University of Hamburg.
+
+MICHEL CLEMENT is professor of marketing and media at the University of Hamburg.
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+294 
+
+SHEHU, LANGMAACK, FELCHLE, CLEMENT
+
+Appendix A.  Descriptive Statistics
+
+Variables
+
+Frequency
+
+Sample Mean
+
+SE
+
+Donation
+
+Blood donation
+
+Money donation
+
+Time donation
+
+Sociodemographic
+
+Sex (male)
+
+Age
+
+Education/Apprenticeship
+
+Full-time employment
+
+Unemployment
+
+Net income
+
+Marital status (married)
+
+Children
+
+Inheritance
+
+Gift
+
+Lottery winnings
+
+Psychographic
+
+Risk taking
+
+Job satisfaction
+
+Free time satisfaction
+
+Life satisfaction
+
+Mood
+
+Interest in politics
+
+19.66%
+
+38.94%
+
+32.06%
+
+49.40%
+
+11.04%
+
+47.91%
+
+7.08%
+
+61.05%
+
+31.25%
+
+1.83%
+
+2.31%
+
+0.20%
+
+N = 11,033
+
+N = 11,000
+
+N = 12,412
+
+N = 12,487
+
+N = 12,487
+
+46.787
+
+0.125
+
+N = 12,487
+
+N = 12,486
+
+N = 12,487
+
+N = 12,437
+
+1216.242
+
+12.549
+
+N = 12,487
+
+N = 12,487
+
+N = 12,487
+
+N = 12,487
+
+N = 12,487
+
+N = 12,456
+
+N = 12,487
+
+4.507
+
+0.133
+
+N = 12,487
+
+−0.106
+
+N = 12,463
+
+7.175
+
+N = 12,444
+
+−0.044
+
+N = 12,439
+
+2.316
+
+0.020
+
+0.008
+
+0.008
+
+0.015
+
+0.009
+
+0.007
+
+Health
+
+Care-dependent individuals in the household
+
+Chronic illness
+
+Health insurance (compulsory)
+
+Geographical
+
+New states of Germany
+
+2.29%
+
+28.93%
+
+84.14%
+
+21.41%
+
+N = 12,487
+
+N = 12,455
+
+N = 12,475
+
+N = 12,487
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+d
+n
+a
+
+,
+y
+e
+n
+o
+M
+
+,
+
+d
+o
+o
+B
+
+l
+
+d
+n
+a
+d
+o
+o
+B
+
+l
+
+d
+n
+a
+
+y
+e
+n
+o
+M
+
+d
+n
+a
+d
+o
+o
+B
+
+l
+
+n
+o
+i
+t
+a
+n
+o
+D
+e
+m
+T
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+e
+m
+T
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+e
+m
+T
+
+i
+
+n
+o
+i
+t
+a
+n
+o
+D
+y
+e
+n
+o
+M
+
+n
+o
+i
+t
+a
+n
+o
+ D
+e
+m
+T
+
+i
+
+y
+e
+n
+o
+M
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+d
+o
+o
+B
+
+l
+
+n
+o
+i
+t
+a
+n
+o
+D
+
+s
+r
+o
+n
+o
+d
+-
+n
+o
+N
+
+D
+S
+
+6
+6
+.
+2
+1
+
+n
+a
+e
+M
+
+%
+1
+3
+0
+5
+
+.
+
+%
+9
+1
+2
+1
+
+.
+
+4
+9
+.
+7
+4
+
+%
+1
+8
+.
+2
+5
+
+%
+0
+5
+.
+2
+
+D
+S
+
+n
+a
+e
+M
+
+%
+6
+5
+.
+5
+5
+
+D
+S
+
+n
+a
+e
+M
+
+%
+7
+0
+.
+1
+5
+
+D
+S
+
+n
+a
+e
+M
+
+%
+9
+1
+.
+2
+4
+
+D
+S
+
+n
+a
+e
+M
+
+D
+S
+
+n
+a
+e
+M
+
+D
+S
+
+n
+a
+e
+M
+
+D
+S
+
+%
+9
+3
+.
+3
+5
+
+%
+4
+9
+.
+4
+4
+
+%
+4
+0
+.
+9
+4
+
+8
+8
+.
+3
+1
+
+9
+2
+0
+4
+
+.
+
+7
+5
+.
+2
+1
+
+9
+3
+.
+0
+5
+
+4
+8
+2
+1
+
+.
+
+7
+6
+.
+5
+4
+
+4
+4
+4
+1
+
+.
+
+5
+2
+.
+5
+4
+
+7
+6
+2
+1
+
+.
+
+1
+1
+.
+1
+5
+
+5
+2
+.
+3
+1
+
+1
+6
+.
+9
+3
+
+0
+2
+.
+4
+1
+
+%
+9
+1
+.
+3
+2
+
+%
+7
+0
+5
+
+.
+
+%
+0
+2
+.
+1
+5
+
+%
+6
+1
+7
+
+.
+
+%
+2
+7
+.
+8
+
+%
+8
+4
+.
+5
+1
+
+%
+2
+3
+
+.
+
+5
+
+%
+7
+0
+.
+1
+5
+
+%
+1
+5
+.
+2
+
+%
+0
+8
+
+.
+
+6
+5
+
+%
+5
+8
+3
+
+.
+
+%
+4
+8
+.
+4
+
+%
+6
+4
+
+.
+
+7
+4
+
+%
+9
+8
+.
+3
+
+%
+9
+6
+0
+5
+
+.
+
+%
+2
+9
+.
+1
+2
+
+%
+5
+9
+.
+7
+4
+
+%
+9
+5
+.
+9
+
+n
+a
+e
+M
+
+%
+5
+2
+.
+9
+4
+
+%
+6
+2
+.
+1
+1
+
+8
+7
+.
+5
+4
+
+%
+9
+9
+.
+4
+4
+
+%
+4
+5
+.
+0
+1
+
+5
+9
+.
+8
+4
+2
+,
+1
+
+5
+2
+.
+7
+6
+4
+,
+1
+
+7
+8
+.
+7
+6
+0
+,
+1
+
+9
+8
+.
+0
+2
+1
+,
+1
+
+4
+0
+.
+6
+0
+7
+,
+1
+
+7
+2
+.
+9
+0
+6
+,
+1
+
+3
+3
+
+.
+
+1
+9
+2
+1
+
+,
+
+6
+2
+.
+9
+6
+4
+,
+1
+
+2
+0
+
+.
+
+1
+5
+2
+1
+
+,
+
+1
+9
+.
+5
+5
+1
+,
+1
+
+2
+3
+
+.
+
+0
+7
+8
+
+,
+
+1
+
+8
+1
+
+.
+
+7
+2
+5
+1
+
+,
+
+7
+0
+.
+7
+3
+9
+
+6
+9
+.
+0
+4
+0
+,
+1
+
+5
+0
+.
+2
+6
+1
+,
+1
+
+8
+4
+.
+5
+0
+0
+,
+1
+
+2
+0
+.
+2
+
+9
+7
+.
+
+5
+8
+.
+
+6
+5
+.
+1
+
+8
+9
+.
+
+4
+7
+.
+
+%
+0
+5
+2
+7
+
+.
+
+%
+6
+8
+.
+1
+3
+
+%
+1
+8
+.
+2
+
+%
+7
+3
+4
+
+.
+
+%
+1
+3
+.
+0
+
+5
+5
+.
+4
+
+2
+3
+.
+
+6
+0
+.
+−
+
+7
+4
+.
+7
+
+0
+1
+.
+−
+
+%
+9
+1
+.
+2
+
+7
+5
+
+.
+
+2
+
+%
+4
+4
+.
+3
+2
+
+%
+6
+5
+6
+7
+
+.
+
+%
+8
+8
+.
+6
+1
+
+5
+1
+.
+2
+
+2
+9
+.
+
+6
+8
+.
+
+4
+7
+.
+1
+
+7
+9
+.
+
+7
+7
+.
+
+%
+7
+1
+.
+5
+4
+
+%
+5
+1
+
+.
+
+4
+2
+
+%
+3
+9
+.
+1
+
+%
+6
+6
+.
+2
+
+%
+8
+4
+.
+0
+
+9
+7
+.
+4
+
+1
+1
+.
+
+8
+0
+.
+−
+
+7
+1
+.
+7
+
+5
+0
+.
+−
+
+%
+3
+9
+.
+1
+
+7
+3
+2
+
+.
+
+%
+7
+2
+.
+4
+2
+
+%
+6
+9
+.
+6
+8
+
+%
+7
+4
+9
+2
+
+.
+
+1
+1
+.
+2
+
+4
+8
+.
+
+8
+8
+.
+
+6
+5
+.
+1
+
+1
+9
+.
+
+6
+7
+.
+
+%
+5
+2
+.
+4
+7
+
+%
+9
+4
+.
+6
+3
+
+%
+5
+4
+.
+2
+
+%
+7
+2
+.
+4
+
+%
+5
+2
+0
+
+.
+
+0
+6
+.
+4
+
+6
+2
+
+.
+
+4
+0
+−
+
+.
+
+4
+4
+7
+
+.
+
+9
+0
+.
+−
+
+2
+6
+.
+2
+
+%
+7
+5
+.
+1
+
+%
+1
+4
+2
+3
+
+.
+
+%
+3
+3
+
+.
+
+3
+7
+
+%
+5
+9
+5
+1
+
+.
+
+3
+1
+2
+
+.
+
+9
+8
+
+.
+
+9
+9
+
+.
+
+0
+6
+1
+
+.
+
+6
+9
+
+.
+
+4
+7
+
+.
+
+%
+7
+2
+
+.
+
+2
+6
+
+%
+5
+0
+2
+3
+
+.
+
+%
+4
+8
+.
+2
+
+%
+5
+8
+3
+
+.
+
+%
+0
+0
+.
+0
+
+4
+5
+
+.
+
+4
+
+8
+2
+
+.
+
+9
+1
+−
+
+.
+
+5
+3
+
+.
+
+7
+
+0
+1
+−
+
+.
+
+%
+2
+6
+
+.
+
+1
+
+7
+4
+.
+2
+
+%
+9
+4
+.
+0
+3
+
+%
+2
+3
+0
+8
+
+.
+
+%
+4
+5
+.
+4
+2
+
+8
+2
+
+.
+
+2
+
+5
+9
+
+.
+
+2
+9
+
+.
+
+4
+6
+1
+
+.
+
+6
+9
+
+.
+
+9
+7
+
+.
+
+%
+2
+2
+0
+6
+
+.
+
+%
+7
+3
+3
+3
+
+.
+
+%
+9
+6
+
+.
+
+1
+
+%
+7
+8
+1
+
+.
+
+%
+6
+0
+
+.
+
+0
+
+2
+6
+
+.
+
+4
+
+5
+1
+
+.
+
+8
+0
+−
+
+.
+
+7
+2
+.
+7
+
+4
+0
+−
+
+.
+
+7
+3
+.
+2
+
+%
+5
+7
+1
+
+.
+
+%
+1
+4
+
+.
+
+7
+2
+
+%
+9
+5
+.
+3
+8
+
+3
+2
+2
+
+.
+
+3
+8
+
+.
+
+3
+9
+
+.
+
+3
+5
+1
+
+.
+
+5
+9
+
+.
+
+4
+7
+
+.
+
+%
+8
+1
+0
+7
+
+.
+
+%
+4
+1
+.
+0
+3
+
+%
+3
+1
+
+.
+
+2
+
+%
+5
+4
+
+.
+
+2
+
+%
+3
+5
+
+.
+
+0
+
+1
+3
+4
+
+.
+
+3
+2
+
+.
+
+2
+1
+−
+
+.
+
+3
+3
+
+.
+
+7
+
+1
+0
+−
+
+.
+
+7
+4
+
+.
+
+2
+
+%
+4
+3
+
+.
+
+2
+
+%
+8
+7
+
+.
+
+3
+3
+
+%
+0
+0
+7
+7
+
+.
+
+%
+4
+7
+.
+2
+4
+
+%
+9
+5
+.
+9
+2
+
+%
+0
+1
+.
+1
+
+%
+1
+0
+.
+3
+
+%
+5
+5
+.
+0
+
+9
+2
+.
+2
+
+3
+9
+.
+
+7
+9
+.
+
+0
+7
+.
+1
+
+8
+9
+.
+
+3
+9
+.
+4
+
+1
+3
+.
+2
+
+5
+1
+.
+
+1
+2
+.
+−
+
+6
+1
+.
+7
+
+8
+0
+.
+−
+
+8
+9
+.
+
+5
+9
+.
+
+8
+7
+.
+1
+
+1
+0
+.
+1
+
+4
+1
+7
+.
+
+5
+1
+.
+2
+
+8
+7
+.
+
+%
+3
+2
+.
+6
+5
+
+%
+6
+0
+.
+0
+3
+
+%
+1
+5
+.
+1
+
+%
+4
+5
+.
+1
+
+%
+9
+0
+.
+0
+
+6
+4
+.
+4
+
+4
+0
+.
+
+2
+1
+.
+−
+
+9
+9
+.
+6
+
+3
+0
+.
+−
+
+4
+1
+.
+2
+
+%
+7
+0
+0
+2
+
+.
+
+%
+8
+0
+.
+6
+1
+
+%
+1
+8
+.
+7
+3
+
+%
+9
+3
+.
+3
+2
+
+y
+n
+a
+m
+r
+e
+G
+
+f
+
+o
+s
+e
+t
+a
+t
+s
+w
+e
+N
+
+%
+4
+6
+.
+1
+
+%
+6
+7
+.
+2
+
+-
+i
+d
+n
+
+i
+
+t
+n
+e
+d
+n
+e
+p
+e
+d
+−
+e
+r
+a
+C
+
+%
+6
+8
+.
+7
+1
+
+%
+4
+8
+.
+9
+8
+
+%
+3
+0
+.
+8
+2
+
+%
+8
+7
+.
+9
+8
+
+l
+
+d
+o
+h
+e
+s
+u
+o
+h
+e
+h
+t
+n
+
+i
+
+s
+l
+a
+u
+d
+i
+v
+
+-
+
+m
+o
+c
+(
+
+e
+c
+n
+a
+r
+u
+s
+n
+
+i
+
+h
+t
+l
+a
+e
+H
+
+)
+y
+r
+o
+s
+l
+u
+p
+
+s
+s
+e
+n
+
+l
+l
+i
+
+i
+
+c
+n
+o
+r
+h
+C
+
+l
+
+t
+n
+e
+m
+y
+o
+p
+m
+e
+e
+m
+
+i
+t
+-
+l
+l
+
+u
+F
+
+i
+
+p
+h
+s
+e
+c
+i
+t
+n
+e
+r
+p
+p
+A
+
+/
+n
+o
+i
+t
+a
+c
+u
+d
+E
+
+t
+n
+e
+m
+y
+o
+p
+m
+e
+n
+U
+
+l
+
+e
+m
+o
+c
+n
+
+i
+
+t
+e
+N
+
+)
+
+d
+e
+i
+r
+r
+a
+m
+
+(
+
+s
+u
+t
+a
+t
+s
+
+l
+
+a
+t
+i
+r
+a
+M
+
+e
+c
+n
+a
+t
+i
+r
+e
+h
+n
+
+I
+
+n
+e
+r
+d
+
+l
+i
+
+h
+C
+
+t
+f
+i
+
+G
+
+l
+
+e
+b
+a
+i
+r
+a
+V
+
+)
+
+l
+
+e
+a
+m
+
+(
+
+x
+e
+S
+
+e
+g
+A
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+e
+m
+
+i
+t
+e
+e
+r
+F
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+b
+o
+J
+
+i
+
+g
+n
+k
+a
+t
+
+k
+s
+i
+R
+
+n
+o
+i
+t
+c
+a
+f
+s
+i
+t
+a
+s
+e
+f
+i
+L
+
+d
+o
+o
+M
+
+s
+c
+i
+t
+i
+l
+
+o
+p
+n
+
+i
+
+t
+s
+e
+r
+e
+t
+n
+
+I
+
+i
+
+i
+
+s
+g
+n
+n
+n
+w
+y
+r
+e
+t
+t
+o
+L
+
+Sociodemographic
+
+Psychographic
+
+Health
+
+Geographical
+
+s
+e
+
+l
+i
+f
+
+o
+r
+P
+r
+o
+n
+o
+D
+
+r
+o
+
+f
+
+s
+c
+i
+t
+s
+i
+t
+a
+t
+S
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+.
+
+i
+
+B
+x
+d
+n
+e
+p
+p
+A
+
+.
+
+e
+
+l
+i
+f
+
+o
+r
+p
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+r
+o
+
+f
+
+t
+c
+e
+ f
+f
+e
+t
+n
+a
+c
+i
+f
+i
+n
+g
+i
+s
+=
+d
+o
+B
+
+l
+
+:
+
+e
+t
+o
+N

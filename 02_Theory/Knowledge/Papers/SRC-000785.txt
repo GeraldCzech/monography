@@ -1,0 +1,322 @@
+Extension of Bilbro-McMillan Charge Density
+Wave-Superconductivity coexistence relation to quantum
+régimes: application to superconducting domes around
+quantum critical points
+Manuel Nunez-Regueiro
+
+To cite this version:
+Manuel Nunez-Regueiro. Extension of Bilbro-McMillan Charge Density Wave-Superconductivity coexistence
+relation to quantum régimes: application to superconducting domes around quantum critical points. Journal
+of Magnetism and Magnetic Materials, 2015, 376, pp.25-28. ⟨10.1016/j.jmmm.2014.04.036⟩. ⟨hal-00977931⟩
+
+HAL Id: hal-00977931
+https://hal.science/hal-00977931v1
+Submitted on 23 May 2014
+
+HAL is a multi-disciplinary open access archive
+for the deposit and dissemination of scientific research documents, whether they are published or not.
+The documents may come from teaching and research
+institutions in France or abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant
+des établissements d’enseignement et de recherche
+français ou étrangers, des laboratoires publics ou
+privés.
+
+HAL Authorization
+
+Extension
+
+of
+
+Superconductivity
+
+Bilbro-McMillan
+coexistence
+
+Charge
+
+relation
+
+to
+
+Density
+
+Wave-
+
+quantum
+
+régimes:
+
+application to superconducting domes around quantum critical
+points
+
+Manuel Núñez-Regueiro
+Institut Néel, Université Grenoble Alpes &Centre Nationale de la Recherche
+Scientifique, BP166, cedex 09, 38042 Grenoble, France
+Quantum critical points (QCP) accompanied by superconductivity are ubiquitous in
+condensed matter physics. In general, the transition temperature �! of an ordered
+state, e.g. antiferromagnetic, goes to zero under the influence of an external
+parameter, e.g. pressure. Superconductivity appears before the disappearance of the
+ordered state, but reaches its maximum Tc when �! = 0. Presently, the implications
+of the QCP's on superconductivity are a subject of debate. It is propose here that both
+!
+
+!
+
+transition temperatures satisfy the relation �! + �! = 1, where the tilde indicates
+normalization to the maximum values. Inspired from the basic postulate of SO(N )
+theories of superconductors, it is proposed as an extension from Bilbro-McMillan
+relation.
+
+The study of phase transitions is central to the understanding of the physical
+properties of condensed matter [ 1 ]. Standard phase transitions, at a transition
+temperature �! ≠ 0, can be treated classically, even those between different quantum
+states. Quantum phase transitions, where the transition between two different phases
+takes place at Tc = 0 , are qualitatively different, as their critical fluctuations must be
+treated quantum mechanically [ 2 , 3 ]. Great progress has been made in their
+understanding, e.g. in the case of magnetic quantum phase transitions [4,5,6]. In a
+large number of materials including pnictides, heavy fermions, charge or spin density
+wave materials, the phase transition at Tc = 0 as a function of a certain parameter �
+(pressure, doping, etc.) from an ordered, generally bad conductor, state to a
+conducting disordered phase, is surrounded in the � − � plane by a superconducting
+region (see Fig. 1). The central point is that there is a region where the ordered and
+the superconducting state (SC) coexist. For charge density waves (CDW) this
+coexistence has been studied by several groups [7,8,9]. In particular, Bilbro and
+McMillan (BM)[8] studied the interaction of CDW and SC in A15 materials within
+mean field. Here, both states compete for developing their respective gaps in the same
+Fermi surface. They obtained the following relation between Tc , the superconducting
+transition temperature, and �! , the CDW transition temperature,
+�! !!!! � �! !! � = �!!"#
+
+(1)
+
+where n0 is the fraction of the Fermi surface under the CDW gap and TcMax the
+superconducting transition with no CDW.
+Different works have shown that under pressure there are clearly two regimes
+for the evolution of T0 on its way to the QCP. First a classical BCS at low pressures
+one and then a quantum fluctuations (QF) one near the QCP. For example, both the
+
+one dimensional transition metal trichalcogenide NbSe3 , a well-studied charge
+density wave (CDW) compound [10,11,12] and Cr metal [13] display, at low
+pressures, an decrease of T0 following an exponential with pressure BCS tuned
+variation, consequence of the dependence of �! with the coupling parameter � , i.e.
+�! ~� !!/! . A quantum region appears below a crossover value of T0 where QF take
+control through a power law behavior with an exponent ψ = ½ (See the behavior of
+��!.!! �! �! on Fig. 1).
+It is clear that Eq. (1) can only be applied in the BCS régime and is that not valid in
+the QF region. However, at least for CDW and SDW materials, a direct relation
+between T0 and Tc describing that both states are the result of the same Fermi surface
+and electron-phonon interaction is expected and needed. In order to have a hint
+towards it, an analysis of how the BM relation works experimentally is clarifying.
+In A-15 compounds, n0 ~ some 10%'s and changes only a few percents in the
+measured pressure range [8]. Considering then n0 approximately constant in the
+pressure range, expression (1) becomes,
+1 − �! ���! � + �! ���! (�) ≈ ���! !"#
+
+(2).
+
+We see from Fig. 2 where the variation with pressure of both transition temperatures
+for the two most studied A-15 compounds, V3Si and Nb3Sn is plotted as logarithms,
+that expression (2) is verified, n0 being constant within experimental error, and 0.26
+for V3Si and 0.14 for Nb3Sn ; the obtained Tc
+
+Max
+
+are 17.7K and 20.1K for V3Si and
+
+Nb3Sn , respectively. Experimentally we ���! � = ���! 0 + �! � have , �! being a
+constant and x either c or 0. The logarithmic variation with pressure of both transition
+temperatures is the result of the exponentially tuned BCS expression. In other words,
+at all the shown pressures, both transitions without any doubt obey BCS statistics.
+
+However, as described above, the CDW/SDW transition deviates from the
+exponentially tuned BCS behavior towards a power law dependence of the type
+�! ∝
+
+!! !! !/!
+!!
+
+near to the QCP. It is apparent that the transition temperature does
+
+not more follow BCS statistics, but another possibly due to the QF near the QCP. QF
+accelerate the rhythm of decrease of �! , destabilizing the CDW/SDW and, at the same
+time, inducing a faster transfer of carriers from the CDW/SDW gap to the SC gap.
+Equation (1) is thus no longer valid. Phenomenologically, expression (1) adds the
+variations of the Tx ' s using the functional that is linear with pressure, which in the
+BCS régime is the logarithm of the transition temperature. The same approach may be
+taken for the power law régime. Thus, instead of the logarithms, as now
+�! �! (0) ! = 1 − �/�! , the squares of the transition temperatures should be added
+and equated to a constant. It is thus expected that the equivalent of BM for the power
+law region would be a summation of squares of the type
+��! ! + ��! ! = �
+
+(3)
+
+To advance further in obtaining a BM formula for the quantum régime, it is useful to
+take into account the SO(5) formulation. In the paper [14] on SO(5), it was argued
+that the simplest way to construct an unified theory of antiferromagnetism and
+superconductivity for cuprates was to define a five dimensional spinor composed by
+the three components of the magnetization and the real and imaginary part of the dwave superconducting gap. In this way, it would be possible to recover all the
+relevant physics of the problem of high temperatures superconducting cuprates[15].
+More complicated problems would require higher dimensions spinors to obtain all the
+physics, i.e. the complete phase diagram with all the possible ground states, e.g.
+SO(8) for a two chains model of correlated fermions[16]. However, experimentalists
+can be less ambitious, and just try to describe phenomenologically with the most
+
+compact expression a restricted region of the phase diagram, e.g. the one near to QCP.
+Basically, there are two coexisting phases. The ordered phase should rigorously have
+several components. However, systems with presumed different number of
+components, show the same behavior near the QCP. SO(5) and SO(4) has been
+successfully used to explain properties of the Co doped BaFe2 As2 system[17], and
+the Beechgard salt[18] (TMTTF)2 PF6 , respectively. Thus, just one component for the
+ordered phase may be enough for this portion of the phase diagram. A similar
+reasoning can be used for the superconducting phase, that may also be accounted by
+one component. The actual formula is suggested by expression (3). It is (Fig. 3a)
+!! (!)!
+!!!!"#
+
+! (!)!
+
++ !!
+!!
+
+(4)
+
+=1
+
+!"#
+
+The procedure to apply this formula is as following : the �! dependence with
+pressure, concentration, etc. is fitted by a �! � = �!!"#
+
+!
+
+!
+
+!
+
+!!
+
+the dependence of �! � = �!!"# 1 − ! !!
+
+!!!! !
+!!
+
+(5) law, from which
+
+!
+
+(6) can be calculated. The
+
+normalization to �! �!! is a way to apply the formula only to the actual region of
+coexistence of the ordered and superconducting phase (Fig. 3b). Thus, the dependence
+of �! � determines that of �! � . The satisfactory application of the formula is also
+shown for the examples on Fig. 1.
+For � > �! the dependence of �! is naturally extended to negative values (low-right
+quadrant of Fig. 3a), and its module is used in the determination of Tc . In the case of
+magnetic QCP's, this extension can be associated to the crossover or coherence line,
+below which the system recovers normal Fermi liquid properties. It follows the power
+law �!"! ~
+
+� − �!
+
+!"
+
+�!
+
+[6], where � is the correlation length exponent and z the
+
+dynamical exponent. As for low dimensions �� = � is often valid, i.e. both �! ≡ �!
+and Tcoh should follow the same power law. On the other hand, for CDW-s, a negative
+�! can be traced to the soft phonon that exists even with values of � that hinder the
+occurrence of the lattice distortion[19,20]. In other words, the interaction, responsible
+for the ordering, does not obviously disappears when �! = 0, and the extrapolation to
+negatives values of �! is an approximation to its magnitude.
+In fact, already a study of the antiferromagnetic QCP, considering that
+superconductivity is due to spin fluctuations caused by its criticality, arrives at a
+formula of similar nature by derivation of the lines of constant coherence lengths [21]
+�! ! +
+
+!!!! !
+!!
+
+= �! !"# ! (7). In the case of a TN ( Tcoh ) with a critical exponent
+
+� = 1 (�� = 1) , expressions (4) and (7) are almost identical. It is clear that the type
+of analysis done on Ref. 21 can be a way for the understanding of superconducting
+domes around QCP's of different nature.
+In conclusion, a formula equivalent to the Bilbro-McMillan expression for
+coexistence between a charge density wave and superconductivity but applicable to
+the quantum fluctuations controlled regions of the phase diagram is proposed to
+describe the superconducting domes that appear around quantum critical points. It is
+shown that it describes phenomenologically the observed behavior for several
+systems.
+
+Figure 1
+Examples of materials showing a QCP surrounded by a superconducting dome . The
+compound (��!.!! �! �! ) [22] follows at low pressures an exponential with pressure
+BCS tuned variation up to ~5GPa (blue dashed right line). Above this pressure, the
+compound crossovers to a quantum fluctuations regime, following the power law of
+the type �! ∝
+
+!! !! !/!
+!!
+
+(blue solid line). The other three compounds (�����)! ��!
+
+[23], ��! ����! [24] and ��(��!!! ��! )! ��! [25] show power laws at all pressures.
+Also shown (red circles) is the superconducting dome. The red line is obtained using
+formula (4), see text and Fig. 3.
+
+Figure 2
+Left (Right) Panel: Evolution of the lnT0, inverted triangles, and lnTc ,triangles, with
+pressure for V3Si ; data from Ref. 26 ( Nb3Sn ; data from Ref. 27 ). The straight
+dashed line verifies Eq. (2) with n0 =0.26 and TcMax =17.7K ( n0 =0.14 and TcMax
+=20.1K).
+
+Figure 3
+a) Proposed vector rotating in a (Δ! ; Δ!" ) plane with an angle determined by �.
+b) Example of application of formula [4], [5] and [6] on CePd2 Si2 . The formula for
+TC automatically uses the fitted value of TN only where there is coexistence between
+the antiferromagnetic and the superconducting phases (solid curves), although the
+power law for TN is fitted to all the reported pressure range (dashed curve). For
+� > �! , the expression for TN corresponds, in fact, to that of the coherence line Tcoh
+as their power laws often have the same exponents in low dimensions.
+
+[1]P.M Chaikin and T.C. Lubensky, Principles of condensed matter physics,
+(Cambridge University Press, Cambridge UK) (1995)
+[2]S.L. Sondhi, S.M. Girvin, J.P. Carini and D. Shahar, Rev. Mod. Phys.
+69(1997)315-333
+[3]S.M. Stishov, Phys. Uspekhi 47(2004)789-795
+[4] H. von Löhneysen , A. Rosch, M. Vojta, P. Wölfle M P, Rev. Mod. Phys. 79
+(2007) 1015-1075
+[5]Sachdev S, Quantum Phase Transitions, Cambridge University Press,
+Cambridge(1999)
+[6] Continentino M C, Quantum scaling in many-body physics, World Scientific,
+Singapore (2001)
+[7] K. Levin, D.L. Mills and S.L. Cunningham, Phys. Rev. B10(1974)3821-31
+[8] G. Bilbro and W.L. McMillan, Phys. Rev. B14(1976)1887-92
+[9] C.A. Balseiro and L.M. Falicov, Phys. Rev. B20 (1979) 4457-4464
+[10] M Ido,Y. Okayama, Y. Ijiri and Y. Okajima, Phys. Soc. Jpn. 59(1990)1341-1347
+[11] M. Núñez-Regueiro, J-M. Mignot and D. Castello, Europhys. Lett. 18 (1992) 5357
+[12] S. Yasuzuka, K. Murata, T. Fujimoto, M. Shimotori and K. Yamaya, J. Phys.
+Soc. Jpn. 74 (2005) 1782-1786
+[13] R. Jaramillo et al. Nature 459(2009)405-409
+[14] S.C. Zhang, Science 275 (1997)1089-1096
+[15] E. Demler, W. Hanke and S.C. Zhang, Rev. Mod. Phys. 76(2004)909-974
+[16] H.J. Schulz H J (1998), ArXiv:cond-mat/98088167.
+[17] R. Fernandes and J. Schmalian, Phys. Rev. B 93(2010) 014521
+[18] D. Podolsky, E. Altman, T. Rostunov, and E. Demler E, Phys. Rev. Lett.
+93(2004)246402
+[19] M. Núñez-Regueiro, Sol. State. Comm. 60, (1986) 797-800
+[20] M. Núñez-Regueiro, G. Ortiz, M.D. Núñez-Regueiro , B. Alascio, Physica C153155(1988)245-246
+[21] M. Continentino, J. Phys. Soc. Japan 78(2009) 104701
+[22] T. Yamauchi and Y. Ueda, Phys. Rev. B77(2008)104529
+[23] H. Wilhelm et al., Eur. Phys. J. B21 (2001)175-183
+[24] E. Morosan E et al., Nat. Phys. 2 (2006)544-547
+[25] S. Nandi et al., Phys. Rev. Lett. 104(2010)057006
+[26] C.W. Chu and V. Diatschenko, Phys. Rev. Lett. 41(1978)572-4
+[27] C.W. Chu, Phys. Rev. Lett. 33(1974)1283-5
+
+

@@ -1,0 +1,3316 @@
+Chapter 18
+
+PHILANTHROPY
+JAMES ANDREONI*
+Department of Economics, University of California, San Diego, CA 92093, USA
+e-mail: andreoni@ucsd.edu
+
+Contents
+Abstract
+Keywords
+1. Introduction
+2. General facts on philanthropy
+2.1. Giving in the USA
+2.2. International statistics
+
+3. Theoretical foundation
+3.1. A model of private giving to public goods
+3.2. Neutrality: crowding out
+3.3. Neutrality: reductio ad absurdum
+3.4. Warm-glow giving
+3.5. The dominance of warm-glow
+
+4. Should warm-glow count in social welfare?
+5. Optimal tax treatment of charitable giving
+6. Gifts of cash: price and income elasticities
+6.1. Econometric issues in measuring the effects of price and income
+Identification problems
+Endogenous marginal tax rates
+Itemizers and non-itemizers
+After-tax income
+Appreciated assets
+Kinked budgets
+Timing of gifts
+Household rather than individual decisions
+Interdependence of preferences
+The interactions with fund-raising
+
+1202
+1203
+1204
+1205
+1205
+1209
+1212
+1212
+1215
+1217
+1220
+1223
+1224
+1227
+1230
+1231
+1231
+1232
+1232
+1233
+1233
+1233
+1233
+1234
+1234
+1235
+
+* I would like to thank the National Science Foundation for financial support, and Molly Dahl and Joseph
+
+Guse for helpful research assistance.
+Handbook of the Economics of Giving, Altruism and Reciprocity, Volume 2
+Edited by Serge-Christophe Kolm and Jean Mercier Ythier
+Copyright © 2006 Elsevier B.V. All rights reserved
+DOI: 10.1016/S1574-0714(06)02018-5
+
+1202
+
+J. Andreoni
+6.2. A brief history of empirical studies on charitable giving
+6.3. Randolph’s 1995 JPE paper
+6.4. Auten, Sieg and Clotfelter’s 2002 AER paper
+
+7. Gifts by the very wealthy
+7.1. Tax consequences of gifts by the wealthy
+Marginal income tax rates
+Charitable deduction caps
+Overall limitation on itemized deductions
+Alternative minimum tax
+The estate tax
+Foundations and trusts
+7.2. Differences in giving behavior
+7.3. Tax elasticity of gifts in life and at death
+
+8. Giving time
+8.1. Theoretical framework for volunteering
+8.2. Empirical studies on gifts of time and money
+
+9. Fund-raising: charities as strategic players
+9.1. Capital campaigns
+Model 1: Full information on quality, fixed costs of capitalization
+Model 2: Unknown quality that can be learned in advance
+Model 3: Unknown quality that can only be learned by experience
+9.2. Continuing campaigns
+Model 4: The power of the ask: latent demands for giving
+Model 5: Donor recognition: signals of wealth, altruism or prestige
+Model 6: Charity raffles: endogenous subsidies
+9.3. What remains to be done
+
+10. Empirical analyses of fund-raising, government grants and crowding out
+10.1. Background studies
+10.2. Endogeneity bias in grants
+10.3. What’s crowded out, giving or fund-raising?
+
+11. Conclusion: the future of giving research
+References
+
+1235
+1236
+1238
+1241
+1241
+1242
+1242
+1243
+1243
+1243
+1244
+1245
+1247
+1248
+1249
+1250
+1252
+1253
+1254
+1255
+1256
+1256
+1257
+1257
+1258
+1259
+1260
+1260
+1261
+1262
+1264
+1265
+
+Abstract
+Philanthropy is one of the enduring areas of economic research. Why would people
+work hard only to give their earnings away? The paper explores the theoretical foundations, as well as the empirical and policy research on philanthropy. This paper reviews
+over 25 years worth of economic research, and points to the many challenging new
+questions that remain.
+
+Ch. 18:
+
+Philanthropy
+
+Keywords
+philanthropy, charitable giving, altruism, public goods, voluntarism, bequest,
+fund-raising
+JEL classification: D4, H41
+
+1203
+
+1204
+
+J. Andreoni
+
+1. Introduction
+While the first academic articles on philanthropy appeared in the 1960s, there has been
+an explosion of interest in the economics of philanthropy and charitable giving since
+the 1980s. Hundreds of articles have been written to explore and extend various theoretical findings, and hundreds more have pursued empirical questions. This chapter
+will, by necessity, address only a small subset of these papers, focussing only on the
+most central themes. I will do my best to acknowledge the original sources for the findings discussed, and through comments and footnotes direct the reader to the broader
+literature. Even then, I am afraid, this will be something of a stingy review of a rather
+generous literature.1
+Philanthropy is one of the greatest puzzles for economics. A science based on precepts of self-interested behavior does not easily accommodate behavior that is so clearly
+unselfish. How can unselfish behavior be reconciled with self-interest?
+One explanation is that charitable giving is not unselfish at all. One who gives to
+medical research may hope one day to benefit from its findings. A person who gives
+to public broadcasting may expect to enjoy improved programming. A benefactor of
+the opera may seek to hire more talented performers. A second justification, sometimes
+called “enlightened self-interest,” is a step removed from pure selfishness. A comfortably employed person may give to poverty relief in order to keep the institution in place,
+banking on the rare event that he may himself be impoverished some day. But these
+clearly cannot be full explanations. What about the person who gives to famine relief
+on another continent? Or the environmentalist who contributes to saving a rare species
+that she never expects to see? And what about charitable bequests—such gifts have no
+chance of affecting consumption of a person while alive. These examples raise a third
+explanation: Altruism toward others or toward future generations may be a motivator
+in giving, and gifts are made to maximize a utility function that includes the benefits
+to others or to society in general. While these three explanations are distinct, an economic theorist would model them all the same. Since each implies a concern about the
+total supply of the charitable good or service, albeit for different reasons, each could be
+modelled identically as private gifts to a pure public good.2
+Notice that all three of these explanations are best suited to situations in which one’s
+own contribution has a measurable impact on the charitable good. When the good is
+large in scale and when donors are many, it becomes difficult to accept that people can
+actually experience the impact of their gifts. As a result, free riding may predominate.
+
+1 Pun intended.
+2 Hochman and Rodgers (1969) are credited with first noting that altruistic feelings can translate the object
+of those feelings into a public good, but see also Kolm (1969). Arrow (1972) provided a thoughtful discussion
+of the main issues for analysis, as did Boulding (1973). Becker (1974) formalized the discussion and began
+the modern literature on altruistic giving to charity. See the chapters in this volume by Schokkaert and by
+Kolm for other discussion of transfer motives.
+
+Ch. 18:
+
+Philanthropy
+
+1205
+
+In these cases, a fourth explanation for giving may be more attractive: People may get
+utility—a “warm-glow”—from the act of giving.
+A fifth possibility is that our economic discipline of self-interested behavior is simply
+not well suited to explain philanthropy. Humans are, after all, moral beings. Perhaps our
+behavior is constrained by moral codes of conduct that make our choices unexplainable
+by neo-classical models of well-behaved preferences and quasi-concave utility functions.3 While this argument undoubtedly has merit, it represents the last refuge for the
+economic theorist. Since the models we discuss below are capable of characterizing the
+data on giving, we hold off on considering non-utility-based models of giving.
+Regardless of the reasons for its existence, there is clearly a strong public policy interest in philanthropy. First, private philanthropy can substitute for public sector provision
+of goods and services. With individuals to provide poverty relief or support for the arts,
+there is less need for the government to do so. As such, it becomes essential to understand how private charity is provided and how it interacts with public provision. Second,
+governments have historically treated charitable donations with tax-favored policies,
+such as the charitable deduction in the US. What are the effects of these policies on
+giving and on tax collections? Third, there are obviously enormous efficiency concerns.
+How is this set of public and private institutions co-existing to provide public charitable
+services, and is there a more efficient configuration of these institutions? What is the
+best policy for providing public goods?
+This chapter will address these and other aspects of charitable giving. The focus will
+be on making readers familiar with the basic tools of analysis, and presenting them
+with most current state of research on these topics. Perhaps most importantly, I will
+try to uncover important questions, topics and themes that have not been addressed or
+understood, and point readers to potentially fruitful new areas of inquiry. Despite being
+an extensively studied and important topic, there is still a great deal to be learned about
+altruism, giving, charity and how government policy affects it all.
+
+2. General facts on philanthropy
+Here we will review the general facts about charitable giving. Most of what we know
+about philanthropy is based on data from the US. For this reason, much of our discussion
+will focus on American data. Later in this section we will look at evidence and data from
+around the world.
+2.1. Giving in the USA
+There are two main sources of data about individual contributions to charity. The
+first is household surveys. The Independent Sector, for instance, surveys about 2500
+3 Sugden (1982, 1984) suggests this interpretation. See also Sen (1977).
+
+1206
+
+J. Andreoni
+
+households by telephone every two years.4 Surveys are valuable since they can obtain
+information on age, education levels, and other personal characteristics of respondents.
+A disadvantage is that individuals must rely on imprecise memories when answering
+questions, or may be reluctant to give accurate information about their incomes or donations.
+A second important source is samples of tax returns. Since individuals who itemize
+their tax returns in the US can take a charitable deduction, we can learn about donations
+from this sector of the economy. The advantage to tax returns is that the information
+on them is precise, as long as people don’t cheat on their taxes.5 The disadvantage is
+that tax returns contain very little information about the personal characteristics of the
+filers that would be helpful in explaining giving, such as education levels or religious
+affiliation, nor can we learn about the giving habits of those who don’t itemize their tax
+returns. Since no data source is perfect, we must conduct many studies on varied data
+sources in order to reach a consensus on charitable behavior.
+Charitable donations can come from individuals, charitable foundations, corporations, or through bequests. While all are significant, by far the dominant source of giving
+is from individuals. Table 1 shows that in 2002 individuals gave over 183 billion dollars
+to charity, or 76% of the total dollars donated. The second biggest source, foundations,
+was responsible for 11.2% of all donations (also see Greene and McClelland, 2001).
+The trends in giving over the last 30 years can be seen in Figure 1. Total giving has
+been on a steady rise, with temporary jumps coming in 1986, along with a pronounced
+rise starting in 1996 through 2001. When measured as a percent of income, however,
+giving seems much more stable. Since 1968 giving has varied from 1.5% to 2.1% of
+income. In the most recent years, however, giving has risen from 1.5% of income in
+1995 to 2.1% in 2001. This rise coincided with a run up on stock-market wealth, which
+is the likely explanation for the latest increase in giving. Notice, however, that this latest rise in giving counteracts a longer trend of slowly falling generosity. The peak of
+giving in 2001 matches the former peak set back in 1963. Table 2 presents details on
+the characteristics of individual givers. The data, from the Independent Sector in 1995,
+show that 68.5% of all households gave to charity and that the average gift among those
+giving was $1081. Table 2 shows that the more income a household has, the more likely
+the household is to give to charity, and the more it gives when it does donate. This
+table also reveals an interesting pattern typically found in charitable statistics. Those
+with the lowest incomes give over 4% of income to charity. As incomes grow to about
+$50 000, gifts fall to 1.3% of income, but then rise again to 3.0% for the highest incomes. What could cause this “u-shaped” giving pattern? One explanation is that those
+4 See their web-site for details about the survey and information about purchasing the data:
+
+www.independentsector.org/
+5 Slemrod (1989) explored this potential problem and found that, while there is some evidence of cheating
+by overstating charitable deductions, the effects are small and don’t appreciably affect the analysis. Joulfaian
+and Rider (2004), however, found that tax evasion by misreporting income can bias coefficients, as evasion
+and marginal tax rates tend to be correlated.
+
+Ch. 18:
+
+Philanthropy
+
+1207
+Table 1
+Sources of private philanthropy, 2002
+Source of gifts
+
+Billions
+of dollars
+
+Percent
+of total
+
+Individuals
+Foundations
+Bequests
+Corporations
+Total for all sources
+
+183.7
+26.9
+18.1
+12.2
+240.9
+
+76.3
+11.2
+7.5
+5.1
+100
+
+Source: Giving USA, 2003.
+
+Figure 1. Trends in individual giving. Source: Giving USA, 2003.
+
+with low incomes may be young people who know their wages will be rising, hence
+they feel they can afford more giving now. It may also be due to the composition of
+the types of charities people give to, since lower income people tend to give significantly more to religious causes. Hence, it will be important to account for all the factors
+that may explain giving before offering explanations for the averages seen in these tables.
+Table 2 also illustrates that giving varies significantly with the age and educational
+attainment of the givers. As people get older they are typically more likely to give
+to charity and to give a greater fraction of their incomes. Likewise, those with more
+
+1208
+
+J. Andreoni
+Table 2
+Private philanthropy by income, age, and education of the giver, 1995
+Percent of
+households
+who give
+
+Average amount
+given by those
+who give
+
+Percent of
+household
+income
+
+All contributing households
+
+68.5
+
+1081
+
+2.2
+
+Household income
+under $10 000
+10 000–19 000
+20 000–29 999
+30 000–39 999
+40 000–49 999
+50 000–59 999
+60 000–74 999
+75 000–99 999
+100 000 or above
+
+47.3
+51.1
+64.9
+71.8
+75.3
+85.5
+78.5
+79.7
+88.6
+
+324
+439
+594
+755
+573
+1040
+1360
+1688
+3558
+
+4.8
+2.9
+2.3
+2.2
+1.3
+1.9
+2.0
+2.0
+3.0
+
+Age of giver
+18–24 years
+25–34 years
+35–44 years
+45–54 years
+55–64 years
+65–74 years
+75 years and above
+
+57.1
+66.9
+68.5
+78.5
+71.7
+73.0
+58.6
+
+266
+793
+1398
+979
+2015
+1023
+902
+
+0.6
+1.7
+2.6
+1.8
+3.6
+2.9
+3.1
+
+Highest education of giver
+Not a high school graduate
+High school graduate
+Some college
+College graduate or more
+
+46.6
+67.2
+74.1
+82.3
+
+318
+800
+1037
+1830
+
+1.2
+1.9
+2.1
+2.9
+
+Source: Author’s calculations, data from Independent Sector, 1995.
+
+education give more often, give more dollars, and generally give a higher fraction of
+income. Note that the table does not show a smooth acceleration of giving with age.
+Again, age, education, and income all vary with each grouping in the table and will
+have to be considered jointly.
+In 1997 over 45 000 charitable, religious and other non-profit organizations filed with
+the US government (see Bilodeau and Steinberg in this volume). Table 3 attempts to
+categorize these charities by the types of services they provide. This reveals that, among
+all types, households are most likely to give to religious organizations and to give them
+the most money—48% of all households give to religion and 59% of all charitable
+dollars go to religion.
+
+Ch. 18:
+
+Philanthropy
+
+1209
+Table 3
+Private philanthropy by type of charitable organization, 1995
+
+Type of charity
+
+Percent of
+households
+who give
+
+Average amount
+given by those
+who give
+
+Percent of total
+household
+contributions
+
+Arts, culture and humanities
+Education
+Environment
+Health
+Human Services
+International
+Private and
+community foundations
+Public or societal benefit
+Recreation
+Religious
+Youth development
+Other
+
+9.4
+20.3
+11.5
+27.3
+25.1
+3.1
+6.1
+
+221
+335
+110
+218
+285
+293
+196
+
+2.6
+9.0
+1.6
+8.1
+9.5
+1.1
+1.4
+
+10.3
+7.0
+48.0
+20.9
+2.1
+
+127
+161
+946
+140
+160
+
+1.7
+1.4
+59.4
+3.8
+0.3
+
+Source: Author’s calculations, data from Independent Sector, Giving and Volunteering, 1995.
+
+2.2. International statistics
+A difficult aspect of comparing data from across countries is the varied sources of
+information and the inconsistent definitions of charitable giving and non-profit organizations. Using data from Johns Hopkins Comparative Nonprofit Sector Project,6 we
+can nonetheless attempt to gain some perspective on the differing size of the charitable
+sectors of various economies.
+Figure 2 shows reports of cash revenues of non-profits from philanthropy. The experience varies widely around the globe. The US, however, stands out as being the most
+reliant on private donations, at 21 percent of all revenues. With the exception of Spain,
+European countries are much lower, varying from 3 to 11 percent. The South American
+countries of Argentina and Brazil rely heavily on philanthropy (about 18 percent), while
+Mexico does not (6 percent).
+Figure 3 provides a different perspective by looking at the total expenditures of the
+non-profit sector. Here the US falls closer to the middle of the pack, at 7.5 percent of
+GDP. The Netherlands and Israel have the largest non-profit sectors, while Mexico and
+Brazil have the smallest.
+
+6 See their web-site, http://www.jhu.edu/~cnp/.
+
+1210
+J. Andreoni
+
+Figure 2. Percentage of cash revenues of the nonprofit sector received from philanthropy: 1995.
+
+Ch. 18:
+Philanthropy
+
+Figure 3. Nonprofit sector expenditures as a percentage of GDP: 1995.
+
+1211
+
+1212
+
+J. Andreoni
+
+3. Theoretical foundation
+This section outlines the basic theoretical foundations for philanthropy. Hochman and
+Rodgers (1969) and Kolm (1969) were the first to recognize that charitable giving, motivated out of altruism, creates a public good out of charity. Even if, for instance, the
+recipients of the charitable services are individuals and are given private goods, such
+as income transfers, day care, or housing, the fact that others feel altruistically toward
+these individuals means that the private consumption of these charity recipients becomes
+a public good.
+Similar arguments hold for other charities that provide private goods. Education dollars benefit the students and faculty of the institution, but because the donors also take
+pride in the quality of the institution, the donations act as public goods. Gifts to health
+care will benefit the patients of hospitals, and medical research will help those with particular maladies, but the fact that givers value these outcomes in general again makes
+them into public goods. Similarly with the arts. The patrons of the museum or opera
+will get the direct benefits of any gifts, but the fact that the giver values these benefits
+received by others makes the donations public goods to the donors.
+We begin our theoretical analysis, therefore, with a discussion of privately provided
+public goods.
+3.1. A model of private giving to public goods
+Let’s start with the simplest model without government or foundations, in which only
+individuals are providing the good through voluntary donations.7 Assume that there
+are i = 1, . . . , n individuals in the economy. Each individual i consumes a composite
+private good xi and
+a public good G. Let an individual’s donation to the public good be
+gi and define G = ni=1 gi . Since G is a pure public good, we assume preferences are
+ui (xi , G). For simplicity, assume the public good can be produced from the private good
+with a simple linear technology, and that both goods are measured in the same units.8
+Finally, assume each person is endowed with money income mi . Then each person faces
+the optimization problem
+max u(xi , G)
+xi ,gi
+
+(3.1)
+
+7 There are many antecedents to this model, but Becker (1974) deserves the primary credit for this formulation of the problem. The most thorough treatment of this model, however, is given in the extremely important
+work of Bergstrom et al. (1986). Their paper is the basis for this subsection.
+8 We could, alternatively, assume a concave technology that converts x to a public good G . For instance,
+G = F (G), F  > 0, F  < 0. However, if we embed this in a quasi-concave utility function, u = v(xi , G ) =
+v(xi , F (G)) = u(xi , G), this utility function can absorb the technological concavity. Hence, the assumption
+of a linear technology is consistent with an assumption of a public good provided with increasing marginal
+cost and a quasi-concave utility. However, if the function F (G) exhibits a range of increasing returns, special
+care will be needed. See Andreoni (1998) and section 9.1 below.
+
+Ch. 18:
+
+Philanthropy
+
+1213
+
+s.t. xi + gi = mi
+n
+
+G=
+gj
+j =1
+
+gi ≥ 0
+
+We solve this model by assuming a Nash equilibrium. That is, we assume each
+ person
+i solves (3.1) taking the contributions of the others as given.9 Let G−i = j =i gj =
+G − gi equal the total contributions of all individuals except person i. Then under the
+Nash assumption, each person i treats G−i as independent of gi when solving (3.1).
+Notice that this implies that each individual is behaving as though they are “topping up”
+the charitable good from G−i to their own most desired level G. To see this, add G−i
+to both sides of the budget constraint in (3.1), and to the third constraint. Then we can
+rewrite the optimization problem with each individual choosing G rather than gi :
+max u(xi , G)
+xi ,G
+
+(3.2)
+
+s.t. xi + G = mi + G−i
+G ≥ G−i
+This formulation highlights an important implication of public goods models, first
+noted by Becker (1974), that each individual acts as though their “social income” were
+mi + G−i . In other words, mi and G−i have the same marginal effect on an individual’s
+optimal G.
+To write our solution, first solve (3.2) by ignoring the inequality constraint, G ≥ G−i .
+In this case, find a solution to (3.2) from setting the marginal rate of substitution equal
+to 1, that is (∂ui /∂G)/(∂ui /∂xi ) = 1. Solving this we find individual supply equations
+G = fi (mi + G−i ) or, equivalently, gi = fi (mi + G−i ) − G−i . However, since we
+assume that people can only give positive amounts to the public good, we must write
+the individual’s best reply function as
+gi = max{fi (mi + G−i ) − G−i , 0}
+
+(3.3)
+
+Finally, we assume that the public good is a normal good and the private good is
+strictly normal for all individuals. That is, there exists a θ such that 0 < fi ≤ θ < 1 for
+all i in the set of givers.10 This assumption is sufficient to guarantee that there exists a
+unique Nash equilibrium.
+D EFINITION 3.1. A Nash equilibrium is a partition of the set of individuals into a set
+of givers S and of non-givers S  , such that for all i ∈ S, gi = fi (mi + G−i ) − G−i ≥ 0,
+and for all j ∈ S  , gj = 0 and fj (mj + G−j ) − G−j < 0.
+9 As before, the pun is entirely intentional.
+10 The parameter θ is needed to show that as n goes to infinity there is an equilibrium level of the public
+
+good. Without this, there may be no bound to G in equilibrium.
+
+1214
+
+J. Andreoni
+
+Figure 4. Nash equilibrium in the private provision of public goods.
+
+P ROPOSITION 3.2. A Nash equilibrium exists and is unique.
+P ROOF. (a) Existence. Define the set B = {(g1 , g2 , . . . , gn ): 0 ≤ gi ≤ mi }. Define
+F = (f1 , f2 , . . . , fn ): (g1 , g2 , . . . , gn ) → (g1 , g2 , . . . , gn ) as a mapping from the set
+B into itself. Since F is continuous, we apply Brouwer’s fixed point theorem to show
+an equilibrium exists. [Bergstrom et al. (1986)].
+(b) Uniqueness: By normal goods, F is a contraction mapping. Hence, the equilibrium is unique. (Fraser, 1992, and Cornes et al., 1999).
+
+The decision problem and Nash equilibrium can be illustrated in Figure 4. The “endowment point” can be seen where consumption xi = mi and the public good G = G−i .
+As the individual decides to give, xi can be traded for more G along the 45-degree line.
+In equilibrium, all individuals consume the same G but, assuming different preferences
+and incomes, different xi .11
+This is basically the classic model of Samuelson (1954) applied to voluntary giving. Along with this is the other classic finding that private giving will not be
+Pareto efficient. According to the Samuelson conditions, G reaches the efficient level
+when
+rates of substitution equal the marginal cost, that is
+n the sum of the marginal
+n
+(∂u
+/∂G)/(∂u
+/∂x
+)
+=
+i
+i
+i
+i=1
+n i=1 MRSi = 1. However, we know that each giver
+is setting MRSi = 1, hence i=1 MRSi is in excess of 1 whenever at least one person is
+giving (and G is a good for all others), implying inefficiently low G. This inefficiency
+
+11 Note, however, that if all individuals have the same preferences, then all givers must also have the same
+
+consumption in equilibrium, even if they have different incomes. This is easy to show: In equilibrium all have
+the same G. They also are all optimizing so that the MRS(xi , G) = 1. But if MRS(xi , G) = MRS(xj , G)
+then xi = xj .
+
+Ch. 18:
+
+Philanthropy
+
+1215
+
+can justify the involvement of the government in providing public goods. Either by direct grants or subsidies to private giving, government involvement was thought to be
+an efficiency-enhancing supplement to private charitable markets. This suggests a partnership between government and private donors. However, upon closer examination,
+natural extensions of this model call into question the assumption that the government
+can supplement or encourage private donations. We discuss this next.
+3.2. Neutrality: crowding out
+In 1984 Russell Roberts (Roberts, 1984) made a bold assertion in the Journal of Political
+Economy: The great expansion of government services for the poor since the Great
+Depression was accompanied by an equal decline in charitable giving for the poor, with
+the result that the government dollars had no net effect on alleviating poverty. The same
+was true, he claimed, for all public–private partnerships in providing public goods. His
+empirical evidence was all impressionistic, and his main basis for his assertion was
+theoretical.
+Roberts’ claims were built upon a model of Warr (1982). Warr showed that any
+“small” lump sum tax on donors that is contributed to the public good will completely
+crowd out private donations. The substitution will be dollar-for-dollar. In fact, given the
+set up in (3.2), this effect is trivial to show.
+Begin with the case of no government intervention. Let (g1∗ , g2∗ , . . . , gn∗ ) be the vector
+of equilibrium private contributions to the public good. Now introduce taxation. Let ti
+be a lump sum tax on person i, with the proceeds donated to the public good. The
+individual’s budget constraint is then xi + gi + ti = mi . Now each individual’s donation
+will be the sum of the voluntary donation gi and the
+ involuntary donation
+ ti . Call this
+total donation yi = gi + ti . Likewise, define Y = ni=1 yi , and Y−i = j =i yj . Then
+it is easy to see that the optimization problem (3.2) can be rewritten as
+max u(xi , Y )
+xi ,Y
+
+(3.4)
+
+s.t. xi + Y = mi + Y−i
+Y ≥ Y−i + ti
+Notice that this optimization problem (3.4) is identical to (3.2), with two exceptions.
+First, G and G−i have been replaced by Y and Y−i . However, this is only a change in
+notation and not a real change in the optimization problem. Hence, as long as the solution to (3.2) without taxation is feasible in (3.4) with taxation, then it too should be
+an equilibrium. This is where the second difference comes in: The inequality constraint
+in (3.4) now includes a ti , which guarantees that gi ≥ 0. When will the solution without
+taxation be feasible with taxation? Whenever ti ≤ gi∗ , that is, whenever the lump sum
+tax is no greater than the original equilibrium contribution. In this case the equilibrium
+is yi∗ = gi∗ , so that the new equilibrium gift, say gi , will be gi = gi∗ − t. In equilibrium, therefore, everyone will reduce their voluntary contribution by the amount of the
+involuntary contribution in order to keep their total utility maximizing contribution the
+same. This demonstrates the next proposition, shown by Bergstrom et al. (1986).
+
+1216
+
+J. Andreoni
+
+Figure 5. Complete crowding out.
+
+P ROPOSITION 3.3. Complete Crowding Out. Let (g1∗ , g2∗ , . . . , gn∗ ) be the Nash equilibrium donations with no government taxation. Then if lump sum taxes 0 ≤ ti ≤ gi∗
+for all i are donated to the public good, the equilibrium donation after taxation will be
+gi = gi∗ − ti for all i, and the total supply of the public good will be unchanged.
+Intuitively, the reason that crowding out is complete is that the model assumes that
+people are indifferent between voluntary giving gi and involuntary giving ti . In equilibrium, each person is acting as though they are choosing their total gift, yi = gi + ti , so
+that if one element of the sum is forced to move in one direction, the other element will
+respond with and equal and opposite change.
+This intuition is illustrated in Figure 5. This shows a lump sum tax that is completely
+neutral—the effect is simply to erase part of the budget set that was not being selected.
+Notice that if the tax were to rise to t = g ∗ = m − x ∗ , then this person’s private
+contribution would be driven to zero. Any tax beyond this would be non-neutral and
+would force total giving to rise.
+Of course, a good deal of taxation involves individuals who are not givers or for whom
+ti > gi . What happens to the equilibrium Y when this happens? Naturally enough,
+total provision will increase. Bergstrom et al. (1986) provide an elegant proof of this
+proposition, but the effect is intuitive enough to explain informally. Consider taxing a
+non-giver. This person will not be able to reduce gi to counteract the increase in ti . As a
+result, this person’s yi will be higher. This means that for all givers, Y−i will be higher
+and, as a result, their “social income” will also be higher. Since Y is a normal good,
+each will demand more of it, and so the new equilibrium Y will be higher than before
+the tax.
+These two results of complete crowding but also non-neutral taxation on non-givers
+can explain a lot about what we see in the real world data. However, further exploration
+
+Ch. 18:
+
+Philanthropy
+
+1217
+
+of these models indicates that there is a lot less predictive power to these models than
+may at first appear. This is the topic of the next subsection.
+3.3. Neutrality: reductio ad absurdum
+A number of articles in the 1980s appeared which explored further implications of
+these models, including Sugden (1982), Warr (1983), Bergstrom et al. (1986), Bernheim
+(1986), Roberts (1987), Andreoni (1988), and Sandler and Posnett (1991), bringing to
+light an elegant model with clear analysis and stunning results. Unfortunately, many of
+the results seemed so absurd as to call into question the basic assumptions of the model
+and to undermine its usefulness in understanding philanthropy.
+Consider, first, the observation that a large number of individuals give to a charity.
+Suppose that the government taxed non-givers by an amount τ and donated this to the
+public good. As we saw above, this will increase the total supply of the public good.
+But by how much?
+Solving for the new equilibrium, each giver will satisfy the equation
+G + τ ≡ fi (mi + G−i + τ )
+Implicitly differentiate with respect to τ to find
+
+
+dG
+dG−i
++ 1 = fi
++1
+dτ
+dτ
+
+
+dG dgi
+= fi
+−
++1
+dτ
+dτ
+This equation can be solved for dgi /dτ . This in turn can be summed across all givers
+to find dG/dτ . Doing so, one finds
+
+1−f 
+− ki=1 f  i
+dG
+i
+=
+k 1−fi > −1
+dτ
+1+
+i=1
+
+fi
+
+This is as predicted by the theory of the last subsection. However, divide the numerator
+and denominator by k, the number of givers, and let k increase to infinity. Combine this
+with the assumption that 0 < fi ≤ θ < 1, and it follows immediately that
+lim
+
+dG
+
+k→∞ dτ
+
+= −1
+
+Hence, when the number of givers is large, even non-neutral taxes become approximately neutral.12
+
+12 This result was motivated by Sugden (1982) and derived by Andreoni (1988).
+
+1218
+
+J. Andreoni
+
+Another result from large economies is that as n increases, the proportion of the
+population giving shrinks to zero. This can be seen most easily by assuming identical
+preferences but different incomes. Imagine a probability distribution function for incomes from which the population of potential givers is drawn. Then for any population
+of n and equilibrium G, all givers will satisfy
+G = f (mi + G−i )
+Invert f to get
+f −1 (G) = mi + G−i
+= mi + G − gi
+Rearrange to get
+gi = mi − f −1 (G) + G
+= mi − m∗ (G)
+This expression reveals that for each G there is a critical level of income, m∗ , such that
+only those with incomes greater than m∗ will be giving. Since m∗ (G) ≡ f −1 (G) − G,
+it follows from normal goods that dm∗ (G)/dG > 0. The question then is, how does m∗
+change as population changes?
+Formal demonstration of this can be found in Andreoni (1988), but again we provide
+the intuition here. Let’s draw another member of the economy from the probability
+density function of income. If we draw an m < m∗ , then this has no effect on G but
+increases the proportion of non-givers. Suppose we draw an m > m∗ . Then this person
+will be a giver. Can total giving then decline? A simple revealed preference argument
+(Andreoni and McGuire, 1993) shows it cannot—if more givers end up giving less in
+total, then the original set of givers could have increased utility by giving less in the first
+place. Hence, total giving will rise, and so m∗ will rise, which also means that a smaller
+fraction of the population will have m > m∗ and so a smaller fraction will be giving.
+As n rises to infinity, one can show that only the richest sliver of the economy will be
+givers. Moreover, the result is robust to heterogeneity of types.
+Another set of elegant yet unexpected findings come from extensions of the crowding
+out result to neutrality of income redistribution. Warr (1983) and Bergstrom et al. (1986)
+show that small redistributions of income among givers have no effect on either the
+total supply of public good, or on individual consumption. The fact that people give to
+a common public good will undo the effect of the redistribution.
+A simple way to see this result is by sequential application of the crowding out proposition proved in the prior subsection. First take money t ≤ gi from giver i and donate
+this to the public good. This will be neutral. Next take t from the public good and give
+it to giver j . This just runs the crowding out proposition in reverse, so it too will be
+neutral. But notice what we have done—we’ve taken t from giver i and transferred it to
+giver j . Because both i and j are giving to the same public good, the redistribution of
+income is neutral. No consumption has been affected.
+
+Ch. 18:
+
+Philanthropy
+
+1219
+
+Bernheim (1986) showed how this effect extends to the case of multiple public goods.
+What if person i and j in this example are giving to different public goods? Person
+i gives to good A and person j gives to good B. Then certainly this income transfer will not be neutral, right? Maybe not. Suppose there is a person k who gives to
+both A and B, and that gkB > t. Then the transfer of t from i to j can be constructed by first transferring t from i to k, then transferring again from k to j . Both
+of these are neutral so the transfer from i to j is neutral too. Of course, we don’t need
+to stop here. If there are many public goods and a chain of neutral transfers between
+pairs of agents that can reconstruct a given redistribution, then the redistribution itself
+will be neutral. The greater the number of public goods, the greater the chance that
+any redistribution will be neutral.13 Hence, not only will the government be helpless
+to affect the amount of public goods provided, but helpless to affect the distribution of
+income.
+Bernheim (1986) and Andreoni (1988) found circumstances under which neutrality also extends to subsidies to giving, that is, even distortionary taxes can be neutral.
+Andreoni and Bergstrom (1996), however, showed that neutrality does not extend to
+all distortionary taxes. The key to whether subsidies are neutral rests on how the government chooses to make credible its promise to balance the budget, even outside of
+equilibrium. If, for instance, the government moves last, after individual gifts are made,
+and adjusts government donations or individual taxes to keep the budget in balance, then
+subsidies simply act like elaborate redistributions of income and, appealing to earlier results, have a neutral effect. If the government moves first, however, and offers a credible
+tax and subsidy scheme that balances the budget even outside of the equilibrium, the
+subsidies can be effective.14
+Most readers would agree that the results reported in this subsection cast those of
+the prior subsection in a different light. If we are going to accept complete crowding
+out, we also need to believe in near complete crowding of any government gifts to
+charity, that only the very richest are giving, that redistributions of income are neutral
+as long as people are giving to charities, and that even “distortionary” taxes may be
+non-distortionary. Few people, I expect, are willing to adopt the full slate of predictions
+
+13 Bernheim and Bagwell (1988) have a related finding with respect to redistributions across generations,
+
+where transfers between families are neutralized. They draw a similar conclusion that the strength of neutrality
+leads to absurd conclusions.
+14 Andreoni and Bergstrom (1996) showed that any model of subsidies must also make a credible plan for
+balancing the government’s budget (a subtlety not recognized by Warr, 1982, and Roberts, 1987). That is,
+even if the tax and subsidy scheme will balance the budget in equilibrium, explicit and credible plans for
+balancing the budget even in non-equilibrium choices must also be made. If, for instance, the government
+is left to be the residual claimant, that is, any imbalance in the government’s budget must be made up in
+further taxation on individuals or reduction in government contributions to the public good, then subsidies
+become an incredible method for increasing giving—they amount to elaborate and neutral redistributions of
+income. However, if the government makes other citizens the residual claimants by, for instance, setting taxes
+ti = sG−i /(n − 1) where s is the subsidy rate, then taxes can increase giving. This holds even if non-givers
+are taxed. Related results are found in Boadway et al. (1989).
+
+1220
+
+J. Andreoni
+
+from a model of pure public goods—a classic reductio ad absurdum. How, then, can we
+modify the model of charitable giving to get a more realistic picture of giving to public
+goods?
+3.4. Warm-glow giving
+The model of pure public goods is an extremely natural model to turn to, so what made
+it such a poor predictor? Certainly the goods people are giving to are pure public goods,
+and certainly people have feelings of altruism that make them demand these goods. So
+what needs to change to make the model more realistic and more predictive?
+All of the results presented in the last section rely on one feature of the pure public goods model: all else equal, individuals are assumed to be indifferent between all
+the sources of the contributions to the charity, are indifferent to the means by which the
+good is provided, and only care for the total supply of the public good. Simple introspection (an often dangerous avenue to take) reveals that there are many other considerations
+to giving that may make people not indifferent to the means of providing the good. As
+stated in the introduction, humans are moral—they enjoy doing what is right. They are
+also emotional, empathic and sympathetic—they enjoy gratitude and recognition, they
+enjoy making someone else happy, and they feel relieved from guilt when they become
+a giver. Put more simply and more generally, people may experience a “warm-glow”
+from giving. All of these moral compunctions and emotional exchanges mean that people are not indifferent to their own voluntary gift and the gifts of others. They strictly
+prefer, all else equal, that the gifts come from themselves.
+A simple model that could capture these effects would be to put an individual’s contribution in the utility function directly: ui = ui (xi , G, gi ). This means that donations
+will have some qualities of public goods, but also some properties of private goods.
+A similar model, first suggested in a footnote by Becker (1974), has been developed
+and analyzed by Cornes and Sandler (1984), Steinberg (1987), and Andreoni (1989,
+1990).15 Because this model contrasts with the case where giving is motivated only
+by a concern, perhaps altruistically, for the public good, the model with warm-glow is
+also sometimes referred to as impure altruism. More commonly, however, the model is
+simply referred to as one of warm-glow giving.16
+15 Note that the warm-glow model u(x G, g ) is different from a model that assumes u(x , G , g ), as was
+i,
+i
+i
+−i i
+suggested by Becker (1974). By including gi in two arguments, the warm-glow model can take advantage of
+added convexity in proving theoretical results, and can also contain two polar cases of pure altruism, u(xi , G),
+and pure warm-glow (or egoism), u(xi , gi ).
+16 Charlie Clotfelter once mentioned to me, informally, that the term “warm-glow” is somewhat pejorative,
+
+but that the tone it projects is right on the mark. First, the hint of sarcasm keeps us constantly reminded
+of the Stigler and Becker (1997) “De Gustibus” critique—the economic theorist cannot casually assume in
+preferences that the people behave as they do simply because they want to. Nonetheless, the fact that people
+do get a joy from giving is such a natural observation as to be nearly beyond question. Hence, the playfulness
+of the “warm-glow” phrase conveys the sense of “but of course, isn’t it obvious?” Both aspects of the subtext
+here are important: when the simplest model doesn’t work, turn to introspection—but do so carefully.
+
+Ch. 18:
+
+Philanthropy
+
+1221
+
+How will the model of warm-glow giving affect predictions of crowding out? Write
+the individual’s optimization problem this way, assuming the inequality constraint is not
+binding:
+max ui (xi , G, gi )
+x,g
+
+s.t. xi + gi = mi
+As above, rewrite this problem so that the person is choosing G rather than gi :
+max u(xi , G, G − G−i )
+xi ,G
+
+s.t. xi + G = mi + G−i
+Again, the solution to this will be a supply of gifts function that depends on social
+income, but also will have a separate argument for G−i , resulting from the new third
+argument of the utility function:
+gi = fi (mi + G−i , G−i ) − G−i
+Let fis be the derivative with respect to social income, and let fiw be the derivative with
+respect to the second term, which is the warm-glow term. Normal goods assures us that
+0 < fis < 1, and as shown in Andreoni (1989, 1990), the warm-glow term is positive,
+fiw > 0. Take the derivative of this function with respect to G−i to get
+dgi
+= fis + fiw − 1
+dG−i
+= −(1 − fis ) + fiw
+This derivative reveals the primary difference between purely altruistic and warm-glow
+models of giving. With no warm-glow, increased giving by others causes people to
+reduce their gifts, because others’ gifts are a perfect substitute for one’s own. This is
+captured in the −(1 − fis ) part of the expression above. However, with warm-glow the
+others’ gifts are imperfect substitutes for one’s own. Hence, with warm-glow a person
+is no longer as willing to reduce his own contribution in response to increased gifts
+by others. This is captured in the fiw part. Hence, warm-glow creates a “stickiness” to
+giving—people are no longer indifferent to the source of the gift. At the extreme where
+people care only for warm-glow, then dgi /dG−i = 0 and so fis + fiw = 1.
+This will, obviously, imply that crowding out will no longer be complete. But this
+is true only so long as warm-glow does not extend to gifts made involuntarily through
+taxes.17 To see this, write the utility function u(xi , G + t, gi ). Assume that only person
+i is taxed. Following the steps above we get a supply function gi = fi (mi + G−i ,
+G−i + t) − (G−i + t). It is easy to see that dgi /dt = fiw − 1. If there is no warmglow then fiw = 0 and dgi /dt = −1, which is complete crowding out. However, when
+17 For instance, if utility were u(x , G + T , g + t ) then small taxes will again be neutral.
+i
+i
+i
+
+1222
+
+J. Andreoni
+
+fiw > 0, then −1 < dgi /dt which means person i will not reduce gi enough to restore
+the prior equilibrium and crowding out will be incomplete.
+Formally, assume only person 1 is taxed. Then totally differentiate the demand equation to get
+dg1 = f1s dG−1 + f1w (dG−1 + dt) − (dG−1 + dt)
+Also totally differentiate the other n−1 equations. For each equation, substitute dG−i =
+dG − dgi . Add these n equations and solve for dG/dt to get
+fw
+dG
+=c s 1 w −1
+dt
+f1 + f1
+= cω1 − 1
+where c > 0 is a function of all n responses.18 The coefficient ω1 = f1w /(f1s + f1w )
+can be interpreted as the relative strength of the warm-glow motive for person 1. The
+stronger the warm-glow motive relative to the altruism motive, that is the bigger is ω1 ,
+the lower crowding out will be. If there is no warm-glow motive for person 1, then
+f1w = 0, so ω1 = 0, and again crowding out is complete.19
+Similar results hold with respect to transfers of income. Imagine taking money from
+person 1 and giving it to person 2. We can construct this transfer as a simultaneous tax
+increase on person 1 and tax decrease on person 2. Letting dt1 = dt = −dt2 then we
+can repeat the steps above and solve to find
+dG
+dG dG
+−
+= c(ω1 − ω2 )
+=
+dt
+dt1
+dt2
+If ω1 > ω2 , so that the warm-glow motive of the person losing income is relatively
+stronger than that of the person receiving income, then the level of the public good will
+rise.20 Intuitively, warm-glow makes people’s giving “sticky” and a poor substitute for
+another’s giving. Thus, reducing income of the less responsive person will have the least
+effect on G.
+We now see that the simple generalization to warm-glow preferences means that neutrality goes away. Moreover, we see that pure altruism—the absence of a warm-glow
+motive—is both necessary and sufficient for neutrality, and thus an extremely special
+case.
+Putting warm-glow into the model is, while intuitively appealing, an admittedly ad
+hoc fix. Hence, it is important to find real evidence that warm-glow is an important
+feature of preferences. Using survey data on giving, this would be a nearly impossible
+18 In particular, c = [1 + n (1 − f s − f w )/(f s + f w )]−1 . See Andreoni (1989) for a more detailed
+i=1
+i
+i
+i
+i
+
+derivation.
+
+19 See Andreoni (1989) for formal proof. Note that this discussion differs subtly from Andreoni (1989, 1990),
+
+who described 1 − ω as an “altruism coefficient,” rather than ω as a “warm-glow coefficient.”
+20 Notice that the transfer will have a neutral affect on G if whenever ω = ω . However, the effect on all
+1
+2
+consumption, including x’s will only be neutral if ω1 = ω2 = 0. See Andreoni (1989) for details.
+
+Ch. 18:
+
+Philanthropy
+
+1223
+
+task. We could only indirectly test the hypothesis by finding choices consistent with
+predictions of the model (see Ribar and Wilhelm, 2002). However, using controlled
+laboratory experiments we can more accurately identify whether preferences include a
+warm-glow term. Fortunately, the experimental data is overwhelming in its support of
+warm-glow. Most notably, Andreoni (1993, 1995), Palfrey and Prisbrey (1996, 1997),
+and Andreoni and Miller (2002) find clear evidence of well-behaved preferences for
+giving that include a warm-glow motive. These provide the needed evidence to turn this
+ad hoc fix into a solid foundation of human motivation.
+3.5. The dominance of warm-glow
+Suppose both motives of altruism and warm-glow exist. One can show that as the economy grows large, warm-glow will become the dominant if not the exclusive motive for
+giving at the margin. While general arguments exist, perhaps it is most expedient to use
+a special example to motivate the result.21
+Suppose the economy has n individuals with identical incomes m and identical Cobb–
+Douglas preferences
+ui = ln xi + α ln G + β ln gi
+The first order conditions are then
+1
+1
+1
++α +β =0
+−
+m − gi
+G
+gi
+Since individuals are identical, the Nash equilibrium gifts will be the same for all i, thus
+G∗ = ng ∗ . Substitute this into the above and find the Nash equilibrium contribution to
+be
+αm/n + βm
+g∗ =
+(3.5)
+1 + α/n + β
+Note that if there were only altruism and no warm glow, then g ∗ = αm/(n + α).
+In this case, as n increases, each person’s equilibrium gift asymptotes to zero (while
+total giving asymptotes to αm). By contrast, if there were no altruism and only warmglow, then g ∗ = βm/(1 + β), which is independent of n. Now look again at (3.5). As n
+increases, the relative importance of α, the utility parameter on altruism, diminishes and,
+in the limit, choices are dictated solely by β, the warm-glow parameter. With this, all
+the implications of neutrality disappear—in the limit giving is a solely private good.22
+Another way to see this intuitively is that, as the size of the charity grows, all giving
+due to altruism will be crowded out, leaving only giving due to warm-glow. This accords
+21 See Ribar and Wilhelm (2002).
+22 Ribar and Wilhelm (2002) show that for general preferences, the sufficient condition for this to be met is
+
+that the marginal rate of substitution between warm-glow and consumption, evaluated at g = 0, not vanish as
+n grows.
+
+1224
+
+J. Andreoni
+
+naturally with the observation that giving $100 to an organization that collects millions
+is motivated more by an admiration for the organization than for any measurable effect
+of the marginal donation. That does not, however, imply that altruism is not important—
+the two are surely tied together. Just like hunger tells a person it is time to eat but taste
+buds tells the person what they want to eat, it is altruism that should tell you what to
+give to, but warm-glow tells you how much to give.
+
+4. Should warm-glow count in social welfare?
+Now that we have explored the implications of the warm-glow assumption, demonstrated its importance, and verified the assumption on empirical grounds, we are faced
+with a deep and significant question: How should warm-glow giving factor into calculations of social welfare?23
+This is as much a philosophical question as it is an economic one. Reasonable people
+will likely differ on the answer. On one hand, we should not question preferences. On
+the other hand, however, we can easily imagine cases where a (paternalistic) government would improve well-being by ignoring those preferences. Perhaps the best way to
+understand this question is through a series of examples and analogies.
+Consider an example of time preferences and savings. Madrian and Shea (2001) have
+recently shown that if new employees are automatically entered into a 401(k) retirement
+savings plan (unless they opt out), far more of them enroll than when they are not
+automatically entered (and must opt in). All that differs between these two situations
+is the institution within which people make their savings decision. If we believe that
+people are revealing what is in their own best interest, then which situation is revealing
+the true preferences? If a social planner, with the objective to maximize social welfare,
+choose which institution it wanted for society, which would it choose and how would
+it frame the choice? Most economists would, I suspect, say that the two institutions
+simply provide different frames for the decision and that these frames may bias or distort
+behavior, preying perhaps on people’s incomplete information or financial naivete, and
+that social welfare calculations about the optimal level of savings should be independent
+of these biases or frames and should assume complete information and sophisticated
+choices. But, conceding to these biases, frames, and naivete, economists would choose
+the institution that resulted in behavior closest to that selected in a hypothetical “clean”
+environment of no biases, no frames, and perfect information.
+
+23 Diamond (2006) provides a related discussion, which also inspired some of the points provided below.
+
+For a contrasting view, see Kaplow (1995, 1998) who treats gifts and warm-glow as in the realm of social
+welfare maximization. Thus, he argues that those who are loved more by others are also loved more by the
+government. He also argues that the government should subsidize gifts, and those who enjoy giving more
+should get greater subsidies. While, in principle, these arguments are defensible, I argue here that under
+greater scrutiny, their application becomes unclear.
+
+Ch. 18:
+
+Philanthropy
+
+1225
+
+Next, consider a laboratory experiment to provide public goods (see Andreoni, 1995).
+In this experiment, the exact same game is presented in two frames, one positive and
+one negative. In the positive frame subjects are given 100 units of money to keep, but
+are told they can contribute any share of it to a public good, thus creating a positive
+externality for other subjects. In the negative frame they are told that all the money is
+already given to the public good, but that they can withdraw up to 100 units to keep,
+thus creating a negative externality. What happens? People don’t seem to be bothered
+that much by creating a negative externality, although they don’t like the “cold-prickle”
+they feel, but really enjoy the warm glow of creating positive externalities. Does this
+mean it is socially preferred to provide more of the public good when giving donations
+creates a warm-glow than in the world where withdrawing donations creates a coldprickle? What is happening in this game is that there is utility from the act of making
+the choice, and this “choice utility” is again biasing choices. Since the only difference
+in these worlds is the frame which prejudices the decisions—whether the economy is
+endowed with money in the public good (like a commons) or in the private good (as
+with charitable giving)— it seems that we would want a social criterion that would give
+us the same directive in both cases.
+What about this hypothetical situation: Imagine two pairs of friends. Each pair meets
+every week for lunch at the same restaurant and always orders the same thing. Al and
+Andy each pay for their own meals, while Bob and Brad take turns picking up the tab.
+The B friends get a warm-glow from giving a gift to each other each week. Can we
+say they are better off than the A friends? Maybe, but maybe not. Bob and Brad are
+constantly in a state of having to retire a debt. So, while buying lunch for the friend
+is improving utility, it may be the debt they are paying off has lowered their utility in
+the first place. Hence, it is just as likely that the mutual gift-giving friends are actually
+worse off than the self-sufficient friends. As economists, we have no way of knowing.
+Next, a related point on the “power of the ask.” Fund-raisers know that to get money
+donated, you have to ask for it. And, most often you either get nothing or you get
+the amount you asked for. Think of how you feel when colleagues asks you to give
+to a cause, buy girl scout cookies, or sponsor their kids’ sports teams. Although you
+cringe when they approach, you give because saying no would be even more painful
+than saying yes. Hence, giving has a marginally positive effect on your utility—but
+it was “the ask” that lowered it in the first place. By providing public goods through
+charities, we are creating obligations, guilt, and social pressure among people that they
+relieve by giving to charity. The giving creates warm feelings, provides social praise,
+and may actually build valuable relationships. But even with successful charitable fundraising, do the positive feelings of giving outweigh the negative feelings of the burdens
+of obligation and guilt? Again, we have no way of knowing.
+Finally, consider this experimental data collected by Kahneman and Knetsch (1992).
+They ask people a series of questions about how much they are willing to contribute
+to a public good. Each successive question they ask involves a environmental public
+good that embeds the public good in the prior question—environmental clean up on a
+local level versus regional level versus national level. Thus, stating a smaller number
+
+1226
+
+J. Andreoni
+
+when moving to a larger scale would be logically inconsistent. What they find is that
+the answer to the first question they ask is, on average, about $25, and the answer to
+the second is about $50. But this is true whether the first question is about the local,
+regional or national good. Hence, the good itself seems not to matter for the willingness
+to pay. Kahneman and Knetsch instead argue that the answers to these questions are
+simply maintaining a self-image of being an environmentalist. What if the warm glow
+of giving to a public good is exactly the same as this? When a fund-raiser calls and
+asks for a donation, the gift is simply buying a self-image that says “I am a decent and
+generous person,” or perhaps less positively, “I am not cold-hearted and selfish.” This is
+a demand that, as in Say’s law, would not have been generated had the supply of fundraisers for charitable causes not emerged in the first place. So, whether and how this
+“spin off” good should be counted in social welfare will depend on whether the social
+planner has any direct interest in creating this market in the first place. That is, does
+society have a direct interest in creating a market for maintaining self-images? Lacking
+any argument that it does, then the creation of this market should not in itself affect the
+social welfare goals of proving the efficient level of charity.
+These examples have illustrated four principles that militate against counting warmglow in welfare:
+1. Choices in the real world are distorted by the institutions within which they are
+made. These biases prey on decision frames, incomplete information, and naive
+decision makers. Optimal social policy should have as a goal decisions that would
+be made in an idealized world where there are no decision frames, no missing
+information or knowledge, and no social distortions.
+2. Different institutions for providing public goods bring up different emotions or
+sentiments simply by creating different environmental cues. Even small or seemingly innocuous changes may have big effects on behavior. This “decision utility”
+does not itself represent any new consumption, but only utility gained by the
+process of generating consumption.24 While such decision utility may affect society’s choice of institution to reach social goals, the determination of these social
+goals, that is the social welfare calculations, should be independent of such decision utility.
+3. Even if we were to include warm-glow, we are not sure whether it should increase
+or decrease welfare. If giving to charity is relieving a guilty feeling, then although
+it certainly increases utility to give, it does not necessarily mean utility is higher
+than it would be if the government had forced the contribution through taxation.
+4. What if warm-glow giving is purchasing some other good that, while related, is
+totally separate from the charity itself, such as maintaining a self-image. What is
+society’s interest in creating this spin-off good? If there is no compelling social
+interest in creating this good, it seems like its existence should have no effect on
+the calculation of the socially optimal level of the public good itself.
+
+24 The term “decision utility” is taken from Diamond (2006).
+
+Ch. 18:
+
+Philanthropy
+
+1227
+
+These four points present a (partial) list of the reasons why counting warm-glow in
+social welfare calculations is either problematic or potentially misleading. In my own
+view, it is most prudent and most informative to first recognize that behavior is chosen
+by people seeking warm-glows, but then to set the social welfare maximizing goals that
+makes no adjustment for warm-glow in aggregating welfare. That is, all social welfare
+prescriptions should be made without counting warm-glow, but should be constrained
+by behavior that is dictated by seeking warm-glow.25
+Why is this important? When choosing government policy that affects giving, it is essential to know what our government’s objective should be. We next explore an example
+of this in describing the optimal tax treatment of giving.
+
+5. Optimal tax treatment of charitable giving
+In the US and many other countries, there is a tax preference for giving to charity. This
+effectively reduces the price of giving. In the US, for instance, charitable giving can be
+deducted from taxable income, making the price inversely related to the marginal tax
+rate. With progressive rates, this means those with higher incomes get higher marginal
+subsidies. This section explores the question, can this subsidy be justified within the
+context of an optimal tax framework?
+This question has been in the literature for a long time. Feldstein (1980) produced
+the first serious work on it, followed by Boadway and Keen (1993) and Kaplow (1996).
+A recent paper by Diamond (2006) (see also Saez, 2004), however, has made significant
+progress on advancing this question. Here we present a simplified version of Diamond’s
+model.
+Imagine a world with two types of people, high skilled, H , and low skilled, L. The
+problem for optimal income taxation is to get the types to self-select into jobs and
+wages that separate the types and allow the social planner to implement a progressive
+tax system. The binding constraint, however, is that the high skilled must be better off
+revealing themselves to be of the high-skilled type. That this constraint is binding makes
+the tax system second-best (see Stiglitz (1982) for the origins of this literature).
+Suppose we add to this system a set of subsidies to giving to a public good. The
+intuition of Diamond is that this adds a second dimension on which to sort individuals.
+Suppose, for instance, that we gave a bigger subsidy to the high skilled type than the
+low skilled type. If a high skilled person pooled with the lower skilled, then not only
+would the person get less consumption, but would also get a lower subsidy to giving
+and, as a result, less of the public good. This makes sorting to the right type even more
+25 Note that this is not a non-welfarist argument. I am not arguing that something other than utility should
+
+matter, I am arguing that the definition of utility can be compromised for social welfare calculations. Hence
+the critique of Kaplow and Shavell (2001) does not quite apply. For instance, we should not think that a
+murder was less important because a murderer enjoyed the act of killing. Rather, we would choose to ignore
+this in calculating the social cost of murder.
+
+1228
+
+J. Andreoni
+
+attractive. This then relaxes the self-selection constraint, which allows the government
+to engage in more welfare-enhancing redistribution. Hence, moving to a situation of
+all-government provision to one of subsidized giving can improve welfare by relaxing
+the self-selection constraint on the high skilled types.
+More formally, suppose individuals have warm-glow preferences U = u(xi ) + α +
+v(G) + w(gi ), where u(), v() and w() are all continuous, differentiable and concave,
+and α is the utility of labor. Let αij be the utility of a person of type i working in
+a job of skill j . We assume that a low skilled person can only work in a low skilled
+job, so normalize αLL = 0. Then we assume that αH L > αH H , that is, a high skilled
+person gets less disutility from working in the low skilled job. Let mH and mL be the
+production from high and low skilled jobs, and let NH and NL be the number of each
+in the economy.
+Following the arguments of the prior section, we assume that choices are dictated
+by warm-glow preferences, but social welfare prescriptions are made without counting
+warm-glow.26 Let pi be the price of giving faced by type i. Then define ci∗ and gi∗ as
+the solution to the individual first order conditions:
+
+v  ( gj∗ ) + w  (gi∗ )
+(5.1)
+= pi
+u (ci∗ )
+Equation (5.1) implicitly defines gi∗ = g(ci∗ ). Then the social welfare optimization
+problem becomes
+max NH [u(cH ) + αH H + v(G)] + NL [u(cL ) + v(G)]
+c,G
+
+subject to:
+E + G + NH cH + NL cL = NH mH + NL mL
+
+(5.2)
+
+u(cH ) + αH H + v(G) + w(gH )
+≥ u(cL ) + αH L + v(G − gH + gL ) + w(gL )
+
+(5.3)
+
+G ≥ N H gH + NL gL
+
+(5.4)
+
+gi = g(ci ), i = H, L
+
+(5.5)
+
+The first constraint (5.2) is the resource constraint of society, where E is the government expenditures other than on the public good. For simplicity, we have normalized
+the cost of G to be 1. The second constraint (5.3) is the self-selection constraint. This
+requires that the subsidy scheme is one in which the high skilled individual chooses not
+to act as if he were a low skilled type. Constraint (5.4) defines G in terms of private and
+government gifts. The inequality indicates that the government may also give directly
+
+26 Diamond (2006) has explicit derivations for the general case of many types, with and without warm-glow
+
+preferences, and with and without counting warm-glow in welfare. As noted above, Diamond argues that
+warm-glow preferences and no-warm-glow social welfare maximization are the appropriate assumptions.
+
+Ch. 18:
+
+Philanthropy
+
+1229
+
+to the public good, so private contributions are a lower bound on G. The final constraint
+(5.5) specifies the relationship between ci and gi that is derived from the individuals’
+first order conditions (5.1). It’s this relation between (5.1) and (5.5) that specifies the
+implied subsidy to giving for each income class.
+Diamond shows that, in principle, there could be two solutions to this problem, one
+in which the self-selection constraint binds and one in which it does not. The more
+interesting one is when it binds. In this case, the solution is that cH ≥ cL , and gH > gL .
+To see how the effect works, reserve some money from the economy to pay for G at
+the optimal second-best level (so we think of the problem as allocating consumption c).
+Then imagine the above problem with no utility for public goods, that is, without v( )
+or w( ). Then the self-selection constraint would require cH > cL in order to induce the
+high skilled to accept the more arduous job. Next add in the public good and the utility
+v( ). Now the second-best cH and cL we found without the public good utility will
+leave the self-selection constraint slack, with the left-hand side strictly larger. Hence,
+the government can reduce cH and raise cL if this redistribution will improve social
+welfare. Finally, add in the warm-glow term, w( ). This will make the self-selection
+constraint slack again, so even more redistribution is possible. How do we lower cH
+and raise cL in each step? By lowering the pH relative to pL , that is by subsidizing the
+gifts of the wealthy by more than the gifts of the poor.
+Diamond shows, therefore, that a subsidy system like that inherent in the US tax
+code could be optimal. That is, an increasing marginal income tax rate that redistributes
+consumption, combined with a subsidy rate on giving (one minus the marginal tax rate)
+that rises with income could be about right.27
+This then leads to a fascinating yet complex question: What happens to the secondbest level of G—is it higher or lower than the first best level? The answer, it turns out,
+is unclear. In the case of Diamond’s model, it will depend on the shape of the various
+components of the utility functions. It is possible that G may be either higher or lower
+than in the first-best case. But a deeper answer to this puzzle can be seen in relation to a
+parallel literature on optimal second-best level of public goods when they are provided
+entirely by the government, not via subsidies to private giving.
+Recall the familiar Samuelson conditions for the first-best efficient level of public
+goods provision: the sum of the marginal rates of substitution equal to the marginal cost
+of the public good. When moving to a second-best world, obviously, this equation must
+be modified. It was first noted by Pigou (1947) that if we must raise distortionary taxes
+to cover the cost of this good, then these distortionary taxes are themselves adding to
+the cost side of this equation. As a result, the second-best level of the public good must
+be lower than the first-best level.
+
+27 Scharf (2000) offers another explanation that is rooted in some of the same incentives for redistribution.
+
+She asks why majority voting would lead to a system with subsidies to giving. She shows that the median voter
+can use giving subsidies to favorably affect the distribution of income, thus leading to welfare improvements
+over total government provision of the public good.
+
+1230
+
+J. Andreoni
+
+As with so much of second-best taxation, it’s not that simple. Atkinson and Stern
+(1974) noted that whether the second-best G is above or below the first-best will depend
+on how the public good affects the marginal excess burden of the taxed goods. For
+instance, suppose that the public good reduces the elasticity of demand for a taxed
+good. Providing public broadcasting, for instance, may reduce the elasticity of demand
+for televisions. In this case increasing G can, at the margin, reduce deadweight loss.
+If the gain is big enough, the second-best G may exceed the first-best.28
+
+6. Gifts of cash: price and income elasticities
+As we saw in the last section, there are economic rationales for providing a tax-subsidy
+for charitable giving. Indeed, a tax exclusion for giving is part of the US tax system, and
+of other tax systems around the globe. In the US the present day income tax was first
+established by the 1913 Revenue Act, after the 16th amendment to the US Constitution
+ensured its legality earlier that same year. Just a few years later, the Revenue Act of
+1917 was passed. Its main purpose was to broaden the tax base in order to raise funds
+for World War I, but it also introduced the deduction for charitable giving. It has been
+part of the tax code ever since.
+The importance for policy makers of the charitable deduction is first that it reduces
+tax revenues—a so-called tax expenditure. This is one cost of the program. The benefit
+is that it also reduces the cost of giving and thus may encourage more of it. Let t be the
+marginal tax rate faced by an individual. A gift of g which is deductible from taxable
+income will reduce taxes owed by tg. Hence, the effective price of a dollar of giving is
+1 − t.
+A question policy makers have often raised is whether the cost, measured in foregone
+tax revenues, is less than the benefit, measured by increased dollars of giving. The answer will be yes if the price elasticity of giving, ε, is less than negative one, that is, if
+giving is price elastic.29 It is also true that at ε = −1 the policy will be revenue neutral.
+Hence, searching for ε < −1 has been the “gold-standard” for some policy analysis.
+But is this the appropriate benefit-cost measure? What is the appropriate counterfactual
+in measuring the cost? If it is that these tax dollars could be applied directly to the charity, then foregone tax revenue is an accurate cost measure only if there is no crowding
+out of the government grant to charity. If there is crowding out, then it is possible that
+28 Thomas Gaube (2000) provides a modern theoretical examination of this. Pigou’s conjecture is correct if
+
+all goods are normal, and if all private goods are gross substitutes. Without this, counterexamples to Pigou’s
+conjecture can be found. For a related literature on contributing to “public bads” of pollution, see the debate
+on the “double dividend,” such as Cremer and Gahvari (2001) or Fullerton and Metcalf (2001).
+29 The benefits, g, minus the cost, tg, gives net benefits n(t) = g − tg = (1 − t)g. Then ∂n(t)/∂t > 0 iff
+∂g (1 − t)
+= ε < −1.
+∂(1 − t) g
+
+Ch. 18:
+
+Philanthropy
+
+1231
+
+a subsidy could still be more effective at raising charity dollars even when the price
+elasticity is greater than negative one. Moreover, this sum must be deflated to account
+for the distortionary cost of collecting taxes. On the benefit side, measuring the benefit
+by simply the dollars donated is also incomplete. The fact that gifts create externalities
+means measuring benefits this way is likely to understate the benefits. Both the cost
+and benefit side ignore the institutional responses by fund-raisers. The “gold-standard,”
+therefore, is only an imperfect criterion of the policy evaluation.
+This section will provide a brief review of the most recent and important contributions to measuring price and income elasticities of giving. Over the years there have
+been hundreds of studies of these effects. Not surprisingly, these studies have grown in
+their sophistication and value over the years. Along the way economists have learned
+many important lessons on measurement and inference with the charitable deduction.
+For that reason the next section will provide a discussion of the issues faced by the
+econometrician in estimating giving. We then will offer a brief historical summary of
+estimates and end with more detailed discussion of the most promising new developments in the area.
+6.1. Econometric issues in measuring the effects of price and income
+This section explores a number of issues and dilemmas that the econometrician must
+face when analyzing the effects of price and income on charitable giving. The section
+relies heavily on an excellent discussion by Robert Triest (1998).
+Identification problems
+By definition marginal tax rates are a function of income. This means that the two
+independent variables are correlated, making it difficult to identify the effects of either.
+For instance, suppose income enters linearly into an estimation equation. Then nonlinear relations between price and income will bias the estimated effects of price. In
+addition, other conditioning variables like marital status and numbers of children will
+also affect both marginal tax rates and propensities to give, creating an omitted variable
+bias. This in turn complicates the identification of the effects of price and income.
+What is needed to remedy this problem is variation in price that is independent of federal Adjusted Gross Income (AGI) and other conditioning variables. Feenberg (1987)
+points out that variation in state tax rates and deductibility rules can add extra independence. However, adjusting federal tax prices to include any state tax benefits will only
+improve identification if there is no systematic or endogenous effect of policies. For
+instance, states in which people value giving more may be more likely to have generous
+subsidies to giving. If this were the case, one would want to add state fixed effects to
+control for the heterogeneity. But adding the fixed effects eliminates the ability to use
+tax variation as well.
+The obvious best solution is to use variation created over a panel, relying on individual variation in income to identify separate effects. The ideal data would be a panel
+
+1232
+
+J. Andreoni
+
+that spans a period of tax reform, so that tax rates are also varying independently in
+the sample. Barring this, identification of price and income effects will rest solely on
+functional form specifications.
+Endogenous marginal tax rates
+What should we do when an individual’s contribution reduces their AGI to the point that
+it pushes them into a lower tax bracket, thus raising the price of giving? The price of
+the last dollar given is the most economically meaningful, but this number is dependant
+upon the amount given. Can we find a suitable instrument for the last-dollar tax price?
+A common instrument used in this literature is to use the first-dollar tax price, that
+is, use the marginal tax rate that applies to the first dollar donated to charity. This is
+uncorrelated with the amount of charity deducted. However, the first-dollar tax price is
+still dependent on all other determinants of tax price. If any of these (omitted) variables
+are correlated with giving, then even the first-price will not be an effective instrumental
+variable. Again, as suggested by Feenberg (1987), state tax variation added to the federal
+first-dollar price can improve the independence of the instrument. Alternatively, one
+could calculate the effective marginal tax rate at a “predicted” level of giving, where the
+prediction depends on exogenous factors.30
+Itemizers and non-itemizers
+For most years under the US tax code, only filers who itemize their deductions can claim
+a charitable deduction.31 If tax returns are the source of data, therefore, only information on givers who itemize is available. For this reason, studies that rely on tax returns
+for data must use only itemizers, and careful studies should use only itemizers who
+would have itemized in the absence of the charitable deduction to avoid endogeneity of
+the itemization status. Using only itemizers means that only a subset of all givers are in
+the sample. This may suggest that surveys rather than income tax returns are preferred
+source of data. While surveys allow information on non-itemizers, they have other serious drawbacks. First, they rely on self-reports of both giving and income, which may be
+biased due to faulty memories and by people overstating both income and contributions.
+Second, surveys usually do not include information on marginal tax rates or on whether
+individuals itemize. Thus, the researcher is left to use available information to guess at
+both itemization status and marginal tax rates.
+30 For instance, Auten et al. (2002) use one percent of income as a predicted contribution, since this is near
+
+the median gift in the sample.
+31 The term “itemize” refers to a feature of the US tax system. All filers are entitled a deduction from taxable
+
+income equal to the maximum of a “standard deduction” and an “itemized deduction” which includes charitable giving, among other things. As a result, itemizers tend to have higher incomes than nonitemizers. For
+the year 1985 non-itemizers could deduct 50% of their contributions, and in 1986 they could deduct 100%.
+This policy was later dropped, leaving non-itemizers with no charitable deduction.
+
+Ch. 18:
+
+Philanthropy
+
+1233
+
+After-tax income
+Econometric analysis has often used either AGI or after-tax income as income measures. Both measures, however, depend on charitable giving. Hence, before applying
+these, they should be adjusted to the level they would be if giving were zero. If gross income is used, obviously, no adjustment need be made. Sensible arguments exist for both
+measures of income. After-tax income is a measure of discretionary spending, whereas
+gross income is broad-based and independent of tax avoidance decisions.
+Appreciated assets
+When giving appreciated assets, there is an extra tax incentive. Imagine giving a share
+of stock that was purchased for $20 but is now valued at $100. The taxpayer can deduct
+$100 from current taxable income, avoiding 100t in taxes. In addition they also eliminates any capital gains tax. If tc is the rate that applies to the capital gain, the taxpayer
+saves an additional 80tc . That makes the price of giving equal to 1−t −0.8tc . More generally, let θ be the discounted gain-to-value ratio of the asset. Then the price of giving
+appreciated property is pa = 1 − t − θ tc . Unfortunately, data on appreciated property
+is often not available, and even when it is the θ is rarely observed. Some authors have
+attempted to account for gifts of appreciated property by arbitrarily choosing a value of
+θ of, say, 0.5, or by using capital gains tax filings to estimate likely gains. As seen in
+the next section on gifts by the wealthy, however, for most samples that do not include
+people with high incomes (over, say, $200 000), the value of appreciated property is less
+than 20% of all gifts. As incomes rise above this level, however, appreciated property
+becomes an increasingly large and dominant fraction of gifts.
+Kinked budgets
+Consider someone who, without charitable giving, is near the point of being able to
+itemize deductions. Giving a few dollars extra kicks them into itemizations status, lowing their price of giving from 1 to 1 − t. Crossing this threshold creates both an income
+and substitution effect that promotes giving. Failure to account for this may make giving appear more responsive to price than it actually is. Over the years, itemization has
+become increasingly likely, and the number of different marginal tax rates has declined.
+Hence, the problem of kinked budgets is less severe than it once was.
+Timing of gifts
+Imagine an individual whose income is variable. Her marginal tax rate varies from year
+to year as her income changes. Of course, she anticipates this and smooths her consumption. But it would be optimal to smooth her charitable giving as well. She should
+give more in years when her marginal tax rate is high and less in years when it is low.
+
+1234
+
+J. Andreoni
+
+Similar effects will be seen during a period of tax reform. If tax rate reductions are expected next year, people should move some giving forward in order to get a higher tax
+benefit. This means giving should spike in the year before tax cuts and drop in years
+after. Failure to account for this could dramatically bias estimates.
+Household rather than individual decisions
+Becker’s (Becker, 1974) famous “unitary” model states that as long as household decisions are made by a benevolent head, then we can treat demands by households under
+a neo-classical utility maximization framework. However, recent work has shown that
+a household bargaining model—one that cannot be reduced to act a single neo-classical
+utility maximizer—is a better description of household decisions. Hence, household
+variables matter in how they affect the marital bargain. This means that not simply
+household income, but relative incomes of the spouses, may matter. Likewise, demographics such as age and education of the head may not be enough controls, but relative
+age and education and the presence of children may affect the household bargain and
+thus may all need to be accounted for in the analysis. A recent paper by Andreoni et
+al. (2003) confirms this. Men and women have different tastes for giving, and household decisions represent a compromise between husband and wife. Men, as it turns out,
+appear to have most of the bargaining power. The household choice is closer to men’s
+preferences than women’s.
+Interdependence of preferences
+We saw in the theoretical section that, for all intents and purposes, when giving to a
+large public good individual donations are dominated by warm-glow at the margin. As
+such, it is likely to be safe to ignore the aggregate gifts of others in the regressions—
+they can be subsumed into the constant. However, that is not to say that the gifts of
+others have no influence. Psychologists and sociologists who have studied giving are
+convinced that the actions of others in one’s own environment can also influence one’s
+acts of altruism. Giving, for instance, is not like eating—there is no natural measure
+of “enough.” Rather, this is determined subjectively as a matter of the “socially correct” amount to give. Societies or groups of people can determine their own norms
+of the expected donations. Hence, the gifts of those of a similar age, education and
+income can act as a benchmark for one’s own gift. Likewise, the gifts of others in
+a work-place charity drive, like the United Way, can also influence giving, as can
+solicitations coming from friends rather than strangers. There are two studies that confirm these effects. Andreoni and Scholz (1998), based on sociological findings, show
+that “peer group” effects are significant. Carman (2003), using a unique data set of
+work-place contributions, shows that giving by people one interacts with at work has a
+positive influence on one’s own giving. This suggests strategic considerations by fundraisers to take advantage of these interdependent preferences, which raises the next
+issue.
+
+Ch. 18:
+
+Philanthropy
+
+1235
+
+The interactions with fund-raising
+It seems that almost anyone with a telephone or mail box has experienced charitable
+fund-raising. Few of us, I suspect, would give in the absence of direct appeals from
+charitable organizations. It is likely that these organizations respond to government policy. For instance, they may increase fund-raising efforts after a reduction in marginal tax
+rates. This means that elasticities estimated during a period of stable tax rates may not
+apply after a tax reform. In addition to the issues raised under “timing” above, these responses of fund-raisers are likely to cause long-run elasticities lower than short-run elasticities as their fund-raising tactics respond to the changing environment of giving. We
+discuss fund-raising, both theoretically and empirically in later sections of this paper.
+6.2. A brief history of empirical studies on charitable giving
+There are several complete and detailed surveys of econometric studies of giving. These
+include Clotfelter and Steuerle (1981), Clotfelter (1985, 1990), and Steinberg (1990).
+See also Chapter 4 of this Handbook. Because of limited space, I refer interested readers
+to these authors for details. My purpose here is to give a general flavor of the findings
+up until 1995.
+The first empirical analysis of giving was by Michael Taussig (1967), who looked
+at data from 47 000 tax returns in the 1962 Treasury tax file. While the results of Taussig’s study are not very relevant for today’s economy, he did have a lasting impact by
+introducing a staple of the literature: the constant elasticity, or log–log, specification.
+Let gi be i’s gifts to charity, yi be income, pi = 1 − ti be the tax price of giving by
+person i (as defined above) and Xi be a vector of demographic variables, such as age,
+education, marital status, number of children, and state of residence. Then the log–log
+specification is
+ln gi = α + β1 ln pi + β2 ln yi + BXi + i
+
+(6.1)
+
+This specification is convenient because, corner solutions aside, β1 can be interpreted
+as the price elasticity and β2 as the income elasticity.32
+Of course, there are several shortcomings of this framework. First is that many people give gi = 0, and the log of 0 is undefined. For this reason many researchers adopt
+the compromise of adding $10 to both gi and yi and then estimate (6.1) using OLS.
+This (approximately) preserves the interpretation of the β’s as elasticities. Given the
+censoring of gi at zero, however, it would more appropriate to estimate (6.1) with Tobit
+analysis, where ln gi is censored at 1 rather than zero. In this case, however, the estimated β’s would no longer be directly interpretable as elasticities, because we would
+have to weight the coefficient by the conditional probability that gi > 0.
+
+32 To be accurate, Taussig used t in place of p in equation (6.1). Others that followed use p .
+i
+i
+i
+
+1236
+
+J. Andreoni
+
+The first important study of this type was by Feldstein and Clotfelter (1976), who
+performed OLS on (6.1). Using data from a survey conducted by the Federal Reserve
+Board that included both itemizers and non-itemizers, they found price elasticity of
+−1.15 and income elasticity of 0.87. Feldstein and Taylor (1976) conducted a similar
+study using the 1970 Treasury tax file. Their sample consisted of 15 000 itemizers. They
+were also able to account for state tax laws in computing the tax price of giving. In
+addition, they made a serious attempt to account for gifts of appreciated assets. Under
+several variations of estimates, they found price elasticities of −1.1 to −1.5 and income
+elasticities of 0.70 to 0.80. Note that both of these early studies found price elasticities
+that exceed the gold-standard of −1.
+These two studies are very important in this literature for two reasons. First, they cast
+the dye for the log–log analysis and the focus on the gold-standard elasticity. Second,
+the massive literature to follow did not do much to change their estimates. In Coltfelter’s
+1985 survey, the consensus was that price elasticities hovered around −1.3, and income
+elasticities around 0.7.
+By the 1990s, however, this “consensus view” was being challenged. Analysis using
+the log–log specification began finding price elasticities spanning an extremely broad
+range, falling much higher and lower than −1. Moreover, studies that used specifications
+other than log–log were finding consistently smaller price elasticities.33 At the same
+time there were several periods of tax reform that provided the independent variation
+in price that help identify both price and income elasticities. With these tax reforms as
+“natural experiments” and with more sophisticated estimation techniques, the consensus
+view of the effects of government policy began to erode. In the next two subsections I
+will review in more detail two recent contributions to this literature. Each uses the ideal
+data, that is, panels of tax returns that straddle periods of tax reforms. However, the two
+papers come to strikingly different conclusions.
+6.3. Randolph’s 1995 JPE paper
+William Randolph (1995) used a panel of US federal tax returns running from 1979–89.
+This panel followed 12 000 filers and covered a period of two tax reforms. First was
+the Economic Recovery Tax Act of 1981 (ERTA) and second was the Tax Reform Act
+of 1986 (TRA). Each tax reform significantly reduced marginal tax rates, especially for
+high income tax payers, and reduced the number of different tax brackets. Randolph’s
+data over-samples wealthy households and his sample includes only itemizers.
+Randolph had two main objectives in his study. First was using the tax reforms to
+strengthen the identification of price and income elasticities of giving. Second was to
+address the issue of timing. If in a cross section people are adjusting the timing of
+their contributions because of fluctuations in their own marginal tax rates, this will have
+
+33 Most notable of these is Reece and Zieschang (1985). This also differed, however, by using data from the
+
+consumer expenditure survey rather than tax returns.
+
+Ch. 18:
+
+Philanthropy
+
+1237
+
+the effect of overstating the price elasticities of giving. The panel nature of his data,
+combined with the exogenous tax variation, will help differentiate between temporary
+and permanent changes in price, and thus identify short run and long run elasticities.
+To illustrate, consider this two-period model. Let g be gifts and T (y − g) be the
+tax schedule, with T  > 0, T  > 0. Let interest rates be zero, for simplicity. Then
+individuals solve
+max U (g1 , g2, x1 , x2 )
+s.t. x1 + g1 + x2 + g2 = y1 − T (y1 − g1 ) + y2 − T (y2 − g2 )
+Let y ∗ be permanent income and y T be transitory income, so yt = y ∗ + y T , t =
+1, 2. Then note that an increase in y ∗ will first have a normal income effect, but will
+also lower the price (raise marginal tax rates) in both periods. However, an increase in
+transitory income will only lower price in the current period. Given convex preferences,
+an increase in y T will have a bigger effect on current giving than a comparable change
+in y ∗ .
+Randolph’s empirical model considers the effect of both current and future prices and
+income. Let Pit and Yit be current prices and income (at the first price calculation) and
+Pit∗ and Yit∗ be expected future prices and income. Randolph then uses the Almost Ideal
+Demand System of Deaton and Muellbauer (1980) to estimate this equation:
+ 
+Pit
+Pit git
+= δot + δoi + Xit β + δ1 log
++ δ2 log Pit∗
+Yit
+Pit∗
+ 
+  2
+Yit
+Pit
+∗
++ δ3 log ∗ + δ4 log Yit + δ5 log
+(6.2)
+Yit
+Pit∗
++ δ6 log Pit · log Pit∗ + it
+This demand system is an extremely flexible generalization of Cobb–Douglas demands that allows for non-homothetic preferences and cross-price elasticities between
+current and future consumption. The equation includes fixed effects for both time, δot ,
+and individuals, δoi , as well as a vector Xit of characteristics, including age, age squared,
+and marital status.
+Since the econometrician does not observe either permanent or transitory income,
+or permanent or transitory prices, instruments must be chosen. We need at least four
+instruments, two that are correlated with the permanent components and two with the
+transitory components.
+Define the following: y i is the 10 year average of income, ERT A81 is a dummy
+variable equal to 1 for the years between ERTA and TRA, and T RA86 is a dummy
+variable for years under the TRA. The instruments for Pit∗ and Yit∗ used by Randolph
+are ln(y i ), ERT A81 × ln yit , and T RA86 × ln yit . The reasoning is that the average
+income is similar to permanent income, and that the tax reforms are exogenous, hence
+income in those years will be correlated with permanent income and price.
+
+1238
+
+J. Andreoni
+Table 4
+Randalph’s estimates of permanent and transitory price and income elasticities
+
+Income: Permanent, d(Y/Y ∗ ) = 0
+Transitory, dY ∗ = 0
+Price:
+
+Permanent, d(P /P ∗ ) = 0
+Transitory, dP ∗ = 0
+
+Unweighted
+means
+
+Weighted
+means
+
+1.30
+(0.02)
+0.09
+(0.03)
+−0.08
+(0.10)
+−2.27
+(0.13)
+
+1.14
+(0.01)
+0.58
+(0.01)
+−0.51
+(0.06)
+−1.55
+(0.06)
+
+Source: Randolph (1995). Standard errors in parentheses.
+
+The instruments for yiT and piT are (ln y i − ln yit ) × ERT A81 and (ln y i − ln yit ) ×
+T RA86. The reasoning here is that deviations from average income in the years of the
+tax reform will be somewhat exogenous measures of income shocks.
+Table 4 shows Randolph’s estimated price and income elasticities (both weighted and
+unweighted). As hypothesized, permanent income effects are much stronger than transitory changes, and the temporary price elasticities are much stronger than the permanent
+elasticities. In fact, the “consensus” elasticities of the prior literature fall between the
+permanent and transitory measures of Randolph. This supports the speculation that the
+prior literature had both understated income elasticities and overstated price elasticities. Since, as Randolph notes, “for tax policy predictions, it is often the permanent
+behavioral effects that matter most,” these estimates by Randolph have put the preceding literature into a whole new light. A similar analysis using panel data, by Barrett et
+al. (1997) found results quite close to Randolph’s. This research seriously undermines
+the consensus view on price and income elasticities and, in particular, suggests that the
+price elasticity that “matters most” may in fact be far closer to zero than previously
+believed.
+6.4. Auten, Sieg and Clotfelter’s 2002 AER paper
+Gerald Auten, Holger Sieg, and Charles Clotfelter (Auten et al., 2002) tackle the same
+questions as Randolph (1995). Their data is basically the same, but spans five more
+years, 1979–1993, and includes 20 000 filers in an unbalanced panel. The file, again,
+over-samples high incomes, while the sample is restricted to those who are itemizers
+throughout and those whose marital status does not change over the sample.
+Auten, Sieg, and Clotfelter’s (ASC’s) approach is vastly different from Randolph’s.
+Their analysis draws on modern studies of the permanent income hypothesis. Rather
+than instrumenting for permanent and transitory changes in income and price, ASC
+
+Ch. 18:
+
+Philanthropy
+
+1239
+
+recognize that the stochastic elements of income and price variation imply restrictions
+on the covariance matrices of income and price.
+They begin with a standard log–log regression equation
+ln git = α + β1 ln pit + β2 ln yit + ui + it
+
+(6.3)
+
+where ui is an individual fixed effect. For ease of notation, we drop the i subscripts and
+use bold to indicate variables in logs, that is xt = ln xit . Then rewrite (6.3) as
+gt = α + β1 pt + β2 yt + u + t
+To control for fixed effects, the authors consider first-differences, to get the estimation
+equation
+gt = β1 pt + β2 yt +
+
+(6.4)
+
+t
+
+The task then becomes to separate the permanent and transitory effects of income and
+price. Write these this way:
+p
+
+yt = yt + ytt
+p
+
+pt = pt + ptt
+p
+
+p
+
+Starting with y, assume that permanent income follows a random walk, yt = yt−1 + ξt ,
+where ξ ’s are independently and identically distributed random variables. Then write
+the transitory component as ytt = ηt . This means that we can write
+yt = ξt + ηt − ηt−1
+
+(6.5)
+
+This in turn implies that
+
+⎧ 2
+⎨ σ ξ + 2σ η2
+var( yt , yt−s ) = −σ η2
+⎩
+0
+
+s=0
+|s| = 1
+|s| > 1
+
+(6.6)
+
+A similar restriction results if we follow these steps again for p.
+p
+The authors then parametrize pt and ptt as
+p
+
+p
+
+pt = pt−1 + ωt + a1 ξt
+ptt = ςt + a2 ηt
+where the a1 and a2 reflect the fact that variability in income is a cause of variability in
+price. This then produces
+pt = ωt + a1 ξt + ςt − ςt−1 + a2 (ηt − ηt−1 )
+Combining (6.4), (6.5) and (6.7) we get the ultimate regression equation
+gt = b1 (ωt + a1 ξt ) + b2 (ςt − ςt−1 + a2 (ηt − ηt−1 ))
++ b3 ξt + b4 (ηt − ηt−1 ) + ψt + t − t−1
+
+(6.7)
+
+1240
+
+J. Andreoni
+Table 5
+Auten, Sieg and Clotfelter’s estimates of permanent and
+transitory price and income elasticities
+Unweighted means
+Income: Permanent
+Transitory
+Price:
+
+Permanent
+Transitory
+
+0.87
+(0.01)
+0.29
+(0.01)
+−1.26
+(0.04)
+−0.40
+(0.04)
+
+Source: Auten et al. (2002). Standard errors in parentheses.
+
+Estimating this model, and calculating the relevant permanent and temporary elasticities generates the numbers reported in Table 5. These results stand in stark contrast
+to those of Randolph. First, the elasticity of the permanent component is more elastic
+in both the price and income terms. This challenges Randolph’s claim that individuals
+will respond more aggressively to transitory changes in prices than in income. Second,
+the permanent price elasticity again exceeds the gold-standard of −1. This challenges
+Randolph’s second main contention, that cross sectional studies were seriously overstating price elasticities by merging temporary and permanent effects. This study indicates
+that, instead, the consensus view of a price elasticity of −1.3 is actually quite accurate.
+How do we reconcile these two studies? Should we believe price elasticities are low,
+as Randolph says, or high, as ASC report? We cannot attribute their disagreement to differing data—the two data sets are sufficiently similar that results are not likely to vary
+on this account. That leaves two remaining differences. First is the estimation method.
+Randolph uses instruments for permanent and temporary changes, whereas ASC gain
+identification through restrictions on the covariance matrix of price and income. This
+difference is not trivial. The second difference is the specification of the regression
+equation. At the heart of the ASC study is the log–log (or constant elasticity) specification, the same specification that produced high price elasticities in the prior literature.
+Randolph uses a flexible functional form that allows elasticities to vary across price and
+income. Which of these two differences is at the heart of this debate is impossible to
+tell simply by reading the papers. But, with the huge chasm between a price elasticity
+of −1.26 and −0.08 to −0.51, and the major policy implications of this difference, it
+seems worthwhile to invite further study on how best to measure these elasticities of
+charitable giving.
+
+Ch. 18:
+
+Philanthropy
+
+1241
+
+7. Gifts by the very wealthy
+Most of the studies reported in the prior section do not include the very wealthy. However, while the very wealthy are only a small fraction of all givers, when counted in
+terms of dollars donated their impact is quite substantial. According to one study, the
+richest 400 US tax filers in the year 2000 donated over $10.1 billion to charity, accounting for about 7% of all individual giving in that year.34 Moreover, with the expansion of
+wealth among the top wealth holders in the US over the recent decades, their influence
+is growing.
+Despite their importance, there are few studies of giving by the very wealthy. This
+is because data is scarce. Because the rich are relatively few in number, surveys have
+not attempted to reach them. However, even if they did, concern for anonymity would
+likely keep participation low. The best way to get information on large numbers of
+wealthy givers is from the IRS, including both income and estate tax filings. However,
+the privileged nature of this data restricts its availability, often limiting it to only select
+employees of the US Treasury. As a result, we rely largely on government researchers
+to produce studies for academic journals. Fortunately, several such high quality studies
+exist.
+Any discussion of gifts by the wealthy must include a discussion of the estate tax. In
+fact, a good de facto definition of “very wealthy” is those individuals whose heirs could
+have exposure to the estate tax. Some giving by the wealthy will surely be motivated by
+avoiding estate taxes and other taxes that fall predominately on the wealthy. However,
+there are other differences between wealthy givers and those of more modest means.
+Among the most important of these is that the wealthy can and do exert greater control
+over how their charitable gifts are spent. For example, large gifts may be rewarded with
+a seat on the governing board of a charity, and charities are more likely to tolerate
+conditions attached to large gifts. Finally, the very wealthy can often spurn existing
+charities and create new charities or foundations to suit their tastes. The explosion of
+private foundations in the past decade is a testament to this.
+In this section we will discuss giving by the very wealthy by first discussing the different tax consequences that these philanthropists face. We then discuss several studies of
+giving by the wealthy. Finally, we discuss what impact the recently legislated phase-out
+of the estate tax may have on giving by the wealthy.
+7.1. Tax consequences of gifts by the wealthy
+Compared to those of more modest means, the wealthy in the US face a much more
+complex tax code. Income taxes and estate taxes both affect the incentives to give. Income taxes change the price of giving relative to both consumption and bequests to
+
+34 A report by a foundation called Newtithing calculated this based on data from the Statistics of Income. See
+
+their report at http://www.newtithing.org/content/researchreports_1.html
+
+1242
+
+J. Andreoni
+
+Figure 6. History of top marginal tax rates in the US. Source: US Joint Committee on Taxation, March 6,
+2001, JCX-06-01.
+
+one’s heirs. Estate taxes can, of course, only affect the trade-off between charitable giving and bequests to one’s heirs. Here we highlight portions of US tax code which policy
+analysts will need to account for in determining the effect of taxes on giving by the very
+wealthy.
+Marginal income tax rates
+As with other tax-payers, the deductibility of charitable contributions reduces the price
+of giving. The rates faced by the wealthy have varied dramatically since the charitable
+deduction was introduced in 1917. Figure 6 shows the changes in the top marginal income tax rate. The top marginal tax rate reached a high of 90% during that World War II
+and has more or less steadily fallen since. In particular the tax reforms of 1981 and 1986
+reduced the top marginal rates significantly for wealthy families when they reached a
+modern day low of 28%. Tax changes instituted during the first Bush and Clinton administrations restored somewhat higher rates. However the 2001 tax cut brought the top
+rate back down to 33%.
+Charitable deduction caps
+Individuals are not allowed to deduct more than 50% of their adjusted gross income
+(AGI) through cash gifts to charities. Cash gifts to foundations are limited to 30% of
+AGI. Gifts of appreciated assets—which would have otherwise been subject to capital
+gains taxes—are deductible at their full market value, but only up to 30% of AGI or
+20% if the asset is given to a foundation. In general, tax payers are allowed to carry over
+
+Ch. 18:
+
+Philanthropy
+
+1243
+
+contributions made in excess of these limits for up to five years. It should be noted that
+wealthy donors are much more likely to run up against either of these deduction caps
+for charitable gifts. However, it is interesting to note that data from Joulfaian (2000)
+suggests that wealthy donors on average do not manage to deduct more than half of
+their lifetime contributions. It is not clear why this is. Perhaps large donors don’t really
+mind “contributing” to the US. government. In any case, this fact should give pause
+to any researcher trying to estimate a price elasticity. For example, should one use the
+price of the first dollar given to charity or the last dollar, since not carrying over the
+entire amount of a large contribution is equivalent to paying a marginal price of one?
+Overall limitation on itemized deductions
+Besides the caps put on charitable deductions per se, there is also a limitation on the
+sum total of all deductions from taxable income.35 Itemizers in tax year 2000 whose
+incomes are greater than roughly $129 000 are required to reduce their total deductions
+(with some exceptions which do not include charitable contributions) by the smaller
+amount of 80% of their deductions or 3% of their AGI over the threshold amount.
+Alternative minimum tax
+The very wealthy will very likely be subject to the Alternate Minimum Tax. This is relevant to researchers for two reasons. First, under the normal way of figuring deductions,
+gifts of appreciated assets to charities are deductible at current market value. However,
+for a period of time between 1987 and 1993, this was not necessarily the case for people
+exposed to the AMT. Second, the top marginal rates are lower under the AMT. Therefore the price of giving for wealthy people paying the AMT may be higher.
+The estate tax
+Because charitable bequests are deductible from taxable estates, the estate tax is the
+second source of subsidy when figuring the price of giving. An estate tax liability is set
+when the value of an estate, at death, exceeds a legislated exemption level. This exemption level was set at $121 000 under the 1976 Tax Reform Act which gave the estate
+and gift taxes their current ‘unified’ structure. The 1981 ERTA raised the exemption
+to $225 000. The 1986 TRA raised it to $600 000. The 1997 Taxpayer Relief Act put
+the exemption on a schedule of increases toward $1 000 000 by 2006. The 2001 tax cut
+accelerated the exemption level increases, as shown in Table 6, culminating in a total
+repeal by 2010. However, a sunset clause in the law will restore the estate tax to it pre2001 form for 2011 decedents. Careful estate planners may therefore choose 2010 as
+the tax-preferred year to die.
+35 For more detail, see the US Code Title 26, Section 68.
+
+1244
+
+J. Andreoni
+Table 6
+Effects of 2001 changes to the estate tax
+Year of death
+
+Taxable estate
+exemption levels
+
+Before the change
+2003
+2004–2005
+2006–2008
+2009
+2010
+2011 and beyond
+
+$600 000
+$1 000 000
+$1 500 000
+$2 000 000
+$3 500 000
+No estate tax
+Pre-2001 law rules
+
+Currently the top marginal tax rate on estates is 49%, making a $1000 bequest to
+charity cost just $510 in one’s heir’s wealth. It is important to keep in mind that estate
+tax also lowers the price of giving for contributions made during life. For example, for
+an individual in the top income tax and estate tax brackets, the price of $1000 given to
+charity while alive is just $340 of heir’s wealth—the gift first avoids the 0.33 marginal
+income tax rate and then also the 0.49 marginal estate tax. An unsettled question in the
+literature is why, given the added benefit to one’s heir of giving during life, do we see
+the wealthy give so much in the form of bequests.
+Foundations and trusts
+An increasingly popular way for the wealthy to make charitable gifts is through establishing foundations and trusts. The laws regulating these are voluminous and complex.
+Auten et al. (2000) have an excellent overview of the regulations governing these, which
+I summarize here.
+A foundation is typically set up by an individual or family as an intermediary that
+makes grants to actual operating charities. Gifts to foundations are deductible from
+either current income or from the estate. Foundations’ actions are limited by many regulations. Among the more important ones is that a foundation must give away a minimum
+of 5% of its assets each year.36
+Besides foundations, the law recognizes several forms of split-interest trusts which
+have both charitable and non-charitable beneficiaries. A popular form is the charitable
+remainder trust (CRT). A CRT pays its non-charitable beneficiary either a fixed annuity
+or a fixed percentage of trust assets. When the trust expires, the remaining assets are
+
+36 A legislative debate in the US is currently under way about whether this requirement should be raised.
+
+See the “Charitable Giving Act,” H.R. 7 of the 149th Congress. In particular, if the required distribution rate
+falls below the growth rate of the assets of the trust, it is possible for the foundation to exist in perpetuity.
+Questions have been raised as to whether this is desirable for either tax or societal reasons.
+
+Ch. 18:
+
+Philanthropy
+
+1245
+
+transferred to a charity. The principle tax advantage is that the donor can deduct from
+current income the amount eventually to be given to the charitable organization. The
+IRS Statistics of Income reports that 85 060 returns were filed by CRTs for the 1998 tax
+year—a 19% increase over the number filed in 1996.
+7.2. Differences in giving behavior
+Virtually the only source for learning about wealthy givers is tax filings. This means,
+however, that information is only available for itemizers. Surprisingly, not all high income tax payers itemize their returns. Of those earning $50–75 000 in 2000, 62.7% were
+itemizers. The number climbs to 81.1% for those earning $75–100 000, but plateaus at
+90.5% for those earning from $100 000 up to $5 million. And for those earning over $5
+million, only 95.5% are itemizers.37 Thus, if those who fail to itemize are also making
+considerable charitable donations, the inferences from these tax returns may be somewhat biased.
+The first question to ask about the wealthy is, are they more or less generous than
+middle income tax payers? Table 7 shows that this depends on the measure of overall
+generosity. The average level of giving as a percent of income is 2.6% for those making
+$50 000, rising to 4.0% for those making $2.5 million annually, indicating that the rich
+are, on average, more generous. When measured by the median giver, however, the
+rich appear less generous. The median $50 000-per-year-earner gives 1.4% of income,
+while the median $2.5-million-earner gives only half as much, 0.7%. What’s behind this
+switch? The final column of Table 7 gives an answer—the variance of generosity rises
+dramatically with income. The 95th percentile gift is about 8–10% of income for those
+making less than $1 million, but for those making over $2.5 in 1995, the 95th percentile
+gift is almost 21% of income.
+One could be tempted to conclude from this that some of the rich are exceptionally
+generous, while the majority are extremely selfish. This could be incorrect, however.
+The reason is that giving by the wealthy is much more sporadic over time. They may
+give nothing for many years and then make a major donation all in one year. A sociological study by Schervish and Havens (2003) indicates that the wealthy are looking for
+ways to donate money that will have the greatest impact but will retain some control by
+the donor. Large gifts made all at once may make this more likely. Moreover, large onetime gifts are more frequently rewarded with monuments, such as a name on a campus
+building, than are equivalent gifts acclimated over a number of years. Hence, once can
+speculate that the rich may be hoarding their money so that, when they do give it away,
+they get a greater personal benefit from the act of giving.
+Another reason giving by the wealthy may be more sporadic and “lumpy” is that they
+are more likely to give gifts in kind, such as appreciated property. For instance, giving
+a valuable Picasso painting to a museum is, by necessity, a one-time large gift. Giving
+
+37 These percentages are from the author’s calculations from the IRS Statistics of Income for 2000.
+
+1246
+
+J. Andreoni
+Table 7
+Giving as percent of income, 1995
+Adjusted gross income
+
+Mean
+
+Median
+
+95th percentile
+
+50K to 100K
+100K to 200K
+200K to 500K
+500K to 1 Million
+1M to 2.5 Million
+2.5M and above
+
+2.6
+2.4
+2.6
+2.7
+3.2
+4.0
+
+1.4
+1.3
+1.2
+1.0
+0.8
+0.7
+
+10.0
+8.5
+9.0
+9.7
+14.0
+20.9
+
+Source: Auten et al. (2000).
+
+Table 8
+Non-cash contributions as a percent of total contributions, tax
+year 2000
+Adjusted gross income
+
+Percent non-cash
+
+$50 000 to $100 000
+$100 000 to $200 000
+$200 000 to $500 000
+$500 000 to $1 000 000
+$1 000 000 to $1 500 000
+$1 500 000 to $2 000 000
+$2 000 000 to $5 000 000
+$5 000 000 to $10 000 000
+$10 000 000 and above
+
+17.2
+21.0
+25.3
+35.2
+42.1
+44.8
+49.5
+57.1
+73.9
+
+Source: Tabulated by Auten et al. (2000) from IRS Statistics
+of Income of Individual Income Tax Return Samples.
+
+appreciated stocks may also be lumpy because of market timing concerns. Table 8 shows
+that this effect grows rapidly with income.
+Despite the clear tax advantage of giving during life, the rich hold a surprising fraction
+of giving in their estates. Joulfaian (2001) uses data built from a panel of income tax
+returns and subsequent estate tax returns to show this, as seen in Table 9. The preference
+for delaying giving until death goes against the grain of tax incentives. The price of lifetime contributions is effectively lower since one enjoys both an income tax benefit and
+the same estate tax savings down the road. Joulfaian speculates that this behavior among
+the very wealthy may represent a reluctance to part with wealth during life. Or it could
+be that the wealthy consider government to be as good a recipient of their assets as any
+charity or heir. In an interesting clue to the psychology of wealth, Avery and Rendall
+(1993) claim that inherited wealth is held more dear than earned wealth—they find that
+entrepreneurial wealth is given away at a rate six times that of inherited wealth.
+
+Ch. 18:
+
+Philanthropy
+
+1247
+Table 9
+Giving in estates
+
+Wealth at death
+(in $1 million)
+
+Total giving
+(in $1000)
+
+Bequest share
+(%)
+
+Under 1
+1 to 2.5
+2.5 to 5
+5 to 10
+10 to 20
+20 to 50
+50 to 100
+100 and over
+
+129
+213
+452
+728
+1851
+6059
+8533
+244 907
+
+0
+12.2
+6.9
+26.4
+28.9
+51.6
+59.5
+77.6
+
+Source: Joulfaian (2001).
+
+A final feature of giving by the wealthy is that they give to a dramatically different
+set of recipients. In particular, while religious causes are the target of a large percentage
+of contributions across the entire population, wealthy donors give almost nothing to
+religious charities. Looking at charitable bequests alone, Auten et al. (2000) calculated
+that estates of less that $1 million give 27% to religious causes, estates of about $5
+million gave about 13% to religion, estates of about $10 million gave about 6% to
+religion, but estates over $20 million gave less than 1 percent to religious charities.
+7.3. Tax elasticity of gifts in life and at death
+A central question for policy makers is how does the estate tax effect giving by the
+wealthy, both in life and at death. As such, we define “very wealthy” as whether the
+taxpayer faces exposure to the estate tax. Two recent studies have made important contributions to this issue.
+First, David Joulfaian (2000) notes that prior studies of the estate tax focused only
+on its effect on charitable bequests, ignoring the prospect that the estate tax can also
+affect gifts during life. Joulfaian accounts for both by employing to a 10 year panel of
+individual income tax returns and those same individuals’ estate tax returns. Joulfaian
+limits his sample to only those with possible exposure to the estate tax.38
+Joulfaian estimates estate-tax price elasticities, income-tax price elasticities, and income elasticities on total giving (in life and at death) under various specifications. He
+finds estate tax price elasticities are positive, ranging between 1.1 and 1.7. He finds
+income tax price elasticities around −2.8 for all specifications and wealth elasticities
+of roughly 1.0 for most specifications. Combining the effects, Joulfaian claims that a
+38 During the period of his sample, all estates with gross assets over $600 000 were required to file estate tax
+
+returns. These filings, including those which owe no taxes, are included in Joulfaian’s sample.
+
+1248
+
+J. Andreoni
+
+repeal of the estate tax would reduce total contributions by up to over 30%, depending
+on the specification.
+A second paper, by Bakija et al. (2003), focuses on the effect of federal and state
+inheritance taxes on charitable bequests. The study is notable for the scope of its data,
+which draws on virtually every federal estate tax return filed since 1945. The returns
+contain information on state of residence which they use to calculate the total tax rates
+faced by decedents. They estimate both price and wealth elasticities under several specifications. Under the most straightforward specification, they estimate a price elasticity
+of −1.62 and a wealth elasticity of 1.32. Both estimates have extremely low standard
+errors. Under their most inclusive specification which controls for wealth, states of residence, and years, they estimate a significantly greater price elasticity of −2.14 and an
+only slightly higher wealth elasticity of 1.55.
+This paper is also noteworthy for its interpretation of the elasticity estimates. They
+argue that due to the progressivity of the estate tax, its total repeal would increase the
+price of charitable giving by a much greater percentage than such a repeal would increase wealth. For the average individual in their sample, the absence of the estate tax
+would have increased the price of charitable bequests by 77% while only increasing
+disposable wealth by 24%. Therefore, they argue, wealth elasticities would have to be
+three times greater than price elasticities in order for a repeal to have a neutral effect on
+charitable bequests. Since their range of estimates show wealth elasticities at most on
+par with price elasticities, they predict a repeal would result in a significant reduction of
+charitable bequests.
+
+8. Giving time
+While we have thus far focused on gifts of money, charities also benefit from substantial gifts of time. Americans are especially generous volunteers. According to a recent
+national survey, 44% of respondents claimed to give time to a charitable organization in
+the prior year, with volunteers averaging about 15 hours of volunteer time per month.39
+These gifts of time clearly have great value to the charitable sector, and it seems
+important for policy makers to understand the influences of volunteering, the value of
+volunteering, and its interaction with gifts of money. The question of the joint determination of time and money gifts is especially important. Suppose, for instance, that
+time and money gifts are substitutes. Then a policy, like the charitable deduction, that
+increases gifts of money may have the effect of reducing gifts of time. Any policy analysis would overstate the benefits by ignoring the tradeoff between time and money. On
+the other hand, suppose time and money gifts are complements. Then the subsidy to
+money will have the added benefit of producing more time contributions as well, and
+the policy would be even more beneficial than thought before.
+
+39 Independent Sector, Giving and Volunteering in the United States, 2001, Washington, DC.
+
+Ch. 18:
+
+Philanthropy
+
+1249
+
+What can economic theory tell us about the complementarity or substitutability of
+gifts of time and money? It turns out, this depends critically on the assumptions we
+make on givers’ preferences.
+8.1. Theoretical framework for volunteering
+Let m be an individual’s money gift and v be volunteer hours. Let x be consumption,
+ be leisure hours. Let t be the marginal tax rate applied to market wages, and t  be the
+marginal tax rate applied to charitable deductions. For itemizers t = t  , but for nonitemizers t  = 0. Then w(1 − t) is the after-tax wage the person earns in the market, and
+1 − t  is the price of giving. Let wo be non-labor income and assume a time endowment
+of 1. Then all givers face the budget constraint x +(1−t  )m = wo +w(1−t)(1−−v).
+Notice that w(1 − t), the opportunity cost of leisure, is also the price of volunteering.40
+Then a simple first model would assume individuals are warm-glow givers who care
+only about the dollars they give away and the hours they volunteer. That is, givers have
+the simple preferences:
+Model 1: u(x, , m, v)
+Model 1 give us no guidance as to whether time and money are complements or
+substitutes—it all depends on preferences. Model 2 will change this.
+Notice that Model 1 assumes that individuals care about their expenditures on different components of their donation, that is the dollars and hours they give. Since giving is
+motivated by some altruistic concern for the charity, it may make more sense to assume
+that individuals care about the impact of their contribution instead. That is, volunteers
+may ask, “What are my hours worth to the charity?” It seems reasonable that a volunteering attorney would get more satisfaction by giving free legal advice to the charity
+than from mopping its floors, and he would feel like each hour he gives contributes more
+to the charity. Let w be the wage imputed to the activity the individual volunteers for.
+One can think of this as the wage the charity would have to pay to contract for these
+services in the market.41 It thus makes sense to think individuals care about the total
+value of their contribution, both money and time. That is, they care about c = m + w  v.
+Individuals thus have preferences
+Model 2: u(x, , m + w  v)
+Notice that Model 2 assumes that individuals gain no extra utility from volunteering
+per se, apart from how it increases the total value of their contribution c. Likewise,
+40 Periodically there is a call in the public press, and even among some economists, to make volunteer time
+
+“tax deductible.” This budget constraint reveals that it in fact already is. By working an hour for the charity,
+at an opportunity cost of w(1 − t), there is no net impact on tax liabilities. The same is true if the hour was
+worked in the market and the pre-tax wage was given to charity. Hence, tax law treats time and money gifts
+identically—both gifts escape income taxation.
+41 Freeman (1997) offers evidence that, in fact, w and w  are highly correlated.
+
+1250
+
+J. Andreoni
+
+they get no independent warm-glow from money gifts. This assumption now makes
+time and money perfect substitutes—givers care about which creates more value for the
+charity. In fact, one can see that from a technological point of view, time and money
+gifts should be perfect substitutes. It is only preferences for giving in one form or the
+other that should create complementarity.
+The simple observation of Model 2 creates a stark prediction. First, since m and v are
+perfect substitutes, people should tend to choose one or the other. But, suppose people
+work in a competitive labor market, and choose their labor hours optimally—they aren’t
+constrained to work more or fewer hours than they desire, and they work in the best
+paying job their skills will support. Then it must be that w ≥ w  , that is, the wage earned
+in the labor market exceeds the wage imputed to the volunteer activity.42 Why? If not
+then the worker could switch jobs and be made better off. Stated differently, people can
+only volunteer for jobs that they are over-qualified for. The lawyer can volunteer his
+legal expertise or can mop the organization’s floors, but a janitor cannot provide legal
+advice. Now suppose an individual is considering spending an hour volunteering, thus
+donating w  v, or spending another hour in the labor force and donating the money she
+earns. If gifts are fully deductible and p = 1 − t, then working an extra hour means
+she can donate the pre-tax wage w. Hence, as long as w > w  , this person will strictly
+prefer working and giving money rather than volunteering time. If people care about the
+total value of their donations, therefore, volunteering should be extremely rare among
+itemizers.
+As noted at the top of this section, volunteering is anything but rare. So, while
+Model 2 captures some interesting and surely important features of the giving decision,
+it cannot explain much of the data. There needs to be some independent warm-glow ascribed to volunteering itself. This suggests the final model is likely to be the best guide
+to thinking about volunteering is
+Model 3: u(x, , m + w  v, m, v)
+This model contains Models 1 and 2 as special cases. But, as shown by Andreoni et al.
+(2004), to the extent that people care about total value of donation, there should be a
+fundamental bias in the data toward giving money first. Only after the marginal warmglow of money gifts falls should people switch to giving time. That is, we should be
+more likely to see time gifts follow money gifts than vice versa.43
+8.2. Empirical studies on gifts of time and money
+One of the first empirical studies of volunteering was by Menchik and Weisbrod (1987),
+using the 1974 National Survey on Philanthropy. They considered Model 1 above, and
+42 The payroll tax creates a wedge that may cause this to be contradicted.
+43 Why might time gifts have independent warm-glow? First is the simple joy of being involved. Second
+
+is that volunteering helps gather information about how the organization spends money, so has value as an
+oversight tool. Finally, Menchik and Weisbrod (1987) hypothesize that individuals volunteer to learn valuable
+job skills or to make contacts useful in the future. They find some weak evidence to support this view.
+
+Ch. 18:
+
+Philanthropy
+
+1251
+
+focused solely on hours, not dollars, given. They found volunteering is sensitive to the
+market wage rate, with a elasticity of −0.4. Including the price of money donations in
+their regression, they found that time and money are gross complements—the higher
+the cost of giving cash gifts, the less people give time. In the remainder of this section
+we will discuss the findings of three recent studies that explored the joint determinants
+of time and money.
+Brown and Lankford (1992) are the first to look at time and money gifts in the same
+model. They used a special sample of Florida households in 1984. The survey asked
+about giving and volunteering of the respondent in the prior year. Their sample included
+915 females and 717 males. Over 55% of respondents who work full time reported
+volunteering, and over 65% of retirees reported volunteering. All respondents averaged
+7.4 hours of volunteering per month.
+Brown and Lankford estimated a seemingly unrelated regression (SUR) model on
+time and money gifts. Because of possible differences in time gifts by sex, they estimated a three-equation model, one equation for money gifts, one for time gifts by
+women, and one for time gifts by men. As suggested by the theoretical model above,
+they find that the probability of giving time conditional on giving money is twice as
+high as the probability of giving money conditional on giving time (0.49 versus 0.25).
+This is consistent with a concern for the total value of a contribution, thus reflecting
+the natural tendency for time and money to be substitutes. However, they also find the
+correlations of the error terms in the SUR analysis to be large and positive. While
+this could be caused by individual heterogeneity in the cross section, it could also
+mean that preferences are indeed imposing a complementarity. This is also reflected
+in the large and negative cross price elasticities, estimated by Brown and Lankford
+to be −1.79.44
+While these two studies seem to point to significant complementarity, two other studies indicate substitutability. Freeman (1997) uses 1990 survey data from Independent
+Sector to regress ln(volunteer hours) − ln(money donations) on ln(wage). Since the
+wage is the relative cost of volunteering, this coefficient is an indicator of the elasticity of substitution between time and money gifts. Freeman finds a large negative
+coefficient, indicating substantial substitution—those with higher wages favor gifts of
+money.45 Duncan (1999) uses the same data set considered by Menchik and Weisbrod
+(1987) and explicitly explores the hypothesis that time and money are perfect substitutes. His results are mixed, but he is unable to reject the perfect substitutes hypothesis.
+
+44 Brown and Lankford conduct a final interesting policy experiment. What happens to volunteerism by
+
+women if those out of the labor force suddenly begin to work full time? The reduction in time available
+reduces volunteering, but the income effect increases it. The net effect, they report, is that this would lead
+women to cut back volunteering by a little over 30 minutes per week. Similar conclusions were reported by
+Tiehen (2000) who studied female labor and volunteering trends from 1965 to 1993. Little of the decline in
+female volunteering could be attributed to labor market participation.
+45 Freeman’s estimates, however, assume that the price of giving is one. In fact the price of giving should fall
+as the wage goes up, which should reduce this estimated elasticity of substitution and weaken his claim.
+
+1252
+
+J. Andreoni
+
+The published literature leaves open the question of whether time and money are
+complements or substitutes. Of course, estimation of volunteerism is hampered by all
+of the same difficulties discussed in the section on gifts of money. However, in this
+case the identification of the effect of the tax-subsidy to giving is even more severe.
+The marginal tax rate is also going to keenly influence the elasticity of labor supply,
+which will affect the propensity to volunteer. Most of the data on volunteering does
+not also include hours worked in the market. Although they recognized this problem,
+Brown and Lankford could not fully address it, and were forced to take available hours
+as exogenous. On the other side, Freeman’s analysis made no attempt to account for the
+charitable deduction on volunteer hours.
+In sum, the literature on time and money contributions is in great flux, and there has
+yet to be a definitive study to address this gap.
+
+9. Fund-raising: charities as strategic players
+Both the theoretical and empirical analysis presented thus far have assumed that charities have no active role to play in extracting donations from potential givers. In fact,
+fund-raising is a vibrant, innovative and highly professional industry with trade organizations and professional accreditation—one university even offers a professional
+degree in fund-raising. According to one estimate, about 115 000 organizations hire
+fund-raising staff and consultants, spending $2 billion per year on fund-raising. In 1995
+the twenty-five largest charities spent an average of over $25 million each on fundraising, or about 14 percent of charitable gifts.46
+This raises several important questions. What role do fund-raisers play in affecting
+the gifts received by charities? How do they respond to government policy? How do
+they affect the efficiency of the goods provided?
+Understanding the institution of fund-raising can be quite important in setting policy toward charities. Consider the following suggestive evidence. In the 1980s there
+were severe reductions in marginal tax rates. The economists’ models predicted a steep
+decline in giving. However, giving over this period seemed largely to follow trends
+established years earlier.47 At the same time, the popular press reported a new phenomenon called “donor fatigue.” As charities faced an anticipated loss in revenues, they
+became more aggressive in soliciting donors, leading donors to feel tapped-out. In response, press reports account, charities were adapting to the new situation by altering
+their fund-raising tactics.48 Charities, it seems, were responding strategically to changes
+in government policy, which in turn could have mitigated its effect. Because economic
+46 See Andreoni (1998) for more discussion of these and other facts about fund-raising.
+47 See Clotfelter (1990) for a discussion of the response to the 1980s tax reforms. See also Figure 1 in this
+
+paper.
+48 For instance, the Wall Street Journal, July 13, 1989 (Section 2; Page 1, Column 3), in an article entitled
+
+“Charities Shift Marketing Tactics in a Bid to Offset ‘Donor Fatigue,’ ” reports that, “Donor fatigue has
+
+Ch. 18:
+
+Philanthropy
+
+1253
+
+analysis had not accounted for the strategic response of fund-raisers, it made incorrect
+predictions about the consequences of policy changes.
+Economists have only just begun to take seriously the effects of fund-raising in understanding the strategic equilibrium of charity markets.49 The reason, in part, is that
+it remains a difficult area to study. First, there is very little direct information on fundraising. Some data sets include measures of dollars spent on fund-raising, but there is no
+systematic evidence on fund-raising practices. One is left to scour fund-raisers’ training
+manuals and “how-to” books for generalizable facts about fund-raising tactics. Second,
+it is difficult to establish theoretically how fund-raising works. The problem is similar
+to that of advertising—how do these efforts alter or facilitate demands for giving?
+Next I give an overview of the budding theoretical and empirical literatures on fundraising. The theoretical literature separates fund-raising into two categories, capital
+campaigns and continuing campaigns. Capital campaigns characterize new charities,
+or major new initiatives of existing charities, such as buying expensive equipment, constructing new buildings, opening a new office, or expanding to include a new type of
+service. Hence, capital campaigns have two distinctive features. First is possibly large
+fixed costs of capitalization, and second is incomplete information about the quality or
+success of the project.
+Continuing campaigns, by contrast, raise the operating funds for ongoing charities,
+funding things like salaries, direct services, supplies and maintenance. It is unlikely that
+continuing campaigns can be built around revealing information about the charity. As
+a result, models of continuing campaigns have focused on revealing information about
+the donors. We consider each type of fund drive in turn.
+9.1. Capital campaigns
+In building models, we first need to collect the stylized facts that can shape our models.
+Below is a partial list.
+Capital campaigns have three phases: Research, Silent Phase, and General Campaign. Capital campaigns are nearly universally characterized by these three
+phases.50 In the research phase the organization identifies potential donors who could
+give significant funds. In the silent phase the charity attempts to collect about one
+third of its ultimate goal from a small number of these large donors, perhaps even
+one. The general campaign then collects the rest in relatively small donations.
+become a major marketing roadblock for charities that need to raise money steadily, year after year.” They
+go on to report that, “Charities are revamping their marketing efforts in attempt to reach new audiences of
+potential donors.”
+49 Rose-Ackerman (1982) provides the first major theoretical model that includes fund-raising. Rather than
+explain how fund-raising works, she shows how free entry into a charity “market” with slight “product differentiation” can lead to socially inefficient amounts of fund-raising—a monopoly charity could raise as much
+revenue with lower fund-raising expense. The reason is that some fund-raising is shifting gifts across charities
+rather than creating new gifts.
+50 See Andreoni (1988) for a discussion of sundry sources for this claim.
+
+1254
+
+J. Andreoni
+
+Capital campaigns announce gifts, especially the first gift or group of gifts. This
+observation is important because it defies economic reasoning—in a simple model
+like those of Section 3 above, announcing gifts should only encourage free riding,
+especially when those gifts are large.51
+Wealthy “leadership givers” give first, and make extraordinary gifts. Large gifts,
+often called leadership gifts, are used to start major fund drives. Why do they come
+at the beginning rather than the middle or end?
+Some gifts are meant as “seed grants” that spur others to give. Fund-raisers hate
+anonymous gifts, since they say that large publicly given gifts can be used to encourage others to donate.52 Some philanthropists are committed to providing “challenge
+grants” that are meant as examples for others to follow.53
+We have two features of capital campaigns to use as foundations for explaining these
+facts: potential fixed costs of capitalization, and incomplete information on the quality
+of the new project. Below I will introduce three classes of models and motivate how
+they can explain the stylized facts.
+Model 1: Full information on quality, fixed costs of capitalization
+This analysis is based on Andreoni (1988). Consider building a business school on campus. Unless the university can raise a minimum amount of money, the building cannot
+be built. However, if it exceeds this minimum, the quality of the building can rise with
+the dollars donated. That is, there are fixed costs (or increasing returns) of providing the
+public good. How does this observation affect the model of privately provided public
+goods?
+Return to the model of Section 3 above. First,
+ignore the fixed cost and suppose there
+exists an interior equilibrium. Call this G∗ = ni=1 gi∗ . Now, add in the fixed costs by
+redefining the level of the public good this way:
+n
+n
+i=1 gi if i=1 gi ≥ G
+G=
+0
+if ni=1 gi < G
+where G is the minimum amount needed before the public good can be built.
+Suppose that G < G∗ , so that the original Nash equilibrium remains. However, this
+threshold G can also create a second Nash equilibrium at zero gifts. Suppose everyone
+is giving zero, and that G is so large that no one individual would be willing to give G
+
+51 See, e.g., Varian (1994a) for a discussion of sequentially provided public goods.
+52 New York Times, November 18, 1998, “Got a Match? If Not, You Lose the Grant,” by David Firestone,
+
+says “When a big (leadership giver) comes in, the smaller donors pay attention. It legitimizes a fund-raising
+project and puts the institution on a much faster track.”
+53 Notables are Brook Atsor and foundations, like the Kresge Foundation. See Potters et al. (2005) for discussion of this evidence.
+
+Ch. 18:
+
+Philanthropy
+
+1255
+
+as a best reply. Then gi = 0 for all i will be a Nash equilibrium. Without some efforts
+to get the economy over the threshold G, no public goods will be provided.
+What’s the solution? The “silent phase” of fund-raising. If the charity can raise
+enough dollars to assure people that the threshold G will be met, then the interior equilibrium G∗ will be attained. Let G−i be the solution to u(mi + G−i − G, G) ≡ u(m, 0).
+Then G−i is the amount of giving by others that makes i indifferent from making a gift
+to cover the threshold and not. Let GS be the minimum among all of these G−i ’s. If the
+fund-raiser can raise GS in the silent phase, perhaps in the form of binding pledges,54
+then moving to the general campaign phase will be successful. Notice that GS is below
+the technological threshold G, so these gifts themselves do not need to be enough to
+guarantee the good is built, but they must be enough to assure that the threshold G will
+be met.
+This fixed cost of public goods now gives a purpose to fund-raising. There must be
+concerted and coordinated efforts to secure a significant fraction of the funds ultimately
+needed before a general fund drive can be announced.55 This model can capture three of
+the stylized facts above: A silent phase organizes a few wealthy donors first, announces
+their gifts, and these spur others to give. Next we look at models that can also explain
+why some leadership gifts are extraordinarily large.
+Model 2: Unknown quality that can be learned in advance
+We now focus on incomplete information. Suppose a charity can be of two qualities.
+If quality is 0 then the good is “worthless” and everyone would prefer it not be built.
+Or the quality can be 1, in which case people would prefer to build. Assume that the
+probability that the good is worthless is high enough that no one is willing to build the
+public good without some additional confidence on the quality. Suppose that by paying
+a cost c > 0 an individual can learn the true quality. Vesterlund (2003) analyzes a
+model of this sort and assumes that the charity has the strategic choice of first soliciting
+a contribution from a particular individual, and then adopting a policy of announcing
+this person’s contribution or not. What can a potential giver glean from a charity that
+chooses not to announce contributions?
+Vesterlund shows that in a Bayesian–Nash equilibrium all of the high-quality charities
+will choose to announce gifts, and zero-quality charities will be indifferent to announcing and not. The selected first-giver will pay the cost c of learning information only if
+the charity announces gifts. If the gift is positive, then people will infer the quality is
+good. In this model the charity signals its quality by announcing gifts, and the informed
+first-giver signals the quality of the charity by making a large gift.
+
+54 The fund-raiser could employ a common mechanism for providing G
+
+S among a small number of rich
+donors. For example, the subscription mechanism of Admati and Perry (1991).
+55 They also show that governments or foundations can also provide the needed G . See List and LuckingS
+Reiley (2002) for an experimental demonstration of this effect.
+
+1256
+
+J. Andreoni
+
+Andreoni (2006) builds on this result by assuming a good charity can be of two possible qualities, high, H , or low, L. People prefer to build a charity of either quality, but
+are willing to pay more for the high quality charity. This creates an interesting dilemma
+for a giver who learns that the quality is only L. He prefers to fool others into thinking that the quality is H , in which case they would give more to the public good, for
+which the first-giver will benefit. This means that if he actually does observe quality H ,
+he cannot simply give the amount that would be consistent with common knowledge
+of high quality—people would assume the quality is low. Instead, the first-giver must
+make a gift that separates a quality H from quality L. That means that the lead giver
+must give an extra-large donation, larger than he would if H were common knowledge.
+This explains why first givers give large gifts, but why are they also rich? This is a
+question of who will volunteer to move first and provide this extra-large leadership gift.
+Building on results of Bilodeau and Slivinski (1996a, 1996b), Andreoni (2006) shows
+that this war-of-attrition will lead the richest giver to be the lead giver since they have
+the lowest opportunity cost of providing the signal. This now explains the final stylized
+fact—leadership givers are the wealthy and they make extraordinarily large gifts.
+Model 3: Unknown quality that can only be learned by experience
+A feature of seed grants not captured by the models above is that they are sometimes
+in the form of experiments. Suppose the quality of the charitable project can only be
+learned after it is in operation. If the charity performs well, then the next year it can
+be expanded. The more of the good we provide this year, the faster we learn about its
+merit. But this means gifts have two positive externalities. First, they provide charitable
+services; and second, they allow us to learn about the quality of the charity. But this
+simply compounds the free-rider problem since now people have two reasons to let
+someone else give first.
+Consider a world with risk averse agents with identical preferences but different degrees of income. For this case, construct a model in which public goods can grow like
+snowballs over time.56 Because of decreasing absolute risk aversion, the rich will give
+first—they are most able to absorb the risk of a low-quality charity. If the experiment
+goes well and potential givers become more confident that the quality is good, the next
+people down the income distribution become willing to give as well. As time goes on
+good charities grow in both dollars donated and numbers of givers, while bad charities
+shrink and fade away.
+9.2. Continuing campaigns
+Continuing campaigns are about raising money for an established charity. The funds
+pay the operating expenses of the organization. Here are some of the stylized facts on
+continuing campaigns:
+56 See Yildirim (2003), and Bolton and Harris (1999) on strategic experimentation.
+
+Ch. 18:
+
+Philanthropy
+
+1257
+
+The power of the ask. Both charities and donors report that the most effective fundraising tool is to directly ask someone to donate.
+Donors are recognized. Donors see their names printed in the program for the opera
+or in the alumni magazine, or hear their name broadcast over public radio. Often
+donations are reported in broad categories rather than by exact amounts.
+Charity raffles and auctions. These devices often generate surpluses when run by
+charities that far exceed what raffles or auctions would get in the absence of a charitable beneficiary.
+The literature on continuing campaigns is organized around these stylized facts. The
+focus of the models is often on how charities can manipulate the incentives to provide
+“social rewards” to donors, such as recognition, and how charities might compete with
+each other for attracting donors’ dollars. Again, I present summaries of the different
+models.
+Model 4: The power of the ask: latent demands for giving
+An iron law of fund-raising is that people tend not to give unless they are asked. Why
+would someone with a desire to give wait until they get a mailing or phone call?
+Andreoni and Payne (2003) build a model in which donors have latent demands to give,
+but transaction costs such as finding the address or simple procrastination keep them
+from giving. When contacted by a charity, their costs fall dramatically and so they give.
+The models assumes that charities differ on some dimension θ, and that each donor has
+a favorite θ . If contacted by several charities, donors give to the one whose θ is closest
+to their favorite. The closer the charity is to their ideal, the more the donor gives. Thus,
+solicitations increase donations for two reasons. First, they turn non-donors into donors;
+and second, they move givers to charities they prefer.
+Andreoni and Payne (2003) then ask what happens to fund-raising efforts when a
+charity gets a grant from the government. The answer is fund-raising falls. This is due
+in part to classic crowding out, but also to the fact that any solicitation is likely to be less
+productive, so charities will choose to conduct fewer of them. The net effect of the grant
+is then to reduce donations to the recipient charity, some of which are lost altogether and
+some of which shift to competing charities. Hence, we can observe crowding out in part
+because donors give less, but also because charities ask for less. However, even if fewer
+dollars are given to the organization receiving the grant, some of those dollars are given
+instead to other firms. Analyses that ignore these two effects—the endogeneity of fundraising and the shifting of donations to competing charities—will overstate the problem
+of crowding out.
+Model 5: Donor recognition: signals of wealth, altruism or prestige
+Charities often provide public recognition to donors. They publish names of donors or
+give them tokens, such as coffee mugs, to display to others. Some of this effect may be
+psychological—givers are showing pride, avoiding shame, or bowing to social pressure,
+
+1258
+
+J. Andreoni
+
+as suggested in experiments by Andreoni and Petrie (2004) and Rege and Telle (2004).
+Romano and Yildirim (2001) show theoretically that if donors are affected this way,
+which they characterize generically as “snob-appeal,” then announcing donations can
+produce competition among donors to appear generous. Taking a different approach,
+Glazer and Konrad (1996) suggest that donors may also be using charitable gifts as a
+way to signal their wealth to others. Giving may be an especially good form of “burning
+money” since it has the added benefit of helping the world and of lending some prestige
+to the donor.
+Harbaugh (1998a) notes that a clever charity can capitalize on donors’ desires for
+prestige by manipulating the reports of donors. For instance, rather than reporting exact dollar donations, suppose charities reported donations in categories, such as “gave
+$1000 to $2000”. By carefully selecting these categories, fund-raisers can nudge people
+to increase their donations in order to qualify for the next higher reporting category.
+Of course, poorly selected categories can have the opposite effect. Harbaugh (1998b)
+shows the effect empirically—gifts to a law school’s fund drive were almost exclusively
+made at the lower end of each reporting bracket.57
+Model 6: Charity raffles: endogenous subsidies
+Morgan (2000) and Morgan and Sefton (2000) ask why a charity might hold a lottery
+to raise money. Consider a lottery with prize P that is not connected
+n to a charity. Let
+gi be the number of lottery tickets purchased by i and G =
+i=1 gi . Then define
+pi = gi /G as i’s chance of winning the lottery. Then a risk-neutral person endowed
+with mi maximizes utility
+gi
+ui = mi − gi + P
+G
+It is easy to show that at the optimum, GL = P (n − 1)/n, so that profits of the lottery
+are π = GL − P = −P /n < 0. The lottery will lose money.
+Next consider a charity apart from the lottery. Suppose the individuals have quasilinear utility, and that they care about the charitable services in excess of some fixed
+costs P , so utility is
+ui = mi − gi + ln(G − P )
+It is easy to show that the equilibrium donations will be GC = P +1, so that net charitable services are GC − P = 1. Notice, this holds for any P , including P = 0, and any n.
+Now couple the lottery with a charity. Individuals maximize utility
+gi
+ui = mi − gi + P + ln(G − P )
+ G 
+P
++ ln(G − P )
+= mi − gi 1 −
+G
+57 Andreoni and Petrie (2004) verify the effect in an experiment.
+
+Ch. 18:
+
+Philanthropy
+
+1259
+
+Notice that now the lottery acts like a subsidy on giving, with subsidy rate P /G. Rather
+than coming externally from a government, however, the subsidy is endogenous to the
+charity. It is again easy to show that the solution to this will yield GCL > P + 1 = GC ;
+that is, the combination of the lottery and the charity will yield profits for the lottery
+and these profits will exceed the donations received without the lottery.58 This result
+follows from any quasi-linear utility function.
+Note the rather striking result. A lottery that would lose money by itself is profitable
+when coupled with a public good. Moreover, the profits exceed ordinary voluntary donations. The logic of this can be seen in the interpretation of the lottery as a subsidy
+to giving. Suppose G < P . Then the price of giving, 1 − P /G, is actually negative—
+the charity essentially pays people to give. This alone guarantees the charity will break
+even. At GCL − P = GC , the lottery is still subsidizing the price for givers, further
+guaranteeing the success of the lottery at raising charitable revenues.
+9.3. What remains to be done
+Notice that in modeling fund-raising, we are describing actual mechanisms that are
+used to increase, or at least attract, donations to public goods. These models are, thus
+far, positive models that attempt to understand the broadest facts, and to provide a justification for fund-raisers to enter the model. Perhaps one of the most interesting aspects
+of charitable “markets” not captured by any of these models is that fund-raising strategies have evolved and developed in a competitive market among charities. Those with
+the best products and the best fund-raising strategies will be the ones to survive in the
+market. In this sense, the charities themselves are designing mechanisms for providing
+public goods, but these must satisfy an added constraint that is not common in the mechanism design literature, in particular, that their fund-raising scheme survive innovation
+by others. In this sense, charities practice “organic mechanism design”—they design
+mechanisms that must not only be incentive compatible and individually rational, but
+must also survive the marketplace of mechanisms used by competing charities.
+Some new additions to the mechanism design literature are beginning to resemble
+fund-raising mechanisms. These “natural” mechanisms are simple and easily employed.
+Bagnoli and Lipman (1989, 1992) show how one can use repeated hill-climbing techniques to build up a public good in discrete jumps over time. Admati and Perry (1991)
+show that a subscription mechanism of mutually binding promises of the sort, “I’ll pay
+X if you pay Y ” can reach efficiency. In a similar vein, Varian (1994b) shows that people
+can offer to subsidize each other and improve efficiency. Marx and Matthews (2000),
+in an especially important contribution, show that repeated simultaneous contributions
+58 In this case, solving for the first order conditions, summing across all i, yields
+
+
+
+1
+n−1
+G
+1−
+=
+n
+P
+G−P
+which can only hold if G − P > 1.
+
+1260
+
+J. Andreoni
+
+can, in a long enough horizon, always reach the threshold for provision of a discrete
+public good when it is efficient to do so. By insisting on models that reflect something
+in reality, these normative models can be bridges or building blocks for the literature
+based on the positive models above.
+Perhaps the most important way models of fund-raising can affect economic analysis is in empirical studies. The empirical analysis outlined above implicitly takes the
+fund-raising strategies as treating people symmetrically in a cross-section, and implicitly treats them as constant in a time series. Of course, as we have seen in the models
+above, fund-raising strategies are likely to be affected by government policies, so neglecting how fund-raising is responding to a period of tax reform, for instance, may be
+leaving an important piece of the puzzle out of the model. We turn to these concerns in
+the next section.
+
+10. Empirical analyses of fund-raising, government grants and crowding out
+The theoretical models of the last section indicate that government grants and charitable
+fund-raising are likely to be jointly determined, hence when looking at the effects of one
+we should really also consider the other. In doing so, there are two important questions.
+First, do government grants crowd out private giving? The theoretical models of section
+3.2 suggest they should. We call this the classic crowding out hypothesis. But if warmglow is dominant, as section 3.5 demonstrates, then perhaps crowding out will be slight.
+The second question is, are charities net-revenue maximizers? If a charity is acting like a
+business, it should spend dollars on fund-raising until the marginal dollar spent raises an
+additional dollar of funds. If instead charities are “satisficers” who have revenue goals
+and stop when they are reached, then marginal revenues may exceed marginal costs.
+This section will review the recent contributions to this literature. We begin by looking at some important studies that provide a background for later analysis.
+10.1. Background studies
+Two recent studies, using similar methods and data, give some insights into these two
+questions. Okten and Weisbrod (2000) consider panel data from charitable organizations, with data drawn from IRS Form 990 filings. Khanna et al. (1995) consider a panel
+of comparable data for the UK. Both use similar methods and build on their prior studies
+on a single cross-section (Weisbrod and Dominguez, 1986; Posnett and Sandler, 1989).
+The main innovation of this analysis is to assume that total donations depend on a variable they call price, P . The justification for this variable comes from the assumption
+that donors may suffer from a “plausible irrationality” (Rose-Ackerman, 1982) that individuals confuse marginal dollars spent on fund-raising with average dollars spent. For
+example, people who observe that, on average, a charity spends 20% of its revenues on
+fund-raising will assume that only 80% of their own dollars go to charitable services.
+Let f equal the ratio of fund-raising expenses to total expenditures of the charity. Then
+
+Ch. 18:
+
+Philanthropy
+
+1261
+
+these authors define price as P = 1/(1 − f ). The hypothesis is that donations should
+be negatively related to this price.59 Then the basic regression equation estimated is
+Cit = βo + β1 Fit−1 + β2 Pit−1 + β3 Git−1 + BXit + it
+where C is total charitable contributions, F is fund-raising expenses, G is government
+grants, and X is other variables such other revenues and the age of the organization.60
+Note that current contributions depend on lagged exogenous variables.
+While the interpretation and motivation for P can be debated,61 the inclusion of this
+variable in a regression equation is important, especially when fund-raising expenses
+F enter the equation directly as well as indirectly in P . In particular, we can appeal
+to any number of explanations from the theory models above to predict that there will
+be a net-revenue maximizing level of fund-raising, F . This means that in the neighborhood of the optimum the contributions function should be concave, with random events
+putting charities sometimes to the left and sometimes to the right of the optimum. As a
+result, a positive coefficient β1 on F would imply that we should also observe a negative
+coefficient β2 on P , simply due to the concavity of the contributions revenue function.
+These authors consider several estimation strategies, including adding fixed effects
+to the estimation, and both papers come to similar conclusions. First, they find that, as
+predicted, the relationship between contributions and fund-raising is concave; β1 > 0
+and β2 < 0. Okten and Weisbrod find that the net effect is that charities fall short of
+net-revenue maximization, consistent with satisficing. By contrast, Khanna et al. find
+that UK charities are net-revenue maximizers.
+Turning to crowding out, both find that the coefficient on G is approximately zero.
+In fact, the point estimates for both studies indicate β4 is positive but insignificant. The
+authors interpret this as providing evidence that crowding out is not important, and that
+there may even be “crowding in.” Both results, however, have recently been questioned,
+as we see next.
+10.2. Endogeneity bias in grants
+Payne (1998) offers an important challenge to this interpretation of crowding out.62
+She notes that the government officials who approve the grants are elected by the same
+people who make donations to charities. Hence, positive feelings toward a particular
+charity will be represented in both the preferences of givers and of the government. To
+59 Okten and Weisbrod define price as (1 − t)/(1 − f ) where t is the marginal tax rate applying to the
+
+charitable deduction. However, they consider ln P in their regression, making this distinction moot. Khanna
+et al. (1995) define price as 1/(1 − f − a), where a is the ratio of administrative expenses to donations.
+Interpreting this as a price requires the same “plausible irrationality.”
+60 In Okten and Weisbrod (2000), these variables are defined as logs, while in Khanna et al. (1995) they are
+in levels.
+61 See Steinberg (1991) for a critique.
+62 See also Payne (2001) on crowding-in at research universities.
+
+1262
+
+J. Andreoni
+
+illustrate, consider both government and private giving to disaster relief in the year of a
+great tragedy, such as a hurricane, flood, or 9/11 attacks. Both private and pubic giving
+are going to be higher, leading to a bias against finding crowding out.63
+To examine this, Payne used data similar to Okten and Weisbrod, a panel of 430 nonprofits for 10 years. She restricts the sample to only those nonprofits that provide local
+services. Repeating simple OLS analysis of the sort done prior to her study, she replicates the finding—point estimates indicating near zero crowding out. She then turns to
+two-stage least squares analysis to address the problem of endogeneity. As an instrument for government grants she uses aggregate government transfers to individuals in
+the state. This is something that should be correlated with the political power of representatives in the state, but not correlated with demands for charity.
+Her approach is extremely successful. She finds that estimates of crowding out now
+rise to around 50%—each dollar of government grants generates only 50 cents of new
+charity. This is a startling and important departure from the prior literature.
+Payne’s analysis did not account for fund-raising expenditure of the charities. If fundraising and government grants depend on each other, as shown above, directly entering
+fund-raising expenses would lead to biased coefficients. For instance, a charity that applied for and won a large government grant would spend less effort on fund-raising,
+or conversely a charity with productive fund-raising apparatus isn’t as likely to spend
+efforts on winning grants. In this way, Payne’s efforts can be seen as a reduced form
+estimate of the effect of grants on giving, and it suggests this reduced-form effect is
+profound. However, it leaves open the question of the mechanism through which government grants cause a reduction in donations. Is the effect direct, as in classic crowding
+out, or is it indirect—people give less because the charity has opted to spend less effort
+on fund-raising? We begin to answer this question next.
+10.3. What’s crowded out, giving or fund-raising?
+Andreoni and Payne (2003) ask the simple questions: what happens to a charity’s fundraising expenses when it gets a government grant? Does it fall, and by how much?
+To answer these, they again looked at IRS 990 filings, this time on a 14-year panel of
+233 arts organizations and 534 social services organizations. The two types of organizations were treated separately because of their special differences. Arts organizations
+typically rely heavily on fund-raising, and get relatively few government grants. Only
+10% of their budget comes from grants, and over 50% from donations. By contrast,
+social service organizations rely heavily on the government, with 23% of their budget
+coming from grants and 26% from donations. The remainder of both budgets come
+largely from “program service revenues,” such as ticket sales or service fees.
+63 A more subtle endogeneity issue is raised by Coate (1995). Because charities cannot commit to not help
+
+those in need, the government (conditional on a binding budget constraint) will strategically use private charity
+to supplement it’s own provision of public goods. It is unclear how this will bias coefficients, especially in the
+presence of many goods.
+
+Ch. 18:
+
+Philanthropy
+
+1263
+
+The estimation equation of Andreoni and Payne is
+Fit = αi + γt + βGit + Oit η + Zit λ + it
+where F is fund-raising, G is government grants, O is a vector of organization variables, and Z a vector of state-specific demographic and political variables. Notice fixed
+effects for both the firm and year are included, and that all variables pertain to the same
+year.64
+In estimating the effect of grants on fund-raising, one must again deal with endogeneity. As with Payne’s (Payne, 1998) earlier observation, charities that are in high demand
+will likely receive government grants and engage in active fund-raising. As such, we
+must instrument grants to remove the positive bias in estimating β.
+Andreoni and Payne first estimate the model without accounting for endogeneity.
+They estimate the coefficient β to be positive and significant, indicating a likely endogeneity bias. They then apply the instrumental variables analysis, and things turn
+around dramatically. For art organizations they find that a $1000 increase in grants will
+reduce fund-raising by $265. For social service organizations, the reduction would be
+$54. Extrapolating these effects out, grants decrease fund-raising by about 52% for arts
+organizations and 32% for social service organizations. These reductions are clearly
+significant.
+This study raises an interesting and important question. Do we see crowding out
+because people are discouraged directly by the government grants, or because charities
+themselves are discouraged from spending money on fund-raising? The answer to this
+question could make a critical difference for policy. Suppose that all of the reduced
+giving is due to reduced fund-raising and none is due to classic crowding out. Then it
+would be feasible to have a government policy that awarded grants on the condition
+that dollars raised through private fund-raising not fall. Such “matching grants” (or
+“partially matching grants”) could improve the impact of grants on charitable services.
+A matching policy could be desirable, depending on how the “deadweight loss” of fundraising compares to the deadweight loss of taxation (weighted by the crowding factor).
+Future work will be needed to sort out these important questions.
+A paper by Straub (2003) has begun to look at these issues in the context of Public
+Broadcasting in the US. Following on work by Kingma (1989), Straub estimates a structural model on a panel of public radio stations.65 He finds the reduction in giving after
+a grant is due almost entirely to reduced fund-raising, and not to classic crowding out.
+Moreover, he estimates a concave “revenue function” for fund-raising and finds that, by
+and large, most public radio stations are net-revenue maximizers, with a few notable
+64 The timing of fund-raising to donations is always unclear—do dollars spent this year yield donations this
+
+year or next year? Andreoni and Payne (2003) provide sensitivity tests, and discuss this and several other
+subtle measurement issues in detail.
+65 Kingma’s often cited paper finds about 13% crowding out in donations to Public Radio. Manzoor and
+Straub (2005) fail to replicate Kingma’s findings on a larger set of data, instead finding roughly no crowding
+out using Kingma’s methods.
+
+1264
+
+J. Andreoni
+
+exceptions of both kinds. This is a very clear and compelling study. If these results also
+hold in more general studies with other types of charities, the results could profoundly
+change prevailing views of crowding out and fund-raising in providing charitable services.
+
+11. Conclusion: the future of giving research
+Philanthropy has for decades been one of the most important areas of public finance
+research. Millions of people and billions of dollars are devoted to charitable giving.
+Moreover, the government’s involvement in both grants to organizations and subsidies
+to givers makes it a perennially important public policy topic. Each new generation of
+government policy makers will need to know the determinants of giving and the impacts
+of grants. For this reason, it will always be a productive and valued area of research.
+Despite its importance, a clear understanding of philanthropy has eluded economists.
+One reason is the basic challenge in understanding the motives of givers—why do people give? We have argued strongly here that the model of “warm-glow giving” provides
+a good foundation for analysis. This, however, is just a partial answer to this question.
+The concept of warm-glow is only a convenient reduced-form representation for deeper
+and more complex considerations of givers. Future work, perhaps combined with laboratory or field experiments, can help fine-tune the model of givers.
+Fine-tuning the model of givers is interesting in its own right, but it becomes especially important when we begin to analyze philanthropy as a market, with both suppliers
+(the givers) and demanders (the fund-raising charities). As we have argued in this chapter, both sides of this market are active and strategic, and both are likely to respond
+to changes in the government policy or other factors in their environment. Unfortunately, this interaction between the supply and demand for philanthropy has been largely
+neglected in both theoretical and empirical analysis. Clearly, however, its impact is extremely important. Failure to treat philanthropy as a market has likely led empirical
+work to overstate the effect of the marginal tax rate on giving. As policy changes, so
+do fund-raisers to counteract the change, so that in the long run the price elasticity of
+giving may be lower than could be estimated in a cross-section.
+Failing to look at philanthropy as a market has also likely biased our estimates of
+crowding out. On the one hand it leads to an understatement of the response. Because the
+tastes of government grant-givers are positively correlated with tastes of individual giftgivers, estimates have likely been biased against crowding out. On the other hand, by
+looking at only the “partial equilibrium” of a single charity, we may also be overstating
+the effect of crowding out.
+To see this, imagine charities in a “monopolistically competitive” market. For instance, there are several cancer research charities, dozens of world-hunger charities,
+and hundreds of environmental charities. If one charity gets a major grant or a large
+bequest, how do the others respond? How do givers respond? Do they move their gifts
+to competing charities in the same market, to charities of another variety, or do they
+
+Ch. 18:
+
+Philanthropy
+
+1265
+
+simply give less overall? Which of these is the right answer will have a profound effect
+on how we view crowding out more globally, and how we asses the cost, incidence and
+effectiveness of government grants and subsidies.
+Another potential for research is in viewing philanthropy as a dynamic market. Why,
+for instance, are there hundreds of environmental organizations? Which survive in the
+long run? How does competition for donations shape both the outputs of the charity and
+the fund-raising mechanisms they employ? And, perhaps most importantly, does this
+competition promote a sort of “organic mechanism design” that will move the economy
+toward efficient mechanisms for the provision of public goods?
+One goal of this chapter has been to collect the state of knowledge on philanthropy
+and to provide a vehicle for the new entrant into this research. A second and more
+important goal has been to inspire and promote new interest in larger and more challenging questions about philanthropy. Despite being an active area of research for several
+decades, I view the literature on charitable giving as full of open questions. As I hope
+I have conveyed, we are on the doorstep of an exciting new era for research on philanthropy.
+
+References
+Admati, A.R., Perry, M. (1991). “Joint projects without commitment”. Review of Economic Studies 58, 259–
+276.
+Andreoni, J. (1988). “Privately provided public goods in a large economy: the limits of altruism”. Journal of
+Public Economics 35, 57–73.
+Andreoni, J. (1989). “Giving with impure altruism: applications to charity and Ricardian equivalence”. Journal
+of Political Economy 97, 1447–1458.
+Andreoni, J. (1990). “Impure altruism and donations to public goods: a theory of warm-glow giving”. Economic Journal 100, 464–477.
+Andreoni, J. (1993). “An experimental test of the public-goods crowding-out hypothesis”. American Economic Review 83, 1317–1327.
+Andreoni, J. (1995). “Cooperation in public goods experiments: kindness or confusion?”. American Economic
+Review 85, 891–904.
+Andreoni, J. (1998). “Toward a theory of charitable fund-raising”. Journal of Political Economy 106, 1186–
+1213.
+Andreoni, J. (2006). “Leadership giving in charitable fund-raising”. Journal of Public Economic Theory 8,
+1–22.
+Andreoni, J., Bergstrom, T.C. (1996). “Do government subsidies increase the private supply of public goods?”.
+Public Choice 88, 295–308.
+Andreoni, J., Brown, E., Rischall, I. (2003). “Charitable giving by married couples: who decides and why
+does it matter?”. Journal of Human Resources 38, 111–133.
+Andreoni, J., Gale, W.G., Scholz, J.K., Straub, J. (2004). “Charitable contributions of time and money”.
+Manuscript, University of Wisconsin.
+Andreoni, J., McGuire, M.C. (1993). “Identifying the free riders: a simple algorithm for determining who will
+contribute to a public good”. Journal of Public Economics 51, 447–454.
+Andreoni, J., Miller, J.H. (2002). “Giving according to GARP: an experimental test of the consistency of
+preferences for altruism”. Econometrica 70, 737–753.
+Andreoni, J., Payne, A.A. (2003). “Do government grants to private charities crowd out giving or fundraising?”. American Economic Review 93, 792–812.
+
+1266
+
+J. Andreoni
+
+Andreoni, J., Petrie, R. (2004). “Public goods experiments without confidentiality: a glimpse into fundraising”. Journal of Public Economics 88, 1605–1623.
+Andreoni, J., Scholz, J.K. (1998). “An econometric analysis of charitable giving with interdependent preferences”. Economic Inquiry 36, 410–428.
+Arrow, K.J. (1972). “Gifts and exchanges”. Philosophy and Public Affairs 1, 343–362.
+Atkinson, A.B., Stern, N.H. (1974). “Pigou, taxation and public goods”. Review of Economic Studies 41,
+119–128.
+Auten, G.E., Clotfelter, C.T., Schmalbeck, R.L. (2000). “Taxes and philanthropy among the wealthy”. In:
+Slemrod, J.B. (Ed.), Does Atlas Shrug? The Economic Consequences of Taxing the Rich. Russell Sage,
+New York.
+Auten, G., Sieg, H., Clotfelter, C.T. (2002). “Charitable giving, income, and taxes: an analysis of panel data”.
+American Economic Review 92, 371–382.
+Avery, R.B., Rendall, M.S. (1993). “Estimating the size and distribution of baby boomers’ prospective inheritances”. In: American Statistical Associations 1993 Proceedings of the Social Statistics Section,
+pp. 11–19.
+Bagnoli, M., Lipman, B.L. (1989). “Provision of public goods: fully implementing the core through private
+contributions”. Review of Economic Studies 56, 583–601.
+Bagnoli, M., Lipman, B.L. (1992). “Private provision of public goods can be efficient”. Public Choice 74,
+59–78.
+Bakija, J.M., Gale, W.G., Slemrod, J.B. (2003). “Charitable bequests and taxes on inheritances and estates:
+aggregate evidence from across states and time”. American Economic Review 93, 366–370.
+Barrett, K.S., McGuirk, A.M., Steinberg, R. (1997). “Further evidence on the dynamic impact of taxes on
+charitable giving”. National Tax Journal 50, 321–334.
+Becker, G.S. (1974). “A theory of social interactions”. Journal of Political Economy 82, 1063–1093.
+Bergstrom, T.C., Blume, L.E., Varian, H.R. (1986). “On the private provision of public goods”. Journal of
+Public Economics 29, 25–49.
+Bernheim, B.D. (1986). “On the voluntary and involuntary provision of public goods”. American Economic
+Review 76, 789–793.
+Bernheim, B.D., Bagwell, K. (1988). “Is everything neutral?”. Journal of Political Economy 96, 308–338.
+Bilodeau, M., Slivinski, A. (1996a). “Toilet cleaning and department chairing: volunteering a public service”.
+Journal of Public Economics 59, 299–308.
+Bilodeau, M., Slivinski, A. (1996b). “Volunteering nonprofit entrepreneurial services”. Journal of Economic
+Behavior and Organization 31, 117–127.
+Boadway, R., Keen, M. (1993). “Public goods, self-selection and optimal income taxation”. International
+Economic Review 34, 463–478.
+Boadway, R., Pestieau, P., Wildasin, D. (1989). “Tax-transfer policies and the voluntary provision of public
+goods”. Journal of Public Economics 39, 157–176.
+Bolton, P., Harris, C. (1999). “Strategic experimentation”. Econometrica 67, 349–374.
+Boulding, K.E. (1973). The Economy of Love and Fear: A Preface to Grants Economics. Wadsworth Publishing Co, Belmont, CA.
+Brown, E., Lankford, H. (1992). “Gifts of money and gifts of time: estimating the effects of tax prices and
+available time”. Journal of Public Economics 47, 321–341.
+Carman, K.G. (2003). “Social influences and the private provision of public goods: evidence from charitable
+contributions in the workplace”, Manuscript, Stanford University.
+Clotfelter, C.T. (1985). Federal Tax Policy and Charitable Giving. University of Chicago Press, Chicago.
+Clotfelter, C.T. (1990). “The impact of tax reform on charitable giving: a 1989 perspective”. In: Slemrod, J.B.
+(Ed.), Do Taxes Matter? The Impact of the Tax Reform Act of 1986. MIT Press, Cambridge.
+Clotfelter, C.T., Steuerle, C.E. (1981). “Charitable contributions”. In: Aaron, H.J., Pechman, J.A. (Eds.), How
+Taxes Affect Economic Behavior. Brookings Institution, Washington, DC.
+Coate, S. (1995). “Altruism, the Samaritan’s dilemma, and government transfer policy”. American Economic
+Review 85, 46–57.
+
+Ch. 18:
+
+Philanthropy
+
+1267
+
+Cornes, R., Hartley, R., Sandler, T. (1999). “Equilibrium existence and uniqueness in public good models:
+an elementary proof via contraction”. Journal of Public Economic Theory 1, 499–509.
+Cornes, R., Sandler, T. (1984). “Easy riders, joint production, and public goods”. Economic Journal 94, 580–
+598.
+Cremer, H., Gahvari, F. (2001). “Second-best taxation of emissions and polluting goods”. Journal of Public
+Economics 80, 169–197.
+Deaton, A., Muellbauer, J. (1980). Economics and Consumer Behavior. Cambridge University Press, Cambridge.
+Diamond, P. (2006). “Optimal tax treatment of private contributions for public goods with and without warm
+glow preferences”. Journal of Public Economics 90, 897–919.
+Duncan, B. (1999). “Modeling charitable contributions of time and money”. Journal of Public Economics 72,
+213–242.
+Fraser, C.D. (1992). “The uniqueness of nash equilibrium in the private provision of public goods: an alternative proof”. Journal of Public Economics 49, 389–390.
+Feenberg, D. (1987). “Are tax price models really identified: the case of charitable giving”. National Tax
+Journal 40, 629–633.
+Feldstein, M. (1980). “A contribution to the theory of ‘tax expenditures’: the case of charitable giving”. In:
+Aaron, J.J., Boskin, M.J. (Eds.), The Economics of Taxation. Brookings, Washington, DC.
+Feldstein, M., Clotfelter, C.T. (1976). “Tax incentives and charitable contributions in the United States: a
+microeconometric analysis”. Journal of Public Economics 5, 1–26.
+Feldstein, M., Taylor, A. (1976). “The income tax and charitable contributions”. Econometrica 44, 1201–
+1222.
+Freeman, R.B. (1997). “Working for nothing: the supply of volunteer labor”. Journal of Labor Economics 15,
+S140–S166.
+Fullerton, D., Metcalf, G.E. (2001). “Environmental controls, scarcity rents, and pre-existing distortions”.
+Journal of Public Economics 80, 249–267.
+Gaube, T. (2000). “When do distortionary taxes reduce the optimal supply of public goods?”. Journal of
+Public Economics 76, 151–180.
+Glazer, A., Konrad, K.A. (1996). “A signaling explanation for charity”. American Economic Review 86,
+1019–1028.
+Greene, P., McClelland, R. (2001). “Taxes and charitable giving”. National Tax Journal 54, 433–453.
+Harbaugh, W.T. (1998a). “What do donations buy? A model of philanthropy based on prestige and warm
+glow”. Journal of Public Economics 67, 269–284.
+Harbaugh, W.T. (1998b). “The prestige motive for making charitable transfers”. American Economic Review 88, 277–282.
+Hochman, H.M., Rodgers, J.D. (1969). “Pareto optimal redistribution”. American Economic Review 59, 542–
+557.
+Joulfaian, D. (2000). “Estate taxes and charitable bequests by the wealthy”, NBER Working Paper 7663.
+Joulfaian, D. (2001). “Charitable giving in life and at death”. In: Gale, W.G., Hines, J.R., Slemrod, J.B. (Eds.),
+Rethinking Estate and Gift Taxation. Brookings Press, Washington, DC.
+Joulfaian, D., Rider, M. (2004). “Errors-in-variables and estimated income and price elasticities of charitable
+giving”. National Tax Journal 57, 25–43.
+Kahneman, D., Knetsch, J.L. (1992). “Valuing public goods: the purchase of moral satisfaction”. Journal of
+Environmental Economics and Management 22, 57–70.
+Kaplow, L. (1995). “A note on subsidizing gifts”. Journal of Public Economics 58, 469–477.
+Kaplow, L. (1996). “The optimal supply of public goods and the distortionary cost of taxation”. National Tax
+Journal 49, 513–533.
+Kaplow, L. (1998). “Tax policy and gifts”. American Economic Review 88, 283–288.
+Kaplow, L., Shavell, S. (2001). “Any non-welfarist method of policy assessment violates the Pareto principle”.
+Journal of Political Economy 109, 281–286.
+Khanna, J., Posnett, J., Sandler, T. (1995). “Charity donations in the UK: new evidence based on panel data”.
+Journal of Public Economics 56, 257–272.
+
+1268
+
+J. Andreoni
+
+Kingma, B.R. (1989). “An accurate measurement of the crowd-out effect, income effect, and price effect for
+charitable contributions”. Journal of Political Economy 97, 1197–1207.
+Kolm, S.Ch. (1969). “The optimal production of social justice”. In: Margolis, J., Guitton, H. (Eds.), Public
+Economics: An Analysis of Public Production and Consumption and their Relations to the Private Sectors.
+MacMillian Press, London, pp. 145–200.
+List, J.A., Lucking-Reiley, D. (2002). “The effects of seed money and refunds on charitable giving: experimental evidence from a university capital campaign”. Journal of Political Economy 110, 215–233.
+Madrian, B.C., Shea, D.F. (2001). “The power of suggestion: inertia in 401(k) participation and savings behavior”. Quarterly Journal of Economics 116, 1149–1187.
+Manzoor, S., Straub, J. (2005). “The robustness of Kingma’s crowd-out estimate: evidence from new data on
+contributions to public radio”. Public Choice 123, 463–476.
+Marx, L.M., Matthews, S.A. (2000). “Dynamic voluntary contribution to a public project”. Review of Economic Studies 67, 327–358.
+Menchik, P.L., Weisbrod, B.A. (1987). “Volunteer labor supply”. Journal of Public Economics 32, 159–183.
+Morgan, J. (2000). “Financing public goods by means of lotteries”. Review of Economic Studies 67, 761–784.
+Morgan, J., Sefton, M. (2000). “Funding public goods with lotteries: experimental evidence”. Review of
+Economic Studies 67, 785–810.
+Okten, C., Weisbrod, B.A. (2000). “Determinants of donations in private nonprofit markets”. Journal of Public
+Economics 75, 255–272.
+Palfrey, T.R., Prisbrey, J.E. (1996). “Altruism, reputation and noise in linear public goods experiments”.
+Journal of Public Economics 61, 409–427.
+Palfrey, T.R., Prisbrey, J.E. (1997). “Anomalous behavior in public goods experiments: how much and why?”.
+American Economic Review 87, 829–846.
+Payne, A.A. (1998). “Does the government crowd-out private donations? New evidence from a sample of
+non-profit firms”. Journal of Public Economics 69, 323–345.
+Payne, A.A. (2001). “Measuring the effect of federal research funding on private donations at research universities: is federal research funding more than a substitute for private donations?”. International Tax and
+Public Finance 8, 731–751.
+Pigou, A.C. (1947). A Study in Public Finance, 3rd edn. MacMillian, London.
+Posnett, J., Sandler, T. (1989). “Demand for charity donations in private non-profit markets: The case of the
+UK”. Journal of Public Economics 40, 187–200.
+Potters, J., Sefton, M., Vesterlund, L. (2005). “After you—endogenous sequencing in voluntary contribution
+games”. Journal of Public Economics 89, 1399–1419.
+Randolph, W.C. (1995). “Dynamic income, progressive taxes, and the timing of charitable contributions”.
+Journal of Political Economy 103, 709–738.
+Reece, W.S., Zieschang, K.D. (1985). “Consistent estimation of the impact of tax deductibility on the level of
+charitable contributions”. Econometrica 53, 271–293.
+Rege, M., Telle, K. (2004). “The impact of social approval and framing on cooperation in public good situations”. Journal of Public Economics 88, 1625–1644.
+Ribar, D.C., Wilhelm, M.O. (2002). “Altruistic and joy-of-giving motivations in charitable behavior”. Journal
+of Political Economy 110, 425–457.
+Roberts, R.D. (1984). “A positive model of private charity and public transfers”. Journal of Political Economy 92, 136–148.
+Roberts, R.D. (1987). “Financing public goods”. Journal of Political Economy 95, 420–437.
+Romano, R., Yildirim, H. (2001). “Why charities announce donations: a positive perspective”. Journal of
+Public Economics 81, 423–447.
+Rose-Ackerman, S. (1982). “Charitable giving and ‘excessive’ fund-raising”. Quarterly Journal of Economics 97, 193–212.
+Saez, E. (2004). “The optimal treatment of tax expenditures”. Journal of Public Economics 88, 2657–2684.
+Samuelson, P.A. (1954). “The pure theory of public expenditure”. Review of Economics and Statistics 36,
+387–389.
+
+Ch. 18:
+
+Philanthropy
+
+1269
+
+Sandler, T., Posnett, J. (1991). “The private provision of public goods: a perspective on neutrality”. Public
+Finance Quarterly 19, 22–42.
+Scharf, K.A. (2000). “Why are tax expenditures for giving embodied in fiscal constitutions?”. Journal of
+Public Economics 75, 365–387.
+Schervish, P.G., Havens, J.J. (2003). “Gifts and Bequests: Family or Philanthropic Organizations”. In:
+Munnel, A.H., Sundén, A. (Eds.), Death and Dollars: The Role of Gifts and Bequests in America. Brookings Institution Press, Washington, DC, pp. 130–158.
+Sen, A.K. (1977). “Rational fools: a critique of the behavioral foundations of economic theory”. Journal of
+Philosophy and Public Affairs 6, 317–344.
+Slemrod, J. (1989). “An empirical test for tax evasion”. Review of Economics and Statistics 67, 232–238.
+Steinberg, R. (1987). “Voluntary donations and public expenditures in a federalist system”. American Economic Review 77, 24–36.
+Steinberg, R. (1990). “Taxes and giving: new findings”. Voluntas 1, 61–79.
+Steinberg, R. (1991). “Does government spending crowd out donations? Interpreting the evidence”. Annals
+of Public and Cooperative Economics 62, 591–617.
+Straub, J.D. (2003). “Fund-raising and crowd-out of charitable contributions: new evidence from contributions
+to public radio”, Manuscript, Texas A&M University.
+Stigler, G.J., Becker, G.S. (1997). “De gustibus non est disputandum”. American Economic Review 67, 76–
+90.
+Stiglitz, J.E. (1982). “Self-selection and Pareto efficient taxation”. Journal of Public Economics 17, 213–240.
+Sugden, R. (1982). “On the economics of philanthropy”. Economic Journal 92, 341–350.
+Sugden, R. (1984). “Reciprocity: the supply of public goods through voluntary contributions”. Economic
+Journal 94, 772–787.
+Taussig, M.K. (1967). “Economic aspects of the personal income tax treatment of charitable contributions”.
+National Tax Journal 20, 1–19.
+Tiehen, L. (2000). “Has working more caused married women to volunteer less? Evidence from time diary
+data, 1965 to 1993”. Nonprofit and Voluntary Sector Quarterly 29, 505–529.
+Triest, R.K. (1998). “Econometric issues in estimating the behavioral response to taxation: a nontechnical
+introduction”. National Tax Journal 51, 761–772.
+Varian, H.R. (1994a). “Sequential contributions to public goods”. Journal of Public Economics 53, 165–186.
+Varian, H.R. (1994b). “A solution to the problem of externalities when agents are well-informed”. American
+Economic Review 84, 1278–1293.
+Vesterlund, L.D. (2003). “The informational value of sequential fund-raising”. Journal of Public Economics 87, 627–657.
+Warr, P.G. (1982). “Pareto optimal redistribution and private charity”. Journal of Public Economics 19, 131–
+138.
+Warr, P.G. (1983). “The private provision of a public good is independent of the distribution of income”.
+Economics Letters 13, 207–211.
+Weisbrod, B.A., Dominguez, N.D. (1986). “Demand for collective goods in private nonprofit markets: can
+fund raising expenditures help overcome free-rider behavior?”. Journal of Public Economics 30, 83–90.
+Yildirim, H. (2003). “Getting the ball rolling: voluntary contributions to a large-scale public project”. Journal
+of Public Economic Theory, in press.
+
+

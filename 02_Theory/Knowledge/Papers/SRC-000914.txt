@@ -1,0 +1,792 @@
+Giving with Impure Altruism: Applications to
+Charity and Ricardian Equivalence
+
+James Andreoni
+University of Wisconsin-Madison
+
+Models of giving have often been based on altruism. Examples include charity and intergenerational transfers. The literatures on
+both subjects have centered around neutrality hypotheses: charity is
+subject to complete crowding out, while intergenerational transfers
+are subject to Ricardian equivalence. This paper formally develops a
+model of giving in which altruism is not "pure." In particular, people
+are assumed to get a "warm glow" from giving. Contrary to the
+previous literature, this model generates identifiable comparative
+statics results that show that crowding out of charity is incomplete
+and that government debt will have Keynesian effects.
+
+I.
+
+Introduction
+
+The literatures on charitable giving and on Ricardian equivalence
+both center around a neutrality hypothesis. In the charity literature,
+government donations to a charity, financed by lump-sum taxes, will
+crowd out private giving dollar for dollar (Warr 1982; Roberts 1984).
+In the Ricardian equivalence literature, the consumption of parents
+and heirs is independent
+of the distribution of income among them
+(Barro 1974). A similar result is found in Becker's (1974) Rotten Kid
+theorem. While these neutrality results are discussed separately in the
+literature, their theoretical foundations are really the same. All concern public goods: in models of charity, the charity is assumed to be a
+I owe thanks to Theodore Bergstrom, Lawrence Blume, Russell Roberts, Richard
+Steinberg, Hal Varian, James M. Walker, the editors, and some referees for helpful
+comments. This work was partially supported by National Science Foundation grant
+SES-882 1204.
+[Journal of Political Economy, 1989, vol. 97, no. 61
+? 1989 by The University of Chicago. All rights reserved. 0022-3808/89/9706-00(1$01.50
+
+1447
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1448
+
+JOURNAL
+
+OF POLITICAL
+
+ECONOMY
+
+public good, while in Ricardian models the benevolent parents care
+about their heir; hence the consumption of the heir acts as a public
+good within the family. Also, the demonstration of each is virtually
+identical. Once one has proved that lump-sum taxes completely
+crowd out private giving, then one can prove the neutrality of the
+income distribution by constructing all redistributions as mixes of' a
+neutral tax cut to one person and a neutral tax increase to another.
+These two neutrality hypotheses, therefore, can be treated in tandem.
+These hypotheses have many strong and well-known implications
+(see Roberts [1984, 1987] and Bergstrom, Blume, and Varian [1986]
+on charity and the survey by Bernheim [1987] on Ricardian equivalence). However, empirical evidence exists that contradicts neutrality.' In addition, many theoretical studies have demonstrated the
+limits of the neutrality hypothesis. These have included the consideration of corner solutions (Bergstrom et al. 1986), liquidity constraints
+(Hubbard and Judd 1986; Altig and Davis 1989), uncertain lifetimes
+(Blanchard 1985), imperfect capital markets (Feldstein 1988), strategic giving (Bernheim, Shleifer, and Summers 1985; Cox 1987), large
+economies (Andreoni 1988a), and myopia (Shefrin and Thaler 1985).
+Another natural hypothesis that has been suggested numerous times,
+beginning with Becker (1974), is that people have a taste for giving:
+perhaps they receive status or acclaim, or they simply experience a
+"warm glow" from having "done their bit." While it is fairly obvious
+that neutrality will be unlikely to hold with warm-glow giving, no
+tractable expression of this effect has been modeled and explored.
+Perhaps this is because it is less obvious what the comparative statics
+will be or that identifiable comparative statics results are even possible.2
+This paper develops a general model of' giving that includes a warm
+glow. In this model, individuals are assumed to contribute to a public
+good for two reasons. First, people simply demand more of the public
+good. This motive has become known in the literature as "altruism."3
+Second, people get some private goods benefit from their gift per se,
+
+l On charity, see C'lotfelter (1985) for a discussion of' his and other results. See also
+Schiff'(1985). On Ricardian neutrality, see Lucas and Stark (1985), (ox (1987), and the
+empirical summary by Bernheim (1987). In addition to these, there are experimental
+studies that demonstrate that the behavioral assumptions that are necessary for crowding out are contradicted in the laboratory (see Dawes and Thaler 1988; Andreori
+1988b).
+2 Earlier attempts at modeling this phenomenon have been based on Becker's (1974)
+original suggestion and have encountered precisely this difficulty. See Steinberg (1987)
+and the comment by McClelland (in press). As will be seen, this paper takes a different
+approach.
+3 The term was introduced by Barro (1974) and Becker (1974) and has been used
+most recently by Roberts (1987).
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+IMPURE ALTRUISM
+
+1 44(
+
+like a warm glow. Because of this second and seemingly selfish motive,
+this is called a model of "impure altruism." As will be seen, impure
+altruism is a simple yet powerful approach to giving and is consistent
+with empirical observations. With respect to charity, impure altruism
+indicates that progressive taxation may actually increase charitable
+giving rather than decrease it, as is commonly believed. The reason is
+that the general equilibrium effects of taxation depend only on the
+relative strengths of the warm-glow and altruism motives, not on
+income elasticities. With respect to Ricardian equivalence, this paper
+will show that if people "enjoy" making gifts or bequests, then the
+warm-glow effects will always dominate altruism, and debt will always
+have a Keynesian effect.
+Section II develops the model of impure altruism. Section III discusses how the results apply to models of charitable giving, and Section IV discusses how they apply to Ricardian equivalence and the
+economics of the family. Section V presents a conclusion.
+II.
+
+Impure
+
+A.
+
+The Model
+
+Altruism
+
+Assume for simplicity that the economy has only one private good
+and one public good. The public good is assumed to be produced
+from the private good by a simple linear technology and thus can be
+measured in units of dollars. Individuals are endowed with wealth w,
+that they allocate among their consumption
+of' the private good xi,
+gifts to the public good gi, and payment of lump-sum taxes Ti. All
+taxes raised are devoted directly to the public good. There are n total
+consumers.
+Let G = Et'= I gi be the total private contributions to the public good,
+and let T = E''= Trvbe the total public contributions. The total supply
+of the public good is therefore Y = G + T. A standard model of
+altruism would then write preferences as U, = Ui(xi, Y), so utility
+depends only on private consumption
+and the total supply of the
+public good. At the opposite extreme, we could imagine a person who
+cares nothing at all for the public good, but gives only for the warm
+glow: U, = U,(x,, g,). The warm glow is an increasing function of what
+is given. We could call such preferences "egoistic." It is reasonable to
+expect, however, that preferences include a combination of both altruism and egoism: people care about the public good but receive a
+warm glow as well. Thus we can write the utility function as
+U, = U,(xi, Y, gi),
+
+i = 1, . . . n,
+
+(1)
+
+where U, is assumed to be strictly quasi-concave and increasing in all
+its arguments. Note that this function contains both altruism and
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1450
+
+JOURNAL
+
+OF POLITICAL
+
+ECONOMY
+
+egoism as special cases. Note also that g, enters the utility function
+twice: once as part of the public good and again as a private good.4
+Let G _ .=
+, g, be the total private gifts of everyone but person i.
+Under the assumption of Nash conjectures, givers treat G-i and T as
+exogenous. Each individual solves the maximization problem
+max Ui(xi, Y, gi)
+xi, Y,gi
+
+subject to xi +
+
+g-i
+
+=
+
+Wi-Ti
+
+G_ + g, + T = Y.
+Let yi = gi + vi represent i's total contribution to the public good,
+including both the voluntary component gi and the involuntary component Ti. The budget constraint can be written as xi + yl = wi. It also
+follows that Y = E'. I y Let Y__ = yjsiYjbe the total gifts of everyone
+but i. Substitute yi
+Y - Y-1 into the problem above and in turn
+substitute the budget constraint into the utility function. Then, by the
+Nash assumption, the maximization problem is equivalent to
+max Ui(wi + Y-_ - Y, Y, Y-
+
+Y-
+
+- Ti).
+
+(2)
+
+Differentiating
+(2) with respect to Y and setting it equal to zero, we
+can solve for the optimal level of Y for person i. We assume, except
+where stated, that the equilibrium is interior, that is, g, > 0 for all i.5
+Hence, we can write the solution to (2) as a function of the exogenous
+components of the optimization problem,
+
+Y =.fi(wi
+or, equivalently,
+
++
+
+by subtracting
+yi =fi(wi
+
+Y-i
+
+Y-
+
+Y-_
+
++
+
+T),
+
+from both sides,
+
++ Y_i, Y-1 + Ti) - Y
+
+(3)
+
+The first argument of (3) comes from the altruism argument of the
+utility function, while the second argument of (3) comes from the
+under pure alegoism argument of the utility function. Therefore,
+truism, (3) would be a function of only its first argument: yi = f1(w, +
+A model suggested by Becker (1974) in which utility is defined as Uj = Uj(xj, Ijoigj,
+g,) is considered by Cornes and Sandler (1984) and Steinberg (1987). While the intent
+of the Cornes-Sandler and Steinberg model is similar to that of the warm-glow model,
+the two approaches supply remarkably different characterizations of the problem (see
+n. 2).
+' An assumption that is sufficient to guarantee positive gifts is limgo aUi/agi
+While this particular condition will not be called on in succeeding analyses, it is important to note that an interior equilibrium under impure altruism can be guaranteed,
+while no such condition exists for the pure altruism extreme. As we shall see, including
+corner solutions is a simple and straightforward application of the results described by
+Bergstrom et al. (1986).
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+IMPURE ALTRUISM
+
+1451
+
+Y-I) - Y-,. Notice that this formulation implies that pure altruists
+treat giving by others, Y-i, as a perfect substitute for personal wealth,
+wi. This is why Becker (1974) calls w- + Y_- "social wealth." Also, this
+expression implies that only total giving yi is important, implying that
+involuntary giving T, is a perfect substitute for voluntary giving gi.
+This perfect substitutability
+is at the heart of the neutrality hypothesis. Since a person is indifferent about the source of the donations to the public good, any constellation of taxes, transfers, and
+contributions that leaves (xi, Y) unchanged (from some equilibrium)
+for all i can be supported as an equilibrium; and, in general, there are
+infinitely many such constellations.
+Next, we can ask how the optimum changes with the introduction
+of warm-glow giving. Notice that the warm-glow argument in (3), Y-_i
++ Ti, is the part of Y that i treats as exogenous. Hence, if altruism is
+not pure, then giving by others is no longer a perfect substitute for
+wealth, and giving through taxes is no longer a perfect substitute for
+giving voluntarily. As can be verified by (2), when i compares constellations that leave (xi, Y) unchanged, i always prefers the one with the
+most warm glow, that is, the highest gi. As a result, impure altruists
+will be reluctant to swap g1 for either Tv or Y__ This unwillingness to
+substitute perfectly across sources of giving will be crucial to the analysis of warm-glow giving.
+To understand this, we must first examine the derivative properties
+of f(wi
++ Y__, Y-1 + Ti). Call the derivative with respect to this first
+a, where the a refers to the altruism component
+of utility.
+argument
+If both charity and the private good are normal, then 0 < ft, < 1. We
+can call the derivative with respect to the second argumentf,
+since it
+is derived from the egoistic component of the utility function. The
+sign of fie is most easily seen by comparing (3) with the extreme cases.
+= af/laY
+For pure altruists, aflaw.
+if we trade a dollar of w, for an
+extra dollar of Y__, then the person would substitute perfectly by
+reducing g? by a dollar. On the other hand, if the person is impurely
+altruistic, then g? and Y_ . are imperfect substitutes: if we trade a dollar
+of wi for an extra dollar of Y- _, then the person would be unwilling to
+substitute perfectly by reducing g, by a dollar. Instead, g, will fall by
+less than a dollar. This implies that aflawi ? af/laY.
+Since afi/laY
++ fie, this implies fi, ? 0. This can also be seen to hold at the pure
+fia
+egoism extreme. If U, = Ui(xi, gi), then an individual's total gift y, will
+be independent of the gifts of others. So fl/aY_ i = 1, which meansf,
++ fi, = 1. Given the normality assumption, this implies that, for pure
+egoists, 0 < 1 - La = fie < 1.
+We can now discuss the interaction between altruism and warmglow giving. One way to see this is to ask the following question: If we
+were to decrease wi by one dollar, by how much would we have to
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1452
+
+OF POLITICAL
+
+JOURNAL
+
+ECONOMY
+
+increase Y__ in order to maintain neutrality, that is, to keep Y constant? If we have pure altruism, the answer is one dollar. Since people
+are indifferent about the source of the contribution, if we decrease w
+by a dollar and increase Yi by a dollar, then the person will simply
+reduce gi by a dollar and restore the original equilibrium. Suppose
+instead that a person is impurely altruistic. Then there will be some
+stickiness in gi. Since gi and Y- i are no longer perfect substitutes, if wi
+and Y_ are altered to keep w. + Y_. constant, then the person is no
+longer willing to substitute perfectly away from gi. This implies that if
+wi rises by one dollar, then Y_ needs to rise by less than a dollar to keep
+Y constant. Indeed, at the pure egoism extreme, person i will simply
+decrease gi by/fi,; hence Y_- need only increase by this amount.
+This concept can be expressed formally by totally differentiating (2)
+and setting it equal to zero: dY = f,,(dwi + dY-1) + f,,dY_1 = 0. Let Oti
+be the ratio that solves this. Then by rearranging we see that
+dY
+
+I
+
+fa
+,
+
+dwi
+
+ti,? + te
+
+We can see that oi has all the properties described above. If we have
+pure altruism, then fie = 0, so ci = 1. For pure egoists, fi,, ? /i = 1, soo
+that ot/ = [l. Impure altruists are in the middle:f,, a o, ' 1. Hence, oLi
+serves to index altruism: the higher oti, the more willing the person is
+to substitute gi for other sources of giving. Thus if oti > otl,,we shall say
+that i is more altruistic than j.
+
+B.
+
+Neutrality
+
+Consider first an increase in lump-sum taxes that are donated to the
+public good. Following this, we can generalize the result to redistributions of income.
+Without loss of' generality, let the taxes be changed on person 1.
+Totally differentiating
+the donation function of' person 1 yields
+dy1 = fldYI
+
++ fle(dYI
+
+= (fal + fl,
+Substituting
+
+dY
+
+=
+
+dy
+
+-
+
++ dTi) - dYI
+
+1)dY- I + fldTI.
+
+dY - dyl and rearranging,
++
+
+1
+
+fij fia -f
+f. , + l
+
+dY + (1 -otl)dTI.
+
+Totally differentiating
+the remaining j
+holding dT1 = 0, and rearranging, we get
+du]
+
+JI.
+
++ 'fie
+
+1
+
+we see that
+
+dY,
+
+j =
+
+=
+
+2....
+
+2
+
+(4)
+n equations,
+
+,
+
+n.
+
+(5)
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+IMPURE
+
+1453
+
+ALTRUISM
+
+Solve for the general equilibrium comparative statics result by adding equation (4) and the n - 1 equations of (5). We then find that
+ie
+dy = 1 -,fi. + -fi
+fil
+
+i
+
+= c(l
+
+dY + (1 - a l)dv
+
++ .fie
+
+(6)
+-otl)dT,
+
+where
+C=
+(1 ?
+
+11
+
+fi
+
+If we assume that preferences are normal with respect to "social
+wealth,"6 then 0 < /,,. +?f_
+ti
+1. This implies that 0 < c ? 1. Since 0 <
+al ' 1, it follows that 0 ' dYIdT1? 1. But notice it can never be that
+dY/dT1 = 1 since c = 1 would imply that at = fj, < 1. Thus it follows
+that 0 ? dY/dT1 < 1.
+
+This demonstrates that lump-sum taxes will, in general, only incompletely crowd out private giving. In fact, as can easily be seen
+above, pure altruism (oi = 1) is both necessary and sufficient for
+neutrality. Note also that the coefficient c in equation (6) is the same
+regardless of who is taxed. Hence, equation (6) implies that the relative degree of crowding depends only on the degree of altruism of the
+person whose taxes change. In particular, crowding is independent of
+income, income elasticity, or income effects per se. Only the degree of
+substitutability, oi, matters.7 T his illustrates the general force of the
+theory: there will be less crowding out if the government levies taxes
+on the less altruistic members of society, regardless of income, income
+elasticities, or original gifts.
+We can understand this result intuitively by noting that if i is purely
+altruistic, then i will neutralize a tax all by himself. If Tv goes up by a
+dollar, then i can reduce gi by a dollar and restore the original optimum; everyone else's gifts (both voluntary and exogenous) remain
+unchanged. However, if i is impurely altruistic, then if Tvgoes up by a
+dollar, i will be unwilling to substitute perfectly out of g,; hence g, will
+fall by less than a dollar. As a result, there will be a net infusion of
+social wealth economywide. This "income effect" will cause an increased demand for the public good.
+6 This
+assumption is necessary and sufficient to show that a Nash equilibriumi exists
+and, moreover, is sufficient to show that the Nash equilibrium is unique and stable (see
+Andreoni 1987).
+7 To see this more precisely, suppose that at the initial
+=
+w,1 = UZt2,
+equilibriumfl,
+and YIl = Y2, so that income, income effects, and income elasticities are identical. How= 0. Then ot, < of.) = 1, and a tax oin person 1 would
+ever, suppose that /f,. >f,
+increase the public good while a tax on person 2 would be neutral.
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1454
+
+JOURNAL
+
+OF POLITICAL
+
+ECONOMY
+
+Next, we can apply this to redistributions of income. Since any kperson redistribution can be reconstructed as a series of two-person
+redistributions, it is sufficient to state the result in terms of a twoperson transfer. Consider a redistribution that works through the tax
+system. Without
+
+loss of generality,
+
+let dT1 = dT =
+
+-dT2.
+
+(The same
+
+result can easily be shown to hold for direct redistributions, i.e.,
+through dw rather than dT.) Then implementing this redistribution is
+equivalent to implementing first the tax increase dT1 and second the
+tax cut dT2. From our last result, the combined effect is
+dY
+dy =
+dT
+d
+
+=
+
+[C(1
+
+=
+
+C(O 2-
+
+-
+
+dY
+
+dT
+
+dT2
+
+-
+
+-
+
+-
+
+C(1 -
+
+t2)]dT
+
+o1)dT.
+
+Hence, a redistribution of income will increase the total supply of the
+public good if and only if the person receiving the transfer is more altruistic than the person losing income. Again, if all preferences are
+purely altruistic, then the redistribution will be neutral.8 Note, too,
+that neither initial wealth, initial gifts, nor income elasticities have any
+direct bearing on the predicted outcome: only relative degrees of altruism matter.
+Curiously, pure altruism is only a sufficient condition for redistributions to have a neutral effect on Y since Y will also be unchanged
+if OI = Ox2. However, pure altruism is a necessary condition for the
+redistribution to have a neutral effect on all consumption, including
+xi. To see this, note that in equilibrium the total derivative of person
+l's donation function would be
+dydi
+
+fia, fi
+
++ +fie
+fie
+ttn+
+
+=
+
+(1 -
+
+-I
+
+dY + (1 - o1)dTI
+
+fl e
+1)dT1.
+
+Since dx1 = -dy 1, then dx I = 0 if and only if cI = 1. A similar result
+holds for person 2.
+The intuition for this result follows that for crowding out. If the
+person receiving the tax cut is more willing to adjust her g to offset the
+tax (i.e., is more altruistic) than the person receiving the tax increase,
+8 If people were assumed also to gain utility from paying taxes, then utility would
+have the form Uj = Ui(xI, Y, gi + 7i). It can easily be shown that lump-sum taxes will
+completely crowd out private giving and that redistributions through the tax system will
+also be neutral, but that redistributions outside of the tax system will not be neutral.
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+IMPURE
+
+ALTRUISM
+
+1455
+
+then there will be a net positive infusion of social wealth economywide. The aggregate effect will be to increase the demand for the
+public good.
+III.
+
+Implications for Charitable Giving
+
+It is immediate that impure altruism is capable of explaining the
+empirical regularities that the pure altruism model fails to explain. In
+particular, free riding is not pervasive and crowding out is not complete. Moreover, the model suggests that many of the natural indices
+used for policy analysis, such as relative donations, wealth, or income
+elasticities, as well as much of the intuition gleaned from pure altruism models, may be inappropriate. For instance, Bergstrom et al.
+(1986) show that only if the government taxes nongivers will the
+policy increase private giving. Therefore, if giving is a normal good,
+this implies that making the tax schedule less progressive would not
+hurt charity markets and would be likely to help them. Under impure
+altruism, however, this is not necessarily the case: neither wealth,
+generosity, nor relative income elasticities have a direct bearing. If
+those with lower income are more altruistic, regardless of income
+elasticities, then more progressive taxation may promote rather than
+discourage giving.9
+This analysis has, of course, ignored the possibility that many people may be at corner solutions with respect to the public good, that is,
+g, = 0. Therefore, suppose that the government raises taxes on a
+nongiver, say person n + 1. Then dy +I = dT,, + l. Since f, + i = 0,
+then ot, + 0= ?, and it follows from the analysis above that the general
+equilibrium effect will be dY = cdT,,+ I Comparing this with (6), we see
+that the two expressions differ by a proportion 1 - ox. Thus if we
+believe that givers are motivated largely by altruism, then the difference between taxing a giver and taxing a nongiver may be substantial.
+However, if we believe that people are motivated largely by warm
+glow, then the relative difference may be quite small. As a point of
+reference, if we assume that people are motivated only by warm glow,
+then t = La. Using an estimate of this by Reece and Zieschang (1985)
+(similar results are obtained with other studies), we see that a = .023,
+which implies that the increase in Y generated by a tax on a giver
+would be roughly 98 percent of the increase generated by a tax on a
+nongiver. Curiously, this 2 percent prediction of crowding out is similar to Clotfelter's (1985) estimate of 5 percent.
+
+9 Andreoni (1987) cites evidence that suggests that this is true.
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1456
+IV.
+
+JOURNAL
+
+Implications
+for Ricardian
+the Rotten Kid Theorem
+
+Equivalence
+
+OF POLITICAL
+
+ECONOMY
+
+and
+
+The results above naturally apply to public goods within the family.
+First, consider the model of bequests. Parents are taken as altruistic:
+they care about their own consumption, xlp, and the consumption of
+their heir, X/. Since the heir also cares about x/,, it is a public good. In
+Barro's (1974) proof, voluntary bequests act to "undo" involuntary
+intergenerational
+redistributions generated by government debt, as in
+the pure altruism case above. Suppose, however, that parents feel an
+obligation to future generations. Family heirlooms, custom, or social
+status may all compel parents to leave bequests, or they may simply
+use their wealth to (strategically) exert control or influence over their
+heirs (Bernheim et al. 1985; Cox 1987). In each case the utility of
+parents also depends on the size of their bequest: U1, = Up,(xl,, Xh, b).
+The utility of heirs, on the other hand, depends only on their own
+consumption:
+Us, = U,(x1,). We are now back in the realm of impure
+altruism. Parents are impurely altruistic with respect to their gifts to
+heirs, while the heirs can be thought of as "purely altruistic" with
+respect to their own consumption. As such, redistributions from children (more altruistic) to parents (less altruistic) will reduce the private
+supply of the public good (the consumption of the heir). Parents will
+be unwilling to perfectly substitute bequests for debt; hence they will
+keep some of their new "wealth" for themselves.
+Suppose instead that the young are making gifts to the old. Now the
+consumption of the old is a public good. If the young get a warm glow
+from giving, then the old are more altruistic with respect to their own
+consumption.
+A redistribution from the young (less altruistic) to the
+old (more altruistic) will increase the supply of the public good (consumption of the old). Children will reduce their gifts, but not by the
+full amount of the transfer. With this simple modification, we see that
+debt is not neutral. Regardless of whether there are gifts or bequests,
+a debt will have a Keynesian effect: consumption will increase in the
+period the debt is incurred. Note also that this model will allow for
+both gifts and bequests to occur simultaneously.
+However, debt will
+affect both the gift and bequest relationships similarly; hence Keynesian effects will still hold.
+A similar result holds if we modify Becker's (1974, 1981) model of
+the family. His Rotten Kid theorem states that a rotten kid who seeks
+to maximize his own income is also working in the best interests of the
+family. The reason is that the selfish acts of a rotten kid are simple
+redistributions of income: when a rotten kid tries to secure more for
+himself, the head of the household will neutralize this by adjusting the
+allocations earmarked for the rotten kid. Alternatively, we could as-
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+IMPURE ALTRUISM
+
+1457
+
+sume that the head of the household is a "soft touch": he enjoys giving
+to his kids, rotten or not. Since kids care only about their own allocations, they are more "altruistic" than their parents. If a rotten kid
+takes actions that reallocate household income to himself, then his
+actions will not be fully neutralized. Hence, if parents enjoy giving to
+their kids, then rotten kids can increase their own consumption by
+behaving in a rotten manner. In other words, it is not sufficient for
+kids simply to be rotten: they must be spoiled rotten.
+V.
+
+Conclusion
+
+That publicness generates neutrality in models of giving has been a
+subject of' great interest and concern in recent years. Researchers
+have considered generalizations ranging from market failure to myopia in order to explore the limits of neutrality. This paper considers
+perhaps the most natural generalization: that people derive some
+utility from the act of giving. When we consider the effects of such
+warm-glow giving, we find that neutrality breaks down in an intuitive
+and predictable way: government contributions to charity will incompletely crowd out private gifts, and intergenerational transfers via
+debt will always have Keynesian effects. The reason is that the warm
+
+glow makes private gifts imperfectsubstitutes for gifts fromt other
+sources. As a result, people are unwilling to swap a dollar of g, for a
+
+dollar of'T'or Y__, which is necessary for neutrality.
+This work can be easily extended to subsidies to giving. Bernheim
+(1986) and Bernheim and Bagwell (1988) have shown that even "distortionary"taxes may have neutral effects when preferences are altruistic. However, Andreoni (1987) shows that this too breaks down
+when altruism is impure. Again, this is because the warm glow makes
+the government's contribution, including the subsidy, an imperfect
+substitute for gifts made directly. Hence subsidies, as indicated by
+
+econometric studies, will increase net giving. Finally, this work also
+suggests a dynamic study of the family to explore how impure altruism may affect savings rates and economic
+
+growth in the presence of
+
+debt.
+References
+Altig, David, and Davis, Steve J. "Government Debt, Redistributive Fiscal
+Policies, and the Interaction between Borrowing Constraints and Intergenerational Altruism."J. Monetary E(fon. (1989), in press.
+Andreoni, James. "Impure Altruism and Donations to Public Goods: A Theory of 'Warmi-Glow'Giving." Manuscript. Madison: Univ. Wisconsin, 1987.
+"Privately Provided Public Goods in a Large Economy: The Limits of
+Altruism." J. Public Econ. 35 (February 1988): 57-73. (a)
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+1458
+
+JOURNAL
+
+OF POLITICAL
+
+ECONOMY
+
+. "Why Ride Free? Strategies and Learning in Public Goods Experiments."J. Public Econ. 37 (December 1988): 291-304. (b)
+Barro, Robert J. "Are Government Bonds Net Wealth?" J.P.E. 82 (November/December 1974): 1095-1117.
+Becker, Gary S. "A Theory of Social Interactions." J.P.E. 82 (November/
+December 1974): 1063-93.
+. A Treatise on the Family. Cambridge, Mass.: Harvard Univ. Press, 1981.
+Bergstrom, Theodore C.; Blume, Lawrence; and Varian, Hal. "On the Private Provision of Public Goods."J. Public Econ. 29 (February 1986): 25-50.
+Bernheim, B. Douglas. "On the Voluntary and Involuntary Provision of Public Goods." A.E.R. 76 (September 1986): 789-93.
+. "Ricardian Equivalence: An Evaluation of Theory and Evidence." In
+NBER Macroeconomics Annual, vol. 2, edited by Stanley Fischer. Cambridge,
+Mass.: MIT Press, 1987.
+Bernheim, B. Douglas, and Bagwell, Kyle. "Is Everything Neutral?"J.P.E. 96
+(April 1988): 308-38.
+Bernheim, B. Douglas; Shleifer, Andrei; and Summers, Lawrence H. "The
+Strategic Bequest Motive." J.P.E. 93 (December 1985): 1045-76.
+Blanchard, Olivier J. "Debts, Deficits, and Finite Horizons." J.P.E. 93 (April
+1985): 223-47.
+Clotfelter, Charles T. Federal Tax Policy and Charitable Giving. Chicago: Univ.
+Chicago Press (for NBER), 1985.
+Cornes, Richard, and Sandler, Todd. "Easy Riders, Joint Production, and
+Public Goods." Econ. J. 94 (September 1984): 580-98.
+Cox, Donald. "Motives for Private Income Transfers."J.P.E. 95 (June 1987):
+508-46.
+Dawes, Robyn, and Thaler, Richard H. "Anomalies: Cooperation." J. Econ.
+Perspectives 2 (Summer 1988): 187-98.
+Feldstein, Martin. "The Effects of Fiscal Policies When Incomes Are Uncertain: A Contradiction to Ricardian Equivalence." A.E.R. 78 (March 1988):
+14-23.
+Hubbard, R. Glenn, and Judd, Kenneth L. "Liquidity Constraints, Fiscal Policy, and Consumption." Brookings Papers Econ. Activity, no. 1 (1986), pp. 150.
+Lucas, Robert E. B., and Stark, Oded. "Motivations to Remit: Evidence from
+Botswana."J.P.E. 93 (October 1985): 901-18.
+McClelland, Robert. "Voluntary Donations and Public Expenditures in a Federalist System: A Comment." A.E.R. (in press).
+Reece, William S., and Zieschang, Kimberly D. "Consistent Estimation of the
+Impact of Tax Deductibility on the Level of Charitable Contributions."
+Econometrica 53 (March 1985): 271-93.
+Roberts, Russell D. "A Positive Model of Private Charity and Public Transfers."J.P.E. 92 (February 1984): 136-48.
+. "Financing Public Goods."J.P.E. 95 (April 1987): 420-37.
+Schiff, Jerald. "Does Government Spending Crowd Out Charitable Contributions?" Nat. TaxJ. 38 (December 1985): 535-46.
+Shefrin, H. M., and Thaler, Richard H. "Life Cycle versus Self-Control Theories of Savings." Working paper. 1985.
+Steinberg, Richard. "Voluntary Donations and Public Expenditures in a Federalist System." A.E.R. 77 (March 1987): 24-36.
+Warr, Peter G. "Pareto Optimal Redistribution and Private Charity."J. Public
+Econ. 19 (October 1982): 131-38.
+
+This content downloaded from 131.172.036.029 on July 24, 2016 11:40:29 AM
+All use subject to University of Chicago Press Terms and Conditions (http://www.journals.uchicago.edu/t-and-c).
+
+

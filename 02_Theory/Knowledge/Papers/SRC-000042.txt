@@ -1,0 +1,1342 @@
+JBR-08994; No of Pages 6
+
+Journal of Business Research xxx (2016) xxx–xxx
+
+Contents lists available at ScienceDirect
+
+Journal of Business Research
+
+Main drivers of consultancy services: A meta-analytic approach☆
+Cristina De Fuentes ⁎, Rubén Porcuna
+
+Facultat d'Economia, Universitat de València, Avda. Tarongers s/n, 46021 Valencia, Spain
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 1 February 2016
+Received in revised form 1 March 2016
+Accepted 1 April 2016
+Available online xxxx
+
+Keywords:
+Non-audit services
+Consultancy services
+Consultancy fees
+Audit fees
+Meta-analysis
+NAS
+
+1. Introduction
+
+This meta-analysis incorporates the results from 34 separate studies examining fee models for consultancy
+services whereby the consulting ﬁrm provides both audit and advisory services to its customers. The ﬁndings in-
+dicate a number of key determinants of consultancy bills: client size, audit fees, auditors being from a “Big Audit
+Firm,” client's ﬁnancial difﬁculties, and prior experience with the legal auditors. Conversely, the meta-results fail
+to correlate the variable of interest with several constructs commonly used in consultancy models such as the
+auditee's inherent risk, the client's ﬁnancial debt, or the audit opinion. The study also explores the inﬂuence of
+three moderators: the Sarbanes–Oxley Act, the legal environment, and the type of statutory auditor. The overall
+moderator results are robust but fail to group prior data into homogeneous sets. The ﬁndings are relevant for
+policy makers, audit scholars, and stakeholders.
+
+© 2016 Elsevier Inc. All rights reserved.
+
+This study examines the research on consultancy services models, in
+particular research that captures when the same company provides
+both the statutory audit of the ﬁnancial statements and consultancy
+services, also known as non-audit services (NAS), to the customer.
+
+Archival literature addressing NAS (e.g., tax, legal, information tech-
+nologies, ﬁnancial, or human resources) models does not look at them
+as a separate area of study but rather as an additional aspect of core
+legal auditing topics (Hay, Knechel, & Li, 2006; Krishnan & Yu, 2011;
+Stein, 2006; Ye, Carson, & Simnett, 2011; Zerni, 2012).
+
+Hence, to date, the NAS fee model studied in prior research resem-
+bles the Simunic (1980) model for audit fees, incorporating factors
+such as client size, audit complexity, auditor attributes, and engagement
+characteristics, among others. However, while audit fee models perform
+well, with an explanatory power around 75% (Hay, Knechel, & Li, 2006),
+the adjusted R-squared of the NAS fee model is, on average, around 35%
+(Abbott, Parker, & Peters, 2011; Ghosh & Pawlewicz, 2009; Grifﬁn, Lont,
+& Sun, 2009) despite the high number of independent variables tested
+so far, which frequently show a lack of signiﬁcant association. Thus,
+the main drivers of consultancy fees represent a research issue that
+deserves further investigation.
+
+☆ The authors are grateful to the two anonymous referees and Pedro Carmona and
+Consuelo Pucheta for their helpful comments. This paper received ﬁnancial support from
+the Junta de Andalucía under project SEJ-8236 and from the Consellería de Educació,
+Cultura i Esport de la Generalitat Valenciana under project VALi+d (Resolución 26 Junio
+2014).
+
+⁎ Corresponding author.
+
+E-mail addresses: cristina.de-fuentes@uv.es (C. De Fuentes), ruben.porcuna@uv.es
+
+(R. Porcuna).
+
+http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+0148-2963/© 2016 Elsevier Inc. All rights reserved.
+
+The present study aims to contribute to the extant literature in
+several ways. First, the study sheds light on the main determinants of
+NAS fees through meta-analysis (MA) techniques. Although prior
+research offers several meta-analyses conducted on audit fees (De
+Fuentes & Sierra, 2015; Hay, 2013; Hay, Knechel, & Wong, 2006a), this
+may be the ﬁrst attempt to apply MA to the vast empirical literature
+on NAS fees. MA presents several advantages over: a) a narrative review
+or a mere recounting of prior ﬁndings, which can be misleading or
+inconclusive, whereas MA provides the objectivity of a statistical
+technique (Rosenthal, 1991); and, b) the results of individual studies,
+because MA increases sample sizes and statistical power (Cooper,
+2010).
+
+Second, this study draws on the inﬂuence of three moderating vari-
+ables that might impact consultancy fee drivers: a) the 2002 Sarbanes–
+Oxley Act (SOX) that drives up audit fees and reduces NAS fees (Ghosh
+& Pawlewicz, 2009; Grifﬁn et al., 2009) and changes audit fee drivers
+(Huang, Raghunandan, & Rama, 2009); b) the legal environment,
+since the geographical scope of SOX is limited to the US environment,
+while the remaining countries offer a map of miscellaneous audit
+regulations; and c) the auditor's reputation, because the Big Auditing
+Firms1 charge a premium related to the high quality of their services
+(Hay et al., 2006a; McMeeking, Peasnell, & Pope, 2006; Clatworthy,
+Makepeace, & Peel, 2009; Campa, 2013) and this premium might also
+be applied to consultancy services. Analysis of these moderating variables
+may reveal whether or not the NAS drivers are robust across different
+grouping criteria and enable archival data to be bundled into homoge-
+neous sets.
+
+The ongoing concerns of regulators and policy makers about the
+joint provisioning of auditing and NAS, and whether this jeopardizes
+auditor independence, justify the importance of identifying the main
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+
+2
+
+C. De Fuentes, R. Porcuna / Journal of Business Research xxx (2016) xxx–xxx
+
+determinants of consultancy services. Those concerns eventually trig-
+gered recent audit regulatory changes (European Directive 2014, or
+the European Regulation 2014, on public-interest entities) that heavily
+constrain the provision of NAS.
+
+2. Literature review and research questions
+
+2.1. Main drivers of consultancy services and the audit literature
+
+Research on NAS remains closely tied to legal auditing topics. To
+date, researchers have devoted great effort to investigating economies
+of scope, that is, when the joint provision of both auditing and advisory
+services to a customer generates shared knowledge among consultants
+and auditors, resulting in a reduction in the average cost (Stein, 2006).
+However, researchers face great difﬁculty in predicting the impact of
+such knowledge spillover on the total audit-consultancy bill. For exam-
+ple, companies seeking better ﬁnancial information may engage more
+consultancy services such as IT advisory services and internal audits.
+In such cases, the association between audit and NAS fees is positive
+(Houghton & Jubb, 1999; Koh, Rajgopal, & Srinivasan, 2013). Converse-
+ly, the association between the two services is negative if, for instance,
+delivering NAS enhances the knowledge of the client's IT system and
+lowers audit costs (Antle, Gordon, Narayanamoorthy, & Zhou, 2006).
+Notably, O'Keefe, Simunic, and Stein (1994) report a non-signiﬁcant
+association.
+
+Empirical testing of the economies of scope through the application of
+simultaneous equation methods also fails to produce consistent results,
+that is, a mix of positive (Antle et al., 2006; McMeeking et al., 2006),
+negative (Krishnan & Yu, 2011; Svanström & Sundgren, 2012)
+and non-signiﬁcant associations (Whisenant, Sankaraguruswamy, &
+Raghunandan, 2003; Hay, Knechel, & Li, 2006b; De Fuentes &
+Pucheta-Martinez, 2009).
+
+Regarding the market for consultancy services, Svanström and
+Sundgren (2012) document that small- and medium-sized companies
+are more likely to hire other consultancy services from their incumbent
+auditor than are listed companies as the relationship evolves.
+
+In sum, researchers commonly test NAS fee models when exploring
+auditing issues and these typically incorporate the same constructs
+and/or are operationalized through the same variables as the audit
+models. However, general conclusions remain elusive. Hence, the
+present research investigates the following research question:
+
+RQ1: Does the overall published evidence about the most commonly
+applied NAS explanatory variables support a statistically signiﬁcant
+association with NAS fees?
+
+2.2. Auditing services regulatory changes
+
+A recurring audit issue is whether or not the joint provision of
+auditing and NAS increases the economic bond between client and
+auditor and, eventually, jeopardizes auditor independence.
+
+The Enron scandal and the subsequent implementation of SOX
+(2002), requiring the disclosure of NAS fees and banning the provision
+of most NAS by the same auditing ﬁrm, were followed by an interna-
+tional wave of auditor independence regulation, despite the lack of
+conclusive empirical support (Schneider, Church, & Kirsten, 2006; De
+Fuentes & Pucheta-Martinez, 2009). Thus, post SOX audit literature
+reveals a decrease in the consultancy services performed by either the
+auditor or the groups the audit ﬁrm belongs to (Grifﬁn et al., 2009;
+Ghosh & Pawlewicz, 2009) as a consequence of the international politi-
+cal pressure (GAO reports, 2003, 2008). Audit fee drivers also seem to
+have changed after the implementation of SOX (Huang et al., 2009). Ac-
+cordingly, the present study explores the following research question:
+
+RQ2: Does the regulatory change (i.e., SOX 2002) moderate the associ-
+ation of NAS fees with their explanatory variables?
+
+2.3. Legal environment
+
+The US audit regulation (SOX 2002) triggered legislative reforms in
+many countries, launching a wide variety both in terms of when these
+reforms were implemented as well as the measures adopted. For exam-
+ple, in Europe, the Statutory Audit Directive was approved in 2006, but
+its transposition by each Member State took place in different years.
+Hence, geographic scope might also explain the heterogeneity in prior
+ﬁndings. In fact, prior meta-analysis results on the auditor's specializa-
+tion premium reveal some differences between US-based studies and
+those carried out in other countries (De Fuentes & Sierra, 2015). Thus,
+the following research question is explored in this paper:
+
+RQ3: Does the legal environment (US vs. non-US countries) moderate
+the association of NAS fees with their explanatory variables?
+
+2.4. Auditor's reputation
+
+Audit researchers differentiate between Big Auditing Firms and Non-
+Big Auditing ﬁrms, due to differences in reputation and/or perceived
+audit quality (Aguiar-Diaz & Diaz-Diaz, 2015; Hay et al., 2006a;
+McMeeking et al., 2006). The Big Auditing Firms charge higher fees to
+offset the higher costs of performing high-quality audits (Campa,
+2013; Clatworthy et al., 2009). This fee premium might also apply to
+consultancy services. Therefore, this analysis aims to explore the follow-
+ing research issue:
+
+RQ4: Does the auditor's reputation moderate the association of NAS fees
+with their explanatory variables?
+
+3. Sample and methodology
+
+3.1. Meta-analysis procedures
+
+The present study applies the following MA statistical procedures to
+
+the empirical results obtained from individual studies:
+
+a) To compute the effect size estimate by means of the Pearson correla-
+tion coefﬁcient normalized by Fisher's Transformation (Zr). This is to
+avoid the problems generated by, in this case, high standard devia-
+tion in the p values reported in prior results.
+
+b) To carry out a homogeneity analysis and ﬁnd evidence of moderat-
+ing variables that could help in clustering the results. This is to ﬁrst
+estimate whether 75% or more of the observed variance is explained
+by the sampling error, in which case, the results could be assumed
+homogeneous. Then, to increase the robustness of the analyses, a Q
+test is performed, which follows an X2 distribution.
+
+c) To explore publication bias, that is, the possibility of ﬁnding a type I
+publication bias error in the published results due to the fact that
+
+Table 1
+Sample of study.
+
+Articles from the initial search
+
+Web of Science
+Scopus
+
+(Duplicates)
+(Articles from different areas)
+Initial sample
+Criteria leading to exclusion of articles
+
+- Different model/operationalization of NAF
+- Studies on speciﬁc events and ﬁrms
+- Different topic and purpose
+- Theoretical Studies
+- Other studies
+- Untabulated results
+Final sample of articles
+Separated studies
+Final sample of studies
+
+134
+425
+
+Number
+
+559
+
+(69)
+(288)
+202
+
+(55)
+(10)
+(62)
+(10)
+(30)
+(5)
+30
+4
+34
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+
+C. De Fuentes, R. Porcuna / Journal of Business Research xxx (2016) xxx–xxx
+
+3
+
+Table 2
+Sample distribution by author.
+
+Authors (publication year)
+(1)
+
+Abbott et al. (2011)
+Abbott et al. (2011)
+Antle et al. (2006)
+Antle et al. (2006)
+Ashbaugh et al. (2003)
+Brown, Falaschetti, and Orlando (2010)
+Chahine and Filatotchev (2011)
+Chan, Chen, Janakiraman, and Radhakrishnan (2012)
+Chan et al. (2012)
+Chan et al. (2012)
+Chen, Du, Krishnan, and Su (2009)
+De Fuentes and Pucheta-Martinez (2009)
+DeFond, Raghunandan, and Subramanyam (2002)
+Ghosh and Pawlewicz (2009)
+Grifﬁn et al. (2009)
+Gul, Tsui, and Dhaliwal (2006)
+Habib and Islam (2007)
+Hay, Knechel and Li (2006b)
+Hoitash and Hoitash (2009)
+Houghton and Jubb (1999)
+Krishnan and Yu (2011)
+Mitra and Crumbley (2004)
+Mitra and Hossain (2007)
+Nam and Ronen (2012)
+Niu (2008)
+Quick, Sattler, and Wiemann (2013)
+Raghunandan, Read, and Whisenant (2003)
+Ruddock, Taylor, and Taylor (2006)
+Stein (2006)
+Svanström and Sundgren (2012)
+Whisenant et al. (2003)
+Ye et al. (2011)
+Zaman, Hudaib, and Haniffa (2011)
+Zerni (2012)
+
+Journal
+(2)
+
+AAJPT
+AAJPT
+RQFA
+RQFA
+TAR
+AL&ER
+BAR
+JAAF
+JAAF
+JAAF
+A-PJA&E
+ARLA
+JAR
+AAJPT
+A&F
+A&F
+MAJ
+JBF&A
+MAJ
+JIAA&T
+MAJ
+PAFMJ
+JBR
+JAA&F
+CGIR
+MAJ
+AH
+CAR
+CAR
+IJA
+JAR
+AAJPT
+JBF&A
+MAJ
+
+Subsample
+(3)
+
+Year
+Year
+
+Year
+Year
+Year
+
+Period
+(4)
+
+2000
+2001
+1994–2000
+2000
+2000
+2001–2002
+1999–2003
+2000
+2001
+2002–2006
+2000
+2002
+2001
+2000–2005
+2002–2007
+1993–1994
+1996–1999
+1999–2001
+2004
+1987–1988
+2000–2006
+2000
+2000
+2000–2002
+2003–2004
+2005–2007
+2000–2001
+1993–2000
+2001
+2006
+2000
+2002
+2001–2004
+2000–2004
+
+Country
+(5)
+
+US
+US
+UK
+US
+US
+US
+UK
+US
+US
+US
+US
+Spain
+US
+US
+New Zealand
+Australia
+Bangladesh
+New Zealand
+US
+Australia
+US
+US
+US
+US
+Canada
+Germany
+US
+Australia
+US
+Europe
+US
+Australia
+UK
+Sweden
+
+Sample Size
+(6)
+
+338
+338
+2294
+1570
+3170
+927
+375
+2768
+3812
+20,173
+1027
+135
+1158
+23,273
+513
+840
+530
+644
+2393
+270
+11,899
+63
+335
+4219
+911
+330
+110
+3746
+3053
+322
+2666
+911
+135
+772
+
+A&F: Accounting and Finance; AH: Accounting Horizons; AAJPT: Auditing: A Journal of Practice and Theory; ALER: American Law and Economic Review; A-PJA&E: Asia-Paciﬁc Journal of
+Accounting and Economics; ARLA: Academia, Revista Lationamericana de Administración; BAR: The British Accounting Review; CGIR: Corporate Governance: An International Review;
+CAR: Contemporary Accounting Research; IJA: International Journal of Auditing; JAAF: Journal of Accounting, Auditing & Finance; JAR: Journal of Accounting Research; JBFA: Journal of
+Business Finance and Accounting; JBR: Journal of Business Research; JIAAT: Journal of International Accounting, Auditing and Taxation; MAJ: Managerial Auditing Journal; PAFMJ:
+Petroleum Accounting and Financial Management Journal; RQFA: Review of Quantitative Finance and Accounting;; TAR: The Accounting Review.
+
+research studies without a signiﬁcant effect are more likely to
+be discarded in ﬁle drawers. To address this issue, the Safe N is
+estimated.
+
+3.2. Sample of study
+
+The experimental and control variables were grouped following the
+
+criteria in Hay (2013).1
+
+4. Results
+
+4.1. Explanatory variables
+
+Following Stanley et al. (2013), the initial search focused on publica-
+tions written in English between 1986 and December 2013 and includ-
+ed in several databases and editorial sources such as ISI Web of Science,
+ScienceDirect, EJS Ebsco, Blackwell, Emerald, ABI Inform, and SSRN. Ref-
+erences in the most recent articles of major accounting and ﬁnance
+journals were also examined to identify other sources. Unpublished
+(working) papers were dropped (Hay, 2013; Hay et al., 2006b). The
+strings used to identify NAS models included “non-audit*”; “nonaudit*”;
+“NAS”; “additional servic*”; “consult* servic*”; “fee”; and also those of
+related topics such as “audit* independ*”; “bargaining power” and
+“fee.” The search was carried out and completed in February 2015.
+
+Table 1 lists the studies discarded. Three articles contain separate
+analyses carried out on different samples, so the total number of studies
+that constitutes the basis for the MA is 34.
+
+Table 2 reveals that all usable articles in this study have been
+published this century (except for Houghton and Jubb (1999)) and in
+highly reputable journals. Anglo-Saxon studies predominate. The
+number of observations varies from 63 (Mitra and Crumbley, 2004) to
+23,273 in Ghosh and Pawlewicz (2009).
+
+Table 3 reports the meta-results related to the ﬁrst research
+question, that is, the overall statistical signiﬁcance of prior results on
+the explanatory variables of the NAS fees.
+
+As with audit fees (Hay et al., 2006a), the variability in NAS fees is
+positively and highly correlated (0.355) to client Size and the meta-
+result is robust since 17,628 studies (Safe N) with null results are needed
+to reject the conclusions. Although in ﬁve out of seven studies the
+client's Sales Growth was not signiﬁcant, the meta-results indicate a pos-
+itive and signiﬁcant association (0.015).
+
+Of all the reported evidence on client complexity, the number of
+Business Segments offers the most robust results. The remaining
+variables display signiﬁcant correlation but either a very low Safe N or
+a high number of studies with null signiﬁcance. Volatility in the stock
+market negatively correlates (−0.019) with NAS fees.
+
+Regarding client proﬁtability, ROA (− 0.050) and Stock return
+(− 0.012) display negative coefﬁcient, whereas Loss (0.020) and
+
+1 The current Big Auditing Firms are Deloitte, KPMG, Ernst and Young, and
+
+PriceWaterhouseCoopers, because Arthur Andersen collapsed in 2002.
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+
+4
+
+C. De Fuentes, R. Porcuna / Journal of Business Research xxx (2016) xxx–xxx
+
+Market-Value-to-Book Value (0.029) are positively associated with the
+variable of interest.
+
+Concerning the ﬁnancial structure of the client company, only the
+Issuance of debt or equity positively relates (0.018) to hiring consultancy
+services. The presence of Institutional investors positively and signiﬁ-
+cantly associates with hiring consultancy services (0.021) with a Safe
+N of 73.
+
+Prior studies (20) report a positive association between NAS fees and
+the auditor's reputation (Big Auditing Firm) that is corroborated in the
+present study, with 0.072 being the correlation coefﬁcient and 3082
+the Safe N.
+
+New auditor negatively correlates (− 0.060) with the variable of
+interest, whereas the Number of years of the audit engagement with
+the incumbent auditor shows a positive sign (0.043), in line with
+Svanström and Sundgren (2012). However, the number of studies is
+still limited (4) and the Safe N is very low (18).
+
+Prior tests failed to ﬁnd any association of NAS fees with the (modi-
+ﬁed) Audit opinion (in 12 out of 14 cases) and the overall coefﬁcient is
+not signiﬁcant. Conversely, the meta-results offer robust evidence of the
+relationship between Nat Log of audit fees and NAS fees (the correlation
+coefﬁcient is 0.301 and the Safe N is 7889).
+
+In every measure displaying signiﬁcant association with NAS fees,
+the percentage of variance explained by the sampling error is below
+the benchmark of 75% and the p-value of the X2 is below conventional
+levels, so the hypothesis of homogeneity is consistently rejected.
+
+4.2. Further evidence from moderating variables
+
+Table 4 reports the results of the moderator analysis related to the
+research questions two to four. Statistical analysis is only performed
+on those variables that proved relevant in the preceding MA stage,
+that is, when the number of papers displaying positive or negative
+signiﬁcance is greater than those with null signiﬁcance, the correlation
+coefﬁcient is signiﬁcant, and its value is above 1%.
+
+The untabulated correlation coefﬁcients of the analyzed variables
+within each subgroup are signiﬁcant except for Sales growth (for Post-
+SOX and Non-Big Auditing Firms subgroups) and New Auditor (for Non-
+US countries and Non-Big Auditing Firms subgroups). The data in Table 4
+reveal that the moderators fail to bundle prior research in homogeneous
+groups for the variables displaying signiﬁcant association with NAS fees,
+except for Auditor's reputation (in Nat log total assets and ROA whose
+
+Table 3
+Meta-analysis on independent variables and non-audit fees. Hunter and Schmidt (1990) model and Stouffer test.
+
+N
+
+Studies
+
+Zrm
+
+Safe N (p = 0.05)
+
+Homogeneity contrasts
+
+Total
+
+Positive
+
+Negative
+
+No signiﬁcant
+
+% Variance explained
+
+Client's size
+Nat log total assets
+Sales growth
+
+Client's complexity
+Business segments
+Foreign operations
+Acquisition or merger
+Pension plans
+Number of employees
+
+Client's inherent risk
+Inventory and receivable
+Volatility
+
+Client's proﬁtability
+Return on assets
+Loss
+Market value to book value
+Stock return
+Liquidity
+Cash ﬂow to total assets
+
+Client's leverage
+Leverage (Total debt/assets)
+Equity or debt issuance
+Leverage (Long Term debt/assets)
+
+Client's ownership
+Institutional investors
+
+Auditor reputation
+Big Auditing Firm (4, 5, 6, 8)
+
+Auditor tenure
+New auditor
+Years of the engagement
+
+Other auditing issues
+Audit opinion
+Nat log of audit fees
+
+86,133
+49,364
+
+54,519
+53,560
+40,126
+47,140
+41,653
+
+81,309
+41,648
+
+92,758
+80,461
+61,879
+40,255
+41,983
+6,653
+
+88,786
+50,579
+2,765
+
+26
+12
+
+13
+13
+12
+9
+6
+
+19
+6
+
+26
+19
+19
+11
+7
+7
+
+23
+12
+6
+
+50,460
+
+11
+
+25
+7
+
+8
+5
+4
+3
+2
+
+2
+1
+
+0
+4
+8
+0
+0
+1
+
+1
+6
+0
+
+6
+
+93,007
+
+29
+
+20
+
+50,944
+15,998
+
+73,914
+36,123
+
+12
+4
+
+14
+13
+
+0
+2
+
+2
+12
+
+0
+0
+
+1
+0
+0
+0
+1
+
+5
+2
+
+15
+2
+2
+6
+0
+3
+
+7
+1
+0
+
+1
+
+0
+
+8
+0
+
+0
+0
+
+1
+5
+
+4
+8
+8
+6
+3
+
+12
+3
+
+11
+13
+9
+5
+7
+3
+
+15
+5
+6
+
+4
+
+9
+
+4
+2
+
+12
+1
+
+0.355 #
+0.015 #
+
+17,628
+117
+
+0.019 #
+0.027 #
+0.050 #
+0.009 #
+0.018 #
+
+119
+168
+141
+4
+15
+
+0.002
+−0.019 #
+
+0
+0
+
+−0.050 #
+0.020 #
+0.029 #
+−0.012 #
+0.001
+0.002
+
+−0.006
+
+0.018 #
+0.022
+
+1236
+90
+192
+62
+0
+1
+
+26
+107
+0
+
+0.238 ***
+19.621 ***
+
+20.822 ***
+36.313 ***
+28.501 ***
+39.618 ***
+10.460 ***
+
+9.855 ***
+26.278 ***
+
+15.636 ***
+30.850 ***
+21.354 ***
+17.957 ***
+
+152.437
+
+30.323 ***
+
+25.868 ***
+26.035 ***
+
+161.320
+
+0.021 #
+
+73
+
+32.089 ***
+
+0.072 #
+
+3082
+
+17.315 ***
+
+−0.060 #
+0.043 #
+
+284
+18
+
+0.003
+0.309 #
+
+0
+7889
+
+16.104 ***
+60.648 *
+
+69.413 *
+
+1.456 ***
+
+N is the total number of observations in each analysis; Zrm is the average of correlation value, Zr ¼ ∑k
+i¼1 Zri (cid:2)ðni −3Þ
+∑k
+ðni −3Þ
+
+i¼1
+
+, (from Fisher: Zr ¼ 1
+2
+
+(cid:2) lnð1þr
+1−r
+
+Þ) of the studies for every independent variable
+
+in MA; correlation coefﬁcients: r ¼
+
+q
+
+ﬃﬃﬃﬃ
+Z2
+N
+
+¼ Zﬃﬃﬃ
+p and r ¼
+N
+
+q
+
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+t2
+t2 þdf
+
+p
+¼ tﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+t2 þdf
+
+; the 95% interval of conﬁdence is established by standardized normal distribution; Safe N is the number of published
+
+studies that should not be signiﬁcant to invalidate the results of MA (Ns ¼ ð∑k
+X2 test: * signiﬁcant at 10% level; ** signiﬁcant at 5% level; *** signiﬁcant at 1% level.
+# Zrm is signiﬁcant at 5%, that is, the 95% interval of conﬁdence does not include zero.
+
+i¼1 Zi
+1:64
+
+2
+Þ
+
+−k; homogeneity contrast rule: [(100)Se
+
+2/Sr
+
+2N 75%], where S2
+r
+
+¼ ∑Ni ðZri −ZrÞ2
+∑Ni
+
+and S2
+e
+
+¼ ð1−Zr2 Þ2
+N−1 .
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+
+C. De Fuentes, R. Porcuna / Journal of Business Research xxx (2016) xxx–xxx
+
+5
+
+Table 4
+Summary of the moderator results.
+
+Non-audit fees drivers
+
+Moderators
+
+Homogeneity group
+
+Client's size
+Nat log total assets
+Sales growth
+
+Client's complexity
+Business segments
+
+Client's proﬁtability
+Return on assets
+
+Auditor's reputation
+Legal environment
+
+Non-big auditing ﬁrms
+Non-US studies
+
+None
+
+None
+
+Auditor's reputation
+
+Non-big auditing ﬁrms
+
+Audit quality
+Big auditing ﬁrm (4, 5, 6, 8)
+
+Auditor tenure
+New auditor
+
+Other auditing issues
+Nat log audit fees
+
+None
+
+None
+
+None
+
+None
+
+None
+
+None
+
+homogeneous group is Non-Big Auditing Firms) and Legal environment (in
+Sales growth with the homogeneous group being Non-US studies).
+
+4.3. Further analysis
+
+First, statistical analysis is run on different measurements of NAS
+fees. In particular: a) the natural logarithm of NAS fees in order to
+reduce its variability; and, b) the ratios of NAS fees over audit fees or
+NAS fees over total (audit and non-audit) fees (Ashbaugh, LaFond, &
+Mayhew, 2003; Zerni, 2012). The results in all cases (not reported
+here for brevity) conﬁrm prior associations but do not show homogene-
+ity within each group of studies.
+
+Second, to further analyze the publication bias, funnel plots are
+drawn for each variable. The results of the untabulated analysis corrob-
+orate the conclusions drawn from the Safe N estimations.
+
+5. Conclusions, implications and limitations of the study
+
+This paper identiﬁes the main drivers of NAS fees by applying MA to
+prior published results in order to investigate the overall effect size of
+the tested variables.
+
+The meta-data shows a high correlation (35%) between NAS fees and
+client Size. Companies in expansion (measured through Sales Growth)
+also contract more advisory services. Within the different measures of
+client complexity, the Number of business operations offers the best
+results.
+
+A plausible explanation for the signiﬁcant association between the
+variable of interest and both Return on Assets (with a negative sign)
+and reporting bottom line losses (with a positive sign) is that companies
+facing ﬁnancial difﬁculties seek advisory services in order to improve
+their performance. Companies hiring a Big Auditing Firm also have
+higher consultancy bills with their audit ﬁrms.
+
+Finally, the current study explores several moderating variables,
+namely, the inﬂuence of SOX 2002, the legal environment, and the
+auditor belonging to the group of Big Accounting Firms. This analysis
+conﬁrms the robustness of the main determinants of NAS fees identiﬁed
+in the ﬁrst step of the MA, however, almost all the moderators fail to
+group prior results into homogeneous sets.
+
+The present results are relevant for policy makers since with respect
+to auditor independence they failed to demonstrate a signiﬁcant associ-
+ation between the level of NAS fees and the audit opinion issued the
+same year. Hence, the results do not corroborate the “opinion shopping”
+(Tong, 2006) or “client economic pressure” (Espinosa-Pike & Barrainkua,
+2016) hypotheses, although they cannot be rejected because different
+temporal links cannot be ruled out. Importantly for consulting ﬁrms,
+the meta-results reveal that companies hire consultancy services once
+they have “experience-based knowledge” (Svanström & Sundgren,
+
+2012) of the auditing services quality since NAS fees are negatively
+correlated with the appointment of a new auditor and positively with
+auditor tenure.
+
+The present ﬁndings are also of interest to audit scholars because the
+commonly included variables related to the auditee's inherent risk or
+the client's leverage seem not to be particularly relevant but are corre-
+lated to companies undergoing changes in their ﬁnancial structure
+such as debt or equity issuance.
+
+The current literature review also identiﬁes several gaps where fur-
+ther research would be worthwhile such as exploring more dynamic
+measures, ownership structures, governance issues, or the behavior
+within and across market segments.
+
+Limitations of this study consist of those endemically linked to MA
+techniques including: a) the fact that neither causality nor endogeneity
+concerns are addressed; b) in those papers that do not provide the
+correlation matrix of variables, the transformation from the statistic t
+to r is not exact; and, c) the analysis focuses on isolated variables and
+other factors might also inﬂuence the correlation coefﬁcients.
+
+The results might be also biased due to the inappropriate classiﬁcation
+of the published data. Additionally, the presence of other moderating
+factors that are responsible for the percentage of variance unexplained
+by the sampling error can also inﬂuence the results.
+
+References
+
+Abbott, L. J., Parker, S., & Peters, G. F. (2011). Does mandated disclosure induce a structural
+change in the determinants of nonaudit service purchases? Auditing: A Journal of
+Practice & Theory, 30(2), 51–76.
+
+Aguiar-Diaz, I., & Diaz-Diaz, N. L. (2015). Audit quality, second-tier and size: Effect on the
+Spanish private distressed ﬁrms. Spanish Journal of Finance and Accounting, 44(1),
+24–46.
+
+Antle, R., Gordon, E., Narayanamoorthy, G., & Zhou, L. (2006). The joint determination of
+audit fees, non-audit fees, and abnormal accruals. Review of Quantitative Finance and
+Accounting, 27(3), 235–266.
+
+Ashbaugh, H., LaFond, R., & Mayhew, B. W. (2003). Do nonaudit services compromise
+auditor independence? Further evidence. The Accounting Review, 78(3), 611–639.
+Brown, J. R., Falaschetti, D., & Orlando, M. J. (2010). Auditor independence and the quality
+of information in ﬁnancial disclosures: Evidence for market discipline versus
+Sarbanes–Oxley proscriptions. American Law and Economics Review, 12(1), 39–68.
+Campa, D. (2013). “Big 4 fee premium” and audit quality: Latest evidence from UK listed
+
+companies. Managerial Auditing Journal, 28(8), 680–707.
+
+Chahine, S., & Filatotchev, I. (2011). The effects of corporate governance and audit and
+
+non-audit fees on IPO value. The British Accounting Review, 43(3), 155–172.
+
+Chan, L., Chen, T., Janakiraman, S., & Radhakrishnan, S. (2012). Reexamining the relation-
+ship between audit and nonaudit fees: Dealing with weak instruments in two-stage
+least squares estimation. Journal of Accounting, Auditing and Finance, 27(3), 299–324.
+Chen, C., Du, J., Krishnan, G., & Su, X. (2009). Managerial shareholding and compensation
+structure, investment opportunities and non-audit service purchases: An alternative
+explanation. Asia-Paciﬁc Journal of Accounting & Economics, 16(2), 191–213.
+
+Clatworthy, M. A., Makepeace, G. H., & Peel, M. J. (2009). Selection bias and the big four
+premium: New evidence using Heckman and matching models. Accounting and
+Business Research, 39(2), 139–166.
+
+Cooper, H. (2010). Research synthesis and meta-analysis: A step-by-step approach (3rd
+
+ed.). Thousand Oaks: Sage Publications.
+
+De Fuentes, C., & Pucheta-Martinez, M. C. (2009). Auditor independence, joint determina-
+tion of audit and non-audit fees and the incidence of qualiﬁed audit reports. Academia
+Revista Latinoamericana de Administracion, 43(43), 63–92.
+
+De Fuentes, C., & Sierra, E. (2015). Industry specialization and audit fees: A meta-analytic
+approach. Academia Revista Latinoamericana de Administración, 28(3), 419–435.
+DeFond, M. L., Raghunandan, K., & Subramanyam, K. R. (2002). Do non-audit service fees
+impair auditor independence? Evidence from going concern audit opinions. Journal of
+Accounting Research, 40(4), 1247–1274.
+
+Espinosa-Pike, M., & Barrainkua, I. (2016). An exploratory study of the pressures and
+ethical dilemmas in the audit conﬂict. Spanish Accounting Review, 19(1), 10–20.
+Ghosh, A., & Pawlewicz, R. (2009). The impact of regulation on auditor fees: Evidence
+from the Sarbanes–Oxley act. Auditing: A Journal of Practice & Theory, 28(2), 171–197.
+Grifﬁn, P. A., Lont, D. H., & Sun, Y. (2009). Governance regulatory changes, international
+ﬁnancial reporting standards adoption, and New Zealand audit and non-audit fees:
+Empirical evidence. Accounting and Finance, 49(4), 697–724.
+
+Gul, F. A., Tsui, J., & Dhaliwal, D. S. (2006). Non-audit services, auditor quality and the
+
+value relevance of earnings. Accounting and Finance, 46(5), 797–817.
+
+Habib, A., & Islam, A. (2007). Determinants and consequences of non-audit service fees:
+Preliminary evidence from Bangladesh. Managerial Auditing Journal, 22(5), 446–469.
+Hay, D. (2013). Further evidence from meta-analysis of audit fee research. International
+
+Journal of Auditing, 17(2), 162–176.
+
+Hay, D., Knechel, R., & Wong, N. (2006a). Audit fees: A meta-analysis of the effect of
+supply and demand attributes. Contemporary Accounting Research, 23(1), 141–192.
+Hay, D., Knechel, R., & Li, V. (2006b). Non-audit services and auditor independence: New
+Zealand evidence. Journal of Business Finance and Accounting, 33(5–6), 715–734.
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029
+
+6
+
+C. De Fuentes, R. Porcuna / Journal of Business Research xxx (2016) xxx–xxx
+
+Hoitash, R., & Hoitash, U. (2009). The role of audit committees in managing relationships
+with external auditors after SOX: Evidence from the USA. Managerial Auditing Journal,
+24(4), 368–397.
+
+Houghton, K. A., & Jubb, C. A. (1999). The cost of audit qualiﬁcations: The role of non-audit
+services. Journal of International Accounting, Auditing and Taxation, 8(2), 215–240.
+Huang, H., Raghunandan, K., & Rama, D. (2009). Audit fees for initial audit engagements
+before and after SOX. Auditing: A Journal of Practice & Theory, 28(1), 171–190.
+Hunter, J. E., & Schmidt, F. L. (1990). Methods of meta-analysis: Correcting error and bias in
+
+research ﬁndings. Beverly Hills: Sage Publications.
+
+Koh, K., Rajgopal, S., & Srinivasan, S. (2013). Non-audit services and ﬁnancial reporting
+quality: Evidence from 1978 to 1980. Review of Accounting Studies, 18(1), 1–33.
+Krishnan, G. V., & Yu, W. (2011). Further evidence on knowledge spillover and the joint
+determination of audit and non-audit fees. Managerial Auditing Journal, 26(3),
+230–247.
+
+McMeeking, K. P., Peasnell, K. V., & Pope, P. F. (2006). The determinants of the UK big ﬁrm
+
+premium. Accounting and Business Research, 36(3), 207–231.
+
+Mitra, S., & Crumbley, D. L. (2004). The effect of non-ﬁnancial factors on cross-sectional
+differences in audit and non-audit fee levels of oil and gas ﬁrms. Petroleum
+Accounting and Financial Management Journal, 23(2), 1.
+
+Mitra, S., & Hossain, M. (2007). Ownership composition and non-audit service fees.
+
+Journal of Business Research, 60(4), 348–356.
+
+Nam, S., & Ronen, J. (2012). The impact of non-audit services on capital markets. Journal of
+
+Accounting, Auditing and Finance, 27(1), 32–60.
+
+Rosenthal, R. (1991). Meta-analytic Procedures for Social Research. 6, Newbury Park, CA:
+
+Sage Publications.
+
+Ruddock, C., Taylor, S. J., & Taylor, S. L. (2006). Nonaudit services and earnings conserva-
+tism: Is auditor independence impaired?*. Contemporary Accounting Research, 23(3),
+701–746.
+
+Schneider, A., Church, B. K., & Kirsten, M. E. (2006). Non-audit services and auditor inde-
+pendence: A review of the literature. Journal of Accounting Literature, 2, 169–211.
+Simunic, D. A. (1980). The pricing of audit services: Theory and evidence. Journal of
+
+Accounting Research, 161–190.
+
+Stanley, T. D., Doucouliagos, H., Giles, M., Heckemeyer, J. H., Johnston, R. J., Laroche, P., ...
+Pugh, G. (2013). Meta-analysis of economics research reporting guidelines. Journal
+of Economic Surveys, 27(2), 390–394.
+
+Stein, M. T. (2006). Discussion of “an economic analysis of audit and non-audit services:
+The trade-off between competition crossovers and knowledge spillovers.”.
+Contemporary Accounting Research, 23(2), 555–564.
+
+Svanström, T., & Sundgren, S. (2012). The demand for non-audit services and auditor–
+client relationships: Evidence from Swedish small and medium-sized enterprises.
+International Journal of Auditing, 16(1), 54–78.
+
+Tong, L. (2006). Does opinion shopping impair auditor independence and audit quality?
+
+Journal of Accounting Research, 44(3), 561–583.
+
+Whisenant, S., Sankaraguruswamy, S., & Raghunandan, K. (2003). Evidence on the joint
+determination of audit and non-audit fees. Journal of Accounting Research, 41(4),
+721–744.
+
+Niu, F. (2008). Dual-class equity structure, non-audit fees and the information content of
+
+Ye, P., Carson, E., & Simnett, R. (2011). Threats to auditor independence: The impact of
+
+earnings. Corporate Governance-An International Review, 16(2), 90–100.
+
+relationship and economic bonds. Auditing, 30(1), 121–148.
+
+O'Keefe, T. B., Simunic, D. A., & Stein, M. T. (1994). The production of audit services:
+Evidence from a major public accounting ﬁrm. Journal of Accounting Research,
+32(2), 241–261.
+
+Quick, R., Sattler, M., & Wiemann, D. (2013). Agency conﬂicts and the demand for non-
+
+audit services. Managerial Auditing Journal, 28(4), 323–344.
+
+Raghunandan, K., Read, W. J., & Whisenant, J. S. (2003). Initial evidence on the association
+between nonaudit fees and restated ﬁnancial statements. Accounting Horizons, 17(3),
+223–234.
+
+Zaman, M., Hudaib, M., & Haniffa, R. (2011). Corporate governance quality, audit fees and
+non-audit services fees. Journal of Business Finance and Accounting, 38(1–2), 165–197.
+Zerni, M. (2012). Do client ﬁrms manage the perception of auditor independence?:
+Evidence from the Swedish non-audit service market. Managerial Auditing Journal,
+27(9), 821–845.
+
+Please cite this article as: De Fuentes, C., & Porcuna, R., Main drivers of consultancy services: A meta-analytic approach, Journal of Business Research
+(2016), http://dx.doi.org/10.1016/j.jbusres.2016.04.029

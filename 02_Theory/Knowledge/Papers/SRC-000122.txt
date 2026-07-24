@@ -1,0 +1,1981 @@
+Toward the Importance of Nonproﬁ t 
+Brand Equity 
+
+  RESULTS FROM A STUDY OF GERMAN NONPROFIT 
+
+ORGANIZATIONS  
+
+        Silke     Boenigk   ,        Annika     Becker      
+
+     University of Hamburg   
+
+   Various brand evaluation approaches assess the value and equity of for-profit brands; 
+accordant approaches for nonprofit brands, however, have been limited, and there is disa-
+greement on what makes up a strong brand in the nonprofit sector. In response, this article 
+provides insights into the conceptualization and operationalization of stakeholder-based 
+nonprofit brand equity and derives an initial measurement index. We conceptualize non-
+profit brand equity as having three dimensions—nonprofit brand awareness, nonprofit 
+brand trust, and nonprofit brand commitment—thereby empirically investigating trust in 
+nonprofit brand equity building for the first time. The methodological procedure for build-
+ing the index is based on partial least squares path modeling, and we draw on a sample of 
+forty brands ( N  = 3,617 brand evaluations) identified as some of the best-known nonprofit 
+brands in Germany. Applying the index yields some of the strongest German nonprofit 
+brands; for example, German Red Cross has by far the highest value of brand equity, fol-
+lowed by Aktion Mensch and  UNICEF . The nonprofit brand equity index provides the 
+basis for nonprofit managers to compare their brands’ performance over time and develop 
+accordant branding strategies; it can be also used by organizations from other countries.   
+
+  Keywords:   nonprofit brand evaluation  ,   stakeholder-based nonprofit brand equity  , 
+   nonprofit brand awareness  ,   nonprofit brand trust  ,   nonprofit brand commitment    
+
+   STRONG BRANDS PROVIDE ORIENTATION and quality for stakeholders, and evidence has 
+affirmed these brands’ relationship to important organizational outcomes such as greater stake-
+holder loyalty and better financial performance (Fischer, Völckner, and Sattler   2010  ; Gromark 
+and Melin   2011  ). Considering the impact of marketing activities and their contribution to 
+firm performance, the evaluation of brands has attracted growing attention (Christodoulides 
+and De Chernatony   2010  ). Achieving a successful brand by strengthening brand equity (that 
+is, the financial or psychological value of the brand) has been among the top research priorities 
+in the past (Keller and Lehmann   2006  ), and both academic scholars and practitioners have 
+developed a multitude of methodologies to determine the equity and value of brands in the 
+
+Correspondence to: Silke Boenigk, University of Hamburg, Business Administration, Management of Public, Private & 
+NPOs, Von-Melle-Park 9, Hamburg 20146 Germany. Email: silke.boenigk@wiso.uni-hamburg.de.
+
+Journal sponsored by the Jack, Joseph and Morton Mandel School of Applied Social Sciences, Case Western Reserve University.
+
+Nonprofit Management & Leadership, vol. 27, no. 2, Winter 2016 
+Published online in Wiley Online Library (wileyonlinelibrary.com)  DOI: 10.1002/nml.21233
+
+© 2016 Wiley Periodicals, Inc.
+
+181
+
+182  BOENIGK, BECKER
+
+for-profit sector (for an overview, see Christodoulides and De Chernatony   2010  ;  Salinas   2011  ). 
+With regard to the nonprofit sector, however, Wymer, Gross, and Helmig (  2015  ) noted that 
+there is uncertainty about what makes up a strong nonprofit brand, and despite the increasing 
+awareness of brands’ potential in the nonprofit sector, research on brand equity in nonprofit 
+organizations remains sparse (for example, Faircloth   2005  ; Juntunen, Juntunen, and Autere 
+  2013  ; Laidler-Kylander and Simonin   2009  ). In response, we aim in this study to conceptualize 
+and operationalize nonprofit brand equity, thereby developing an initial brand equity index for 
+nonprofit organizations, which we test empirically with a large data set from Germany. 
+
+ We contribute to the overall discussion on nonprofit brand equity in three ways. First, 
+despite the increasing awareness of the relevance of branding in the nonprofit sector (Laidler-
+Kylander and Stenzel   2013  ), insights into brand evaluation approaches on the strength of 
+nonprofit brands have been limited, and most findings have come from market research and 
+consulting firms. For example, the Nielsen Company (  2015  ) ranks a series of US nonprofit 
+brands from different categories according to their brand equity, and Cone Communications 
+(  2015  ), together with Intangible Business (  2015  ), assesses the hundred leading US nonprofit 
+brands using a combination of financial and stakeholder-related data. The latter identifies 
+YMCA of America, the Salvation Army, and United Way of America as the best-performing 
+nonprofit organizations in terms of high nonprofit brand value (Cone Communications 
+  2015  ). The underlying methodologies, however, are strongly and, most often, fully aligned 
+with brand evaluations in the for-profit sector. It follows, then, that corresponding rankings 
+fail to reflect the public ’ s response to cases of ethical misconduct in the nonprofit sector, such 
+as YMCA ’ s commercialization issues or massive losses of trust and relevance of United Way 
+over the past years (Rhode and Packel   2009  ; Weisbrod   2004  ). That is, these brand evalua-
+tions mainly focus on brand equity from a financial perspective; yet financial performance 
+is not the main objective in nonprofit organizations, and nonprofit scholars largely do not 
+account for financial brand value, suggesting a stakeholder-based perspective instead. Accord-
+ingly, this study conceptualizes and operationalizes nonprofit brand equity from a stake-
+holder perspective, thereby contributing to the academic literature with initial insights into 
+nonprofit brand evaluation approaches and accordant index construction. 
+
+ Second, of the few existing academic studies on stakeholder-based nonprofit brand equity, 
+almost all are based exclusively on for-profit models without any adaptation to the non-
+profit context. Following Aaker ’ s (  1991  ) and Keller ’ s (  1993  ) common conceptualizations of 
+customer-based brand equity, most nonprofit scholars have claimed that brand awareness, 
+brand image, and brand personality are substantial dimensions of nonprofit brand equity 
+(Becker-Olsen and Hill   2006  ; Faircloth   2005  ; Hou, Du, and Tian   2009  ; Juntunen et al. 
+  2013  ). Laidler-Kylander and Simonin (  2009  ), however, recommend distinguishing between 
+nonprofit and for-profit brand building. In accordance, we question the full transferability 
+of (for-profit) dimensions of the brand equity construct to the nonprofit sector. In contrast 
+to most prior studies, then, this study approaches stakeholder-based nonprofit brand equity 
+from the perspective of specific organizations’ and brands’ characteristics in the nonprofit 
+sector. We conceptualize the construct to include communication and relationship-oriented 
+dimensions that are relevant in exchange processes with nonprofit stakeholders. 
+
+ Third, most academic studies on stakeholder-based brand equity in the nonprofit sector 
+have provided a measurement based on one or a few selected nonprofit brands. For exam-
+ple, Becker-Olsen and Hill (  2006  ) investigated the brand equity of two selected nonprofit 
+brands, while other scholars examined single nonprofit brands with a case study approach 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  183
+
+(for example, Faircloth   2005  ; Juntunen, Juntunen, and Autere   2013  ). Although such results 
+yield insights into stakeholder-based brand equity conceptualizations and operationalizations, 
+investigating the strength of a series of nonprofit brands reveals more information about non-
+profit brands’ evaluations. Therefore, we apply the nonprofit brand equity concept to forty of 
+the best-known German nonprofit brands, thereby providing initial insights into nonprofit 
+brand equity based on a large data set from Germany. In summary, two research questions 
+guide this study:
+
+  RQ1: How can nonprofit brand equity be conceptualized (based on existing literature 
+from the field of nonprofit and for-profit branding)? 
+ RQ2: How can dimensions of nonprofit brand equity be operationalized and meas-
+ured?   
+
+ In the next section, we provide an introduction to nonprofit brands and the dominant brand 
+equity perspectives in for-profit and nonprofit sectors that lead to our proposed conceptual 
+framework. The methodological procedure for building the index is based on partial least 
+squares (PLS) path modeling and a reflective–formative measurement approach, respec-
+tively. For a practical application, we drew on a sample of forty German nonprofit brands 
+( N  = 3,617 brand evaluations) identified as some of the best-known nonprofit brands in Ger-
+many. After presenting the empirical results of our study, we discuss the findings and derive 
+implications for researchers and provide nonprofit managers with practical suggestions to 
+help strengthen their nonprofit brands.  
+
+  Conceptualization of Nonproﬁ t Brand Equity 
+ To conceptualize stakeholder-based nonprofit brand equity, we first introduce a definition of 
+nonprofit brands, and show the dominant brand equity perspectives in for-profit and non-
+profit sectors. This provides the basis for our nonprofit brand equity framework, with its three 
+dimensions: (1) nonprofit brand awareness, (2) nonprofit brand trust, and (3) nonprofit brand 
+commitment. 
+
+  Deﬁ nition of Nonproﬁ t Brand 
+ The role of brand in the nonprofit sector has significantly changed over the past years, and 
+nonprofit scholars and practitioners both recognize a paradigm shift in nonprofit branding 
+(Kent   2015  ; Laidler-Kylander and Stenzel   2013  ). The “old” paradigm mainly considers the 
+nonprofit brand a fundraising or communication tool, with a focus on the tangible elements of 
+the brand such as its name or logo; more recently, the brand has risen to the level of a strategic 
+asset (Kylander and Stone   2012  ). In this function, the nonprofit brand assumes a broader role 
+in the organization, with the potential to internally provide guidance and further cohesion 
+among staff and volunteers while externally offering orientation to various stakeholders (Han-
+kinson   2004  ; Laidler-Kylander and Simonin   2009  ). Thereby, the brand functions as a source 
+of efficiency that signals the organizational core values and principles to external stakeholders, 
+allowing them to draw conclusions about the organization (such as regarding its trustworthi-
+ness and reputation) and, ultimately, its ability to further the mission. The nonprofit brand 
+accordingly helps simplify stakeholder decision making and reduces risk in an increasingly 
+complex environment (Laidler-Kylander and Stenzel   2013  ). 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+184  BOENIGK, BECKER
+
+ In line with the strategic understanding of brands, Kapferer (  2012  , 12) defines a brand as 
+“a name that symbolizes a long term engagement, crusade, or commitment to a unique set 
+of values, embedded into products, services, and behaviors, which make the organization, 
+person or product stand apart or stand out.” In a similar vein, and given the brand ’ s specific 
+characteristics in the nonprofit sector, we define a nonprofit brand as  one or more tangible 
+elements that symbolize the nonprofit organization ’ s dedication to a unique set of values and its 
+ability to achieve an overall mission that enables it to stand out from other organizations in the 
+nonprofit sector.   
+
+  Perspectives of Nonproﬁ t Brand Equity 
+ The brand equity construct has been approached mainly from two perspectives. The first per-
+spective refers to the financial (monetary) value of the brand, or what is known as an intangible 
+asset in financial terms (for example, Salinas   2011  ; Simon and Sullivan   1993  ). This perspec-
+tive considers the brand ’ s equity as the amount the brand is worth as ownership or as ongoing 
+future income flows (Schultz   2003  ). Many popular brand valuation models, such as those 
+from Brand Finance (  2015  ) or Millward Brown (  2015  ), adopt such a financial-based brand 
+equity perspective and accordingly refer to the term “brand value.” In nonprofit organiza-
+tions, however, financial performance is not the main objective, and scholars have claimed that 
+financial-based measures are insufficient by themselves for evaluating their performance and 
+success (Leipnitz   2014  ; Garven, Hofmann, and McSwain   2016  ). Rather, nonprofit organiza-
+tions primarily rely on legitimacy and resources from stakeholders, which makes a stakeholder-
+based evaluation approach more appropriate (Shea and Hamilton   2015  ). 
+
+ The second perspective focuses on the psychological value of the nonprofit brand, thereby 
+centering the customer ’ s or, in our context, the stakeholder ’ s subjective perceptions of and 
+attitudes toward the brand. This stakeholder-based brand equity perspective acknowledges 
+the stakeholder ’ s important role in the branding process; Schultz (  2000  , 9) has noted that 
+“the true value or equity of the brand resides in the customer ’ s valuation.” Related brand eval-
+uation approaches attempt to measure how much value the stakeholder puts on the brand 
+using attitudinal and behavioral measurement quantities (Schultz   2000  ). Aaker ’ s (  1991  ) and 
+Keller ’ s (  1993  ) conceptualizations have had a decisive influence on this perspective. Aaker 
+(  1991  , 15) described brand equity as “a set of brand assets and liabilities linked to a brand, its 
+name and symbol that add to or subtract from the value provided by a product or service to 
+a firm and/or to that firm ’ s consumers”; conversely, Keller (  1993  ) highlighted the differential 
+effect of brand knowledge on stakeholder perceptions, preferences, and behavior arising from 
+branding efforts. 
+
+ Moreover, a few other brand evaluation approaches combine both perspectives, including 
+stakeholders’ perceptions of the brands and financial measures (for example,  Interbrand  
+2015; Nielsen Company   2015  ). In general, Schultz (  2003  ) has observed brand evaluation 
+approaches from a broad spectrum, with a stakeholder-based perspective at one end (stake-
+holder-based brand equity) and a financial-based perspective at the other end (brand value); 
+brand equity in for-profit sectors has been equally approached from both perspectives. In 
+contrast, considering the stakeholder ’ s important role in the nonprofit sector, nonprofit 
+scholars have almost exclusively examined nonprofit brand equity from a stakeholder-based 
+perspective (for example, Faircloth   2005  ; Hou et al.   2009  ; Juntunen et al.   2013  ) or accord-
+ing to internal structures (Laidler-Kylander and Simonin   2009  ). Stakeholder-based nonprofit 
+brand equity is also closely related to the concept of nonprofit brand strength (Wymer et al. 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  185
+
+  2015  ), which measures the stakeholder ’ s attachment to a brand. As such, Wymer (  2013  ) 
+refers to nonprofit brand strength as a strategic component and diagnostic measure of brand 
+equity in nonprofit organizations.  
+
+  Nonproﬁ t Brand Equity Framework 
+ Figure   1   illustrates our nonprofit brand equity framework. Considering that a stakeholder-
+based perspective is more appropriate in nonprofit brand building, the outlined framework 
+focuses on stakeholder-based brand equity only and refrains from assessing nonprofit brand 
+value from a financial approach. Not only do stakeholders play a central role in the non-
+profit sector, but organizations are also confronted with many stakeholder groups, including 
+resource providers, the general public, government, and other subgroups. In this study, we 
+particularly refer to the stakeholder in terms of the general public and accordingly conceptual-
+ize stakeholder-based nonprofit brand equity as having three dimensions: (1) nonprofit brand 
+awareness, (2) nonprofit brand trust, and (3) nonprofit brand commitment. When evaluating 
+brands, the first relevant dimension is its awareness among the public—that is, brand aware-
+ness is essential for establishing and strengthening brand-specific associations and building 
+familiarity with the brand (Aaker   1991  ). As such, brand awareness is a substantial dimension 
+of nonprofit brand equity (Faircloth   2005  ; Juntunen et al.   2013  ). 
+
+      The majority of nonprofit scholars have further included brand image or brand personality, 
+based on for-profit conceptualizations, as dimensions of nonprofit brand equity (Becker-
+Olsen and Hill   2006  ; Camarero, Garrido, and Vicente   2010  ; Faircloth   2005  ). Faircloth 
+(  2005  ), who first proposed this conceptualization, hypothesized that people are more likely 
+to provide resources to nonprofit organizations when the organizations have positive brand 
+
+ Figure 1 .               Nonprofit Brand Equity Framework 
+
+Nonprofit brand equity
+
+Stakeholder perspective
+
+Stakeholder-based
+nonprofit brand equity
+
+Financial perspective
+
+Nonprofit brand value
+
+Nonprofit brand
+awareness
+
+Nonprofit brand
+trust
+
+Nonprofit brand
+commitment
+
+Ñ
+
+Ñ
+
+Revenues (e.g.,
+donations, public funding)
+
+Financial asset value
+
+Ñ Laidler-Kylander
+
+Ñ Camarero et al.
+
+& Simonin (2009)
+
+(2010)
+
+Ñ
+Ñ
+
+Ñ
+
+Faircloth (2005)
+Becker-Olsen &
+Hill (2006) 
+Hou et al.
+(2009)
+Ñ Juntunen
+et al.
+(2013)
+
+ Note : Literature on the nonprofit brand strength concept is not integrated in this framework; see Wymer et al. (  2015  ) for 
+further conceptualization. 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+186  BOENIGK, BECKER
+
+images and brand personalities. Within this context, Faircloth illustrates the importance of 
+brand traits such as trustworthiness and a brand ’ s background in allowing stakeholders to feel 
+more comfortable with the brand. He accordingly operationalizes brand personality by con-
+sidering the stakeholder ’ s attachment to and trust in the brand. In accordance with Faircloth 
+and other nonprofit scholars who build on this conceptualization, we believe that a brand ’ s 
+image and personality are of particular relevance for attracting potential resource providers in 
+the nonprofit sector; yet evaluating brand equity in the nonprofit sector in terms of general 
+positive associations with the brand might not be sufficient. Rather, we argue that the organi-
+zation ’ s and brand ’ s specific characteristics in the nonprofit sector should be integrated more 
+strongly, and thus we view public trust in brands, as a dimension of nonprofit brand equity, 
+as a more thorough conceptualization. These conceptual considerations are consistent with 
+findings from nonprofit governance literature that show that nonprofit organizations are par-
+ticularly dependent on public trust because of their social-oriented and value-based missions 
+( Kearns    2014  ; Prakash and Gugerty   2010  ). Besides, a series of recent media scandals in the 
+nonprofit sector have reinforced the awareness of the high importance of public trust. 
+
+ Although we consider brand awareness and brand trust substantial dimensions of nonprofit 
+brand equity, these dimensions alone cannot sufficiently account for nonprofit brand equity, 
+because they do not reflect the brand ’ s ability to develop a stronger relationship (for example, 
+in terms of high engagement) with stakeholders, which has been found to be of particular 
+importance in the nonprofit sector. Therefore, we include nonprofit brand commitment in 
+our conceptual framework. Several scholars, mostly in for-profit literature, have highlighted 
+the relevance of relationship-related dimensions such as loyalty and commitment in the 
+brand equity context, acknowledging that to build strong brands, stakeholders must feel close 
+and attached to the brand (Aaker   1991  ; Camarero et al.   2010  ; Lassar, Mittal, and Sharma 
+  1995  ; Martin and Brown   1990  ). In the nonprofit sector, a relationship orientation has been 
+a priority because nonprofit organizations are highly dependent on strong relationships with 
+stakeholders, which translate into positive outcomes, including donations of time and money 
+(Arnett, German, and Hunt   2003  ; Boenigk and Scherhag   2014  ). Because this article consid-
+ers stakeholders in terms of the general public, we integrate nonprofit brand commitment 
+in our framework, instead of the more frequently used concept of brand loyalty, because we 
+focus on the perceptual dimensions of nonprofit brand equity. These conceptual consider-
+ations are consistent with Martin and Brown ’ s (  1990  ) and Lassar et al.’s (  1995  ) conceptual-
+ization of commitment as a perceptual rather than a behavioral dimension of brand equity. 
+Each nonprofit brand equity dimension ultimately builds on the previous dimension, similar 
+to the relationship cycle between the stakeholder and the brand. Following, we clarify the 
+underlying rationale of each nonprofit brand equity dimension. 
+
+  Nonprofit Brand Awareness 
+
+ Nonprofit brand awareness constitutes an elementary dimension of nonprofit brand equity 
+(Faircloth   2005  ; Juntunen et al.   2013  ) and is considered a prerequisite for further engagement 
+with the brand, such as the development of brand trust (Keller   2003  ).  Brand awareness  refers 
+to the stakeholder ’ s ability to recall and recognize the brand (Rossiter and Percy   1987  ) and thus 
+indicates the strength of the anchor point of the brand in memory (Aaker   1991  ). Accordingly, 
+widespread public awareness is essential for nonprofit organizations, and a well-known non-
+profit brand can serve stakeholders through its signaling function as an orientation aid (with 
+respect to the organization ’ s values and for decisions on whether to support the organization 
+or not) (Ritchie, Swami, and Weinberg   1999  ). Yet a strong nonprofit brand might be well 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  187
+
+known to the public or certain stakeholder groups but might still yield negative associations 
+for stakeholders (for example, in the case of a nonprofit scandal) and therefore be rather weak 
+in nature (see Wymer et al. [  2015  ] in the context of brand familiarity). Thus, the authors assert 
+that a strong nonprofit brand must also be perceived favorably, which leads into our second 
+dimension.  
+
+  Nonprofit Brand Trust 
+
+ Considering the prominent role of trust in discussions about governance and accountability in 
+the nonprofit sector, high levels of trust are necessary for nonprofit organizations because their 
+behavior and performance are often difficult to observe (Kearns   2014  ; Prakash and Gugerty 
+  2010  ). It follows that stakeholders rely heavily on public trust when interacting with nonprofit 
+organizations, such that they must be able to rely on the organization to remain true to its 
+promised values and to carry out its mission successfully. Regarding the nondistribution con-
+straint (Hansmann   1980  ), according to which nonprofits are not allowed to distribute profit 
+to private parties, the existence of nonprofit organizations is assumed to be based on trust 
+inherent in nonprofits, and people are more likely to trust nonprofit than for-profit organiza-
+tions because of both their mission orientation and the nondistribution constraint. Within 
+this context, we argue that brand trust is related to accountability, with the brand ’ s function to 
+reduce stakeholders’ risk of engaging in disagreeable exchange relationships with the organiza-
+tion (Keller   2003  ). 
+
+ Despite its crucial role in the nonprofit sector, trust has hitherto played a minor role in the 
+nonprofit brand equity discussion. Consistent with the aforementioned considerations, this 
+article views brand trust as a central dimension of nonprofit brand equity. In an explorative 
+study, Laidler-Kylander and Simonin (  2009  ) provided first insights into the importance of 
+trust. They proposed an initial model of nonprofit brand equity and identified trust as a 
+key dimension that drives brand equity in international nonprofit organizations and helps 
+differentiate nonprofits from competitors. Regarding the development of strong stake-
+holder–brand relationships, scholars have claimed that in addition to trust, emotional close-
+ness is relevant, and studies have found that nonprofit brand trust affects the emotional and 
+relationship-related nonprofit brand commitment (Sargeant and Lee   2004  ), which leads into 
+our third dimension.  
+
+  Nonprofit Brand Commitment 
+
+ When stakeholders become emotionally attached to a nonprofit brand, they form a relation-
+ship with it (Sargeant and Lee   2004  ) and develop a sense of commitment. Nonprofit brand 
+commitment reflects a person ’ s attitude and behavior toward the organization based on a 
+strong belief in and acceptance of an organization ’ s goals and is characterized by “an enduring 
+desire to maintain a valued relationship” (Moorman, Zaltman, and Deshpandé   1992  , 316). 
+Therefore, brand commitment and other related relationship dimensions, such as brand loy-
+alty, are of particular importance in the context nonprofit brand equity (Camarero et al.   2010  ). 
+
+ Nonprofit managers and scholars have focused extensively on the management of relation-
+ships, primarily with donors, in the past and treated the development of strong organiza-
+tion–stakeholder relationships with priority (Boenigk and Scherhag   2014  ). That is, strong 
+exchange relationships enhance the strategic options for nonprofit managers, encouraging 
+them to cooperate with stakeholders and maintain a long-term orientation that subsequently 
+promotes the organization ’ s performance (Kemp, Jillapalli, and Becerra   2014  ). Arnett et al.’s 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+188  BOENIGK, BECKER
+
+(  2003  ) identity salience model of relationship marketing posits that a relationship market-
+ing orientation is a viable strategy for nonprofit organizations to develop successful exchange 
+relationships with stakeholders. 
+
+ Taken together, our conceptual framework ultimately builds on the assumption that non-
+profit brand awareness, nonprofit brand trust, and nonprofit brand commitment contribute 
+to stakeholder-based brand equity in the nonprofit sector. Accordingly, high nonprofit brand 
+equity, which equals strong nonprofit brands, occurs when all three components are high by 
+themselves, and organizations with corresponding traits have been found to enjoy higher rep-
+utations (Mitchell   2015  ). It follows that a strong brand indicates that the organization is well 
+known by a multitude of stakeholders, and that people believe in the organization ’ s trustwor-
+thiness and credibility and are ultimately dedicated to the organization. Considering these 
+components, we argue that high brand equity in nonprofit organizations acts as an additional 
+safeguard and reinforcement to the public of what the nondistribution constraint is supposed 
+to do. Precisely, recent cases of fraud and mismanagement in the nonprofit sector have chal-
+lenged the notion of inherent trust and credibility in nonprofit organizations, so that schol-
+ars doubt the power of the nondistribution constraint to successfully mitigate the effects of 
+these scandals (Prakash and Gugerty   2010  ). It follows that the nondistribution constraint by 
+itself may not fully prevent opportunistic behavior, and nonprofit organizations might use 
+additional mechanisms to signal credibility. By providing stakeholders a “shortcut” of what 
+the organization is about (Laidler-Kylander and Stenzel   2013  ), the brand provides valuable 
+information and thereby reduces stakeholders’ risk of engaging in disagreeable exchange rela-
+tionships with the organization (Keller   2003  ). Accordingly, the nonprofit brand functions as 
+a kind of trust and quality seal. Given the increasing number of cases of ethical misconduct 
+in the nonprofit sector, strong brands can protect against negative spillover effects caused by 
+these cases, and the organizations are less susceptible to risk.    
+
+  Operationalization of Nonproﬁ t Brand Equity 
+ To operationalize stakeholder-based nonprofit brand equity, we conducted a two-stage meth-
+odological approach, measuring the nonprofit brand equity dimensions in the first step and 
+evaluating the overall construct of nonprofit brand equity in the second step. This procedure 
+led to our proposed brand equity index for nonprofit organizations. 
+
+  Measurement of Nonproﬁ t Brand Equity Dimensions 
+ Building on established scales, we measured the three nonprofit brand equity dimensions (see 
+Table   1  ). We operationalized nonprofit brand awareness as the recall and recognition dimen-
+sion of the brand that can be assessed through unaided and aided measures. Therefore, we 
+measured unaided brand awareness by means of an open-ended question; for aided brand 
+awareness, we showed respondents the brand names and logos of all nonprofit organizations, 
+using a dichotomous question. We further operationalized brand trust and brand commitment 
+using a reflective measurement approach and seven-point rating scales anchored by “Strongly 
+disagree” (1) and “Strongly agree” (7). 
+
+      Before building the index, we tested the scales’ psychometric properties (reliability and valid-
+ity). Cronbach ’ s alpha for both constructs exceeded Nunnally ’ s (  1978  ) suggested threshold 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  189
+
+ Table 1 .     Operationalization, Descriptive Statistics, and Measurement Quality 
+
+ Measurement Items 
+
+ Nonprofit Brand Awareness 
+
+ Unaided Nonprofit Brand Awareness : In Germany, there is a variety of nonprofit 
+organizations that work for charitable and nonprofit purposes, including the collection 
+of donations. These are all those organizations that are neither economic companies nor 
+public authorities. What nonprofit brands do you know?
+
+ Aided Nonprofit Brand Awareness : You see several nonprofit brands below. Please tick all 
+nonprofit brands that you were already familiar with before starting this survey.
+
+ Source  :  Based on Keller (   1993   ), Aaker (   1996   )
+
+ Nonprofit Brand Trust 
+
+I trust this nonprofit brand to always act in the best interests of the cause.
+
+I trust this nonprofit brand to conduct its operations ethically.
+
+ I trust this nonprofit brand to use donated funds appropriately. 
+
+  Source  :  Based on Sargeant and Woodliffe (  2007  ) 
+
+ Nonprofit Brand Commitment 
+
+The relationship I have with this nonprofit brand is something I am very committed to.
+
+The relationship I have with this nonprofit brand is something I intend to maintain 
+indefinitely.
+
+ M 
+
+ SD 
+
+ AVE 
+
+ CR 
+
+  α      
+
+0.88
+
+0.96
+
+0.93  
+
+0.91
+
+0.92
+
+0.95  
+
+5.12
+
+5.13
+
+5.05
+
+1.38
+
+1.37
+
+1.40
+
+3.88
+
+3.64
+
+1.70
+
+1.68
+
+ The relationship I have with this nonprofit brand deserves maximum effort to maintain. 
+
+3.84
+
+1.71
+
+  Source  :  Based on Sargeant and Lee (  2004  ) 
+
+ Discriminant Validity 
+
+Nonprofit brand trust
+
+Nonprofit brand commitment
+
+ 0.88 
+
+0.26
+
+0.91
+
+   Notes : M = Mean; SD = Standard deviation; AVE = Average variance extracted; CR =  Composite  reliability;  α  = Cronbach ’ s alpha. 
+Discriminant Validity: Boldface values are AVEs; value below represents squared correlation value.  
+
+value of 0.70. Composite reliability was above the minimum value of 0.60, and the values 
+for the average variance extracted surpassed the recommended threshold of 0.50 (Fornell and 
+Larcker   1981  ). To assess discriminant validity, Fornell and Larcker (  1981  ) have also suggested 
+that the average variance extracted should exceed the squared correlation value between the 
+construct pair, which is true in our case.   
+
+  Methodology 
+ For each of the considered brands, the index was built from the brands’ public awareness (BA), 
+and the weights ( w ) of brand trust (BT) and brand commitment (BC) (calculated based on the 
+results of the structural equation model) and mean values (x−) of these constructs. This resulted 
+in the following calculation formula: 
+
+Nonprofit Brand Equity Index = BA × 
+
+wBT xBT
+wBT
+7
+
+×
+
+wBC xBC
+wBC
+7
+
+×
+
+100
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    
+190  BOENIGK, BECKER
+
+ Accordingly, we first included brand awareness in the index by using the percentages of the 
+awareness scale that is shown in Table   3  . This approach is consistent with nonprofit and for-
+profit branding literature stating that brand awareness is a precondition for further interac-
+tion with the brand and acts as a basis for a stakeholder–brand relationship. Considering the 
+overall low recall rates of brands and organizations in the nonprofit sector, we primarily focus 
+on the aided brand awareness dimension because it is regarded a more robust measure in this 
+case. For the relationship-related nonprofit brand equity dimensions, that is, brand trust and 
+brand commitment, we then calculated weights using a reflective-formative measurement 
+approach based on prior studies on index building (for example, Gardó et al. 2014; Guinot, 
+Latreille, and Tenenhaus   2001  ; see also Becker, Klein, and Wetzels   2012  ; Diamantopoulos, 
+Riefler, and Roth   2008  ; Diamantopoulos and Winklhofer   2001  ; Interbrand 2015). The use 
+of formative indicators to operationalize marketing constructs has gained increasing impor-
+tance over the past years (Diamantopoulos   2008  ), and is particularly appropriate when 
+the index does not exist as an independent entity, and is rather a composite measure that 
+includes several dimensions. Precisely, the approach involves estimating a hierarchical (sec-
+ond-order) formative measurement model (with reflective first-order dimensions in our case), 
+to capture distinct factors that jointly describe the formatively measured construct. That 
+is, “relationship-related nonprofit brand equity” equals an overall index variable (Diaman-
+topoulos and Winklhofer   2001  ) and is created from the concatenation of the relationship-
+related brand equity dimensions nonprofit brand trust and nonprofit brand commitment. 
+We particularly used a repeated indicator approach because of its ability to estimate all con-
+structs simultaneously (Becker et al.   2012  ; Lohmöller   1989  ). We estimated the model with 
+PLS path modeling (with SmartPLS3; Ringle, Wende, and Becker   2014  ), which provided 
+the weights for trust and commitment in the construction of the index. In addition to the 
+respective weights obtained through the analysis, we used the trust and commitment mean 
+values of each nonprofit brand to calculate the brands’ individual index scores. To increase 
+the readability of the index and set the highest index score to 100, the value was multiplied 
+by 100 in a final step.  
+
+  Application of the Nonproﬁ t Brand Equity Index 
+ To apply the nonprofit brand equity index, we conducted two successive, quantitative online 
+studies. These enabled us to ultimately provide a ranking of forty nonprofit brands according 
+to their brand equity index scores. 
+
+  Study Design 
+ In May 2014, we conducted the first stage of data collection (pre-study) to generate a com-
+prehensive list of the best-known German nonprofit brand names. We collaborated with the 
+research laboratory of the university, surveying a random student sample ( N  = 114) to inves-
+tigate the brand awareness of 216 preselected German and international (with headquarters 
+in Germany) nonprofit brands. The preselection of brand names was based on several sources 
+(Deutscher Spendenrat 2014; Deutsches Zentralinstitut für Soziale Fragen [DZI] 2009; Gesell-
+schaft für Konsumforschung [GfK] 2009). 
+
+ For the second stage (main study), we split our list into well-known ( N  = 108) and less well-
+known nonprofit organizations, according to their degree of brand awareness (top-of-mind, 
+unaided, and aided brand awareness) from the pre-study. All subsequent assessments were 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  191
+
+then based on the well-known brands (that is, 108 brand names). In July 2014, we collabo-
+rated with a large global market research company to collect data in a stand-alone survey. The 
+survey was representative with respect to age, gender, and region/federal state for the German 
+population according to the Census Bureau ( N  = 2,052; US Census Bureau   2014  ; to collect 
+representative samples, the market research company usually refers to the international data-
+base of the US Census Bureau, regardless from which country the sample is selected). In the 
+first part of the questionnaire, all respondents assessed the 108 considered organizations with 
+respect to their degree of brand awareness; for sample characteristics see Table   2  . 
+
+      In the second part of the questionnaire, the respondents were asked to rate up to three 
+randomly selected nonprofit brands (depending on which brands were known by the par-
+ticipant) with respect to nonprofit brand trust and nonprofit brand commitment. This pro-
+cedure created varying numbers of assessments for different brands, leading to brands with 
+fewer than twenty and others with more than fifty or a hundred evaluations. To ensure high 
+measurement quality, we excluded 366 respondents because they gave the same answer to all 
+assessed nonprofit brand dimensions. For index application, we included only brands with 
+more than twenty evaluations, as otherwise no valid results would be obtained; this resulted 
+in a total number of forty assessed nonprofit brands; yielding 3,617 brand evaluations.   
+
+  Results 
+ Table   3   shows the results for the forty nonprofit brands ranked by the overall index score. The 
+weights obtained from the analysis are the same for all brands with a brand trust weight of 0.56 
+( p  < 0.001) and a brand commitment weight of 0.59 ( p  < 0.001). The results indicate that with 
+an index score of 37.90, German Red Cross had the highest value, assigning it as the stron-
+gest nonprofit brand (highest brand equity) within the selected sample of forty organizations. 
+Additional high-scoring nonprofit brands are internationally operating organizations, such 
+as UNICEF (34.88) and Greenpeace (24.63). Moreover, nonprofit brands of organizations 
+that focus on supporting children (for example, BILD helps “A Heart for Children” [25.35], 
+RTL Children in Need Foundation [22.04], German Children ’ s Fund [18.86]), and nonprofit 
+brands of foundations that fight diseases (for example, German AIDS Foundation [18.76], 
+German Heart Foundation [17.85]) receive comparatively high index scores as well. 
+
+        Discussion 
+ This study contributes to the ongoing debate by conceptualizing and operationalizing non-
+profit brand equity and by introducing an accordant measurement index. As such, it offers 
+novel contributions to research in nonprofit branding, and valuable recommendations for 
+nonprofit managers and leaders; still, it has some limitations that provide the basis for further 
+research.  
+
+  Research Issues and Limitations 
+ Nonprofit managers and leaders increasingly recognize the potential of branding in the non-
+profit sector, acknowledging the benefits of strong nonprofit brands (Kent   2015  ). This study 
+highlights the importance of stakeholder-based nonprofit brand equity and conceptualizes and 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+192  BOENIGK, BECKER
+
+ Table 2 .     Sample Characteristics and Criteria for Representative Status ( N  = 2,052) 
+
+ Age 
+
+ Gender 
+
+ Category 
+
+14–19
+
+20–29
+
+30–39
+
+40–49
+
+50–59
+
+60–64
+
+Female
+
+Male
+
+ Federal State 
+
+Baden-Württemberg
+
+Bayern
+
+Berlin
+
+Brandenburg
+
+Bremen
+
+Hamburg
+
+Hessen
+
+Mecklenburg-
+Vorpommern
+
+Niedersachsen
+
+Nordrhein-Westfalen
+
+Rheinland-Pfalz
+
+Saarland
+
+Sachsen
+
+Sachsen-Anhalt
+
+Schleswig-Holstein
+
+Thüringen
+
+ Monthly Net Income  No income
+
+< 1,000 euros
+
+1,000–3,999 euros
+
+> 4,000 euros
+
+ Missing responses 
+
+ Religion 
+
+No religious affiliation
+
+ Education 
+
+Religious affiliation
+
+No degree/not yet a 
+degree
+
+Completed school 
+education
+
+Apprenticeship
+
+Bachelor ’ s/master ’ s/
+diploma
+
+MBA/PhD
+
+  N  
+
+171
+
+366
+
+358
+
+484
+
+470
+
+203
+
+1,029
+
+1,023
+
+269
+
+316
+
+87
+
+62
+
+16
+
+48
+
+150
+
+39
+
+192
+
+451
+
+103
+
+23
+
+108
+
+58
+
+74
+
+56
+
+79
+
+495
+
+1,157
+
+104
+
+ 217 
+
+954
+
+1,098
+
+108
+
+510
+
+968
+
+410
+
+56
+
+ Sample 
+
+ National Sample 
+
+ Percentage 
+
+ Percentage     
+
+9.00  
+
+18.00  
+
+18.00  
+
+24.00  
+
+23.00  
+
+9.00  
+
+49.47  
+
+50.53  
+
+13.20  
+
+15.40  
+
+4.30  
+
+3.00  
+
+0.08  
+
+2.20  
+
+7.40  
+
+2.00  
+
+9.70  
+
+21.80  
+
+4.90  
+
+1.20  
+
+5.10  
+
+2.80  
+
+3.50  
+
+2.70  
+
+8.33
+
+17.84
+
+17.45
+
+23.59
+
+22.90
+
+9.89
+
+50.15
+
+49.85
+
+13.11
+
+15.40
+
+4.24
+
+3.02
+
+0.78
+
+2.34
+
+7.31
+
+1.90
+
+9.36
+
+21.98
+
+5.02
+
+1.12
+
+5.26
+
+2.83
+
+3.61
+
+2.73
+
+3.85
+
+24.12
+
+56.38
+
+5.06
+
+ 10.58 
+
+46.50
+
+53.50
+
+5.27
+
+24.85
+
+47.17
+
+19.98
+
+2.73
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  193
+
+ Table 3 .     Nonprofit Brands According to Their Brand Equity Index Scores 
+
+ Nonprofit Brand 
+
+ Nonprofit Brand Name  (English 
+translation, if suitable)  
+
+  N  Brand 
+Evaluations 
+
+ Awareness 
+
+ Trust 
+(Mean) 
+
+ Commitment 
+(Mean)     
+
+ Overall 
+Index Score 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+German Red Cross
+
+Aktion Mensch
+
+German Committee for UNICEF
+
+BILD helps “A Heart for Children”
+
+Greenpeace
+
+WEISSER RING
+
+RTL Children in Need Foundation
+
+German Children ’ s Fund
+
+German AIDS Foundation
+
+German Association for Child 
+Protection
+
+German Heart Foundation
+
+The social welfare organization of 
+Germany ’ s Protestant churches
+
+Federal Association for People with 
+Intellectual Disabilities
+
+Kindernothilfe
+
+Diakonie Katastrophenhilfe
+
+Kolping Society of Germany
+
+v. Bodelschwingh Institutions Bethel
+
+Aktion Deutschland Hilft
+
+German Emergency Doctors
+
+McDonald ’ s Children ’ s Charity
+
+Karl Heinz Boehm Foundation
+
+German José Carreras Leukaemia 
+Foundation
+
+German War Graves Commission
+
+Hamburger Tafel
+
+German Leukemia Research Aid
+
+German Young Men ’ s Christian 
+Association (YMCA)
+
+Children ’ s Fund for Children in the 
+Third World
+
+German Society of Multiple Sclerosis
+
+Children ’ s Missionary Organization 
+“Sternsinger”
+
+German Foundation for Monument 
+Protection
+
+Robert Bosch Foundation
+
+40
+
+21
+
+41
+
+336
+
+27
+
+22
+
+102
+
+39
+
+23
+
+289
+
+46
+
+21
+
+336
+
+25
+
+37
+
+205
+
+95
+
+41
+
+215
+
+20
+
+107
+
+152
+
+76
+
+32
+
+119
+
+259
+
+128
+
+65
+
+72
+
+87
+
+20
+
+0.84
+
+0.82
+
+0.78
+
+0.68
+
+0.72
+
+0.53
+
+0.56
+
+0.48
+
+0.39
+
+0.42
+
+0.41
+
+0.52
+
+0.35
+
+0.31
+
+0.31
+
+0.33
+
+0.25
+
+0.28
+
+0.24
+
+0.25
+
+0.22
+
+0.20
+
+0.26
+
+0.19
+
+0.17
+
+0.28
+
+0.19
+
+0.14
+
+0.14
+
+0.15
+
+0.14
+
+5.13
+
+4.95
+
+5.12
+
+4.95
+
+4.67
+
+4.99
+
+5.01
+
+5.00
+
+5.48
+
+5.42
+
+4.87
+
+4.70
+
+5.24
+
+5.12
+
+4.75
+
+4.72
+
+5.27
+
+4.85
+
+5.50
+
+4.75
+
+5.34
+
+5.58
+
+4.91
+
+5.26
+
+5.54
+
+4.70
+
+5.10
+
+5.55
+
+5.56
+
+5.12
+
+5.12
+
+4.31
+
+4.27
+
+4.28
+
+3.69
+
+3.59
+
+4.36
+
+3.85
+
+3.85
+
+4.30
+
+3.91
+
+4.38
+
+3.43
+
+3.79
+
+4.32
+
+4.02
+
+3.35
+
+3.95
+
+3.81
+
+3.59
+
+3.93
+
+3.92
+
+3.90
+
+3.37
+
+4.21
+
+4.20
+
+2.91
+
+3.74
+
+4.51
+
+4.12
+
+4.00
+
+4.27
+
+ 37.90   
+
+ 35.37   
+
+ 34.88   
+
+ 25.35   
+
+ 24.63   
+
+ 23.53   
+
+ 22.04   
+
+ 18.86   
+
+ 18.76   
+
+ 18.16   
+
+ 17.85   
+
+ 17.11   
+
+ 14.19   
+
+ 13.99   
+
+ 12.08   
+
+ 10.65   
+
+ 10.62   
+
+ 10.56   
+
+ 9.67   
+
+ 9.52   
+
+ 9.40   
+
+ 8.88   
+
+ 8.78   
+
+ 8.59   
+
+ 8.07   
+
+ 7.82   
+
+ 7.40   
+
+ 7.15   
+
+ 6.54   
+
+ 6.27   
+
+ 6.25   
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+194  BOENIGK, BECKER
+
+Table 3.  (Continued)
+
+ Nonprofit Brand Name  (English 
+translation, if suitable)  
+
+  N  Brand 
+Evaluations 
+
+ Awareness 
+
+ Trust 
+(Mean) 
+
+ Commitment 
+(Mean)     
+
+ Overall 
+Index Score 
+
+ Nonprofit Brand 
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+Schweitzer Children ’ s Village
+
+Aktion Lichtblicke
+
+Worldwide Help for Children
+
+CARE Germany-Luxembourg
+
+ADVENIAT
+
+Herzenswünsche
+
+International Confederation for Youth, 
+Social Work, Education, Labour 
+Market Services
+
+ChildFund Germany
+
+German National Academic 
+Foundation
+
+39
+
+93
+
+44
+
+113
+
+53
+
+58
+
+56
+
+36
+
+27
+
+0.15
+
+0.13
+
+0.12
+
+0.15
+
+0.14
+
+0.10
+
+0.07
+
+0.05
+
+0.05
+
+5.28
+
+5.53
+
+5.19
+
+4.94
+
+4.81
+
+5.48
+
+4.92
+
+5.10
+
+4.58
+
+3.43
+
+3.77
+
+4.26
+
+3.35
+
+3.35
+
+4.00
+
+3.83
+
+3.95
+
+3.96
+
+ 5.54   
+
+ 5.53   
+
+ 5.41   
+
+ 5.07   
+
+ 4.60   
+
+ 4.47   
+
+ 2.69   
+
+ 2.06   
+
+ 1.85 
+
+   Note : The weights obtained from PLS path modeling are the same for all brands with a trust weight of 0.56 ( p  < 0.001) and a 
+commitment weight of 0.59 ( p  < 0.001).  
+
+operationalizes the construct by developing an initial brand equity index for nonprofit organi-
+zations. Against this background, this study contributes to recent branding discussions in the 
+nonprofit sector in three main ways. 
+
+ First, we addressed the limited research on nonprofit brand building, supplementing prior 
+studies that focused on the composition of nonprofit brands in terms of brand strength and 
+brand equity (Faircloth   2005  ; Hou et al.   2009  ; Laidler-Kylander and Simonin   2009  ; Wymer 
+et al.   2015  ). From a review of for-profit and nonprofit branding and relationship literature, 
+and building on discussions on nonprofit governance and accountability, we conceptualized 
+nonprofit brand equity as having three dimensions: nonprofit brand awareness, nonprofit 
+brand trust, and nonprofit brand commitment. Although dimensions of brand awareness 
+and relationship-related constructs such as brand commitment have played a prominent role 
+in nonprofit brand equity research, this study contributes to the nonprofit brand equity dis-
+cussion by acknowledging the high importance of trust (Kearns   2014  ). High levels of public 
+trust are indispensable in the nonprofit sector, but trust has received less attention in the 
+nonprofit brand equity discussion. In accordance with findings from explorative nonprofit 
+brand equity research (Laidler-Kylander and Simonin   2009  ), we found that public trust in 
+brands plays a major role in nonprofit brand building, thereby advancing conceptual and 
+empirical research in this area. In view of the limited research on conceptualizations of non-
+profit brand equity that considers brands’ and organizations’ special characteristics in the 
+nonprofit sector (Laidler-Kylander and Simonin   2009  ), this study provides initial insights 
+into the nonprofit brand equity concept and therefore is not without restrictions. Other 
+nonprofit scholars should verify the proposed framework by conducting further empirical 
+research in the field. 
+
+ Second, prior research has operationalized measures of nonprofit brand equity on the basis of 
+different brand dimensions, using point-rating scales (for example, Faircloth   2005  ; Hou et al. 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  195
+
+  2009  ) that aid in summing up and calculating the averages of each dimension. Prior studies 
+and practical investigations (for example, Gardó et al.   2014  ; Interbrand 2015) largely regard 
+weighting methods of the respective dimensions as an adequate approach for operational-
+izing overall constructs such as nonprofit brand equity. In this sense, and with the advent of 
+the use of formative indicators (Diamantopoulos   2008  ), we used a second-order formative 
+measurement model, thereby capturing the distinct brand dimensions. Because brand aware-
+ness is considered a precondition in nonprofit brand building, we measured brand aware-
+ness as an aided measure, so we cannot account for its weight and, thus, its importance for 
+overall brand equity and relative to the other dimensions. Although such measures are widely 
+accepted in academic literature, they exhibit limited applicability; further research could 
+include point-rating scales to account for the importance of this dimension (see Wymer et al. 
+  2015  ). 
+
+ Third, we address the lack of studies on nonprofit brand evaluation approaches by introduc-
+ing an initial index that supports a stakeholder-based perspective and provides important 
+insights into the strength of brands. We built the nonprofit brand equity index using external 
+stakeholders’ assessment of the strength of their familiarity and relationship with the brand. 
+The higher the overall index score, the higher are these stakeholders’ assessments of brand 
+equity. Based on the fact that we applied the index to a sample of forty nonprofit brands, 
+there is potential for applying the index to larger organizational samples and for longitudinal 
+measurements.  
+
+  Implications 
+ This study provides the basis for several useful recommendations for nonprofit managers and 
+leaders. As a first managerial implication, we encourage nonprofit managers to apply a more 
+strategic approach to the practice of nonprofit branding. Engaging in nonprofit branding 
+efforts is a worthwhile endeavor for nonprofit organizations because strong nonprofit brands 
+are generally related to important organizational outcomes. Accordingly, we advise managers 
+to gain insights into nonprofit brand equity measurement related to brand awareness, brand 
+trust, and brand commitment. Strong exchange relationships with trusting and committed 
+stakeholders can enhance the strategic options for nonprofit managers and encourage them 
+to cooperate with stakeholders and maintain a long-term orientation (Kemp et al.   2014  ). The 
+considered dimensions build on each other and, by focusing on all dimensions together, man-
+agers can enhance the public ’ s attitude toward the nonprofit brand and improve its strategic 
+position in the market. 
+
+ Moreover, achieving high brand equity can protect organizations against negative spillover 
+effects occurred from scandals in the nonprofit sector. As such, strong brands (with high 
+equity) can function partly as a trust and quality seal. 
+
+ Our proposed nonprofit brand equity index provides an integrated performance indicator 
+for both nonprofit managers and stakeholders; it is designed to be manageable but still yield 
+meaningful results. As such, the index offers significant insights into the three important 
+strategic brand dimensions. It thereby shows to what degree the nonprofit brand is able to 
+function as an additional safeguard to the public in terms of a positive public attitude toward 
+the organization, particularly relating to credibility and trustworthiness. Managers could use 
+the overall index score as well as the respective single results for strategic decision making 
+because it provides the basis for nonprofit branding strategies and measures. For example, if 
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+196  BOENIGK, BECKER
+
+a nonprofit brand scores high on brand awareness but low on brand trust and brand com-
+mitment, nonprofit organizations should develop branding strategies that enhance trust 
+in the nonprofit brand first. In contrast, if a nonprofit brand scores comparatively high on 
+brand trust and brand commitment but is less known in the public ’ s mind, managers should 
+consider investing in awareness-generating campaigns first, which might leverage the stake-
+holder–brand relationships and ultimately strengthen the brand. 
+
+ Furthermore, nonprofit managers can conduct comparisons with other nonprofit brands 
+and for comparisons over time. Brand evaluations may serve as a compass in nonprofit orga-
+nizations that have an ultimate goal of obtaining an optimal positioning while maintaining 
+strong exchange relationships with stakeholders.  
+
+   References  
+
+    Aaker ,  D. A.    1991 .  Managing Brand Equity: Capitalizing on the Value of a Brand Name  .   New York :  Free Press .  
+  ———.  1996 . “ Measuring Brand Equity Across Products and Markets .”  California Management Review  
+
+ 38  ( 3 ):  102 – 20 .  
+
+    Arnett ,  D. B.  ,   S. D.   German  , and   S. D.   Hunt  .  2003 . “ The Identity Salience Model of Relationship Marketing 
+
+Success: The Case of Nonprofit Marketing .”  Journal of Marketing   67  ( 2 ):  89 – 105 .  
+
+    Becker ,  J. M.  ,   K.   Klein  , and   M.   Wetzels  .  2012 . “ Hierarchical Latent Variable Models in PLS-SEM: Guidelines 
+
+for Using Reflective-Formative Type Models .”  Long Range Planning   45  ( 5 ):  359 – 94 .  
+
+    Becker-Olsen ,  K. L.  , and   R. P.   Hill  .  2006 . “ The Impact of Sponsor Fit on Brand Equity: The Case of 
+
+ Nonprofit Service Providers .”  Journal of Service Research   9  ( 1 ):  73 – 83 .  
+
+    Boenigk ,  S.  , and   C.   Scherhag  .  2014 . “ Effects of Donor Priority Strategy on Relationship Fundraising 
+
+ Outcomes .”  Nonprofit Management and Leadership   24  ( 3 ):  307 – 36 .  
+
+    Brand   Finance  .  2015 . “ The World ’ s Most Valuable Brands .”  http://brandirectory.com   
+    Camarero ,  C.  ,   M. J.   Garrido  , and   E.   Vicente  .  2010 . “ Components of Art Exhibition Brand Equity for Internal 
+
+and External Visitors .”  Tourism Management   31  ( 4 ):  495 – 504 .  
+
+    Christodoulides ,  G.  , and   L.   De Chernatony  .  2010 . “ Consumer-Based Brand Equity Conceptualization and 
+
+Measurement: A Literature Review .”  International Journal of Research in Marketing   52  ( 1 ):  43 – 66 .  
+
+    Cone   Communications  .  2015 . “ New Cone Report Values America ’ s 100 Leading Nonprofit Brands .”  www
+
+.conecomm.com/contentmgr/showdetails.php/id/2299   
+
+    Garven ,  S. A.  ,   M. A.   Hofmann  , and   N. D.   McSwain  .  2016 . “ Playing the Numbers Game: Program 
+Ratio Management in Nonprofit Organizations .”  Nonprofit Management and Leadership . doi:  10.1002/
+nml.21201   
+
+   Deutscher Spendenrat e.V.  2014 . “ Memberlist of the German Donor Council .”  www.spendenrat.de   
+    Deutsches Zentralinstitut für Soziale Fragen  (DZI).  2009 .  DZI Spenden Almanach 2009/10 .  Berlin :  Deutsches 
+
+Zentralinstitut für Soziale Fragen .  
+
+    Diamantopoulos ,  A.    2008 . “ Formative Indicators: Introduction to the Special Issue .”  Journal of Business 
+
+Research   61  ( 12 ):  1201 – 02 .  
+
+    Diamantopoulos ,  A.  ,   P.   Riefler  , and   K. P.   Roth  .  2008 . “ Advancing Formative Measurement Models .”  Journal 
+
+of Business Research   61  ( 12 ):  1203 – 18 .  
+
+    Diamantopoulos ,  A.  , and   H. M.   Winklhofer  .  2001 . “ Index Construction with Formative Indicators: An Alter-
+
+native to Scale Development .”  Journal of Marketing Research   38  ( 2 ):  269 – 77 .  
+
+    Faircloth ,  J. B.    2005 . “ Factors Influencing Nonprofit Resource Provider Support Decisions: Applying the 
+
+Brand Equity Concept to Nonprofits .”  Journal of Marketing Theory and Practice   13  ( 3 ):  1 – 15 .  
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+TOWARD THE IMPORTANCE OF NONPROFIT BRAND EQUITY  197
+
+    Fischer ,  M.  ,   F.   Völckner  , and   H.   Sattler  .  2010 . “ How Important are Brands? A Cross-Category, Cross-Country 
+
+Study .”  Journal of Marketing Research   47  ( 5 ):  823 – 39 .  
+
+    Fornell ,  C.  , and   D. F.   Larcker  .  1981 . “ Evaluating Structural Equation Models with Unobservable Variables and 
+
+Measurement Error .”  Journal of Marketing Research   18  ( 1 ):  39 – 50 .  
+
+    Gardó ,  T. F.  ,   M.G.G.   Granizo  ,   F. A.   Moreno  , and   E. F.   Imizcoz  .  2014 . “ Measuring Socio-Demographic 
+ Differences in Volunteers with a Value-Based Index: Illustration in a Mega Event .”  Voluntas   25  ( 6 ): 
+  1345 – 67 .  
+
+    Gesellschaft für Konsumforschung (GfK) .  2009 . “ GfK Charity Scope .”  http://www.gfk.com   
+    Gromark ,  J.  , and   F.   Melin  .  2011 . “ The Underlying Dimensions of Brand Orientation and its Impact on 
+
+Financial Performance .”  Journal of Brand Management   18  ( 6 ):  394 – 410 .  
+
+    Guinot ,  C.  ,   J.   Latreille  , and   M.   Tenenhaus  .  2001 . “ PLS Path Modelling and Multiple Table Analysis. Applica-
+tion to the Cosmetic Habits of Women in Ile-de-France .”  Chemometrics and Intelligent Laboratory Systems  
+ 58  ( 2 ):  247 – 59 .  
+
+    Hankinson ,  P.    2004 . “ The Internal Brand in Leading UK Charities .”  Journal of Product and Brand Manage-
+
+ment   13  ( 2 ):  84 – 93 .  
+
+    Hansmann ,  H.    1980 . “ The Role of Nonprofit Enterprise .”  Yale Law Journal   89  ( 5 ):  835 – 902 .  
+    Hou ,  J.  ,   L.   Du  , and   Z.   Tian  .  2009 . “ The Effects of Nonprofit Brand Equity on Individual Giving Intention: 
+Mediating by the Self-Concept of Individual Donor .”  International Journal of Nonprofit and Voluntary Sector 
+Marketing   14  ( 3 ):  215 – 29 .  
+
+    Intangible   Business  .  2015 . “ Brand Valuation .”  www.intangiblebusiness.com/brand-services/marketing-services/
+
+brand-valuation-marketing-services   
+
+   Interbrand.  2015 . “ The Best 100 Brands .”  http://interbrand.com/best-brands/best-global-brands/2015/ 
+
+ranking/   
+
+    Juntunen ,  M.  ,   J.   Juntunen  , and   V.   Autere  .  2013 . “ Co-Creating Nonprofit Brand Equity .”  International Journal 
+
+of Nonprofit and Voluntary Sector Marketing   18  ( 2 ):  122 – 32 .  
+
+    Kapferer ,  J.-N.    2012 .  T he New Strategic Brand Management: Advanced Insights and Strategic Thinking  .  London : 
+
+ Kogan Page .  
+
+    Kearns ,  K. P.    2014 .  Ethical Challenges in Nonprofit Organizations: Maintaining Public Trust . In  Ethics in 
+
+Public Management  ,  edited by   H. G.   Frederickson   and   R. K.   Ghere  ,  265 – 92 .  London :  Routledge .  
+
+    Keller ,  K. L.    1993 . “ Conceptualizing, Measuring, and Managing Customer-Based Brand Equity .”  Journal of 
+
+Marketing   57  ( 1 ):  1 – 22 .  
+
+  ———.  2003 . “ Understanding Brands, Branding and Brand Equity .”  Interactive Marketing   5  ( 1 ):  7 – 20 .  
+    Keller ,  K. L.  , and   D. R.   Lehmann  .  2006 . “ Brands and Branding: Research Findings and Future Priorities .” 
+
+ Marketing Science   25  ( 6 ):  740 – 59 .  
+
+    Kemp ,  E.  ,   R.   Jillapalli  , and   E.   Becerra  .  2014 . “ Healthcare Branding: Developing Emotionally Based Con-
+
+sumer–Brand Relationships .”  Journal of Services Marketing   28  ( 2 ):  126 – 37 .  
+
+    Kent ,  C.    2015 . “ Nonprofit Branding – Branding Roundtable   13 .”  www.brandingmagazine.com/product/ 
+
+nonprofit-branding—-branding-roundtable-13/149/   
+
+    Kylander ,  N.  , and   C.   Stone  .  2012 . “ The Role of Brand in the Nonprofit Sector .”  Stanford Social Innovation 
+
+Review   16  ( 6 ):  35 – 41 .  
+
+    Laidler-Kylander ,  N.  , and   B. L.   Simonin  .  2009 . “ How International Nonprofits Build Brand Equity .” 
+
+  International Journal of Nonprofit and Voluntary Sector Marketing   14  ( 1 ):  57 – 69 .  
+
+    Laidler-Kylander ,  N.  , and   J. S.   Stenzel  .  2013 .  The Brand IDEA: Managing Nonprofit Brands with Integrity, 
+
+Democracy, and Affinity .  San Francisco :  Wiley .  
+
+    Lassar ,  W.  ,   B.   Mittal  , and   A.   Sharma  .  1995 . “ Measuring Customer-Based Brand Equity .”  Journal of Consumer 
+
+Marketing   12  ( 4 ):  11 – 19 .  
+
+    Leipnitz ,  S.    2014 . “ Stakeholder Performance Measurement in Nonprofit Organizations: Case Study of a 
+
+Donor Satisfaction Barometer .”  Nonprofit Management and Leadership   25  ( 2 ):  165 – 81 .  
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml
+
+ 
+ 
+ 
+198  BOENIGK, BECKER
+
+    Lohmöller ,  J.-B.    1989 .  Latent Variable Path Modeling with Partial Least Squares .  Heidelberg :  Physica-Verlag .  
+    Martin ,  G. S.  , and   T. J.   Brown  .  1990 . “ In Search of Brand Equity: The Conceptualization and Measurement 
+
+of the Brand Impression Construct .”  Marketing Theory and Applications   2  ( 1 ):  431 – 38 .  
+
+    Millward   Brown  .  2015 . “ 2015 BrandZ Top 100 Global Brands .”  www.millwardbrown.com/brandz/top-global
+
+-brands/2015   
+
+    Mitchell ,  G. E.    2015 . “ The Attributes of Effective NGOs and the Leadership Values Associated with a Reputa-
+
+tion for Organizational Effectiveness .”  Nonprofit Management and Leadership   26  ( 1 ):  39 – 57 .  
+
+    Moorman ,  C.  ,   G.   Zaltman  , and   R.   Deshpandé  .  1992 . “ Relationships between Providers and Users of Market-
+ing Research: The Dynamics of Trust within and between Organizations .”  Journal of Marketing Research   29  
+( 3 ):  314 – 29 .  
+
+   Nielsen Company .  2015 . “ 2015 Harris Poll EquiTrend® Rankings—Non-Profits .”  http://www.theharrispoll
+
+.com/equitrend-rankings/2015/   
+
+    Nunnally ,  J. C.    1978 .  Psychometric Theory .  2nd ed .  New York :  McGraw-Hill .  
+    Prakash ,  A.  , and   M. K.   Gugerty  .  2010 . “ Trust but Verify? Voluntary Regulation Programs in the Nonprofit 
+
+Sector .”  Regulation and Governance   4  ( 1 ):  22 – 47 .  
+
+    Rhode ,  D. L.  , and   A. K.   Packel  .  2009 . “ Ethics and Nonprofits .”  Stanford Social Innovation Review   7  ( 3 ): 
+
+ 28 – 35 .  
+
+    Ringle ,  C. M.  ,   S.   Wende  , and   J. M.   Becker  .  2014 .   SmartPL S  3.0.  Hamburg : SmartPLS.  
+    Ritchie ,  R.J.B.  ,   S.   Swami  , and   C. B.   Weinberg  .  1999 . “ A Brand New World for Nonprofits .”  International 
+
+Journal of Nonprofit and Voluntary Sector Marketing   4  ( 1 ):  26 – 42 .  
+
+    Rossiter ,  J. R.  , and   L.   Percy  .  1987 .  Advertising and Promotion Management  .   New York :  McGraw-Hill .  
+    Salinas ,  G.    2011 .  The International Brand Valuation Manual: A Complete Overview and Analysis of Brand Valu-
+
+ation Techniques, Methodologies and Applications .  Chichester, UK :  Wiley .  
+
+    Sargeant ,  A.  , and   S.   Lee  .  2004 . “ Donor Trust and Relationship Commitment in the UK Charity Sector: The 
+
+Impact on Behavior .”  Nonprofit and Voluntary Sector Quarterly   33  ( 2 ):  185 – 202 .  
+
+    Sargeant ,  A.  , and   L.   Woodliffe  .  2007 . “ Building Donor Loyalty: The Antecedents and Role of Commitment 
+
+in the Context of Charity Giving .”  Journal of Nonprofit & Public Sector Marketing   18  ( 2 ):  47 – 68 .  
+
+    Schultz ,  D. E.    2000 . “ Understanding and Measuring Brand Equity .”  Marketing Management   9  ( 1 ):  8 – 9 .  
+  ———.  2003 . “ Brand Equity: Both Ends of the Spectrum .”  Journal of Direct, Data and Digital Marketing 
+
+Practice   5  ( 1 ):  5 – 6 .  
+
+    Shea ,  M.  , and   R. D.   Hamilton  .  2015 . “ Who Determines How Nonprofits Confront Uncertainty? ”  Nonprofit 
+
+Management and Leadership   25  ( 4 ):  383 – 401 .  
+
+    Simon ,  C. J.  , and   M. V.   Sullivan  .  1993 . “ The Measurement of Determinants of Brand Equity: A Financial 
+
+Approach .”  Marketing Science   12  ( 1 ):  28 – 52 .  
+
+    US   Census Bureau  .  2014 . “ International Data Base: Germany .”  www.census.gov/population/international/
+
+data/idb/informationGateway.php   
+
+    Weisbrod ,  B. A.    2004 . “ The Pitfalls of Profits .”  Stanford Social Innovation Review   2  ( 3 ):  40 – 7 .  
+    Wymer ,  W.    2013 . “ Deconstructing the Brand Nomological Network .”  International Review on Public and 
+
+Nonprofit Marketing   10  ( 1 ):  1 – 12   .
+
+    Wymer ,  W.  ,   H. P.   Gross  , and   B.   Helmig  .  2015 . “ Nonprofit Brand Strength: What Is It? How Is It Measured? 
+
+What Are Its Outcomes? ”  Voluntas   27  ( 3 ):  1448 – 71 .     
+
+    SILKE BOENIGK   is a professor of Business Administration and holds the chair of Management of 
+Public, Private, and Nonprofit Organizations at the University of Hamburg, Germany. 
+
+     ANNIKA BECKER   is a research assistant and a doctoral student at the University of Hamburg, 
+ Germany.  
+
+Nonproﬁ t Management & Leadership      DOI: 10.1002/nml

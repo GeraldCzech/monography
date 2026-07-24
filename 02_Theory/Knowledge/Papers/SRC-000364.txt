@@ -1,0 +1,1748 @@
+International Review on Public and Nonprofit Marketing (2023) 20:875–903
+https://doi.org/10.1007/s12208-022-00356-0
+ORIGINAL ARTICLE
+
+The effect of charity brand experience on donors’
+behavioral intentions: The mediating role of charity brand
+personality and donors’ satisfaction
+Basant Hassan Ali1 · Nadia Elaref2,3 · Omneya Mokhtar Yacout1
+Received: 18 February 2022 / Accepted: 6 November 2022 / Published online: 12 December 2022
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+
+Abstract
+Charity organizations represent an avenue for donors to express themselves by fulfilling their self-esteem and self-actualization needs. Thus, investigating the brand
+personality of charity organizations and its effect on donors’ responses is a worthwhile investigation that has received scant attention from marketing scholars. This
+research examines the effect of charity brand experience on charity brand personality, donor satisfaction, and donors’ behavioral intentions. A survey was distributed to a sample of donors of five charity organizations in Alexandria, Egypt. The
+hypothesized relationships were examined using structural equation modeling. Findings generally supported the hypothesized relationships except for the direct effect
+of brand personality on intentions to re-donate. Academic and practical implications
+were also presented.
+Keywords Brand experience · Brand personality · Donor satisfaction · Donor loyalty
+
+We would like to express our appreciation to the co-editors and the reviewers for their valuable
+comments on this manuscript. These comments improved the quality of the manuscript to a great
+extent.
+* Basant Hassan Ali
+basant.hassen@alexu.edu.eg; Basant_soliman88@hotmail.com
+Nadia Elaref
+Nadia.elaref@eslsca.edu.eg
+Omneya Mokhtar Yacout
+omneya.yacout@alexu.edu.eg
+1
+
+Faculty of Commerce, Alexandria University, Alexandria, Egypt
+
+2
+
+ESLSCA University, Giza, Egypt
+
+3
+
+Alexandria University, Alexandria, Egypt
+
+13
+
+Vol.:(0123456789)
+
+876
+
+B. H. Ali et al.
+
+1 Introduction
+The not-for-profit sector is currently facing radical change. The number of notfor-profit organizations is increasing tremendously (Mort et al., 2007), leading to
+severe competition (Hibbert & Horne, 1996). Charities play an increasingly significant role in many societies by enabling personal empowerment and training,
+fighting poverty, combating social diseases, narrowing the deep divide between
+the rich and poor, and increasing social, economic, and political inclusiveness.
+Many scholars and practitioners have considered the applicability of various marketing strategies in broader societal contexts (Sargeant, 2009). Charity organizations have started to recognize that their brand is a valuable asset that affects
+donors’ behavior (Bilgin, & Kethüda, 2022; Gregory et al., 2020; Wymer &
+Akbar, 2019)., but many lack the knowledge of developing or managing it (Mort
+et al., 2007).
+The importance of branding to charity organizations cannot be overlooked,
+however. Chapman et al. (2022) note that, unlike conventional products, a triadic and not a dyadic exchange takes place, which includes three players: donors,
+beneficiaries, and charities. Understanding donors’ satisfaction with and intention
+toward charities and how marketing activities in general and branding activities
+in specific affect these intentions and behaviors remains one of the most important challenges of marketing for charities.
+For charities, brands offer a practical meaning of conveying the benefits of
+goods and services provided by the organization and expressing quality assurance
+and consistency (Ritchie et al., 1999). Charity organizations use brand personalities to communicate inherent values and meaning to their stakeholder (Hankinson, 2001). Furthermore, brands facilitate differentiating the offer for donors and
+volunteers and thus help target donors (van Dijk et al., 2019). For donors, the
+use of branding provides them with feelings of comfort with the brand and contributes to brand preferences or intentions of giving (Schlegelmilch et al., 1997),
+reduces donors’ search costs, and helps them to make the right decision in a more
+efficient manner (Ritchie et al., 1999). Donors identify with charity organizations
+with personalities and values that express their own opinions (Ching et al., 2013;
+Ramjaun, 2014), which helps them meet their objectives and expectations (Chang
+& Lee, 2008; Ritchie et al., 1999). Thus, the charity brand “mirrors” the values
+that highlight the needs and desires of donors, acts like a “lamp” that affects both
+the values of its target audience and the host organization and represents a “lens”
+that focuses on the values of the organization (Stride, 2006). The brand personality of charity organizations could strengthen the organization’s image (Venable
+et al., 2005). Donors identify with charity organizations with personalities and
+values that express their opinions (Ramjaun, 2014).
+Reviewing the literature on brand experience, two main research avenues can
+be identified. The first avenue relates to research aimed at identifying the meaning and dimensions of brand experience. The brand experience reflects the sensations, feelings, cognitions and behavioral responses induced by brand-related
+stimuli (Brakus et al., 2009). Most studies examined brand experience for tangible
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+877
+
+products (e.g., Brakus et al., 2009). Only a few studies examined the brand experience of services (e.g., Klaus & Maklan, 2012). Brakus et al. (2009) developed
+a four-dimension brand experience construct. The four dimensions are sensory,
+affective, intellectual, and behavioral. Nysveen et al. (2013) added a relational
+dimension to Brakus et al.’s (2009) dimensions. They note that this scale may be
+more applicable to the service context.
+The second avenue addresses the consequences of brand experience. Brakus
+et al.’s (2009) model depicts three main consequences of brand experience: brand
+personality, satisfaction, and loyalty. The effect of brand experience on brand personality was supported by many researchers (Japutra & Molinillo, 2019; Nysveen
+et al., 2013; Venable et al., 2005; Walter et al., 2013). Satisfaction was also examined as a consequence of brand experience (Kose and Ozer Cizer, 2021; Khalili
+et al., 2013). Finally, the relationship between brand experience and behavioral
+intentions was also supported (Ebrahim et al., 2016; Lada et al., 2014; Shim et al.,
+2015). For charity brands, research can be considered scarce. Aly et al. (2017)
+developed a conceptual framework linking brand experience, brand personality, and donor satisfaction with intentions to re-donate but it was not empirically
+tested. Recently, Chrissos Anestis et al. (2021) investigated the effect of charity
+and experience and brand relationship concepts on the brand personality of charity organizations. Charity brand experience was found to affect brand personality
+and brand relationship concepts.
+Donations to charities represent prosocial behavior that may warrant major modifications in the constructs currently utilized. and the relationships examined. This
+research builds upon the brand experience model of Brakus et al. (2009) to investigate the effect of brand experience in enhancing re-donation intention (loyalty) to
+charities via donor satisfaction and brand personality. Thus, this research applies
+the model of Brakus et al. (2009) and Nysveen et al. (2013) in a different context.
+Necessary modifications to the dimensions of brand experience, brand personality, and satisfaction were made to harmonize with the context of charity branding.
+Furthermore, these relationships are examined in a distinct cultural context. Jung
+et al. (2022) noted that studies on not-for-profit marketing in Asia, Africa, and South
+America are scarce. Thus, examining not-for-profit marketing in different cultural
+contexts leads to better generalizability and more rigorous theory building.
+For charity marketing practitioners, studying brand experience and personality
+and their relationship to donors’ behavior gives charity brand managers the knowledge to formulate marketing strategies based on their brand personalities. Such
+knowledge is beneficial in positioning charities to achieve better outcomes and in
+designing better brand experiences. Furthermore, understanding how the brand
+experience affects donors’ satisfaction and intentions to re-donate will enable marketing managers to monitor donors’ perception of the charity. Then they can design
+programs that enhance satisfaction with and loyalty to the brand.
+The first section of this paper will include a review of the literature related to
+brand experience and its consequences. The second section will cover the research
+methodology, including the research framework, measurement of research variables,
+population and sampling, data collection, and statistical analyses. The third section will present the research findings. The fourth section will discuss the research
+
+13
+
+878
+
+B. H. Ali et al.
+
+findings, academic and practical implications, and make recommendations for future
+research.
+
+2 Literature review
+2.1 The concept of brand experience
+Brand experience is an important concept that triggered the interest of many
+researchers. Brakus et al. (2009) argued that the brand experience scale includes
+four dimensions: sensory, affective, intellectual, and behavioral. In this conceptualization, brand experience embraces feelings, not just an overall liking of the brand,
+whereas attitudes represent only a small portion of the brand experience. It also
+includes behavioral responses triggered by specific brand-related stimuli. A brand
+experience reflects any direct or indirect contact between the consumer and the
+brand (Plummer, 1985). A pleasant brand experience affects the brand’s understanding, enjoyment enhancement, and fostering (Ching et al., 2013). It encompasses the
+sensations, feelings, cognitions, and behavioral responses that brand-related stimuli induce. They are a part of a brand’s design, identity, packaging, communication
+strategies and environment (Brakus et al., 2009). The brand experience concept
+attempts to provide answers on how brand experience can be measured and how it
+affects consumer behavior (Cleff et al., 2013).
+In addition to identifying the dimensions of brand experience, the model developed by Brakus et al. (2009) specified three main consequences of brand experience:
+brand personality, satisfaction, and loyalty. The model was supported by several
+researchers (e.g., Nysveen et al., 2013).
+Most of the studies examining brand experience focused on commercial and not
+charity brand experience (e.g., Brakus et al., 2009; Klaus & Maklan, 2012). A pivotal study was conducted by Nysveen et al. (2013) who added a relational dimension. They proposed that the relational experience dimension could be added in a
+service context. They report that it is a strong predictor of customer satisfaction
+and loyalty. While the relational dimension added by Nysveen et al. (2013) extends
+the use of the brand experience scale by Brakus et al. (2009) to a service setting, it
+also offers an opportunity to use the modified scale in charity and non-profit contexts. Charities represent a service where donors highly value relationships with the
+charity organization. Furthermore, this dimension as used by Nysveen et al. (2013)
+reflects an individual’s connectedness with the community which can be used in a
+charity context.
+
+2.2 Consequences of brand experience
+According to Brakus et al. (2009), there are three important consequences of brand
+experience; brand personality, satisfaction and loyalty.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+879
+
+2.2.1 Brand personality
+Attention to brand experience dimensions allows consumers to judge a brand’s personality dimensions (Keng et al., 2013). Brand personality is defined as the set of
+human characteristics that consumers associate with a brand (Aaker, 1997). Based
+on the signaling theory (Spence, 1973), organizations use brand personalities to
+send signals to their customers about the qualities of their brands which are difficult
+to observe or assess (BliegeBird & Smith, 2005) but are still important to the target
+segment these organizations work with (Davies et al., 2018). The stereotype content model argues that warmth/sincerity, competence, and status are vital to humans
+(Fiske et al., 2002, 2007), and Aaker (2010) suggest using these attributes to incorporate imagery.
+Early studies in brand personality aimed at identifying the dimensions of brand
+personality for conventional products. Aaker (1997) pioneered the development
+of a scale to measure brand personality. Later, Aaker et al. (2001) noted the correspondence between three dimensions of brand personality with three dimensions of
+the "Big 5" (Sincerity and Agreeableness; Competence and Conscientiousness and
+Excitement and Extraversion). Marketing scholars added other brand personality
+dimensions. These dimensions include peacefulness (Aaker et al., 2001), likeableness as well ascendancy (Sung & Tinkham, 2005), sincerity, competence, and status
+(Davies et al., 2018).
+Other researchers departed from the Big 5 personality dimensions. For example,
+Geuens et al. (2009) argued that brand personality comprises five dimensions: activity, responsibility, aggressiveness, simplicity, and emotionality. Their findings indicate acceptable psychometric properties and cross-cultural validity in the USA and
+Europe. Freling et al. (2011) conceptualized favorability, originality, and clarity—as
+dimensions of a brand’s personality. Later, George and Anandkumar (2018) developed a brand personality scale comprised of seven dimensions. These dimensions
+include happiness, reliability, youthfulness, adventurousness, competency, accountability, and appeal. Sound psychometric properties were also reported for this scale.
+Conversely, Stinnett et al. (2013) and Ha et al. (2022) used the anthropomorphism perspective to examine brand personality by assigning human characteristics
+to nonhuman entities. Dimensions such as gender, race, age, marital status, education level, and pet ownership were used as brand personality dimensions. Assessments by consumers are then compared to multiple data points so that the organization knows how it is perceived by the public.
+In charity branding, only a few researchers tried to identify brand personality
+dimensions. Venable et al. (2005) were among the early researchers who attempted
+to develop and refine a measure for the brand personality of charity organizations.
+Three qualitative studies were conducted on donors, the community, and charity
+professionals. Sincerity, excitement, competence, sophistication, and ruggedness
+were identified as traits of charity organizations. Based on the qualitative studies,
+three new dimensions were identified. The first is thoughtfulness which includes
+attributes such as loving, compassion, kindness, helpfulness, and caring. The second
+is integrity, which include, reputation, commitment to the public good, purposefulness, accessibility, and long-term commitment. The third is reliability, which reflects
+
+13
+
+880
+
+B. H. Ali et al.
+
+cost-effectiveness and financial stability. Using factor analysis, sophistication and
+ruggedness dimensions were obtained with two additional dimensions: integrity
+and nurturance. Groza and Gordon (2016) used four traits to describe not-for-profit
+organization personality. These traits are integrity, nurturance, ruggedness, and
+sophistication.
+Stebbins and Hartman (2013) examined the dimensions of charity brand personality in smaller, local charitable organizations that do not enjoy the benefits of
+national brand recognition. While the brand personality dimensions of benevolence and service transcend the not-for-profit sector, dimensions such as emotional
+engagement, voice, and progress differentiate these small charities. Bennett and
+Gabriel (2000) aimed to operationalize not-for-profits’ brand personality. The four
+main dimensions based on their findings were emotive altruism, efficiency, trust,
+and modernity. Voeth and Herbst (2008) developed a brand personality construct
+for the not-for-profit sector that includes three dimensions, social competence and
+trust, emotion and assertiveness, and sophistication. They note that these dimensions
+reflect the social dimension inherent in not-for-profit branding and express the need
+to distinguish brand personality dimensions of charities from the traditional conceptualization of brand personalities used in commercial marketing. Recently, Lindenmeier et al. (2021) used two personality dimensions of charities: perceived warmth
+and competence.
+The studies above show that similar to commercial brand experience, many of the
+charity brand personality dimensions relied on the Big 5 classification (e.g., Groza
+& Gordon, 2016; Stebbins & Hartman, 2013; Venable et al., 2005). However, many
+dimensions were added that reflect the nature of charity branding where the brand
+aims at triggering prosocial motives (e.g. Bennett & Gabriel, 2000; Voeth & Herbst,
+2008). Furthermore, the same dimension used in conventional branding may have a
+different meaning in the context of charity branding. For example, Chrissos Anestis
+et al. (2021) noted that ruggedness in the charity branding context may describe an
+organization that is strong and acts to defend the rights of its beneficiaries.
+Another avenue of brand personality research examined the relationship between
+brand experience and brand personality. The relationship between the two constructs
+seems logical since personalities are built through experiences (Japutra & Molinillo,
+2019). Brakus et al. (2009) were among the first to highlight the key role of brand
+experience in developing a brand personality. Based on a sample of U.S. students,
+they report that the higher the overall score on the brand experience scale, the more
+likely the consumer will endow the brand with personality associations. Several
+studies supported the positive effect of brand experience on brand personality. The
+results of Keng et al.’s (2013) strongly support the importance of brand experience
+in influencing brand personality in Taiwan. Cardoso et al. (2013) studied a local
+brand in Portugal which showed that sincerity and competence were associated the
+most with the brand personality, followed by sophistication, excitement, and ruggedness. Walter et al. (2013) showed that brand experience positively affects BMW’s
+brand personality.
+The relationship between brand experience and brand personality of charity
+brands received scant attention. Aly et al. (2017) suggested this relationship,
+but it was not empirically tested. Later, Chrissos Anestis et al. (2021) used four
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+881
+
+dimensions of the not-for-profit brand personality construct (integrity, ruggedness, sophistication, and nurturance) and examined whether NPO brand personality is affected by brand experience and brand relationship concepts. Both integrity and nurturance were important dimensions of the brand personality of NPOs.
+Based on the literature review on conventional branding (Brakus et al., 2009;
+Cardoso et al., 2013; Ching et al., 2013; Cleff et al., 2013; Isa et al., 2010; Nysveen et al., 2013; Walter et al., 2013) and the findings of Chrissos-Anistis et al.
+(2021) on the relationship between charity brand experience and personality, the
+first hypothesis is formulated as follows:
+H1: Brand experience has a positive effect on charity brand personality.
+2.2.2 Donor satisfaction
+Japutra and Molinillo (2019) argued that the three major consequences of brand
+experience and brand personality are satisfaction, trust, and loyalty. Notwithstanding the importance of trust, only satisfaction and re-donation intentions will
+be considered in this research.
+Satisfaction is an essential determinant of long-term consumer behavior (Oliver, 1980) and a central goal of all business activities (Angelova & Zekiri, 2011).
+Satisfaction is an outcome that occurs as a result of comparing the rewards and
+cost of the purchase (Jamshidi & Rousta, 2021).
+The effect of brand experience on satisfaction was supported in various
+commercial settings. For example, Kose and Ozer Cizer (2021) reported that
+all dimensions of experiential marketing predict customer satisfaction in the
+smartphone industry. Similar findings were reported in a shopping environment
+(Mumtaz et al., 2011) in the automobile industry (Şahin et al., 2012) and for tablets (Tsai et al., 2010). Huang and Huang (2012) noted that perceived value mediates the relationship between brand experience and customer satisfaction.
+Contrary to commercial settings, less research was conducted to examine
+the relationship between brand experience and donor satisfaction in charities.
+Researchers mainly attempted to identify the differences between the conceptualization and function of donor and conventional customer satisfaction (e.g., Shang
+et al., 2019). Donor satisfaction results from sacrificing money or time to benefit others while receiving nothing in return (Strahilevitz (2011). This sacrifice
+improves the donors’ self-image, self-esteem, and long-term happiness. Thus, in
+the case of prosocial behavior such as donating to charities, satisfaction occurs
+when donors realize that their behavior leads to a change in the lives of other people who are in need (Park et al., 2021). Zalluhoğlu et al. (2017) explained this by
+identifying two types of satisfaction in the charity context; self-satisfaction and
+satisfaction with social benefits offered to others.
+Thus, based on the above, the second hypothesis is formulated:
+H2: Brand experience has a positive effect on donor satisfaction.
+
+13
+
+882
+
+B. H. Ali et al.
+
+The relationship between brand personality and customer satisfaction is strongly
+supported in different commercial settings (e.g., Achouri & Bouslama, 2010; Brakus
+et al., 2009; Hou et al., 2009; Lombart & Louis, 2012; Mort et al., 2007; Nysveen
+et al., 2013; Park & Lee, 2005). Several scholars examined this relationship in the
+charity sector. Similar findings were obtained by Faircloth (2005) and Sargeant et al.
+(2008). Stebbins and Hartman (2013) reported that the dimensions of emotional
+engagement, voice, progression, tradition, and conservatism had a more profound
+effect on giving behavior than other charity brand personalities for smaller charities.
+da silva et al. (2020) provided empirical evidence that the two dimensions of interaction and affect predict the donation intention.
+It can be concluded that a brand that evokes multiple experience dimensions will
+affect the pleasure level of the customer after the sale (Kose and Ozer Cizer, 2021)
+and raise customer satisfaction (Brakus et al., 2009; Mumtaz et al., 2011; Tsai et al.,
+2010).
+Thus, the third hypothesis is formulated:
+H3: Brand personality has a positive effect on donor satisfaction
+2.2.3 Intentions to re‑donate
+An intention is defined as: the individual’s evaluation of the subjective probability
+that he or she will perform in a particular way in the future (Sorderlund and Ohman,
+2003). Zeithaml et al. (1996) suggested five dimensions of behavioral intentions:
+loyalty to the organization, propensity to switch to another company, willingness to
+pay more, external response to the problem, and internal response to the problem.
+Brand loyalty is the principal behavioral intention, affecting the organization’s
+profitability and growth. It denotes a customer’s belief in the priority of a brand
+over other rival brands and subsequent behavioral intentions to repurchase, revisit,
+recommend and pay a price premium for the brand (Oliver, 1999). It should be noted
+that a favorable attitude and a repeat purchase were required to describe loyalty
+(Dick & Basu, 1994).
+Dick and Basu (1994) argued that customer loyalty is comprised of cognitive,
+affective, and conative loyalty reflecting beliefs about the brand, feelings towards it,
+and intentions to buy it. Oliver (1997) postulated that consumers start with loyalty
+in a cognitive sense, followed by affective loyalty, conative loyalty, and behavioral
+loyalty.
+Companies try hard to increase loyalty to their brand by providing their customers with positive brand-related experiences (Iglesias et al., 2011; Khalili et al., 2013;
+Shim et al., 2015). Brakus et al.’s (2009) sensory, affective, behavioral, and intellectual dimensions of brand experience were strong predictors of loyalty in many studies (Lada et al., 2014; Shim et al., 2015). Ebrahim et al. (2016) reported that brand
+personality and experiences’ effects on purchase intentions are indirect via brand
+preferences. Recently, Santos and Schlesinger (2021) provided empirical evidence
+that brand experience and love directly impact brand loyalty and willingness to pay a
+premium price for streaming T.V. services.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+883
+
+In the charity sector, only a limited number of studies examined the relationship between brand experience and intentions to re-donate. For example, Beldad
+et al. (2014) conducted a study to examine predictors of repeat donation intention
+among residents of two cities in the Netherlands. Positive experience with the
+organization affected intention to continue donating to a charitable organization.
+Based on the above, the following hypothesis is formulated:
+H4: Brand experience has a positive effect on intentions to re-donate.
+The positive effect of brand personality on brand loyalty is empirically supported (Achouri & Bouslama, 2010; Akin, 2011; Brakus et al., 2009; Chen &
+Phou, 2013; Farhat & Khan, 2011; Lin & Huang, 2012; Shehu et al., 2016a, b).
+Rup et al. (2021) argue that brand attitudes mediate the relationship between
+brand personality and purchase intentions.
+Several scholars examined this relationship in the charity sector. Sargeant and
+Woodliffe (2007) examined factors affecting donors’ intentions to re-donate. The
+researchers report that a charity brand personality that is unique and different is
+related to donors’ giving behavior. In addition, they reported that a higher level of
+donor satisfaction with the service leads to donors’ re-donation intention. Similar
+findings were obtained by Faircloth (2005) and Sargeant et al. (2008). Stebbins
+and Hartman (2013) report that the dimensions of emotional engagement, voice,
+progression, tradition, and conservatism had a more profound effect on giving
+behavior than other charity brand personalities for smaller charities. da silva et al.
+(2020) provided empirical evidence that charities’ brand interaction and affect
+predict the donation intention.
+Some authors examined the role of mediators and moderators in the relationship between charity brand personality and re-donation intentions. Hou et al.
+(2009) reported an indirect relationship via donors’ self-concept. Lindenmeier
+et al. (2021) argued that the two personality dimensions of perceived warmth and
+competence affect the volunteering intentions of German university students via
+actual self-congruence and functional congruence. Shaari et al.‘s (2019) study
+on Malaysian millennials examined attitude toward donation as a mediator of the
+relationship between university brand personality and intention to donate.
+Shehu et al. (2016a, b) reported the suppressing role of monetary incentives in
+charity donation marketing activities on the relationship between charity brand
+personality and re-donation intentions. Specifically, they report that monetary
+incentives may undermine the effect of brand personality on intentions to donate.
+Groza and Gordon (2016) reported that the specific intentions the donor will depend
+on the different charity brand personalities communicated to donors. Willingness to
+donate time was correlated with both nurturance and sophistication of brand personalities. Conversely, willingness to recommend the not-for-profi organization correlated with
+both nurturance and ruggedness.
+Based on the above, the following hypothesis is formulated.
+H5: Brand personality has a positive effect on intentions to re-donate.
+
+13
+
+884
+
+B. H. Ali et al.
+
+The relationship between customer satisfaction and loyalty in various contexts was
+empirically supported (Chandrashekaran et al., 2007; Choi et al., 2011; Cooil et al., 2007;
+Faullant et al., 2008; Kim et al., 2015; Mittal et al., 1999; Wu et al., 2011).
+In charity branding, Weidmann et al. (2013) concluded that donors who are more satisfied when dealing with charity organizations are more likely to continue giving and
+recommending the organizations to others. Similarly, Boenigk and Helmig (2013) examined donors’ satisfaction with blood and money donation charities. Donor satisfaction
+was found to positively affect donors’ intention to re-donate. Shang et al. (2019) findings supported the positive and direct effect of satisfaction on giving intention and giving
+behavior. Nguyen et al. (2008) also reported that satisfaction with the current donation
+experience was associated with the intent of the future donation. Martinez et al. (2021)
+found that older donors are more likely to report lower overall satisfaction with the service provided by the blood bank and that donor satisfaction affected donor loyalty.
+Taylor and Miller-Stevens (2018) highlighted the importance of relational
+exchange in the context of donation. They report that donor identification with a notfor-profit organization and satisfaction with it leads to higher intentions to donate.
+Melián-Alzola and Martin-Santana (2020) provided empirical support that
+donor satisfaction affects donor loyalty directly and indirectly through trust in a
+blood donation setting. Later, Melián-Alzola and Martín-Santana (2020) reported
+a path from service quality to donor satisfaction to donor loyalty in blood bank
+services in Spain.
+Zalluhoğlu et al. (2017) argued that there are two types of satisfaction in the charity
+context: self-satisfaction and satisfaction for social benefits. Both types were found to
+influence donors’ loyalty to not-for-profit organizations.
+Based on the above, the following hypothesis is formulated:
+H6: Donor satisfaction positively affects donors’ intentions to re-donate.
+
+3 Method
+This research investigates the relationship between brand experience, brand personality,
+donors’ satisfaction and intentions to re-donate to charity organizations. Thus, the model
+used by Brakus et al. (2009) was used in the context of charity branding. Figure 1 shows
+the research model.
+To test the hypotheses, a descriptive research design was adopted. A survey was developed based on previously developed scales. Donors to five well-known charities in Alexandria, Egypt, were approached to collect the data. Respondents were invited to participate and presented a list of five well-known charity brands in the city of Alexandria. The
+respondents were asked to select the brand where they donate more frequently and answer
+questions about this particular charity brand.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+885
+
+H5
+Brand
+experience
+
+H1
+
+Brand
+personality
+
+H3
+
+Donor
+Satisfaction
+
+H6
+
+Intentions to
+re- donate
+
+H2
+H4
+Fig. 1  The research model
+
+3.1 Measurement of research variables
+Three groups of variables will be measured. The first group includes brand experience,
+which is the independent variable. The original scale items by Brakus et al. (2009) and
+Nysveen et al. (2013) were used. Three dimensions of brand experience were deemed
+important in a charity brand context. These dimensions were affective, intellectual, and
+relational experiences. The sensory dimension and the behavioral dimension were not
+included in the scale. The sensory dimension may not be applicable in charities, as it
+relates to design and aesthetics perceptions (Brakus et al., 2009) and most donations are
+collected online or via volunteers, thus donors are not exposed to brand design or aesthetics. The behavioral dimension of brand experience was found to suffer from some
+validity problems (Brakus et al., 2009). The relational dimension was originally introduced by Nysveen et al. (2013) to measure brand experience in services Charity organizations are considered services which makes this dimension highly relevant to service
+organizations. Furthermore, the relational dimension of Nysveen et al. (2013) reflects the
+essence of a charity brand experience. Items such as feeling part of a larger community
+and the desire not to be left alone may be highly relevant to a charity brand experience
+where donors like to donate to feel connected to others in their communities. The modified scale includes eight items. The respondents will be asked to describe their experiences on a 5-point Likert scale ranging from strongly disagree to strongly agree.
+The measurement of the three consequences of brand experiences departed
+from the measures used by both Brakus et al. (2009) and Nysveen et al. (2013) to
+match the charity branding context. The intention to re-donate to a charity brand
+is the dependent variable. It will be measured using three items on a 5-point Likert scale originally introduced by Ranganathan and Henley (2008). Charity brand
+personality will be measured using the scale introduced by Venable et al. (2005),
+which includes three dimensions (integrity, competence, and thoughtfulness).
+Donor satisfaction will be measured using an adapted scale from Oliver (1980). A
+five-point Likert scale will be used for measuring the two mediators.
+3.2 Research population and sample
+The targeted population of the study is all donors who donate money, time, or goods
+to different charity organizations located in Alexandria. Five large and well-known
+
+13
+
+886
+
+B. H. Ali et al.
+
+charity organizations will be selected since they have distinct brand personalities.
+Three of them work nationally, and two charities provide their services locally.
+These charities are differentiated from others based on a clear mission and specific
+goals, a critical vision of reality and desire for development. These charities have
+partnerships with other parties such as hospitals and banks, and involve the community in their projects (Kandil, 2010).
+The sample size was determined to be 500 based on the recommendations of Hair
+et al. (1998) for complex models with many constructs and where some constructs
+are expected to have lower communalities.
+The data was collected via a self-administered questionnaire. Since these organizations prohibit providing volunteer’s and donor’s contact information, questionnaires were handed to volunteers responsible for collecting donations, and these volunteers gave them to the donors. The number of questionnaires distributed was 500,
+and 400 were returned with a response rate of 80%. This high response rate may be
+attributed to the desire of donors to express their views about the charity organization they donate to.
+Most of the respondents were males (55.9%), between the age of 25 to 30 years
+old (24.5%), and married (62.7%). Donors with a monthly income of between 1000
+L.E. and 2000 L.E. constitute about 36.8% of the sample, 75% hold university
+degrees, and 49.9% work in public organizations. National charities had the largest number of donors (32.3%, 20.3%, and 16.8%), while the two local charities had
+fewer volunteers (13.5% and 7.3%). 10.0% of donors report that they were dealing
+with other organizations.
+
+3.3 Testing the validity and reliability of the measures
+Exploratory factor analysis (EFA) and Confirmatory factor analysis (CFA) were
+used to test the convergent validity. The results of Bartlett’s test of this study are all
+significant at 0.001 levels, which means that factor analysis could be used for this
+data (Hair et al., 1998). Furthermore, the results of KMO for the current study are
+more than 0.6, backing the use of factor analysis (Field, 2005; Leech et al., 2011).
+Principal component analysis (PCA) with Varimax rotation was used to examine
+convergent validity. Exploratory factor analysis was conducted, and all factor loadings were more than 0.3 except one item with a factor loading below 0.3, and the
+communality score was 0.09. This item was one of the items of the relational dimension “When I am dealing with the not-for-profit (X), I do not feel left alone."Thus, it
+was removed from the analysis.
+Costello and Osborne (2005) argued that exploratory factor analysis could
+only be used for data exploration, not hypothesis testing. To validate the results
+of EFA, confirmatory factor analysis was conducted to ascertain the factor structure of the data set and confirm the factor structure obtained in the EFA before
+running the SEM (Hair et al., 1998). Traditionally, researchers used two samples
+for these two models. Hair et al. (1998) note that comparisons of the results of
+exploratory and confirmatory models may be problematic. They recommended
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+887
+
+Table 1  Factor loadings and Cronbach alpha coefficients
+Loadings Cronbach alpha
+Brand Experience (7 items)
+
+0.722
+
+*Affective (Brakus et al., 2009)
+
+0.755
+
+- The not-for-profit(X) induces my feelings and sentiments
+
+0.657
+
+- The not-for-profit (X) is an emotional brand
+
+0.515
+
+- I do not have strong emotions toward the not-for-profit (X)
+
+0.866
+
+*Relational (Nysveen et al., 2013)
+
+0.7
+
+- As the not-for-profit donor (X), I feel like I am a part of a community
+
+0.767
+
+- I feel like I am a part of the not-for-profit (X) family
+
+0.636
+
+*Intellectual (Brakus et al., 2009)
+
+0.761
+
+- I think much when I encounter the not-for-profit (X)
+
+0.644
+
+- The not-for-profit (X) stimulated my curiosity and problem-solving
+
+0.821
+
+Brand Personality (20 items) (Venable et al., 2005)
+
+0.931
+
+*Integrity
+
+0.908
+
+- Honest
+
+0.723
+
+- Has a positive influence
+
+0.815
+
+- Committed to the public good
+
+0.805
+
+- Reputable
+
+0.792
+
+- Accessible
+
+0.805
+
+- Purposeful
+
+0.849
+
+- Long-term orientation
+
+0.839
+
+- Organized
+
+0.733
+
+*Competence
+
+0.927
+
+- Reliable
+
+0.815
+
+- Successful
+
+0.805
+
+- Hard-working
+
+0.792
+
+Intelligent
+
+0.805
+
+- Secure
+
+0.849
+
+- Leader
+
+0.839
+
+- Confident
+
+0.733
+
+*Thoughtfulness
+
+0.911
+
+- Compassionate
+
+0.811
+
+- Caring
+
+0.877
+
+- Loving
+
+0.83
+
+- Kind
+
+0.875
+
+- Helpful
+
+0.834
+
+Donor Satisfaction (Oliver, 1980)
+
+0.818
+
+- I am satisfied with my decision to deal with not-for-profit (X)
+
+0.677
+
+-My choice to donate to a not-for-profit (X) is a wise one
+
+0.624
+
+- I feel bad about my decision concerning a donation to a not-for-profit (X) 0.499
+- I think I did the right thing when I donated to a not-for-profit (X)
+
+0.698
+
+- I am unhappy with what I did with not-for-profit (X)
+
+0.844
+
+Intentions to re-donate (Ranganathan & Henley, 2008)
+
+0.77
+
+13
+
+888
+
+B. H. Ali et al.
+
+Table 1  (continued)
+Loadings Cronbach alpha
+- Will donate to not-for-profit (X) next time
+
+0.823
+
+- Will recommend others to donate to not-for-profit (X)
+
+0.761
+
+using confirmatory factor analysis (CFA) through structural equation modeling
+to overcome these problems. Nysveen et al. (2013) followed Hair et al. (1998) in
+conducting both EFA and CFA on the same sample.
+Table 1 shows factor loadings of CFA and Cronbach alpha coefficients.
+Based on the CFA, all items loaded relatively highly on their factors. Comrey
+and Lee (1992) argue that factor loadings of 0.32 are considered poor while factor
+loadings of 0.71 are considered excellent. Brand experience consists of three factors: the affective dimension (3 items), the relational dimension (2 items), and the
+intellectual dimension (2 items). The results of Table 2 show all factor components with relatively high factor loadings. Brand personality also consists of three
+factors: integrity (8 items), competence (7 items), and thoughtfulness (5 items).
+Donor satisfaction was a univariate variable (5 items) with one item with a factor
+loading of 0.499. Finally, donors’ intention to re-donate was also univariate (2
+items). The table also shows Cronbach alpha coefficients for research variables
+and their underlying dimensions. The third item in the intentions to re-donate
+scale was deleted to improve the Cronbach alpha from 0.396 to 0.770. All Cronbach’s alpha coefficients for research variables are higher than 0.7 which is considered an acceptable level (George & Mallery, 2003; Tavakol & Dennick, 2011).
+3.4 Discriminant validity
+The Fornell and Larcker (1981) method was used, where the squared inter-correlations between two constructs should be less than the AVE estimates of the
+respective two constructs for all pairs of constructs. Table 2 shows that all scales
+are valid based on Fornell and Larcker’s (1981) method.
+
+Table 2  Correlations and AVE
+AVE Value %
+
+Brand Experience
+
+Brand Personality
+
+Donor Satisfaction
+
+Intention to
+Re-donate
+
+0.6466
+
+0.881
+
+0.5937
+
+0.8146
+
+Brand Experience
+
+1
+
+0.332(**)
+
+0.461(**)
+
+0.417(**)
+
+Brand Personality
+
+0.332(**)
+
+1
+
+0.393(**)
+
+0.301(**)
+
+Donor Satisfaction
+
+0.461(**)
+
+0.393(**)
+
+1
+
+0.480(**)
+
+Intentions to Redonate
+
+0.417(**)
+
+0.301(**)
+
+0.484(**)
+
+1
+
+** Correlation is significant at the 0.01 level (2—tailed). n = 400.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+889
+
+Table 3  Univariate and multivariate tests of normality
+Sample size: 395
+Number of variables: 8
+Univariate skewness and kurtosis
+Skewness
+
+SE_skew
+
+Z_skew
+
+Kurtosis
+
+SE_kurt
+
+Z_kurt
+
+Affect
+
+-0.665
+
+0.123
+
+-5.420
+
+1.268
+
+0.245
+
+5.177
+
+Relate
+
+-0.571
+
+0.123
+
+-4
+
+0.308
+
+0.245
+
+1.256
+
+Intellect
+
+-0.435
+
+0.123
+
+-3.539
+
+-0.268
+
+0.245
+
+-1.093
+
+Intention
+
+-0.403
+
+0.123
+
+-3.282
+
+0.829
+
+0.245
+
+3.38
+
+Satisfaction
+
+-0.462
+
+0.123
+
+-3.764
+
+1.196
+
+0.245
+
+4.883
+
+Integrity
+
+-0.073
+
+0.123
+
+-0.598
+
+0.636
+
+0.245
+
+2.596
+
+Competence
+
+-0.116
+
+0.123
+
+-0.941
+
+0.956
+
+0.245
+
+3.903
+
+Thoughtful
+
+-0.250
+
+0.123
+
+-2.033
+
+0.725
+
+0.245
+
+2.960
+
+98.649408
+
+14.65121
+
+0
+
+Mardia’s multivariate skewness and kurtosis
+b
+
+z p-value
+
+Skewness
+
+7.288922
+
+479.85404
+
+0
+Kurtosis
+
+3.5 Structural equation modeling
+To test the hypotheses using structural equation modeling, tests of normality were
+conducted. SEM-based on the maximum likelihood approach using AMOS was
+run to test research hypotheses. Table 3 shows univariate and multivariate tests of
+normality.
+As shown in Table 3, Mardia’s multivariate skewness and kurtosis were significant, implying that data may not follow the normal distribution. Nevertheless,
+when SEM is used, Mardia becomes overly sensitive to large sample sizes, and
+there is a high chance of having significant results.
+Stevens (2009) and Kim (2017) recommended using descriptive univariate
+normality measures such as skewness and kurtosis.
+The values of kurtosis for individual variables vary between 1.2 and 0.27. The
+acceptable kurtosis values are below three based on Westfall & Henning (2013)
+or four based on Kim (2017). Although somehow negatively skewed, skewness
+levels fall under the acceptable range identified by Kim (2017), which is -2 to + 2.
+The effect of measurement error was accounted for by setting the error terms to 1
+coefficient alpha (Schumacker & Lomax, 2004).
+3.6 Model fit indices
+Fit indices ensure that the estimated model fits well with the sample data (Hair et al.,
+1998). The table shows several fit indices for the model. The first fit index is CMIN.
+To be acceptable, CMIN should not be significant. This means that this model is
+not acceptable based on CMIN. Sahoo (2019) argues that CMIN may be significant
+even if the model is well specified in the case of small samples or the absence of
+
+13
+
+890
+
+B. H. Ali et al.
+
+multivariate normality. CMIN/DF overcomes some of the problems of CMIN. The
+CMIN/DF for this model was 3.028. This value is acceptable as Byrne (2016) recommends a CMIN/DF value of less than 5.
+Two other measures of fit are GFI and AGFI. The values for these two indices
+were 0.826 and 0,779, respectively. These two indices were below the acceptable
+level of 0.9. This might be attributable to the small sample size and the model complexity as there are many direct and indirect relationships in the model (Hooper
+et al., 2008; Sharma et al., 2005). The value of RMSEA was 0.071 which is below
+the acceptable level of 0.08, recommended by Maccallum et al. (1996).
+For NFI, CFI, and IFI the values were 0.872,0.91 and 0.911, respectively. Bentler
+and Bonnett (1980) recommended a value of 0.9 or more for NFI which means that
+0.872 is not acceptable. Conversely, the values of both CFI and IFI are acceptable.
+Byrne (2013) argues that CFI may be a better indicator of fit as it can be used in the
+case of small samples. The value of TLI was marginally acceptable (0.89) as the recommended level is 0.9 or more (Bentler & Bonnett, 1980). Finally, the PGFI value
+was 0.65. Mulaik et al. (1989) note that PGFI should be evaluated with other fit indices and that there is no specific threshold for it (Table 4).
+Like the ­R2 used in regression, the squared multiple correlations are obtained in
+SEM for each dependent variable (Hair et al., 1998). The squared multiple correlation values for the endogenous variables in the model were 0.448, 0.817, and 0.752
+for brand personality, donor satisfaction, and intention to re-donate, respectively.
+This means that brand experience explains 44.8% of the variance of brand personality. Both brand experience and brand personality explain 87.1% of the variance
+in donor satisfaction. Brand experience, personality, and donor satisfaction explain
+75% of the variance in intentions to re-donate. Table 5 shows the estimates for the
+squared multiple correlations for the three variables.
+3.7 Hypotheses Testing
+To test the research hypotheses, standardized estimates (Stand), standard error
+(S.E.), critical ratio (C.R.), and p-values of the direct relationships were calculated.
+Table 6 shows estimates of SEM.
+Standardized estimates reflect the relative contribution of each predictor variable
+to each outcome variable (Hair et al., 1998). The effect of brand experience on brand
+personality, donor satisfaction, and intentions to re-donate is supported. The standardized estimates were 0.669, 0.596, and 0.278, respectively, C.R. are 11.00, 8.86,
+and 2.23, and p values are significant at 0.000. This provides support to the first,
+second, and fourth hypotheses. The standardized estimate of brand personality on
+donor satisfaction is 0.388 (p < 0.05), supporting H3. On the contrary, the standard
+estimate of brand personality on intentions to re-donate is -0.026 but not significant
+(p < 0.741). Thus, the direct effect of brand personality on intentions to re-donate
+was not supported. Therefore, the fifth hypothesis was rejected. Finally, donor satisfaction strongly affects the intention to re-donate with a standard estimate of 0.637
+and a critical ratio of 4.067 (p < 0.000). This finding provides support to H6. Figure 2 shows the path model of SEM.
+
+13
+
+0.911
+0.892
+0.651
+
+Incremental fit index ( IFI)
+
+Tucker–Lewis index (TLI)
+
+Parsimonious goodness-of-fit index (PGFI)
+
+It ranges from zero to one—higher values indicating better
+model parsimony
+
+Recommended level 0.9 or more (Bentler & Bonnett, 1980)
+
+Recommended level 0.9 or more (Hair et al., 1998)
+
+Recommended level 0.9 or more (Hair et al., 1998)
+
+Recommended level 0.9 or more (Bentler & Bonnett, 1980)
+
+0.872
+0.910
+
+Recommended level is 0.9 or more (Hair et al., 1998)
+Recommended values below 0.08 (Maccallum et al., 1996)
+
+0.779
+0.071
+
+Adjusted goodness-of-fit index (AGFI)
+
+Root mean square error of approximation (RMSEA)
+
+Normed fit index (NFI)
+
+Recommended values are less than 5 (Byrne, 2016)
+Recommended level is 0.9 or more (Hair et al., 1998)
+
+3.028
+0.826
+
+Normed Chi-square (CMIN/DF)
+
+The Goodness of Fit Index (GFI)
+
+Comparative fit index ( CFI)
+
+It should be non-significant
+
+1419.937
+(0.000)
+
+Likelihood ratio chi-square (CMIN)
+(Significant Level)
+
+Level of Acceptable Fit
+
+Model Results
+
+The goodness of Fit-Measures
+
+Table 4  Fit Measures of the Overall Structured Model
+
+The effect of charity brand experience on donors’ behavioral…
+891
+
+13
+
+892
+
+B. H. Ali et al.
+
+Table 5  Squared Multiple
+Correlation
+
+Variable
+
+Estimate
+
+Brand Personality
+
+0.448
+
+Donor Satisfaction
+
+0.817
+
+Intention to Re-donate
+
+0.752
+
+Table 6  Estimates of SEM
+Dependent Variables
+
+Independent Variables
+
+Stand. Estimates
+
+S.E
+
+C.R
+
+P
+***
+
+H1
+
+Brand Personality
+
+□
+
+Brand Experience
+
+0.669
+
+0.67
+
+11.00
+
+H2
+
+Donor Satisfaction
+
+□
+
+Brand Experience
+
+0.596
+
+0.77
+
+8.866 ***
+
+H3
+
+Donor Satisfaction
+
+□
+
+Brand Personality
+
+0.388
+
+0.059
+
+6.804 ***
+
+H4
+
+Intentions to Re-donate
+
+□
+
+Brand Experience
+
+0.278
+
+0.135
+
+2.232 0.026
+
+H5
+
+Intentions to Re-donate
+
+□
+
+Brand Personality
+
+-0.026
+
+0.078
+
+0.331 0.741
+
+H6
+
+Intentions to Re-donate
+
+□
+
+Donor Satisfaction
+
+0.637
+
+0.148
+
+4.067 ***
+
+*** Significant at 0.000
+
+Fig. 2  The path model of SEM
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+893
+
+3.8 Testing indirect relationships
+The above analysis identified direct paths. Considering the structure of the research
+model, indirect effects should also be calculated. According to Baron and Kenny
+(1986), for mediation to occur, two conditions should be fulfilled. First, if the indirect effect is significant and the direct effect is not, the mediation is full. Second,
+if both the indirect and direct effects are significant, then the mediation is partial.
+(Baron & Kenny, 1986).
+These conditions were examined then the further investigation was conducted
+based on the direct and indirect coefficients, as shown in Table 7. The total effect
+equals the sum of both direct and indirect effects (Preacher & Hayes, 2008). The
+bootstrapping method was used to obtain the significance levels of the indirect and
+total effects. Bootstrapping refers to repeated resampling of the original data (Efron,
+1979). In case of a lack of multivariate normality, bootstrapping offers an alternative to asymptotic inference for factor loading, path coefficients, and goodness-of-fit
+indices (Finney & DiStefano, 2006).
+The first mediator examined was donor satisfaction. The brand experience was
+found to affect intentions to re-donate directly(p < 0.026) and indirectly through
+donor satisfaction (0.001), thus supporting a partial mediation. Conversely, only
+an indirect effect of brand personality on intentions to re-donate was significant
+(p < 0.003), thus supporting full mediation.
+The second mediator in the model was brand personality, as it mediates the relationship between brand experience and donor satisfaction. The total effect of brand
+experience on donor satisfaction was 0.806 (P < 0.002). As shown in Table 6, the
+brand experience was found to affect donor satisfaction directly (p < 0.000) and indirectly (p < 0.002) through brand personality, thus supporting a partial mediation.
+The total effect of brand experience on donor satisfaction was 0.797 (p < 0.001).
+
+4 Discussion
+The role of charities in modern societies cannot be overlooked. Charities provide
+services to those in need and raise awareness of societal concerns (Sargeant, 2009).
+To explore new income streams, a good understanding of donors’ attitudes and giving behavior is mandatory (Hou et al., 2009). This study empirically examines the
+model developed by Brakus et al. (2009) in the charity branding context. The model
+investigates the relationship between brand experience, brand personality, and donor
+satisfaction on intentions to re-donate. To match the charity branding context, the
+scales for brand experience and brand personality were modified. Using a sample of
+donors in Alexandria, Egypt, the model was tested using SEM.
+The findings support Brakus et al.’s (2009) findings. All hypothesized relationships were supported except the direct path from brand personality to intentions to
+
+13
+
+13
+
+Dependent variable
+
+Donor satisfaction
+
+Donor satisfaction
+
+Intentions to re-donate
+
+Intentions to re-donate
+
+Intentions to re-donate
+
+Independent Variable
+
+Brand Experience
+
+Brand Personality
+
+Brand Experience
+
+Brand Personality
+
+Donor satisfaction
+
+Table 7  Direct and indirect effects of research variables
+
+0.637 (p < 0.000)
+
+-0.026 (p < 0.741)
+
+0.278 (p < 0.026)
+
+0.388(p < 0.000)
+
+0.596(p < 0.000)
+
+Direct Effect
+
+______________
+
+0.243 (p < 0.003)
+
+0.528(p < 0.001)
+
+____________
+
+0.260(p < 0.002)
+
+Indirect Effect
+
+0.637 (p < 0.000)
+
+0.221 (p < 0.006)
+
+0.806(p < 0.002)
+
+0.388(p < 0.002)
+
+0.797(p < 0.001)
+
+Total Effect
+
+Partial
+
+Partial
+
+Partial
+
+Type of meditation
+
+894
+B. H. Ali et al.
+
+The effect of charity brand experience on donors’ behavioral…
+
+895
+
+re-donate. Donors’ affective, relational and intellectual interactions with a brand
+are notable antecedents for charity brand personality perceptions, thus supporting
+the first hypothesis. This finding supports the findings obtained in several studies in
+commercial settings (Cardoso et al., 2013; Keng et al., 2013) and a charity setting
+(Chrissos Anestis et al., 2021).
+The relationship between brand experience and donor satisfaction toward charity organizations was also significant. This finding provides support to the second
+hypothesis. This finding contradicts the findings of Ishida and Taylor (2012) who
+did not report a significant relationship. On the other hand, this finding provided
+empirical support for other studies (Brakus et al., 2009; Khalili et al., 2013; Nysveen et al., 2013; Kose and Ozer Cizer, 2021). Brakus et al. (2009) contemplate that
+positive brand experiences enable adding value, and therefore strong experiences
+enhance satisfaction and consumers will repeat those experiences.
+A significant relationship between the brand personality of charity organizations and
+satisfaction was also reported, supporting the third hypothesis. This finding is consistent
+with the findings of Park and Lee (2005), Brakus et al. (2009), Achouri and Bouslama
+(2010), and Chen and Phou (2013). It also provides support to studies conducted in the
+charity sector (e.g., da silva et al., 2020; Sargeant et al., 2008; Stebbins & Hartman, 2013).
+Findings indicate that brand experience holds a significant positive direct impact
+on intentions to re-donate, implying support for the fourth hypothesis. Many studies reported similar findings (Berry & Carbone, 2007; Iglesias et al., 2011; Walter et al., 2013; Shamim and Mohsin Butt, 2013; Ramaseshan & Stein, 2014; Shim
+et al., 2015) while others reported opposite results (Ebrahim et al., 2016; Kwong &
+Candinegara, 2014). Rose et al. (2011) noted that for brand experience to affect loyalty, satisfaction should be incorporated as a mediator.
+The direct effect of brand personality on intentions to re-donate was insignificant,
+leading to the rejection of the fifth hypothesis. This supports the findings of Ebrahim
+et al. (2016), but it is inconsistent with the findings of Stebbins and Hartman (2013),
+who found that charity brand personality significantly influences donors’ giving
+behavior. Many authors suggested mediation effects. For example, Hou et al. (2009)
+found that brand personality greatly influences individual donors’ self-perception or
+feelings, which in turn affects individual giving intention and behavior directly and
+significantly. Lindenmeier et al. (2021) argued that actual self-congruence and functional congruence mediate the relationship between perceived warmth and competence and volunteering intentions. Shaari et al. (2019) identify attitudes as a mediator
+of the relationship between university brand personality and intention to re-donate.
+The effect of donor satisfaction on re-donation intention was also reported providing support for the sixth hypothesis. This finding is consistent with previous
+studies in commercial settings (Chandrashekaran et al., 2007; Cooil et al., 2007;
+Faullant et al., 2008; Mittal et al., 1999). Boenigk and Helmig (2013) confirmed
+that donor satisfaction affects donors’ intentions to re-donate positively in blood
+and money donations.
+Indirect relationships between research variables were also examined. The
+effect of brand experience on donor satisfaction was found to be direct and
+indirect through brand personality and the total effect was 0.707 (P < 0.001).
+The effect of brand experience on intentions to re-donate was also positive and
+
+13
+
+896
+
+B. H. Ali et al.
+
+significant and the total effect was 0.806 (P < 0.002). Thus, donor satisfaction
+partially mediates the relationship between brand experience and intentions to redonate. The finding supports previous studies (e.g., Şahin et al., 2012; Khalili
+et al., 2013; Kim et al., 2015). The direct effect of brand personality on intentions
+to re-donate was not supported (P < 0.741). However, an indirect effect through
+donor satisfaction was reported (P < 0.003). Thus, donor satisfaction fully mediates the relationship between brand experience and re-donation intentions providing support to Şahin et al. (2012) and (Khalili et al. (2013). Kim et al. (2015)
+reported similar mediation effects on their Korean sample. Findings also support
+the findings of Kwong and Candinegara (2014) that while brand personality partially mediates the effect of brand experience on customer satisfaction, customers’ satisfaction fully mediates the relationship between brand experiences and
+repurchase intention.
+The findings partially support the findings of Brakus et al. (2009) and Cleff et al.
+(2013) which report that brand personality and customer satisfaction partially mediate the relationship between brand experience and intentions to repurchase.
+This research is considered one of the few studies that examine the relationship
+between these variables in the context of charity branding. Our findings suggest that
+research models used in commercial settings could apply in other environments, such
+as charity branding. We also suggest that the conceptualization of brand experience
+and brand personality may differ from conceptualizations used in traditional marketing contexts. Specifically, we used a brand experience construct comprised of affective, intellectual and relational dimensions and a brand personality construct that
+includes thoughtfulness, integrity and competence. These constructs may be more
+relevant to a charity brand context than other brand experience dimensions. Their
+effect on donor satisfaction and re-donation intentions was positive and significant.
+Specifically, our research contributes to the field of charity branding in several
+ways. First, we have introduced and validated a scale for the charity brand experience based on the work of Brakus et al. (2009) and Nysveen et al. (2013). Second,
+we have provided evidence of the importance of brand experience and personality
+on donor satisfaction and re-donation intentions. Third, by conducting this research
+in Egypt, we have added to the limited research on charity branding conducted in
+developing countries. Conducting research in different cultural settings allows
+researchers to understand research models and whether universal or contextual models should be used.
+The findings of this research benefit managers of charity organizations interested
+in enhancing re-donation behavior. These managers should carefully design, communicate and monitor the donors’ brand experience and personality to fit the prosocial nature of the donation. Brand experiences should reflect relational, intellectual,
+and affective components. This means that charity marketing managers should
+design experiences stimulating donors’ cognitive and emotional processes. The
+brand experience should also convey relational aspects such as belonging to a community or a larger family. Similarly, charity brand personalities communicated to the
+donors should reflect integrity, thoughtfulness, and competence. Since these factors
+predict re-donation intentions, charities should use market research to trace donors’
+perceptions of brand experience, brand personality and satisfaction.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+897
+
+5 Limitations
+The data collection was limited to Egypt’s most popular and largest charity organizations. It was observed from the findings of this research that about 26% of donors,
+who deal with large and well-known charities, donate more to small and unknown
+organizations. Therefore, future researchers should include those small organizations in their studies. The results of this research examined only the effect of the
+brand experience of charity organizations in general. While Nysveen et al. (2013),
+Japutra and Molinillo (2019), and Chrissos Anestis et al. (2021) examined the effect
+of individual brand experience and brand personality in their research, such effects
+were not examined in the context of charity organizations. Even though the ­R2 coefficients for both donors’ satisfaction and loyalty were high (0.817 and 0.752, respectively), some model fit indices are barely acceptable. Fit indices such as CMIN, GFI
+and AGFI were relatively low. These indices are generally sensitive to sample size
+(Sharma et al., 2005). Conversely, other indices such as CMIN/DF, RMSEA, CFI,
+and IFI are not sensitive to sample size (Hooper et al., 2008) and they were acceptable. Better fit indices could be obtained by having larger sample sizes. Other variables may be incorporated into the model. Suggested variables include donors’ selfconcept, brand awareness, and brand image.
+Another limitation is the use of re-donation intentions and not actual donation
+amounts. Understanding the role of charity brand experience and charity brand personality in actual donor behavior could be examined in future research.
+
+6 Conclusion
+This research aimed to revisit the brand experience model introduced by Brakus
+et al. (2009) in the context of charity branding using a sample of Egyptian donors.
+Findings were similar to findings reported in commercial contexts. This indicates
+that the model can transcend the context of charities. Nevertheless, such transcendence should be conducted using the appropriate conceptualization and measurement
+of research variables.
+Declarations
+Ethics approval This study was exempted from the requirement for approval by the responsible ethics
+committee due to its nature (participants were not patients, and their participation was voluntary and
+anonymous).
+Consent to participate The participation in the study was voluntary. Therefore, respondents’ willingness
+to complete the questionnaire indicated their consent to participate.
+Consent for publication The questionnaire was completely anonymous. Therefore, there is no identifiable
+information requiring consent for publication.
+Conflicts of interest All authors declare that they have no conflict of interests.
+
+13
+
+898
+
+B. H. Ali et al.
+
+References
+Aaker, D. (2010). Marketing challenges in the next decade. Journal of Brand Management, 17(5),
+315–316.
+Aaker, J. L. (1997). Dimensions of brand personality. Journal of Marketing Research, 34(3), 347–356.
+Aaker, J. L., Benet-Martinez, V., & Garolera, J. (2001). Consumption symbols as carriers of culture: A
+study of Japanese and Spanish brand personality constructs. Journal of Personality and Social Psychology, 81(3), 492–508.
+Achouri, M. A., & Bouslama, N. (2010). The effect of the congruence between brand personality and
+self-image on consumer’s satisfaction and loyalty: A conceptual framework. IBIMA Business
+Review, 2(2), 34–49.
+Akin, M. (2011). Predicting consumers’ behavioral intentions with perceptions of brand personality: A
+study in cell phone markets. International Journal of Business and Management, 6(6), 193–206.
+Aly, B. H., Elaref, N., & Yacout, O. M. (2017). A literature review and a conceptual framework of the
+brand personality in non-for-profit organizations. The Business and Management Review, 8(5),
+201–213.
+Angelova, B., & Zekiri, J. (2011). Measuring customer satisfaction with service quality using the American Customer Satisfaction Model (ACSI Model). International Journal of Academic Research in
+Business and Social Sciences, 1(3), 232–258.
+Baron, R. M., & Kenny, D. A. (1986). The Moderator-Mediator Variable Distinction in Social Psychological Research: Conceptual, Strategic, and Statistical Considerations. Journal of Personality and
+Social Psychology, 51(6), 1173–1182.
+Beldad, A., Snip, B., & van Hoof, J. (2014). Generosity the second time around: Determinants of individuals’ repeat donation intention. Nonprofit and Voluntary Sector Quarterly, 43(1), 144–163.
+Bennett, R., & Gabriel, H. (2000). Charity affiliation as a determinant of product purchase decisions.
+Journal of Product and Brand Management, 9(4), 255–270.
+Berry, L. L., & Carbone, L. P. (2007). Build loyalty through experience management. Quality Progress,
+40(9), 26–32.
+Bentler, P. M., & Bonnett, D. G. (1980). Significance tests and goodness of fit in the analysis of covariance structures. Psychological Bulletin, 88(3), 588–606.
+Bilgin, Y., and Kethüda, Ö. (2022). Charity Social Media Marketing and Its Influence on Charity Brand
+Image, Brand Trust, and Donation Intention. VOLUNTAS: International Journal of Voluntary and
+Nonprofit Organizations, https://​doi.​org/​10.​1007/​s11266-​021-​00426-7, last retrieved July ­
+11th,
+2022.
+BliegeBird, R., & Smith, E. (2005). Signaling theory, strategic interaction, and symbolic capital. Current
+Anthropology, 46(2), 221–248.
+Boenigk, S., & Helmig, B. (2013). Why do donors donate? Examining the effects of organizational identification and identity salience on the relationships among satisfaction, loyalty, and donation behavior. Journal of Service Research, 16(4), 533–548.
+Brakus, J. J., Schmitt, B. H., & Zarantonello, L. (2009). Brand experience: What is it? How is it measured? Does it affect loyalty? Journal of Marketing, 73(3), 52–68.
+Byrne, B. M. (2013). Structural equation modeling with LISREL, PRELIS and SIMPLIS: Basic concepts,
+applications, and programming. Psychology Press.
+Byrne, B. M. (2016). Structural equation modeling with AMOS: Basic concepts, applications, and programming (3rd ed.). Routledge.
+Cardoso, I., Portela, S. L., & Dias, Á. (2013). Determinants of the perception of the personality of brand:
+An application to the Azores regional brand. International Journal of Academic Research, 5(2),
+211–216.
+Chapman, C. M., Louis, W. R., Masser, B. M., & Thomas, E. F. (2022). Charitable Triad Theory: How
+donors, beneficiaries, and fundraisers influence charitable giving. Psychology & Marketing. https://​
+doi.​org/​10.​1002/​mar.​21701 last retrieved July 10th, 2022.
+Chandrashekaran, M., Rotte, K., Tax, S. S., & Grewal, R. (2007). Satisfaction strength and customer loyalty. Journal of Marketing Research, 44(1), 153–163.
+Chang, C. T., and Lee, Y. K. (2008). All charity advertisements are not created equal: Influences of message framing, vividness valence, and number size framing. In A. Y. Lee and D. S (Eds.) NA Advances in Consumer Research (Volume 35, 652–653). Association for Consumer Research.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+899
+
+Chen, C. F., & Phou, S. (2013). A closer look at destination image, personality, relationship, and loyalty.
+Tourism Management, 36, 269–278.
+Ching, A. T., Erdem, T., & Keane, M. P. (2013). Invited paper-learning models: An assessment of progress, challenges, and new developments. Marketing Science, 32(6), 913–938.
+Choi, Y. G., Ok, C., and Hyun, S. S. (2011). Evaluating relationships among brand experience, brand
+personality, brand prestige, brand relationship quality, and brand loyalty: An empirical study of
+coffeehouse brands, available at: scholarworks.umass.edu (accessed July 11th, 2022).
+Chrissos Anestis, M., Karantza, I., Assimakopoulos, C., & Vlachakis, S. (2021). Revitalizing the nonprofit brand personality through brand experience and brand relationship dimensions. International
+Review on Public and Nonprofit Marketing, 19, 555–574
+Cleff, T., Dörr, S., Vicknair, A., & Walter, N. (2013). Brand experience–How it relates to brand personality, consumer satisfaction, and consumer loyalty: An empirical analysis of the Adidas brand. Interdisciplinary Management Research, 9(31), 731–754.
+Comrey, A. L., & Lee, H. B. (1992). A first course in factor analysis (2nd ed.). Lawrence Erlbaum
+Associates.
+Cooil, B., Keiningham, T. L., Aksoy, L., & Hsu, M. (2007). A longitudinal analysis of customer satisfaction and share of wallet: Investigating the moderating effect of customer characteristics. Journal of
+Marketing, 71(1), 67–83.
+Costello, A. B., and Osborne, J. (2005). Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis. Practical assessment, research, and evaluation,
+10(1), 7. https://​schol​arwor​ks.​umass.​edu/​cgi/​viewc​ontent.​cgi?​artic​le=​1156&​conte​xt=​pare, last
+retrieved July 1­ 0th, 2022.
+da Silva, L. C., Mainardes, E. W., Teixeira, A. M. C., & Costa Júnior, L. (2020). Brand orientation of notfor-profit organizations and its relationship with the attitude toward charity and donation intention.
+International Review on Public and Nonprofit Marketing, 17(3), 353–373.
+Davies, G., Rojas-Mendez, J., Whelan, S., Mete, M., & Loo, T. (2018). Brand personality: Theory and
+dimensionality. Journal of Product & Brand Management, 27(2), 115–127.
+Dick, A. S., & Basu, K. (1994). Customer loyalty: Toward an integrated conceptual framework. Journal
+of the Academy of Marketing Science, 22(2), 99–113.
+Ebrahim, R., Ghoneim, A., Irani, Z., & Fan, Y. (2016). A brand preference and repurchase intention model: The role of consumer experience. Journal of Marketing Management, 32(13–14),
+1230–1259.
+Efron, B. (1979). Bootstrap methods: Another look at the jackknife. The Annals of Statistics, 7(1), 1–26.
+Faircloth, J. B. (2005). Factors influencing nonresource provider support decisions: Applying the brand
+equity concept to nonprofits. Journal of Marketing Theory and Practice, 13(3), 1–15.
+Farhat, R., & Khan, B. M. (2011). Importance of brand personality to customer loyalty: A conceptual
+study. New Media and Mass Communication, 1, 4–10.
+Faullant, R., Matzler, K., & Füller, J. (2008). The impact of satisfaction and image on loyalty: The case of
+Alpine ski resorts. Managing Service Quality: An International Journal, 18(2), 163–178.
+Field, A. (2005). Discovering Statistics Using SPSS (2nd ed.). SAGE Publications.
+Finney, S. J., & DiStefano, C. (2006). Non-normal and categorical data in structural equation modeling.
+Structural equation modeling: A second course (pp. 269–314). Information Age Publishing.
+Fiske, S. T., Cuddy, A. J. C., & Glick, P. (2007). Universal dimensions of social cognition: Warmth and
+competence. Trends in Cognitive Sciences, 11(2), 77–83.
+Fiske, S. T., Cuddy, A. J. C., Glick, P., & Xu, J. (2002). A model of (often mixed) stereotype content:
+Competence and warmth respectively follow from perceived status and competition. Journal of
+Personality and Social Psychology, 82(6), 878–902.
+Fornell, C., & Larcker, D. F. (1981). Structural equation models with unobservable variables and measurement error: Algebra and statistics. Journal of Marketing Research, 18(3), 382–388.
+Freling, T. H., Crosno, J. L., & Henard, D. H. (2011). Brand personality appeal: Conceptualization and
+empirical validation. Journal of the Academy of Marketing Science, 39(3), 392–406.
+George, J., & Anandkumar, V. (2018). Dimensions of product brand personality. Vision, 22(4), 377–386.
+George, D., & Mallery, P. (2003). SPSS for Windows step by step: A simple guide and reference. 11.0
+update (4th ed.). Allyn & Bacon.
+Geuens, M., Weijters, B., & De Wulf, K. (2009). A new measure of brand personality. International Journal of Research in Marketing, 26(2), 97–107.
+Gregory, G., Ngo, L., & Miller, R. (2020). Branding for nonprofits: Explaining new donor decision-making in the charity sector. Journal of Product & Brand Management, 29(5), 583–600.
+
+13
+
+900
+
+B. H. Ali et al.
+
+Groza, M. P., & Gordon, G. L. (2016). The effects of nonprofit brand personality and self-brand congruity
+on brand relationships. Marketing Management, 26(2), 117–129.
+Ha, Q. A., Pham, P. N. N., & Le, L. H. (2022). What facilitate people to do charity? The impact of brand
+anthropomorphism, brand familiarity and brand trust on charity support intention. International
+Review on Public and Nonprofit Marketing. https://​doi.​org/​10.​1007/​s12208-​021-​00331-1 Last
+Retrieved July 10th, 2022.
+Hair, J. J., Anderson, R., Tatham, R., & Black, W. (1998). Multivariate Data Analysis (5th ed.). PrenticeHall International Inc.
+Hankinson, P. (2001). Brand orientation in the charity sector: A framework for discussion and research.
+International Journal of Nonprofit and Voluntary Sector Marketing, 6(3), 231–242.
+Hibbert, S., & Horne, S. (1996). Giving to charity: Questioning the donor decision process. Journal of
+Consumer Marketing, 13(2), 4–13.
+Hooper, D., Coughlan, J., & Muller, M. (2008). Structural equation modeling: Guidelines for determining
+model fit. EJBRM, 6, 53–60.
+Hou, J., Du, L., & Tian, Z. (2009). The effects of nonprofit brand equity on individual giving intention:
+Mediating by the self-concept of individual donor. International Journal of Nonprofit and Voluntary Sector Marketing, 14(3), 215–229.
+Huang, L. and Huang, R. (2012) “Study on the relation between brand experience and customer satisfaction in the tourism-destination hotel”, In 9th International Conference on Service Systems and
+Service Management - Proceedings of ICSSSM’12 (pp. 469– 472). IEEE. https://​doi.​org/​10.​1109/​
+ICSSSM.​2012.​62522​80.
+Iglesias, O., Singh, J. J., & Batista-Foguet, J. M. (2011). The role of brand experience and affective commitment in determining brand loyalty. Journal of Brand Management, 18(8), 570–582.
+Isa, Z. M., Ali, N., and Harun, R. (2010). Consumers decision-making in buying private brand and manufacturer brand. Journal of Manufacturing and Tourism, 39–43.
+Ishida, C., & Taylor, S. A. (2012). Retailer brand experience, brand experience congruence, and consumer satisfaction. Journal of Consumer Satisfaction, Dissatisfaction, and Complaining Behavior,
+25, 63–79.
+Jamshidi, D., & Rousta, A. (2021). Brand commitment role in the relationship between brand loyalty
+and brand satisfaction: Phone industry in Malaysia. Journal of Promotion Management, 27(1),
+151–176.
+Japutra, A., & Molinillo, S. (2019). Responsible and active brand personality: On the relationships with
+brand experience and key relationship constructs. Journal of Business Research, 99, 464–471.
+Jung, J., Kim, M., & Suh, J. (2022). The scope of “marketing” research in the nonprofit sector: Lessons
+from the last 20 years literature. Journal of Philanthropy and Marketing. https://​doi.​org/​10.​1002/​
+nvsm.​1745 last retrieved July 10th, 2022.
+Kandil, A. (2010). An Attempt to Evaluate the Development of Arab Civil Society. In B. Korany (Ed.),
+The Changing Middle East: A New Look at Regional Dynamics (pp. 43–58). American University
+in Cairo Press.
+Keng, C. J., Tran, V. D., & Le Thi, T. M. (2013). Relationships among brand experience, brand personality, and customer experiential value. Contemporary Management Research, 9(3), 247–262.
+Khalili, S., Rahchamani, A., & Abtahi, M. (2013). Investigating the effects of brand experience, trust,
+perception image and satisfaction on creating customer loyalty: A case study of laptop market.
+Management Science Letters, 3(9), 2381–2386.
+Kim, H. Y. (2017). Statistical notes for clinical researchers: Chi-squared test and Fisher’s exact test.
+Restorative Dentistry & Endodontics, 42(2), 152–155.
+Kim, H., Kim, Y., & Choi, Y. (2001). Brand image formation through advertising: Focusing on brand
+personality and ad expression elements. The Korean Journal of Advertising, 12(3), 143–170.
+Kim, J. W., Lee, F., & Suh, Y. G. (2015). Satisfaction and Loyalty from Shopping Mall Experience
+and Brand Personality. Services Marketing Quarterly, 36(1), 62–76.
+Klaus, P., & Maklan, S. (2012). EXQ: A multiple-item scale for assessing service experience. Journal
+of Service Management, 23(1), 5–33.
+Kose, S. G., & OzerCizer, E. (2021). The Relationship between Experiential Marketing, Customer
+Satisfaction and Customer Loyalty: A Research in the Smartphone Industry (Deneyimsel
+Pazarlamanın Müşteri Memnuniyeti ve Müşteri Sadakati ile İlişkisi: Akıllı Telefon Sektörüne
+Yönelik Bir Araştırma). Business and Economics Research Journal, 12(1), 219–232.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+901
+
+Kwong, M. Z., and Candinegara, I. (2014). Relationship between Brand Experience, Brand Personality, Consumer Satisfaction, and Consumer Loyalty of DSSMF Brand. iBuss Management, 2(2),
+89–98.
+Lada, S., Suki, N. M., & Sidin, S. M. (2014). The roles of brand experience in forming loyalty intention. Labuan e-Journal of Muamalat and Society, 8, 39–49.
+Leech, N. L., Barrett, K. C., & Morgan, G. A. (2011). IBM SPSS for Intermediate Statistics : Use and
+Interpretation (4th ed.). Routledge.
+Lindenmeier, J., Arnold, C., Zogaj, A., & Tscheulin, D. K. (2021). Congruence constructs as mediators of stereotypic image perceptions’ effect on student volunteering intention. International
+Review on Public and Nonprofit Marketing, 18(4), 575–597.
+Lin, Y. C., & Huang, P. W. (2012). Effects of the Big 5 brand personality dimensions on repurchase intentions: Using branded coffee chains as examples. Journal of Foodservice Business
+Research, 15(1), 1–18.
+Lombart, C., & Louis, D. (2012). Consumer satisfaction and loyalty: Two main consequences of
+retailer personality. Journal of Retailing and Consumer Services, 19(6), 644–652.
+Maccallum,R.C., Browne, M.W. and Sugawara, H.M.(1996). Power analysis and determination of
+sample size for covariance structure modeling of fit involving a particular measure of model.
+Psychological Methods, 13(2),130–149.
+Magin, S., Algesheimer, R., Huber, F., & Herrmann, A. (2003). The impact of brand personality and
+customer satisfaction on customer’s loyalty: Theoretical approach and findings of a causal analytical study in the sector of Internet service providers. Electronic Markets, 13(4), 297–308.
+Martinez, E. Z., Tamaribuchi, R. A., Zucoloto, M. L., & Trovão, A. C. G. B. (2021). Recommendations for application and interpretation of the Blood Donor Satisfaction Questionnaire (BDSQ).
+Hematology, Transfusion and Cell Therapy, 43, 236–242.
+Melián-Alzola, L., & Martín-Santana, J. D. (2020). Service quality in blood donation: Satisfaction,
+trust and loyalty. Service Business, 14(1), 101–129.
+Mittal, V., Kumar, P., & Tsiros, M. (1999). Attribute-level performance, satisfaction, and behavioral
+intentions over time: A consumption-system approach. Journal of Marketing, 63(2), 88–101.
+Mort, G. S., Weerawardena, J., & Williamson, B. (2007). Branding in the nonprofit context: The case
+of Surf Life Saving Australia. Australasian Marketing Journal (AMJ), 15(2), 108–119.
+Mulaik, S. A., James, L. R., Van Alstine, J., Bennett, N., Lind, S., & Stilwell, C. D. (1989). Evaluation of goodness-of-fit indices for structural equation models. Psychological Bulletin, 105(3),
+430–445.
+Mumtaz, H., Islam, M. A., Ariffin, K. H. K., & Karim, A. (2011). Customers Satisfaction on Online
+Shopping in Malaysia. International Journal of Business and Management, 6(10), 162–169.
+Nguyen, D. D., DeVita, D. A., Hirschler, N. V., & Murphy, E. L. (2008). Blood donor satisfaction and
+intention of future donation. Transfusion, 48(4), 742–748.
+Nysveen, H., Pedersen, P. E., & Skard, S. (2013). Brand experiences in service organizations: Exploring the individual effects of brand experience dimensions. Journal of Brand Management, 20(5),
+404–423.
+Oliver, R. L. (1980). A cognitive model of the antecedents and consequences of satisfaction decisions.
+Journal of Marketing Research, 17(11), 460–469.
+Oliver, R. L. (1997). Satisfaction: A behavioral perspective on the consumer. McGraw-Hill.
+Oliver, R. L. (1999). Whence consumer loyalty? The Journal of Marketing, 63(4), 33–44.
+Oliver, R. L., & Linda, G. (1981). Effect of satisfaction and its antecedents on consumer preference and
+intention. Advances in Consumer Research, 8(1), 88–93.
+Park, S. Y., & Lee, E. M. (2005). Congruence between brand personality and self-image, and the
+mediating roles of satisfaction and consumer-brand relationship on brand loyalty. Asia Pacific
+Advances in Consumer Research, 6, 39–45.
+Park, M., Yoh, T., & Shonk, D. J. (2021). Antecedents and consequences of satisfaction among participants in health-affiliated charity sport events. International Journal of Event and Festival
+Management, 12(2), 105–127.
+Plummer, J. T. (1985). Brand personality: A strategic concept for multinational advertising. In Marketing Educators’ Conference. Young & Rubicam, 1–31.
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and
+comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3),
+879–891.
+
+13
+
+902
+
+B. H. Ali et al.
+
+Radler, V. M. (2018). 20 Years of brand personality: A bibliometric review and research agenda. Journal of Brand Management, 25(4), 370–383.
+Ramaseshan, B., & Stein, A. (2014). Connecting the dots between brand experience and brand loyalty: The mediating role of brand personality and brand relationships. Journal of Brand Management, 21(7–8), 664–683.
+Ramjaun, T. R. (2014). Exploring charity brand relationships in a healthcare context, unpublished
+Ph.D. dissertation, Bournemouth University.
+Ranganathan, S. K., & Henley, W. H. (2008). Determinants of charitable donation intentions: A
+structural equation model. International Journal of Nonprofit and Voluntary Sector Marketing,
+13(1), 1–11.
+Ritchie, R. J., Swami, S., & Weinberg, C. B. (1999). A brand-new world for nonprofits. International
+Journal of Nonprofit and Voluntary Sector Marketing, 4(1), 26–42.
+Rose, S., Hair, N., & Clark, M. (2011). Online customer experience: A review of the business-to-consumer online purchase context. International Journal of Management Reviews, 13(1), 24–39.
+Rup, B. K., Gochhayat, J., & Samanta, S. (2021). Revisiting brand personality attributes mediating
+role of brand attitude. International Journal of Asian Business and Information Management
+(IJABIM), 12(2), 136–124.
+Şahin, A., Zehir, C., & Kitapçı, H. (2012). The effects of brand experience and service quality on
+repurchase intention: The role of brand relationship quality. African Journal of Business Management, 6(45), 11190–11201.
+Sahoo, M. (2019). Structural equation modeling: Threshold criteria for assessing model fit. In Subudhi, R. N., Mishra, S. (Eds.), Methodological Issues in Management Research: Advances, Challenges, and the Way Ahead (269–276). Emerald Publishing Limited.
+Santos, M. and Schlesinger, W. (2021) .When love matters. Experience and brand love as antecedents
+of loyalty and willingness to pay a premium price in streaming services. Spanish Journal of
+Marketing - ESIC, 25, 3, 374–391.
+Sargeant, A. (2009). Marketing Management for Nonprofit Organizations (3rd ed.). University Press.
+Sargeant, A., Ford, J. B., & Hudson, J. (2008). Charity brand personality: The relationship with giving
+behavior. Nonprofit and Voluntary Sector Quarterly, 37(3), 468–491.
+Sargeant, A., & Woodliffe, L. (2007). Gift giving: An interdisciplinary review. International Journal
+of Nonprofit and Voluntary Sector Marketing, 12(4), 275–307.
+Shaari, H., Salleh, S. M., Yong, P. L., Perumal, S., & Zainol, F. A. (2019). Assessing the effect of university brand personality and attitude towards donation on alumni donor behavioural intention:
+Malaysian perspective. International Journal of Management in Education, 13(4), 377–396.
+Shang, J., Sargeant, A., & Carpenter, K. (2019). Giving intention versus giving behavior: How differently do satisfaction, trust, and commitment relate to them? Nonprofit and Voluntary Sector
+Quarterly, 48(5), 1023–1044.
+Sharma, S., Mukherjee, S., Kumar, A., & Dillon, W. R. (2005). A simulation study to investigate the
+use of cutoff values for assessing model fit in covariance structure models. Journal of Business
+Research, 58(7), 935–943.
+Shehu, E., Becker, J. U., Langmaack, A. C., et al. (2016a). The Brand personality of nonprofit organizations and the influence of monetary incentives. Journal of Business Ethics, 138, 589–600.
+Schlegelmilch, B. B., Diamantopoulos, A., & Love, A. (1997). Characteristics affecting charitable
+donations: Empirical evidence from Britain. Journal of Marketing Practice: Applied Marketing
+Science, 3(1), 14–28.
+Schumacker, R. E., & Lomax, R. G. (2004). A Beginner’s Guide to Structural Equation Modeling.
+Lawrence Erlbaum Associates.
+Shamim, A., & Mohsin Butt, M. (2013). A critical model of brand experience consequences. Asia
+Pacific Journal of Marketing and Logistics, 25(1), 102–117.
+Shehu, E., Becker, J. U., Langmaack, A. C., & Clement, M. (2016b). The brand personality of non organizations and the influence of monetary incentives. Journal of Business Ethics, 138(3), 589–600.
+Shim, S. I., Forsythe, S., & Kwon, W. S. (2015). Impact of online flow on brand experience and loyalty. Journal of Electronic Commerce Research, 16(1), 56–71.
+Soderlund, M., & Ohman, N. (2003). Behavioral intentions in satisfaction research revisited. Journal
+of Consumer Satisfaction Dissatisfaction and Complaining Behavior, 16, 53–66.
+Spence, M. (1973). Job market signaling. Quarterly Journal of Economics, 87, 355–374.
+
+13
+
+The effect of charity brand experience on donors’ behavioral…
+
+903
+
+Stebbins, E., & Hartman, R. L. (2013). Charity brand personality: Can smaller charitable organizations leverage their brand’s personality to influence giving. International Journal of Nonprofit
+and Voluntary Sector Marketing, 18(3), 203–215.
+Stevens, J. P. (2009). Applied multivariate statistics for the social sciences (5th ed.). Routledge
+Academic.
+Stinnett, R. C., Hardy, E. E., & Waters, R. D. (2013). Who are we? The impacts of anthropomorphism
+and the humanization of nonprofitss on brand personality. International Review on Public and
+Nonprofit Marketing, 10(1), 31–48.
+Strahilevitz, M. A. (2011). A model of the value of giving to others compared to the value of having
+more for oneself: Implications for fundraisers seeking to maximize donor satisfaction. In D. M.
+Oppenheimer & C. Olivola (Eds.), The science of giving: Experimental approaches to the study
+of charity (pp. 15–34). Taylor and Francis.
+Stride, H. (2006). An investigation into the value dimensions of branding: Implications for the charity sector. International Journal of Nonprofit and Voluntary Sector Marketing, 11(2), 115–124.
+Sung, Y., & Tinkham, S. F. (2005). Brand personality structures in the United States and Korea: Common and culture-specific factors. Journal of Consumer Psychology, 15(4), 334–350.
+Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach’s alpha. International Journal of Medical Education, 2, 53–55.
+Taylor, J. A., & Miller-Stevens, K. (2018). Relational exchange in nonprofits s: The role of identity
+saliency and relationship satisfaction. International Journal of Nonprofit and Voluntary Sector
+Marketing, 24(2), 1–12.
+Tsai, M. T., Tsai, C. L., & Chang, H. C. (2010). The effect of customer value, customer satisfaction,
+and switching costs on customer loyalty: An empirical study of hypermarkets in Taiwan. Social
+Behavior and Personality: An International Journal, 38(6), 729–740.
+Tse, D. K., & Wilton, P. C. (1988). Models of consumer satisfaction formation: An extension. Journal
+of Marketing Research, 25(2), 204–212.
+van Dijk, M., Van Herk, H., & Prins, R. (2019). Choosing your charity: The importance of value congruence in two-stage donation choices. Journal of Business Research, 105, 283–292.
+Venable, B. T., Rose, G. M., Bush, V. D., & Gilbert, F. W. (2005). The role of brand personality in
+charitable giving: An assessment and validation. Journal of the Academy of Marketing Science,
+33(3), 295–312.
+Voeth, M., & Herbst, U. (2008). The concept of brand personality as an instrument for advanced nonprofit
+branding–an empirical analysis. Journal of Nonprofit & Public Sector Marketing, 19(1), 71–97.
+Walter, N., Cleff, T., & Chu, G. (2013). Brand experience’s influence on customer satisfaction and loyalty: A mirage in marketing research. International Journal of Management Research and Business
+Strategy, 2(1), 130–144.
+Weidmann, C., Müller-Steinhardt, M., Schneider, S., Weck, E., & Klüter, H. (2013). Donor satisfaction with a new German blood donor questionnaire and intention of the donor to return for further donations. Transfusion Medicine and Hemotherapy, 40(5), 356–361.
+Westfall, P. H., & Henning, K. S. S. (2013). Texts in statistical science: Understanding advanced statistical methods. Taylor & Francis.
+Wu, C. C., Liao, S. H., Chen, Y. J., and Hsu, W. L. (2011, December). Service quality, brand image,
+and price fairness impact on the customer satisfaction and loyalty. IEEE International Conference on Industrial Engineering and Engineering Management, 1160–1164. https://​doi.​org/​10.​
+1109/​IEEM.​2011.​61180​97
+Wymer, W., & Akbar, M. M. (2019). Brand authenticity’s influence on charity support intentions.
+Journal of Nonprofit and Public Sector Marketing, 31(5), 507–527.
+Zalluhoğlu, A. E., Candemir, A., Karslı, C., & Diyadin, A. (2017). Loyalty in non-profit organizations: an explanatory research. journal of Global Strategic Management , 11(1), 075–086.
+Zeithaml, V. A., Berry, L. L., & Parasuraman, A. (1996). The behavioral consequences of service quality. Journal of Marketing, 60(2), 31–46.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a
+publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript
+version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+13
+
+

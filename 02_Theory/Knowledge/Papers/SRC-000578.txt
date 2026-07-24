@@ -1,0 +1,1372 @@
+ARTICLE
+https://doi.org/10.1057/s41599-025-04640-2
+
+OPEN
+
+Relationships between ﬁnancial transparency, trust,
+and performance: an examination of donors’
+perceptions
+1234567890():,;
+
+Ushi Ghoorah1 ✉, Edward Mariyani-Squire1 & Sabreena Zoha Amin1
+
+To better understand donors’ decisions within the nonproﬁt context, it is important to
+empirically attend to their perceptions of nonproﬁts. Drawing upon extant literature, a parsimonious conceptual model of donor perceptions is developed. Hypotheses derived from the
+model are empirically tested by means of structural equation modelling using 2017 survey
+data from 400 usable responses. The study ﬁnds positive associations between (1) perceptions of ﬁnancial transparency and perceived performance, (2) perceived ﬁnancial
+transparency and donor trust, and (3) donor trust and perceived performance. Different
+explanatory mechanisms are suggested to account for these ﬁndings. (1) could be explained
+by an ‘informational’ mechanism, whereas (2) and (3) could be explained by a ‘performative’
+mechanism. The focus on donor perceptions has important implications for regulators when
+considering the assessment of nonproﬁt disclosure practices. The ﬁndings would also be
+valuable to nonproﬁts in developing strategies aimed at legitimising their operations by
+improving perceptions of their performance and trust in their ‘organisational brand’. By
+examining subjective perceptions of transparency and performance, this paper extends the
+nonproﬁt literature on donors’ perceptions, and adds a fresh perspective to the growing body
+of work on nonproﬁt transparency.
+
+1 Western Sydney University, School of Business, Locked Bag 1797, Penrith, NSW 2751, Australia.
+
+✉email: ushi.gh@westernsydney.edu.au
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+1
+
+ARTICLE
+
+D
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Introduction
+onor perception of nonproﬁts’ performance is critical for
+the survival of these organisations (Hyndman and
+McConville 2018). Public scandals around misallocation
+of donated funds to executive salaries and inﬂated overhead costs
+(e.g., Ricketts 2021) could undermine trust, elevate perceived risks
+tied to donation use (Agyemang et al. 2019), and render stark the
+information asymmetries between donors and nonproﬁts. Thus,
+regulatory efforts focused on accountability and transparency
+seek to improve donors’ trust in the performance of nonproﬁts. In
+this study, we examine whether there are indeed empirical relationships between donors’ perceptions of ﬁnancial transparency,
+trust, and perceived performance of nonproﬁts.
+The literature on nonproﬁt accountability, transparency, trust,
+and performance is by now well established. Recent studies have
+investigated micro-level accountability of social analysis and its
+link to trust (Yates et al. 2021), the impact of ﬁnancial statement
+disclosures on credit ﬁnancing (Lancksweerdt et al. 2023), and
+implications of comprehensive accountability on program effectiveness (Hengevoss 2023). Another stream of nonproﬁt studies
+investigating accountability and transparency has focused on
+motivations of individual giving (Tremblay-Boire and Prakash
+2017), and the determinants and consequences of disclosures
+around contributions (Harris and Neely 2018). This stream also
+explores links between donors’ perceptions of the decisionusefulness of ﬁnancial disclosures and donation intentions
+(Ghoorah et al. 2021), as well as the impact on trust in
+accountability mechanisms tailored to stakeholders’ information
+needs (Hyndman and McConville 2018).
+Most of these studies attend to the objective aspects of
+accountability, transparency, and performance. What is lacking,
+however, is an examination of subjective perceptions of these
+factors. With the exception of Yang and Northcott (2018), Farwell
+et al. (2019) and Daff and Parker (2021), studies rarely ask
+whether subjective perceptions inﬂuence decisions. Yang and
+Northcott’s (2018) case study of two New Zealand charities
+attempts to understand the role of ‘identity accountability’ in
+shaping outcome measurement practices by examining staff and
+managers’ perceptions and experiences. Similarly, Daff and Parker’s (2021) interviews with accountants explore perceptions of
+factors conditioning the communication of accounting information within Australian nonproﬁts. Meanwhile, Farwell et al.’s
+(2019) survey of the Canadian public’s perceptions of ﬁnancial
+accountability, transparency, and familiarity aims to determine
+whether these factors uniquely predict trust in charitable entities.
+The knowledge of subjective perception is important because
+donors necessarily make decisions based on their perception of
+nonproﬁts’ practices, not based on the practices per se. If ﬁnancial
+disclosure actually occurs, but is not fully perceived by donors,
+then the link between objective disclosure practices and donor
+behaviour may be weakened or even broken; mutatis mutandis
+for the objective performance of nonproﬁts and donor perception
+of that performance.1 Thus, this study examines underexplored
+relationships between donor perception of nonproﬁt ﬁnancial
+transparency, trust, and perceived nonproﬁt performance. The
+conceptual model expounded below posits relationships between
+these constructs; furthermore, structural equation modelling
+using 2017 survey data from 400 responses is conducted to
+empirically test hypotheses derived from this model. The ﬁndings
+show signiﬁcant positive associations between (1) perceptions of
+ﬁnancial transparency and perceived performance, (2) perceived
+ﬁnancial transparency and donor trust, and (3) donor trust and
+perceived performance.
+In addition to extending the nonproﬁt literature on donors’
+perceptions and adding a fresh perspective to the growing body of
+work on nonproﬁt transparency, this study should be of interest
+2
+
+to regulators and stakeholders with the ability to inﬂuence not
+just nonproﬁt accountability and transparency practices per se,
+but donor perceptions thereof. The ﬁndings can be valuable to
+nonproﬁts in developing strategies aimed at legitimising their
+operations and improving perceptions of their performance.
+The paper is structured as follows: it sets out the conceptual
+framework, outlines the hypotheses, and then describes the
+research method and results. Finally, it discusses the ﬁndings,
+along with implications, limitations, and directions for future
+research.
+Conceptual framework and hypotheses
+We are interested in the relations between perceived ﬁnancial
+transparency, donor trust, and perceived performance of nonproﬁts. As with any principal-agent relationship, the problem of
+asymmetric information arises in the nonproﬁt sector: donors
+(principals) lack perfect knowledge of the decisions and operations of the nonproﬁts (agents). So, donors cannot be certain that
+nonproﬁts will always act in accordance with their professed
+missions. This can be a problem if agents are self-interested and
+their goals do not perfectly align with those of principals, as is
+often the case with for-proﬁt organisations (Akerlof 1978).
+However, nonproﬁts are different to for-proﬁt organisations in
+two fundamental ways. First, the primary purpose of nonproﬁts is
+to pursue a social purpose rather than proﬁt or revenue maximisation. Second, nonproﬁts have a non-distribution constraint:
+they have no residual claimants and are legally prohibited from
+sharing any surplus. For the purposes of this paper, nonproﬁts are
+deﬁned in this broad way. As such, all sorts of organisations may
+fall within its ambit (ranging from charities to research institutes
+to sporting clubs), as long as they do not have a proﬁt imperative
+and do not disburse any surplus to management or shareholders.
+It is commonly presumed that nonproﬁt managers will not
+pursue their self-interest and will allocate resources in line with
+donors’ expectations (Tremblay-Boire and Prakash 2017). On the
+other hand, nonproﬁts rarely seek to close the information gap
+between themselves and their donors (Ghoorah 2017), and periodic scandals involving fund misappropriation by nonproﬁt
+managers indicate abuse of these asymmetries (e.g., Brockbank
+and Beattie 2022; Hargrave 2022). These scandals do not appear
+to have permanent widespread negative effects on trust and
+conﬁdence in the sector (Chapman et al. 2021a). Nonetheless,
+scandals do elicit a ‘moral disillusionment effect’, which undermines trust in individual nonproﬁts to a greater extent than for
+proﬁt-driven companies (Chapman et al. 2022). Crucially, this
+negatively impacts their donations (Chapman et al. 2021b). What
+place does perceived ﬁnancial transparency have in this story?
+Can perceived ﬁnancial transparency of nonproﬁts impact on
+both donors’ trust and perceived performance of nonproﬁts? In
+seeking to answer these questions, we posit the following relationships: First, perceived ﬁnancial transparency positively and
+directly impacts donors’ perceptions of nonproﬁt performance.
+Second, perceived transparency positively affects donors’
+trust, and their trust is positively associated with perceived
+performance.
+Transparency-performance link. Nonproﬁts can use various
+metrics to be transparent about their efﬁciency and performance.
+Yang et al. (2017) found institutional donors to be interested in
+organisational performance as a means of distinguishing expected
+and actual outcomes. It is reasonable to assume that small individual donors would have a similar interest in such information
+so that they too can make informed donation decisions. While
+comprehensive qualitative non-ﬁnancial and quantitative
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+ﬁnancial accountability and transparency are, in principle, ideal,
+in practice there can be problems with the use of non-ﬁnancial
+reporting.
+First, there is the possibility that donors might be overwhelmed
+by too many signals of performance, leading to information
+overload (Tremblay-Boire and Prakash 2017). Second, because
+qualitative non-ﬁnancial information can be heterogeneous and
+incommensurable, and does not have a standardised format for
+reporting, donors may be uncertain about the overall performance of a nonproﬁt despite receiving this information (Yang
+et al. 2017). Indeed, individual donors could perceive overwhelming and/or unintelligible disclosures as de facto nondisclosure. By contrast, ﬁnancial disclosures are in principle
+relatively easy to compare because they are quantitative, have a
+standardised format, occur regularly, and generally adhere to
+well-known accounting standards and methodologies. Financial
+disclosures thus tend to be deemed trustworthy because of these
+characteristics of standardisation, conformity, and reliability
+(Cordery and Baskerville 2011). Further, although they are
+certainly limited in their scope, ﬁnancial disclosures do contain
+information that is valuable to donors’ assessment of nonproﬁt
+performance with respect to mission outlays and non-missionrelated expenses.
+Given that ﬁnancial transparency is perceived to be a relatively
+reliable and accurate, if limited, form of performance disclosure
+to donors, there is a prima facie link between perceived ﬁnancial
+transparency and perceived performance. With more ﬁnancial
+information at donors’ disposal, the problem of asymmetric
+information between nonproﬁts and donors is reduced: donors’
+risks are reduced because they are better able to assess the
+performance of nonproﬁts with respect to their expenditure and
+mission goals. Without such transparency, donors would be
+largely ignorant of nonproﬁts’ operations, less able to assess the
+performance of nonproﬁts, and therefore, be less likely to perceive
+nonproﬁts’ performance favourably. Indeed, donors who may not
+fully understand ﬁnancial disclosures (Tremblay-Boire and
+Prakash 2017) may interpret a lower perceived level of
+transparency as an indication of poor performance being hidden
+by the nonproﬁt. On the other hand, higher perceived
+transparency may indicate that performance is ‘on track’ and
+striving to achieve its mission (Dhanani and Connolly 2012;
+Harris and Neely 2018).
+Transparency-trust-performance links. As Yates et al. (2021)
+have pointed out, transparency and trust are fundamentally
+intertwined. We argue that donor trust in a nonproﬁt is garnered
+by demonstrating legitimacy via ﬁnancial transparency. Organisation legitimacy – a generalised perception that the actions of an
+organisation align with expected social ‘norms, values, beliefs, and
+deﬁnitions’ (Suchman 1995, p.574) – is widely regarded as being
+essential to the long-term sustainability of an organisation. As
+articulated by Yasmin and Ghafran (2021), there are different
+kinds of legitimacy: pragmatic, cognitive and moral. Pragmatic
+legitimacy, where the organisation fulﬁls direct exchanges with an
+immediate target group, represents the weakest form of legitimacy as it can be gained by engaging in activities that are
+favoured by powerful stakeholders only (for example, accounting
+practices that are seen favourably by government agencies,
+powerful donors, or lobbying networks). Cognitive legitimacy
+refers to the legitimacy gained by an organisation behaving in a
+way that is comprehensible – ‘when the organisation undertakes
+those activities which are proper and ‘making sense’ to society’
+(Yasmin and Ghafran 2021, p.402). To achieve moral legitimacy,
+an organisation seeks to publicly demonstrate adherence to
+socially acceptable moral values. This type of legitimacy can be
+
+ARTICLE
+
+subdivided into three types: structural, where the organisation
+possesses characteristics deemed intrinsically worthy of support;
+procedural, where the organisation adopts best practices; and
+consequential, where the organizsation achieves acceptable outcomes (Suchman 1995).
+Couched in terms of a principal-agent relationship, trust is a
+principal’s belief that the agent will fulﬁl its mutually understood
+promises to the principal (Yates et al. 2021). Trust is neither blind
+faith nor probabilistic ‘conﬁdence’ (Sargeant and Lee 2002). In
+the case of impersonal relations between a principal and agent,
+the grounds for an agent’s trust lie with the perceived veridical
+legitimacy of the principal. So, to garner trust, an agentorganisation must publicly demonstrate pragmatic, cognitive,
+and moral legitimacy to agents. This can be achieved by publicfacing activities and documentation – or in other words, by
+transparent practices of accountability. Indeed, Yasmin and
+Ghafran (2021, p.401) go so far as to deﬁne accountability as
+the ‘process of managing, navigating, and nurturing legitimacy.’
+Generally, when the legitimacy of an organisation is threatened, it
+adopts restorative strategies, and this often involves greater
+transparency via disclosures (Suchman 1995) since this is
+symbolic of a professional, well-structured organisation (Harris
+and Neely 2018). It is thus reasonable to expect nonproﬁts to be
+strategic in their transparency (via disclosures) to enhance their
+legitimacy. This aligns with Connolly and Hyndman’s (2013,
+p.259) ﬁnding that nonproﬁts view the provision of formal
+information as ‘having signiﬁcance’ and serving as ‘an important
+legitimising tool’.
+Thus, we posit that perceived ﬁnancial transparency of
+nonproﬁts is an important legitimisation strategy (Dhanani and
+Connolly 2012; Saxton et al. 2012), and it is perceived legitimacy
+that engenders donor trust in a nonproﬁt. When an agent is
+transparent with its principal about its operations and its
+achievements (as well as its failures), it provides evidential
+grounds for greater trust in it. We suggest that this epistemic logic
+holds for nonproﬁts. Speciﬁcally, nonproﬁts which are perceived
+to engage in acts of ﬁnancial transparency via ﬁnancial
+disclosures, signal their legitimacy (cf. Dhanani and Connolly
+2012; Saxton et al. 2012) and thus elicit greater trust that they will
+act in accordance with their social mission (Yang and Northcott
+2019). (Concomitantly, a failure to be ﬁnancially transparent
+would tend to lead to donor suspicions – a loss of trust – about
+whether a nonproﬁt is properly allocating its resources to its
+social mission.) Indeed, even if small donors are not overly
+interested in a detailed engagement with ﬁnancial reports, then it
+is possible the sheer perception of the existence of ﬁnancial
+disclosures engenders trust that the nonproﬁt is serving its
+mission adequately. In short, donors’ perceptions of performance
+are positively affected by their trust in the disclosing nonproﬁt
+(Yates et al. 2021).
+In all the above, we focus on perceived ﬁnancial transparency,
+trust, and perceived performance to emphasise the perspective
+of donors, rather than on the objective behaviour of nonproﬁts.
+In sum, we posited two kinds of pathways linking perceived
+nonproﬁt ﬁnancial transparency and perceived nonproﬁt
+performance. First, donor perception of performance is directly
+linked back to their perception of ﬁnancial transparency. If
+donors perceive nonproﬁts to be ﬁnancially transparent, they
+will be better informed about the performance of these
+organisations and will be more likely to perceive such
+performance favourably compared to ﬁnancially opaque nonproﬁts. Second, donor perception of nonproﬁt performance is
+indirectly linked back to their perception of ﬁnancial transparency via trust; that is, trust functions as the bridge between
+perceived transparency and perceived performance: (a) If
+donors perceive a nonproﬁt to be ﬁnancially transparent, this
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+3
+
+ARTICLE
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+signals organisational legitimacy which engenders donor trust;
+and (b) this trust has a favourable impact on donor perception
+of the organisational performance. The empirical hypotheses
+arising out of this conceptualisation are:
+Hypothesis (H1): There is a positive relationship between
+donor perception of nonproﬁt ﬁnancial transparency and their
+perception of nonproﬁt performance.
+Hypothesis (H2): There is a positive relationship between
+donor perception of nonproﬁt ﬁnancial transparency and their
+trust in nonproﬁts.
+Hypothesis (H3): There is a positive relationship between
+donor trust in nonproﬁts and their perception of nonproﬁt
+performance.
+Diagrammatically, the three hypotheses can be represented as
+follows (Fig. 1).
+Methods
+Study context and data collection. Data was collected from the
+Australian nonproﬁt sector, a sector which is large and diverse
+with around 600,000 organisations, including over 60,000 charities2 registered with the Australian Charities and Not-for-Proﬁt
+
+Fig. 1 The conceptual model.
+
+Commission (ACNC) (ACNC 2024)3. The charitable sector
+employs 10.5% of the Australian labour force, receives $200 billion annual revenue to cover over $195 billion of expenses
+(including $108 billion in employee costs, and $74 billion in rent,
+fundraising expenses, administration, grants and donations), and
+contributes to social welfare across 864 program classiﬁcations
+(including health, education, social welfare, human rights, religion, animals and environment) (ACNC 2024). More than 51%
+of Australian charities are extra small and small (i.e., receive less
+than $250,000 in annual revenue) and less than 5% of charities
+are very large and extra-large (i.e., receive between $10 million
+and $100 million in annual revenue). While the sector as a whole
+is heavily reliant on individual donations ($13.9 billion in 2023, of
+which the top 304 charities and group received 20%) and
+volunteering (3.5 million volunteers), extra small charities5 are
+almost entirely dependent on these resources (88% of extra small
+charities have no paid staff and receive only 0.1% of the sector’s
+income) to operate (ACNC 2024). Given links between perceptions of ﬁnancial disclosures and donation intentions (Ghoorah
+et al. 2021) and the dependence of the sector on volunteering and
+donations, it is essential to understand relationships between
+individual donors’ perceptions of nonproﬁts (including charities),
+ﬁnancial transparency, and performance.
+A survey questionnaire was used to collect data. In the second
+half of 2017, 1305 random individuals across Australia were emailed
+an invitation with the survey link (no incentive was provided). The
+sample was restricted to individuals residing in Australia with an
+initial screening question (Are you an Australian resident?). Within
+a week, 465 participants had completed the survey. After removing
+responses with incomplete data (45) and responses with missing
+demographic information (20), an effective sample of 400 responses,
+representing a response rate of 32.25%, was ﬁnalised.
+Roughly an equal number of males (51.25%) and females
+(48.75%) participated in the survey, and the sample was also
+roughly equally divided between donors (48.5%) and non-donors
+(51.5%). Most of the respondents were aged between 18 and 54
+years (80.75%); half were employed (50.75%); 40% had a
+bachelor’s degree or higher; and 50% had at least 10 years of
+working experience. The respondents’ demographic characteristics are summarised in Table 1.
+
+Table 1 Sample demographic proﬁle.
+Variables
+
+Frequency (%)
+
+Gender
+Male
+Female
+Age
+18–34
+35–54
+55–74
+75 and above
+Distribution by State/Territory
+New South Wales (NSW)
+Australian Capital Territory (ACT)
+Victoria (VIC)
+Tasmania (TAS)
+Queensland (QLD)
+South Australia (SA)
+Western Australia (WA)
+Northern Territory and Others
+Donor status
+Donor
+Non-donor
+
+205 (51.25)
+195 (48.75)
+176 (44.00)
+147 (36.75)
+59 (14.75)
+18 (4.50)
+120 (30.00)
+7 (1.75)
+101 (25.25)
+9 (2.25)
+81 (20.25)
+33 (8.25)
+46 (11.50)
+3 (0.75)
+
+Variables
+Educational qualiﬁcation
+Diploma or lower
+Bachelor equivalent
+Master or equivalent
+PhD or equivalent
+Occupation Status
+Full time (30+ hours per week)
+Part time (less than 29 h per week)
+Home duties (looking after dependents)
+Student
+Retired
+Unemployed & Others
+Tenure (length of work experience)
+Below 2 years
+2–5 years
+5–7 years
+7–10 years
+10 years and above
+
+194 (48.5)
+206 (51.5)
+
+Note: % have been rounded to 2dp.
+
+4
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+Frequency (%)
+239 (59.75)
+117 (29.25)
+40 (10.00)
+4 (1.00)
+134 (33.50)
+69 (17.25)
+23 (5.75)
+58 (14.50)
+72 (18.00)
+44 (11.00)
+83 (20.75)
+67 (16.75)
+30 (7.50)
+19 (4.75)
+201 (50.25)
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Non-response bias. Non-response bias was assessed via wave
+analysis (Armstrong and Overton 1977). The sample was divided
+into the ﬁrst and last 200 responders (following Baah-Peprah et
+al. 2024). Table 2 illustrates the signiﬁcance of differences
+between the two waves of respondents for demographic factors.
+No evidence was identiﬁed for signiﬁcant non-response bias in
+the sample.
+Normality check. To check for normality of the data set, several
+tests were applied, including the Shapiro and Wilk, KolmogorovSmirnov (KS), Skewness, and Kurtosis tests, as well as graphical
+methods (namely, P-P plots and histograms). The data follows a
+normal distribution.
+Constructs and measurements. The survey instrument consisted
+of the measurement scale items for the constructs covered in the
+theoretical model and respondents’ demographic details. The
+questionnaire gave a broad deﬁnition of nonproﬁts: ‘Not-forproﬁt organisations include social clubs, research institutes, education and training institutions, charities, culture and art organisations, libraries and museums’. This deﬁnition refers to
+examples of types of nonproﬁts, rather than the legal deﬁnitions
+used by regulators. During the pilot testing of the questionnaire, it
+became clear that laypeople related better to examples. For the
+three constructs, participants were asked to indicate their level of
+agreement with item-statements using a 5-point Likert scale
+ranging from ‘strongly disagree’ (1) to ‘strongly agree’ (5). Higher
+scores were taken to be indicative of higher levels on each
+Table 2 Non-response bias check.
+
+Gender
+Age
+Donor status
+Educational
+qualiﬁcation
+Tenure (length of
+work experience)
+
+Mean of 1st
+respondents
+
+Mean of 2nd
+respondents
+
+T
+
+p-value
+
+1.51
+2.78
+1.53
+1.57
+
+1.46
+3.09
+1.49
+1.47
+
+0.89
+−1.9
+0.75
+1.38
+
+0.377
+0.062
+0.455
+0.168
+
+3.48
+
+3.46
+
+0.12
+
+0.906
+
+ARTICLE
+
+construct. The discrete response categories did not allow
+respondents to indicate partial scores. The statements or scale
+items were selected for their relevance and their plain, unambiguous language.
+The constructs used in this study were measured using scales
+adapted or created based on existing literature. The ﬁve items for
+‘Perceived ﬁnancial transparency’ were modiﬁed from Piotrowski
+and Van Ryzin (2007) and Cho et al. (2009). The scale included
+items such as, “It is important to be able to get any ﬁnancial
+statement information you want from a not-for-proﬁt organisation,” “The public, in general, has a right to know about everything
+a not-for-proﬁt organisation does,” and “Every member of the
+public should have complete access to information about not-forproﬁt organisations.” A three-item ‘Trust’ scale was adapted from
+Stanaland et al. (2011) which included “I believe the ﬁnancial
+information provided by Australian not-for-proﬁt organisations,”
+“Australian not-for-proﬁt organisations do not make false claims”
+and “I trust Australian not-for-proﬁt organisations to be frank”
+items. ‘Perceived performance’ was measured with a seven-item
+scale adapted from Dellaportas et al. (2012). Sample items of the
+scale included: “Financial information which provide assurance
+that the not-for-proﬁt organisation is effective in achieving the
+results intended,” “Financial information which show that the notfor-proﬁt organisation spends on its agreed objectives,” and
+“Financial disclosures which show the net surplus/loss of the notfor-proﬁt organisation (revenue minus loss)”. Table 3 summarises
+constructs, indicators and their loadings.
+Measurement model. AMOS Version 23 (Arbuckle 2014) was
+used to evaluate the ﬁt of both the measurement model and the
+structural model. To validate the measurement model, an
+Exploratory Factor Analysis (EFA) was ﬁrst conducted using
+Principal Axis Factoring with Promax rotation. Three factors with
+eigenvalues greater than 1 were retained. The EFA revealed a
+three-factor structure that explained 68.32 of the total variance.
+Items with factor loadings above 0.50 were retained for further
+analysis.
+Conﬁrmatory Factor Analysis (CFA) was then performed to
+test the factor structure obtained from EFA. All standardised
+factor loadings were signiﬁcant and exceeded 0.70, indicating
+strong item reliability to evaluate the distinctiveness of the scales
+
+Table 3 Constructs, indicators, and loadings.
+Constructs and corresponding indicators
+Perception of ﬁnancial transparency
+It is important to be able to get any ﬁnancial statement information you want from a not-for-proﬁt organisation.
+The public, in general, has a right to know about everything a not-for-proﬁt organisation does.
+Every member of the public should have complete access to information about not-for-proﬁt organisations.
+Not-for-proﬁt records belong to the public in general, not the not-for-proﬁt organisation.
+Financial transparency is key to ﬁghting fraud by not-for-proﬁt organisations.
+Trust
+I believe the ﬁnancial information provided by not-for-proﬁt organisations.
+Not-for-proﬁt organisations do not make false claims.
+I trust not-for-proﬁt organisations to be frank.
+Perceived performance
+Financial information which provides assurance that the not-for-proﬁt organisation is effective in achieving the results intended
+Financial information which shows that the not-for-proﬁt organisation spends on its agreed objectives
+Financial disclosures which show the net surplus/loss of the not-for-proﬁt organisation (revenue minus loss)
+Financial statement information which has been prepared following accounting standards designed and dedicated to not-for-proﬁt
+organisations
+Financial information about spending as a percentage of income by the not-for-proﬁt
+Financial information about the cash in minus cash out of the not-for-proﬁt organisation
+Not-for-proﬁt ﬁnancial statement information which has been prepared in accordance with accounting standards used in the for-proﬁt
+sector
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+Item loading
+0.797
+0.824
+0.814
+0.701
+0.726
+0.814
+0.83
+0.826
+0.792
+0.797
+0.827
+0.838
+0.831
+0.791
+0.794
+
+5
+
+ARTICLE
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+With
+control
+
+Table 4 Model ﬁt.
+
+6
+
+Without
+control
+
+0.569
+
+With
+control
+
+0.357
+0.677
+0.677
+0.862
+0.863
+0.863
+
+0.862
+
+0.744
+0.746
+0.656
+0.657
+0.93
+0.93
+0.93
+
+0.93
+
+0.6
+0.599
+
+Perception of
+ﬁnancial
+transparency
+Perceived
+performance
+Trust
+
+0.88
+0.88
+0.88
+
+0.88
+
+0.356
+
+0.57
+
+Without
+control
+With
+control
+Without
+control
+With
+control
+Without
+control
+With
+control
+Without
+control
+With
+control
+Without
+control
+
+Table 5 Reliability and validity measures.
+
+AVE
+
+Validity and reliability. In order to assess the reliability and
+validity of the constructs, Cronbach’s Alpha, Composity Reliability (CR), and Average Variance Extracted (AVE) values were
+calculated. As shown in Tables 5 and 6, all constructs exceeded
+the recommended threshold values of 0.70 for Cronbach’s alpha
+and composite reliability ranged from 0.86 to 0.93. Convergent
+validity was assesses through the AVE, with all constructs
+achieving values greater than 0.50, demonstrating the constructs
+captured more than half of the variance in their indicators (Hair
+et al. 2010). Discriminant validity was assessed using the
+Heterotrait-Monotrait ration (HTMT) as recommended by
+Henseler, Ringle, and Sarstedt (2015). The HTMT values for all
+construct pairs were below the threshold of 0.85, indicating sufﬁcient discriminant validity.
+Common method bias. We used the CFA marker technique to
+test for the presence of common method variance (Williams et al.
+2010). Results indicated that method effects were present, but not
+problematic. The chi-square difference test between the Baseline
+model and the Method-C model indicated that the two models
+were signiﬁcantly different from one another (χ²diff = 85.55,
+Δdf = 1, p < 0.05). Additionally, a comparison of the Method-C
+and Method-U models indicated that the impact of the method
+variable was not the same for all the items (χ²diff = 146.48,
+Δdf = 18, p < 0.05). The Method-U model showed that nine of the
+20 items were contaminated by a source of common method
+variance captured by the marker variable, with a median value of
+0.18. As the square of these values indicates the percentage of
+variance in the factors associated with the marker variable, the
+median amount of marker variance in each factor was only 3%.
+This indicates that common method variance was not a serious
+problem (Williams et al. 2010).
+
+Perceived performance
+
+used in this study. Model ﬁt was assessed using various goodnessof-ﬁt indices. As shown in Table 4, the chi-sqare statistic was
+signiﬁcant (χ2 = 278.024, df = 87, p < 0.001), which is expected
+with larger sample sizes. The CFI and TLI values were 0.952 and
+0.943, respectively, both exceeding the threshold of 0.90,
+indicating an acceptable ﬁt (Bagozzi and Yi 2012). Additionally,
+the RMSEA value was 0.074, which is below the recommended
+cut-off of 0.08, and the SRMR value of 0.036 was also below 0.08,
+suggesting a good ﬁt. The normed χ2/df ratio of 3.196 slightly
+exceeds the recommended range of 1 to 3 (Marsh and Hocevar
+1985). However, as suggested by Bentler (1990), this does not
+automatically indicate poor model ﬁt. Complementary ﬁt indices,
+such as CFI and TLI, should be considered to provide a broader
+perspective on model adequacy.
+
+Perception of ﬁnancial
+transparency
+
+Heterotrait-monotrait Ratio (HTMT)
+
+340.142
+400
+148
+0.00
+2.98
+0.057
+0.034
+0.926
+0.944
+0.956
+
+Composite reliability
+
+With control
+
+278.024
+400
+87
+0.00
+3.196
+0.074
+0.036
+0.933
+0.943
+0.952
+
+Cronbach alpha
+
+Without control
+
+Constructs
+
+Chi-square
+Number of observations
+Degrees of freedom
+P value
+ChiSqr/df
+RMSEA
+SRMR
+NFI
+TLI
+CFI
+
+Trust
+
+Estimated model
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+ARTICLE
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Table 6 Standardised estimates from the proposed structural model.
+Hypothesis
+
+Path
+
+Standardised path coefﬁcient (β)
+
+T-value
+
+p-value
+
+Results
+
+H1
+H2
+H3
+
+Perception of ﬁnancial transparency → Performance
+Perception of ﬁnancial transparency → Trust
+Trust → Performance
+
+0.618
+0.344
+0.356
+
+11.859
+4.929
+6.451
+
+<0.001
+<0.001
+<0.001
+
+Supported
+Supported
+Supported
+
+Fig. 2 The estimated path model with control variables. Solid lines represent signiﬁcant paths.
+
+Results
+The proposed structural model was estimated following Anderson and Gerbing’s (1988) two-step approach. In the ﬁrst step, all
+construct items were analysed in a Conﬁrmatory Factor Analysis
+(CFA) to assess the construct validity of the measurement model.
+In the second step, structural models were run with clean measures to test the hypothesised model.
+Hypothesis testing (path analysis). Path analysis was conducted
+to examine the relationships between perception of ﬁnancial
+transparency and performance, perception of ﬁnancial transparency and trust, and trust and performance, as outlined in the
+three hypotheses. The result in Table 5 provided support for all
+proposed hypotheses.
+Donor perception of ﬁnancial transparency was positively
+related to donor perception of nonproﬁt performance (β = 0.632,
+p < 0.001), supporting H1. Donor perception of nonproﬁt
+ﬁnancial transparency was positively associated with donor trust
+in nonproﬁts (β = 0.35, p < 0.001), supporting H2. Finally, donor
+trust in nonproﬁts was positively associated with donor
+perception of nonproﬁt performance (β = 0.36, p < 0.001), thus
+supporting H3. Squared multiple correlations were also assessed.
+Overall, the model explained approximately 66% of the variance
+in perceived performance owing to trust as opposed to
+approximately 12% due to transparency.
+Control variables. To ensure the robustness of our results and
+eliminate the potential inﬂuence of confounding factors, we
+controlled for gender, age, education, tenure, and donor status to
+examine the model. Two separate models were tested – one
+excluding control variables and the other including them.
+
+The results of the analysis showed that none of the control
+variables had a signiﬁcant impact on ﬁnancial performance
+except for education. Speciﬁcally, age was not signiﬁcantly related
+to ﬁnancial performance (β = 0.06, p > 0.05), gender (β = −0.026,
+p > 0.05), tenure (β = −0.018, p > 0.05), and donor status
+(β = −0.015, p > 0.05). Among all control variables, only education was found to be signiﬁcantly related to ﬁnancial performance
+(β = 0.118, p < 0.05). These results are reported in Fig. 2.
+Model ﬁt indices, and validity and reliability constructs for
+both models are presented in Tables 4 and 5, respectively. The
+results indicate that both models demonstrated acceptable ﬁt to
+the data, as reﬂected by the reported indices. Speciﬁcally, the
+model excluding control variables had a chi-square value of
+278.024 (degrees of freedom = 87), while the model including
+controls reported a chi-square value of 340.142 (degrees of
+freedom = 148). Both models yielded statistically signiﬁcant pvalues (p < 0.001), which is common in large sample sizes. The
+chi-sqare to degrees of freedom ratio (χ2/df) improved from 3.196
+(without controls) to 2.98 (with controls), suggesting a better
+model ﬁt with controls. The root mean square error of
+approximation (RMSEA) decreased from 0.074 (without controls) to 0.057 (with controls), indicating improved model ﬁt
+when controls were included. The standardised root mean square
+residual (SRMR) values were 0.036 and 0.034 for the models
+without and with control respectively, both of which fall within
+acceptable thresholds (<0.08). Both models exhibited strong
+comparative ﬁt indices. The explanatory power, measured using
+R2 values, was consistent across both models. With control, the
+results R2 for performance was 0.669, and for trust, it was 0.168.
+which indicate a marginal increase in explanatory power for the
+model with controls, through the difference is minor.
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+7
+
+ARTICLE
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Overall, the inclusion of control variables improved the model
+ﬁt indices (e.g., lower RMSEA and χ2/df) and slightly enhanced
+the explanatory power. These results conﬁrm that the key
+relationships in the model are consistent regardless of the
+inclusion of control variables, afﬁrming the robustness of the
+main model and the conclusions drawn from it.
+Additional analysis. A multi-group comparison (Byrne 2016)
+was conducted with two sub-samples of survey participants –
+‘Donors’ (n = 196) and ‘Non-Donors’ (n = 204) – to check
+whether the sample variances and covariances from each subsample came from the same population in relation to the proposed model. This is consistent with invariant testing (e.g.,
+Vandenberg and Lance 2000) by comparing an unconstrained
+model of variances and covariances of the measured variables to
+one in which the variances and covariances are constrained to
+equality across groups (not tabulated). Following chi-square test
+statistics for the nested model, the Δχ2 test between the unconstrained and measurement weights model (χ2(12) = 0.978,
+p = 0.467) was found to be insigniﬁcant. This further implies our
+variance-covariance matrices are equivalent across the subsamples. Hence, the model had measurement and structural
+invariance for all parameter estimates and so no further tests were
+conducted (Vandenberg and Lance 2000). We also checked in
+case the ‘number of years of donor contribution’ had any effect on
+the proposed model. The result, however, did not ﬁnd any signiﬁcant relationship (β = 0.065, p > 0.05).
+Discussion
+Interpretations. The ﬁrst major ﬁnding is that H1 was conﬁrmed: a strong positive relationship exists between donor perception of nonproﬁt ﬁnancial transparency and perception of
+nonproﬁt performance. Taking this ﬁnding to be indicative of a
+direct link, however, does not establish the precise mechanism
+involved. There are at least two possible interpretations of this
+direct link. One may be called a ‘calculative’ interpretation:
+donors make rational decisions based on a calculation of expected
+performance. If perceived performance of a nonproﬁt is conceptualised by donors as a function of stated mission outcomes
+relative to the risk of donations being used inappropriately, then
+in the donors’ calculus, greater ﬁnancial transparency (that is, the
+provision of information impacting favourably on estimated risk)
+would translate into higher estimated perceived performance,
+ceteris paribus.
+The other interpretation may be called ‘strategic’. It is based on
+the idea that donors believe the disclosures made by nonproﬁts
+are self-interested. As such, if donors believe that nonproﬁts use
+ﬁnancial disclosures as a strategic means of publicising actual
+good performance, they tend to perceive those disclosures to be
+accurate signals of performance.6 Conversely, if donors perceive
+low levels of ﬁnancial disclosure as a signal of nonproﬁts
+strategically avoiding the publicising of performance, they will
+perceive the performance to have been poor. In this way, a link
+between perceived ﬁnancial disclosures and perceived nonproﬁt
+performance is established.
+Although both the ‘calculative’ and ‘strategic’ interpretations of
+the direct link between perceived ﬁnancial transparency and
+perceived performance are plausible, they are both premised on
+the assumption that the primary function of ﬁnancial disclosures
+is informational (thereby mitigating the asymmetric information
+problem). However, we also know from previous studies7 that at
+least some donors may not be interested in nor fully understand
+the details of ﬁnancial statements. For these donors, the above
+explanations of the link are prima facie inadequate: donors who
+are uninterested in and/or unable to comprehend formal
+8
+
+disclosures cannot make calculative or strategic assessments of
+performance based on the information contained in ﬁnancial
+statements. For this reason, another pathway linking perceived
+ﬁnancial transparency and perceived performance is required.
+This pathway, via the bridge of donor trust, was captured by H2
+and H3.
+The second major ﬁnding is that H2 was conﬁrmed: there is a
+strong positive relationship between donor perception of
+nonproﬁt ﬁnancial transparency and trust in the organisation.
+This supports the contention that perceived ﬁnancial transparency can have a powerful impact in convincing donors of the
+legitimacy of a disclosing nonproﬁt (Dhanani and Connolly
+2012), which in turn engenders trust.
+This entails a qualitatively different interpretation to the
+calculative and strategic interpretations given for H1. For H2, we
+posit that ﬁnancial disclosures by nonproﬁts serve another
+purpose: a performative function wherein ﬁnancial disclosures
+are perceived as signalling or ‘performing’ legitimacy. Perceived
+disclosures (a) give pragmatic legitimacy to a nonproﬁt by
+indicating a willingness to be accountable to key stakeholders,
+including charity regulators. They (b) facilitate cognitive
+legitimacy by disclosing the basic purposes of fund allocation.
+Lastly, (c) perceived disclosures give moral legitimacy to the
+nonproﬁt, especially in its procedural dimension by conforming
+to socially recognised or regulated accounting norms, and in its
+consequential dimension by demonstrating effort to achieve its
+mission (cf. Yasmin and Ghafran 2021). When a nonproﬁt can
+achieve such manifold legitimacy, donors are more likely to trust
+that it will honestly strive to achieve its promissory mission by
+using its donations in a manner that is not wasteful or ethically
+dubious (Yates et al. 2021). Conversely, a nonproﬁt that fails to
+performatively indicate its manifold legitimacy through the signal
+of ﬁnancial disclosure is likely to be less trusted by current and
+potential donors.
+The third major ﬁnding is that H3 was conﬁrmed: there is
+strong empirical support for a positive relationship between
+donors’ trust in a nonproﬁt and their perception of nonproﬁt
+performance. In the absence of perfect knowledge, if donors come
+to trust that a nonproﬁt is pragmatically, cognitively, and morally
+legitimate, they are likely to form afﬁrmative presumptive
+perceptions of a nonproﬁt’s current and future performance.
+Conversely, if donors have lower levels of trust in a nonproﬁt,
+they are likely to presumptively perceive its performance poorly.
+All this is to say that trust in a nonproﬁt has a causal impact on
+perceptions of its performance (potentially irrespective of actual
+performance).
+Considering the interpretations of the ﬁndings regarding H2
+and H3 together, it is possible that the perception of the existence
+of ﬁnancial disclosure reports, regardless of their informational
+content, acts as a performative signal to donors of nonproﬁt
+legitimacy. This, in turn, fosters trust that the nonproﬁt is using
+its donated funds appropriately and is serving its mission
+adequately. In other words, donors’ perceptions of performance
+are positively inﬂuenced by their trust in the nonproﬁt.
+Finally, the results indicated that the control variable of
+education was signiﬁcantly positively related to perceived
+ﬁnancial performance. A possible explanation for this, which
+coheres with the hypotheses, is this: it is possible that individuals
+with higher education levels are more likely to have greater
+ﬁnancial literacy, which would enable them to interpret ﬁnancial
+transparency disclosures, leading to a more informed and
+favourable perceptions of nonproﬁt ﬁnancial performance.
+Further, more educated individuals may have higher expectations
+for transparency and accountability. If they perceive a nonproﬁt
+to be ﬁnancially transparent, they might be more inclined to trust
+the organisation and assess its performance favourably.
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Implications. An obvious implication of these ﬁndings is that
+nonproﬁts can beneﬁt from being perceived as ﬁnancially
+transparent. Perceived transparency of a nonproﬁt’s ﬁnancial
+situation offers two main advantages: (1) it provides donors with
+valuable information with which they can make more informed
+(less risky) decisions, and (2) it gives a nonproﬁt legitimacy
+which engenders donor trust – both of which favourably inﬂuence donors’ perceptions of nonproﬁt performance. If donors
+have a positive perception of a nonproﬁt’s performance, the
+organisation is more likely to retain, and perhaps increase, donor
+patronage, thereby providing the basis for its ﬁnancial sustainability (Saxton et al. 2012).
+Given the beneﬁts of ﬁnancial transparency, an argument could
+be made for voluntary self-regulation by nonproﬁts. This
+argument is a variation on the general free market argument
+advanced by some economists (e.g., Jones 1995), wherein
+nonproﬁts perceived to be ﬁnancially transparent will establish
+superior reputations to those that don’t. Risk-averse donors will
+shift their donations to transparent nonproﬁts. Opaque nonproﬁts either must become ﬁnancially transparent too or be
+driven out of the ‘market’ due to loss of donations. On this
+argument, in the long run, all surviving nonproﬁts will be
+voluntarily transparent.
+The chief problem with this argument is that ‘the long run’ is a
+theoretical idealisation. The real ‘market’ for donations is
+populated by nonproﬁts with differing levels of legitimacy and
+response capacities, and thus heterogeneous ‘lag times’ in reacting
+to changes in donation income. Further, new nonproﬁts are
+continually entering the market, and will necessarily go through a
+process of discovering the important links between perceived
+disclosures, trust, perceived performance, and donations. The
+length of this process cannot be known a priori and is likely to be
+variable. Further, although major institutional donors may be able
+to exert pressure on nonproﬁts to improve transparency, this
+need not always occur; and such pressure does not necessarily
+translate into transparency for small individual donors. Small
+donors simply do not possess the power to demand ﬁnancial
+transparency that serves their needs (Yang et al. 2017). This
+means, at best ‘market forces’ only imperfectly and unevenly
+‘discipline’ nonproﬁts. It is thus not unsurprising that in fact
+there is often a lack of voluntary ﬁnancial transparency within the
+nonproﬁt sector (Ghoorah 2017). Nor is it surprising that
+scandals of misappropriation, embezzlement, and mismanagement periodically occur (e.g., Brockbank and Beattie 2022;
+Hargrave 2022). As such, there are grounds for skepticism about
+the market’s capacity to systematically transmit to nonproﬁts the
+message that perceived transparency is important to their
+ﬁnancial sustainability (Ghoorah et al. 2021). In short, the hope
+of universal, voluntarily self-imposed ﬁnancial transparency by
+nonproﬁts seems unrealistic.
+We therefore believe that policy makers and regulators have a
+responsibility to impose sectoral requirements on nonproﬁts to be
+ﬁnancially transparent as the ﬁrst step to signalling a nonproﬁt’s
+legitimacy. Indeed, this is precisely what has happened in several
+countries, where regulatory agencies have adopted various
+strategies to build trust through accountability and transparency.
+These approaches include a mix of enforcing regulatory
+compliance, educating nonproﬁts about accountability, and
+actively engaging in trust-building efforts with the public (Yang
+and Northcott 2021). Yet despite these efforts, the nonproﬁt
+sector continues to struggle to achieve public trust via accountability and transparency (Hyndman and McConville 2018). This
+might be because the focus of regulators is on formal transparent
+accountability per se, without giving due consideration to donors’
+perceptions of transparency. We know, for instance, that donors
+often have a limited appreciation or understanding of disclosures
+
+ARTICLE
+
+imposed by accountability requirements, such as standardised
+ﬁnancial disclosure statements (Connolly and Hyndman 2013;
+Ghoorah et al. 2017).
+To improve perceptibility of transparency, regulatory bodies
+should consider prescribing and monitoring the language and
+formats of disclosure statements to non-specialist audiences
+(Yang and Northcott 2019). By using clear, non-technical
+language and formats that do not ‘overload’ donors with
+extraneous detail, nonproﬁts’ ﬁnancial disclosure statements
+would be more likely to be understood by donors, thereby
+garnering a favourable perception of disclosure (Ghoorah et al.
+2017). This may further enhance donor perception of nonproﬁt
+performance through both the direct and indirect links discussed
+in this paper. In brief, highly cognitively accessible ﬁnancial
+statements may: (1) decrease the level of asymmetric information
+and uncertainty inherent in the donor-nonproﬁt relationship,
+thereby improving calculative perceptions of nonproﬁt performance. They may also (2) signal legitimacy and secure donors’
+trust, which in turn elicits favourable perceptions of nonproﬁt
+performance.
+Limitations and further research. This study contributes to the
+nonproﬁt literature by focusing attention on donors’ perceptions,
+rather than organisations’ standards and practices per se. Both are
+important, but the former has been relatively neglected compared
+to the latter. There is still much to be done on this topic, and its
+limitations may provide direction to future research.
+First, due to the atemporal nature of the data used in this study,
+we were unable to empirically test causal relationships between
+the key variables. Instead, we offered tentative, plausible causal
+interpretations of the observed associations, based on the
+conceptual framework outlined in section 2 and discussed in
+section 5. Although we consider these interpretations plausible,
+future research could address this limitation by using panel data
+(cross-sectional time-series).
+Second, in this paper, respondents did not distinguish between
+charity nonproﬁts and non-charity nonproﬁts. It is possible that
+donors might discriminate between them, which could give rise to
+heterogeneous results between these two subgroups. Future
+studies could explore whether donors’ perceptions differ between
+these two subgroups and perhaps other more ﬁne-grained
+divisions (such as small, medium, and large nonproﬁts, or
+religious versus non-religious charities).
+Third, this paper has not explored functional forms of the
+relationships between perceived transparency, trust, and performance. For example, a simple linear relationship between
+perceived disclosure and donor trust in a nonproﬁt seems prima
+facie implausible. One might hypothesise that at some level of
+perceived disclosure, marginal positive increases in trust would
+start to diminish and perhaps even reach a saddle point. This
+possibility is apposite in light of the possibility that individual
+donors could experience ‘information overload’ (Tremblay-Boire
+and Prakash 2017).
+Fourth, this paper has restricted itself to the impact of
+perceived ﬁnancial transparency. This is because non-ﬁnancial
+transparency is difﬁcult to report in a systematic and rigorous
+manner (Yang et al. 2017). At present, there are no standardised
+guidelines and formats for the reporting of non-ﬁnancial
+information, which renders such information inconsistent across
+nonproﬁts. None the less, future research could seek to develop a
+metric for making inter-nonproﬁt comparisons of perceptions of
+non-ﬁnancial transparency. This metric could then be incorporated into a conceptual model to empirically explore its effects on
+perceptions of broader notions of nonproﬁt performance. This
+may also enable exploration of the potential causal impact of non-
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+9
+
+ARTICLE
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+ﬁnancial disclosure versus ﬁnancial disclosure on donor trust and
+perceived performance.
+Conclusion
+This study provides empirical evidence that donors’ perceptions
+of ﬁnancial transparency positively inﬂuence their perceptions of
+nonproﬁts’ performance. It suggests that greater perceived
+transparency (1) reduces donor informational asymmetry and
+uncertainty, and (2) signals legitimacy, building donor trust. Both
+(1) and (2) contribute to improved donor perceptions of nonproﬁt performance. Given that nonproﬁts often provide limited
+ﬁnancial disclosures, which unnecessarily increase donor uncertainty and weaken their legitimacy, the nonproﬁt sector would
+beneﬁt from enhancing perceived ﬁnancial transparency.
+If, as we propose, the nonproﬁt ‘market’ cannot voluntarily
+achieve sufﬁcient ﬁnancial disclosure, regulators should consider
+imposing more stringent transparency requirements on nonproﬁts for the collective good of the sector. Importantly, these
+regulations should ensure that ﬁnancial disclosures are both clear
+and informative to all donors.
+Data availability
+The dataset used for this study is available in the attached supplementary ﬁle.
+Received: 17 January 2024; Accepted: 21 February 2025;
+
+Notes
+1 There is a variety of motives for which individual donors support nonproﬁts. However,
+if these donors were to distrust a charity, these motives are immaterial as one is not
+going to support an organisation they do not trust.
+2 Data within the rest of the paragraph relate to the Australian charitable sector only as,
+at the time of the study, these data are only available about registered charities.
+3 Based on the Productivity Commission Report (2010), being the most recent report on
+the nonproﬁt sector. The next report is expected to be released next year.
+4 In terms of revenue size.
+5 Extra Small charities have an annual total revenue of less than $50,000, while small
+charities earn between $50,000 and $250,000 (ACNC 2024).
+6 Such a belief on the part of donors would not be unreasonable. Yang and Northcott
+(2018) found that organisations use disclosures of favourable or superior performance
+to demonstrate they acted as per donors’ positive expectations.
+7 See for instance, Connolly and Hyndman (2013) and Ghoorah (2017).
+
+References
+ACNC (2024) Australian Charities Report. 10th ed. Australian Government. https://
+www.acnc.gov.au/tools/reports/australian-charities-report-10th-edition
+Agyemang G, O’Dwyer B, Unerman J (2019) NGO accountability: retrospective
+and prospective academic contributions. Account Auditing Account J
+32(8):2353–2366. https://doi.org/10.1108/AAAJ-06-2018-3507
+Anderson JC, Gerbing DW (1988) Structural Equation Modelling in Practice: A
+Review and Recommended Two-Step Approach. Psychological Bull
+103(3):411–423
+Arbuckle JL (2014) AMOS (Version 23.0) [Computer program]. IBM SPSS, Chicago, IL
+Armstrong JS, Overton TS (1977) Estimating nonresponse bias in mail surveys. J
+Mark Res 14(3):396–402
+Akerlof GA (1978) The market for”lemons”: quality uncertainty and the market
+mechanism. Uncertainty Econ, 235–251. https://doi.org/10.1016/B978-0-12214850-7.50022-X
+Bentler PM (1990) Comparative ﬁt indexes in structural models. Psychological Bull
+107(2):238–246. https://doi.org/10.1037/0033-2909.107.2.238
+Baah-Peprah P, Shneor R, Munim ZH (2024) “In this together”: on the antecedents
+and implications of crowdfunding community identiﬁcation and trust.
+Venture Capital, 1–31. https://doi.org/10.1080/13691066.2024.2310232
+Bagozzi RP, Yi Y (2012) Speciﬁcation, evaluation, and interpretation of structural
+equation models. J Acad Mark Sci 40(8):8–34. https://doi.org/10.1007/
+s11747-011-0278-x
+
+10
+
+Brockbank N, Beattie S (2022) Toronto charity staff want ‘justice’ after former boss
+allegedly misappropriated $365K’ CBC News. https://www.cbc.ca/news/
+canada/toronto/toronto-charity-staff-under-investigation-1.6346655
+Byrne BM (2016) Structural Equation Modelling with AMOS: Basic Concepts,
+Applications, and Programming, 3rd ed. New York, Routledge
+Chapman CM, Hornsey MJ, Gillespie N (2021a) No global crisis of trust: a longitudinal and multinational examination of public trust in nonproﬁts. Nonproﬁt
+Voluntary Sect Q 50(2):441–457. https://doi.org/10.1177/0899764020962221
+Chapman CM, Hornsey MJ, Gillespie N (2021b) To what extent is trust a prerequisite for charitable giving? A systematic review and meta-analysis.
+Nonproﬁt Voluntary Sect Q 50(6):1274–1303. https://doi.org/10.1177/
+08997640211003250
+Chapman CM, Hornsey MJ, Mangan H, Gillespie N, La Macchia S, Lockey S
+(2022) Comparing the effectiveness of post-scandal apologies from nonproﬁt
+and commercial organizations: an extension of the moral disillusionment
+model. Nonproﬁt Voluntary Sect Q 51(6):1257–1280. https://doi.org/10.1177/
+08997640211062666
+Cho CH, Phillips JR, Hageman AM, Patten DM (2009) Media richness, user trust,
+and perceptions of corporate social responsibility: an experimental investigation of visual web site disclosures. Account Auditing Account J
+22(6):933–952. https://doi.org/10.1108/09513570910980481
+Connolly C, Hyndman N (2013) Charity accountability in the UK: through the
+eyes of the donor. Qualitative Res Account Manag 10(3-4):259–278. https://
+doi.org/10.1108/QRAM-02-2013-0006
+Cordery CJ, Baskerville RF (2011) Charity transgressions, trust and accountability.
+VOLUNTAS Int J Voluntary Nonproﬁt Organ, 22(2):197–213. https://doi.
+org/10.1007/s11266-010-9132-x
+Daff L, Parker LD (2021) A conceptual model of accountants’ communication
+inside not-for-proﬁt organisations. Br Account Rev 53(3):100959. https://doi.
+org/10.1016/j.bar.2020.100959
+Dhanani A, Connolly C (2012) Discharging not‐for‐proﬁt accountability: UK
+charities and public discourse. Account Auditing Account J 25(7):1140–1169.
+https://doi.org/10.1108/09513571211263220
+Dellaportas S, Langton J, West B (2012) Governance and accountability in Australian charitable organisations: perceptions from CFOs. Int J Account Inf
+Manag 20(3):238–254. https://doi.org/10.1108/18347641211245128
+Farwell MM, Shier ML, Handy F (2019) Explaining trust in Canadian charities: the
+inﬂuence of public perceptions of accountability, transparency, familiarity
+and institutional trust. VOLUNTAS Int J Voluntary Nonproﬁt Organ,
+30(4):768–782. https://doi.org/10.1007/s11266-018-00046-8
+Ghoorah U (2017) Factors inﬂuencing the extent of accounting disclosures made in
+the annual reports of publicly reporting Australian not-for-proﬁt organisations. Doctoral dissertation. Western Sydney University (Australia). http://
+hdl.handle.net/1959.7/uws:44081
+Ghoorah U, Khan AM, Garrow NS (2017) Financial disclosures and calls for greater
+transparency in the Australian NFP sector. Pro Bono Australia Newsletter.
+https://probonoaustralia.com.au/news/2017/10/ﬁnancial-disclosures-callsgreater-transparency-australian-nfp-sector/
+Ghoorah U, Talukder AMH, Khan A (2021) Donors’ perceptions of ﬁnancial
+disclosures and links to donation intentions. Account Forum 45(2):142–170.
+https://doi.org/10.1080/01559982.2021.1872892
+Hair JF, Black WC, Babin BJ, Anderson RE (2010) Multivariate data analysis.
+Prentice Hall, 7th ed. Upper Saddle River: Prentice Hall
+Hargrave R (2022) Inquiry into animal charity that has failed to ﬁle accounts for
+ﬁve years. Third Sector. https://www.thirdsector.co.uk/inquiry-animalcharity-failed-ﬁle-accounts-ﬁve-years/governance/article/1791160
+Harris EE, Neely D (2018) Determinants and consequences of nonproﬁt
+transparency. J Account Auditing Financ 36(1):195–220. 10.1177%
+2F0148558X18814134
+Hengevoss A (2023) Comprehensive INGO Accountability to Strengthen Perceived
+Program Effectiveness: A Logical Thing? VOLUNTAS Int J Voluntary
+Nonproﬁt Org, 1–14. https://doi.org/10.1007/s11266-023-00556-0
+Henseler J, Ringle CM, Sarstedt M (2015) A new criterion for assessing discriminant validity in variance-based structural equation modeling. J Acad
+Mark Sci 43:115–135
+Hyndman N, McConville D (2018) Trust and accountability in UK charities:
+exploring the virtuous circle. Br Account Rev 50(2):227–237. https://doi.org/
+10.1016/j.bar.2017.09.004
+Jones TM (1995) Instrumental Stakeholder Theory: A Synthesis of Ethics and
+Economics. Acad Manag Rev 20(2):404–437. https://doi.org/10.2307/258852
+Lancksweerdt L, Van Caneghem T, Reheul AM (2023) Mandatory Financial
+Statements Disclosure and Nonproﬁts’ Debt Structure: An Empirical Analysis. VOLUNTAS: Int J Voluntary Nonproﬁt Organ, 34:787–798. https://doi.
+org/10.1007/s11266-022-00516-0
+Marsh HW, Hocevar D (1985) Application of conﬁrmatory factor analysis to the
+study of self-concept: ﬁrst- and higher order factor models and their invariance across groups. Psychological Bull 97(3):562–582. https://doi.org/10.
+1037/0033-2909.97.3.562
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-025-04640-2
+
+Piotrowski SJ, Van Ryzin GG (2007) Citizen attitudes toward transparency in
+local government. Am Rev public Adm 37(3):306–323. 10.1177%
+2F0275074006296777
+Ricketts A (2021) Charity pay study 2021 – The biggest earners. Third Sector.
+https://www.thirdsector.co.uk/charity-pay-study-2021-biggest-earners/
+management/article/1713966
+Sargeant A, Lee S (2002) Individual and contextual antecedents of donor trust in
+the voluntary sector. J Mark Manag 18(7–8):779–802. https://doi.org/10.
+1362/0267257022780679
+Saxton GD, Kuo JS, Ho YC (2012) The determinants of voluntary ﬁnancial disclosure by nonproﬁt organizations. Nonproﬁt Voluntary Sect Q
+41(6):1051–1071. 10.1177%2F0899764011427597
+Stanaland AJS, Lwin MO, Murphy PE (2011) Consumer perceptions of the antecedents and consequences of corporate social responsibility. J Bus Ethics
+102(1):47–55. https://doi.org/10.1007/s10551-011-0904-z
+Suchman MC (1995) Managing legitimacy: strategic and institutional approaches.
+Acad Manag Rev 20(3):571–610. https://doi.org/10.5465/amr.1995.
+9508080331
+Tremblay-Boire J, Prakash A (2017) Will you trust me?: how individual American
+donors respond to informational signals regarding local and global humanitarian charities. VOLUNTAS Int J Voluntary Nonproﬁt Organ,
+28(2):621–647. https://doi.org/10.1007/s11266-016-9782-4
+Vandenberg RJ, Lance CE (2000) A review and synthesis of the measurement
+invariance literature: suggestions, practices, and recommendations for
+organizational research. Organ Res Methods 3(1):4–70. 10.1177%
+2F109442810031002
+Williams LJ, Hartman N, Cavazotte F (2010) Method variance and marker variables: a review and comprehensive CFA marker technique. Organ Res
+Methods 13(3):477–514. 10.1177%2F1094428110366036
+Yang C, Northcott D (2018) Unveiling the role of identity accountability in shaping
+charity outcome measurement practices. Br Account Rev 50(2):214–226.
+https://doi.org/10.1016/j.bar.2017.09.010
+Yang C, Northcott D (2019) How can the public trust charities? The role of
+performance accountability reporting. Account Financ 59(3):1681–1707.
+https://doi.org/10.1111/acﬁ.12475
+Yang C, Northcott D (2021) How do charity regulators build public trust?
+Financial Account Manag 37(4):367–384. https://doi.org/10.1111/faam.
+12283
+Yang C, Northcott D, Sinclair R (2017) The accountability information needs of
+key charity funders. Public Money Manag 37(3):173–180. https://doi.org/10.
+1080/09540962.2017.1281649
+Yasmin S, Ghafran C (2021) Accountability and legitimacy of non‐proﬁt organisations: challenging the current status quo and identifying avenues for future
+research. Financial Account Manag 37(4):399–418. https://doi.org/10.1111/
+faam.12280
+Yates D, Belal AR, Gebreiter F, Lowe A (2021) Trust, accountability and ‘the
+Other’ within the charitable context: UK service clubs and grant‐making
+activity. Financial Account Manag 37(4):419–439. https://doi.org/10.1111/
+faam.12281
+
+ARTICLE
+
+Author contributions
+Dr Ushi Ghoorah (Corresponding Author) conceptualized the study, drafted the initial
+manuscript, and signiﬁcantly revised subsequent versions. Ushi Ghoorah also reviewed
+the manuscript and ﬁnalized the submission. Dr Edward Mariyani-Squire provided
+critical insights and expert guidance on data interpretation and reviewed the manuscript
+for accuracy. Dr Sabreena Zoha Amin contributed to data analysis. All authors have read
+and approved the ﬁnal version of the manuscript.
+
+Competing interests
+The authors declare no competing interests.
+
+Ethical approval
+The questionnaire and methodology for this study was approved by the Western Sydney
+University’s Human Research Ethics Committee (HREC) (Date of approval: 11 July 2017,
+No: H12309). In providing this approval, the HREC determined that the questionnaire
+and methodology meet the requirements of the Australian National Statement on Ethical
+Conduct in Human Research.
+
+Informed consent
+Each participant was asked for their explicit consent at the start of the survey. The
+collected data were de-identiﬁed by the principal researcher (main author). The dataset is
+handled and stored strictly by the authors.
+
+Additional information
+Supplementary information The online version contains supplementary material
+available at https://doi.org/10.1057/s41599-025-04640-2.
+Correspondence and requests for materials should be addressed to Ushi Ghoorah.
+Reprints and permission information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional afﬁliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation,
+distribution and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons
+licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in
+a credit line to the material. If material is not included in the article’s Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the
+permitted use, you will need to obtain permission directly from the copyright holder. To
+view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2025
+
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2025)12:315 | https://doi.org/10.1057/s41599-025-04640-2
+
+11
+
+

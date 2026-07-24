@@ -1,0 +1,1767 @@
+www.nature.com/scientificreports
+
+OPEN
+
+The mediating role of brand equity
+in corporate social responsibility
+and customer purchase intention
+based on text-CNN model
+Zhengshun Shen1,2, Huaibin Li2 & Yancai Zhang1
+In the digital era, corporate social responsibility (CSR) has become a crucial factor influencing consumer
+purchase behavior. To investigate the mechanism through which CSR affects customer purchase
+intention (CPI) and to examine the mediating role of Brand Equity (BE), this study integrates deep
+learning techniques with social identity theory to construct a comprehensive research framework
+supported by multi-source data. A two-stage approach is employed. In the first stage, an optimized
+Text-Convolutional Neural Network model is applied to perform sentiment analysis on consumer
+reviews from the publicly available Yelp dataset, encompassing sectors such as food services,
+hospitality, and beauty. This model effectively captures consumer sentiment toward CSR-related
+initiatives. In the second stage, a structured questionnaire is developed based on social identity theory
+to quantitatively examine the relationships among CSR, BE, and CPI. The empirical results reveal
+that CSR exerts a significant positive influence on CPI and that BE plays a partial mediating role in
+this relationship. These findings suggest that CSR activities enhance purchase intention by fostering
+stronger brand identification. Notably, CSR efforts related to environmental protection and public
+welfare demonstrate a particularly strong influence on consumer behavior. Theoretically, this study
+extends the application of social identity theory in the CSR domain by introducing an integrated
+framework that combines sentiment recognition with structural equation modeling. Methodologically,
+the study advances a cross-disciplinary approach by merging natural language processing with surveybased research to facilitate the deep integration of multi-source data. Practically, this study provides
+data-driven evidence and strategic insights for enterprises aiming to design effective CSR strategies
+and enhance brand management, offering valuable implications for managerial decision-making.
+
+Keywords Customer purchase intention, Corporate social responsibility, Brand equity, Text-CNN, Deep
+learning
+
+Amid accelerating digital transformation and rising awareness of sustainable consumption, corporate social
+responsibility (CSR) has evolved from a traditional ethical obligation into a strategic instrument that significantly
+influences consumer behavior and corporate Brand Equity (BE). Increasingly, consumers are attuned to
+companies’ social performance in domains such as environmental protection, public welfare, and employee
+rights, and they adjust their purchasing preferences accordingly. Long et al. (2023) showed that young consumers
+were more inclined to support brands that demonstrate social responsibility. This trend compelled enterprises to
+engage in socially responsible practices and also to effectively communicate these efforts to consumers, thereby
+fostering deeper emotional connections in the market1.
+Although the influence of CSR on consumer behavior has become a prominent topic in marketing and
+organizational behavior research, several limitations persist in existing studies. Most existing studies have
+relied on structured questionnaires and experimental designs emphasizing rational attitude formation2–5.
+These approaches often highlight consumers’ judgment processes while overlooking their natural emotional
+responses in real contexts. With the rapid growth of unstructured data such as online reviews and social media
+texts, a pressing challenge is how to capture consumers’ genuine psychological and emotional reactions to
+CSR through innovative methods6–8. Prior research has confirmed that CSR influences customer purchase
+intention (CPI) through multiple dimensions9. Lin et al. (2011) showed that purchase intention was indirectly
+1Business
+
+School, Huaiyin Normal University, Huai’an, China. 2School of Business Administration, Dongbei
+University of Finance and Economics, Dalian, China. email: zhshshen@hytc.edu.cn
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+1
+
+www.nature.com/scientificreports/
+affected by corporate ability, negative publicity, and CSR via trust and emotional identification10. Gatti et al.
+(2012) emphasized that CSR and corporate reputation enhanced perceived product quality and positively affect
+purchase intention, implying a potential mediating role of brand-related assets11. Zhang and Ahmad (2021)
+demonstrated that CSR awareness moderated the CSR–purchase intention relationship, supporting the role of
+brand cognition and emotion in this process12. Al-Haddad et al. (2022) further found that, with the rise of social
+media, CSR in ethical and environmental domains significantly boosted customer engagement and purchase
+intention13.
+Despite these insights, the mediating role of BE has not been systematically examined. Within a data-driven
+research framework, it remains unclear how CSR shapes consumers’ brand cognition and emotions and how
+these factors translate into purchase intention. BE, as a key intangible asset, reflects brand image, reputation,
+and recognition in consumers’ minds14,15. Theoretically, CSR enhances reputation and brand image, fosters
+trust and emotional identification, and thereby influences purchase intention16,17. Incorporating BE into the
+CSR–CPI model is therefore well justified: CSR activities elevate BE, which in turn generates positive cognition
+and emotional resonance, indirectly stimulating purchase intention. This mechanism clarifies CSR’s influence
+pathway and highlights BE’s strategic role in CSR practices.
+Despite the well-established importance of emotional factors in shaping consumer decisions, there remains
+a lack of systematic research exploring how emotional signals—particularly those derived from textual
+analysis—intervene in the mechanism by which CSR influences CPI. This research gap underscores the need
+for an integrated framework that combines sentiment recognition with theoretical modeling. In recent years,
+with the rapid development of deep learning, particularly in the field of natural language processing (NLP),
+sentiment recognition has achieved significant breakthroughs. NLP has been widely applied in areas such
+as machine translation, spam detection, information extraction, text summarization, medical analysis, and
+question–answering systems18. Prior research has shown that NLP can effectively process large-scale text data
+and extract sentiment features from diverse sources such as consumer online reviews and social media posts,
+providing reliable tools for understanding consumer attitudes19,20. At the corporate sustainability level, NLP
+enables the automated extraction and analysis of large volumes of enterprise text data, where topic identification
+and sentiment analysis reveal the priorities and trends of corporate behavior and CSR practices21,22. Deep
+learning models have demonstrated exceptional capabilities in analyzing consumer-generated content with
+high precision, enabling the capture of subtle emotions and latent attitudes that are often inaccessible through
+traditional survey methods. Compared with conventional techniques, deep learning enhances the accuracy
+and granularity of sentiment analysis, providing deeper insight into consumers’ authentic emotional responses
+and behavioral motivations. This, in turn, supports a more comprehensive and dynamic understanding of how
+CSR activities influence consumer behavior23. The Text-Convolutional Neural Network (CNN) model, due to
+its strong performance in feature extraction and text classification, has become one of the mainstream deep
+learning approaches for sentiment analysis. It is now widely applied in tasks such as text classification, sentiment
+analysis, public opinion monitoring, question–answering systems, and information retrieval. However, its
+application in corporate research remains limited, with most studies focusing on enterprise management24–27.
+Existing sentiment recognition models generally emphasize word-level features while overlooking the value of
+character-level information in capturing semantic nuances and subtle emotional variations, thereby constraining
+the effectiveness of fine-grained sentiment analysis. Although some studies have employed deep learning models
+to analyze consumer reviews, they have largely concentrated on improving classification accuracy and have
+rarely attempted to systematically embed the recognition results into CSR research frameworks. Furthermore,
+research platforms tend to be relatively homogeneous, often neglecting the dynamic reflection capabilities of
+multi-source data such as e-commerce reviews and social media texts, which limits the generalizability of the
+research findings28.
+To address these gaps, this study introduces methodological and theoretical innovations. From a
+methodological perspective, the study leverages recent advances in NLP by employing an optimized Text-CNN
+model to perform fine-grained sentiment analysis on consumer-generated reviews sourced from platforms
+such as Yelp. Compared with traditional survey-based data, deep learning methods provide a more accurate
+means of identifying consumers’ implicit attitudes and semantic distinctions related to CSR29–31. To overcome
+the limitations of word-level models, character-level embeddings are incorporated to enhance the detection
+of emotional nuance and semantic complexity32. By integrating unstructured review data with structured
+questionnaire responses, the study captures quantifiable indicators related to CSR, BE, and CPI. This multisource data approach improves the reliability and validity of the variables used, enriches understanding of the
+CSR influence mechanism, and provides a robust empirical foundation for subsequent structural equation
+modeling (SEM), thereby enhancing the overall rigor and practical relevance of the analysis.
+In terms of theoretical construction, this study adopts social identity theory proposed by Tajfel and Turner
+as the foundational framework33. This theory emphasizes the psychological mechanisms through which
+individuals seek affiliation and value alignment within social groups, which closely parallels the ways in which
+CSR initiatives communicate corporate values and foster consumer identification. Compared with stakeholder
+theory34 or social moral identity theory35, social identity theory offers a more nuanced explanation of how socially
+responsible behavior by corporations fosters group identification and, subsequently, purchase intention. It thus
+provides a solid theoretical basis for understanding the role of BE as a mediator in the CSR–CPI relationship.
+Accordingly, this study seeks to explore how CSR influences CPI through the mediating role of BE, using
+emotional signals extracted from real-time consumer text. Two key research questions guide this investigation:
+1) How do consumers emotionally respond to CSR initiatives as reflected in authentic online reviews?
+2) How does CSR influence CPI through its impact on BE?
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+2
+
+www.nature.com/scientificreports/
+Based on these inquiries, the study makes several contributions. Theoretically, it introduces social identity
+theory to explain consumer-brand identification and purchase behavior in response to CSR, addressing the
+lack of psychological mechanism analysis in prior CSR research. In terms of knowledge advancement, it
+proposes an interdisciplinary framework that integrates deep learning–based sentiment recognition with
+SEM, expanding methodological approaches in CSR studies. Methodologically, it enhances the granularity
+and precision of sentiment analysis through the optimization of the Text-CNN model with character-level
+embeddings. Practically, it identifies the pathway through which CSR activities foster brand identification and
+thereby influence purchase intention, providing a data-driven foundation for evaluating CSR communication
+effectiveness. From a managerial perspective, the findings suggest a strategic integration of CSR and brand
+management, leveraging emotion-driven data insights to better align social value with business performance.
+The structure of the remainder of the study is as follows: Sect. 2 presents the literature review. Section 3
+outlines the research methodology. Section 4 details the data sources, empirical results, and discussion. Section 5
+concludes with the main findings and suggestions for future research.
+
+Literature review
+
+Research progress on the relationship between CSR and consumer behavior
+
+CSR refers to the proactive assumption of responsibilities toward the environment, employees, communities,
+and society as a whole while pursuing economic benefits36. The core feature of CSR lies in balancing shareholder
+interests with broader social interests. In this study, CSR is divided into five dimensions: environmental
+responsibility, employee rights protection, consumer rights protection, philanthropic responsibility, and
+economic responsibility. Together, these dimensions constitute a comprehensive framework of CSR37. With
+growing global attention on CSR, research examining its impact on CPI has steadily expanded38. Barlas et
+al. (2023), in a questionnaire-based study of a Greek mobile telecommunications firm, confirmed that CSR
+significantly contributed to improved financial performance and enhanced consumer trust. The study
+emphasized that successful companies—both in theoretical models and practical operations—not only
+prioritized sales and profitability but also focused on enhancing their social impact by giving back to society and
+generating broader social value through corporate initiatives39. Nguyen-Viet et al. (2024) found that companies
+adopting socially responsible practices strengthened their BE, which in turn influenced consumer purchase
+decisions. Their findings highlighted a preference among consumers for socially responsible brands during the
+brand selection process40. Similarly, Cuesta-Valiño et al. (2024) demonstrated that CSR activities enhanced
+corporate image, thereby increasing purchase intention and strengthening customer loyalty41. Ciu and Wijayanti
+(2024) reported that high BE enabled firms to occupy advantageous market positions, while simultaneously
+promoting purchasing behavior through enhanced emotional identification with the brand42. In a study focused
+on Generation Y consumers in Ghana, Amankona et al. (2024) examined the effects of digital CSR on purchase
+intention and identified brand loyalty and customer engagement as mediating variables. Their results indicated
+that CSR initiatives significantly boosted purchase intention by fostering stronger brand loyalty and increasing
+consumer participation43.
+Although these studies collectively affirm the link between CSR and consumer behavior, most have relied on
+structured questionnaires or experimental designs that emphasize cognitive constructs such as brand attitude
+and customer satisfaction within controlled models. However, these approaches often neglect the affective
+dimension of consumer responses, failing to fully capture the emotional impact of CSR as expressed in authentic,
+real-world contexts.
+
+CSR’s influence pathways on BE
+
+BE refers to the overall value assessment formed by consumers based on brand associations44. Scholars generally
+recognize that BE comprises multiple dimensions, including brand awareness, brand loyalty, brand trust, and
+brand attachment. These dimensions reflect consumers’ rational evaluations of a brand as well as their emotional
+identification and attachment, which directly or indirectly influence purchase intention45. In the field of brand
+management, the positive effect of CSR on BE has been well established. Golob et al. (2008) argued that CSR
+initiatives were often perceived by consumers as reflective of shared moral and social values, thereby reinforcing
+brand trust and emotional attachment46. Gálvez-Sánchez et al. (2024) similarly concluded that CSR practices
+enhanced both the cognitive and emotional dimensions of BE, which subsequently influenced consumer
+purchase intention47. However, much of the extant literature treats the relationship between CSR and BE as
+a direct and linear association, neglecting the mediating function of BE in the broader pathway linking CSR
+to consumer behavior. This oversight results in an incomplete understanding of the CSR–BE–CPI mechanism
+and limits insight into the underlying psychological processes that drive consumer decision-making in socially
+responsible contexts.
+
+The application potential of sentiment analysis techniques in CSR research
+
+Sentiment analysis, also known as opinion mining, is a key research direction in NLP. It aims to automatically
+identify, extract, and quantify individuals’ subjective emotions and attitudes from unstructured text48. The
+fundamental process generally involves three stages. First, text preprocessing converts raw corpora into a
+computable form through operations such as tokenization, stop-word removal, and part-of-speech tagging.
+Second, feature representation transforms textual content into numerical form using methods such as bag-ofwords models or deep learning–based word embeddings. Finally, classification and modeling employ machine
+learning or deep learning approaches to recognize and predict sentiment polarity (positive, negative, neutral)
+and its intensity49,50. Compared with traditional questionnaire-based attitude measurement, sentiment analysis
+can more directly capture consumers’ natural emotional responses to corporate behavior in authentic contexts,
+thereby providing richer and more dynamic data support for CSR research51.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+3
+
+www.nature.com/scientificreports/
+Recent developments in affective computing and NLP have opened new avenues for investigating the
+mechanisms through which CSR affects consumer behavior52. Giacomini et al. (2021) applied sentiment analysis
+techniques to study public responses on social media to CSR initiatives undertaken by Italian companies during
+the early stages of the COVID-19 pandemic. Their findings revealed the role of external environmental factors
+in shaping CSR strategies53. Fan et al. (2024) employed a Text-CNN model for sentiment analysis of consumer
+reviews, demonstrating its effectiveness in capturing fine-grained emotional cues and improving classification
+accuracy54. Further advancing this field, Xing et al. (2025) enhanced granular sentiment recognition by integrating
+the Text-CNN model with multi-head encoder-sharing mechanisms, particularly excelling in the analysis of
+complex emotional expressions within reviews55. Despite these technological advancements, the application of
+sentiment analysis in CSR-related behavioral research remains limited. Most studies to date have concentrated
+on improving the technical accuracy of sentiment classification, with minimal emphasis on how emotional
+responses—particularly those articulated in consumer-generated text—can be systematically extracted and
+incorporated into CSR research frameworks. As a result, the affective dimension of consumer reactions to CSR
+has yet to be meaningfully embedded in empirical models, leaving a critical gap in both theoretical explanation
+and practical application.
+
+How emotion recognition supports CSR mechanism studies
+
+Emotion functions as a pivotal mediator in the relationship between CSR and consumer behavior, yet its role
+in evaluating the effectiveness of CSR communication remains insufficiently explored. Kaur and Sharma (2023)
+employed Long Short-Term Memory (LSTM) models to extract sentiment orientations from unstructured
+consumer texts. Their study demonstrated that such methods not only captured authentic emotional feedback
+on corporate activities but also enabled firms to better understand consumer behavior and preferences, thereby
+offering valuable insights for strategic decision-making56.
+Jang and Kang (2023) utilized topic modeling and other NLP techniques to analyze open-ended responses
+from 703 U.S. consumers regarding acquisition, usage, and disposal behaviors in the fashion industry. Their
+analysis focused on emotional expressions related to consumer social responsibility and sustainable practices.
+By applying deep learning to extract sentiments and perceptions of responsibility across various stages of
+consumption, the study highlighted the crucial role of emotion recognition in revealing the micro-level
+mechanisms underlying individual CSR-related behaviors. This research not only enriched the psychological
+dimensions of CSR studies but also expanded the methodological toolkit available for investigating consumer
+responsibility57.
+Similarly, Galiano-Coronil et al. (2024) applied data mining and sentiment analysis techniques to assess CSRrelated content posted by Spain’s ten most socially responsible companies on Twitter. Their findings revealed that
+the emotional tone embedded in CSR communications significantly shaped public engagement and response.
+The study suggested that sentiment recognition—particularly when powered by deep learning—played a critical
+role in identifying effective patterns in CSR messaging, thereby providing empirical evidence to guide the
+optimization of corporate social marketing strategies58.
+Further analysis of the relationship between social identity theory and CSR indicates that CSR initiatives can
+enhance consumers’ group identification, thereby improving their brand attitudes and behavioral intentions59,60.
+At the same time, advances in sentiment analysis have extended its application to cross-cultural emotion
+recognition, brand sentiment monitoring, and consumer psychology prediction61,62. For instance, Kayakuş et al.
+(2024) examined user reviews of the iPhone 11 on Trendyol, the largest e-commerce platform in Türkiye. They also
+employed sentiment analysis combined with machine learning methods to investigate the relationship between
+brand reputation, consumer trust, and loyalty. Their findings showed that sentiment analysis could accurately
+identify positive, negative, and neutral emotions, thereby revealing how brand reputation shaped consumer
+trust and loyalty. This demonstrates that sentiment analysis was an effective tool in CSR research for capturing
+consumers’ emotional responses to corporate behavior and brand practices. It provided valuable data support
+and decision-making insights for optimizing CSR strategies, enhanced brand reputation, and strengthened
+customer loyalty63. Similarly, Anderson et al. (2024) utilized social media data and applied machine learning and
+deep learning techniques to conduct sentiment analysis that quantified public attitudes toward environmental
+sustainability initiatives. The results indicated that sentiment analysis effectively uncovered consumers’ or the
+public’s genuine emotions, thereby supplying CSR research with reliable data that supported the improvement of
+CSR strategies and strengthened the effectiveness of social responsibility practices64. More recently, Belarmino
+et al. (2025) found that sentiment analysis could also reveal consumers’ negative emotions toward CSR activities.
+Their study further showed that applying emotional and cognitive information frameworks could mitigate
+negative perceptions, thereby influencing consumer attitudes toward CSR65.
+In this study, emotions are conceptualized as consumers’ immediate psychological responses triggered by
+the perception of CSR activities, representing an attitudinal tendency elicited by external stimuli. Conceptually,
+emotions differ from BE; the former reflects short-term, dynamic affective experiences, whereas the latter
+represents a comprehensive evaluation of the brand formed through long-term consumer interactions.
+Although emotions are not a direct component of BE, they play a crucial role within the CSR–BE–CPI pathway.
+On one hand, positive emotional responses can enhance consumers’ favorable perceptions of the brand,
+thereby promoting the development of BE. On the other hand, emotions can indirectly influence consumers’
+purchase intentions through affective identification66. In this study, emotions function both as a key output
+of the sentiment analysis, reflecting consumers’ authentic feedback from online reviews, and as a precursor in
+the structural equation model, influencing BE to clarify their role in the CSR–CPI relationship. The inclusion
+of emotions thus enriches the psychological mechanism perspective in CSR research while providing a more
+dynamic and data-driven explanation of the mediating effect of BE.
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+4
+
+www.nature.com/scientificreports/
+Research gaps and innovation positioning of this study
+
+Most existing studies still rely on surveys and interviews, which are limited by sample representativeness and
+social desirability bias and also struggle to capture consumers’ authentic attitudes and emotional responses toward
+CSR. Prior research often remains at a macro-level linear inference, failing to deeply uncover the psychological
+mechanisms—such as emotional identification and value resonance—through which CSR influences consumer
+decision-making. To bridge these gaps, this study proposes an integrated analytical framework that combines
+deep learning–based sentiment recognition with the prediction of purchase behavior. By leveraging large-scale
+online review data, the study captures consumers’ emotional responses to CSR at a micro level and investigates
+the potential pathways through which these emotional cues influence consumption decisions. This approach
+addresses the limitations of traditional CSR studies by enhancing both the richness of data and the technological
+sophistication of analysis. It also provides actionable, data-driven insights and robust empirical evidence to
+support the optimization of CSR strategies and digital marketing practices.
+A summary and critical evaluation of representative CSR-related studies is presented in Table 1.
+Table 1 summarizes and evaluates the main categories of recent CSR-related studies, including representative
+literature, research methods, key findings, and limitations. The studies were selected based on systematic retrieval
+and screening, prioritizing those with strong academic influence, close relevance to CSR, and methodologically
+representative approaches. A comparative analysis reveals that, although existing research reflects the
+mainstream directions in CSR studies, notable gaps remain in methodological approaches and the exploration
+of psychological mechanisms. In particular, the limitations in exploring emotional mechanisms and integrating
+multi-source data are evident. This highlights a theoretical gap and providing a clear entry point for the present
+study’s framework, which combines sentiment recognition with the prediction of consumer purchase behavior.
+
+Research model
+
+Construction of the sentiment analysis model of CPI based on Text-CNN
+
+This study employs a deep learning–based Text-CNN model for textual sentiment analysis. Text-CNN is
+a high-performing CNN architecture widely used in NLP tasks, which extracts local text features via multiscale convolution kernels and performs sentiment classification through max-pooling operations67. The basic
+architecture of the Text-CNN model is illustrated in Fig. 168.
+In the Text-CNN model structure shown in Fig. 1, different colors are used to distinguish the convolutional
+kernel branches and their corresponding feature processing flows. The original input data on the left (orange
+block) is divided into three parallel processing branches, marked in blue, yellow, and green, each corresponding
+to a convolutional kernel of different sizes to extract local features of varying lengths within the text. Within
+each colored branch, the large colored blocks represent the outputs of the convolution operations, while the
+subsequent smaller blocks indicate the results of the pooling operations. On the far right, the multicolored small
+blocks represent the concatenated features from the three branches after pooling, integrating multi-scale features
+extracted by different convolutional kernels.
+To enhance the model’s ability to capture fine-grained emotional characteristics, an improved twodimensional (2D-) Text-CNN model is developed by integrating both character-level and word-level features,
+thereby extending the traditional Text-CNN framework69. Figure 2 depicts the structure of this optimized
+2D-Text-CNN model.
+The 2D-Text-CNN model mainly comprises an embedding layer, a 2D convolutional layer, a pooling layer,
+a fully connected layer, and an output layer. Initially, the original text is encoded into two input channels
+corresponding to character-level and word-level embeddings. The embedding matrices X (char) ∈ Rn× k1 and
+X (word) ∈ Rm× k2 are generated, where and denote the number of characters and words, respectively, and
+k1 and k2 represent their respective embedding dimensions.
+(c)
+h× w
+Each channel then extracts local features using distinct 2D convolution kernels Wi,j ∈ R
+. The
+convolution operation is defined as Eq. (1)70:
+(c)
+
+fi,j = σ
+
+(∑
+
+h−1
+p=0
+
+∑ w−1
+
+(c) (c)
+(c)
+q=0 Wp,q Xi+p,j+q + b
+
+)
+
+(1)
+
+Category
+
+Representative studies
+
+Methodology
+
+Key findings
+
+Limitations
+
+Impact of CSR on
+Consumer Behavior
+
+Barlas et al.39; Nguyen-Viet et al.40;
+Cuesta-Valiño et al.41; Ciu and
+Wijayanti42; Amankona et al.43
+
+Questionnaire
+surveys, SEM
+
+CSR enhances brand trust and purchase
+intention, with brand loyalty acting as a
+mediating variable
+
+Heavy reliance on subjective surveys;
+limited analysis of authentic emotional
+responses in natural consumer contexts
+
+CSR’s Influence on BE
+Pathways
+
+Golob et al.46; Gálvez-Sánchez et
+al.47
+
+Conceptual
+models, empirical
+investigation
+
+CSR strengthens emotional attachment and
+brand trust, thereby increasing BE
+
+Limited exploration of BE as a mediating
+factor; psychological mechanisms remain
+underdeveloped
+
+Applications of
+Sentiment Analysis
+
+Giacomini et al.53; Fan et al.54; Xing
+et al.55
+
+Text-CNN, Sentiment
+Classification
+
+NLP models effectively capture fine-grained
+emotions and improve sentiment recognition
+accuracy in CSR contexts
+
+Focus primarily on emotion classification
+accuracy; limited integration of
+sentiment results into behavioral analysis
+
+Emotion-Driven
+Mechanisms in CSR
+Research
+
+Kaur and Sharma56; Jang and
+Kang57; Galiano-Coronil et al.58.
+
+LSTM, Topic
+Modeling, Sentiment
+Mining
+
+Deep learning uncovers how emotional
+responses shape perceptions of CSR and
+influence behavioral outcomes
+
+Studies often limited to single platforms
+or specific contexts; lack of generalizable
+and integrative modeling frameworks
+
+Table 1. Summary and evaluation of prior CSR research.
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+5
+
+www.nature.com/scientificreports/
+
+Fig. 1. The Text-CNN model structure.
+
+Here, σ denotes the activation function; b(c) is the bias term; c ∈ {char, word} represents a character or
+word channel.
+The convolution outputs undergo a max-pooling operation to extract the most salient local emotional
+features, calculated as Eq. (2):
+(c)
+
+f(c) = maxfi,j (2)
+i,j
+
+Subsequently, the pooled features from both character and word channels are concatenated into a unified feature
+vector:
+
+z = [f(char) ; f(word) ](3)
+
+This combined vector passes through a fully connected layer, and the predicted probability distribution over
+emotion categories is obtained via a Softmax activation function:
+y = Softmax(Ws z + bs )(4)
+
+In Eq. (2), Softmax is the activation function; Ws is the weight matrix of the classification layer; bs is the
+corresponding bias vector.
+Given a training sample size N , the true labels yi (one-hot encoded), and the predicted probabilities yi , the
+cross-entropy loss is defined as Eq. (5):
+L=−
+
+Empirical research on CPI
+
+1  N
+i )(5)
+i=1 yi log(y
+N
+
+Building upon the sentiment recognition model, this study constructs a SEM to investigate the mechanisms
+through which CSR influences consumer purchase intention, with a particular focus on the mediating role of
+BE. SEM is well-suited for analyzing complex relationships among variables, as it allows for the simultaneous
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+6
+
+www.nature.com/scientificreports/
+
+Fig. 2. Architecture of the 2D-Text-CNN model.
+
+estimation of multiple causal paths and latent constructs while maintaining strong theoretical alignment and
+statistical rigor.
+The theoretical model is grounded in social identity theory, which posits that individuals derive part of
+their self-concept from membership in social groups. When individuals identify with a social entity—such as a
+corporation—and align with its behaviors and values, they develop a sense of belonging and collective identity.
+This psychological identification can significantly shape consumer attitudes and behaviors. social identity theory
+emphasizes that identification with social categories not only affects interpersonal dynamics but also plays a
+critical role in consumer behavior, particularly in fostering brand affiliation and loyalty. However, the specific
+cognitive mechanisms through which social identity shapes consumer responses to CSR activities—and how
+these responses influence purchase intentions—remain insufficiently understood. Factors such as the depth and
+persistence of identification, as well as the interaction of multiple social identities, may vary across cultural
+and market contexts. Empirical research on these contextual variations is still limited. Moreover, discussions
+on negative social identity—such as consumer disassociation from brands perceived as socially irresponsible—
+have received inadequate attention in current CSR literature71,72. In this study, the proposed model draws on
+the central principles of social identity theory, particularly the link between psychological identification and
+behavioral motivation, while acknowledging the need for deeper theoretical refinement in the CSR domain. This
+theoretical foundation supports the empirical analysis and offers valuable insights for future research directions.
+The proposed research model is illustrated in Fig. 3.
+The variables and their operational definitions are presented in Fig. 4. CSR is measured through consumer
+evaluations of CSR practices, including environmental protection, employee welfare, and community
+development. These evaluations are captured via questionnaire items addressing corporate public welfare efforts,
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+7
+
+www.nature.com/scientificreports/
+
+Fig. 3. Theoretical model framework.
+
+Fig. 4. Definitions of research variables.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+8
+
+www.nature.com/scientificreports/
+environmental policies, and related initiatives73. BE reflects consumers’ positive emotional evaluations and trust
+in a brand and is assessed through dimensions such as brand awareness, loyalty, and satisfaction74. High levels
+of BE are associated with stronger purchase intentions and represent a strategic asset in brand management.
+Finally, CPI refers to consumers’ willingness to make repeat purchases and recommend the brand to others,
+serving as a key indicator of marketing effectiveness75.
+In this study, BE is explicitly defined as a mediating variable that bridges CSR and CPI. Specifically, BE captures
+consumers’ perceptions and evaluations of a company’s CSR practices and functions as a key psychological
+mechanism through which CSR shapes purchasing behavior. By enhancing BE, companies can reinforce their
+socially responsible image, foster consumer trust, and cultivate favorable brand attitudes, thereby promoting
+purchase intention. As such, BE is not positioned as a moderating variable but rather as a pivotal mediator that
+transmits and amplifies the positive influence of CSR on consumer behavior.
+The theoretical framework of this study is grounded in social identity theory. CSR activities enhance
+consumers’ social identification with a brand by strengthening BE, including trust, loyalty, and attachment,
+thereby promoting CPI. The CSR → BE → CPI pathway reflects the sequence of “group identification → attitude
+formation → behavioral intention.”
+According to social identity theory, individuals are inclined to align themselves with organizations that
+reflect their values and social ideals76. When companies actively engage in CSR activities, consumers tend
+to integrate these firms into their psychological “in-groups,” which fosters stronger identification, trust, and
+affiliation77. Empirical evidence supports that CSR initiatives significantly enhance purchase intention and brand
+preference78, particularly when companies demonstrate strong performance in areas such as environmental
+protection and public welfare, which are more likely to attract consumer support79. Based on this, the study
+proposes hypothesis 1:
+Hypothesis 1 CSR has a positive and significant impact on CPI.
+BE reflects consumers’ cognitive assessments, emotional attachment, and trust in a brand, forming a
+fundamental component of BE. According to BE theory, elevated BE enhances brand loyalty, increases purchase
+frequency, and raises consumers’ willingness to pay a premium80. Studies have shown that higher BE correlates
+with greater likelihood of sustained purchase behavior81 and more frequent engagement in positive word-ofmouth communication82. Based on this, the study proposes hypothesis 2:
+Hypothesis 2 BE positively and significantly influences CPI.
+CSR efforts not only enhance a company’s public image but also contribute to the development of intangible
+assets such as brand trust and emotional identification83. Stakeholder theory suggests that by fulfilling social
+responsibility expectations, companies gain emotional endorsement from consumers and broader social groups,
+thereby strengthening favorable brand perceptions84. Empirical studies consistently confirm the positive impact
+of CSR on brand awareness, brand loyalty, and overall BE85–87. Based on this, the study proposes hypothesis 3:
+Hypothesis 3 CSR has a positive and significant impact on BE.
+CSR initiatives indirectly shape consumer decision-making by elevating BE88. When consumers perceive
+alignment between their values and a company’s CSR efforts, they develop deeper emotional attachment and
+trust, which in turn enhances purchase intention. This mediating pathway aligns with the “cognition–affection–
+behavior” model, in which CSR (cognition) enhances BE (affection), ultimately resulting in consumer action
+(behavior)89. Existing research further validates BE’s role as a significant mediator in the relationship between
+CSR and consumer behavior90,91. Based on this, the study proposes hypothesis 4:
+Hypothesis 4 BE plays a mediating role between CSR and CPI.
+Based on the above hypotheses, the structural equation model is specified as follows:
+CP I = γ 1 CSR + ϵ1 (6)
+CP I = β 1 BE + β 2 CSR + ϵ2 (7)
+
+Here, γ 1 denotes the path coefficient from CSR to CP I ; β 1 represents the path coefficient from BE to CPI;
+β 2 indicates the direct effect of CSR on CPI; ϵ1 and ϵ2 are the corresponding error terms.
+
+Experimental design and performance evaluation
+Datasets collection
+
+The data for this study were sourced from two types of multi-source information: first, the Yelp review
+dataset, and second, the CSRHub corporate social responsibility dataset. The Yelp dataset, publicly released
+by the Yelp platform, contains authentic user reviews across various service industries, including restaurants,
+hotels, and beauty services. It includes fields such as review text, ratings, timestamps, and user and business
+information, making it a reliable resource for research in natural language processing, sentiment analysis, and
+recommendation systems. The CSRHub dataset, launched by CSRHub in 2007, compiles global corporate
+social responsibility performance data across dimensions such as environmental impact, employee rights, and
+philanthropy, providing a robust evaluation tool for CSR research.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+9
+
+www.nature.com/scientificreports/
+To achieve effective integration of Text-CNN and SEM, this study first constructed a CSR-themed keyword
+lexicon based on CSRHub data, covering three core dimensions: environmental responsibility, employee
+rights, and philanthropy. Next, Yelp reviews were matched with corporate CSR information, and only reviews
+containing CSR-related content were retained. This ensured that the input text for the Text-CNN model reflected
+corporate social responsibility rather than general service quality or consumer experience. The filtered review
+data underwent standard text preprocessing. Specifically, non-English reviews, special characters, URLs, and
+HyperText Markup Language tags were removed; stop words and short reviews with fewer than 10 characters
+were discarded; and tokenization and lowercasing were applied to guarantee high-quality, consistent training
+corpora.
+At the text representation level, this study adopts a dual-channel embedding strategy combining characterlevel and word-level features: character vectors have a dimension of 100, and word vectors have a dimension of
+300. The word vectors are pre-trained on large-scale corpora and fine-tuned to better capture the fine-grained
+sentiment nuances in Yelp reviews. Sentiment labels are automatically generated by mapping Yelp star ratings
+(1–2 stars as negative, 3 stars as neutral, 4–5 stars as positive) and then fed into the 2D-Text-CNN model for
+sentiment classification. The model is trained using a 70% training set, 10% validation set, and 20% test set split,
+combined with five-fold cross-validation to ensure stable performance and good generalization. After model
+output, the results are aggregated at the firm level by CSR dimension to form a corporate-level CSR sentiment
+index, which is aligned with CSRHub data. This operation establishes an auditable text-to-model integration
+pipeline, providing exogenous variable inputs for subsequent SEM analysis.
+To complement the sentiment analysis model and support SEM, a formal questionnaire survey was conducted.
+Prior to full-scale deployment, a pilot test was carried out with 25 respondents who had prior consumer
+experience. The pilot assessed item clarity, response comprehensibility, and logical coherence. Feedback
+indicated that the questionnaire was well-designed, requiring only minor wording refinements. The final version
+of the questionnaire was developed based on the theoretical model proposed in this study, encompassing three
+primary constructs: CSR, BE, and CPI. Measurement items were adapted from well-established scales and
+revised to ensure appropriateness for the Chinese linguistic and cultural context. A five-point Likert scale (1
+= strongly disagree; 5 = strongly agree) was used for all items, striking a balance between cognitive ease for
+respondents and measurement granularity. This format is also consistent with prevailing consumer response
+tendencies in similar contexts92.
+The questionnaire was administered online via the Wenjuanxing platform using a non-probability convenience
+sampling approach. Survey items were specifically designed for Brand A to ensure that the measurement of CPI
+corresponds directly with Yelp reviews and CSRHub corporate data, thereby enhancing the behavioral relevance
+and validity of the assessment. The target population comprised mainland Chinese consumers aged 18 or older
+with prior online shopping experience. To improve sample diversity and representativeness, demographic
+balance was maintained across gender, age, education level, and geographic location. Quality control measures,
+including response time restrictions and reverse-coded items, were employed to ensure data validity. A total of
+350 questionnaires were distributed, yielding 298 valid responses and an effective response rate of 85.1%. Validity
+criteria included completeness, internal consistency, and the elimination of extreme or patterned responses.
+Reliability and validity assessments confirmed data quality, with a Cronbach’s alpha of 0.906 and composite
+reliability (CR) values exceeding 0.70 for all constructs.
+Details of the measurement items, their sources, and final wordings are presented in Table 293–108.
+Through the aforementioned procedure, this study achieves multi-source integration of textual data, CSR
+metrics, and survey responses. Yelp reviews are processed by the Text-CNN model to extract CSR-related
+emotional features, which are then combined with brand-specific CPI data from the survey to construct the
+SEM model. In this way, the CSR latent variables not only reflect consumers’ authentic emotional responses but
+also correspond to the brand- or company-level context, thereby enhancing the empirical validity and inferential
+credibility of the theoretical framework.
+
+Experimental environment and parameter settings
+
+Regarding the experimental setup, this study was conducted on a Windows 10 operating system with an Intel
+Xeon Gold 6226R processor, ensuring computational efficiency for model training and data processing. The deep
+learning framework selected for model construction and training was PyTorch 2.0, while statistical analyses were
+performed using SPSS 26.0.
+For data processing and partitioning, after text cleaning and filtering, a total of 52,184 valid reviews were
+obtained, of which 16.8% (8,763 reviews) were related to CSR themes and used as the core input for sentiment
+modeling. Sentiment labels were derived from star ratings: negative (1–2 stars), neutral (3 stars), and positive
+(4–5 stars), resulting in a distribution of 28.6% negative, 18.9% neutral, and 52.5% positive, maintaining a
+relatively balanced dataset. The vocabulary was constructed with a minimum frequency threshold of 5, yielding
+approximately 38,000 unique tokens.
+The model employed a dual-channel embedding strategy (character vectors of 100 dimensions and word
+vectors of 300 dimensions, pre-trained using Word2Vec and fine-tunable). The convolutional layer included
+three kernel sizes (2 × 2, 3 × 3, and 4 × 4), each with 128 filters. Convolution outputs were processed through
+ReLU activation and 2 × 2 max pooling, followed by a Dropout layer with a rate of 0.5. Finally, a Softmax layer
+was applied for sentiment classification.
+The training parameters were set as follows: cross-entropy loss function, Adam optimizer with an initial
+learning rate of 0.001, batch size of 64, and 30 training epochs. The dataset was split into 70% training, 10%
+validation, and 20% test sets, with five-fold cross-validation applied within the training set. An Early Stopping
+mechanism was also employed to prevent overfitting. This consistent partitioning and validation process ensured
+transparency and reproducibility throughout the study.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+10
+
+www.nature.com/scientificreports/
+
+Variable name
+
+Original Item (English)
+
+Revised Item (Final wording)
+
+Reference
+
+The company provides quality products and services at reasonable
+prices.
+
+The company provides high-quality products and services at
+reasonable prices.
+
+Maignan and
+Ferrell93
+
+The company pays taxes in accordance with national regulations.
+
+The company pays taxes in compliance with the law and fulfills its
+economic duties.
+
+Avi-Yonah94
+
+Consumer
+Rights
+Protection
+(CRP)
+
+The company guarantees consumers’ rights to be informed and
+safe.
+
+The company ensures consumers’ rights to information and product
+safety.
+
+Scruggs and
+Ortolano95
+
+The company responds to customer complaints promptly and
+fairly.
+
+The company handles customer complaints in a timely and fair
+manner.
+
+Brown and Dacin96
+
+Employee
+Rights
+Protection
+(ERP)
+
+The company provides safe and fair working conditions for
+employees.
+
+The company offers employees safe and fair working conditions.
+
+The company respects employees’ rights and promotes their
+development.
+
+The company respects employees’ rights and supports their career
+development.
+
+Environmental
+Responsibility
+(ENV)
+
+The company actively takes steps to protect the environment.
+
+The company actively implements environmental protection measures. Dixon et al.98
+
+The company implements environmentally friendly practices in
+production.
+
+The company adopts environmentally friendly practices in its
+production processes.
+
+Peng et al.95
+
+Philanthropic
+Responsibility
+(PHI)
+
+The company donates to charities or community development
+programs.
+
+The company participates in philanthropy or supports community
+development.
+
+Brammer and
+Millington100
+
+The company organizes or sponsors public welfare activities.
+
+The company organizes or sponsors social welfare activities.
+
+I recognize this brand and can easily recall it.
+
+I can identify this brand and recall it easily.
+
+Yoo and Donthu101
+
+I trust this brand.
+
+I trust this brand.
+
+Bernarton et al.102
+
+I feel emotionally connected with this brand.
+
+I have an emotional attachment to this brand.
+
+Chaudhuri and
+Holbrook103
+
+I am loyal to this brand and prefer it over others.
+
+I am loyal to this brand and prioritize it when choosing products.
+
+Alhaddad104
+
+I intend to purchase products from this brand in the future.
+
+I intend to purchase products from this brand in the future.
+
+Kitzmueller and
+Shimshack105
+
+I would recommend this brand to others.
+
+I would recommend this brand to others.
+
+Boulding et al.106
+
+I will choose this brand when purchasing similar products.
+
+I will prefer this brand when purchasing similar products.
+
+Younus et al.107
+
+I plan to continue buying this brand’s products.
+
+I plan to keep purchasing this brand’s products in the future.
+
+Mirabi and
+Akbariyeh108
+
+Economic
+Responsibility
+(ER)
+
+BE
+
+CPI
+
+Shaharuddin et al.97
+
+Table 2. Measurement model validation results.
+
+To evaluate the model’s effectiveness in identifying CSR-related comments, a separate assessment was
+conducted on the CSR-specific subset. The 2D-Text-CNN achieved a precision of 0.893, recall of 0.891, and an
+F1-score of 0.897, demonstrating stable recognition of CSR-related sentiment signals. These results outperformed
+comparison models on the CSR subset, reinforcing the model’s credibility and providing interpretable external
+input for subsequent SEM analysis.
+To comprehensively evaluate the performance of the 2D-Text-CNN model in recognizing sentiment
+related to CPI, this study compares it with several mainstream sentiment analysis models. The benchmark
+models include: Deep Pyramid Convolutional Neural Network (DPCNN), Standard Text-CNN, Text-based
+Recurrent Neural Network (Text-RNN), Bidirectional Encoder Representations from Transformers with CNN
+(BERT-CNN), and Convolutional Recurrent Neural Network (CRNN). These comparative models represent
+a range of text representation and feature extraction strategies, encompassing deep convolutional structures,
+temporal sequence modeling, pre-trained transformer-based embeddings, and hybrid convolutional–recurrent
+architectures. This comparative analysis provides a robust foundation for assessing the accuracy, robustness, and
+fine-grained recognition capabilities of the proposed model.
+
+Performance evaluation of the 2D-text-CNN model in CSR sentiment recognition and
+consumer behavior analysis
+
+To ensure that the sentiment data input into the SEM model are reliable, this study validated the accuracy of
+the Text-CNN model in sentiment recognition. Figure 5 presents a comparative analysis of the performance of
+various algorithms across different types of text representations.
+As shown in Fig. 5, the 2D-Text-CNN model employed in this study outperforms comparative models such
+as BERT-CNN, Text-CNN, and DPCNN across character-level, word-level, and multi-feature fusion sentiment
+recognition tasks. Metrics including accuracy, precision, recall, F1-score, and AUC-ROC are consistently
+higher for 2D-Text-CNN. By integrating both character- and word-level embeddings, the model effectively
+captures fine-grained emotional cues while leveraging multi-scale convolutional kernels to extract both local
+and global features, thereby enhancing sentiment discrimination. Appropriate regularization strategies, such as
+Dropout and early stopping, prevent overfitting and improve model generalization and robustness. Compared
+with traditional single-feature or single-channel models, the 2D-Text-CNN consistently outperforms across
+multiple evaluation metrics. This performance demonstrates its ability to comprehensively and accurately
+capture sentiment in complex and diverse user-generated reviews, thereby exhibiting strong practical utility and
+considerable potential for broader application.
+To assess the reliability and validity of the latent constructs, confirmatory factor analysis (CFA) was conducted
+using AMOS 26.0. The results are summarized in Tables 3 and 4.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+11
+
+www.nature.com/scientificreports/
+
+Fig. 5. Comparison of recognition performance across different algorithms and text representation types.
+
+Latent variable
+
+CSR
+
+Indicator
+
+Average factor loading
+
+ER
+
+0.78
+
+CRP
+
+0.75
+
+ERP
+
+0.77
+
+ENV
+
+0.8
+
+Average variance extracted (AVE)
+
+CR
+
+0.59
+
+0.85
+
+PHI
+
+0.76
+
+BE
+
+—
+
+0.82
+
+0.66
+
+0.88
+
+CPI
+
+—
+
+0.85
+
+0.71
+
+0.91
+
+Table 3. Measurement model validation results.
+
+As shown in Tables 3 and 4, the measurement model employed in this study demonstrates overall good
+performance. The indicators for each latent variable effectively capture their corresponding constructs, indicating
+that the scale design is reasonable and possesses strong explanatory power and internal consistency. Moreover,
+the overall model fit meets commonly accepted academic standards, reflecting high reliability and stability.
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+12
+
+www.nature.com/scientificreports/
+
+Fit index
+
+Value
+
+Recommended threshold
+
+Chi-square/degrees of freedom (χ2/df)
+
+2.12
+
+<3
+
+Comparative Fit Index (CFI)
+
+0.958
+
+≥ 0.90
+
+Tucker-Lewis Index (TLI)
+
+0.951
+
+≥ 0.90
+
+Root Mean Square Error of Approximation (RMSEA)
+
+0.056
+
+≤ 0.08
+
+Standardized Root Mean Square Residual (SRMR)
+
+0.043
+
+≤ 0.08
+
+Table 4. Model fit indices.
+
+Indicator
+
+Eigenvalue
+
+Variance explained (%)
+
+Cumulative variance explained (%)
+
+Standardized factor loadings (CFA marker variable)
+
+All Measured Items Combined
+
+6.74
+
+27.15
+
+27.15
+
+-
+
+ER
+
+3.21
+
+12.84
+
+39.99
+
+0.72–0.84
+
+CRP
+
+2.47
+
+9.94
+
+49.93
+
+0.68–0.81
+
+ERP
+
+1.91
+
+7.68
+
+57.61
+
+0.70–0.82
+
+ENV
+
+1.35
+
+5.44
+
+63.05
+
+0.66–0.79
+
+PHI
+
+1.02
+
+4.09
+
+67.14
+
+0.65–0.77
+
+BE
+
+0.87
+
+3.48
+
+70.62
+
+0.74–0.88
+
+CPI
+
+0.81
+
+3.24
+
+73.86
+
+0.71–0.85
+
+Table 5. Common method bias test results.
+
+Fig. 6. Descriptive statistics of the empirical study.
+
+Collectively, these validation results provide a solid foundation for subsequent analysis of path relationships,
+ensuring that the study’s conclusions are both scientific and credible.
+To examine whether the data are subject to significant common method bias, this study employed both
+Harman’s single-factor test and the CFA marker variable approach. The results are presented in Table 5.
+As shown in Table 5, the assessment using Harman’s single-factor test and the CFA marker variable approach
+indicates that the study data do not exhibit significant common method bias. The first factor accounts for only
+27.15% of the variance, and the high correlations among latent variables primarily reflect genuine relationships
+rather than measurement artifacts. This demonstrates that the self-reported survey data are robust and
+interpretable, providing a reliable foundation for the subsequent SEM path analysis.
+Figure 6 presents the descriptive statistics derived from the 2D-Text-CNN-based empirical study on CPI.
+Figure 6 illustrates that the means of most variables are centered around 3, indicating that respondents
+generally hold a neutral-to-slightly-positive evaluation of these factors. CSR and economic responsibility
+show slightly higher means, suggesting that participants generally consider these responsibilities important.
+BE has a slightly lower mean, reflecting more cautious assessments. CPI is at a moderately high neutral level
+overall. Standard deviations indicate some variability in respondents’ perceptions across certain variables,
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+13
+
+www.nature.com/scientificreports/
+particularly in employee rights and environmental protection dimensions. Skewness and kurtosis results show
+that most variables exhibit relatively flat distributions close to normal, indicating that while scores are generally
+concentrated, differences among respondents exist.
+To examine consumers’ emotional responses to CSR and their effects on BE and purchase intention, the study
+employed the 2D-Text-CNN model for sentiment classification of online reviews. The specific results of this
+sentiment analysis are presented in Fig. 7.
+As shown in Fig. 7, consumers generally hold a positive attitude toward corporate CSR, with positive emotions
+predominating (approximately 45%–52%), neutral emotions accounting for roughly one-third, and negative
+emotions representing a relatively small proportion. Among the various CSR dimensions, ENV and PHI exhibit
+the highest proportions of positive emotions, indicating strong consumer recognition of corporate efforts in
+environmental protection and public welfare. In contrast, ERP shows a relatively higher proportion of negative
+emotions, suggesting that consumer perceptions in this area remain more divided. Furthermore, BE and CPI
+also display evident positive emotional responses, indicating that CSR enhances consumer identification with
+the brand and also effectively translate into purchase intention. These findings support the core logic that the
+various dimensions of CSR influence CPI through the mediating role of BE.
+Figure 8 illustrates the results of the Pearson correlation analysis conducted on the variables used in the
+2D-Text-CNN-based empirical study.
+As shown in Fig. 8, CSR and its individual dimensions are all significantly positively correlated with CPI,
+indicating that the more comprehensive a company’s CSR practices, the higher the consumer’s willingness
+to purchase. Among the dimensions, ENV, PHI, and ERP have the most pronounced effects on CPI. Overall
+CSR scores exhibit a close relationship with CPI. Additionally, BE shows the strongest correlation with CPI,
+suggesting a potential mediating role between CSR and customer purchase intention.
+Based on the CSR sentiment indices generated by the 2D-Text-CNN model and survey data, a complete SEM
+was constructed to examine the influence pathways of CSR and its dimensions on CPI and to test the mediating
+effect of BE. The detailed results are presented in Tables 6 and 7.
+As shown in Table 6, the overall model exhibits good fit, meeting the requirements for SEM analysis. The R²
+values for the endogenous variables indicate that BE accounts for 62.1% of the variance, while CPI accounts for
+73.8% of the variance, demonstrating that the model effectively explains the relationships among the variables.
+As shown in Table 7, CSR and its individual dimensions all exhibit significant positive direct effects on CPI.
+BE plays a significant partial mediating role across all paths, with indirect effects accounting for approximately
+38–44% of the total effects, indicating that BE serves as a crucial bridging mechanism in the CSR→CPI pathway.
+Notably, the mediating effects of the ENV and PHI dimensions are the most prominent, highlighting the strong
+influence of corporate actions in environmental protection and social welfare on enhancing consumer purchase
+intention.
+The results provide empirical support for the hypothesized relationships:
+•
+•
+•
+•
+
+CSR has a significant positive impact on CPI (supporting H1).
+BE positively influences CPI (supporting H2).
+CSR significantly enhances BE (supporting H3).
+BE partially mediates the relationship between CSR and CPI (supporting H4).
+
+Overall, the findings validate the theoretical framework grounded in the cognition–affection–behavior model.
+CSR initiatives enhance consumers’ cognitive evaluations of the firm, elevate emotional attachment via BE, and
+
+Fig. 7. Sentiment analysis results.
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+14
+
+www.nature.com/scientificreports/
+
+Fig. 8. Correlation analysis results of the empirical study.
+
+Fit Index
+
+Value
+
+Recommended threshold
+
+Result
+
+χ²/df
+
+2.18
+
+<3
+
+Good
+
+CFI
+
+0.956
+
+> 0.90
+
+Good
+
+TLI
+
+0.949
+
+> 0.90
+
+Good
+
+RMSEA
+
+0.057
+
+< 0.08
+
+Good
+
+SRMR
+
+0.045
+
+< 0.08
+
+Good
+
+Table 6. Structural model fitting index.
+
+Independent Variable (X)
+
+Mediator (M)
+
+Dependent Variable (Y)
+
+Standardized Path (c’)
+
+Standardized Indirect Effect
+(a×b)
+
+95% Bootstrap CI
+
+Total Effect (c)
+
+CSR
+
+BE
+
+CPI
+
+0.361***
+
+0.226***
+
+[0.190, 0.265]
+
+0.587***
+
+ER
+
+BE
+
+CPI
+
+0.192***
+
+0.143***
+
+[0.115, 0.173]
+
+0.335***
+
+CRP
+
+BE
+
+CPI
+
+0.177***
+
+0.136***
+
+[0.110, 0.165]
+
+0.313***
+
+ERP
+
+BE
+
+CPI
+
+0.201***
+
+0.131***
+
+[0.105, 0.160]
+
+0.332***
+
+ENV
+
+BE
+
+CPI
+
+0.219***
+
+0.144***
+
+[0.117, 0.177]
+
+0.363***
+
+PHI
+
+BE
+
+CPI
+
+0.213***
+
+0.137***
+
+[0.110, 0.169]
+
+0.350***
+
+Table 7. Structural model path coefficient and mediating effect (standardization).
+
+ultimately increase behavioral intentions such as product purchases. This study offers robust theoretical and
+empirical evidence to guide enterprises in designing effective CSR strategies and optimizing brand development
+to foster long-term consumer engagement.
+The structural model path diagram of this study is presented in Fig. 9.
+Figure 9 visually illustrates the influence pathways of CSR and its five dimensions on CPI, while highlighting
+the mediating role of BE. In the figure, the blue area represents CSR and its dimensions, the magenta area
+denotes the mediator BE (R² = 0.621), and the orange area represents the dependent variable CPI (R² = 0.738).
+Solid lines indicate the indirect paths from CSR/dimensions → BE → CPI, and dashed lines represent the direct
+paths from CSR/dimensions → CPI. All paths are labeled with significant positive coefficients (***p < 0.001).
+The diagram also confirms good model fit and shows that the mediating effects are validated through Bootstrap
+testing, clearly demonstrating the core mechanism whereby CSR enhances CPI by strengthening BE.
+
+Discussion
+
+This study innovatively integrates the Text-CNN deep learning model with SEM to examine the impact of CSR
+on CPI and the mediating role of BE. Unlike prior research that primarily relies on survey data and linear
+statistical models, this study overcomes methodological limitations by leveraging Text-CNN to extract fineScientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+15
+
+www.nature.com/scientificreports/
+
+Fig. 9. Structural model path diagram.
+
+grained emotional features from consumer online reviews and incorporating them into the SEM framework for
+systematic analysis. This dual-method approach enhances the precision of theoretical validation and improves
+the depth of empirical analysis. In addition, it fosters the integration of deep learning techniques with behavioral
+science, addressing a previous gap in which these approaches were often applied separately without meaningful
+interaction.
+At the theoretical level, this study expands the application of social identity theory in the context of
+CSR. The results indicate that consumers’ identification with corporate CSR activities manifests not only at
+the level of rational cognition but also through emotional responses. The mediating role of BE in the CSR–
+consumer behavior relationship highlights the dual mechanisms of cognition and emotion, providing a more
+comprehensive framework for understanding consumer reactions to CSR. By integrating stakeholder theory
+and signaling theory, the study demonstrates how CSR initiatives convey positive signals through brand image,
+thereby enhancing consumer trust and identification with the firm. This multi-theoretical perspective enriches
+the explanation of CSR’s impact mechanisms, emphasizing that CSR generates value not only at the transactional
+level but also in relational and reputational dimensions. Methodologically, the study achieves notable innovation.
+Previous applications of sentiment analysis in CSR research have largely remained at the level of basic emotion
+classification. In contrast, this study embeds Text-CNN–extracted sentiment features into an SEM behavioral
+model, illustrating how emotional responses systematically influence BE and purchase intention. This approach
+enhances the scientific rigor of CSR research and provides a replicable interdisciplinary paradigm for future
+scholars. Finally, the findings reveal dimension-specific effects of CSR. Environmental responsibility and
+philanthropic initiatives elicit the strongest positive emotional responses, which in turn significantly enhance BE
+and consumer purchase intention. This result underscores the varying contributions of different CSR dimensions
+to consumer behavior, offering a more nuanced theoretical entry point for future research.
+At the managerial level, this study also holds significant practical value. For enterprises, the results indicate
+that investments in environmental responsibility and philanthropic initiatives yield the most substantial returns
+in terms of BE and consumer behavior. Therefore, companies should prioritize resource allocation to areas that
+closely align with consumer values, while also attending to employee rights and consumer protection to prevent
+potential negative perceptions. For brand managers and marketing professionals, the revealed mediating role of
+BE suggests that CSR should be closely integrated with brand communication. For instance, CSR activities can
+be embedded into brand storytelling, communicated transparently via social media, and involve consumers in
+co-creating CSR initiatives to strengthen emotional attachment and brand loyalty. Additionally, firms should
+leverage AI-driven sentiment monitoring tools to dynamically track consumer responses to CSR and adjust
+communication strategies in a timely manner. For policymakers, the findings highlight the need to establish
+institutional mechanisms that encourage corporate CSR engagement. This may include financial incentives
+for green initiatives, recognition and awards for philanthropic efforts, and stricter regulation of employee and
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+16
+
+www.nature.com/scientificreports/
+consumer rights. Such measures can guide enterprises to actively fulfill their social responsibilities, thereby
+promoting sustainable development and overall societal well-being.
+In summary, this study makes meaningful contributions at both theoretical and practical levels. Theoretically,
+it provides a deeper explanation of how CSR influences consumer behavior through BE by integrating multiple
+theoretical perspectives, incorporating emotional dimensions, and introducing methodological innovations.
+Practically, it offers actionable guidance for corporate CSR strategy implementation, brand communication, and
+policy design. By integrating advanced sentiment analysis techniques with the SEM framework within a multitheoretical context, this study offers new perspectives and practical insights for understanding and optimizing
+the mechanisms through which CSR influences consumer behavior.
+
+Conclusion
+
+Research contribution
+
+This study integrates deep learning techniques with empirical modeling by employing an optimized 2D-TextCNN framework to conduct sentiment analysis on consumer online reviews. By incorporating both characterlevel and word-level features, the model enhances the granularity of textual understanding and emotional feature
+extraction. Grounded in social identity theory, the study constructs a SEM to investigate the relationships among
+CSR, BE, and CPI, with particular emphasis on the mediating role of BE in the CSR–CPI linkage. Experimental
+results confirm that the proposed 2D-Text-CNN model achieves superior performance across three types of
+feature representations. Notably, it attains an F1 score of 0.951 under the integrated feature scenario, validating
+its multidimensional feature extraction capability. Among benchmark models, BERT-CNN demonstrates strong
+semantic comprehension, achieving a precision of 0.926 in word-level scenarios. The dual-channel feature fusion
+strategy notably enhances the performance of 2D-Text-CNN, highlighting the benefits of combining granular
+and semantic representations. Empirical findings reveal that CSR exerts a significant positive effect on CPI, with
+environmental responsibility and employee rights protection emerging as the most influential CSR dimensions.
+Furthermore, BE plays a pronounced mediating role in the relationship between CSR and CPI. The results
+demonstrate that various CSR dimensions indirectly reinforce CPI by enhancing BE, with environmental and
+philanthropic responsibilities exhibiting the strongest mediating pathways.
+Overall, the study confirms Hypotheses 1 through 4, substantiating that CSR initiatives not only directly
+affect customer behavior but also indirectly do so by fostering BE. These findings suggest that enterprises can
+strengthen their social image and consumer motivation by emphasizing CSR engagement, thereby achieving
+both reputational and market-oriented objectives.
+
+Future works and research limitations
+
+Although this study provides valuable insights into the impact of CSR on CPI, several limitations warrant
+consideration. First, despite the high accuracy achieved by the optimized 2D-Text-CNN model, NLP techniques,
+particularly those based on deep learning, still face challenges in interpreting complex semantic expressions such
+as sarcasm, irony, and implicit sentiment. These limitations may lead to misclassification of sentiment polarity,
+affecting the precision of the analysis. Additionally, the model’s performance is highly dependent on domainspecific corpora, which constrains its generalizability across different industries and cultural contexts. As a
+result, the model may struggle to maintain accuracy and interpretability when applied to more heterogeneous
+real-world scenarios. Second, the study adopts a cross-sectional design and thus does not capture the longterm or delayed effects of CSR on consumer behavior. In practice, the influence of CSR often accumulates over
+time and may exhibit lagged effects on consumer perception and intention. Future research would benefit
+from longitudinal data to explore the dynamic evolution of these relationships and to better understand how
+CSR impacts unfold over time. Third, this study does not account for potential moderating variables—such
+as consumer values, corporate size, or industry sector—that may condition the strength or direction of CSR’s
+effects. These contextual factors could play a significant role in shaping consumer responses to CSR and warrant
+further investigation.
+Future research may advance in several directions. First, the adoption of more sophisticated sentiment
+analysis models—such as Transformer-based architectures or hybrid models incorporating multimodal inputs—
+could enhance the interpretation of complex semantics and improve robustness across domains. Second, a
+longitudinal design would enable the examination of temporal dynamics and cumulative effects, offering a more
+comprehensive understanding of CSR’s influence. Lastly, exploring potential synergistic or offsetting effects
+among different CSR dimensions could enrich the theoretical framework and provide more targeted practical
+strategies for leveraging CSR to influence consumer behavior.
+
+Data availability
+
+The datasets used and/or analyzed during the current study are available from the corresponding author Zhengshun Shen on reasonable request via e-mail zhshshen@hytc.edu.cn.
+Received: 8 August 2025; Accepted: 7 November 2025
+
+References
+
+1. Long, F. et al. How CSR influences young Chinese consumers’ purchase decisions towards Western brands: the moderating effect
+of consumer ethnocentrism[J]. Kybernetes 52 (11), 5269–5283 (2023).
+2. Faisal, M. N. Analysing the barriers to corporate social responsibility in supply chains: an interpretive structural modelling
+approach[J]. Int. J. Logistics: Res. Appl. 13 (3), 179–195 (2010).
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+17
+
+www.nature.com/scientificreports/
+3. Dawar, G. & Singh, S. Barriers to corporate social responsibility implementation in the medium size manufacturing sector: an
+interpretive structure modelling approach[J]. J. Entrepreneurship Emerg. Economies. 15 (2), 447–479 (2023).
+4. Kanji, R. & Agrawal, R. Exploring the use of corporate social responsibility in Building disaster resilience through sustainable
+development in india: an interpretive structural modelling approach[J]. Progress Disaster Sci. 6 (1), 100089 (2020).
+5. Alferaih, A. Understanding causal links among the dimensions of corporate social responsibility: a framework developed using
+interpretive structural modelling[J]. Social Responsib. J. 16 (8), 1357–1376 (2020).
+6. Du, S., El Akremi, A. & Jia, M. Quantitative research on corporate social responsibility: A quest for relevance and rigor in a
+quickly evolving, turbulent world[J]. J. Bus. Ethics. 187 (1), 1–15 (2023).
+7. Barbeito-Caamaño, A. & Chalmeta, R. Using big data to evaluate corporate social responsibility and sustainable development
+practices[J]. Corp. Soc. Responsib. Environ. Manag. 27 (6), 2831–2848 (2020).
+8. Aguirre, C. et al. Consumer motivations for engaging with corporate social responsibility on social media[J]. Span. J. marketingESIC. 27 (2), 202–220 (2023).
+9. Zhang, Q. & Ahmad, S. Linking corporate social responsibility, consumer identification and purchasing intention[J]. Sustainability
+14 (19), 12552 (2022).
+10. Lin, C. P. et al. Understanding purchase intention during product-harm crises: moderating effects of perceived corporate ability
+and corporate social responsibility[J]. J. Bus. Ethics. 102 (3), 455–471 (2011).
+11. Gatti, L., Caruana, A. & Snehota, I. The role of corporate social responsibility, perceived quality and corporate reputation on
+purchase intention: implications for brand management[J]. J. Brand Manage. 20 (1), 65–76 (2012).
+12. Zhang, Q. & Ahmad, S. Analysis of corporate social responsibility execution effects on purchase intention with the moderating
+role of customer awareness[J]. Sustainability 13 (8), 4548 (2021).
+13. Al-Haddad, S. et al. The influence of corporate social responsibility on consumer purchase intention: the mediating role of
+consumer engagement via social media[J]. Sustainability 14 (11), 6771 (2022).
+14. Aaker, D. A. The value of brand equity[J]. J. Bus. Strategy. 13 (4), 27–32 (1992).
+15. Kara, K. et al. A neutrosophic WENSLO-ARLON model for measuring sustainable brand equity performance[J]. Socio-economic
+Plann. Sci. 94, 101918 (2024).
+16. Phan, C. X. et al. The impact of corporate social responsibility on brand image: A case study in Vietnam[J]. J. Asian Finance Econ.
+Bus. 8 (4), 423–431 (2021).
+17. Salehzadeh, R., Khazaei Pool, J. & Jafari Najafabadi, A. H. Exploring the relationship between corporate social responsibility,
+brand image and brand equity in Iranian banking industry[J]. J. Islamic Acc. Bus. Res. 9 (2), 106–118 (2018).
+18. Khurana, D. et al. Natural Language processing: state of the art, current trends and challenges[J]. Multimedia Tools Appl. 82 (3),
+3713–3744 (2023).
+19. Malik, N. & Bilal, M. Natural Language processing for analyzing online customer reviews: a survey, taxonomy, and open research
+challenges[J]. PeerJ Comput. Sci. 10, e2203 (2024).
+20. Hannan, S. A. et al. Data mining and natural Language processing methods for extracting opinions from customer reviews[J]. Int.
+J. Comput. Intell. Inform. Secur. 3 (6), 52–58 (2012).
+21. Goloshchapova, I. et al. Corporate social responsibility reports: topic analysis and big data approach[J]. Eur. J. Finance. 25 (17),
+1637–1654 (2019).
+22. Ong, K. et al. Explainable natural Language processing for corporate sustainability analysis[J]. Inform. Fusion. 115 (1), 102726
+(2025).
+23. Deshmukh, P. & Tare, H. Green marketing and corporate social responsibility: A review of business practices[J]. Multidisciplinary
+Reviews. 7 (3), 2024059–2024059 (2024).
+24. Hasib, K. M. et al. Mcnn-lstm: combining Cnn and Lstm to classify multi-class text in imbalanced news data[J]. IEEE Access. 11
+(1), 93048–93063 (2023).
+25. Peng, J. & Huo, S. Application of an improved convolutional neural network algorithm in text classification[J]. J. Web Eng. 23 (3),
+315–339 (2024).
+26. Zhong, X. Text classification and topic mining of intelligent forum comments in university MOOC based on CNN networks[J].
+Int. J. Comput. Syst. Eng. 9 (1), 58–67 (2025).
+27. Ni, Q. Deep neural network model construction for digital human resource management with human-job matching[J]. Comput.
+Intell. Neurosci. 2022 (1), 1418020 (2022).
+28. Zhou, Y. et al. Set-CNN: A text convolutional neural network based on semantic extension for short text classification[J]. Knowl.
+Based Syst. 257 (1), 109948 (2022).
+29. Ackermann, C. L., Teichert, T. & Truong, Y. So, what is it? And do I like it?’ new product categorisation and the formation of
+consumer implicit attitude[J]. J. Mark. Manage. 34 (9–10), 796–818 (2018).
+30. Wang, J. et al. Research on Chinese consumers’ attitudes analysis of big-data driven price discrimination based on machine
+learning[J]. Front. Psychol. 12, 803212 (2022).
+31. Ullah, A. et al. Understanding quality of products from customers’ attitude using advanced machine learning methods[J].
+Computers 12 (3), 49 (2023).
+32. Guo, S. X. et al. Attention-based character-word hybrid neural networks with semantic and structural information for identifying
+of urgent posts in MOOC discussion forums[J]. IEEE access. 7, 120522–120532 (2019).
+33. Billig, M. & Tajfel, H. Social categorization and similarity in intergroup behaviour[J]. Eur. J. Social Psychol. 3 (1), 27–52 (1973).
+34. Freeman, R. E. Divergent stakeholder theory[J]. Acad. Manage. Rev. 24 (2), 233–236 (1999).
+35. Huddy, L. From social to political identity: A critical examination of social identity theory[J]. Political Psychol. 22 (1), 127–156
+(2001).
+36. Lindgreen, A. & Swaen, V. Corporate social responsibility[J]. Int. J. Manage. Reviews. 12 (1), 1–7 (2010).
+37. Moir, L. What do we mean by corporate social responsibility?[J]. Corp. Governance: Int. J. Bus. Soc. 1 (2), 16–22 (2001).
+38. Narayanan, S. & Singh, G. A. Consumers’ willingness to pay for corporate social responsibility: theory and evidence[J]. Int. J.
+Consumer Stud. 47 (6), 2212–2244 (2023).
+39. Barlas, A. et al. The effect of corporate social responsibility on customer trust and loyalty[J]. Sustainability 15 (2), 1036 (2023).
+40. Nguyen-Viet, B., Tran, C. T. & Ngo, H. T. K. Corporate social responsibility and behavioral intentions in an emerging market: the
+mediating roles of green brand image and green trust[J]. Clean. Responsible Consum. 12 (1), 100170 (2024).
+41. Cuesta-Valiño, P. et al. The impact of corporate social responsibility on consumer brand engagement and purchase intention at
+fashion retailers[J] Vol. 41, 649–664 (Psychology & Marketing, 2024).
+42. Ciu, E. & Wijayanti, C. A. The role of consumer ethnocentrism, perceived quality, perceived price, and perceived brand image on
+willingness to buy Erigo Clothing[J]. Klabat J. Manage. 5 (1), 49–71 (2024).
+43. Amankona, D., Yi, K. & Kampamba, C. Understanding digital social responsibility’s impact on purchase intention: insights from
+consumer engagement, brand loyalty and generation Y consumers[J]. Manage. Matters. 21 (2), 117–142 (2024).
+44. Tiwari, M. K. Separation of brand equity and brand value[J]. Global Bus. Rev. 11 (3), 421–434 (2010).
+45. Faircloth, J. B., Capella, L. M. & Alford, B. L. The effect of brand attitude and brand image on brand equity[J]. J. Mark. Theory
+Pract. 9 (3), 61–75 (2001).
+46. Golob, U., Lah, M. & JanÄiÄ, Z. Value orientations and consumer expectations of corporate social responsibility[J]. J. Mark.
+Commun. 14 (2), 83–96 (2008).
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+18
+
+www.nature.com/scientificreports/
+47. Gálvez-Sánchez, F. J. et al. Exploring the three-dimensional effect of corporate social responsibility on brand equity, corporate
+reputation, and willingness to pay. A study of the fashion industry[J]. J. Retailing Consumer Serv. 79 (1), 103836 (2024).
+48. Wankhade, M., Rao, A. C. S. & Kulkarni, C. A survey on sentiment analysis methods, applications, and challenges[J]. Artif. Intell.
+Rev. 55 (7), 5731–5780 (2022).
+49. Medhat, W., Hassan, A. & Korashy, H. Sentiment analysis algorithms and applications: A survey[J]. Ain Shams Eng. J. 5 (4),
+1093–1113 (2014).
+50. Taboada, M. Sentiment analysis: an overview from linguistics[J]. Annual Rev. Linguistics. 2 (1), 325–347 (2016).
+51. Ho, S. S. H., Oh, C. H. & Shapiro, D. Can corporate social responsibility lead to social license? A sentiment and emotion
+analysis[J]. J. Manage. Stud. 61 (2), 445–476 (2024).
+52. Balcıoğlu, Y. S., Bıyıklar, M. A. & Güven, E. Global trends in green consumption: analyzing market acceptance and sentiment
+through Instagram data mining[J]. Curr. Psychol. 44 (1), 693–716 (2025).
+53. Giacomini, D. et al. Corporate social responsibility actions and organizational legitimacy at the peak of COVID-19: a sentiment
+analysis[J]. Corp. Governance: Int. J. Bus. Soc. 21 (6), 1043–1058 (2021).
+54. Fan, J. et al. Mining the impact of social media information on public green consumption attitudes: a framework based on ELM
+and text data mining[J]. Humanit. Social Sci. Commun. 11 (1), 1–19 (2024).
+55. Xing, X. et al. Multi-Head Encoder Shared Model Integrating Intent and Emotion for Dialogue Summarization[J] Vol. 82, 2275
+(Computers, Materials & Continua, 2025). 2.
+56. Kaur, G. & Sharma, A. A deep learning-based model using hybrid feature extraction approach for consumer sentiment analysis[J].
+J. Big Data. 10 (1), 5 (2023).
+57. Jang, J. & Kang, J. CnSR: exploring consumer social responsibility using machine learning-based topic modeling with natural
+Language processing[J]. Sustainability 16 (1), 197 (2023).
+58. Galiano-Coronil, A. et al. Exploring social responsibility, social marketing and happiness using artificial intelligence, automated
+text analysis and correspondence analysis[J]. Manag. Decis. 62 (2), 549–574 (2024).
+59. Paruzel, A., Danel, M. & Maier, G. W. Scrutinizing social identity theory in corporate social responsibility: an experimental
+investigation[J]. Front. Psychol. 11, 580620 (2020).
+60. Ahmad, N. et al. Fostering hotel-employee creativity through micro-level corporate social responsibility: a social identity theory
+perspective[J]. Front. Psychol. 13, 853125 (2022).
+61. Umar, Z. et al. Media sentiment and short stocks performance during a systemic crisis[J]. Int. Rev. Financial Anal. 78, 101896
+(2021).
+62. Alcabnani, S. et al. Application of sentiment analysis in social networks: a case of analyzing online hotel[J]. J. Theoretical Appl.
+Inform. Technol. 101 (20), 6235–6253 (2023).
+63. Kayakuş, M. et al. Sustainable brand reputation: evaluation of iPhone customer reviews with machine learning and sentiment
+analysis[J]. Sustainability 16 (14), 6121 (2024).
+64. Anderson, T., Sarkar, S. & Kelley, R. Analyzing public sentiment on sustainability: A comprehensive review and application of
+sentiment analysis techniques[J]. Nat. Lang. Process. J. 8, 100097 (2024).
+65. Belarmino, A., Whalen, E. A. & Guzzo, R. F. The impact of message framing on perceptions of controversial CSR in hotels[J]. Int.
+Hospitality Rev. 39 (2), 304–322 (2025).
+66. Su, L. et al. Corporate social responsibility, corporate reputation, customer emotions and behavioral intentions: A structural
+equation modeling analysis[J]. J. China Tourism Res. 10 (4), 511–529 (2014).
+67. Khan, L. et al. Deep sentiment analysis using CNN-LSTM architecture of english and Roman Urdu text shared in social media[J].
+Appl. Sci. 12 (5), 2694 (2022).
+68. Susandri, S., Defit, S. & Tajuddin, M. Enhancing text sentiment classification with hybrid CNN-BiLSTM model on whatsapp
+group[J]. J. Adv. Inf. Technol. 15 (3), 355–363 (2024).
+69. Liu, F. et al. Combining attention-based bidirectional gated recurrent neural network and two-dimensional convolutional neural
+network for document-level sentiment classification[J]. Neurocomputing 371 (1), 39–50 (2020).
+70. Liao, S. et al. CNN for situations Understanding based on sentiment analysis of Twitter data[J]. Procedia Comput. Sci. 111,
+376–381 (2017).
+71. McGowan, M., Shiu, E. & Hassan, L. M. The influence of social identity on value perceptions and intention[J]. J. Consumer Behav.
+16 (3), 242–253 (2017).
+72. Wang, L., Zhang, Q. & Wong, P. P. W. Reexamination of consumers’ willingness to stay at green hotels: rethinking the role of social
+identity theory, value-belief-norm theory, and theory of planned behavior[J]. J. Hospitality Mark. Manage. 33 (4), 547–581 (2024).
+73. van Knippenberg, D. Developing the social identity theory of leadership: leader agency in leader group prototypicality[J]. Soc.
+Pers. Psychol. Compass. 17 (4), e12739 (2023).
+74. Ahmad, F. & GuzmÃ¡n, F. Negative online reviews, brand equity and emotional contagion[J]. Eur. J. Mark. 55 (11), 2825–2870
+(2021).
+75. Risitano, M. et al. Analysing the Impact of Green Consumption Values on Brand Responses and Behavioural intention[J] Vol. 32,
+1096–1112 (Business Ethics, the Environment & Responsibility, 2023). 3.
+76. Lee, J. N. et al. The social meaning of mobile money: earmarking reduces the willingness to spend in migrant households[J]. J.
+Econ. Behav. Organ. 221 (1), 675–688 (2024).
+77. Huang, C. C., Yen, S. W. & Liu, C. Y, et al. The relationship among corporate social responsibility, service quality, corporate image
+and purchase intention[J]. Int. J. Organizational Innov. 6(3), 1-20 (2014).
+78. Zhuang, M. et al. Research of influence mechanism of corporate social responsibility for smart cities on consumers’ purchasing
+intention[J]. Libr. Hi Tech. 40 (5), 1147–1158 (2022).
+79. Ali, F. & Sohail, M. Effects of corporate social responsibility on consumer purchase intention[J]. Pakistan J. Humanit. Social Sci.
+6 (4), 477–491 (2018).
+80. Vu, D. M. et al. Environmental corporate social responsibility initiatives and green purchase intention: an application of the
+extended theory of planned behavior[J]. Social Responsib. J. 18 (8), 1627–1645 (2022).
+81. Yeh, C. H., Wang, Y. S. & Yieh, K. Predicting smartphone brand loyalty: consumer value and consumer-brand identification
+perspectives[J]. Int. J. Inf. Manag. 36 (3), 245–257 (2016).
+82. Salehzadeh, R. & Pool, J. K. Brand attitude and perceived value and purchase intention toward global luxury brands[J]. J. Int.
+Consumer Mark. 29 (2), 74–82 (2017).
+83. Dam, T. C. Influence of brand trust, perceived value on brand preference and purchase intention[J]. J. Asian Finance Econ. Bus. 7
+(10), 939–947 (2020).
+84. Troiville, J. Connecting the Dots between brand equity and brand loyalty for retailers: the mediating roles of brand attitudes and
+word-of-mouth communication[J]. J. Bus. Res. 177 (1), 114650 (2024).
+85. Muniz, F. & Guzmán, F. The impact of brand value co-creation on perceived CSR authenticity and brand equity[J]. J. Prod. Brand
+Manage. 32 (8), 1338–1354 (2023).
+86. He, Y. & Lai, K. K. The effect of corporate social responsibility on brand loyalty: the mediating role of brand image[J]. Total Qual.
+Manage. Bus. Excellence. 25 (3–4), 249–263 (2014).
+87. Abd-El-Salam, E. M. Investigating loyalty through CSR: the mediating role of brand image and brand trust[J]. J. Customer Behav.
+19 (3), 252–279 (2020).
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+19
+
+www.nature.com/scientificreports/
+88. Chikazhe, L. et al. Corporate social responsibility as a mediator of the effect of brand awareness and corporate reputation on
+customer loyalty[J]. Bus. Manage. Strategy. 11 (1), 243–261 (2020).
+89. Esmaeilpour, M. & Barjoei, S. The impact of corporate social responsibility and image on brand equity[J]. Global Bus. Manage.
+Res. 8 (3), 55 (2016).
+90. Wang, S. et al. The role of corporate social responsibility perceptions in brand equity, brand credibility, brand reputation, and
+purchase intentions[J]. Sustainability 13 (21), 11975 (2021).
+91. Jung, C. M. & Hur, W. M. How does corporate hypocrisy reduce customer co-creation behaviors? Moderated mediation analysis
+of corporate reputation and self-brand connection[J]. Int. J. Bank. Mark. 42 (2), 205–225 (2024).
+92. Armstrong, R. L. The midpoint on a five-point Likert-type scale[J]. Percept. Mot. Skills. 64 (2), 359–362 (1987).
+93. Maignan, I. & Ferrell, O. C. Corporate social responsibility and marketing: an integrative framework[J]. J. Acad. Mark. Sci. 32 (1),
+3–19 (2004).
+94. Avi-Yonah, R. S. Taxation, corporate social responsibility and the business enterprise[J]. CLPE Research paper, (19). (2009).
+95. Scruggs, C. E. & Ortolano, L. Creating safer consumer products: the information challenges companies face[J]. Environ. Sci.
+Policy. 14 (6), 605–614 (2011).
+96. Brown, T. J. & Dacin, P. A. The company and the product: corporate associations and consumer product responses[J]. J. Mark. 61
+(1), 68–84 (1997).
+97. Shaharuddin, R. R. R., Mutalib, L. A. & Hashim, H. The concept of rights and protection to employees: A comparative overview[J].
+Int. J. Islamic Thought. 4, 58 (2013).
+98. Dixon, R., Mousa, G. A. & Woodhead, A. The role of environmental initiatives in encouraging companies to engage in
+environmental reporting[J]. Eur. Manag. J. 23 (6), 702–716 (2005).
+99. Peng, B. et al. Extended producer responsibility and corporate performance: effects of environmental regulation and environmental
+strategy[J]. J. Environ. Manage. 218, 181–189 (2018).
+100. Brammer, S. & Millington, A. Corporate reputation and philanthropy: an empirical analysis[J]. J. Bus. Ethics. 61 (1), 29–44 (2005).
+101. Yoo, B. & Donthu, N. Developing and validating a multidimensional consumer-based brand equity scale[J]. J. Bus. Res. 52 (1),
+1–14 (2001).
+102. Bernarto, I. et al. The influence of brand awareness, brand image, and brand trust on brand loyalty[J]. Jurnal Manajemen. 24 (3),
+412–426 (2020).
+103. Chaudhuri, A. & Holbrook, M. B. The chain of effects from brand trust and brand affect to brand performance: the role of brand
+loyalty[J]. J. Mark. 65 (2), 81–93 (2001).
+104. Alhaddad, A. A structural model of the relationships between brand image, brand trust and brand loyalty[J]. Int. J. Manage. Res.
+Reviews. 5 (3), 137 (2015).
+105. Kitzmueller, M. & Shimshack, J. Economic perspectives on corporate social responsibility[J]. J. Econ. Lit. 50 (1), 51–84 (2012).
+106. Boulding, W. et al. A dynamic process model of service quality: from expectations to behavioral intentions[J]. J. Mark. Res. 30 (1),
+7–27 (1993).
+107. Younus, S., Rasheed, F. & Zia, A. Identifying the factors affecting customer purchase intention[J]. Global J. Manage. Bus. Res. 15
+(2), 8–13 (2015).
+108. Mirabi, V., Akbariyeh, H. & Tahmasebifard, H. A study of factors affecting on customers purchase intention[J]. J. Multidisciplinary
+Eng. Sci. Technol. 2(1), 1-18 (2015).
+
+Author contributions
+
+Zhengshun Shen: Conceptualization, methodology, software, validation, formal analysis, investigation, resources, data curation, writing—original draft preparationHuaibin Li: writing—review and editing, visualization, supervision, project administration, funding acquisitionYancai Zhang: methodology, software, validation, formal
+analysis.
+
+Funding
+
+This research received no external funding.
+
+Declarations
+Competing interests
+
+The authors declare no competing interests.
+
+Ethics
+
+The studies involving human participants were reviewed and approved by School of Economics and
+Management, Huaiyin Normal University Ethics Committee (Approval Number: 2023.12500253). The
+participants provided their written informed consent to participate in this study. All methods were performed
+in accordance with relevant guidelines and regulations.
+
+Additional information
+
+Correspondence and requests for materials should be addressed to Z.S.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+20
+
+www.nature.com/scientificreports/
+Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in
+any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide
+a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have
+permission under this licence to share adapted material derived from this article or parts of it. The images or
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence
+and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​at​ ​i​v​e​c​o​m​m​o​
+n​s​.​o​r​g​/​l​i​c​en
+​ ​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/​​​​.​​
+© The Author(s) 2025
+
+Scientific Reports |
+
+(2025) 15:44391
+
+| https://doi.org/10.1038/s41598-025-28118-y
+
+21
+
+

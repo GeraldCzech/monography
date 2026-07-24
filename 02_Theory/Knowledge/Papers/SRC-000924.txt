@@ -1,0 +1,572 @@
+Working for “Warm Glow”: On the Benefits and Limits
+of Prosocial Incentives
+Alex Imas∗
+UC San Diego
+
+October 21, 2013
+
+Abstract
+We study whether using prosocial incentives, where e↵ort is tied directly to charitable contributions, may lead to better performance than standard incentive schemes.
+In a real-e↵ort task, individuals indeed work harder for charity than for themselves,
+but only when incentive stakes are low. When stakes are raised, e↵ort increases when
+individuals work for themselves but not when they work for others and, as a result, the
+di↵erence in provided e↵ort disappears. Individuals correctly anticipate these e↵ects,
+choosing to work for charity at low incentives and for themselves at high incentives.
+The results are consistent with warm glow giving and have implications for optimal
+incentive design.
+
+JEL classification: D02, D03
+Keywords: Prosocial behavior, warm glow, incentives, motivation
+
+∗
+
+Dept. of Economics, University of California, San Diego; aimas@ucsd.edu
+
+1
+
+1
+
+Introduction
+
+Designing incentive schemes to best motivate e↵ort is an important design question for
+firms, governments and other organizations. Neoclassical economic theory predicts that
+individuals should excerpt more e↵ort when compensation for performance is paid directly
+to them rather than to a charity. Money is a good and e↵ort is costly; therefore, indirect
+compensation through charitable donations or gifts should be a less e↵ective incentive than
+an equivalent direct monetary payment.
+However, evidence from psychology (Deci, 1971) and behavioral economics (Gneezy,
+Meier and Rey-Biel, 2011) suggests that direct monetary incentives may not always be optimal in motivating performance, especially when the incentive levels are low. Suppose a
+company wants to motivate its employees to lose weight and can pay at most $5 per pound
+lost. Losing a pound is difficult and the extra $5 in purchasing power may not be motivation
+enough for individuals to lose the weight.
+Alternatively, suppose that the company o↵ered to donate $5 to a local charity for every
+pound lost. The pleasure derived from doing good for others every time the treadmill is used
+or unhealthy food is avoided may be greater than from equivalent direct compensation. In
+turn, these prosocial incentives could provide sufficient motivation for individuals to take the
+necessary steps towards weight loss. However, although prosocial incentives may be more
+e↵ective when the amounts involved are small, would they still work harder for charity when
+the stakes increase—would people work harder for a $100 or $1000 donation rather than
+receiving the money directly?
+This paper studies whether and when prosocial incentives—where charitable contributions are directly tied to e↵ort levels—lead to better performance and greater e↵ort provision
+than standard, self-benefiting incentives. We find that individuals indeed provide greater effort under prosocial incentives than under standard, self-benefiting ones when the incentive
+stakes are low. However, this di↵erence disappears or reverses when the stakes are high.
+In addition, individuals seem to anticipate these e↵ects and prefer to work for prosocial
+incentives when the stakes are low and self-benefiting ones when stakes are raised.
+
+2
+
+In a recent paper, Dunn, Aknin and Norton (2008) demonstrate that individuals report greater happiness when spending money on others than when spending on themselves.
+Bonuses in the form of charitable contributions were shown to increase employee happiness relative to paying the employee directly (Norton, Anik, Aknin, Dunn and Quoidbach,
+2012). These findings suggest that, at least over some incentive levels, tying individuals’
+e↵ort directly to charitable contributions may be a more e↵ective motivator than standard
+incentives. While numerous lines of research have argued that individuals derive pleasure
+directly from prosocial behavior (Charness and Rabin, 2002; Loewenstein, Thompson and
+Bazerman, 1989), the theory of “warm glow” giving o↵ers the most parsimonious framework
+for testing this intuition (Andreoni, 1988, 1989, 1990). According to the theory, individuals
+derive private value from the the altruistic act apart from the overall outcome provided for
+others.
+In addition, studies have shown that introducing direct monetary incentives may not
+necessarily increase an individual’s motivation to exert e↵ort in a particular task. In some
+cases, introducing low self-benefiting incentives actually decreases performance relative to
+providing no incentives at all. Gneezy and Rustichini (2000) showed that, relative to no
+compensation, students scored worse on an IQ test when they were paid a small amount
+directly for their performance; Heyman and Ariely (2004) found a similar result in the case of
+neutral computer task. Drawing on these findings, we posit our first hypothesis (Hypothesis
+1): a prosocial incentive scheme may both be preferred and result in better performance
+than a self-benefiting incentive scheme when the incentive stakes are low.
+However, there is reason to suspect that the benefit individuals derive from charitable
+acts may be to some extent independent of the benefit for the recipients of the acts. In other
+words, people derive warm glow from giving, valuing the e↵ort exerted for others rather than
+the benefit others receive from that e↵ort. Andreoni (1993) o↵ered support for this notion
+through an experimental test of the crowding-out hypothesis, which predicts that government
+contributions to a privately provided public good (e.g., a charity) should completely crowd
+out private contributions. The neutrality result presumes that purely altruistic individuals
+do not place a private value on the act of giving: if the government uses a dollar in taxes
+3
+
+for contributions to a charity, then the individual will reduce her voluntary contribution
+by a dollar while keeping the charity’s revenue constant. The theory of warm glow giving
+makes an alternate prediction—that crowding out will be incomplete since individuals derive
+a private benefit from the act of personally giving. Andreoni used a modified public goods
+game to show that indeed crowding out was incomplete: when participants were taxed and
+taxes were contributed to the public good, they did not reduce voluntary contributions by
+the size of the tax. Total contributions were significantly larger when participants were taxed
+than when they were not, suggesting that individuals valued the act of giving apart from
+the overall impact of contributions.
+Hsee and Rottenstreich (2004) provide further evidence of individuals’ insensitivity to
+the benefits of the donation for others, showing that individuals are willing to donate the
+same amount for the rescue of one animal as for the rescue of four animals. This type of
+scope insensitivity is also shown by Small, Loewenstein and Slovic (2007), who demonstrate
+that individuals donate the same amount for one person as for 10 people (also see Linardi
+and McConnell (2011) for additional evidence of scope insensitivity in the social domain). In
+light of these studies, our second hypothesis (Hypothesis 2) predicts that e↵ort under prosocial incentive schemes should display scope insensitivity—namely, e↵ort provided should be
+independent of incentive stakes.
+Self-benefiting incentives, on the other hand, may not exhibit the same scope insensitivity. As demonstrated by Gneezy et al. (2011), individuals under self-benefiting incentive
+schemes do respond positively to increases in incentive size once these incentives are already
+in place. Particularly, individuals already being compensated personally for their work will
+work harder when the payment stakes increase. The positive relationship between incentive size and e↵ort under self-benefiting incentive schemes, in conjunction with the scope
+insensitivity under prosocial incentives, leads to our third hypothesis (Hypothesis 3): as the
+incentive size increases, individuals should both prefer and exert more or equal e↵ort under self-benefiting rather than prosocial incentive schemes (provided the substitution e↵ect
+exceeds the income e↵ect).
+We provide empirical support for these hypotheses using a novel experimental paradigm
+4
+
+where real, costly e↵ort is tied directly to either self-benefiting or prosocial incentives. We
+first look at whether individuals exert more e↵ort under a prosocial incentive scheme than
+under a self-benefiting one when incentive stakes are low, and study whether this di↵erence
+disappears or reverses when stakes are higher. We then examine if individuals anticipate
+these e↵ects: whether they choose to work for charity more often than for themselves when
+incentives are low, and if this choice reverses when stakes are raised.
+Our findings are consistent with our hypotheses: individuals work harder for charity
+than for themselves under low incentives or when no explicit incentives are provided. E↵ort
+provided under prosocial incentives, however, is no longer greater than under self-benefiting
+incentives when the stakes increase. This is primarily driven by the fact that individuals
+work significantly harder when the amount they are paid is greater, as economic reasoning
+would suggest, but are generally insensitive to the scope of the prosocial incentive. This
+insensitivity to scope is consistent with pure warm glow giving. Particularly, the e↵ort they
+exert for charity does not change as the payment stakes increase. In addition, individuals’
+choice of incentive scheme is consistent with their choice of e↵ort provision: they choose
+to work for charity when stakes are low and for themselves when the stakes increase. This
+contrasts with the inconsistency between choice and reported well-being found in previous
+work (Dunn et al., 2008).
+
+2
+
+E↵ort Experiment
+
+We recruited 187 students from a university wide subject pool to participate in a 30 minute
+study. Participants were given a $5 show up fee and could earn more depending on the
+condition and e↵ort exerted.
+Each session had between 6 to 8 participants who were randomly assigned to isolated
+computer terminals. There was at least one empty computer terminal between each participant to ensure privacy. A computer program randomized conditions within each session,
+and all instructions were displayed on each participant’s individual computer screen.1 Par1
+
+The experiment was programmed using the Qualtrics Research Suite.
+
+5
+
+ticipants were asked to read the instructions to themselves and notify the experimenter if
+they had any questions. All questions were answered in private.
+To measure e↵ort, we asked subjects to squeeze a hand dynamometer that recorded force
+output in Newtons, twice. All participants were first asked to squeeze the device for 60
+seconds to obtain a baseline measurement. The total force exerted was reported to the
+participants and acted as the baseline measure. Participants were then randomly assigned
+to one of five conditions in a 2 (For Self vs. For Others Incentives) ⇥ 2 (Low vs. High
+Incentives) between-subjects design, with an additional no incentive control condition.
+After squeezing the hand dynamometer for 60 seconds to obtain a baseline measurement,
+participants were exposed to our manipulation. Participants were told that under the For
+Self incentive scheme (self-benefiting) they would receive the amount earned at the end of
+the experiment; the amount earned under the For Others incentive scheme (prosocial) would
+be donated to the Make-A-Wish Foundation (incentives are shown in Table 1). Each was
+then asked to squeeze the device again for 60 seconds after being matched into one of the
+5 treatments: For Others and For Self incentive schemes were crossed with two incentive
+levels, Low and High. In the control condition, we simply asked participants to squeeze the
+device again for 60 seconds without giving them any explicit incentive to do so.
+In the four incentive treatments, the amount earned by the participants or the charity was
+directly tied to e↵ort. For example, participants in the For Self treatment under High incentives earned $2.00 cents for every 25k Newtons of force exerted during the treatment stage.
+They were not directly compensated for e↵ort during the baseline stage. Earnings based on
+e↵ort in the two incentive levels ranged between $0.02 and $0.35 in the Low treatments and
+$2.73 and $12.34 in the High incentive treatments.
+As our dependent measure of e↵ort, we used the ratio R of total force exerted during the
+treatment stage to that exerted in the baseline stage, which provides a normalized measure of
+e↵ort that aims to control for individual characteristics such as gender and physical fitness.
+
+6
+
+Table 1.
+Treatment Summary
+Incentive
+
+Gender
+
+Initial
+
+Treatment
+
+(per 25k Newtons)
+
+N
+
+(% Male)
+
+(Newtons)
+
+R
+
+For Others Low
+
+$0.05
+
+38
+
+39%
+
+65,620
+
+1.51
+
+For Others High
+
+$2.00
+
+40
+
+55%
+
+57,991
+
+1.48
+
+For Self Low
+
+$0.05
+
+36
+
+44%
+
+68,450
+
+1.14
+
+For Self High
+
+$2.00
+
+36
+
+53%
+
+59,598
+
+1.74
+
+Control
+
+-
+
+37
+
+51%
+
+64,836
+
+1.07
+
+Results
+Table 1 lists averages of initial exerted e↵ort for each of the 5 treatments. A preliminary
+test on initial e↵ort revealed no between-group di↵erences in baseline force exerted, F (4,
+182)=1.01, ns. Similarly, pairwise comparisons show no significant di↵erences in initial
+e↵ort (p > .1 for all comparisons), suggesting that e↵ort at the baseline stage did not di↵er
+by treatment.
+Table 1 also lists the gender composition in each treatment; pairwise comparisons reveal
+no significant di↵erences in compositions (p > .2 for all comparisons). In addition, there was
+no significant di↵erence in the gender composition between the two High treatments and the
+two Low treatments plus Control (t(185)=1.20, p = .23). Running an OLS regression of the
+e↵ort ratio R on a gender dummy (Male = 1; Female = 0) revealed no significant relationship
+between gender and our main dependent measure of e↵ort ( = .09, p =.497). There were
+also no gender di↵erences in the e↵ort ratio R within any of the treatments (p > .3 for all
+comparisons).
+We first examined the e↵ect of the 4 incentive treatments (For Self vs. For Others
+Incentives) ⇥ (Low vs. High Incentives) on e↵ort. We predicted that at Low incentive
+levels participants would exert more e↵ort For Others than For Self (Hypothesis 1), with this
+di↵erence disappearing or reversing as the incentive size increased (Hypothesis 3). Consistent
+
+7
+
+Figure 1. E↵ort Ratio R by Treatment
+2.2
+
+2
+
+Effort Ratio R
+
+1.8
+
+For Others
+
+1.6
+
+For Self
+1.4
+
+1.2
+
+1
+Low Incentive
+
+High Incentive
+
+with the first hypothesis, individuals indeed worked harder For Others (M =1.51, SD=.87)
+than For Self (M =1.14, SD=.34), t(72)=2.37, p =.020, when incentives were Low. However,
+in line with Hypothesis 3, the di↵erence between incentive schemes disappeared when the
+incentive size was High, t(74)=.96, p =.338. Indeed, a joint hypothesis test revealed that
+e↵ort For Self under Low incentives was significantly lower than in the other three conditions,
+F (3, 182)=2.86, p=.038 (see Figure 1).
+We further predicted that participants’ e↵ort would respond positively to increases in incentive size under the For Self incentive scheme, but be insensitive to the scope of incentives
+when working For Others (Hypothesis 2). In line with our second hypothesis and traditional
+economic reasoning, participants exerted significantly more e↵ort under the For Self incentive scheme when incentives increased from Low to High (M =1.14, SD=.34 vs. M =1.74,
+SD=1.36), t(70)=2.58, p =.012. However, the increase in incentives did not change the
+level of e↵ort exerted under the prosocial incentive scheme (M =1.51, SD=.87 vs. M =1.48,
+SD=1.03), t(76) = -.13, p =.896.
+To see whether the di↵erence in di↵erence between incentive schemes was significant as
+the size of incentives went up, we ran an OLS regression of the dependent variable R on the
+8
+
+interaction between incentive scheme and incentive size. Our binary independent variables
+were the incentive scheme (For Others = 0; For Self = 1), incentive size (Low = 0; High
+= 1), and the interaction of the two. Neither incentive scheme (
+
+= -.37, p =.107) nor
+
+incentive size ( = -.03, p =.898) had a significant influence on exerted e↵ort. Importantly,
+however, we observed a significant interaction ( = .63, p =.049), suggesting that the relative
+e↵ectiveness of prosocial incentive schemes is e↵ected by the stakes involved.
+Our control condition provided insight into the e↵ectiveness of the incentive schemes
+relative to when no explicit incentives were provided. When no incentives were provided,
+individuals exerted less e↵ort than under both prosocial incentive schemes, as well as under
+the self-benefiting incentive scheme when stakes were high (all ps < .02). However, when
+incentive levels were low in the self-benefiting incentive scheme, participants worked about
+as hard as when no incentives were provided (M =1.14, SD=.34 vs. M =1.07, SD=.29),
+t(71)=.90, p =.369. This o↵ers further support for the notion that when incentives are
+low, prosocial incentive schemes may be superior to standard ones in motivating e↵ort and
+performance.
+To ensure that our results are robust to outliers, we conducted non-parametric permutation tests on the distributions of e↵ort under the 4 incentive schemes. Using permutation
+methods, we constructed test statistics based on Schmid and Trede (1996) and conducted
+one-sided tests for stochastic dominance and separatedness of the distributions (see also Anderson, DiTraglia and Gerlach, 2011; Ditraglia, 2006). The test statistics identify the degree
+to which one distribution lies to the right of the other, taking into account both the consistency of di↵erences between distributions (i.e. how often they crossed) and the magnitudes
+of the di↵erences.2
+The results of non-parametric distributional tests, p-values computed by Monte-Carlo
+methods with 10,000 repetitions, were consistent with the parametric tests above. We found
+a significant di↵erence between the distributions of e↵ort For Others and e↵ort For Self
+under Low incentives (p =.027), as well as between the distribution of e↵ort For Others and
+the control condition (p =.002). At High incentives, however, the distributions of e↵ort For
+2
+
+For the data and a full description of how these tests were constructed, see Online Appendix
+(https://sites.google.com/site/alexoimas/prosocialincentives).
+
+9
+
+Others and For Self did not di↵er (p =.279), and both were significantly di↵erent than the
+distribution of e↵ort in the control condition (both ps < .01).
+To further rule out that our results were driven by outliers, we re-ran the analyses while
+winsorizing R at the upper bounds of the 95% confidence intervals of the treatments, which
+were 1.79, 1.80, 1.25 and 2.21 under the For Others (Low, High) and For Self (Low, High)
+incentive schemes, respectively.3 The results were robust to winsorizing the data: individuals
+worked harder for charity than themselves at low incentive levels (t(72)=3.24, p =.001), and
+this di↵erence disappeared when incentives were raised (t(74)=1.32, p =.19). Winsorizing R
+at a constant value (e.g., 3) did not change the results.4
+
+3
+
+Choice Experiment
+
+We recruited 57 students from a university wide subject pool to participate in this study.
+Subjects were given a $5 show up fee and could earn more depending on the condition and
+e↵ort exerted.
+E↵ort was measured similarly to Study 1. All participants squeezed the hand dynamometer for 60 seconds to obtain a baseline measurement and were informed of their initial force
+output. At the outset of the study, each participant was randomly assigned into one of two
+conditions: Low Incentives or High Incentives. They were then asked to choose one of two
+payment schemes, For Self (self-benefiting) or For Others (prosocial), prior to squeezing the
+device again for 60 seconds.
+As in Study 1, e↵ort exerted For Others benefited the Make-A-Wish Foundation and
+e↵ort For Self was tied to payment received at the end of the experiment. Incentive under
+each condition are shown in Table 2.
+
+3
+
+The maximum Rs under the For Others (Low, High) and For Self (Low, High) incentive schemes were
+4.55, 6.49, 1.90 and 5.88, respectively.
+4
+See Online Appendix for further robustness checks
+
+10
+
+Table 2.
+Treatment Summary
+Incentive
+
+Gender
+
+Initial
+
+Treatment
+
+(per 25k Newtons)
+
+N
+
+(% Male)
+
+(Newtons)
+
+R
+
+Low Incentives
+
+$0.05
+
+30
+
+37%
+
+56,621
+
+1.41
+
+High Incentives
+
+$2.00
+
+27
+
+52%
+
+64,387
+
+1.37
+
+Results
+Averages of initial exerted e↵ort for both treatments are listed in Table 2. A pairwise comparison revealed no significant di↵erence in initial e↵ort, t(55)=-1.00, ns. Gender composition
+did not di↵er by treatment, t(55)=-1.15, ns.
+Our results suggest that individuals did indeed anticipate the benefits of prosocial vs.
+self-benefiting incentives as implied by Study 1 (see Figure 2). At Low incentive levels, 77%
+(23) of participants chose to work For Others, compared to 23% (7) who chose to work For
+Self. In contrast, at High incentive levels 15% (4) chose to work For Others, compared to 85%
+(23) who chose to work For Self. This di↵erence was significant ( 2 (1) = 21.81; p <.001).
+Given the issues of selection in both incentive treatments, we cannot meaningfully compare the e↵ort exerted by individuals under the two incentive schemes. Moreover, the resulting imbalance in cell sizes left these types of analyses severely underpowered. Nonetheless,
+results do appear to fit the general pattern outlined by our hypotheses, with the average R
+equaling 1.47 in the For Others condition versus 1.21 in the For Self when incentives were
+Low, and the same corresponding averages equaling 1.07 and 1.43 when incentives were High.
+
+4
+
+Discussion
+
+Taking measured e↵ort as a proxy for utility derived from the respective incentives, our
+findings suggest that individuals derive greater utility from prosocial spending than selfbenefiting compensation, but only when the stakes are low. In addition, the utility derived
+
+11
+
+Figure 2. Percentage of Participants Choosing Incentive Scheme
+100%
+85%
+
+90%
+80%
+
+77%
+
+70%
+60%
+For Others
+50%
+
+For Self
+
+40%
+30%
+
+23%
+15%
+
+20%
+10%
+0%
+Low Incentive
+
+High Incentive
+
+is anticipated ex-ante: individuals choose to work for charity rather than themselves at low
+incentives, but prefer the opposite when stakes are raised.
+Our results are consistent with a model of pure warm glow giving and help inform the
+literature on optimal incentive design. Traditional economic reasoning suggests that direct
+monetary payment will provide the strongest incentives. However, these self-benefiting monetary incentives have been shown to backfire, particularly when the payment stakes are low
+(Deci, 1971; Gneezy and Rustichini, 2000): monetary incentives may decrease prosocial behavior (Ariely, Bracha and Meier, 2009), reduce socially efficient contributions to a public
+good (Fuster and Meier, 2009), and result in lower e↵ort provision than could be achieved
+with no payment scheme at all (Gneezy et al., 2011; Heyman and Ariely, 2004). These findings suggest that there may be situations where direct monetary compensation is not the
+optimal incentive scheme to motivate individuals to exert e↵ort.
+Suppose that a company o↵ers incentives to its employees to lose weight. Providing low
+direct compensation, e.g. $5 per pound lost, may not be enough to motivate individuals
+to adopt a healthier routine, and may in fact crowd out positive steps they were already
+taking. Indeed, recent evidence on the e↵ectiveness of paying people directly for weight loss
+12
+
+has been mixed at best (Kullgren, Troxel, Loewenstein, Asch, Norton, Wesby, Tao, Zhu and
+Volpp, 2013). Our results suggest that prosocial incentives may provide stronger motivation
+for individuals to lose weight than “standard,” self-benefiting incentives. Particularly, if the
+budget for a certain task or project is small, organizations should take advantage of the scope
+insensitivity of prosocial incentives by tying small charitable contributions to performance
+rather than compensating individuals directly.
+Future research should explore whether making the contributions under a prosocial incentive scheme public or private has an e↵ect on e↵ort provision. Given the social signaling
+value of prosocial behavior, a prosocial incentive scheme may be even more e↵ective in motivating individuals when e↵ort-contingent contributions are public. In addition, since many
+employment contexts carry the expectation of direct compensation, it would be useful to compare the performance of individuals under a prosocial incentive scheme to when prosocial
+and self-benefiting incentives are mixed (Bracha and Brown, 2009; Tonin and Vlassopoulos,
+2010, 2012).
+
+13
+
+References
+Anderson, L. R., DiTraglia, F. J. and Gerlach, J. R. (2011). Measuring altruism
+in a public goods experiment: acomparison of U.S. and Czech subjects. Experimental
+Economics, 14 (3), 426–437.
+Andreoni, J. (1988). Privately Provided Public Goods In A Large Economy - The Limits
+Of Altruism. Journal of Public Economics, 35, 57–73.
+— (1989). Giving with Impure Altruism: Applications to charity and ricardian equivalence.
+The Journal of Political Economy, 97 (6), 1447–1458.
+— (1990). Impure altruism and donations to public goods: a theory of warm-glow giving.
+The Economic Journal, 100, 464–477.
+— (1993). An experimental test of the public-goods crowding-out hypothesis. American
+Economic Review, 83 (5), 1317–1327.
+Ariely, D., Bracha, A. and Meier, S. (2009). Doing Good or Doing Well? Image
+Motivation and Monetary Incentives in Behaving Prosocially. American Economic Review,
+99 (1), 544–555.
+Bracha, A. and Brown, D. J. (2009). A↵ective Decision Making: A Behavioral Theory
+of Choice. mimeo.
+Charness, G. and Rabin, M. (2002). Understanding social preferences with simple tests.
+The Quarterly Journal of Economics, 117 (3), 817–869.
+Deci, E. L. (1971). E↵ects of externally mediated rewards on intrinsic motivation. Journal
+of Personality and Social Psychology, 18 (1), 105–115.
+Ditraglia, F. J. (2006). Experimental Public Goods in Prague and Williamsburg: An
+International Comparison. mimeo, College of William and Mary.
+Dunn, E. W., Aknin, L. B. and Norton, M. I. (2008). Spending money on others
+promotes happiness. Science (New York, N.Y.), 319 (5870), 1687–8.
+14
+
+Fuster, A. and Meier, S. (2009). Another Hidden Cost of Incentives: The Detrimental
+E↵ect on Norm Enforcement. Management Science, 56 (1), 57–70.
+Gneezy, U., Meier, S. and Rey-Biel, P. (2011). When and Why Incentives (Don’t)
+Work to Modify Behavior. Journal of Economic Perspectives, 25 (4), 191–210.
+— and Rustichini, A. (2000). Pay Enough or Don’t Pay at All. Quarterly Journal of
+Economics, 115 (3), 791–810.
+Heyman, J. and Ariely, D. (2004). E↵ort for payment. A tale of two markets. Psychological science, 15 (11), 787–93.
+Hsee, C. K. and Rottenstreich, Y. (2004). Music, pandas, and muggers: on the a↵ective
+psychology of value. Journal of experimental psychology. General, 133 (1), 23–30.
+Kullgren, J. T., Troxel, A. B., Loewenstein, G., Asch, D. A., Norton, L. A.,
+Wesby, L., Tao, Y., Zhu, J. and Volpp, K. G. (2013). Individual- versus group-based
+financial incentives for weight loss: a randomized, controlled trial. Annals of Internal
+Medicine, 158 (7), 505–14.
+Linardi, S. and McConnell, M. A. (2011). No excuses for good behavior: Volunteering
+and the social environment. Journal of Public Economics, 95 (5-6), 445–454.
+Loewenstein, G. F., Thompson, L. and Bazerman, M. H. (1989). Social utility and
+decision making in interpersonal contexts. Journal of Personality and Social Psychology,
+57 (3), 426–441.
+Norton, M. I., Anik, L., Aknin, L. B., Dunn, E. W. and Quoidbach, J. (2012).
+Prosocial Incentives Increase Employee Satisfaction and Team Performance. mimeo, pp.
+1–18.
+Schmid, F. and Trede, M. (1996). Testing for first-order stochastic dominance : a new
+distribution-free test. Journal of the Royal Statistical Society. Series D (The Statistician),
+45 (3), 371–380.
+15
+
+Small, D. a., Loewenstein, G. and Slovic, P. (2007). Sympathy and callousness:
+The impact of deliberative thought on donations to identifiable and statistical victims.
+Organizational Behavior and Human Decision Processes, 102 (2), 143–153.
+Tonin, M. and Vlassopoulos, M. (2010). Disentangling the sources of pro-socially motivated e↵ort: A field experiment. Journal of Public Economics, 94 (11-12), 1086–1092.
+— and — (2012). Social incentives matter: Evidence from an online real e↵ort experiment.
+IZA Discussion Paper No. 6716.
+
+16
+
+

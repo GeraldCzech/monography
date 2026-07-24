@@ -1,0 +1,1376 @@
+This may be the author’s version of a work that was submitted/accepted
+for publication in the following source:
+Tanouri, Afshin, Mulcahy, Rory, & Russell-Bennett, Rebekah
+(2019)
+Transformative gamification services for social behavior brand equity: a
+hierarchical model.
+Journal of Service Theory and Practice, 29(2), pp. 122-141.
+This file was downloaded from: https://eprints.qut.edu.au/134196/
+
+© Consult author(s) regarding copyright matters
+This work is covered by copyright. Unless the document is being made available under a
+Creative Commons Licence, you must assume that re-use is limited to personal use and
+that permission from the copyright owner must be obtained for all other uses. If the document is available under a Creative Commons License (or other specified license) then refer
+to the Licence for details of permitted re-use. It is a condition of access that users recognise and abide by the legal requirements associated with these rights. If you believe that
+this work infringes copyright please provide details by email to qut.copyright@qut.edu.au
+
+Notice: Please note that this document may not be the Version of Record
+(i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can
+be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+https://doi.org/10.1108/JSTP-06-2018-0140
+
+Transformative gamification services for social behavior brand equity: A hierarchical
+model
+Purpose: The first aim of this study was to test a hierarchical model with interrelationships
+between social support, value, and brand equity to examine the effect of a transformative
+gamification service on users’ well-being behaviors. The second aim of the study was to
+demonstrate the usefulness of brand equity to measure social behavior brands encouraged via
+transformative gamification services.
+Design/Methodology/Approach: Data were collected (N=351) via users of a transformative
+gamification service delivered via mobile in Iran. Structural equation modeling was used to
+test the model.
+Findings: The results revealed the hierarchical model had a superior fit to the data than rival
+models measuring constructs at lower orders. The results also reveal value mediates the
+relationship between social support and brand equity for a social behavior.
+Originality and Value: This is the first study to hierarchically test a model for
+transformative gamification services. Furthermore, it begins to shed light on the antecedents
+of value created within transformative gamification services, which to date has not been
+thoroughly explored. Finally, the study demonstrates brand equity is applicable beyond
+commercial campaigns and services and can be used to measure social (well-being)
+behaviors.
+Keywords Brand equity, Gamification, Social behavior, Transformative services
+Article Classification Research paper
+
+1
+
+1. Introduction
+Health and well-being are central to the global economy and significant steps are being made
+by service scholars and practitioners to improve individuals’ quality of life (Sweeney et al.,
+2015). This focus has led to the growing area of transformative services – services which
+assist uplifting the well-being of customers (Anderson et al., 2013). However, significant
+health issues remain worldwide, such as obesity resulting from overconsumption of food and
+beverage products (Seiders and Petty, 2004). The World Health Organization (WHO) reports
+that obesity has nearly doubled since 1975, with 1.9 billion adults being overweight and 650
+million being classified as obese (WHO, 2017). This is concerning, because obesity is noted
+as leading to other health complications, such as diabetes, psychosocial problems,
+osteoarthritis, and cancer (Reilly and Kelly, 2011). Service scholars and service practitioners
+therefore still have an important role to play in delivering these services and understanding
+how they can address such health issues.
+Traditionally, health and well-being customers are required to be physically present to
+receive services which improve their well-being (e.g. visiting a dietitian or doctor); however,
+in recent years, mobile technology has been increasingly used to deliver such transformative
+services (Schuster et al., 2013, 2015). In addition to the growing prevalence of transformative
+services being delivered by technology, new approaches to how these experiences are
+delivered are emerging. One such approach is gamification – the use of game design elements
+which enable greater value-creation for service users (Huotari and Hamari, 2017). Service
+practitioners and researchers have realized a great opportunity exists in using “gameful”
+thinking for service provision, with the mobile gaming industry growing at 19% per year to a
+total of US$46.1 billion in 2017 (McDonald, 2017). Further, transformative services and
+gamification sit at the nexus of two prevalent areas of service research: improving health and
+well-being through the delivery of services (Ostrom et al., 2015), and the use of gamification
+2
+
+to encourage real-world behavior (Johnson et al., 2016). Thus, it is timely to understand how
+gamification and transformative services can be used in tandem to improve customer wellbeing behaviors.
+Transformative services are known to create an array of support resources
+(Rosenbaum and Massiah, 2007; Van Dolen and Weinberg, 2017) and value (Blocker and
+Barrios, 2015; Van Oerle et al., 2016). However, little service literature exists to explain how
+support resources and value are created via gamified mobile applications or apps (hereafter
+referred to as “transformative gamification services”). This is despite the existence of such
+practices in the marketplace. For example, FitBit+ provides support via encouraging
+statements, “Almost there! Get 1,487 steps more to hit your daily goal”, and provides value to
+users via the tracking of physical activity and weight loss. Therefore, whilst it could be
+presumed support created by transformative gamified apps creates value, there is limited
+empirical evidence validating such an assumption. Furthermore, given the large array of
+different social support dimensions and value dimensions proposed in the service literature, it
+becomes hard to holistically understand their collective importance. Research suggests
+hierarchical modeling can be one useful approach to gain a greater holistic understanding of
+technological experiences (Atker et al., 2011; Piyathasan et al., 2015; Wetzels et al., 2009).
+Thus, the first aim of this research is to empirically investigate the relationship between
+social support and value hierarchically in transformative gamification services.
+Transformative gamification services can be unique in that they often encourage a
+social brand; that is, a behavior variant with attributes that bear similarities to that of a
+commercial brand. The notion of a social brand being a behavior is relatively new to the
+literature (Mulcahy et al., 2015; Naidoo and Abratt, 2018), with the predominant alternative
+approach being social brands represented by campaigns or services (Evans et al., 2002
+Gordon et al., 2016). This new and under-researched perspective of a social brand suggests
+3
+
+that behaviors can act and be measured as brand variants. For example, Mulcahy and
+colleagues’ (2015) study suggests there are three variants of alcohol drinking behavior:
+absent drinking, moderate drinking, and binge drinking. Their study validates the
+performance of social behaviors being measured via brand equity. However, this is the only
+study to the authors’ knowledge that validates and quantifies social behavior brands.
+Therefore, there is a need to confirm if indeed behaviors can function as a social brand.
+Further, what also requires examination is how social support and value created by gamified
+transformative services support a social behavior brand, and whether these effects are direct
+(i.e. social support to social brand equity) or mediated (i.e. social support to social brand
+equity via value). Thus, the second aim of this research is to investigate the effect of social
+support on social brand equity, and whether this effect is direct or mediated by value.
+One context in which these aims can be examined is that of a transformative
+gamification service encouraging healthy beverage consumption outside of a western culture,
+such as by Middle Eastern consumers. This is an important area to research transformative
+gamification services, as research points out that many gamification studies are situated
+within a western context and focused on behaviors such as alcohol consumption (Dietrich et
+al., 2018) or exercise (Johnson et al., 2016). Further, industry reports show that the
+consumption of beverages that can be perceived as “unhealthy,” such as soft drinks, has
+increased from 33.8 million liters in 2012 to 38.7 million in 2017 (Statista, 2018a). Therefore,
+it is important to clarify the generalizability of the positive impact of transformative
+gamification services in encouraging behaviors, such as healthy beverage consumption,
+beyond market segments situated in developed, western market economies.
+The remainder of this paper is structured as follows. First, related literature is
+reviewed in the areas of gamification services, social support, value, and brand equity. This is
+followed by a presentation of the conceptual model and hypothesized relationships. The
+4
+
+method of the study is then outlined and the results presented. A discussion of the results and
+their theoretical and practical implications is then provided. The paper concludes by outlining
+directions for future research. Overall, this paper contributes new knowledge by testing a
+hierarchical model with mediating effects, which takes into consideration social support,
+value, and social brand equity in a new well-being behavior and market segment setting. This
+newly proposed theoretical model and empirical findings further the agenda of gamification
+delivered via mobile platforms (Hofacker et al., 2016), and the service research priorities of
+Ostrom and colleagues (2015).
+2. Literature review
+2.1 Transformative gamification services
+There is growing interest in the application of gamification in the services field. Research
+suggests gamification can create enjoyable and useful experiences (Koivisto and Hamari,
+2014), which can lead to improved engagement (Harwood and Garry, 2015). In the literature,
+there appears to be two streams of research in services relating to gamification. The first
+stream focuses on gamification for commercial benefit; that is, examining how gamification
+can increase consumers’ usage of products and services which are commercially orientated,
+such as e-banking services (Rodrigues et al., 2016) or online shopping (Poncin, et al., 2017).
+The second stream focuses on gamification for uplifting and maintaining change in
+consumers’ performances of health and well-being behaviors (Hammedi et al., 2017; Johnson
+et al., 2016), which can be labelled “transformative gamification” (Mulcahy et al., 2018).
+Most research in transformative gamification has focused upon health and well-being
+behaviors, such as exercise (Hamari and Kovisito, 2015), smoking (Mulcahy et al., 2018),
+and energy consumption (Johnson et al., 2017). Furthermore, most studies are situated within
+developed economies and consumers from western markets such as the United States and
+
+5
+
+Australia. The current research, however, focuses on a less-researched behavior in
+transformative gamification services – healthy beverage consumption – with consumers from
+an emerging non-western economy, namely Iran. Taking such a perspective and approach is
+important to extending the knowledge base of transformative gamification services and its
+generalizable effectiveness across different contexts. The next section reviews the literature
+on social support to begin setting the conceptual foundations of the study’s model.
+2.2 Social support
+In the literature, social support has been shown to be beneficial for assisting consumers to
+maintain or improve their well-being (Coulson, 2005; Rosenbaum and Massiah, 2007). This
+includes delivering social support through technological channels, such as online social
+support groups (Coulson, 2005; Parkinson et al., 2017). Whilst not thoroughly researched,
+transformative gamification services can offer social support by providing guidance and
+encouragement to users. When conceptualizing social support there appears to be agreement
+that the construct should be measured as a multi-dimensional construct to allow richer insight
+into the construct’s characteristics (Osman et al., 2014; Yao et al., 2015). Further, most
+studies appear to leverage the conceptualization of Cutrona and Russell (1990), who propose
+five dimensions: emotional, informational, esteem, network, and tangible assistance.
+However, despite agreement in the literature that social support is multi-dimensional and that
+many studies leverage the work of Cutrona and Russell (1990), the number and
+characteristics of social support differ considerably in different studies (see Table 1). For
+example, Rosenbaum and Massiah (2007) examine emotional and instrumental
+(informational) support, whereas Parkinson and colleagues (2017) measure all five
+dimensions of social support: emotional, informational, esteem, network, and tangible
+assistance. The variance in the number of social support dimensions examined across this
+study is to be expected, as it is dependent on the behavior, service user, and service under
+6
+
+investigation. Therefore, for the purposes of this research, social support is conceptualized as
+a two-dimensional hierarchical construct represented by emotional and informational support.
+These two dimensions were chosen as they represent the social support given by the
+transformative gamified service in addition to them being the most consistently measured
+dimensions in social support studies (see Table 1).
+
+<Insert Table 1 about here>
+
+2.3 Value creation
+The creation of value is central to services, and particularly those that are transformative
+(Zainuddin et al., 2016) or gamification-focused (Hamari and Kovisito, 2015; Leclercq et al.,
+2017). In the literature, multiple multi-dimensional frameworks have been used to examine
+value created by technological products and services. Of these, three appear to be
+predominately used to guide studies of value: consumption-values theory (Sheth et al., 1991),
+hedonic and utilitarian value (Babin et al., 1994), and Holbrook’s (1994) typology. Of these
+three, Babin and colleagues’ (1994) and Holbrook’s (1994) typology appear to be best suited
+to understanding game experiences and gamification. For example, Hamari and Koivisto
+(2015) conceptualize hedonic benefits to be represented by two single-factor dimensions –
+playfulness and enjoyment – and utilitarian benefits to be represented by usefulness and ease
+of use, whereas Okazaki (2008) leverages Holbrook’s (1994) typology operationalized by
+Mathwick and colleagues (2001) to measure the value of mobile game experiences.
+Research also suggests multiple frameworks of value can be used together to
+hierarchically measure and subsequently gain a deeper understanding of the concept’s
+structure and how it collectively contributes to service users’ experience (Wetzels et al.,
+2009). Wetzels and colleagues’ (2009) study, for example, demonstrates that value can be
+
+7
+
+measured hierarchically and this can contribute to understanding users’ loyalty. They argue
+that measuring value hierarchically can be advantageous as it allows for examining the
+richness of the construct, its level of factors, and its overall assessment of impact on desired
+outcomes. They also demonstrate that hierarchically measuring value can enable multiple
+frameworks – such as Babin and colleagues’ (1994) hedonic and utilitarian value, and
+Holbrook’s (1994) typology – to be represented within a singular model. They use
+Holbrook’s dimensions to measure experiential value and hierarchically model them
+according to Babin and colleagues’ hedonic and utilitarian value dimensions. Research
+outside of value also demonstrates similar advantages for hierarchically modeling similar
+constructs, such as service quality in technological settings (Blut, 2016; Fassnacht and Koese,
+2006; Piyathasanan et al., 2015). However, research which goes beyond the single-order
+measurement of value and uses hierarchical modeling within transformative services and
+gamification is limited. This research takes a similar approach to Wetzels and colleagues
+(2009) by using Holbrook’s (1994) typology to measure value, and Babin and colleagues’
+(1994) framework to hierarchically map their characteristics. Undertaking such an approach
+is important, as users are likely to evaluate certain dimensions of value created by a
+transformative gamified service, but also assess the cumulative value created by these
+dimensions. It is therefore proposed that hierarchical modelling can achieve these two
+purposes.
+
+2.4 Brand equity and social brands
+Brands can represent products, services, people, places, and ideas (Keller, 1998). Recently,
+branding has been extended to apply to social behaviors (e.g. drinking in moderation)
+(Mulcahy et al., 2015). Keller (1998) points out that branding behaviors can be feasible and
+that actual behaviors need to be branded. In the literature, the predominate approach to
+8
+
+branding a social behavior relates to a supportive campaign or product/service (see Table 2).
+For example, the campaign ‘TruthSM’ is a brand which represents quitting smoking (Evans et
+al., 2002), whereas services such as ‘Breastscreening Queensland’ studied by Gordon and
+colleagues (2016) can represent a brand for services which assist well-being through cancer
+screening. However, more recently a new and less examined approach has been proposed to
+measure social brands. Mulcahy and colleagues (2015) propose that branding frameworks,
+such as brand equity, can be applied to a social behavior without the co-branding of a
+campaign or supporting product or service. This bears similarities to other scholarly thoughts
+outside of branding, such as ‘value-in-behavior’ proposed by Gordon and colleagues (2018),
+which demonstrates that well-being behaviors themselves (without a product of service) can
+create value for consumers. Mulcahy and colleagues (2015) point out that there can be
+variants in the behaviors consumers can perform in a “behavior category”, which bear
+similarities to that of commercial product brands. For example, in their study they suggest
+that, like the commercial product of beer which can have brands with varying attributes (e.g.
+Heineken, Corona, and Peroni), so too can drinking behaviors (excessive drinking, moderate
+drinking, and abstinence drinking). They further demonstrate that the social brand of
+moderate drinking has similar brand equity dimension structures to that of commercial
+products. However, whilst Mulcahy and colleagues (2015) have successfully applied brand
+equity to social brands in alcohol consumption behavior and Australian adolescents, there is
+still a need to replicate and extend these findings to different social behaviors and market
+segments. It is important to extend the external validity (generalizability) of their findings and
+ensure they are applicable to different behavior contexts, such as healthy beverage
+consumption and Irian consumers (Kerr et al., 2016). This study therefore examines the
+existence and structure of brand equity, specifically the dimensions of brand awareness,
+brand image, perceived quality, and brand loyalty, and how they contribute to the overall
+
+9
+
+brand equity (as a second higher-order factor, consistent with Blahut et al., 2004) of a social
+behavior brand, and how this can be encouraged by the social support and value delivered via
+transformative gamification services.
+
+<Insert Table 2 about here>
+
+3. Conceptual model and hypotheses development
+The literature review established the conceptual basis of the study and highlighted gaps in the
+literature. Based upon the gaps in the literature, this research presents a conceptual model
+(Figure 1) which hierarchically measures the constructs of social support, value, and brand
+equity. Furthermore, the model suggests there is a mediated relationship between social
+support and brand equity via value. Justification for the proposed model and its relationships
+are discussed below.
+Based on prior research, it is hypothesized that social support created by
+transformative gamified services will create value for users. This follows the work of Loane
+and colleagues’ (2015) netnographic study findings, which suggests that the social support
+generated from online health communities can create value for members. Similarly, Van
+Oerle and colleagues (2016) found online health communities that provide support and
+information to members can create affective (hedonic) and cognitive (utilitarian) value.
+Establishing the relationship between social support and value is important, as while prior
+studies have hinted at the link between these two constructs this has been mainly qualitative.
+Therefore, while there are suggestions that social support and value are linked, research is
+required to confirm these findings. Thus, based upon the evidence of prior studies, the
+following relationship is suggested for testing:
+10
+
+Hypothesis 1: Social support has a direct and positive association with value.
+A review of the literature suggests alternative approaches regarding the
+interrelationships between social support, value, and brand equity. Rosenbaum and Massiah’s
+(2007) study demonstrates that social support can have a direct effect on loyalty, a
+component of brand equity, whereas He and Li’s (2010) study of high-tech services brand
+equity can be mediated by value. Research also suggests that aspects of brand equity can be
+antecedents rather than outcomes of customer value (Brodie et al., 2009). As this study
+theorizes the impact of social support on creating value and support on social brand equity, it
+is appropriate and expected that social supports’ impact will be mediated by value, and
+consequently have an indirect effect on brand equity. Thus, the following is proposed for
+testing:
+Hypothesis 2: Social support has a significant indirect effect on brand equity via value.
+Hypothesis 3: Value has a direct and positive association with brand equity.
+
+<Insert Figure 1 about here>
+
+4. Method
+4.1 Study Setting
+This study was conducted in Iran, a developing country in the Middle East with a population
+of over 80 million (Statista, 2018b). Conducting the study in Iran provided an interesting
+market segment to examine in relation to their technology adoption and usage, as well as
+excessive consumption of alcohol. First, in relation to the adoption of technology, industry
+11
+
+reports show that Iranian mobile users have reached 53 in 2018, an increase from 47 million
+in 2017 (Jafari, 2018). Thus, an opportunity exists for global and domestic technological
+service providers in Iran and the findings of this study besides its theoretical insights is how
+gamified technological services can be designed and marketed for this rapidly expanding
+market.
+For the desired health and well-being behavior, reduced alcohol consumption, Iran
+also provides an interesting study setting. Despite alcohol being illegal in Iran, many
+alcoholic beverages are smuggled and distributed via the black-market or is illegally
+homemade (Lankarani and Afshari, 2014). Further, the social stigmatism and legal
+restrictions on alcohol consumption in Iran prevents consumers from admitting habits and
+problematic behaviours, which makes it difficult for hospital and medical services to identify
+and assist these consumers (Alavi, et al. 2016). Therefore, whilst excessive alcohol
+consumption is acknowledged as a health issue for Iran, its scale is somewhat difficult to
+determine and so too is the forecasting and planning of the delivery of services to overcome
+this issue. Transformative gamification services delivered via apps is one potential novel way
+to evade such difficulties and circumstances, as the use of mobile technology to gain access
+to health and medical services is known to provide greater anonymity and increase
+consumers’ confidence in accessing potentially vital services in comparison to those which
+are face-to-face (Schuster, et al., 2013).
+
+4.2 Data Collection and Sample
+A survey was chosen as the data collection instrument for the study. Participants were
+recruited via social media posts, social media sites, and flyers with a download link to a
+purpose-built gamification app for the study (details regarding the app will be outlined
+shortly). Participants were incentivized to partake in the study with the chance to go into a
+12
+
+prize draw of a one-in-five chance to win a gold coin worth US$100. Once participants had
+installed the app they were directed to a registry page with questions relating to their height,
+weight, age, and current habits regarding beverage consumption. This demographic
+information was important not only for the study, but it enabled the gamification app to tailor
+its information to the user. Participants were directed to use the gamified app for a period of 2
+weeks, after which time they were invited to fill out a questionnaire with items relating to
+social support, value, and brand equity. The final sample consisted of 351 respondents. The
+sample profiles are shown in Table 3. The sample shows a good variability across gender and
+a good variation across those in normal weight (45.86%) and overweight or obese categories
+(50.99%) according to their self-reported body mass index (BMI), calculated using height and
+weight. The sample shows a slight tendency for respondents to be aged 20–35, which is to be
+expected as this group is known to adopt technology faster and perceive more value in the
+services it provides (Kumar and Lim, 2008).
+
+<Insert Table 3 about here>
+
+4.1 The gamified app
+The participants used a gamified app which was developed by the lead author (see Figure 2).
+Gamification was incorporated into the app through game design elements, such as characters,
+competition, leaderboards, and points, all of which have been identified as key to services being
+“gamified” (Hamari et al., 2014; Johnson et al., 2016). The gamified app also included five
+mini-games. Users were rewarded points within the gamified app for performing desired
+behaviors in the real world (e.g. drinking a healthy beverage). This therefore facilitated the use
+of game design elements for purposes beyond entertainment and outside of the gaming system,
+13
+
+which is reflective of conceptualizations of gamification (Deterding et al., 2011). The gamified
+app also provided messages of encouragement and informative facts regarding the beverages
+being consumed by users and the impact they had (positive or negative) on their health,
+reflecting emotional and informational support.
+
+<Insert Figure 2 about here>
+
+4.2 Instrument development
+All measurements were based upon scales from previous studies. Items for emotional support
+were drawn from Uchida and colleagues (2008). Informational support consisted of items
+drawn from Oh and Lee (2012). Items for value were drawn from Mathwick and colleagues
+(2001), whereas brand equity items were drawn from Boo and colleagues (2009). All items
+were measured with 5-point Likert items. To ensure no biases resulted from the use of 5-point
+Likert scales, common method bias testing was conducted. A Harman’s one-factor test and
+common latent factor test were carried out, as suggested by Podsakoff and colleagues (2003).
+The results revealed that common method bias did not contaminate the study’s results.
+
+5. Results
+5.1 Instrument validation
+Prior to testing the research hypotheses, the constructs were assessed for convergent and
+discriminant validity via confirmatory factor analysis. For the hierarchical analysis, social
+support and brand equity were measured as second-order hierarchical constructs, whereas
+14
+
+value was measured as a third-order hierarchical construct, which is consistent with prior
+studies (Wetzels et al., 2009). Following the procedures suggested by Bagozzi and Yi (1988)
+and Fornell and Larker (1981), convergent validity was assessed via the t-values associated
+with the parameter estimates. Table 4 shows that the loadings of the items were positively
+and statistically significant for all constructs examined in the study. The reliability of the
+items was also confirmed, with the composite reliability index being higher than the
+recommended threshold of .60 (Fornell and Larker, 1981).
+The constructs’ hierarchical structures were also assessed. The two dimensions of
+support, emotional support (.833), and informational support (.945), loaded with significant tvalues onto the hierarchical factor of social support, validating it as a second-order construct.
+Next, the hierarchical structure of value was assessed. Service excellence (.979) and
+Customer Return on Investment (CROI) (.974) had high factor loadings and significant tvalues with the second-order construct of utilitarian value, confirming it as a second-order
+construct. Aesthetics (.860) and playfulness (.934) met factor-loading thresholds and had
+significant t-values, validating hedonic value as a second-order construct. Utilitarian value
+(.996) and hedonic value (.966) had high factor loadings and significant t-values, validating
+value as a third-order construct. Finally, brand equity’s hierarchical structure was assessed,
+with brand awareness (.962), brand image (.989), perceived quality (.957), and brand loyalty
+(.990) having high factor loadings and significant t-values, confirming it as a second-order
+hierarchical construct. Discriminant validity was also established with AVE scores being
+above their related shared variances with constructs (see Table 5). After establishing the
+hierarchical structure of the constructs, the measurement model was assessed with the results
+(CMIN/DF=1.39 CFI=.97, TLI=.97, RMSEA=.03) suggesting the model had an acceptable
+fit to the data. The CMIN/DF ratio was smaller than the recommended 3 by Fornell and
+Larker (1981), indicating a good model fit.
+15
+
+<Insert Tables 4 and 5 about here>
+
+5.2 Testing of hypotheses
+To test the hypothesized relationships structural equation modelling in AMOS24.0 was
+performed. The structural model had a good fit to the data (CMIN/DF=1.39, CFI=.97,
+TLI=.97, RMSEA=.03) and the hypotheses testing results are detailed in Table 6 and Figure
+3. Testing revealed social support had a positive association with value (β=.38, p<.000), as
+hypothesized in H1. This indicates social support creates a valuable transformative
+gamification service experience for users. H2 predicted social support would have a
+significant indirect effect on brand equity via value. The results revealed the direct effect of
+social support on brand equity was non-significant (β=-.03, ns), whereas results revealed (as
+predicted in H2) that social support had a significant indirect effect on brand equity via the
+mediator of value (β=.34, p<.000). The results also revealed value had a strong significant
+and direct positive association with brand equity (β=.94, p<.000), supporting H3. This
+suggests value created via transformative gamification services positively builds brand equity
+relating to the social behavior being encouraged. The model also produced a high R² of .87
+for brand equity, suggesting the model was a good predictor.
+
+<Insert Table 6 and Figure 3 about here>
+
+5.3 Post-hoc analyses and rival models
+
+16
+
+This study took the a priori belief that hierarchically modeling the relationships between
+social support, value, and brand equity would be superior to lower-order modeling. It is also
+agreed in the literature that researchers should compare the fit of rival (competing) models
+(Iacobucci, 2010). Accordingly, alternative lower-order models were tested to indeed confirm
+that hierarchically modeling the constructs of support, value, and brand equity is better served
+to the purpose of understanding transformative gamification services and future research.
+The first rival model tested examined all constructs as single-order factors, with relationships
+between the constructs following that of the proposed model, whereas the second model
+tested support as a single-order construct, value as a second-order construct, with playfulness
+and aesthetics representing hedonic value, CROI and service excellence representing
+utilitarian value, and brand equity measured via single-order factors. The resulting test
+statistics for the first rival model (CMIN/DF=14.07, CFI=.92, TLI=.75, RMSEA=0.194) and
+second rival model (CMIN/DF=2.45, CFI=.91, TLI=.90, RMSEA 0.06) were either not
+acceptable based upon recommended fit indices for structural equation modeling or inferior
+to the originally proposed and tested model (see Table 7). Thus, it is suggested that the data
+indicate the originally proposed and tested model is superior and more appropriate for
+theoretically and empirically understanding transformative gamification services.
+<Insert Table 7 about here>
+
+6. Discussion
+This research investigates the influence of social support on value and social brand equity in
+a transformative gamification setting through the empirical testing of a hierarchical model.
+The hierarchical model was shown to outperform rival models measuring constructs at a
+
+17
+
+lower order, and the effect of social support being fully mediated by value. These findings
+provide important theoretical and managerial contributions which will now be discussed.
+6.1 Theoretical implications
+This newly proposed theoretical model and empirical findings further the agenda of
+gamification delivered via mobile platforms (Hofacker et al., 2016), and the service research
+priorities of Ostrom and colleagues (2015). Collectively, the results also both support and
+build on extant literature to provide new insight into the emerging area of transformative
+gamification in three ways.
+6.1.1 Hierarchical Modelling for Gamification Service Research
+The first theoretical contribution of this study relates to its hierarchical modelling
+approach. The results of this research indicate that the conceptual model fits well to the data
+and outperforms other competing models measured at lower orders. To the authors’
+knowledge, this study is one of the first to theoretically propose and empirically demonstrate
+a hierarchical model for transformative gamification. Previous modeling of gamification,
+including those of a transformative and commercial focus, have predominately modelled
+constructs such as value as single-order constructs (Koivisto and Hamari, 2014; Hamari and
+Kovisito, 2015). This research demonstrates an alternative theoretical view of
+conceptualizing and empirically testing related constructs in gamification hierarchically to
+provide a more holistic perspective of users’ experiences (Piyathasanan et al., 2015, Wetzels
+et al., 2009). Consistent with the emerging evidence in digital technologies and experiences,
+the findings of this study suggest value has a hierarchical structure in a transformative
+gamification setting (Wetzels et al., 2009; Mencarelli and Lombart, 2017). Furthermore, our
+study extends this perspective by confirming that social support and brand equity can also
+
+18
+
+have hierarchical structures, which to date has not been thoroughly explored or validated in
+the literature.
+Taking a hierarchical approach to modelling consumers experiences with
+transformative gamification is conceptually interesting and valuable for a number of reasons.
+First, it represents a step toward better understanding the associations between various subdimensions (for example the interrelationships and structure of value) (Faasnacht & Koese,
+2006). Second, the findings of this study suggest hierarchical construct models provide utility
+to gamification and service scholars in that it allows for greater theoretical parsimony and a
+reduction in model complexity (i.e. the number of hypothesized relationships tested)
+(Wetzels, Odekerken-Schröder, Van Oppen, 2009). This is important for service researchers
+examining gamification in particular as many of the constructs and frameworks are multidimensional and often have a considerable amount of relationships between single order
+factor constructs. As a result, exciting opportunities exist for service and gamification
+scholars to test prior (and future) studies frameworks which theorize single order factors are
+related but yet to be empirically supported from a hierarchical modelling approach.
+Furthermore, this offers service and gamification some flexibility in their theorization and
+analysis by allowing diagnostic examinations of the effect of single order factors but also the
+cumulative effect of concepts.
+6.1.2 Social Support, Value and Social Brand Equity Interrelationships
+The second contribution of this study relates to a greater understanding of the
+interrelationships between social support, value and social brand equity. In this study, the
+findings show value plays a mediating role between social support and social behavior brand
+equity. Prior research has suggested that social support (Parkinson et al., 2017; Rosenbaum
+and Massiah, 2007) and value (Hamari and Kovisito, 2015; Zainuddin et al., 2013) can
+
+19
+
+influence well-being outcomes. Yet, to the best of the authors’ knowledge, this study is one
+of the first to show the strong positive influence social support has on creating value in
+transformative gamification. Consistent with prior research, this study found that value plays
+a mediating role (e.g. He and Li, 2010), and that social support has a non-significant direct
+effect on brand equity, but a significant indirect effect via value. This has potentially
+important implications beyond transformative gamification, as social support and value are
+two central concepts in the broader transformative service research agenda (Anderson et al.,
+2013). In addition, the gamification literature has established that value can influence desired
+outcomes (e.g. Hamari and Kovisito, 2015), but the antecedents which influence the creation
+of value have not yet been thoroughly researched. This research therefore sheds light on
+social support as one form of antecedent that can result in value creation in transformative
+gamification services.
+6.1.3 Behaviors as Social Brands
+The third contribution of this study relates to measuring brands in transformative
+service and social marketing settings. Theorists in social marketing have posited that
+behaviors function as products and brands (Gordon, 2012). Yet, there is limited empirical
+evidence that supports this view, with most studies examining branding of services and
+campaigns which encourage a desired behavior (Evans et al., 2002; Asbury et al., 2008;
+Gordon et al., 2016; Evans et al., 2016). Findings from this research provide important
+empirical evidence that social behaviors can indeed be viewed as products measured via
+brands. In doing so, it theoretically extends the generalizability of prior studies – those prior
+studies which have thus far only provided preliminary evidence (Mulcahy et al., 2015;
+Naidoo and Abratt, 2018). Therefore, this research strengthens the theoretical perspective that
+there are two approaches to branding for social behaviors: branding of the service or
+campaign, and branding of the social behavior.
+20
+
+6.2 Practical implications
+There are several important practical implications derived from this study. At a higher level,
+the results of this study add to the evidence-base of transformative gamification assisting the
+well-being of consumers. As well-being and healthcare services are often funded publicly via
+government bodies or non-government organizations (NGOs), the results of this study
+provide further compelling evidence to governments, NGOs, and other well-being service
+providers to support the funding and creation of transformative gamification apps that target
+health and well-being behaviors. This could also be important for countries where the
+discussion of particular well-being behaviors with health professionals is a taboo topic or
+illegal such as the consumption of alcohol in countries such as Iran. The findings of this study
+therefore suggest that transformative gamification is one alternative that provides a
+potentially more anonymous approach for consumers to seek health and well-being services.
+Our findings also reveal the importance of designing social support mechanisms to
+create valuable transformative gamification service experiences. Thus, transformative
+gamification designers should pay special attention to incorporating elements which provide
+social support to users. Specifically, from our conceptualization of social support, emotional
+support and informational support are encouraged to be especially designed within
+gamification transformative services. Emotional support should focus on boosting users’ selfesteem and ego. For example, apps in the current marketplace such as 7 Cups: Anxiety &
+Stress Chat1 provides users with anonymous emotional support and counseling from trained
+professionals. Practitioners should consider ways in which design features such as chatrooms
+or communities incorporated into transformative gamification services to foster the seeking
+
+1
+
+https://itunes.apple.com/us/app/7-cups-anxiety-stress-chat/id921814681?mt=8
+
+21
+
+and provision of (anonymous) emotional support. For informational support, the findings
+suggest that design features such as push notifications or tracking features can designed
+within transformative gamified apps to create value for users. Practitioners could therefore
+undertake similar design approaches to apps such as Strava2, which allows users to track their
+running or riding and analyse their performance overtime.
+The model and findings from this study also demonstrate service and gamification
+practitioners are able to measure social support, value and social brand equity at multiple
+levels. Just as the hierarchical model approach provides flexibility for scholars, this approach
+also provides practitioners the ability to evaluate these constructs at a primary dimensional
+level (single order factor) or cumulative level (higher order). Practitioners can therefore make
+informed strategic decisions when evaluating and assessing gamification services based upon
+their evaluation aims as well as their information and reporting requirements (Dagger, et al.
+2007). Finally, our findings show transformative service practitioners can measure well-being
+behaviors using branding models and frameworks such as brand equity (Mulcahy et al.,
+2015). Practitioners could thus pay attention to the variation of the behavior they are
+encouraging customers to perform and pinpoint the defining characteristics or value
+propositions the behavior has in comparison to other competing behavior brands. Further, this
+demonstrates a new perspective and method by which transformative service practitioners
+can measure well-being. It is suggested that practitioners measure social brand equity for both
+their targeted well-being behavior and other competing behaviors to diagnostically evaluate
+the performance of their services and campaigns in encouraging well-being behavior.
+6.3 Limitations and further research directions
+
+2
+
+https://itunes.apple.com/au/app/strava-running-and-cycling-gps/id426826309?mt=8
+
+22
+
+Some limitations of this research will now be acknowledged. This study utilized a crosssectional design of consumers’ experiences after using a transformative gamification service
+for a period of two weeks. It would be interesting for future research to track consumers’
+experiences with transformative gamification services over time and identify how value and
+brand equity in a social behavior evolve (or diminish). A worthy direction for future research
+would be to consider other aspects aside from social support which assist in creating valuable
+transformative gamification service experiences. This could include the influence of game
+design elements, such as points, challenges, and characters, on the creation and experience of
+value. Caution should be taken when attempting to draw generalizability from the study’s
+findings to other market settings and behaviors. Whilst this study examined transformative
+gamification services in a market segment (Iran) and behavior not thoroughly researched,
+future research may benefit from examining cross-cultural differences or variances which
+may occur based upon different behaviors being encouraged. Future studies could also seek
+to investigate whether the findings of the current study are consistent in other developing
+markets beyond Iran such as countries in the Middle East (e.g. Saudi Arabia and Qatar) and
+Latina America (for example Chile and Argentina). Another interesting avenue for future
+research would to be examine factors which moderate (e.g. strengthen or weaken) the
+relationships examined within this study. For example, whether consumers previous
+experience or familiarity with technology (in the case of this research apps or smartphones)
+or duration of use based upon data analytics changes the nature of the relationships between
+social support, value and social brand equity. Finally, whilst outside the scope of this study,
+including some emerging concepts in transformative services and gamification could provide
+greater insight. For example, consumer engagement is emerging as an important concept for
+understanding value co-creation, gamification and services (Harwood and Garry, 2015;
+
+23
+
+Hollebeek and Andreaseen, 2018), and its incorporation in future studies could provide an
+interesting extension on the current study.
+
+References
+Akter, S., D'Ambra, J. and Ray, P. (2011), “Trustworthiness in mHealth information services:
+an assessment of a hierarchical model with mediating and moderating effects using
+partial least squares (PLS)”, Journal of the Association for Information Science and
+Technology, Vol. 62 No. 1, pp. 100-116.
+Alavi, S. S., Mehrdad, R., & Makarem, J. (2016). “Prevalence of substance abuse/alcohol
+consumption and their predictors among patients admitted in operating rooms of a
+General Educational Hospital, Tehran, Iran”. Asian Journal of Pharmaceutical
+Research and Health Care, Vol. 8, pp.63-71
+Anderson, L., Ostrom, A. L., Corus, C., Fisk, R. P., Gallan, A. S., Giraldo, M. ... and
+Shirahada, K. (2013), “Transformative service research: an agenda for the
+future”, Journal of Business Research, Vol. 66 No. 8, pp. 1203-1210.
+Asbury, L. D., Wong, F. L., Price, S. M., and Nolin, M. J. (2008), “The verb™
+campaign”, American Journal of Preventive Medicine, Vol. 34 No. 6, pp. S183-S187
+Babin, B. J., Darden, W. R., and Griffin, M. (1994), “Work and/or fun: measuring hedonic
+and utilitarian shopping value”, Journal of Consumer Research, Vol. 20 No. 4, pp. 644656.
+Bagozzi, R. P., & Yi, Y. (1988). “On the evaluation of structural equation models”. Journal
+of the Academy of Marketing Science, Vol. 16 No.1, pp.74-94.
+
+24
+
+Blahut, S. A., Evans, W. D., Price, S. and Ulasevich, A. (2004), “A confirmatory test of a
+higher order factor structure: brand equity and the TruthSM campaign”, Social
+Marketing Quarterly, Vol. 10 No. 1, pp. 3-15.
+Blocker, C. P. and Barrios, A. (2015), “The transformative value of a service
+experience”, Journal of Service Research, Vol. 18 No. 3, pp. 265-283.
+Blut, M. (2016), “E-service quality: development of a hierarchical model”, Journal of
+Retailing, Vol. 92 No. 4, pp. 500-517.
+Boo, S., Busser, J., & Baloglu, S. (2009). “A model of customer-based brand equity and its
+application to multiple destinations”. Tourism Management, Vol. 30 No.2, pp. 219231.Brodie et al. (2009)
+Brodie, R. J., Whittome, J. R., & Brush, G. J. (2009). “Investigating the service brand: A
+customer value perspective”. Journal of Business Research, Vol. 62 No.3, pp.345-355.
+Coulson, N. S. (2005). “Receiving social support online: an analysis of a computer-mediated
+support group for individuals living with irritable bowel syndrome”. CyberPsychology
+& Behavior, Vol. 8 No.6, pp. 580-584.
+Coulson, N. S., & Knibb, R. C. (2007). “Coping with food allergy: exploring the role of the
+online support group”. CyberPsychology & Behavior, Vol. 10 No.1, pp. 145-148.
+Cutrona, C. E., & Russell, D. W. (1990). “Type of social support and specific stress: Toward
+a theory of optimal matching”. In B. R. Sarason, I. G. Sarason, & G. R. Pierce
+(Eds.), Wiley series on personality processes. Social support: An interactional view(pp.
+319-366). Oxford, England: John Wiley & Sons.
+Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011, September). “From game design
+elements to gamefulness: defining gamification”. In Proceedings of the 15th
+international academic MindTrek conference: Envisioning future media
+environments (pp. 9-15). ACM.
+
+25
+
+Dietrich, T., Mulcahy, R., & Knox, K. (2018). “Gaming attribute preferences in social
+marketing programmes: Meaning matters more than rewards”. Journal of Social
+Marketing (in press)
+Evans, W. D., Rath, J., Pitzer, L., Hair, E. C., Snider, J., Cantrell, J., and Vallone, D. (2016),
+“Design and feasibility testing of the truth FinishIt tobacco countermarketing brand
+equity scale”, Journal of Health Communication, Vol. 21 No. 7, pp. 800-808.
+Evans, W. D., Renaud, J., Blitstein, J., Hersey, J., Ray, S., Schieber, B., & Willett, J. (2007).
+“Prevention effects of an anti-tobacco brand on adolescent smoking initiation”. Social
+Marketing Quarterly, Vol. 13 No.2, 2-20.
+Evans, W. D., Wasserman, J., Bertolotti, E. and Martino, S. (2002), “Branding behavior: the
+strategy behind the truthSM campaign”, Social Marketing Quarterly, Vol. 8 No. 3, pp.
+17-29.
+Fassnacht, M. and Koese, I. (2006), “Quality of electronic services: conceptualizing and
+testing a hierarchical model’, Journal of Service Research, Vol. 9 No. 1, pp. 19-37.
+Fornell, C., & Larcker, D. F. (1981). “Evaluating structural equation models with
+unobservable variables and measurement error”. Journal of Marketing Research, Vol.
+18 No.1, pp. 39-50.
+Gordon, R. (2012), “Re-thinking and re-tooling the social marketing mix”, Australasian
+Marketing Journal (AMJ), Vol. 20 No. 2, pp. 122-126.
+Gordon, R., Zainuddin, N., & Magee, C. (2016). “Unlocking the potential of branding in
+social marketing services: utilising brand personality and brand personality appeal”.
+Journal of Services Marketing, Vol. 30 No.1, pp. 48-62.
+Hamari, J. and Koivisto, J. (2015), “Why do people use gamification services?”,
+International Journal of Information Management, Vol. 35 No. 4, pp. 419-431.
+
+26
+
+Hamari, J., Koivisto, J. and Sarsa, H. (2014, January), “Does gamification work? – a
+literature review of empirical studies on gamification”, in System Sciences (HICSS),
+2014 47th Hawaii International Conference (pp. 3025-3034). IEEE.
+Hammedi, W., Leclercq, T., and Van Riel A, C. R. (2017), “The use of gamification
+mechanics to increase employee and user engagement in participative healthcare
+services: A study of two cases”. Journal of Service Management, Vol. 28, pp. 640-661.
+Harwood, T. and Garry, T. (2015), “An investigation into gamification as a customer
+engagement experience environment”, Journal of Services Marketing, Vol. 29 No. 6/7,
+pp. 533-546.
+He, H. and Li, Y. (2010), “Key service drivers for high-tech service brand equity: the
+mediating role of overall service quality and perceived value”, Journal of Marketing
+Management, Vol. 27 No. 1-2, pp. 77-99.
+Hofacker, C. F., De Ruyter, K., Lurie, N. H., Manchanda, P., and Donaldson, J. (2016),
+“Gamification and mobile marketing effectiveness”, Journal of Interactive
+Marketing, Vol. 34, pp. 25-36.
+Holbrook, M. B. (1994), “The nature of customer value: an axiology of services in the
+consumption experience”, Service Quality: New Directions in Theory and
+Practice, Vol. 21, pp. 21-71.
+Hollebeek, L. D. and Andreassen, T. W. (2018), “The SD logic-informed ‘hamburger’ model
+of service innovation and its implications for engagement and value”, Journal of
+Services Marketing, Vol. 32 No. 1, pp. 1-7.
+Huotari, K. and Hamari, J. (2017), “A definition for gamification: anchoring gamification in
+the service marketing literature”, Electronic Markets, Vol. 27 No. 1, pp. 21-31.
+Iacobucci, D. (2010), “Structural equations modeling: fit indices, sample size, and advanced
+topics”, Journal of Consumer Psychology, Vol. 20 No. 1, pp. 90-98.
+27
+
+Jafari, H. (2018). “53 Million Mobile Internet Users in Iran Until March 2018”. Retrieved
+from: http://techrasa.com/2018/05/29/53-million-mobile-internet-users-in-iran-march2018/
+Johnson, D., Horton, E., Mulcahy, R., & Foth, M. (2017). “Gamification and serious games
+within the domain of domestic energy consumption: A systematic review”. Renewable
+and Sustainable Energy Reviews, Vol. 73, pp. 249-264.
+Johnson, D., Deterding, S., Kuhn, K. A., Staneva, A., Stoyanov, S. and Hides, L. (2016),
+“Gamification for health and wellbeing: A systematic review of the literature”, Internet
+Interventions, Vol. 6, pp. 89-106.
+Keller, K. L. (1998). “Branding perspectives on social marketing”. ACR North American
+Advances.
+Kerr, G., Schultz, D. E. and Lings, I. (2016), “‘Someone should do something’: replication
+and an agenda for collective action”, Journal of Advertising, Vol. 45 No. 1, pp. 4-12.
+Koivisto, J. and Hamari, J. (2014), “Demographic differences in perceived benefits from
+gamification”, Computers in Human Behavior, Vol. 35, pp. 179-188.
+Kumar, A. and Lim, H. (2008), “Age differences in mobile service perceptions: comparison
+of Generation Y and baby boomers”, Journal of Services Marketing, Vol. 22 No. 7, pp.
+568-577.
+Lankarani, K. B., & Afshari, R. (2014). “Alcohol consumption in Iran”. The Lancet, Vol.
+384, pp. 1927-1928.
+Lee, J. K., and Hecht, M. L. (2011), “Examining the protective effects of brand equity in the
+keepin'it REAL substance use prevention curriculum”, Health Communication, Vol. 26
+No. 7, pp. 605-614.
+
+28
+
+Leclercq, T., Poncin I., and Hammedi, W. (2017), “The Engagement Process During Value
+Co-Creation: Gamification in New Product-Development Platforms”. International
+Journal of Electronic Commerce, Vol. 21, pp. 454-488
+Lin, T.C., Hsu, J.S.C., Cheng, H.L. and Chiu, C.M., (2015). “Exploring the relationship
+between receiving and offering online social support: a dual social support
+model”, Information and Management, Vol. 52 No.3, pp.371-383.
+Loane, S.S., Webster, C. M. and D’Alessandro, S. (2015), “Identifying consumer value cocreated through social support within online health communities”, Journal of
+Macromarketing, Vol. 35 No. 3, pp. 353-367.
+Mathwick, C., Malhotra, N., & Rigdon, E. (2001). Experiential value: conceptualization,
+measurement and application in the catalog and Internet shopping environment.
+Journal of Retailing, Vol. 77 No.1, pp.39-56.
+McDonald, E. (2017). The Global Games Market Will Reach $108.9 Billion in 2017 with
+Mobile Taking 42%. Retrieved from: https://newzoo.com/insights/articles/the-globalgames-market-will-reach-108-9-billion-in-2017-with-mobile-taking-42/ Last accessed
+06.22.2018
+Mencarelli, R. and Lombart, C. (2017), “Influences of the perceived value on actual
+repurchasing behavior: empirical exploration in a retailing context”, Journal of
+Retailing and Consumer Services, Vol. 38, pp. 12-21.
+Mo, P.K. and Coulson, N.S. (2008), “Exploring the communication of social support within
+virtual communities: a content analysis of messages posted to an online HIV/AIDS
+support group”, Cyberpsychology & Behavior, Vol. 11 No. 3, pp. 371-374.
+
+29
+
+Mulcahy, R., Russell-Bennett, R., & Rundle-Thiele, S. (2015). “Electronic games: can they
+create value for the moderate drinking brand?”. Journal of Social Marketing, Vol. 5 No.
+3, pp.258-278.
+Mulcahy, R. F., Russell-Bennett, R., Zainuddin, N., & Kuhn, K. A. (2018). “Designing
+gamified transformative and social marketing services: An investigation of serious mgames”. Journal of Service Theory and Practice. Vol. 28 No.1, pp.26-51
+Nadioo, C. and Abratt, R. (2018), “Brands that do good: insight into social brand equity”,
+Journal of Brand Management, Vol. 25, pp. 3-13.
+Oh, H. J., & Lee, B. (2012). “The effect of computer-mediated social support in online
+communities on patient empowerment and doctor–patient communication”. Health
+Communication, Vol. 27 No.1, pp. 30-41.
+Oh, H.J., Lauckner, C., Boehmer, J., Fewins-Bliss, R. and Li, K. (2013), “Facebooking for
+health: an examination into the solicitation and effects of health-related social support
+on social networking sites”, Computers in Human Behavior, Vol. 29 No. 5, pp. 20722080.
+Okazaki, S. (2008), “Exploring experiential value in online mobile gaming adoption”,
+Cyberpsychology & Behavior, Vol. 11 No. 5, pp. 619-622.
+Osman, A., Lamis, D. A., Freedenthal, S., Gutierrez, P. M. and McNaughton-Cassill, M.
+(2014), “The multidimensional scale of perceived social support: analyses of internal
+reliability, measurement invariance, and correlates across gender”, Journal of
+Personality Assessment, Vol. 96 No. 1, pp. 103-112.
+Ostrom, A. L., Parasuraman, A., Bowen, D. E., Patricio, L., and Voss, C. A. (2015), “Service
+research priorities in a rapidly changing context”, Journal of Service Research, Vol. 18
+No. 2, pp. 127-159.
+
+30
+
+Parkinson, J., Schuster, L., Mulcahy, R. and Taiminen, H. M. (2017), “Online support for
+vulnerable consumers: a safe place?”, Journal of Services Marketing, Vol. 31 No. 4/5,
+pp. 412-422.
+Piyathasanan, B., Mathies, C., Wetzels, M., Patterson, P. G. and de Ruyter, K. (2015), “A
+hierarchical model of virtual experience and its influences on the perceived value and
+loyalty of customers”, International Journal of Electronic Commerce, Vol. 19 No. 2,
+126-158.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y. and Podsakoff, N. P. (2003), “Common
+method biases in behavioral research: a critical review of the literature and
+recommended remedies”, Journal of Applied Psychology, Vol. 88 No. 5, p. 879.
+Poncin, I., Garnier, M., Mimoun, M. S. B., & Leclercq, T. (2017). “Smart technologies and
+shopping experience: Are gamification interfaces effective? The case of the
+Smartstore”. Technological Forecasting and Social Change, Vol.124, pp. 320-331.
+Price, S. M., Potter, L. D., Das, B., Wang, Y. C. L. and Huhman, M. (2009), “Exploring the
+influence of the VERB™ brand using a brand equity framework”, Social Marketing
+Quarterly, Vol. 15 No. 4, pp. 66-82.
+Reilly, J. J. and Kelly, J. (2011), “Long-term impact of overweight and obesity in childhood
+and adolescence on morbidity and premature mortality in adulthood: systematic
+review”, International Journal of Obesity, Vol. 35 No. 7, p. 891.
+Rodrigues, L. F., Oliveira, A. and Costa, C. J. (2016), “Does ease-of-use contributes to the
+perception of enjoyment? A case of gamification in e-banking”, Computers in Human
+Behavior, Vol. 61, pp. 114-126.
+Rosenbaum, M. S. and Massiah, C. A. (2007), “When customers receive support from other
+customers: exploring the influence of inter customer social support on customer
+voluntary performance”, Journal of Service Research, Vol. 9 No. 3, pp. 257-270.
+
+31
+
+Schuster, L., Drennan, J. and Lings, I. (2015), “Understanding consumers’ decisions to adopt
+technology-enabled transformative services”, The Service Industries Journal, Vol. 35
+No. 15-16, pp. 846-864.
+Schuster, L., Drennan, J. and N. Lings, I. (2013), “Consumer acceptance of m-wellbeing
+services: a social marketing perspective”, European Journal of Marketing, Vol. 47 No.
+9, pp. 1439-1457.
+Seiders, K. and Petty, R. D. (2004), “Obesity and the role of food marketing: a policy
+analysis of issues and remedies”, Journal of Public Policy and Marketing, Vol. 23 No.
+2, pp. 153-169.
+Sheth, J. N., Newman, B. I. and Gross, B. L. (1991), “Why we buy what we buy: a theory of
+consumption values”, Journal of Business Research, Vol. 22 No. 2, pp. 159-170.
+Statista. (2018a), “Soft drink sales worldwide in 2012 and 2017, by region (in million liters)”,
+available at: https://www.statista.com/statistics/232794/global-soft-drink-sales-byregion/ (accessed 9 February 2018)
+Statista (2018b). “Iran: Total population from 2012 to 2022 (in million inhabitants)”.
+Retrieved from: https://www.statista.com/statistics/294102/total-population-of-iran/
+Sweeney, J. C., Danaher, T. S. and McColl-Kennedy, J. R. (2015), “Customer effort in value
+cocreation activities: improving quality of life and behavioral intentions of health care
+customers”, Journal of Service Research, Vol. 18 No. 3, pp. 318-335.
+Tong, S.T., Heinemann-LaFave, D., Jeon, J., Kolodziej-Smith, R. and Warshay, N. (2013).
+“The use of pro-ana blogs for online social support”, Eating Disorders, Vol. 21 No. 5,
+pp. 408-422.
+Uchida, Y., Kitayama, S., Mesquita, B., Reyes, J. A. S., & Morling, B. (2008). Is perceived
+emotional support beneficial? Well-being and health in independent and interdependent
+cultures. Personality and Social Psychology Bulletin, Vol 34 No.6, pp.741-754.
+
+32
+
+Van Dolen, W. and Weinberg, C. B. (2017), “Child helplines: how social support and
+controllability influence service quality and well-being”, Journal of Services
+Marketing, Vol. 31 No. 4/5, pp. 385-396.
+Van Oerle, S., Mahr, D., and Lievens, A. (2016), “Coordinating online health communities
+for cognitive and affective value creation”, Journal of Service Management, Vol. 27
+No. 4, pp. 481-506.
+Wang, Y.C., Kraut, R.E. and Levine, J.M. (2015), “Eliciting and receiving online support:
+using computer-aided content analysis to examine the dynamics of online social
+support”, Journal of Medical Internet Research, Vol 17 No. 4, p. e99.
+Wetzels, M., Odekerken-Schröder, G. and Van Oppen, C. (2009), “Using PLS path modeling
+for assessing hierarchical construct models: guidelines and empirical illustration”, MIS
+Quarterly, pp. 177-195.
+World Health Organization (WHO). (2017), “Obesity and overweight”, Fact Sheet, available
+at: http://www.who.int/mediacentre/factsheets/fs311/en/
+Yao, T., Zheng, Q. and Fan, X. (2015), “The impact of online social support on patients’
+quality of life and the moderating role of social exclusion”, Journal of Service
+Research, Vol. 18 No. 3, pp. 369-383.
+Zainuddin, N., Russell-Bennett, R., & Previte, J. (2013). The value of health and wellbeing:
+an empirical model of value creation in social marketing. European Journal of Marketing,
+Vol. 47 No.9, pp.1504-1524.
+Zainuddin, N., Tam, L., & McCosker, A. (2016). Serving yourself: value self-creation in
+health care service. Journal of Services Marketing, Vol. 30 No.6, pp.586-600.
+
+33
+
+Table 1.
+Chronological overview of social support studies using Cutrona and Russell’s (1990) typology
+Author(s)/Year
+Coulson (2005)
+Rosenbaum and Massiah (2007)
+Coulson and Knibb (2007)
+Lin et al. (2015)
+Loane et al. (2014)
+Mo and Coulson (2008)
+Oh et al. (2013)
+Tong et al. (2013)
+Yao et al. (2015)
+Wang et al. (2015)
+Totals
+
+Information
+Y
+Y
+Y
+Y
+Y
+Y
+
+Tangible Assistance
+Y
+
+Esteem
+Y
+
+Y
+Y
+Y
+Y
+Y
+
+Y
+Y
+Y
+Y
+Y
+Y
+
+6
+
+7
+
+Y
+Y
+Y
+9
+
+34
+
+Emotional
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+10
+
+Network
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+
+7
+
+Table 2.
+Chronological overview of branding studies in social marketing
+Author/s (Year)
+
+Target Behavior
+
+Evans et al. (2002)
+Evans, et al. (2007)
+Asbury et al. (2008)
+Price et al. (2009)
+Lee and Hecht (2011)
+Mulcahy et al. (2015)
+Gordon et al. (2016)
+Evans et al. (2016)
+This Research
+
+Smoking
+Smoking
+Physical Activity
+Physical Activity
+Substance Use
+Alcohol Consumption
+Cancer Screening
+Smoking
+Beverage consumption
+
+Branding of
+Behavior
+
+Brand for Service/Campaign Assisting
+Behavior
+Y
+Y
+Y
+Y
+Y
+
+Y
+Y
+Y
+Y
+
+35
+
+Table 3.
+Respondents characteristics (%)
+Demographic Variable
+Gender
+Male
+Female
+Age
+<20
+20–35
+36–50
+>50
+BMI
+<18.5 (Underweight)
+18.5–24.9 (Normal weight)
+25–29.9 (Overweight)
+>30 (Obese)
+
+%
+49
+51
+13.68
+50.72
+34.47
+1.13
+3.13
+45.86
+38.74
+12.25
+
+36
+
+Table 4.
+Construct reliability and validity
+Construct
+Emotional Support
+The app cheers you up when you are depressed.
+The app cares about your health and shape, when you enter your weight and health status in the app.
+When something good happens to your health and weight the app praises you and it seems to be happy.
+If you fall into a health situation that you cannot do anything about, the app sees to it that something is done.
+If the app finds out that you have failed to reach your health and weight target, it tries to console you.
+If you are feeling down about your health and weight, the app cares for you right away.
+If you make a mistake, the app picks up the slack for you.
+If you accomplish something, the app congratulates you with sincerity.
+If you are busy and you cannot finish your health and weight target, it helps you out.
+The app recognizes your ability and it expects you to do the best of your abilities on a daily basis.
+If the app finds out that you are having a hard time with your health and weight problems, it gives you advice on how to solve the
+problem.
+The app accepts you for who you are, regardless of your health and weight problems.
+Informational Support
+The app offers you necessary information when you face weight-related problems.
+The app gives you additional information about weight-related symptoms and treatments that you are not familiar with.
+The app gives you advice so that you understand the reality of and adapt yourself to a healthy plan.
+The app will show you how to cope with a difﬁcult weight-related situation that you have faced.
+Playfulness
+Using X gets me away from it all.
+Using X makes me feel like I am in another world.
+Service Excellence
+When I think of X I think of excellence.
+I think of X as an expert in the content it offers.
+CROI
+Using X is an efficient way to use my leisure time.
+
+37
+
+Loading (t-stat)
+
+AVE
+0.58
+
+CR
+0.94
+
+0.60
+
+0.85
+
+0.60
+
+0.74
+
+0.65
+
+0.79
+
+0.71
+
+0.83
+
+0.78 (15.22***)
+0.78 (15.31***)
+0.75 (14.52***)
+0.74 (14.31***)
+0.75 (14.52***)
+0.73 (14.17***)
+0.77 (15.02***)
+0.77 (14.97***)
+0.77 (15.12***)
+0.75 (14.63***)
+0.76 (14.72***)
+0.74 (14.97***)
+0.77 (14.43***)
+0.76 (14.22***)
+0.75 (14.10***)
+0.77 (14.22***)
+0.88 (13.26***)
+0.65 (13.26***)
+0.73 (16.43***)
+0.87 (16.43***)
+0.86 (19.23***)
+
+Construct
+Using X fits in with my schedule.
+Aesthetics
+I like the way X looks.
+X is visually appealing.
+The way X displays content is attractive.
+I think X is very entertaining.
+Brand Awareness
+[Behavior] is well known.
+[Behavior] has a good name and reputation.
+Brand Image
+The image of [behavior] is consistent with my image of myself.
+[Behavior] reflects who I am.
+My friends would think highly of me if [I performed behavior].
+[Behavior] reflects my personality.
+Perceived quality
+[Behavior] provides quality experiences.
+[Behavior] provides experiences of consistent quality.
+Brand Loyalty
+I would advise my friends [to perform behavior].
+[Behavior] would be my preferred choice of behavior.
+Overall, I am committed to [behavior].
+
+Loading (t-stat)
+0.81 (19.23***)
+
+AVE
+
+CR
+
+0.59
+
+0.85
+
+0.71
+
+0.82
+
+0.69
+
+0.90
+
+0.77
+
+0.87
+
+0.73
+
+0.88
+
+0.68 (14.06***)
+0.76 (16.43***)
+0.75 (16.04***)
+0.85 (16.04***)
+0.83 (19.42***)
+0.84 (19.42***)
+0.84 (21.73***)
+0.87 (21.73***)
+0.76 (17.38***)
+0.84 (20.32***)
+0.87 (23.13***)
+0.88 (23.13***)
+0.83 (21.01***)
+0.87 (21.02***)
+0.84 (20.13***)
+
+Note: Items in the table are translated into English. Items used in the study were in Persian, one of the main languages spoken in Iran where participants were
+drawn from. X=indicates placing for transformative gamification service name.
+
+38
+
+Table 5.
+Mean, standard deviation (SD) and correlations of constructs (higher order)
+Construct
+Mean
+SD
+1
+2
+3
+1. Support
+3.49
+0.67
+(.82)
+.09
+.08
+2. Value
+3.72
+0.84
+0.31**
+(.96)
+.67
+3. Brand Equity
+3.76
+0.99
+0.29**
+0.82**
+(.94)
+AVE scores in brackets. **p<.01, shared variances shown in top half of matrix
+
+39
+
+Table 6.
+Structural model results
+Paths
+Direct effects
+SupportValue
+β=0.38***
+SupportBrand Equity
+β=-0.03ns
+ValueBrand Equity
+β=0.94***
+R²
+Value
+0.14
+Brand Equity
+0.87
+*p<.05, **p<.01, ***p<.000 ns non-significant
+
+40
+
+Indirect effects (mediated)
+Same as direct
+β=0.36***
+Same as direct
+
+Table 7.
+Comparison of fit indices for rival models and tested model
+Fit Indices Recommended Thresholds Rival Model 1 Rival Model 2 Tested Model
+CMIN/DF
+<3.00
+14.07
+2.45
+1.39
+CFI
+>.95
+0.92
+0.90
+0.97
+TLI
+>.95
+0.75
+0.90
+0.97
+RMSEA
+<.06
+0.19
+0.06
+0.03
+Note: Thresholds based upon Fornell and Larker (1981) and Iacobucci (2010).
+
+41
+
+Figure 1.
+Conceptual model
+Service
+Excellence
+
+CROI
+
+Playfulness
+
+Aesthetics
+
+Hedonic
+
+Utilitarian
+
+Brand
+Awareness
+Value
+H1
+
+H3
+
+Social Support
+
+Brand Equity
+H2
+
+Informational
+Support
+
+Brand Image
+
+Emotional
+Support
+
+Perceived
+Quality
+
+Brand Loyalty
+
+Notes: The hierarchical model for support, value, and brand equity is of the reflective–reflective type, which is suggested as superior to
+formative approaches (see Iacobucci, 2010).
+
+42
+
+Figure 2.
+Screenshots of the gamified app used in the study
+
+43
+
+Figure 3.
+Relationship testing results
+Service
+Excellence
+
+CROI
+
+Playfulness
+
+Aesthetics
+
+0.97***
+
+0.97***
+
+Hedonic
+
+Utilitarian
+
+Brand
+Awareness
+
+0.38***
+
+Value
+
+0.94***
+
+Brand Image
+
+-.03ns
+Social Support
+
+Brand Equity
+
+0.94***
+
+0.83***
+
+Informational
+Support
+
+Emotional
+Support
+
+0.95***
+
+Perceived
+Quality
+
+0.36***
+Brand Loyalty
+
+Note: Dashed line indicates indirect effect, ***p<.000, ns=non-significant
+
+44
+
+45
+
+

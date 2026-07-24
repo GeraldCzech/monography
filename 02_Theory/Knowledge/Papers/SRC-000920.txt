@@ -1,0 +1,762 @@
+Behavioural Public Policy (2024), 8, 107–120
+doi:10.1017/bpp.2021.10
+
+ARTICLE
+
+Do nudges crowd out prosocial behavior?
+Erik Gråd1*
+
+, Arvid Erlandsson2 and Gustav Tinghög3,4
+
+1
+
+Department of Social Sciences, Division of Economics, Södertörn University, Huddinge, Sweden,
+Department of Behavioral Science and Learning, Division of Psychology, Linköping University, Linköping,
+Sweden, 3Department of Management and Engineering, Division of Economics, Linköping University,
+Linköping, Sweden and 4Sweden National Center for Health Care Priority Setting, Division of Health Care
+Analysis, Linköping University, Linköping, Sweden
+*Correspondence to: E-mail: erik.grad@sh.se
+2
+
+(Received 15 September 2020; revised 11 February 2021; accepted 24 February 2021;
+first published online 26 March 2021)
+
+Abstract
+Both theory on motivational crowding and recent empirical evidence suggest that nudging
+may sometimes backfire and actually crowd out prosocial behavior, due to decreased
+intrinsic motivation and warm glow. In this study, we tested this claim by investigating
+the effects of three types of nudges (default nudge, social norm nudge, and moral
+nudge) on donations to charity in a preregistered online experiment (N = 1098).
+Furthermore, we manipulated the transparency of the nudges across conditions by explicitly informing subjects of the nudges that were used. Our results show no indication that
+nudges crowd out prosocial behavior; instead, all three nudges increased donations. The
+positive effects of the nudges were driven by the subjects who did not perceive the nudges
+as attempts to manipulate their behavior, while donations among subjects who felt that the
+nudges were manipulative remained unaffected. Subjects’ self-reported happiness with
+their choice also remained unaffected. Thus, we find no indication that nudges crowded
+out warm glow when acting altruistically. Generally, our results are good news for the proponents of nudges in public policy, since they suggest that concerns about unintended
+motivational crowding effects on prosocial behavior have been overstated.
+Keywords: nudge; crowd out; prosocial behavior; donation; warm glow
+
+Introduction
+In his seminal work The Gift Relationship, Titmuss (1970) asserted that paying people
+to do a prosocial act sometimes makes them less likely to do it. In essence, Titmuss
+argued that, in the context of blood donation, attempts at crowding in selfish (or
+extrinsic) motivation through monetary incentives simultaneously crowd out prosocial (intrinsic) motives. In other words, a good deed might be considered less
+good if one gets paid to do it. People may, therefore, be less inclined to act
+© The Author(s), 2021. Published by Cambridge University Press. This is an Open Access article, distributed under the
+terms of the Creative Commons Attribution-NonCommercial-ShareAlike licence (http://creativecommons.org/licenses/
+by/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the same
+Creative Commons licence is included and the original work is properly cited. The written permission of Cambridge
+University Press must be obtained for commercial re-use.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+108
+
+Erik Gråd et al.
+
+altruistically when getting paid to do so. Several studies have tested Titmuss’ hypothesis about motivational crowding out in the context of blood donation, and in large,
+found that Titmuss was correct (Ferrari et al., 1985; Reich et al., 2006; Goette &
+Stutzer, 2008; Mellström & Johannesson, 2008; Goette et al., 2009; Lacetera et al.,
+2012).1 Studies have also found that monetary incentives sometimes lead to reduced
+efforts in a wide array of prosocial behaviors. For example, volunteers going door to
+door collecting money for charity collected less when offered a small monetary reward
+(Gneezy & Rustichini, 2000). Likewise, several experiments have found that monetary
+payments sometimes reduce effort in various laboratory tasks (Deci et al., 1999; Frey
+& Jegen, 2001; Fehr & Gächter, 2002; Ellingsen & Johannesson, 2007). However, monetary incentives are not the only external factor that may crowd out intrinsic motivation.
+In this study, we extend the research on Titmuss’ hypothesis by exploring if external
+manipulations in the form of nudges crowd out prosocial behavior and warm glow.
+Although nudges have been shown to effectively promote prosocial behavior in many
+situations, recent studies have shown that nudges sometimes backfire, leading people to
+resist what they perceive as illicit attempts to shape their behavior (Sunstein, 2017; Arad
+& Rubinstein, 2018; Reijula et al., 2018; Jachimowicz et al., 2019; Bolton et al., 2020).
+For example, Arad and Rubinstein (2018) found that some people refused to adopt a savings program for which the government used nudging to promote, even though the
+arrangement itself was considered desirable. A possible reason for why nudges sometimes
+backfire is that people may react with a psychological reactance in situations where they feel
+that they are being manipulated into making certain choices (see Brehm & Brehm, 1981).
+Although nudges, in theory, should preserve the freedom of choice, they can still amount to
+some level of pressure or result in a feeling that one should behave in a certain way. Because
+people derive additional utility from behavior that enhances their reputation (Frey & Jegen,
+2001; Bénabou & Tirole, 2003; Ellingsen & Johannesson, 2008), nudges could plausibly also
+crowd out prosocial behavior simply because nudged prosocial behavior generates less utility than non-nudged prosocial behavior in terms of reputational benefits. An altruistic act
+may be viewed as less altruistic when being nudged, making it less attractive.
+It has long been thought that observability and public recognition for prosocial
+behavior increases willingness to act prosocially. Experimental evidence for this has
+been found both in field and in laboratory settings, see Andersson et al. (2020) for
+a review of the literature. However, in recent research, Savary and Goldsmith
+(2020) cast doubt on this conclusion, instead finding evidence suggesting that public
+recognition undermines the intrinsic motivations for altruistic acts. Similarly, Wu and
+Jin (2020) found that nudges involving public recognition tarnished the perception of
+people behaving prosocially, by making observers think that prosocial behavior was a
+result of nudging, rather than spontaneous prosocial preferences. Little is, however,
+known about whether such counterproductive effects extend to actual behavior.
+In addition to crowding out actual prosocial behavior, nudges may also crowd out
+warm glow. Warm glow can be described as the emotional satisfaction that stems
+from the act of giving or ‘doing good’, disregarding the actual impact of one’s generosity and reputational benefits (Andreoni, 1989, 1990). Since warm glow helps people
+to maintain a self-image of being moral and fair-minded, an essential factor is how
+1
+
+For a meta-analysis of empirical evidence for Titmuss’ hypothesis, see Niza et al. (2013).
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Behavioural Public Policy
+
+109
+
+people perceive their own actions and the motivations behind them. Thus, if someone
+feels pressured or tricked into an action, the prosocial act might be less rewarding in
+terms of experienced warm glow. It could also induce other unintended negative reactions such as avoidance behavior (Andreoni et al., 2017; Damgaard & Gravert, 2018).
+As an illustration, people sometimes avoid situations where they are being asked to give,
+although they are willing to give when being asked, suggesting an important difference
+between ‘giving’ and ‘giving in’ (see, e.g., Cain et al., 2014), where the latter refers to
+prosocial behavior in which one reluctantly engages. Nudges may make an altruistic
+act more likely to be experienced as ‘giving in’ rather than spontaneous ‘giving’. The
+amount of warm glow felt following a donation is, thus, potentially higher for a person
+who is not being nudged into giving, at least when the nudge is transparent.
+A common critique against the use of nudges is that they are often very subtle and
+not as transparent in how they are used to influence behavior as other more traditional policy interventions such as mandates (Dhingra et al., 2012; Hansen &
+Jespersen, 2013; Sunstein, 2016). Thus, while nudges are less coercive as a policy
+tool, they are more open to criticism about relying on manipulation for changing
+behavior. It has also been argued that this nontransparency is one of the reasons
+that nudges are effective in changing behavior (Bovens, 2009). However, studies
+on default nudges have not found any clear evidence supporting the hypothesis
+that transparency reduces the nudges’ positive effect on intended behavior
+(Loewenstein et al., 2015; Kroese et al., 2016; Steffel et al., 2016; Bruns et al.,
+2018). Less work has been done to investigate the effect of transparency of other
+type of nudges, with a notable exception of Kantorowicz-Reznichenko and
+Kantorowicz (2019), who found that increased transparency of disclosing information
+about others’ behavior actually reduced the number of subjects making a desired choice
+in a lottery, defined as the choice that maximized the expected payoff. In the present
+study, we explicitly manipulate the transparency of nudges across conditions in a preregistered experiment. Since nudges differ on the extent to which they are transparent
+by themselves, we test three different types of nudges: (i) a default change nudge,
+where subjects need to actively opt out from a preset alternative, (ii) a social norm
+nudge, where subjects are informed about others’ behavior, and (iii) a moral nudge,
+where subjects need to think about what is morally right before making a decision.
+Following Titmuss’ hypothesis, the crowding-out effects of the nudges should be
+more pronounced for nudges that are more transparent (i.e., the social norm and the
+moral nudge) compared with the default nudge, which has a lower innate level of transparency. Arguably, the effect of our external manipulation of transparency should be
+weaker for nudges that have a higher innate level of transparency.
+Methods
+The study and main analyses were preregistered at the Open Science Framework
+(OSF) and the data are available at the project’s OSF repository.2 We report all conditions and measures included. Sample size was determined in advance, and analyses
+were conducted only after data collection was completed.
+2
+
+OSF project page: https://osf.io/cep2n/?view_only=9a2b92e2d7e9404ab5784e54aacecf4e.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+110
+
+Erik Gråd et al.
+
+Subjects and setting
+Subjects in an online experiment were recruited from Prolific (Palan & Schitter,
+2018). All subjects gave their informed consent to participate in the study. A total
+of 1098 subjects completed the survey, with a mean age of 32.2 years (SD = 0.34)
+and 48.9% women. In total, 38.4% were from the UK, 18.3% from the USA, roughly
+10% each from Portugal and Poland, and 24.7% from other countries. There were no
+statistically significant differences in background characteristics between conditions,
+indicating that our randomization was successful. Subjects were rewarded 50 cents as
+a showup fee in addition to the bonus payment contingent on their own decision.
+Two subjects failed the included attention check and were, thus, excluded from
+the analysis. The experiment was conducted in English and programmed in
+Qualtrics.
+Experimental design
+For subjects in all conditions, the experiment consisted of three parts. In the first
+part, subjects were informed about UNICEF, answered questions about UNICEF,
+and were shown an advertisement from the organization. This was done to make
+subjects feel that they were doing something worthwhile, before making their decision to donate money or not in the second part. In the second part, participants
+were endowed an extra 50 cents, which they could choose to donate to UNICEF
+or keep for themselves. In the third part, subjects answered a series of questions
+about how happy they were with their choice and to what extent they experienced
+the nudge as manipulative.
+At the outset of the experiment, subjects were randomly assigned to one of seven
+conditions, either a control condition without any nudges or one of six conditions
+involving nudges. Table 1 gives an overview of all conditions. Two conditions
+included a default change nudge, two conditions included a social norm nudge,
+and the final two included a moral nudge. The default nudge added a default choice,
+so that yes and full donation (50 cents) were the preselected alternatives. The other
+conditions had no preselected alternatives.3 In the social nudge conditions, subjects
+were presented with the information: ‘Previous studies have shown that about 80%
+of subjects choose to donate money in similar situations.4 In the moral nudge conditions, subjects were asked to respond to the following question before making their
+decision to donate or not: ‘What do you think is the most morally right to do, in
+this situation?5
+The default and social nudges were chosen partly because they represent nudges
+commonly used in public policy (Thaler & Sunstein, 2008). All nudges were also
+partly chosen because they differ in their innate level of transparency, that is, whether
+it is clear that they are an attempt to influence behavior even without explicitly saying
+3
+When subjects chose whether or not to donate, there was no pre-selected choice except in the default
+nudge condition. When indicating how much to donate, subjects did so with a slider. In the default nudge
+condition, this slider started at 50 cents. In the other conditions, the slider started at 0 cents and subjects
+had to click or move the slider in order to proceed.
+4
+This figure was based on the results of Konow (2010).
+5
+Inspiration for this nudge was drawn from Capraro et al. (2019).
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Table 1. Description of experimental conditions.
+Control group
+No increased
+transparency
+
+Increased
+transparency
+
+Control condition
+Subjects faced the
+choice of
+donating without
+being nudged.
+
+Default change nudge
+
+Social norm nudge
+
+Moral nudge
+
+Social nudge condition
+Information was provided
+about
+donations made by others.
+
+Moral nudge condition
+Subjects first answered which choice
+(donate/not donate) was the most
+morally right decision.
+
+Default nudge + information
+Donation was the
+preselected alternative
+from which subjects could
+opt out. Information
+highlighted that subjects
+were being nudged.
+
+Social nudge + information
+Information was provided
+about
+donations made by others.
+Information
+highlighted that subjects
+were being nudged.
+
+Moral nudge + information
+Subjects first answered which choice
+(donate/not donate) was the most
+morally right decision. Information
+highlighted that subjects were being
+nudged.
+
+Behavioural Public Policy
+
+Default nudge condition
+Donation was the
+preselected
+alternative from which
+subjects
+could opt out.
+
+111
+
+112
+
+Erik Gråd et al.
+
+so. The default nudge is arguably the least transparent nudge out of the three, while
+especially the moral nudge is quite transparent in itself as an attempt to influence
+behavior. The innate transparency level of the social nudge, where subjects are
+informed about the behavior of others, is arguably somewhere in between these
+two. To further explore the effect of transparency of the nudges, we included three
+conditions that were identical to the three nudge conditions but also included an
+explicit message to increase the transparency of the respective nudge. This information highlighted the fact that the subjects were being nudged and disclosed motivation behind such nudges and their potential to affect decision-making. For
+example, the nudge information for the default change nudge read: ‘Before proceeding, please note that when asked to donate, the default choice (pre-selected) is set to
+donate. Changing which choice is the default choice is a method that can be used to
+affect behavior. This method is frequently used by companies and organizations
+to promote certain behavior. It has been proven to have a large impact on choices
+and behavior for example when giving consent for organ donations, choosing insurance policies, eating healthy and in many other situations.’ The messages in the other
+conditions were similar but adjusted for the respective nudge. For complete experimental instructions, see Supplementary Material.
+Materials
+To measure prosocial behavior, subjects were faced with a dictator game where they
+could donate any amount between 0 and 50 cents to a charitable cause (UNICEF).
+The structure of the game was that subjects first answered a yes/no question if they
+wanted to donate, and if yes was selected, they indicated using a slider how much
+of the 50 cents to donate to UNICEF. This design was chosen, since it has been
+found that potential donors make their choices in two steps, where the first
+step is whether to help or not, and the second is how much to help (Dickert
+et al., 2011).
+To measure warm glow after making their donation choice, subjects were asked if
+they agreed with the statement ‘I am happy with my choice to [donate/not donate].’
+Subjects answered on a four-graded Likert scale with the options ‘Strongly Agree’,
+‘Agree’, ‘Disagree’, or ‘Strongly Disagree’.
+To measure perceived manipulation, whether the subjects thought that they were
+being manipulated by nudges when deciding to donate or not, subjects in the six conditions who faced nudges were asked: ‘When you made your choice to donate or not,
+did you feel like the [pre-selected choice/information about how much other people
+donate/question about what was morally right] was an attempt to manipulate your
+answer? (Yes/No).’
+Results
+Summary statistics are presented in Table 2. Across all conditions, 53.1% of subjects
+donated money to UNICEF. The average amount donated across all conditions was
+20 cents (i.e., 40.0% of the full amount). Across conditions, the donated amount ranged between 17 and 23 cents. When excluding nondonors, the average donation
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Table 2. Summary statistics.
+Share of
+female
+subjects (%)
+
+Proportion
+donation (%)
+
+Average
+donation
+
+Average
+donation
+(donors)
+
+Perceived
+manipulation
+attempt (%)
+
+Observations
+
+Control
+
+150
+
+32.5
+
+52.6
+
+46.0
+
+$ 0.17
+
+$ 0.37
+
+–
+
+Default nudge
+
+162
+
+32.1
+
+52.8
+
+61.7
+
+$ 0.23
+
+$ 0.37
+
+51.2
+
+Default nudge +
+Information
+
+161
+
+31.2
+
+50.1
+
+50.1
+
+$ 0.19
+
+$ 0.38
+
+56.5
+
+Social norm
+nudge
+
+154
+
+32.1
+
+50.0
+
+50.0
+
+$ 0.21
+
+$ 0.41
+
+74.7
+
+Social norm
+nudge +
+Information
+
+157
+
+31.9
+
+45.9
+
+55.4
+
+$ 0.20
+
+$ 0.37
+
+73.8
+
+Moral nudge
+
+158
+
+32.3
+
+45.6
+
+54.4
+
+$ 0.21
+
+$ 0.39
+
+74.1
+
+Moral Nudge +
+Information
+
+154
+
+33.0
+
+44.8
+
+52.3
+
+$ 0.20
+
+$ 0.38
+
+77.9
+
+Total
+
+1096
+
+32.2
+
+48.9
+
+53.1
+
+$ 0.20
+
+$ 0.38
+
+67.9
+
+Behavioural Public Policy
+
+Condition
+
+Average
+age
+
+113
+
+114
+
+Erik Gråd et al.
+
+Figure 1. Proportion of subjects donating to charity in each condition, with 95% confidence intervals.
+
+ranged between 37 and 39 cents. Among those who donated, the majority (61.5%)
+donated the full amount. A small spike (11.3%) was also found at the 50/50 choice
+of giving 25 cents.6,7
+The perceived manipulation of nudges was high, ranging from 51.2% in the default
+condition to 77.9% in the moral nudge condition with information. Whether or not
+nudges were perceived as attempts to manipulate behavior was uncorrelated with
+whether or not subjects received information making the nudge transparent (r = 0.05
+for the default nudge and moral nudge and r = −0.01 for the social norm nudge).
+Do nudges crowd out prosocial behavior?
+Figure 1 shows the proportion of subjects donating in each condition. Donations
+increased in all six nudge conditions compared with the (no-nudge) control condition, where 46.0% of the subjects donated. Thus, we find no crowding-out effect
+for any of the nudges. Donations were the highest in the condition with the default
+nudge (61.7%) and the social norm nudge with information (55.4%). The difference
+in donation compared with the control condition for these conditions was statistically
+significant (p < 0.05), while the other conditions were not statistically different compared with the control condition.
+The effect of increased transparency on donations varied across the three different
+nudges, but with no overall significant effect when pooling the data t(942) = 0.78,
+p = 0.437. For the default nudge, the nudge with the lowest inherent level of transparency, the information explicating the use and purpose of the nudge decreased the
+6
+To see a more complete distribution of donations, a histogram can be found in the Supplementary
+Material.
+7
+Since donations to a great extent were bimodally distributed between 0 or 50 cents, results in this section are presented using the proportion of subjects deciding to donate any amount. Analysis of average
+donations is provided in the Supplementary Material and shows no distinct differences to the analysis of
+proportions.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Behavioural Public Policy
+
+115
+
+Figure 2. Proportion of subjects donating to charity and perceived manipulation attempt of nudges.
+Error bars are 95% confidence intervals.
+
+share of donors by 11.6% points compared with the default nudge condition without
+this additional information, t(321) = 1.96, p = 0.025. For the social norm nudge and
+the moral nudge, the increased transparency had no significant effect. The proportion
+of donors increased by 5.4% points for the social norm nudge, t(309) = 0.95, p = 0.17,
+and decreased by 2.1% points for the moral nudge when the information was
+included, t(310) = 0.32, p = 0.37.
+While we, in Figure 1, compare donations between the exogenously manipulated
+conditions, we also tested differences in donations depending on whether or not the
+nudges were perceived as manipulative. As shown in Table 2, the share of subjects
+who perceived the nudges as attempts to manipulate behavior differed between
+nudges, with the default nudge being perceived as the least manipulative. Figure 2
+shows the share of subjects who choose to donate, separated by whether the nudge
+was perceived as manipulative or not. For subjects who did not perceive the nudge
+as an attempt to manipulate behavior (N = 304), the nudge was effective in increasing
+prosocial behavior. For subjects who viewed the nudge as an attempt to manipulate
+behavior (N = 642), the proportion donating was similar to the (no-nudge) control
+condition. Thus, even though people felt that they were manipulated by the nudge,
+it did not crowd out prosocial behavior. The positive effects of the nudges on prosocial behavior were, however, driven by increased donations made by subjects
+who did not perceive the nudge as an attempt to manipulate behavior.
+Do nudges crowd out warm glow?
+Figure 3 shows subjects’ experienced warm glow, measured as happiness with their
+choices, for donating subjects (Panel A) and nondonating subjects (Panel B). For
+both donating and nondonating subjects, there were no statistically significant differences in happiness with choice between subjects who were nudged and subjects in the
+no-nudge control condition (donors t(580) = −0.074, p = 0.941; nondonors t(509) =
+0.496, p = 0.620). Thus, we find no indication that nudges crowded out warm glow.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+116
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Erik Gråd et al.
+Figure 3. Happiness with choices for (A) donors and (B) nondonors. Numbers on the scale represent how much subjects agreed with the statement ‘I am happy with my
+choice to [donate/not donate]’: 1 – Strongly Disagree, 2 – Disagree, 3 – Agree, 4 – Strongly Agree. Error bars are 95% confidence intervals.
+
+Behavioural Public Policy
+
+117
+
+Those who donated were happier with their choice (M = 3.57, SD = 0.56) than those
+who did not donate (M = 2.94, SD = 0.83), t(1091) = 14.67, p < 0.001.
+Making the nudges more transparent had no statistically significant effect on how
+happy donating subjects felt with their choice. This null finding was consistent when
+making comparisons for each nudge individually and when pooling all conditions.
+For nondonating subjects, there were no differences between conditions with and
+without information to increase transparency, comparing each nudge individually.
+However, pooling all nudges together shows that subjects in the nudge conditions
+with transparent nudges were less happy with their choice (M = 2.88, SD = 0.82)
+than those who were nudged without explicit information about the nudges (M =
+3.02, SD = 0.81), t(428) = 1.80, p = 0.037. The effect is, thus, small and should be
+interpreted with caution until replicated.
+Discussion
+The arguably highest form of giving in most cultures is anonymous giving to
+unknown strangers without any external pressure or motivation to do so.
+Following the idea that extrinsic motivations can crowd out intrinsic motivation,
+we tested if nudges crowd out prosocial behavior and decrease warm glow from
+donations. Our results show no indication that nudges crowd out prosocial behavior. Instead, donations increased in all six conditions where people were nudged
+compared with the (no-nudge) control condition. Previous studies have found
+that nudges cause psychological reactance against the desired behavior for a significant group of people and that concerns of manipulation are the driving force of this
+reactance (Arad & Rubinstein, 2018). In relation to this, our study shows that, while
+a group of people see the nudges as manipulative, they do not react by engaging in
+prosocial activities to a lesser degree than in the absence of the nudge. The nudge
+simply has no effect on this group of people, and the positive effects of the nudges
+are driven by the people who do not perceive the nudges as manipulative. Put in
+other words, we see no indication that people who would like to engage in prosocial
+behavior avoid doing so when they are being nudged toward that particular
+behavior.
+Furthermore, we measured warm glow and tested if this positive feeling was
+crowded out by nudges. If nudges reduce warm glow, this could have a direct effect
+on altruistic people’s well-being, by reducing their own utility derived from the act of
+giving. We measured warm glow by asking subjects how happy they were with either
+donating or not donating. For both donors and nondonors, we found no differences
+in happiness with choice depending on whether subjects were nudged or not. Wu and
+Jin (2020) found that the use of nudges tarnished the perception of people behaving
+prosocially, by making observers think that prosocial behavior was less genuine. Our
+findings, thus, indicate that this effect does not extend to the assessment of own
+behavior influenced by nudges. An interpretation of this is that nudges make other
+people’s prosocial behavior less praiseworthy, while one’s own prosocial behavior is
+unaffected by nudges. Although we found no overall crowding out of warm glow,
+it is important to note that donors who perceived the nudge as manipulative were
+less happy with their choices. Thus, for nudges to be unambiguously
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+118
+
+Erik Gråd et al.
+
+welfare-improving, it is important to limit the extent to which people feel
+manipulated.
+We also tested if crowding out of prosocial behavior and warm glow depends on
+the transparency of the nudges. We found that making the default nudge transparent
+decreased its positive effect on altruistic behavior. However, we found no crowding
+out of prosocial since subjects still donated more than in the control group.
+Previous studies on the effect of transparency have suggested that increased transparency does little to affect the effectiveness of default nudges (Loewenstein et al., 2015;
+Bruns et al., 2018). Our results tell a different story, since increased transparency of
+the default nudge resulted in less giving. A possible reason for why we find a negative
+effect on giving for the default nudge and not the other nudges tested is that the
+default nudge is inherently less transparent in comparison with the other nudges.
+Thus, it is not surprising that disclosing information about the purpose of the
+nudge has an impact for the default nudge, while this effect was negligible for the
+inherently more transparent nudges.
+Some limitations of our study should be noted. First, the stake size is admittedly
+small. It is, of course, possible that our results could be affected had we had higher
+stakes. Although a recent meta-analysis indicated that an increased stake size tends
+to generate slightly more giving (Larney et al., 2019), it gives us no reason to believe
+that the general findings from this study would change if subjects had made decisions
+involving higher stakes. Second, in this study, we explore potential crowding-out
+effects limited to ‘prosocial’ nudges, which are a specific type of nudge where choice
+architecture is used to facilitate decisions that involve own sacrifice to benefit others
+(Hagman et al., 2015). Thus, we do not know whether our results will extend to traditional ‘pro-self’ nudges that primarily aim to increase individuals’ own well-being.
+This is a venue for future research. Finally, it should be noted that, in this study, participants made their decision to donate or not in a private context. It is possible that
+we would see a crowding-out effect if decisions were made in a more public context
+where people could be observed when making their decision.
+To conclude, our findings are important for understanding the consequences of
+nudging in a broad sense, since no previous study has explored to what extent nudges
+crowd out prosocial behavior and warm glow. As there are many examples of extrinsic
+incentives crowding out prosocial behavior, as hypothesized by Titmuss, similar
+effects could potentially be expected for nudges as well. However, we find no indication that nudges crowd out prosocial behavior. Generally, our results are good news
+for people working with behavioral insights in public policy, since they suggest that
+concerns about unintended motivational crowding effects on behavior have been
+overstated. At least when it comes to prosocial behavior.
+Supplementary material. To view supplementary material for this article, please visit https://doi.org/10.
+1017/bpp.2021.10.
+Financial support. This work was supported by the Marianne and Marcus Wallenberg Foundation (grant
+number: MMW 2014.0187) and the Swedish Research Council (grant number: 2018.01755). Funders had
+no role in the study design, data collection, analysis, decision to publish, or preparation of the manuscript.
+Conflict of interest. All authors declare no competing interests that could have appeared to influence the
+submitted work.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+Behavioural Public Policy
+
+119
+
+References
+Andersson, P. A., A. Erlandsson, D. Västfjäll and G. Tinghög (2020), ‘Prosocial and moral behavior under
+decision reveal in a public environment’, Journal of Behavioral and Experimental Economics, 87: 101561.
+https://doi.org/10.1016/j.socec.2020.101561.
+Andreoni, J. (1989), ‘Giving with impure altruism: Applications to charity and Ricardian equivalence’,
+Journal of Political Economy, 97(6): 1447–58. https://doi.org/10.1086/261662.
+Andreoni, J. (1990), ‘Impure altruism and donations to public goods: A theory of warm-glow giving’, The
+Economic Journal, 100(401): 464–77. https://doi.org/10.2307/2234133.
+Andreoni, J., J. M. Rao and H. Trachtman (2017), ‘Avoiding the ask: A field experiment on altruism,
+empathy, and charitable giving’, Journal of Political Economy, 125(3): 625–53. https://doi.org/10.1086/
+691703.
+Arad, A. and A. Rubinstein (2018), ‘The people’s perspective on libertarian-paternalistic policies’, The
+Journal of Law and Economics, 61(2): 311–33. https://doi.org/10.1086/698608.
+Bénabou, R. and J. Tirole (2003), ‘Intrinsic and extrinsic motivation’, The Review of Economic Studies, 70
+(3): 489–520. https://doi.org/10.1111/1467-937X.00253.
+Bolton, G., E. Dimant and U. Schmidt (2020) ‘Observability and social image: On the robustness and fragility of reciprocity’, Available at SSRN: https://ssrn.com/abstract=3294375
+Bovens, L. (2009), ‘The ethics of nudge’, in T. Grüne-Yanoff and S. O. Hansson (eds), Preference change,
+Dordrecht: Springer Netherlands, 207–19. https://doi.org/10.1007/978-90-481-2593-7_10.
+Brehm, S. and J. Brehm (1981), Psychological reactance: A theory of freedom and control. New York:
+Academic Press. https://doi.org/10.1016/C2013-0-10423-0.
+Bruns, H., E. Kantorowicz-Reznichenko, K. Klement, M. Luistro Jonsson and B. Rahali (2018), ‘Can nudges
+be transparent and yet effective?’, Journal of Economic Psychology. Forthcoming, Available at SSRN:
+https://ssrn.com/abstract=2816227
+Cain, D. M., J. Dana and G. E. Newman (2014), ‘Giving versus giving in’, Academy of Management Annals,
+8(1): 505–33. https://doi.org/10.5465/19416520.2014.911576.
+Capraro, V., G. Jagfeld, R. Klein, M. Mul and I. van de Pol (2019), ‘Increasing altruistic and cooperative behaviour with simple moral nudges’, Scientific Reports, 9(1): 11880. https://doi.org/10.1038/s41598-019-48094-4.
+Damgaard, M. T. and C. Gravert (2018), ‘The hidden costs of nudging: Experimental evidence from reminders
+in fundraising’, Journal of Public Economics, 157: 15–26. https://doi.org/10.1016/j.jpubeco.2017.11.005.
+Deci, E. L., R. Koestner and R. M. Ryan (1999), ‘A meta-analytic review of experiments examining the
+effects of extrinsic rewards on intrinsic motivation’, Psychological Bulletin, 125(6): 627–68. https://doi.
+org/10.1037/0033-2909.125.6.627.
+Dhingra, N., Z. Gorn, A. Kener and J. Dana (2012), ‘The default pull: An experimental demonstration of
+subtle default effects on preferences’, Judgment and Decision Making, 7(1): 69–76.
+Dickert, S., N. Sagara and P. Slovic (2011), ‘Affective motivations to help others: A two-stage model of donation decisions’, Journal of Behavioral Decision Making, 24(4): 361–76. https://doi.org/10.1002/bdm.697.
+Ellingsen, T. and M. Johannesson (2007), ‘Paying respect’, The Journal of Economic Perspectives, 21(4):
+135–50.
+Ellingsen, T. and M. Johannesson (2008), ‘Pride and prejudice: The human side of incentive theory’, The
+American Economic Review, 98(3): 990–1008.
+Fehr, E. and S. Gächter (2002) ‘Do incentive contracts undermine voluntary cooperation?’, Zurich IEER
+Working Paper No. 34, Available at SSRN: https://ssrn.com/abstract=313028
+Ferrari, J. R., R. C. Barone, L. A. Jason and T. Rose (1985), ‘The use of incentives to increase blood donations’, The Journal of Social Psychology, 125(6): 791–3. https://doi.org/10.1080/00224545.1985.9713559.
+Frey, B. S. and R. Jegen (2001), ‘Motivation crowding theory’, Journal of Economic Surveys, 15(5): 589–611.
+https://doi.org/10.1111/1467-6419.00150.
+Gneezy, U. and A. Rustichini (2000), ‘Pay enough or don’t pay at all’, The Quarterly Journal of Economics,
+115(3): 791–810.
+Goette, L. F. and A. Stutzer (2008) ‘Blood donations and incentives: Evidence from a field experiment’, FRB
+of Boston Working Paper No. 08-3, Available at SSRN: https:/ssrn.com/abstract=1153406
+Goette, L., A. Stutzer, G. Yavuzcan and B. M. Frey (2009), ‘Free cholesterol testing as a motivation device in
+blood donations: Evidence from field experiments’, Transfusion, 49(3): 524–31. https://doi.org/10.1111/j.
+1537-2995.2008.02007.x.
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+120
+
+Erik Gråd et al.
+
+Hagman, W., D. Andersson, D. Västfjäll and G. Tinghög (2015), ‘Public views on policies involving
+nudges’, Review of Philosophy and Psychology, 6(3): 439–53. https://doi.org/10.1007/s13164-015-0263-2.
+Hansen, P. G. and A. M. Jespersen (2013), ‘Nudge and the manipulation of choice: A framework for the
+responsible use of the nudge approach to behaviour change in public policy’, European Journal of
+Risk Regulation, 4(1): 3–28. https://doi.org/10.1017/S1867299X00002762.
+Jachimowicz, J. M., S. Duncan, E. U. Weber and E. J. Johnson (2019), ‘When and why defaults influence
+decisions: A meta-analysis of default effects’, Behavioural Public Policy, 3(2): 159–86. https://doi.org/10.
+1017/bpp.2018.43.
+Kantorowicz-Reznichenko, E. and J. Kantorowicz (2019), ‘To follow or not to follow the herd?
+Transparency and social norm nudges,’ in Institute for Research in Economic and Fiscal Issues (IREF)
+Workshop and Conference. Aix-en-Provence, France: Aix-Marseille University.
+Konow, J. (2010), ‘Mixed feelings: Theories of and evidence on giving’, Journal of Public Economics,
+94(3–4): 279–97. https://doi.org/10.1016/j.jpubeco.2009.11.008.
+Kroese, F. M., D. R. Marchiori and D. T. D. de Ridder (2016), ‘Nudging healthy food choices: A field experiment at the train station’, Journal of Public Health, 38(2): e133–7. https://doi.org/10.1093/pubmed/fdv096.
+Lacetera, N., M. Macis and R. Slonim (2012), ‘Will there be blood? Incentives and displacement effects in
+pro-social behavior’, American Economic Journal: Economic Policy, 4(1): 186–223. https://doi.org/10.
+1257/pol.4.1.186.
+Larney, A., A. Rotella and P. Barclay (2019), ‘Stake size effects in ultimatum game and dictator game offers:
+A meta-analysis’, Organizational Behavior and Human Decision Processes, 151: 61–72. https://doi.org/10.
+1016/j.obhdp.2019.01.002.
+Loewenstein, G., C. Bryce, D. Hagmann and S. Rajpal (2015), ‘Warning: You are about to be nudged’,
+Behavioral Science, 1(1): 35–42.
+Mellström, C. and M. Johannesson (2008), ‘Crowding out in blood donation: Was Titmuss right?’ Journal
+of the European Economic Association, 6(4): 845–63. https://doi.org/10.1162/JEEA.2008.6.4.845.
+Niza, C., B. Tung and T. M. Marteau (2013), ‘Incentivizing blood donation: Systematic review and meta-analysis
+to test Titmuss’ hypotheses’, Health Psychology, 32(9): 941–9. https://doi.org/10.1037/a0032740.
+Palan, S. and C. Schitter (2018), ‘Prolific.ac—A subject pool for online experiments’, Journal of Behavioral
+and Experimental Finance, 17: 22–7. https://doi.org/10.1016/j.jbef.2017.12.004.
+Reich, P., P. Roberts, N. Laabs, A. Chinn, P. McEvoy, N. Hirschler and E. L. Murphy (2006), ‘A randomized
+trial of blood donor recruitment strategies’, Transfusion, 46(7): 1090–6. https://doi.org/10.1111/j.15372995.2006.00856.x.
+Reijula, S., J. Kuorikoski, T. Ehrig, K. Katsikopoulos and S. Sunder (2018), ‘Nudge, boost, or design?
+Limitations of behaviorally informed policy under social interaction’, Journal of Behavioral Economics
+for Policy, 2(1): 99–105. https://doi.org/10.31235/osf.io/zh3qw.
+Savary, J. and K. Goldsmith (2020), ‘Unobserved altruism: How self-signaling motivations and social benefits shape willingness to donate’, Journal of Experimental Psychology: Applied, 26(3): 538–50. https://doi.
+org/10.1037/xap0000261.
+Steffel, M., E. F. Williams and R. Pogacar (2016), ‘Ethically deployed defaults: Transparency and consumer
+protection through disclosure and preference articulation’, Journal of Marketing Research, 53(5): 865–80.
+https://doi.org/10.1509/jmr.14.0421.
+Sunstein, C. R. (2016), ‘Do people like nudges?’, Administrative Law Review, 68(2): 177–232.
+Sunstein, C. R. (2017), ‘Nudges that fail’, Behavioural Public Policy, 1(1): 4–25. https://doi.org/10.1017/bpp.2016.3.
+Thaler, R. H. and C. R. Sunstein (2008), Nudge: Improving decisions about health, wealth, and happiness.
+New Haven & London: Yale University Press.
+Titmuss, R. M. (1970), The gift relationship: From human blood to social policy. London: Allen & Unwin.
+Wu, X. and L. Jin (2020), ‘Nudging: The unexpected impact on observers’ inference of donors’ prosocial
+behavior’, Social Behavior and Personality: An International Journal, 48(1): 1–8. https://doi.org/10.
+2224/sbp.8620.
+
+Cite this article: Gråd E, Erlandsson A, Tinghög G (2024). Do nudges crowd out prosocial behavior?
+Behavioural Public Policy 8, 107–120. https://doi.org/10.1017/bpp.2021.10
+
+https://doi.org/10.1017/bpp.2021.10 Published online by Cambridge University Press
+
+

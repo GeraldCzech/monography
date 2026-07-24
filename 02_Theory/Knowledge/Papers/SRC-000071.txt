@@ -1,0 +1,1622 @@
+Journal of Community & Applied Social Psychology
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+Published online 2 July 2007 in Wiley InterScience
+(www.interscience.wiley.com) DOI: 10.1002/casp.906
+
+Charitable Giving: The Effectiveness of a Revised
+Theory of Planned Behaviour Model in Predicting
+Donating Intentions and Behaviour
+JOANNE R. SMITH* and ANDREÈ McSWEENEY
+School of Psychology, University of Queensland, Australia
+
+ABSTRACT
+A revised theory of planned behaviour (TPB) model was used to determine the influence of attitudes,
+norms (injunctive, descriptive and moral norms), perceived behavioural control, and past behaviour
+on intentions to donate money to charitable organisations. Respondents (N ¼ 227) completed a
+questionnaire assessing the constructs of the revised TPB model. Four weeks later, a subsample of
+respondents (N ¼ 67) reported their donating behaviour. Hierarchical multiple regression analyses
+revealed support for the revised TPB model. Attitudes, perceived behavioural control, injunctive
+norms, moral norms and past behaviour all predicted charitable giving intentions; however,
+descriptive norms did not predict donating intentions. Donating intentions were the only significant
+predictor of donating behaviour at Time 2. In addition, a number of beliefs differentiated between
+those who did and did not intend to donate to charity. Theoretical and applied implications of the
+results are discussed. Copyright # 2007 John Wiley & Sons, Ltd.
+Key words: Theory of Planned Behaviour (TPB); charitable giving
+
+On 26 January 2005, a tsunami in the Indian Ocean wreaked havoc across many developing
+countries in the Asia-Pacific region. As the extent of the disaster became known, the level
+of contribution to the relief effort around the world was extremely generous. In Australia,
+individual contributions to the relief effort were unprecedented. To date, individual
+Australians have given around 315 million Australian dollars, representing around AU$60
+for every Australian (AusAID, 2005). However, this outpouring of charitable giving in
+response to the tsunami needs to be seen in the context of the usual level of giving among
+individual Australians.
+Australians do donate significantly to charitable organisations, however, levels of
+charitable giving in Australia are lower than in many other developed countries such as the
+US and the UK (Industry Commission Report, 1995). For example, in terms of the
+proportion of Gross National Product (GNP) donated to charities, the Australian
+* Correspondence to: Joanne R. Smith, School of Psychology, The University of Queensland, St. Lucia, Brisbane,
+Queensland 4072, Australia. E-mail: j.smith@psy.uq.edu.au
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+Accepted 13 September 2006
+
+364
+
+J. R. Smith and A. McSweeney
+
+population as a whole gives at a far lower rate than (0.5%) than both the UK (0.77%) and
+particularly the US (2.1%; Asia-Pacific Centre for Philanthropy and Social Investment,
+2004). Moreover, while the average Australian donor donates $AU133 to charitable
+organisations, the average donor in the UK gives the equivalent of $AU400 every year (UK
+Giving, 2005). Thus, there is scope for Australian charitable organisations to engage more
+donors and to encourage the public to donate more to charitable organisations.
+
+CHARITABLE GIVING: THE AUSTRALIAN CONTEXT
+Like most modern democracies, Australian society is supported and served by a
+not-for-profit sector that delivers a range of services to its citizens. Charitable organisations
+play an important role in Australian society, contributing both time and funds to numerous
+research efforts and causes that aid the needy. Despite the work carried out by charitable
+organisations, and despite public perceptions to the contrary (Polonsky, Shelley, & Voola,
+2002), most remain unfunded by government. As a result, charitable organisations are
+forced to rely on the generosity of the general community and the scope of their work is
+restricted by the amount of funds received from the public.
+It is estimated that approximately AU$3 billion is donated to charitable organisations by
+individual Australians every year (Philanthropy Australia, 2004). Recent statistics suggest
+that 71% of the population over 15 years donate to charities, with the average Australian
+donating $133 per year (O’Keefe, Clements, & Fleet, 2001). However, there is doubt as to
+whether future generations will donate money in the same fashion. It has been reported that
+65% of the population under the age of 30 feel no responsibility to support charities
+(O’Keefe et al., 2001), a trend that is evident in other developed countries (e.g. Radley &
+Kennedy, 1995; Walker, Pharoah, Jas, Passey, & Romney-Alexander, 2002). Thus, it is
+critical that charitable organisations become aware of the factors that encourage or inhibit
+individuals from giving. The aim of the present research was to investigate the social
+psychological factors underlying decisions to donate money to charitable organisations.
+
+PREVIOUS RESEARCH ON CHARITABLE GIVING
+Research on charitable giving, particularly research conducted by government departments
+or charitable organisations (e.g. Industry Commission Report, 1995), has often focused on
+identifying the demographic factors such as gender, age, marital status, education levels or
+income levels that are associated with differences in charitable giving (Drollinger, 1998;
+Lee, Piliavin, & Call, 1999; Lord, 1981; cf. Burgoyne, Young, & Walker, 2005). For
+example Drollinger (1998) found that income, education and religious affiliations are
+associated with charitable giving. Such research provides valuable insights into charitable
+giving, but it is descriptive at best. Reliance on descriptive aspects of charitable giving fails
+to further our understanding of the factors that inhibit or encourage charitable giving or
+provide information that might aid the development of interventions to increase levels of
+charitable giving. In recent years, however, more researchers have begun to consider a
+broader range of influences on charitable giving, including motivations for giving (e.g.
+Economic and Social Research Council/National Council for Voluntary Organisations,
+2005, (ESRC/NCVO)), decision-making processes in charitable giving (e.g. Burgoyne
+et al., 2005), the role of trust and commitment (Sargeant & Lee, 2004), and the role of
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+365
+
+social relations (e.g. Radley & Kennedy, 1995). However, there is still a need for research
+to be conducted within a theoretical framework that considers a range of individual factors,
+such as attitudes, and social factors, such as norms, that influence charitable giving. The
+present study examined charitable giving from the perspective of one of the most influential
+and well-supported social psychological theories for predicting human behaviour—the
+theory of planned behaviour (TPB—Ajzen, 1985).
+
+THE THEORY OF PLANNED BEHAVIOUR
+The central premise of the theory of planned behaviour is that behavioural decisions are not
+made spontaneously, but are the result of a reasoned process in which behaviour is
+influenced, albeit indirectly, by attitudes, norms and perceptions of control over the
+behaviour. Specifically, the model proposes that attitude (i.e. the evaluation of the target
+behaviour), subjective norms (i.e. perceived social pressure regarding performance of the
+behaviour), and perceived behavioural control (i.e. perceived control over performance of
+the behaviour; PBC) influence behaviour primarily through their impact on behavioural
+intention. Hence, intention is seen as the proximal determinant of behaviour: the more one
+intends to engage in a particular behaviour, the more likely one is to actually engage in it. It
+should be noted that PBC is thought to determine both intention and behaviour: one is more
+likely to perform, or intend to perform, behaviours that are perceived as being relatively
+easy or within one’s control. Research using the theory of planned behaviour has provided
+extensive support for the ability of the model to predict a wide range of behaviour. Recent
+meta-analyses have revealed that, on average, attitude, subjective norms and PBC account
+for 40–50% of the variance in intentions, and that intentions and PBC account for 30% of
+the variance in behaviour (see e.g. Armitage & Conner, 2001).
+One of the strengths of the TPB is that it not only identifies the main determinants of
+behaviour, but also theorises about the beliefs that underpin these determinants, namely
+behavioural, normative and control beliefs. Within the model, it is proposed that attitudes
+stem from the expectation of the outcomes of performing the target behaviour (behavioural
+beliefs), weighted by the evaluation of these outcomes (outcome evaluations). Similarly,
+subjective norms are thought to be a function of how much a person perceives that
+significant others think they should perform the behaviour (normative beliefs), weighted by
+their motivation to comply with these referents (motivation to comply). Finally, PBC is
+underpinned by beliefs about factors that facilitate or inhibit performance of the behaviour
+(control beliefs), weighted by the expected impact of these factors if they were present
+(perceived power). The advantage of a belief-based model is that it is possible to identify
+those beliefs that differentiate people who intend to perform the behaviour from those who
+do not intend to perform the behaviour, providing avenues for intervention and behaviour
+change.
+The combination of strong empirical support and widespread applicability has
+contributed to the popularity of the TPB. The TPB has been applied to the study of health
+behaviours such as healthy eating (e.g. Astrom & Rise, 2001; Conner, Norman, & Bell,
+2002), alcohol and tobacco use (e.g. McMillan & Conner, 2003a), and exercise behaviour
+(e.g. Bozionelos & Bennett, 1999). In addition, the TPB has been applied to the prediction
+of pro-social behaviours such as blood donation (e.g. Giles & Cairns, 1995) and
+volunteering behaviour (e.g. Warburton & Terry, 2000). However, although there are a
+number of studies focusing on altruistic and helping behaviours (Konkoly & Perloff, 1990;
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+366
+
+J. R. Smith and A. McSweeney
+
+Pomazel & Jaccard, 1976), there has been little research on charitable giving using the
+TPB. The present research was designed to test the applicability of the TPB in charitable
+giving, however, a number of additional factors were considered in order to improve the
+explanatory power of the model.
+
+THE INCLUSION OF OTHER VARIABLES IN THE THEORY
+OF PLANNED BEHAVIOUR
+In its original formulation, the TPB was a parsimonious account of the attitude–behaviour
+relationship and decades of research have demonstrated the power of the model to predict
+behavioural performance (see e.g. Armitage & Conner, 2001). Nevertheless, Ajzen (1991)
+has suggested that, if further predictors can be identified, the TPB is open to expansion—
+this has led to the consideration of a number of additional predictors. In the present study,
+an expanded normative component and the role of past behaviour were examined.
+
+A revised normative component
+The role of normative factors within the attitude–behaviour relationship has been the
+subject of much debate. Unlike the consistent evidence in support of the role of attitudes
+and PBC, there has been notably less support for the role of norms within the TPB. In a
+recent meta-analysis, which included 185 independent tests of the TPB, the subjective
+norm construct emerged as the weakest predictor of behavioural intention, with the effect
+size for attitude double to that for the subjective norm component (Armitage & Conner,
+2001).
+The failure to find strong support for a norm-intention link could indeed reflect the lesser
+importance of normative factors as determinants of intention and behaviour. An alternative
+conclusion, however, is that norms are important, but that they need to be conceptualised in
+a different manner to that embodied by the subjective norm construct. A number of
+researchers have proposed revisions to the normative component of the TPB in order to
+clarify the role of norms in the attitude–behaviour relationship (e.g. Cialdini, Reno, &
+Kallgren, 1990; Terry & Hogg, 1996).
+Rather than seeing norms as a unitary construct, Cialdini and his colleagues (Cialdini
+et al., 1990; Reno, Cialdini, & Kallgren, 1993) argued that the common definition of norms
+reflects conceptions of what people should do and what people actually do. Injunctive
+social norms reflect perceptions of what significant others think one ought to do. The
+subjective norm component of the TPB is an injunctive norm because it is concerned with
+perceived social pressures from significant others to perform the behaviour. In contrast,
+descriptive norms reflect the perception of whether other people perform the behaviour.
+The distinction between descriptive and injunctive norms has been adopted in studies
+within the TPB across a range of behaviours including alcohol and tobacco use (McMillan
+& Conner, 2003a), safe sex behaviour (White, Terry, & Hogg, 1994), illicit drug use
+(Conner & McMillan, 1999), and playing the lottery (Sheeran & Orbell, 1999). Descriptive
+norms have been found to contribute to the prediction of intentions and behaviour
+independently of injunctive norms, and even after controlling for the standard TPB model
+(Rivis & Sheeran, 2003), thereby improving the explanatory power of the model.
+Moreover, research has demonstrated that the distinction between injunctive and
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+367
+
+descriptive norms is effective in trying to understand and increase pro-social behaviours
+(e.g. Warburton & Terry, 2000).
+In addition to the distinction between injunctive and descriptive norms, some researchers
+have argued for the inclusion of a third type of norm: a personal injunctive or moral norm,
+which can be defined as an ‘individual’s internalised moral rules’ (Parker, Manstead, &
+Stradling, 1995, p.129). Moreover, because the moral norm construct emphasises personal
+feelings of responsibility, rather than direct perceived social pressure, moral norms are
+distinct from injunctive and descriptive norms and should have independent effects on
+intentions.
+To date, support for the use of personal or moral norms in predicting behaviour has been
+widespread (see Manstead, 2000, for a review). Moral norms have a direct influence on
+intentions. For example Conner and Armitage (1998) found that, across 11 tests of the TPB,
+moral norm predicted, on average, an additional 4% of the variance in intention. Moral
+norms appear particularly useful in the prediction of pro-social behaviours or behaviours
+with a moral component. Indeed, moral norms have been included often in studies of
+pro-social behaviour such as blood donations (Pomazel & Jaccard, 1976; Zuckerman &
+Reis, 1978), organ donations (Schwartz & Tessler, 1972), and volunteering behaviour
+(Warburton & Terry, 2000). In their focus group study of decisions to give to charity,
+Burgoyne et al. (2005) found that a sense of personal obligation was an important reason
+for charitable giving, indicating that charitable giving is a behaviour that includes a moral
+component. Thus, moral norms were included in the current research.
+To date, very few studies have considered the simultaneous effects of all injunctive
+norms, descriptive norms and moral norms. Most tests of a revised normative component
+have focused on either moral norms (Parker et al., 1995) or injunctive norms (Minton &
+Rose, 1997), with very few examining the effects of descriptive norms. Moreover, research
+on descriptive norms has focused typically on the prediction of anti-social behaviours such
+as littering behaviour (Cialdini et al., 1990), illicit drug use (McMillan & Conner, 2003b),
+and alcohol and tobacco use (McMillan & Conner, 2003a), with little research on the
+prediction of pro-social or altruistic behaviours (cf. Warburton & Terry, 2000). It is
+important to test the effects of all three norms simultaneously for a number of reasons.
+First, it will allow for a full test of the expanded normative component, contributing to
+theoretical development of the role of norms in attitude–behaviour relations. In addition, an
+examination of the relative contribution of each type of norm will enable the development
+of more effective strategies for behaviour change. All three types of norms were tested in
+the present research.
+
+Past behaviour
+The role of past behaviour in the TPB has attracted considerable attention. It has been
+argued that, with repeated performance, many behaviours are determined by one’s past
+behaviour rather than by cognitions such as those described in the TPB model (Sutton,
+1994). Several studies have supported the argument that past behaviour is a predictor of
+unique variance in intentions and behaviour (e.g. Conner & Armitage, 1998; Conner,
+Warren, Close, & Sparks, 1999; Norman & Smith, 1995). Numerous researchers have
+found that past behaviour is the best predictor of future behaviour (cf. Conner et al., 2002),
+and some researchers have argued that past behaviour is a stronger predictor of behaviour
+than attitudes or PBC (Bozionelos & Bennett, 1999). In relation to pro-social behaviours
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+368
+
+J. R. Smith and A. McSweeney
+
+such as donating blood, time or money, research has found that past behaviour is one of the
+most important predictors (Lee et al., 1999). Such evidence suggests that the inclusion of
+past behaviour in the current study may account for a significant proportion of the variance
+in charitable giving, increasing the predictive ability of the TPB.
+
+THE PRESENT RESEARCH
+The present study tests the ability of a revised theory of planned behaviour model to
+account for intentions to make monetary donations to charitable organisations and actual
+donating behaviour. Although the TPB has been used to predict pro-social behaviour, there
+have been few tests of the model in relation to charitable giving. In addition to attitudes,
+injunctive norms, perceived behavioural control, the roles of descriptive norms, moral
+norms and past behaviour were investigated. An additional aim was to identify the salient
+beliefs associated with donating behaviour and to explore how these beliefs are associated
+with intentions to donate money to charitable organisations.
+Based on the theory of planned behaviour, it is predicted that attitudes, injunctive norms,
+and PBC will predict intentions to donate money to charitable organisations (H1). That is, it
+is expected that individuals with positive attitudes towards the behaviour, who believe that
+important others would approve of the behaviour, and who believe they have control over
+carrying out the behaviour will be more likely to intend to donate to charitable
+organisations. It is further predicted that intentions to donate and PBC will predict actual
+donating behaviour (H2).
+Next, it was predicted that a revised TPB model, which includes an expanded normative
+component (i.e. descriptive and moral norms) and past behaviour will predict intentions
+better than the standard TPB model (H3; see Figure 1). Thus, the inclusion of these
+Perceived
+Behavioural
+Control
+
+Attitude
+
+Injunctive
+Norm
+
+Behavioural
+Intention
+
+Behaviour
+
+Descriptive
+Norm
+
+Moral
+Norm
+
+Past
+Behaviour
+
+Figure 1.
+
+The revised theory of planned behaviour model
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+369
+
+additional variables should increase the amount of variance explained. With respect to the
+revised normative component, it was expected that the inclusion of descriptive and
+moral norms would contribute significantly to the prediction of intentions, even after
+controlling for the standard TPB model (H4). Next, it was expected that past donating
+behaviour would be a significant predictor of behavioural intention (H5). Past behaviour
+was also expected to predict donating behaviour (H6). It was also expected that, in
+accordance with the theory of planned behaviour, that belief-based measures (i.e.
+behavioural, normative and control beliefs) would be associated with the direct measures
+(i.e. attitude, injunctive norms and PBC—H7). Finally, it was expected that those who
+intended to donate and those who did not intend to donate would differ in their behavioural,
+normative, and control beliefs (H8).
+
+METHOD
+Respondents and design
+Respondents were 227 members of the general community in Queensland, Australia (60
+male, 167 females). The age range of respondents was 17–82 years (M ¼ 44.19 years) and
+income level ranged from less than $15 000 to over $70 000. Sixty per cent of respondents
+were in a relationship and 58% of the sample had children. Education levels ranged from
+primary school education only to postgraduate qualifications: 54% of respondents had
+received a tertiary education. Eighty-two per cent of respondents recorded a religious
+affiliation (99% Christian).
+The present research was longitudinal in design—respondents completed two
+questionnaires on charitable giving. At Time 1, respondents completed a survey assessing
+the components of the revised TPB model (attitude, injunctive norm, descriptive norm,
+moral norm, PBC, past behaviour and intention). A follow-up survey (4 weeks later)
+assessed self-reported donating behaviour.
+
+Recruitment procedure
+Respondents were recruited through the researchers’ social networks (n ¼ 85), a local
+medical centre (n ¼ 100), and through the internet (n ¼ 43), and invited to participate in a
+study concerning beliefs about charities and charitable giving. Respondents completed
+either a hard copy (n ¼ 185) or an online version (n ¼ 43) of the first questionnaire and were
+invited to complete a second questionnaire 4 weeks later. Sixty-seven respondents provided
+contact details and were sent either a hard copy or online version of the second
+questionnaire 4 weeks later. Data was collected between June and September 2005.
+
+Measures
+All questions were constructed in accordance with the recommendations of Ajzen (2002).
+Unless stated otherwise, all items used a standard definition of donating behaviour (i.e.
+donating money to charities or community service organisations in the next 4 weeks) and
+were assessed on 7-point scales. All constructs were measured with multi-item scales (see
+Appendix). To reduce the effects of response bias, each of the measures included a number
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+370
+
+J. R. Smith and A. McSweeney
+
+of negatively worded items, which were reverse scored prior to scale construction. Items
+were ordered randomly throughout the questionnaire.
+Demographic information. Respondents were asked to provide information regarding
+their age, gender, marital status, number of children, income, educational level and
+religious affiliation.
+Attitude. The direct measure of attitude was assessed with eight semantic differential
+scales. Respondents responded to the following question: ‘My making a monetary donation
+to a charity or community service organisation in the next 4 weeks would be’:
+unpleasant–pleasant, useful–useless, satisfying–unsatisfying, favourable–unfavourable,
+positive–negative, considerate–inconsiderate, pointless–worthwhile, bad–good. Items
+were scored such that higher scores indicated a more positive attitude to charitable
+giving (a ¼ 0.93).
+The indirect (belief-based) measure of attitude was computed as the sum of the products
+of scores on the behavioural beliefs and outcome evaluations. Behavioural beliefs were
+assessed with six items selected on the basis of an elicitation study (i.e. feeling better about
+oneself, helping others, receiving tax deductions, having less money, donations not
+reaching the needy, being harassed for further donations).1 Respondents rated the
+likelihood that each of the six costs and benefits would be an outcome of charitable giving
+(1 extremely unlikely, 7 extremely likely). Outcome evaluations were assessed by
+respondents rating the pleasantness of each of the six consequences (1 extremely
+unpleasant, 7 extremely pleasant).
+Perceived behavioural control. Perceptions of control over donating behaviour were
+assessed with five items (e.g. ‘If I wanted to, it would be easy for me to donate money to
+charities and community service organisations in the next 4 weeks’; 1 strongly disagree, 7
+strongly agree). Three items were reverse scored. Higher scores indicate greater perceived
+control over donating behaviour (a ¼ 0.69).
+The indirect measure of PBC was computed as the sum of the products of control beliefs
+and perceived power. Control beliefs were assessed with five items selected from the
+elicitation study (i.e. concern that one’s donation would not reach the needy, the type of
+charity involved, the approach style of the charity, whether the charity was accepting of
+small amounts, and not believing in or agreeing with the cause). Respondents rated the
+extent to which each of the barriers would prevent them from donating money to charitable
+organisations (1 not at all, 7 very much). Perceived power was assessed by asking
+respondents to rate how often each of the control factors occurred (1 never, 7 frequently).
+Injunctive norm. Respondents completed six items about the extent to which
+significant others think they should donate money to charitable organisations (e.g. ‘Would
+the people who are important to you approve or disapprove of donating money to charitable
+organisations?’; 1 strongly approve, 7 strongly disapprove). Three items were reverse
+1
+Prior to the main study, an elicitation study was conducted on a small sample of respondents in order to develop
+the belief-based measures. The pilot survey was administered to a sample of 15 female and 12 male (n ¼ 27)
+members of the general community (Mage ¼ 33.22 years). Respondents were asked to respond to a series of
+open-ended questions: they were asked to list the advantages and disadvantages of donating money to charitable
+organisations; they were asked to list the individuals or groups who would approve or disapprove of them donating
+money to charitable organisations; and they were asked to list the factors that might prevent or discourage them
+from donating money to charitable organisations. The modal responses were used to create the items for the
+belief-based measurement of the TPB constructs.
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+371
+
+scored. Responses were averaged to create an index of injunctive norm (a ¼ 0.78)—high
+scores indicated greater perceived support for donating behaviour.
+An indirect measure of injunctive norm was also computed by summing the product of
+scores on the normative beliefs and motivation to comply. From the elicitation study, four
+referents were selected (i.e. family, friends, colleagues and church/religious groups). To
+assess normative beliefs, respondents rated how likely it was that each of the referents
+would think that they should donate money to charitable organisations (1 extremely
+unlikely, 7 extremely likely). To assess motivation to comply, respondents reported how
+willing they are to do what each of the referents wanted them to do (1 not at all, 7 very
+much).
+Descriptive norm. Descriptive norms were assessed with four items. Two items were
+negatively worded. Respondents indicated the extent to which significant others actually
+donated to charitable organisations (e.g. ‘How many of the people who are important to you
+would donate to charitable organisations?’; 1 none, 7 all). Responses were averaged to
+create a descriptive norm index (a ¼ 0.76).
+Moral norm. Four items were used to assess respondents’ moral norm (e.g. ‘It goes
+against my beliefs to donate money to charities or community service organisations’; 1
+strongly agree, 7 strongly disagree). One item was reverse scored. Responses were
+combined to form a measure of moral norm (a ¼ 0.62).
+Past behaviour. Past donating behaviour was assessed with five items. Respondents
+indicated how often they had engaged in the target behaviour in the past 4 weeks (e.g. ‘How
+often during the past 4 weeks have you donated money to charities or community service
+organisations?’) and whether they engaged regularly in the target behaviour (e.g. ‘I usually
+donate money to charities and community service organisations’; 1 not at all true, 7 very
+true). Three items were reverse scored. Responses were averaged to form an index of past
+donating behaviour (a ¼ 0.85).
+Intention. Strength of respondents’ intentions to donate money to charitable
+organisations was assessed with five items (e.g. ‘I intend to donate money to charities
+or community service organisations in the next 4 weeks’; 1 no definitely not, 7 yes
+definitely). One item was reverse scored. Responses were combined to form the
+behavioural intention index (a ¼ 0.85).
+Donating behaviour. Four weeks later, a sub-sample of respondents (N ¼ 67, 26 males
+and 41 females) completed a follow-up questionnaire. The age range of respondents was 17
+to 77 years (M ¼ 41.22 years) and income level ranged from less than $15 000 to over
+$70 000. Fifty-eight per cent of respondents were in a relationship and 56% of the sample
+had children. Education levels ranged from primary school education only to postgraduate
+qualifications: 64% of respondents had received a tertiary education. Seventy-eight per
+cent of Time 2 respondents recorded a religious affiliation (67% Christian).
+Two items, one scale item and one open-ended question, was used to assess donating
+behaviour in terms of the frequency of donating behaviour and the actual number of
+donations made. Respondents indicated how often they had made monetary donations to
+charitable organisations during the past 4 weeks (1 not at all, 7 frequently), and which
+charitable organisations they had donated to. The number of charitable donations was
+recorded. Means, standard deviations, and correlations among the variables are presented
+in Table 1. Low to moderate intercorrelations were found among the predictor variables
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+5.60 (5.58)
+5.54 (5.49)
+5.46 (5.52)
+4.76 (4.93)
+3.78 (3.87)
+4.90 (4.88)
+4.54 (4.54)
+2.72
+2.22
+
+1.28 (1.16)
+1.14 (1.08)
+0.95 (0.94)
+1.24 (1.09)
+1.08 (1.02)
+1.52 (1.49)
+1.61 (1.52)
+1.79
+3.10
+
+SD
+(0.93)
+0.23y
+0.25y
+0.20
+0.25y
+0.23y
+0.36y
+0.40y
+0.28
+
+1
+(0.69)
+0.28y
+0.17
+0.16
+0.50y
+0.62y
+0.24
+0.29
+
+2
+
+(0.78)
+0.42y
+0.21
+0.17
+0.29y
+0.11
+0.21
+
+3
+
+
+
+p < 0.10.
+p < 0.05.
+
+p < 0.01.
+y
+p < 0.001 (two-tailed test).
+Reliabilities are given in parentheses along the main diagonal.
+z
+Cronbach’s alpha not computed—single item measure.
+Means and standard deviations for the Time 2 sample are provided in parentheses next to the Time 1 statistics.
+
+
+
+1. Attitude
+2. Perceived behavioural control
+3. Injunctive norm
+4. Descriptive norm
+5. Moral norm
+6. Past behaviour
+7. Intention
+8. Frequency of donation (n ¼ 67)
+9. Number of times donated (n ¼ 67)
+
+M
+
+(0.76)
+0.30y
+0.32y
+0.30y
+0.11
+0.17
+
+4
+
+(0.62)
+0.34y
+0.44y
+0.11
+0.13
+
+5
+
+(0.85)
+0.76y
+0.30
+0.32
+
+6
+
+(0.85)
+0.40y
+0.36y
+
+7
+
+0.63y
+
+z
+
+8
+
+z
+
+9
+
+Table 1. Descriptive data for the revised TPB constructs included in the regression analyses (means, standard deviations, Cronbach’s alpha coefficients and
+bivariate correlations)
+
+372
+J. R. Smith and A. McSweeney
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+373
+
+(rs ¼ 0.16 to 0.50), but these did not exceed the mean scale reliabilities, suggesting that the
+scales are empirically distinct (Campbell & Fiske, 1959).
+
+RESULTS
+Links among belief-based measures and direct measures
+The correlations between the belief-based measures and the corresponding direct measures
+were calculated (see Ajzen & Fishbein, 1980). Belief-based measures were calculated by
+summing the product of behavioural beliefs and outcome evaluations for attitude,
+normative beliefs and motivation to comply for injunctive norms, and control beliefs and
+power for PBC. In line with the TPB, examination of these correlations revealed that the
+direct and indirect measures of attitude were correlated (r ¼ 0.32, p < 0.001). Similarly, the
+correlation between the direct and indirect measures of injunctive norm was also significant
+(r ¼ 0.24, p < 0.001). However, the correlation between PBC and the control beliefs was
+not significant (r ¼ 0.08, ns).2
+
+Predicting Intention with the revised theory of planned behaviour model
+Hierarchical multiple regression was used to regress charitable giving intentions onto the
+revised TPB variables. Demographics were entered at Step 1, the constructs of the standard
+TPB (i.e. attitude, injunctive norm, PBC) were entered at Step 2, descriptive and moral
+norms were entered at Step 3, and past behaviour was entered at Step 4. Results of this
+analysis are presented in Table 2 and Figure 2.
+Inclusion of the demographic variables at Step 1 accounted for a significant amount of
+the variance in intentions, R2change ¼ 0.16, F(7, 178) ¼ 4.71, p < 0.001. Inspection of the
+beta weights revealed significant effects for age, b ¼ 0.21, p ¼ 0.023, and income, b ¼ 0.19,
+p ¼ 0.015—as age and income increased, donating intentions also increased.3
+At Step 2, inclusion of the standard TPB variables was associated with a significant
+increase in the variance explained, R2change ¼ 0.30, F(3, 175) ¼ 32.56, p < 0.001. As
+expected, attitude (b ¼ 0.16, p ¼ 0.01), PBC (b ¼ 0.47, p < 0.001), and injunctive norm
+(b ¼ 0.14, p ¼ 0.021) all predicted intentions. As attitudes to donation became more
+positive, as perceptions of control over the behaviour increased, and as injunctive pressure
+to engage in the behaviour increased, intentions to donate money also increased.
+The inclusion of descriptive and moral norms at Step 3 was associated with a significant
+increase in the variance explained, R2change ¼ 0.06, F(2, 173) ¼ 9.92, p < 0.001. Inspection
+2
+
+In order to examine further the relationship between the indirect and direct measures of perceived behavioural
+control, a multiple regression was conducted in which perceived behavioural control was regressed on the
+belief-based components. This analysis revealed that the belief-based measures accounted for a significant
+proportion of the variance in perceived behavioural control, R ¼ 0.27, F(5, 196) ¼ 2.34, p ¼ 0.043. Inspection of
+the beta weights revealed a significant relationship between the belief regarding whether charities are accepting of
+small amounts and PBC, b ¼ 0.24, p < 0.01, indicating that the more respondents believed that charities would
+not be accepting of small donations, the less control they perceived over the behaviour. Thus, there is some
+evidence that the indirect and direct measures of PBC used in the study were related.
+3
+The origin of the respondents (i.e. community, medical centre, or the internet) was included as an additional
+predictor but did not predict intentions to engage in charitable giving.
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+374
+
+J. R. Smith and A. McSweeney
+
+Table 2. Hierarchical multiple regression predicting behavioural intention from a revised theory of
+planned behaviour model
+Step
+1
+
+2
+3
+4
+
+Predictor
+
+R2adjusted
+
+R2change
+
+Fchange
+
+
+Gender
+Age
+Marital status
+Children (no/yes)
+Income level
+Education level
+Religious affiliation (no/yes)
+Attitude
+PBC
+Injunctive norm
+Descriptive norm
+Moral norm
+
+0.12
+
+0.16
+
+4.71
+
+0.43
+
+0.30
+
+32.56
+
+0.48
+
+0.06
+
+9.92
+
+Past behaviour
+
+0.67
+
+0.18
+
+98.77
+
+b
+0.04
+0.03
+0.02
+0.01
+0.10
+0.08
+0.07
+0.11
+0.24
+0.13
+0.04
+0.15
+0.54
+
+
+
+p < 0.05.
+p < 0.01.
+p < 0.001.
+Note. The beta weights reported are the values at the final step.
+
+
+
+
+of the beta weights revealed a significant effect for moral norm only, b ¼ 0.24, p < 0.001,
+such that as respondents’ perceptions of their personal obligation to donate money to
+charitable organisations increased, intentions to donate money also increased. The effect
+for descriptive norm was not significant, b ¼ 0.07, ns.
+Perceived
+Behavioural
+Control
+.24***
+
+-.04 (.08)
+
+Attitude
+.11*
+Injunctive
+Norm
+
+.13*
+Behavioural
+Intention
+
+.43*** (.22**)
+
+Behaviour
+
+-.04
+Descriptive
+Norm
+
+Moral
+Norm
+
+.15***
+.54***
+
+-.01 (.12)
+
+Past
+Behaviour
+
+Figure 2. Results of the revised theory of planned behaviour model. p < 0.05, p < 0.01,
+
+p < 0.001. Note: beta values are taken from the hierarchical regression. In the prediction of
+behaviour, values outside parentheses are for self-reported frequency of donation, values inside
+parentheses are for self-reported number of donations
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+375
+
+Past behaviour was entered at the final step and produced a significant increase in the
+variance explained, R2change ¼ 0.18, F(1, 172) ¼ 98.77, p < 0.001. The more respondents
+had donated in the past, the stronger their intentions to donate in the future (b ¼ 0.54,
+p < 0.001). With all variables in the equation, the revised TPB model accounted for 67% of
+the variance in intentions, F(13, 172) ¼ 29.64, p < 0.001.
+
+Predicting Behaviour with the revised theory of planned behaviour model
+Sixty-seven respondents (26 males, 41 females) completed the Time 2 questionnaire 4
+weeks later (36% of the original sample). Responders on both occasions did not differ from
+responders at Time 1 only on any of the demographic variables or on any of the TPB
+variables (all Fs < 1).4
+Hierarchical multiple regression was used to regress behaviour (self-reported frequency
+of donating behaviour and number of donations) on intentions, PBC, and past behaviour.
+Intention and PBC were entered at Step 1 and past behaviour was entered at Step 2. The
+results of this analysis are presented in Table 3 and Figure 2.
+At Step 1, the inclusion of intention and PBC accounted for a significant amount of the
+variance in behaviour, both in terms of self-reported frequency of donating behaviour,
+R2change ¼ 0.16, F(2, 63) ¼ 6.12, p ¼ 0.004, and number of donations, R2change ¼ 0.14, F(2,
+63) ¼ 4.95, p ¼ 0.01. Inspection of the beta weights revealed a significant effect for
+intention only for both self-reported frequency, b ¼ 0.43, p ¼ 0.006, and number of
+donations, b ¼ 0.31, p ¼ 0.05, indicating that as intentions to donate increased,
+self-reported frequency of donation and the number of donations made also increased.
+Inclusion of past behaviour at Step 2 did not increase the amount of variance explained in
+either index of donating behaviour (Fs < 1). That is, past behaviour did not predict
+
+Table 3. Hierarchical multiple regression analysis predicting behaviour
+
+Step
+1
+2
+
+Predictor
+Intention
+PBC
+Past behaviour
+
+Self-reported frequency of donation
+in the past 4 weeks
+
+Number of times donated in the
+past 4 weeks
+
+R2
+
+R2
+
+R2change
+
+Fchange
+
+0.16
+
+0.16
+
+6.12
+
+
+
+0.16
+
+0.00
+
+0.00
+
+b
+
+
+0.44
+0.04
+0.01
+
+R2change
+
+Fchange
+
+0.14
+
+0.14
+
+4.95
+
+
+
+0.14
+
+0.01
+
+0.46
+
+b
+0.22
+0.07
+0.12
+
+
+
+p < 0.05.
+p < 0.01.
+
+p < 0.001.
+Note. The beta weights reported are the values at the final step.
+
+
+4
+
+Only a small sub-sample of respondents completed the Time 2 questionnaire; thus, self-selection at Time 2 may
+be related to the behaviour of interest. It is possible that those who are more willing to engage in charitable giving
+are also more likely to complete a study on charitable giving. To explore this, we conducted an additional analysis
+in which we used our demographic variables and our revised TPB variable to predict participation at Time 2. The
+only significant predictor in this analysis was gender—women were more likely to participate in Time 2 than men
+(b ¼ 0.17, t ¼ 2.23, p ¼ 0.027). Thus, participation in Time 2 is not predicted by the TPB variables. In addition, an
+analysis in which this variable was used as an additional predictor of intention found that this variable was not
+related to intentions to engage in charitable giving.
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+376
+
+J. R. Smith and A. McSweeney
+
+behaviour directly at Time 2. The full model accounted for 16% of the variance in the
+frequency of donations, F(3, 62) ¼ 4.02, p ¼ 0.011, and 14% of the variance in the number
+of donations, F(3, 62) ¼ 3.42, p ¼ 0.023.
+
+Belief-based measures
+To investigate the beliefs that differentiate low and high intenders, a median split on
+intention (Md ¼ 4.60) was performed to create the low intender (n ¼ 97) and high intender
+(n ¼ 105) groups. Multivariate analysis of variance was used to test for differences between
+the two groups on the belief-based measures. To control for Type 1 error rate, univariate
+results were tested using a significance level of p < 0.01.
+Behavioural beliefs and outcome evaluations. Using Wilks criteria there was a
+significant multivariate effect of intention group on the costs and benefits of donating
+money to charitable organisations, F(6, 192) ¼ 6.14, p ¼ 0.001, h2 ¼ 0.16. As shown in
+Table 4, high intenders were significantly more likely than low intenders to consider that
+their donation would help the needy, but significantly less likely to consider that having less
+money and that their donation would not reach the needy were probable costs of charitable
+giving. On outcome evaluations, there was a significant multivariate effect, F(6,
+192) ¼ 2.71, p ¼ 0.015, h2 ¼ 0.08. High intenders viewed helping others more positively
+than low intenders (see Table 4).
+Normative beliefs and motivation to comply. There was a multivariate effect of
+intention group on evaluations of the likelihood that salient referents would endorse
+donating money to charitable organisations, F(4, 195) ¼ 3.89, p ¼ 0.005, h2 ¼ 0.07. High
+intenders were more likely to report pressure to perform the target behaviour from family
+and friends than low intenders (see Table 5). A significant multivariate effect was found on
+motivation to comply with the salient referents, F(4, 199) ¼ 5.83, p < 0.001, h2 ¼ 0.10. As
+shown in Table 5, high intenders reported greater motivation to comply with church or
+religious groups than low intenders.
+Table 4.
+
+Mean behavioural beliefs and outcome evaluations as a function of intention group
+Behavioural beliefs
+Behavioural beliefs
+
+Costs and benefits
+Feeling better about oneself
+Having less money
+Donations not reaching
+the needy
+Being harassed for further
+donations
+Helping others
+Receiving tax deductions
+
+Outcome evaluations
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+4.66
+4.57
+3.97
+
+5.11
+3.84
+3.17
+
+4.56
+3.86
+2.58
+
+4.88
+4.15
+2.64
+
+5.10
+
+4.56
+
+2.52
+
+2.77
+
+5.22
+3.86
+
+5.97
+4.14
+
+5.37
+4.35
+
+5.88
+4.41
+
+
+
+p < 0.01.
+p < 0.001.
+
+
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+377
+
+Table 5. Mean normative beliefs and motivation to comply as a function of intention group
+Normative beliefs
+Normative beliefs
+
+Referents
+Family
+Friends
+Colleagues
+Church/religious groups
+
+
+Motivation to comply
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+4.47
+4.26
+4.30
+5.34
+
+4.95
+4.76
+4.49
+5.30
+
+4.80
+4.63
+3.89
+2.54
+
+5.22
+4.86
+4.09
+3.66
+
+p < 0.01.
+p < 0.001.
+
+
+
+Control beliefs and perceived power. No significant differences emerged between low
+and high intenders in relation to the frequency of barriers to charitable giving, F < 1.
+However, a significant multivariate effect was found on the perceived power of the barriers
+to charitable giving, F(5, 197) ¼ 2.88, p ¼ 0.016, h2 ¼ 0.07. High intenders were
+significantly less likely to allow the way in which they were approached for donations
+and the fact that money might not reach the needy to prevent them from making monetary
+donations to charitable organisations (see Table 6).
+
+DISCUSSION
+The aim of the present research was to investigate the social psychological factors
+underlying decisions to donate money to charitable organisations by testing the
+effectiveness of a revised theory of planned behaviour model in this context. As expected,
+
+Table 6. Mean control beliefs and perceived power as a function of intention group
+Control beliefs
+Control beliefs
+
+Barriers
+Donations not reaching
+the needy
+Type of charity
+Approach style of charity
+Charities being accepting
+of small amounts
+Not believing in the cause
+
+
+Perceived power
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+Low intenders
+(n ¼ 97)
+
+High intenders
+(n ¼ 105)
+
+5.71
+
+5.60
+
+4.90
+
+4.26
+
+5.92
+5.92
+5.25
+
+5.92
+5.55
+4.73
+
+5.26
+5.66
+4.71
+
+4.94
+4.94
+4.25
+
+5.87
+
+6.06
+
+5.50
+
+5.21
+
+p < 0.01.
+p < 0.001.
+
+
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+378
+
+J. R. Smith and A. McSweeney
+
+attitudes, perceived behavioural control, and injunctive norms all significantly predicted
+intentions to donate, providing support for the original TPB model (H1). That is,
+individuals with positive attitudes toward the behaviour, who believed that important
+others would approve of the behaviour, and who believed they had control over carrying
+out the behaviour were more likely to intend to engage in charitable giving. In partial
+support of H2, intention, but not perceived behavioural control, was a significant predictor
+of self-reported donating behaviour. Overall, support was found for the revised TPB
+model—the inclusion of additional normative constructs (i.e. descriptive and moral
+norms) and past behaviour significantly increased the predictive ability of the model (H3).
+Partial support was found for the inclusion of a revised normative component (H4). The
+revised normative component explained additional variance in behavioural intention, even
+after controlling for the effects of injunctive norms. However, it was moral norms, rather
+than descriptive norms, that were the significant predictor of donating intentions. That is,
+individuals who felt a strong moral obligation to donate money to charitable organisations
+reported stronger donating intentions. In addition, past donating behaviour was found to
+significantly predict intentions to donate (H5). However, past behaviour was not a
+significant predictor of donating behaviour (H6). In line with the TPB, the belief-based
+measures of the model were correlated with the direct measures of the variables (H7).
+Moreover, a number of these behavioural, normative, and control beliefs differentiated
+between those who did intend and those who did not intend to donate to charitable
+organisations (H8).
+
+The theory of planned behaviour
+The current findings are in line with extant research, which has also found support for the
+utility of the TPB in predicting pro-social behaviours, such as blood donations and
+volunteering behaviour (Giles & Cairns, 1995; Warburton & Terry, 2000). However, the
+contribution of the present research is to illustrate the predictive ability of the model in
+relation to charitable giving, an area that, to date, has remained relatively unstudied.
+Attitudes, PBC, and injunctive norms all predicted a significant amount of the variance in
+donating intentions. A key finding of interest was the support for the role of injunctive
+norms. Despite widespread doubt as to the utility of including norms in the TPB (see Ajzen,
+1991), injunctive norms were a significant predictor of donating intentions. Indeed, the
+contribution of injunctive norm in the prediction of intention was equivalent to that for
+attitude.
+Intentions, in turn, predicted donating behaviour. However, it could be argued that, in
+light of the average size of the intention-behaviour link found in recent reviews (i.e.
+20–40%; Armitage & Conner, 2001), the amount of variance in donating behaviour
+explained by intentions in this study (14–16%) is quite small. This finding might reflect a
+ceiling effect in the data—most of the Time 2 respondents reported engagement in
+charitable giving in the past month. Alternatively, the small amount of variance in
+behaviour accounted for by intentions could be reflecting the complex nature of donating.
+That is, recent changes in the way one donates to charitable organisations, such as the use
+of direct debit, have altered the nature of donating behaviour (see e.g., Burgoyne et al.,
+2005). As a result, while the TPB might provide a very good account of initial decisions to
+donate money to charitable organisations, continuing engagement in charitable giving may
+not always be due solely to the deliberative processes outlined in the TPB.
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+379
+
+The revised theory of planned behaviour
+The revised normative component. One aim of this study was to test the efficacy of a
+revised normative component in which the influence of descriptive and moral norms were
+added to the model. As predicted, the inclusion of additional normative factors improved
+the prediction of behavioural intention. However, this improvement in prediction was due
+to the influence of moral norms only; descriptive norms did not emerge as an independent
+predictor of intentions. Thus, in line with recent theorising (Manstead, 2000) and past
+research (e.g. Warburton & Terry, 2000), the present findings support the inclusion of moral
+norm in the TPB, particularly in the prediction of pro-social behaviours. Moral norm was
+an independent predictor of donating intentions and, indeed, accounted for more variance
+in intentions than either injunctive or descriptive norms. It is possible that the strong effect
+for moral norm may reflect the fact that a high proportion of the sample reported a religious
+affiliation and such respondents may feel a particularly strong moral obligation to engage
+in charitable giving. However, the amount of variance in intention accounted for by moral
+norm in the present study (4%) corresponds exactly with the results of a recent
+meta-analysis (Conner & Armitage, 1998), indicating that the strong effect of moral norm
+observed here is not simply an artefact of the type of respondents sampled. Nevertheless,
+future research should attempt to obtain a more balanced sample of religious and
+non-religious people to demonstrate more clearly the impact of moral norms on charitable
+giving.
+There are a number of reasons for the lack of support for the impact of descriptive norms
+on donating intentions. First, it could simply be that descriptive norms play no part in
+decisions to engage in charitable giving. Most of the research testing the role of descriptive
+norms has focused typically on the prediction of anti-social behaviours (see Cialdini et al.,
+1990; McMillan & Conner, 2003a,b), with little research on the prediction of pro-social
+behaviours. Second, it is important to consider that charitable giving is often a private act
+and individuals may not have an accurate sense of the extent to which those people around
+them engage in the behaviour. As a result, descriptive norms may not be weighted heavily
+in intentions to engage in charitable giving. Indeed, past research that has focused on
+volunteering behaviour, a pro-social behaviour that is performed publicly, has found that
+descriptive norms are a significant predictor of intentions (e.g. Lee et al., 1999; Warburton
+& Terry, 2000), lending some support to this account. Clearly, further research is needed in
+order to elucidate fully the contribution of descriptive norms to the prediction of pro-social
+behaviours.
+Past behaviour. Another aspect of the revised model tested here was the inclusion of
+past behaviour. As expected, and in line with past research (e.g. Conner & Armitage, 1998),
+past donating behaviour accounted for a significant proportion of the variation in donating
+intentions. Indeed, past behaviour was the most important predictor of charitable giving
+intentions, supporting the inclusion of past behaviour in studies predicting pro-social or
+altruistic behaviours (see Lee et al., 1999). However, contrary to expectations, past
+behaviour did not predict donating behaviour directly. It is possible that, because of the
+small sample size at Time 2, we had limited ability to test for effects of past behaviour on
+actual donating behaviour. It is also possible that the way in which we measured actual
+donating behaviour may have masked the effects of past behaviour. That is, in line with past
+TPB research, we assessed self-reported frequency of donating behaviour and, in an
+attempt to counter possible social desirability effects, asked respondents to name the
+charities to which they had made donations. However, it might be useful for future research
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+380
+
+J. R. Smith and A. McSweeney
+
+to include a measure that asks respondents to indicate how much money they have donated
+to charitable organisations to enable assessment of indices such as the proportion of income
+donated to charitable organisations (see e.g. Burgoyne et al., 2005) as well as the number of
+monetary donations made. By doing so, a more complex and nuanced picture of charitable
+giving would be obtained.
+
+Implications
+The present research highlights the importance of considering the multi-dimensional
+nature of norms in the attitude–behaviour relationship. Although injunctive norms did
+predict intentions, moral norms were a stronger predictor of intentions to donate money to
+charitable organisations. If only the standard TPB had been considered, we would have an
+impoverished picture of the role of normative influences in charitable giving. Another key
+finding was the role that past behaviour or habit played in the prediction of donating
+intentions, a finding that is consistent with evidence regarding the role of habitual factors in
+the TPB (e.g. Bentler & Speckart, 1979; Conner et al., 1999; Norman & Smith, 1995). The
+present results suggest that it may be important for past behaviour to be included in the
+theoretical model more often, particularly in relation to pro-social behaviours.
+This study has a number of important applied implications for charitable organisations.
+In particular, the identification of the psychological factors that predict charitable giving
+highlights ways in which charitable organisations can increase donation levels. First, the
+finding that injunctive and moral norms are more predictive of intentions than descriptive
+norms provides avenues for interventions. Research by Cialdini and colleagues (1990) has
+demonstrated that the predictive ability of a norm can be increased by increasing its
+salience. Thus, increasing the salience of injunctive and moral norms might lead to higher
+levels of charitable giving. Moreover, given evidence that injunctive norms are particularly
+powerful determinants of behaviour because their influence carries across contexts (Reno
+et al., 1993), charitable organisations might well be advised to focus on the support and
+approval associated with charitable giving, highlighting that charitable giving is the ‘right’
+thing to do.
+Examination of the belief structure underlying the effects of attitudes, injunctive norms,
+and PBC on intentions provides specific suggestions for increasing levels of charitable
+giving. With respect to attitudes and perceptions of control, charitable organisations should
+focus on highlighting the benefits of charitable giving, such as helping people in need, and
+the positive outcomes associated with charitable giving (see also Hsu, Liang, & Tien,
+2005). Furthermore, charitable organisations would be advised to address the concerns that
+people might have in relation to charitable giving, such as whether the money donated
+reaches those in need, and potentially reconsidering the way in which people are
+approached for donations so as to avoid the perception that such organisations harass
+people for donations (see also Burgoyne et al., 2005; Polonsky et al., 2002). In relation to
+norms, the results of the present research suggest that campaigns to increase charitable
+giving will benefit from heightening the perception that there is normative support, across a
+number of referent groups, for charitable giving (see e.g. Radley & Kennedy, 1995).
+The present research had a number of strengths. First, the study used a diverse,
+community-based sample, thereby allowing for greater generalisability than research
+conducted on student samples (e.g. Konkoly & Perloff, 1990). Second, a longitudinal
+design was employed, enabling the assessment of both donating intentions and donating
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+381
+
+behaviour. Finally, a number of attempts were made to limit response consistency effects:
+multi-item measures were used, negatively worded items were employed, and the items
+assessing each construct were not presented together but distributed randomly throughout
+the survey.
+The study was not, however, without its limitations. First, the reliance on self-report
+measures may be problematic in relation to pro-social behaviours due to issues of
+self-presentation and social desirability. That is, respondents may have been motivated to
+present themselves in a more favourable light and may have reported higher levels of
+donating intentions and donating behaviour. However, we attempted to overcome this issue
+in the present research through the use of multiple items to assess each construct and
+through assurances of anonymity and confidentiality. Furthermore, an attempt was made to
+obtain a more objective measure of donating behaviour by asking respondents to name the
+charitable organisations to which they had made donations. Second, the time period
+between Time 1 and Time 2 was only 4 weeks. Given the sporadic nature of charitable
+giving, this short interval may have affected the predictive power of the model. Future
+research should employ more extensive sampling of charitable giving, both in terms of the
+indicators of giving (see e.g. Burgoyne et al., 2005) and the time period employed. Finally,
+despite the large sample size collected at Time 1, the sample size at Time 2 was less than
+ideal. Examination of the data revealed no significant differences between the two samples
+and participation in Time 2 was not related to any of the predictor variables or to charitable
+giving. Nevertheless, the high levels of attrition from Time 1 to Time 2 indicates the
+difficulty in conducting longitudinal studies, particularly among a community-based
+population such as the one used in this study. Attempts to address this issue in future
+research would be highly valuable.
+In conclusion, the theory of planned behaviour can provide useful insights into decisions
+to engage in charitable giving. Individuals donate money to charitable organisations not
+only because of their attitudes or their internal belief systems, but also because they believe
+those closest to them support and approve of charitable giving. The present research has
+tested a more integrated model, allowing for a more comprehensive examination of the
+predictors of charitable giving. Moreover, identification of the social psychological factors
+that underpin engagement in charitable giving has implications for charitable
+organisations, contributing to more effective appeals and ensuring that such organisations
+continue their vital role within society.
+
+REFERENCES
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. In J. Kuhl, & J. Beckman
+(Eds.), Action-control: From cognition to behavior (pp. 11–39). Heidelberg, Germany: SpringerVerlag.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision
+Processes, 50, 179–211.
+Ajzen, I. (2002). Constructing a TPB questionnaire: Conceptual and methodological considerations.
+Retrieved March 28, 2004 from http://www-unix.oit.umass.edu/aizen/pdf/tpb.measurement.pdf.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting social behavior. Englewood
+Cliffs, NJ: Prentice Hall.
+Armitage, C. J., & Conner, M. (2001). Efficacy of the theory of planned behaviour: A meta-analytic
+review. British Journal of Social Psychology, 40, 471–499.
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+382
+
+J. R. Smith and A. McSweeney
+
+Asia-Pacific Centre for Philanthropy and Social Investment. (2004). How the wealthy give:
+Comparison between Australia and comparable countries. Retrieved August 28 from http://
+www.swinburnephilanthropy.net/resources/PetreFirstProject.doc.
+Astrom, A. N., & Rise, J. (2001). Young adults’ intentions to eat healthy food: Extending the theory of
+planned behaviour. Psychology and Health, 16, 223–237.
+AusAID. (2005). First report on Australia’s response to the Indian Ocean tsunami disaster. Retrieved
+December 6, 2005 from http://www.ausaid.gov.au/media/release.cfm?BC¼Speech&ID¼
+3767_6437_3795_2264_7897.
+Bentler, P. M., & Speckart, G. (1979). Models of attitude-behavior relations. Psychological Review,
+86, 452–464.
+Bozionelos, G., & Bennett, P. (1999). The theory of planned behaviour as predictor of exercise: The
+moderating influence of beliefs and personality variables. Journal of Health Psychology, 4,
+517–529.
+Burgoyne, C. B., Young, B., & Walker, C. M. (2005). Deciding to give to charity: A focus group study
+in the context of the household economy. Journal of Community and Applied Social Psychology,
+15, 383–405.
+Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by the multitrait-multimethod matrix. Psychological Bulletin, 56, 81–105.
+Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of normative conduct:
+Recycling the concept of norms to reduce littering in public places. Journal of Personality and
+Social Psychology, 58, 1015–1026.
+Conner, M., & Armitage, C. (1998). Extending the theory of planned behavior: A review and avenues
+for further research. Journal of Applied Social Psychology, 28, 1429–1464.
+Conner, M., & McMillan, B. (1999). Interaction effects in the theory of planned behaviour: Studying
+cannabis use. British Journal of Social Psychology, 38, 195–222.
+Conner, M., Norman, P., & Bell, R. (2002). The theory of planned behaviour and healthy eating.
+Health Psychology, 21, 195–201.
+Conner, M., Warren, R., Close, S., & Sparks, P. (1999). Alcohol consumption and the theory of
+planned behavior: An examination of the cognitive mediation of past behavior. Journal of Applied
+Social Psychology, 29, 1676–1704.
+Drollinger, T. L. (1998). A multidisciplinary model of monetary donations to charitable organisations. Dissertation Abstracts International: Section B: The Sciences and Engineering, 59, 0458.
+Economic and Social Research Council/National Council for Voluntary Organisations. (2005).
+Charitable giving and donor motivations. ESRC Seminar Series. Retrieved August 28 from
+http://www.ncvo-vol.org.uk/asp/uploads/uploadedfiles/1/662/esrc%20charitable_v2.pdf.
+Giles, M., & Cairns, E. (1995). Blood donation and Ajzen’s theory of planned behaviour: An
+examination of perceived behavioural control. British Journal of Social Psychology, 34, 173–188.
+Hsu, J. L., Liang, G. Y., & Tien, C. P. (2005). Social concerns and willingness to support charities.
+Social Behavior and Personality, 33, 189–200.
+Industry Commission Report. (1995). Charitable organisations in Australia. Report No. 45,
+16th June, 1995.
+Konkoly, T. H., & Perloff, R. M. (1990). Applying the theory of reasoned action to charitable intent.
+Psychological Reports, 67, 91–94.
+Lee, L., Piliavin, J. A., & Call, V. R. (1999). Giving time, money, and blood: Similarities and
+differences. Social Psychology Quarterly, 62, 276–291.
+Lord, J. G. (1981). Philanthropy and marketing: New strategies for fund raising. Cleveland, OH:
+Third Sector Press.
+Manstead, A. S. R. (2000). The role of moral norm in the attitude-behavior relation. In D. J. Terry, &
+M. A. Hogg (Eds.), Attitudes, behavior and social context: The role of norms and group
+membership (pp. 11–30). Mahwah, NJ: LEA.
+McMillan, B., & Conner, M. (2003a). Using the theory of planned behaviour to understand alcohol
+and tobacco use in students. Psychology, Health, and Medicine, 8, 317–328.
+McMillan, B., & Conner, M. (2003b). Applying an extended version of the theory of planned
+behaviour to illicit drug use among students. Journal of Applied Social Psychology, 33,
+1662–1683.
+Minton, A. P., & Rose, R. L. (1997). The effects of environmental concern on environmentally
+friendly consumer behavior: An exploratory study. Journal of Business Research, 40, 37–48.
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+383
+
+Norman, P., & Smith, L. (1995). The theory of planned behaviour and exercise: An investigation into
+the role of prior behaviour, behavioural intentions and attitude variability. European Journal of
+Social Psychology, 25, 403–415.
+O’Keefe, B., Clements, J., & Fleet, S. (2001). Giving trends in Australia report. Retrieved March 27,
+2004 from http://www.auscharity.org/givingtrends2001.htm.
+Parker, D., Manstead, A. S. R., & Stradling, S. G. (1995). Extending the theory of planned behaviour:
+The role of personal norm. British Journal of Social Psychology, 34, 127–138.
+Philanthropy Australia. (2004). Gifts and donations in Australia. Retrieved May 4, 2004 from http://
+www.philanthropy.org.au/factsheets/7-05-04-gifts.htm.
+Polonsky, M. J., Shelley, L., & Voola, R. (2002). An examination of helping behaviour: Some
+evidence from Australia. Journal of Nonprofit and Public Sector Marketing, 10, 67–82.
+Pomazel, R. J., & Jaccard, J. J. (1976). An informational approach to altruistic behaviour. Journal of
+Personality and Social Psychology, 33, 317–326.
+Radley, A., & Kennedy, M. (1995). Charitable giving by individuals: A study of attitudes and
+practice. Human Relations, 48, 685–709.
+Reno, R. R., Cialdini, R. B., & Kallgren, C. A. (1993). The transitional influence of social norms.
+Journal of Personality and Social Psychology, 64, 104–112.
+Rivis, A., & Sheeran, P. (2003). Descriptive norms as an additional predictor in the theory of planned
+behaviour: A meta-analysis. Current Psychology: Developmental, Learning, Personality, Social,
+22, 218–233.
+Sargeant, A., & Lee, S. (2004). Trust and relationship commitment in the United Kingdom voluntary
+sector: Determinants of donor behavior. Psychology and Marketing, 21, 613–635.
+Schwartz, S. H., & Tessler, R. C. (1972). A test of a model for reducing measured attitude-behavior
+discrepancies. Journal of Personality and Social Psychology, 24, 225–236.
+Sheeran, P., & Orbell, S. (1999). Augmenting the theory of planned behaviour: Roles for anticipated
+regret and descriptive norms. Journal of Applied Social Psychology, 23, 2107–2412.
+Sutton, S. (1994). The past predicts the future: Interpreting behaviour-behaviour relationships in
+social psychological models of health behaviours. In D. Rutter, & L. Quine (Eds.), Social
+psychology and health: European perspectives (pp. 71–88). Aldershot: Avebury.
+Terry, D. J., & Hogg, M. A. (1996). Group norms and the attitude-behavior relationship: A role for
+group identification. Personality and Social Psychology Bulletin, 22, 776–793.
+UK Giving. (2005). Results of the 2004/05 survey of individual charitable giving in the UK.
+Charitable Aid Foundation/National Council for Voluntary Organisations. Retrieved August 28
+from http://www.cafonline.org/pdf/UKGiving2004%2005.pdf#search¼%22charitable%20giving%
+20levels%20statistics%20Western%20countries%22.
+Walker, C., Pharoah, C., Jas, P., Passey, A., & Romney-Alexander, D. (2002). A lot to give: Trends in
+charitable giving for the 21st century. London: Hodder & Stoughton.
+Warburton, J., & Terry, D. J. (2000). Volunteer decision making by older people: A test of a revised
+theory of planned behavior. Basic and Applied Social Psychology, 22, 245–257.
+White, K. M., Terry, D. J., & Hogg, M. A. (1994). Safer sex behavior: The role of attitudes, norms,
+and control factors. Journal of Applied Social Psychology, 24, 2164–2192.
+Zuckerman, M., & Reis, H. T. (1978). Comparison of three models for predicting altruistic behavior.
+Journal of Personality and Social Psychology, 36, 498–510.
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+384
+
+J. R. Smith and A. McSweeney
+
+APPENDIX
+Attitude (8 items)
+1. My making a monetary donation to a charity or community service organization in the
+next 4 weeks would be (1–7 scale):
+unpleasant–pleasant, useful–useless, satisfying–unsatisfying, favourable–unfavourable, positive–negative, considerate–inconsiderate, pointless–worthwhile, bad–good.
+
+Perceived behavioural control (5 items)
+1. If I wanted to, I could easily donate money to charities or community service
+organisations in the next 4 weeks (1 strongly agree, 7 strongly disagree).
+2. Overall, how much control do you have over whether you donate money to charities or
+community service organisations in the next 4 weeks (1 no control, 7 complete control).
+3. It is mostly up to me whether I donate money to charities or community service
+organisations in the next 4 weeks (1 not at all true, 7 very true).
+4. How confident are you that you will be able to donate money to charities or community
+service organisations in the next 4 weeks (1 extremely confident, 7 not at all confident).
+5. Donating money to charities or community service organisations in the next 4 weeks is
+easy for me to do (1 not at all true, 7 very true).
+
+Injunctive norms (6 items)
+1. The people closest to me would support me in making monetary donations to charities
+or community service organisations in the next 4 weeks (1 not at all true, 7 very true).
+2. Think of the people important to you. What percentage of them do you think would
+disapprove of you making monetary donations to charities or community service
+organisations (1 0%, 7 100%)?
+3. The people closest to me would disapprove if I donated money to charities or
+community service organisations in the next 4 weeks (1 very unlikely, 7 very likely).
+4. Most people who are important to me think that my donating money to charities or
+community service organisations in the next 4 weeks would be (1 undesirable, 7
+desirable).
+5. Would the people closest to you approve or disapprove of you making monetary
+donations to charities or community service organisations in the next 4 weeks (1
+strongly approve, 7 strongly disapprove).
+6. If I donated money to charities or community service organisations in the next 4 weeks,
+the people closest to me would (1 strongly disapprove, 7 strongly approve).
+
+Descriptive norms (4 items)
+1. Think of those people important to you. What percentage of them do you think donate
+money to charities or community service organisations (1 0%, 7 100%).
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+Charitable giving and the TPB
+
+385
+
+2. Most people who are important to me donate money to charities or community service
+organisations (1 strongly disagree, 7 strongly agree).
+3. Those people closest to me do not donate money to charities or community service
+organisations (1 strongly disagree, 7 strongly agree).
+4. How likely do you think it is that those important to you donate money to charities or
+community service organisations (1 extremely unlikely, 7 extremely likely).
+
+Moral norms (4 items)
+1. I am the kind of person who donates money to charities or community service
+organisations (1 strongly agree, 7 strongly disagree).
+2. I would feel guilty if I didn’t donate money to charities or community service
+organisations (1 very unlikely, 7 very likely).
+3. I believe I have a moral obligation to donate money to charities or community service
+organisations (1 strongly agree, 7 strongly disagree).
+4. Not donating money to charities or community service organisations goes against my
+principles (1 strongly disagree, 7 strongly agree).
+
+Past behaviour (5 items)
+1. I do not donate money to charities or community service organisations (1 not at all true,
+7 very true).
+2. Over the past 4 weeks, I did not donate money to charities or community service
+organisations (1 not at all true, 7 very true).
+3. It is unusual for me to donate money to charities or community service organisations
+(1 strongly agree, 7 strongly disagree).
+4. I usually donate money to charities and community service organisations (1 not at all
+true, 7 very true).
+5. How often during the past 4 weeks have you donated money to charities or community
+service organisations (1 not at all, 7 frequently)?
+
+Behavioural intentions (5 items)
+1. I will donate money to charities or community service organisations in the next 4 weeks
+(1 definitely not, 7 definitely).
+2. I would like to donate money to charities or community service organisations in the next
+4 weeks (1 very much, 7 not at all).
+3. I do not intend to donate money to charities or community service organisations in the
+next 4 weeks (1 strongly disagree, 7 strongly agree).
+4. I intend to donate money to charities or community service organisations in the next
+4 weeks (1 strongly agree, 7 strongly disagree).
+5. How likely do you think it is that you will donate money to charities or community
+service organisations in the next 4 weeks (1 very likely, 7 very unlikely).
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+386
+
+J. R. Smith and A. McSweeney
+
+Self-reported behaviour (2 items)
+1. How often during the past 4 weeks have you made monetary donations to charities or
+community service organisations (1 not at all, 7 frequently).
+2. How many times during the past 4 weeks have you donated money to charities or
+community service organisations? (write down the amount in numbers).
+
+Copyright # 2007 John Wiley & Sons, Ltd.
+
+J. Community Appl. Soc. Psychol., 17: 363–386 (2007)
+DOI: 10.1002/casp
+
+

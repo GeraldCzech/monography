@@ -1,0 +1,2309 @@
+Munich Personal RePEc Archive
+
+Mixed Feelings: Theories of and
+Evidence on Giving
+Konow, James
+Loyola Marymount University
+
+October 2009
+
+Online at https://mpra.ub.uni-muenchen.de/18562/
+MPRA Paper No. 18562, posted 12 Nov 2009 17:43 UTC
+
+October 2009
+
+Mixed Feelings:
+Theories of and Evidence on Giving
+James Konow
+Department of Economics
+Loyola Marymount University
+One LMU Drive, Suite 4200
+Los Angeles, CA 90045-2659
+Telephone: (310) 338-2956
+Fax: (310) 338-1950
+Email: jkonow@lmu.edu
+
+Abstract
+This paper examines possible motives and institutional factors that impact giving.
+Specifically, I consider alternative theories parallel to dictator experiments that generate
+evidence on both allocation decisions and their effect on feelings. A number of new empirical
+findings as well as new interpretations for previously reported findings result. A novel test
+distinguishes warm glow from impure altruism and rules out the former as the sole motive for
+giving. Very generous donations to charities that aid the needy (with modal gifts of the entire
+dictator’s stakes) cannot be attributed to familiarity with the charities. A charity that offers a
+matching grant increases its revenues by drawing donors and donations away from one that does
+not, although aggregate charitable donations do not rise. Additional results on emotions paint a
+picture of “mixed feelings:” generosity creates good feelings when the recipients are charities
+and bad feelings when they are fellow students. No group of dictators, however, feels better, on
+average, than a control group that is given no opportunity to donate. I propose a simple model
+that accounts for these results on allocation behavior and feelings by incorporating elements of
+two approaches, unconditional altruism and social preference theories, that to date have mostly
+evolved independently. A critical feature of this model is the social norm, and the results of the
+experiments corroborate the theory in the context of two norms of distributive justice that are
+important to real world giving: equity and need.
+
+Keywords: Happiness; Equity; Fairness; Justice; Need; Altruism; Warm-Glow; Matching grants
+JEL classification: C9; D3; D6
+
+I thank the Editor (Jim Andreoni) and an anonymous referee for very helpful comments and
+suggestions. I also thank Alexander Cappelen, Gary Charness, Joe Earley, Tore Ellingsen,
+Christina Fong, Phil Grossman, Andrew Healy, Daniel Klerman, Stephan Kroll, George
+Loewenstein, Bentley MacLeod, Michael McBride, Karine Nyborg, Yoshi Saijo, Dan Simon,
+seminar participants at Boston College, Carnegie Mellon University, Claremont Graduate
+University, Osaka University, University of Oslo, and University of Southern California, and
+participants of the ASSA and Economic Science Association meetings for their input on earlier
+drafts of this paper.
+
+The sentiment or affection of the heart from which any action proceeds, and upon which its whole virtue
+or vice must ultimately depend, may be considered under two different aspects, or in two different
+relations; first, in relation to the cause which excites it, or the motive which gives occasion to it; and
+secondly, in relation to the end which it proposes, or the effect which it tends to produce – Adam Smith,
+The Theory of Moral Sentiments, 1759 (1809), pg. 42
+
+1. Introduction
+People donate a substantial fraction of their wealth to a wide variety of individuals and
+groups, including educational institutions, political campaigns, civil liberties organizations,
+public broadcasting, fellow students in laboratory experiments, and NGOs that aid the needy (a
+record $308 billion in the US in 2008, according to Giving USA). Specific gifts vary greatly,
+though, and are sensitive to context and framing effects as demonstrated in the laboratory by List
+(2007) and in the field by Alpizar, Carlsson and Johansson-Stenman (2008) and Frey and Meier
+(2004), among others. Theoretical treatments of giving are no less varied than these empirical
+findings. The model of pure altruism, which is based on a selfless concern for others, is usually
+traced to Gary Becker’s seminal paper (1974). Andreoni (1989) formally added the notion that
+giving produces a pleasurable feeling, called warm glow, which is formulated as a preference for
+giving per se, distinct from the benefit enjoyed by the recipient. Altruistic behavior is sometimes
+attributed to warm glow alone, as in Harbaugh (1998), or to a combination of pure altruism and
+warm glow, which Andreoni (1989, 1990) calls impure altruism. Alternately, social preference
+models, like those of Bolton and Ockenfels (2000), Charness and Rabin (2002) and Fehr and
+Schmidt (1999), explain departures from strict self-interest based on different combinations of
+social norms that most often include inequity aversion, efficiency and reciprocity.
+This paper reports the results of an experimental study that examines the effects on giving
+of various real world factors, such as recipient identity, recipient endowments and the
+availability of matching grants. It also presents simple models of altruism and tests the
+explanatory power of the alternate theories against behavioral and self-reported evidence from
+the experiments. The theories considered are placed into the broad categories of conditional
+altruism or unconditional altruism, similar to the distinction Fong (2007) makes. Unconditional
+altruism does not formally depend on social norms and includes pure altruism, warm glow and
+impure altruism. Conditional altruism, on the other hand, does depend on norms, and can
+incorporate motives such as inequity aversion, need, efficiency, cooperation, conformity, spite,
+and reciprocity. 1 Thus, conditional altruism includes social preference theories. This paper
+
+1
+
+Note that this is a broader definition of conditional altruism than some usage that refers only to reciprocity.
+
+1
+
+proposes a more general version of conditional altruism that incorporates elements of both social
+preference theories and unconditional altruism, viz., a role for feelings. This is in line with Adam
+Smith’s claim that feelings provide one side of the equation for unselfish acts, namely, the
+motive, whereas the other side pertains to the purpose or consequences of such acts, i.e., the
+norms. Interestingly, Becker also motivated his 1974 paper by reference to feelings and to social
+conditions, arguing that giving could increase or decrease utility. The proposed model of
+conditional altruism draws on Smith’s and Becker’s thinking and while integrating more recent
+developments on altruism and social preferences. The experiments permit specific tests of the
+theory on the norms of equity and need, two motives that arguably account for a largest fraction
+of giving in the real world, e.g., to such charities as the United Negro College Fund, ACLU,
+political organizations, Habitat for Humanity, Feed the Children, CARE, and UNICEF.
+The behavioral evidence in this study comes from donations across different contexts. In
+the literature on altruism, the major focus has been on the crowding out hypothesis: if gifts are
+motivated by pure altruism, public spending will crowd out private donations dollar-for-dollar.
+If, on the other hand, warm glow or impure altruism apply, crowding out will be incomplete. The
+results of many previous studies, including those of actual charitable giving and experiments,
+cast doubt on complete crowding out, although estimates range widely. In the field, Kingma
+(1989) finds only about 13% crowding out, whereas Payne (1998) estimates crowding out at an
+average rate of about 50%. Many experimental studies employing public goods designs come to
+qualitatively similar conclusions. For example, Andreoni (1993) reports incomplete crowding out
+even after taking into account possible subject confusion (1995), Palfrey and Prisbey (1996,
+1997) find little or no pure altruism but significant evidence of warm glow and subject error,
+whereas Goeree, Holt and Laury (2002) report warm glow, error and (pure) altruism.
+Nevertheless, the above results could be driven, in part, by factors not controlled in such
+studies, as their authors acknowledge. With field data, for example, incomplete crowding out
+might also reflect imperfect information about government spending or a concern by donors for
+status or prestige (see McGranahan, 2000). Despite greater control, public good games are
+fraught with significant subject error, presumably because of their complexity and uncertainty.
+Their results could be additionally confounded by strategic considerations, as Bolton and Katok
+(1998) illustrate. This leads Bolton and Katok to study the simple and non-strategic dictator
+game, where one group of subjects, called the dictators, receive a fixed sum of money, which
+they may then share, if they wish, with anonymous counterparts, or recipients, in another room.
+2
+
+Their variation of this experiment leads to a high, but still incomplete, level of crowding out.
+Social preference theories have usually been formulated around results from laboratory
+experiments, and, as previously stated, explain giving based on social norms. This might involve
+a single norm, such as equity in the Fehr and Schmidt (1999) model, or multiple criteria, such as
+efficiency, equality and reciprocity in Charness and Rabin (2002). Variations in giving across
+experiments are explained by contextual differences that affect trade-offs, e.g., by differences in
+the strategic environment that affect the relative importance of self-interest, equity, efficiency
+and/or reciprocity. Some experimental results, however, suggest people can be opportunistic in
+their use of these norms, e.g., Dana et al. (2007), Bolton et al. (1998) and Konow (2000a).
+Feelings, or affect in the terminology of psychologists, are the other variable measured in
+this study. In dictator games, Ellingsen and Johannesson (2008) and Xiao and Houser (2007) find
+that dictator transfers increase at the mere anticipation of recipients’ expression of their feelings
+about those transfers. Here, however, we are interested in the feelings of the dictators and
+whether more generous donors experience more pleasurable feelings, or positive affect. Konow
+and Earley (2008) find that generosity is positively correlated with various self-reported
+measures of long-run subjective well-being, i.e., with overall or average happiness. The current
+study, on the other hand, focuses on the kinds of emotions often associated with warm glow, viz.,
+the effect of giving on short-run feelings (or short run-affect). Bosman and van Winden (2002),
+Charness and Grosskopf (2001) and Kirchsteiger, Rigotti and Rustichini (2006), among others,
+have utilized such measures in economics experiments. Harbaugh, Mayr and Burghart (2007)
+arrive at equivalent results using neural evidence of reward and self-reported subjective wellbeing in an fMRI study of charitable giving. The current study employs a self-report instrument
+but, in contrast to these other studies, uses a before-and-after, rather than single occasion
+method: subjects report short run affect prior to and following the previously unannounced
+allocation decisions, which provides individual level data of any impact of giving on feelings.
+This paper, as most other studies that connect theory to social preferences, considers
+evidence from laboratory experiments. Aside from facilitating comparisons to those studies, the
+double blind dictator design used here helps to minimize the confounding effects of prestige,
+status, confusion, expectations, and strategic motives, and specific measures allow additional
+controls, including over subject familiarity with recipients. On the other hand, Levitt and List
+(2007) identify many of the pitfalls in abstracting social preferences from the laboratory to the
+real world. For example, Carpenter, Connolly and Myers (2008) find significant differences
+3
+
+between students and non-students in their choices both of which charities to support and how
+much to give. Nevertheless, Levitt and List point out that drastic variation in behavior in the
+laboratory “does not necessarily imply that preferences are labile. Rather, we view such data as
+evidence that when critical elements of the situation change, behavior will change in predictable
+ways.” Indeed, Loewenstein and Small (2007) provide examples of how self sacrifice varies
+widely, not only in the laboratory but also in the field, in response to changes in context. 2
+Mindful of these issues, this experiment adopts procedures aimed at enhancing external
+validity. Subject payments are framed as earnings for a task, which involves subjects completing
+a lengthy questionnaire that takes twenty minutes. In addition, it incorporates features that are
+helpful for studying altruistic motives in the real world. For example, the treatments include a
+choice of real charities, matching grants as an option, and variation in recipient endowments
+(holding donor endowments constant). 3 Well crafted laboratory and field experiments will mirror
+sources of variation in natural settings, as cited above, and such studies can be useful for “out of
+treatment forecasting” and explaining behavior in other experiments and the real world.
+The experiments reported here produce a number of new findings and new interpretations
+of previous findings. A treatment with charity recipients that aid the needy produces the most
+generous recorded behavior, to my knowledge, by student subjects in a laboratory dictator game
+(Benz and Meier, 2008, report similar results in the classroom). This generosity is significantly
+greater than that toward student cohorts and cannot be attributed to greater familiarity with the
+
+2
+
+One criticism of experimental studies of altruism is that the stakes are so small relative to total subject income or
+wealth that subjects should contribute either all or none of their experimental endowments, depending on how
+altruistic they are (I thank Alexander Cappelen for raising this point and, thereby, stimulating this discussion). That
+is, unconditional altruism is really a strawman in these studies, which usually result in a high incidence of interior
+decisions. This is valid concern in principle, but I think there are at least two reasons to believe it is not a serious
+problem in practice. First, by one view, this is a question of whether the experimental frame “takes,” i.e., whether
+subjects apply externally valid rules to the experimental context. This is a core question for the experimental
+method, but it is not clear that it is any more critical for altruism than for other preferences, e.g., assuming subjects
+act instead on equity, do not most know whether, relative to the average counterpart, they are rich, and should give
+away all, or poor, and should take all? As Benz and Meier (2008) and Eckel and Grossman (2008) find, laboratory
+experiments with modest stakes can produce results that are qualitatively similar to those with larger stakes in the
+field, even if the effects are quantitatively attenuated. Second, the experimental context and stakes are actually in the
+range of many real world decisions. As Andreoni (2006) points out, most real world giving does not occur
+spontaneously but rather, as in the experiment, in response to a prompt, e.g., mailed solicitations. Moreover, many of
+these implied requests of and actual donations to real charities are in the range of experimental stakes, e.g., change
+for bellringers, price margin on products of firms that donate a percentage of profits, weekly tithes, donations to
+university charities (e.g., Frey and Meier, 2004) and public good contributions (e.g., Alpizar, Carlsson and
+Johansson-Stenman, 2008). Even the “windfall” quality of experimental endowments can be ameliorated by framing
+this money as earnings for a task subjects perform (e.g., List 2007).
+3
+This paper builds on Konow (2000b), which included these features as well as measurement of warm glow using
+reported feelings and presentation of a formal model linked to empirical measures of emotions. On the last point, see
+also more recent contributions by Graham and Oswald (2008) and McBride (2008).
+
+4
+
+charities. A charity that offers a matching grant draws donors and donations away from one that
+does not, but its revenue per actual donor falls. The results on short run affect paint a picture of
+“mixed feelings:” emotions matter, but giving can produce good or bad feelings, depending on
+the context. On average, dictators are happier after the allocation decision than before, but the
+relative effect on feelings depends the identity of the recipients. When the recipients are students,
+this boost in mood is significantly greater for less generous dictators than for more generous
+ones. Moreover, the mood change of the less generous dictators does not differ from that of
+dictators in a control group who are given no opportunity to transfer money to student recipients.
+When the recipients are charities, however, the more generous dictators experience the higher
+mood change, although their change in feelings is also no better than that of the control group.
+Although some results support unconditional altruism or social preference theories, there
+remain inconsistencies. The version of conditional altruism proposed here, however, can
+reconcile the experimental results of this study, including the treatment effects, the patterns of
+charitable giving and the evidence on feelings. This model incorporates context-dependent moral
+norms while making modest modifications of existing theories, e.g., it retains Andreoni’s (1990)
+specification of a preference for giving per se, although a proposed explanation relates to longrun feelings, and it incorporates Andreoni’s (2006) insight that the net effect of giving on shortrun feelings is ambiguous, since the negative feelings of the obligation to give might offset these
+positive feelings. This approach provides a general framework for organizing findings from other
+laboratory and field studies. For example, the model and the associated experimental results are
+consistent with the results from field experiments of Carpenter, Holmes and Matthews (2008) on
+participation rates and revenues and of Karlan and List (2007) on average donations. In addition,
+the dependence of preferences on context-dependent norms can account for framing effects, e.g.,
+Eckel, Grossman and Johnston (2005) find dictator transfers depend on whether differences in
+endowments are characterized as taxes. The experiment in this study focuses on norms of
+distributive justice, although, in the proposed model, norms represent potential burdens people
+might rather avoid. Some models, such as Andreoni and Bernheim (2009), Brekke, Kverndokk
+and Nyborg (2003), and Konow (2000a), treat norms as, in some sense, endogenous. Such
+behavior, i.e., agents responding to norms while preferring to shun moral responsibility, is
+consistent with the observed pattern of allocations and the evidence on feelings in this study, for
+example, the fact that those who comply with norms are happier than those who do not but, at
+best, are only as happy as a control group that never confronts the choice of how much to give.
+5
+
+The structure of the paper is as follows. Section 2 describes the experiments, and Section
+3 presents the models of unconditional and conditional altruism and the respective theoretical
+predictions for the experiments. Section 4 reports and analyzes the results of the experiment on
+allocation decisions and affective motivation, and Section 5 concludes.
+2. The experiments
+Below I summarize the two experiments, encompassing three treatments and a control,
+employed in this study, including descriptions of the design, affective measures and procedures.
+2.1. Experimental design
+The design choices reflect the goals of identifying intrinsic reasons for giving and of
+minimizing extrinsic motives and mistakes by making the distributive ramifications of transfers
+transparent, specifically, by considering only evidence from variations on dictator games. This
+design leaves little room for strategic and expectational elements or for subject error. In addition,
+all sessions were conducted double blind, i.e., neither the subjects nor the experimenter knew
+which subjects made particular choices, so as to avoid other extrinsic motives, such as social
+approval, which can also insinuate themselves into experiments. 4
+The Bolton and Katok (1998) study represents the first use of a dictator game to examine
+altruism. In it, the initial allocations to both dictator and recipient are set at $15 and $5,
+respectively, in one treatment and at $18 and $2, respectively, in a treatment with a different set
+of subjects. I refer to this as the Tax experiment, because it is as if the dictator were subject to an
+involuntary tax that is given to the recipient. Bolton and Katok find that crowding out is
+incomplete but more extensive than previously estimated, i.e., dictators in the $15/$5 treatment
+transfer less than dictators in the $18/$2 treatment, but this difference is somewhat less than the
+$3 predicted by pure altruism. The Tax experiment, however, does not permit one to distinguish
+whether incomplete crowding out is due to impure altruism or warm glow alone, which is one
+reason for introducing the experiment below. Nevertheless, in many ways, their seminal study
+relates to and complements the current one, so I will sometimes refer to it (see also Appendix B
+for a more detailed analysis). The treatments presented in this paper are summarized in Table 1.
+Subsidy experiment
+This variation on the dictator game approaches the motive for giving, in a sense, from the
+4
+
+See Buchanan, Eckel and Grossman (2000). Some studies, e.g., Rege and Telle (2004), show that social approval
+influences giving but that it persists even under anonymity. Moreover, it seems implausible that social approval is
+the sole or primary reason for giving: if donors do not (usually) possess genuinely altruistic preferences, would not
+everyone know this, including the people donors are trying to impress, thereby undermining the reason for giving?
+
+6
+
+opposite direction of the Tax experiment. In public goods and Tax experiments, anything short of
+complete crowding out is usually interpreted as unfavorable to pure altruism and as favorable to
+warm-glow. In contrast to previous designs, the Subsidy experiment makes a point prediction
+about warm-glow. In the Subsidy treatment, the dictator has a fixed endowment, in this case $10,
+and the recipient receives a smaller fixed endowment, here $4. Thus, the dictator’s philanthropic
+intentions toward the recipient receive a $4 subsidy. 5 Dictator gifts in this treatment are then
+compared to those in the Standard treatment in which the dictator receives a $10 endowment and
+the recipient receives no endowment. If giving is due only to warm glow, transfers should not
+differ across these two treatments. The Subsidy experiment reverses the implicit bias of previous
+tests of altruism that interpreted partial crowding in favor of warm glow. In addition, some
+previous public goods experiments support warm glow without pure altruism (e.g., Palfrey and
+Prisbey, 1997), and the Subsidy experiment is an alternate test with a simple, non-strategic, and
+anonymous decision. Finally, it provides additional evidence on predictions of conditional
+altruism regarding the relative magnitudes of crowding out and the effects on feelings.
+TABLE 1
+SUMMARY OF TREATMENTS
+Treatment
+Standard
+Subsidy
+Charity
+Control
+
+ENDOWMENTS
+Dictator Recipient
+$10
+$0
+$10
+$4
+$10
+$0
+$10
+$0
+
+PERMISSIBLE
+GIFT RANGE
+[0, 10]
+[0, 10]
+[0, 10]
+[0]
+
+RECIPIENT
+IDENTITY
+Student
+Student
+Charity
+Student
+
+Charity experiment
+In a dictator game using a fixed $10 pie, Eckel and Grossman (1996) examined gifts of
+student dictators to other anonymous students in one treatment versus those to a known charity
+(the American Red Cross) in another. They found average gifts to the latter to be significantly
+greater, which they attributed to differences in “information about the characteristics of the
+recipient.” We can decompose this effect into at least two forces: the familiarity of donors with
+recipients and the deservedness of these recipients (for a given level of familiarity). 6 This study
+5
+
+The size of the subsidy was chosen with two things in mind: it should be large enough to reveal a shift, if relevant,
+in the optimal gift between the two treatments but not so large that most dictators wish they could take money from
+recipients in the subsidy treatment. A projection based on previous studies with this population suggested that $4
+was the largest such subsidy. This conclusion also seems consistent with the results of Korenok, Miller and
+Razzolini (2008), who implement the Subsidy experiment with different values for recipient endowments. For an
+alternative test of warm glow, see the clever design of Crumpler and Grossman (2008).
+6
+I thank Phil Grossman for helping to clarify their thinking on this. In public good games, Gächter and Fehr (1999)
+
+7
+
+reverses the information conditions from the Eckel and Grossman experiment, so that the two
+forces operate in opposite directions. This serves to establish whether familiarity, or something
+else, is the dominant force driving these results. Moreover, this probably mimics most real life
+situations: people usually know more about cohorts (e.g., fellow students or workers) than about
+charitable organizations. For the Charity treatment, student dictators allocate to charities,
+whereby relatively obscure charities were selected so as to be unknown to most subjects, a fact
+that was confirmed in post-experimental questionnaires. Although all treatments were run double
+blind, in the Standard treatment already described the dictators were familiar with the recipients:
+both groups met initially in the same room and knew one another at least by face (although no
+one knew who his or her counterpart was). At times, it was apparent that some subjects knew one
+another personally before the experiment, as well. In both the Charity and Standard treatments,
+dictators received an endowment of $10 and recipients were unendowed.
+The Charity treatment included two additional real world features: a choice of charities
+and a matching grant option. Dictators read similar descriptions of two charities, Childreach and
+Children International, that mentioned the needs of the beneficiaries. They then completed a
+form indicating which of the two should receive their gifts, if any. In about one-half of the forms
+a sentence was added to the Childreach description that notified subjects that “Every $1 you
+donate to Childreach makes available an additional $3 from a matching grant, all of which will
+go to their programs in the field.” The Charity experiment, therefore, provides much information
+that is useful for evaluating the theories later in Section 3, including about the relative size of
+transfers in the Charity and Standard treatments, the percentage of donors choosing the matching
+grant, and the level of transfers to charities in response to the matching grant.
+Control
+Finally, the Control is identical to the standard dictator treatment and uses student
+recipients who receive no endowment beyond the show-up fee, except that dictators have no
+opportunity to give any of their $10 to their counterparts. The rationale for this concerns
+evidence on affect and is explained in the following sub-section.
+2.2.
+
+Affective motivation
+Although such considerations were downplayed as economic theory was formalized,
+
+pleasures or feelings of benevolence counted among the motivations central to early economic
+
+found weak support for the former effect in the form of a small, but usually insignificant, increase in contributions of
+subjects who had met prior to the experiment in comparison to contributions of completely anonymous subjects.
+
+8
+
+thinkers. Andreoni (1989) returned feelings to the forefront of the discussion of altruism,
+positing that “people ‘enjoy’ making gifts” and derive a private benefit “like a warm glow” from
+doing so (pg. 1449). As a step toward quantifying this motive, all of the above mentioned
+treatments include self-reported measures of feelings using items from research in psychology.
+In psychology, feelings, or affect, may be contrasted with cognition, which refers to
+mental activities involving the acquisition, storage and use of knowledge. A similar debate exists
+in psychology as in economics about whether generosity is genuinely selfless or instead selfish.
+C. Daniel Batson and his collaborators (1987, 1988, 1997a, b) claim that generosity is affectively
+motivated by selfless empathy for persons in need. Cialdini and his colleagues (Cialdini, et al.,
+1997, Neuberg, et al., 1997), on the other hand, argue that benevolence is more cognitively
+motivated through identification and merging with others such that helping is really directed
+toward oneself and is not truly selfless. Loewenstein and Small (2007) argue that generosity is
+both affectively and cognitively motivated. Interestingly, economists and psychologists conceive
+of selfless giving in opposite ways: for economists pure altruism connotes a more cognitive and
+selfless consideration of others, whereas warm-glow is an affectively motivated and selfish force.
+In economics, the focus of altruism has been on crowding out. Although it is true that
+warm glow implies incomplete crowding out, the converse is not the case: incomplete crowding
+can be due to factors other than warm glow. 7 This provides one reason for investigating warm
+glow by measuring emotions themselves. Thanks to almost five decades of research, there are
+well developed and extensively tested measures of so-called subjective well being (or SWB). For
+excellent surveys, see Diener, et al. (1999) for developments in psychology and Di Tella and
+MacCulloch (2006) and Frey and Stutzer (2002a, b) for contributions to economics. Most SWB
+measures are based on self-reports, i.e., responses to survey questions, typically used to construct
+multi-item scales. Comparative studies of self-reported SWB with other subjective and objective
+variables, including economic and other life conditions, reports of family and friends, and
+physiological measures, generally support the validity of these instruments. In this study, the
+focus is on short-run affect, i.e., temporary feelings, as opposed to long-run affect, i.e., emotions
+reported overall, on average, or over a longer period. One stylized fact is that long-run affect is
+7
+
+One possibility that Andreoni and Payne (2003) formalize and corroborate empirically is that private charities
+reduce fund-raising efforts, when they receive government grants. Another is what Thaler (1980) calls the
+endowment effect, which is a special displeasure agents experience when outcomes fall short of endowed levels. For
+a donor, or dictator in one of our experiments, this may be modeled by including a term in the utility function that is
+formally identical to warm glow, except that giving creates negative, rather than positive, marginal utility.
+Novemsky and Kahneman (2005), on the other hand, argue that the endowment effect is small when, as here, people
+are endowed with money.
+
+9
+
+more stable whereas short-run affect exhibits wider fluctuation. The validity of self-reported
+short-run affect is quite compelling. Various economics studies using side-by-side analysis have
+produced equivalent results with self-reports and physiological measures that subjects cannot
+typically control, e.g., fMRI measures of neural activity related to feelings in Harbaugh et al.
+(2007) and skin conductance level measures of emotional arousal in Ben-Shakhar et al. (2007).
+This study employs a design similar to that of Konow and Earley (2008), which examines
+the relationship between giving and long-run SWB. Here, though, we focus on changes in shortrun affect and include not only standard dictator and control but also subsidy and charity
+treatments. In contrast to prior economics experiments, short-run affect is sampled on multiple
+occasions. Specifically, this change equals differences in dictator responses to items presented
+just prior to their previously unannounced allocation decision and then again just following it. I
+construct a measure, called SRA (for short-run affect), for each subject from the two items of the
+Mood Index of Batson et al. (1988) that tap into the two typical qualities of short run affect:
+temporary feelings and more extreme states. These are on nine point scales, and one item has the
+endpoints “bad mood” (1) and “good mood” (9) and the other “depressed” (1) and “elated” (9).
+The SRA scale is formed for each subject by simple addition of that subject’s responses to these
+two items. I then construct a change in short-run affect scale (ΔSRA) by subtracting short-run
+affect prior to the allocation (SRA1) from that immediately following the decision (SRA2). ΔSRA
+serves as the measure of changes in short-run affect used in these experiments. As previously
+stated, dictators in the Control have no opportunity to share their $10 with their unendowed
+recipients, a fact that was communicated to both groups between sampling SRA1 and SRA2.
+2.3.
+
+Experimental procedures
+The experimental sessions typically involved 12 pairs of subjects: 12 dictators and 12
+
+recipients, or 12 dictators only in the case of the charity session in which the recipients were
+charities. A few sessions were run with 11 (pairs) of subjects (or, in one case, 10 pairs) due to an
+unexpectedly large number of no-shows. There were 371 participants in total consisting of 94
+subjects in the four sessions of the standard treatment, 116 subjects in the five sessions of the
+subsidy treatment, 71 dictators in six sessions of the charity treatment, and 90 subjects in the four
+sessions of the control. Subjects were undergraduates in introductory economics or psychology
+courses at a U.S. university whose participation also satisfied a course requirement. 8 Total
+8
+
+One of the four control sessions uses subjects recruited from the general student population, but this does not
+matter for allocations, since dictators in the control do not allocate, and the only variable of interest from these
+sessions is ΔSRA, which does not differ significantly between this control session and the others.
+
+10
+
+average compensation was $10.50 for sessions lasting on average a little over 40 minutes,
+yielding average hourly compensation of about $15 per hour. After receiving payments, 96% of
+subjects responded that they would be willing to participate in economics experiments again.
+All subjects initially showed up at a common room, where they were individually
+registered, given a $5 show-up fee and randomly assigned to Room A or B (except in charity
+sessions, which had only one room). A double-blind procedure was adopted, that is, neither the
+subjects nor the experimenter knew who had chosen any particular responses or gifts. Moreover,
+subjects were at no time told the purpose of the experiment. The anonymity measures were
+undertaken for two reasons. First, the goal was to identify generosity intrinsically motivated by
+altruism, not by an extrinsic aim such as social approval, including the approval of other subjects
+or the experimenter. Second, previous studies (e.g., Tom Smith, 1979) suggest that responses to
+SWB questions are more candid when subject identity is better protected.
+The experiment then proceeds as follows. All participants complete a questionnaire on
+SWB that includes the short run affect (SRA1) items. After 20 minutes, the forms are sealed, and
+the experimenter provides all subjects for the first time with details of the payment procedures.
+Room A subjects (the dictators) are told that they are paid $10 for completing the questionnaires
+and, in the standard treatment, that Room B subjects (the recipients) are completing the same
+questionnaires but without compensation. In the subsidy treatment, Room A subjects are told that
+Room B subjects receive $4 for their work. Room A subjects have five minutes to allocate ten $1
+bills and ten blank sheets between an envelope they keep and another to be given to a Room B
+subject, making sure that the number of bills plus blank slips in each envelope totals ten. In the
+control, Room A subjects are told that may pocket their $10 payment, and that they have no
+opportunity to share with Room B subjects. After the allocation decision, subjects in both rooms
+have four minutes to complete brief Follow-up Questions, which include the short run affect
+items for the second time (SRA2). After returning all materials, subjects are paid.
+The charity treatment is similar to the other versions, except for any reference to Room B
+subjects. Instead, subjects are told that they may give some of their earnings to one of two
+organizations. In this treatment they have an additional form in the allocation phase that includes
+brief descriptions of two charitable organizations, Children International and Childreach, adapted
+from the literature of the two charities. Both statements include as goals of the charities meeting
+the needs of poor people. Dictators indicate on this form the charity to which they want their
+money to go or to neither, and put it in the Return envelope. In this treatment, the Follow-up
+11
+
+Questions also ask whether the subject ever heard of either of these organizations prior to the
+experiment. The experimental instructions can be found in Appendix D.
+3. Theories and hypotheses
+3.1. Unconditional altruism
+In the standard formulation of pure altruism, an individual’s utility is a monotonic
+function, not only of his or her own allocation, but also of the utility or allocation of others.
+Consider two individuals: a donor (here a dictator) who can share something with another, the
+recipient. Let E be the (potential) donor’s endowment of a resource, X the amount of E he keeps,
+x the amount of E he gives to a recipient, and e the recipient’s endowment, i.e., her allocation
+before any gift from the donor. Then let us write a purely altruistic donor’s utility
+u ( X ) + f (e + x ) .
+
+(1)
+
+Here u(X) represents the donor’s material utility, that is, his utility from his own allocation. The
+donor’s utility associated with the recipient may be written as a function of her utility or directly
+as a function of her allocation, as here, f (⋅) . All terms are assumed twice continuously
+differentiable, and I make the usual assumptions of positive but diminishing marginal utility, i.e.,
+u ′(⋅) > 0 , u ′′(⋅) < 0 , f ′(⋅) > 0 and f ′′(⋅) < 0 . 9
+
+This is the more traditional formulation of pure altruism in which utility is a function of
+private goods. For public goods, pure altruism has typically been formalized as a function of the
+total quantity of the public good. Using this approach, Warr (1983) and Bergstrom, Blume and
+Varian (1986), among others, conclude that pure altruism implies complete crowding out: every
+dollar funded by lump-sum taxes and contributed by the public sector to the public good crowds
+out one dollar donated by the private sector. The reason is simple: since people only care about
+the final allocations between the public good and their own private consumption, they are
+indifferent about whether the public good is funded through their own voluntary gifts or by
+involuntary tax transfers. They will simply reduce their private gifts by the amount of the tax.
+Nevertheless, studies of actual charitable giving have found crowding out to be incomplete,
+9
+
+The material and altruistic preferences in this paper are written as additively separable terms. This maintains
+consistency and comparability with most models in the social preferences literature (e.g., Bolton and Ockenfels,
+2000, Charness and Rabin, 2002, and Fehr and Schmidt, 1999), with some papers on public goods (e.g., Goeree,
+Holt and Laury, 2002), and with the unconditional altruism model proposed later. Moreover, this simplifies the
+analysis by avoiding the necessity of making assumptions about cross partial derivatives. Although one can certainly
+make plausible arguments for non-zero cross partials (both positive and negative), I follow Occam’s razor and adopt
+the simpler formulation, at least one specification of which, as it turns out, can reconcile all of the experimental
+evidence on allocations and affective motivation.
+
+12
+
+indeed sometimes negligible (e.g., Abrams and Schmitz 1978, Ribar and Wilhelm 2002).
+As an explanation for incomplete crowding out, Andreoni proposes that people
+experience a warm glow from giving, which, as he renders it, implies utility is a function of the
+gift itself, rather than of the utility or total allocation of the beneficiary. Andreoni formalizes
+warm glow for public goods, but here it can be interpreted as the following donor utility function
+u ( X ) + g ( x)
+
+(2)
+
+where I assume g ′(⋅) > 0 and g ′′(⋅) < 0 . The donor is indifferent to the recipient’s endowment, e,
+and it is not an argument of his utility function. Thus, the recipient’s wealth or gifts from others
+do not affect the donor’s gift. Andreoni’s chief model is that of impure altruism, which combines
+warm glow and pure altruism. A utility function with impure altruism is
+u ( X ) + f (e + x ) + g ( x ) .
+
+(3)
+
+In this case, the donor cares about the recipient but also derives pleasure from giving per se.
+One of the behavioral measures considered in this study, and the central focus of prior
+studies, is the crowding out effect. In the current context, this is the effect of variation in the
+recipient’s endowment, e, on the donor’s gift to the recipient, x, or dx*/de, denoted c. Crowding
+out may be complete, that is, dollar-for-dollar such that c = –1, zero so that c = 0, or partial
+meaning –1 < c < 0. The focus of both the theoretical and, later, empirical analysis of crowding
+out is interior solutions, i.e., cases for which x*>0 in at least one of the comparison treatments.
+We disregard the minimum proportion of dictators who give nothing (within the experimental
+parameters) because theories of altruism generate meaningful predictions only for agents for
+whom the marginal utility of giving at least sometimes exceeds marginal material utility.
+Moreover, predictions about x and c refer to mean values for this group.
+Subsidy experiment
+In this experiment, the dictator’s allocations to self and counterpart sum to a constant,
+X + x = E =$10, and the recipient’s endowment equals either $0 in the Standard treatment or $4
+
+in the Subsidy treatment, i.e., e ∈ {$0,$4} . Thus, an impurely altruistic dictator faces the
+following maximization problem:
+Max U(X, x, e) ≡ u ( X ) + f (e + x) + g ( x)
+x
+
+subject to X + x = E .
+
+(4)
+
+From this we can derive Proposition 1, where cp, cw and ci represent crowding out under pure
+altruism, warm glow and impure altruism, respectively. All proofs are contained in Appendix A.
+13
+
+PROPOSITION 1: With unconditional altruism, crowding out in the Subsidy experiment is partial
+or zero. In particular, crowding out varies with the specific altruistic preference as follows:
+–1 < cp < ci < cw = 0.
+A purely or an impurely altruistic donor cares at least somewhat about the recipient’s allocation
+and, therefore, gives less when the recipient receives a positive endowment. A warm glow donor,
+however, does not care about the recipient’s total allocation and is unaffected by the subsidy. As
+previously stated, this experiment approaches crowding out from the opposite end of the Tax
+experiment, for which crowding out varies as follows: –1 = cp < ci < cw < 0 (see Appendix B).
+Charity experiment
+On the face of it, there is no reason to expect differences between the Standard and
+Charity treatments based on unconditional altruism. One possibility alluded to earlier, however,
+is that generosity increases with familiarity. If familiarity is the sole or primary determinant of
+giving, gifts to familiar student recipients in the Standard treatment (denoted xs) should be
+greater than gifts to unknown charities in the Charity treatment (denoted xc), as stated below.
+H1 FAMILIARITY HYPOTHESIS: Donors are more generous toward recipients about whom they
+have more information, ceteris paribus. In the Charity experiment this implies that xc < xs.
+Alternately, it is possible that subjects factor in their own assumptions about variables
+external to the experiment. For example, dictators might expect the material resources of student
+recipients in the Standard treatment to exceed those of the beneficiaries of their gifts in the
+Charity treatment and include such estimates in recipient endowments. If so, Proposition 1
+predicts that pure and impure altruism imply lower gifts in the Standard treatment than in the
+Charity treatment whereas warm glow implies no such difference. This conflicts, however, with
+the Familiarity Hypothesis. Fortunately, the Charity experiment produces two additional pieces
+of evidence about warm-glow and altruism. One is the aforementioned measures of changes in
+short run affect. The second involves donor choices when one charity offers a matching grant.
+If warm glow were the sole motive for generosity, the matching grant option would not
+affect the percentage of dictators choosing Childreach or the level of giving. Any shift toward
+Childreach on the matching grant forms or increase in giving in that version, however, suggests
+that donors care about the well-being of recipients. Clearly, a shift toward a matching grant
+charity can be expected among purely or impurely altruistic dictators. Let κ ≥ 1 represent the
+matching grant multiplier, or value to a recipient of one dollar donated by a dictator. Then the
+altruism term in the utility function of a dictator who donates x dollars is f (κx) . Dictators with
+14
+
+marginal preferences for Children International when κ = 1 find Childreach more attractive
+when κ = 4 , such that a larger proportion of dictators should choose Childreach with a matching
+grant. Now consider the effect on the level of giving. Let the per dollar effect of a change in the
+multiplier on a dictator’s gift, dx ∗ / dκ , be denoted m. The optimal values for this are worked out
+in Proposition 2 for the cases of pure altruism (mp), warm glow (mw) and impure altruism (mi).
+PROPOSITION 2: An unconditionally altruistic donor’s gift to a charity is nondecreasing in that
+charity’s matching grant multiplier. Specifically, the effect on giving varies as follows:
+0 = mw < mi < mp .
+With warm glow, only the gift and not the benefit matters, so the matching grant has no effect.
+Otherwise, giving rises with the size of the match, because the marginal dollar value to the
+recipient, and therefore the marginal utility to the purely or impurely altruistic donor of any
+dollar donated, is increasing in κ .
+Finally, the predictions of unconditional altruism for measured short-run affect are
+straightforward and are expressed in H2.
+H2 WARM GLOW HYPOTHESIS: Under warm glow or impure altruism, ΔSRA is increasing in the
+size of gifts and is higher in treatments, on average, than in the control; under pure altruism,
+ΔSRA is unrelated to gifts and does not differ, on average, across control and treatments.
+The control consists of subjects who are denied the opportunity to give and, therefore, can
+experience no warm glow. The following section introduces a more subtle role for feelings.
+3.2. Conditional altruism
+By definition, conditional altruism relates to moral norms, but such models vary widely
+in their specifications. Social preference models relate to particular outcomes as with Bolton and
+Ockenfels (2000), Charness and Rabin (2002, social-welfare version) and Fehr and Schmidt
+(1999), reward or punishment relative to norm compliance as with Dufwenberg and Kirchsteiger
+(2004) and Rabin (1993), endogenously determined norms as in Brekke, Kverndokk and Nyborg
+(2003) and Spichtig and Traxler (2007), and signaling of norms as in Andreoni and Bernheim
+(2009) and Levine (1998). Obviously, a comparative test of these and the many other theories is
+beyond the scope of a single paper. Instead, the more modest goal here is to outline a framework
+for conditional altruism that also includes features of unconditional altruism, and then to test
+some predictions of that model in the context of some specific and well-established norms.
+The proposed model incorporates a simple consideration in decisions about giving: a
+norm, φ , for the “right” gift to the recipient, or, to be more exact, for the “right” benefit the gift
+15
+
+should produce (note that, in the current study, the gift and the benefit differ only in the case of
+matching grants). Although there are several important interpretative differences with impure
+altruism, formally only one term is modified:
+u ( X ) − f ( x − φ ) + g ( x) ,
+
+(5)
+
+where, as before, u (X ) is material utility, u ′(⋅) > 0 , u ′′(⋅) < 0 , g ′(⋅) > 0 and g ′′(⋅) < 0 . The
+second term, f (⋅) , represents the disutility of a deviation of the donor’s gift, x, from the norm,
+
+φ . I assume that f ′( x − φ ) ⋅ ( x − φ ) >0, x ≠ φ , and f ′′(⋅) > 0 , which implies that – f (⋅) is strictly
+concave in x and takes its maximum where the donor gives the norm. This term resembles
+inequity aversion, except that it applies to social norms generally and not just to equity. For
+instance, giving might be motivated by a desire to meet a person’s basic needs, but if the donor’s
+obligation is met (and no other norm kicks in), further donations decrease the donor’s utility.
+Regarding feelings, the assumptions here are opposite those of unconditional altruism.
+People may experience short-run pleasure from their own allocation, i.e., positive affect can be
+associated with the material utility term, u. In addition, we assume agents feel better about giving
+the norm: below φ , increased giving improves short-run affect, whereas gifts beyond φ reduce
+short-run affect. This is consistent with evidence, including from neural studies (e.g., Fehr and
+Camerer, 2007), associating norm compliance with positive feelings and violation of norms with
+negative feelings. Thus, giving the norm creates positive feelings, i.e., – f (0) >0, but giving too
+much or too little can produce negative feelings, i.e., – f (⋅) <0 for some values of x. The potential
+for negative feelings is also seen in the frequent reluctance of people to embrace moral duties as
+revealed, for example, in the experiments of Broberg, Ellingsen and Johannesson (2007) and
+Dana, Weber and Kuang (2007) and in the field study of Brekke, Kipperberg and Nyborg (2007).
+An implication is that dictators in the Control should feel better, on average, after being informed
+of their payments, since their ability, and therefore their obligation, to give is zero. This also
+implies that the best feelings in the treatments result from gifts that reflect the trade-off between f
+and u and lie between zero and the norm (i.e., for interior solutions where – f ′ > u ′ at x=0).
+The third term in equation (5) is formally equivalent to warm glow, and it can similarly
+explain incomplete crowding out in cases where f (⋅) alone cannot (although it is not necessary
+for this purpose with any of the experiments here). But in this model, g (x) represents motives
+for giving that are not based on short-run affect. In the real world, these motives might include
+tax benefits, prestige, and social approval. In our controlled experiments, these should be limited
+16
+
+to intrinsic motives, for example, the results of Konow and Earley (2008) indicate that giving
+promotes long run happiness, even though it does not necessarily do so for short-run happiness.
+Of course, for predictive power, φ must be given some content. There is an extensive and
+still evolving literature suggesting considerable complexity to moral norms. For the sake of both
+tractability and relevance to the present focus on giving, therefore, this study employs a singleshot non-strategic design and restricts attention to distributive justice principles. Evidence from
+many empirical studies suggests that such preferences can be described by three norms: equity,
+need, and efficiency. We focus here on the former two. 10 The equity principle is salient among
+cohort groups. It calls for rewards that are proportional to contributions, and, when contributions
+are equal (or no information exists about such differences), equitable allocations are equal. Thus,
+in the Standard and Subsidy treatments with students performing the same tasks, equity applies
+and reduces to equal splits of total earnings. The need principle is a duty to satisfy the basic
+material needs of people, including for food, clothing and shelter. Need applies in the Charity
+sessions, where subjects read brief but explicit passages referring to recipient need. The stakes
+($10) clearly do not exceed a recipient’s basic needs or the usual contribution to these charities
+of about $20, so the obligation is to give the entire $10 in this treatment.
+The focus on equity and need in these experiments also helps shed light on a substantial
+fraction of departures from narrow self-interest in the real world. For example, equity likely
+figures prominently in the motives of co-workers and of donors to the United Negro College
+Fund, Big Brothers Big Sisters of America, various political organizations, the American Civil
+Liberties Union, Boys & Girls Club of America, and Habitat for Humanity. In other cases, giving
+provides for those whose basic needs of life are endangered, as with Feed the Children, CARE,
+Christian Children’s Fund, UNICEF and relief for victims of natural disasters. Identifying and
+studying these distinct motives can help to explain quantitative and qualitative differences in
+giving and to design mechanisms for fundraising. Given experimental and field evidence that
+social norms vary widely across contexts, this approach is especially promising for explaining
+the similarly wide ranging variations in real world generosity across contexts.
+This basic formulation of conditional altruism is designed to describe the mean behavior
+of agents. Nevertheless, it can be adapted in various ways to account additionally for individual
+10
+
+See Konow (2003) for a review of this literature and a more extensive discussion of these principles. Efficiency is
+relevant when the stakes are variable and involves maximization of surplus. Given the typically fixed sums in this
+experiment, efficiency is not a prominent feature (although I mention some anecdotal evidence on it from the
+matching grant version of the Charity experiment in Appendix C).
+
+17
+
+heterogeneity. For example, the third term, combined with individual differences in marginal
+valuations, can explain occasional gifts that exceed the norm: this is consistent with subjects for
+whom g ′ > u ′ + f ′ at x= φ . A more striking stylized fact of many studies, however, is the high
+frequency of gifts of zero and the exact norm. This pattern can be produced by incorporating
+social image as in Andreoni and Bernheim (2009) or by creating a kink in f (⋅) at φ as in Fehr
+and Schmidt (1999). Alternately, the model in Konow (2000a) varies the degree of convexity of
+f (⋅) and explains additional patterns by distinguishing unbiased and biased norms (i.e., ones that
+
+reflect a self-serving bias). Although the current study focuses on mean giving, these approaches
+suggest ways in which variations on this model could also accommodate individual
+differences. 11
+We turn now to some theoretical predictions of this model. The Subsidy experiment can
+be reformulated in terms of conditional altruism. The maximization problem is
+Max U(X, x, φ ) ≡ u ( X ) − f ( x − φ ) + g ( x)
+x
+
+(6)
+
+subject to X + x = E .
+As discussed above, the salient norm in this experiment is equal splits. The φ that equalizes the
+total is 12 E − 12 e . Proposition 3 concerns crowding out in the Subsidy experiment, cs.
+PROPOSITION 3: With conditional altruism, crowding out in the Subsidy experiment is partial,
+
+specifically, less than one-half, –½ < cs < 0.
+That is, the difference in mean dictator transfers between the Standard and Subsidy treatments
+will be less than one-half the $4 subsidy in the latter treatment. This result holds with or without
+g (x) term. In addition, crowding out in the Subsidy experiment will be less than one-half that in
+
+the Tax experiment (½ct < cs), as proven in Appendix B.
+Conditional altruism also allows predictions about the effects on gifts of variations, not
+only in e, but also in φ , as stated in Proposition 4.
+PROPOSITION 4: A conditionally altruistic donor’s gift changes in direct relationship to, but by
+
+less than, any change in the norm, i.e., 0 <
+
+dx *
+< 1. This implies that mean dictator gifts vary
+dφ
+
+by treatment in ascending order of Subsidy, Standard and Charity, whereby the differences in
+mean gifts between treatments are less than the respective differences in φ .
+The partial adjustment of x to φ holds with or without the g (x) term (see Appendix A).
+11
+
+Indeed, Appendix C presents more detailed conjectures about individual patterns of ΔSRA in this study.
+
+18
+
+Conditional altruism differs from warm glow but is the same as pure and impure altruism
+in predicting that a larger fraction of subjects will choose Childreach when it offers a matching
+grant: as long as subjects can choose their gift size, this makes a charity more attractive. They
+come to different conclusions, however, regarding gift size, as demonstrated in Proposition 5.
+PROPOSITION 5: Under conditional altruism, the effect of a matching grant program on gifts to
+
+that program (m= dx ∗ / dκ ) is ambiguous. A sufficient condition for the optimal gift with
+matching grant to be lower (m<0), however, is that the optimal gift in the normal case without
+the matching grant ( x n∗ ) be greater than or equal to φ
+
+κ.
+
+Assuming φ equals the maximum gift of $10 in the normal version of this treatment, a matching
+grant multiplier of 4 implies φ
+
+κ = $2.50, i.e., giving should be lower in the matching grant
+
+version, if giving in the normal version is no less than $2.50. Based on the parameters and actual
+mean value of x n∗ in the experiment, m should be negative, opposite the predictions of
+unconditional altruism (this still holds even if the norm were a contribution of $20).
+TABLE 2
+THEORETICAL PREDICTIONS FOR MEAN GIFTS
+(COL. 1 VS. COL. 2)
+
+TREATMENT
+(1)
+(2)
+Standard
+Subsidy
+Subsidy
+Shifted Standard
+Charity
+Standard
+Standard
+Shifted Charity
+Childreach (match) Children Int’l (match)
+Childreach (match) Childreach (normal)
+
+UNCONDITIONAL ALTRUISM
+Pure
+Impure Warm
+Altruism Altruism Glow
+(3)
+(4)
+(5)
+>
+>
+=
+>
+>
+>
+≤*
+≤*
+≤*
+NA*
+NA*
+NA*
+>
+>
+=
+>
+>
+=
+
+CONDITIONAL
+ALTRUISM
+(6)
+>
+> (cs > –½)
+>
+>
+<
+<
+
+*The predictions of unconditional altruism for the Standard vs. Charity comparison are open to interpretation: the
+weak inequalities with unconditional altruism reflect the Familiarity Hypothesis, although assumptions about
+variables external to the experiment could reverse their direction for pure and impure altruism (i.e., ≥). The Shifted
+Charity data set is constructed to test predictions of conditional altruism. The inequalities for the matching grant
+comparisons under conditional altruism follow from Proposition 5 and the values of κ , φ and xn∗ in the experiment.
+
+The theoretical predictions for mean gifts under unconditional and conditional altruism
+are summarized in Table 2. Each entry compares for a given theory the predicted mean gift of the
+treatment in col. (1) to that in col. (2). For example, conditional altruism predicts that gifts in the
+Charity treatment will exceed those in the Standard treatment, but by less than the hypothesized
+19
+
+$5 difference in the norms in the two treatments (i.e., $10 in the Charity and $5 in the Standard
+treatment). To examine that claim, we shift down the distribution of gifts in the Charity
+treatment, i.e., gifts, x, are transformed to the interval max [0, x−5] to create the Shifted Charity
+data set. Thus, if dictators adjust completely for the difference in norms, the Standard and Shifted
+Charity distributions should not differ. The other cases follow similarly from the propositions.
+Finally, the predictions of this model of conditional altruism for feelings are stated in H3.
+H3 MIXED FEELINGS HYPOTHESIS: The effect of giving on ΔSRA depends on the size of the gift (x)
+
+relative to the norm ( φ ): when φ is low (high), the greater ΔSRA is associated with a small
+(large) gifts; the ΔSRA associated with the most favorable choice in a treatment, however, does
+not exceed that in the control.
+As stated previously, material utility, u, is also a source of good feelings, so the best feelings do
+not, on average, correspond to φ . Instead, they reflect the trade-off between u and f and lie, on
+average, below φ . But H3 and Proposition 4 together imply that large gifts make subjects least
+happy in the Subsidy treatment, followed by the Standard treatment, and most happy in the
+Charity treatment. But even the “happiest” group in each treatment is no happier, on average,
+than those in the Control for whom φ =0. This is a more refined version of warm glow in keeping
+with Andreoni (2006), who provides this rationale: most giving is preceded by the creation of an
+obligation that decreases utility. People might prefer to avoid the obligation (as when they cross
+the street to avoid a beggar), but, when it occurs, the positive marginal utility of giving helps
+relieve the disutility of the obligation. This explanation is consistent with the aforementioned
+empirical studies indicating that people often seek to avoid moral responsibilities. 12
+4. Results and analysis
+This section presents and analyzes the results of the experiments, first reviewing the
+allocation decisions followed by the evidence on changes in short-run affect.
+
+4.1.
+
+Allocation decisions
+Table 3 summarizes average gifts for the different treatments we have discussed,
+
+including for two sets of observations (Subsidy Subset and Pooled Charity) that are explained
+below. Column (1) indicates the mean gifts of all dictators whereas columns (3) and (4) show the
+mean and modal gifts, respectively, of only those dictators who gave some positive amount (the
+
+Givers). Because of the substantial number of dictators who gave nothing, differences across
+12
+
+I thank a referee for comments that helped clarify and refine the treatment of feelings in this sub-section.
+
+20
+
+treatments are greater when one considers the means of Givers alone. The pattern is for gifts to
+be most generous in the Charity treatment, next most generous in the Standard treatment and
+least generous in the Subsidy treatment.
+TABLE 3
+AVERAGE GIFTS
+
+Treatment
+Standard
+
+ALL DICTATORS
+Mean Gift
+N
+(1)
+(2)
+2.38
+47
+
+Mean Gift
+(3)
+4.31
+
+GIVERS
+Modal Gift
+(4)
+5.00
+
+N
+(5)
+26
+
+Subsidy
+2.05
+Subsidy Subset 1.83
+
+58
+52
+
+3.61
+3.39
+
+3.00
+3.00
+
+33
+28
+
+Charity
+5.53
+Pooled Charity 5.11
+
+47
+71
+
+6.50
+6.26
+
+10.00
+10.00
+
+40
+58
+
+NOTE.- All gifts in the Control treatment (N=45) are zero by design.
+
+Post-allocation subject comments suggest that the straightforward design was successful
+in avoiding subject confusion. The one exception was the Subsidy treatment, where a few Room
+A subjects failed to process properly the $4 payment to Room B subjects in their allocation
+decisions. A conservative estimate of the number of such subjects is six dictators whose stated
+goal in the post-allocation questionnaires was to divide the total amount equally, but whose
+actions clearly contradicted this. Of course, this artifact is not random: four of these subjects
+gave $5, one $4 and another $0. Deleting them from the sample produces the Subsidy Subset.
+Although the subset does not differ significantly from the complete set (P=.61, two tail t-test),
+this choice of sample does make a difference for one comparison discussed below, so I note it
+now. Another data set issue is the Pooled Charity, which includes the first two charity sessions,
+called Charity1+2, and four subsequent sessions, called simply Charity. These sessions all
+involved the same procedures as the other treatments except that most of the survey questions in
+the Charity1+2 sessions differed from those in the other sessions. In particular, the SRA
+questions were not included in the Charity1+2 questionnaires, so analysis of this variable uses
+only the Charity sessions. Nevertheless, mean gifts for the Charity1+2 sessions do not differ
+significantly from those in the Charity sessions (P=.22, two tail t-test), so I combine them to
+form the Pooled Charity sessions when analyzing gifts.
+Figure 1 presents the frequency distributions for gifts and reinforces the previously stated
+impression regarding relative generosity across treatments, in particular, for modal gifts. The
+modal gift among all dictators for the Standard treatment and the Subsidy Subset is zero, but the
+21
+
+modal gift of Givers is $5 and $3, respectively, which creates equal splits of total endowments.
+In the Charity treatments, however, the modal gifts of all dictators as well as of Givers alone are
+both $10 (not to mention, two dictators who also dipped into their show-up fees).
+50
+
+45
+
+40
+
+Subsidy Subset
+
+35
+
+Frequency (%)
+
+Standard
+
+30
+
+Pooled Charity
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+12+
+
+Gift ($)
+
+Figure 1. - Dictator gifts
+
+For the purpose of estimating treatment effects, note that comparing mean gifts of all
+dictators understates differences, because gifts are censored at zero, resulting in means that are
+heavily weighted by zeros. Comparing means of Givers alone also presents a potential problem,
+since treatments might cause changes in marginal evaluations and, consequently, the percentage
+of Givers. For example, a dictator whose gift equals, say, $2 in the Charity treatment might
+choose $0 in the Standard treatment. This is particularly a problem for comparisons between the
+Standard and Charity treatments, where the difference in the fraction of zero gifts is large.
+Therefore, for comparisons involving these treatments, I employ a refinement and calculate
+means from “zero adjusted” data: all zero gifts are deleted from the distribution with a smaller
+fraction of such gifts (e.g., 18% in Charity) and that same percentage of zero gifts is deleted from
+the other distribution leaving the increase in zero gifts in the one treatment over the other (e.g.,
+subtract 18% from the 45% in the Standard treatment leaving 27%). 13
+Table 4 provides the zero-adjusted means and P-values from several tests of differences
+13
+
+Actually, these “zero adjusted means” provide a conservative estimate of differences since some dictators who
+give a positive amount in the Charity treatment might prefer a negative gift in the Standard treatment but are
+constrained to zero. Of course, the present experiment could be constructed so that dictators could steal money from
+their counterparts, as List (2007). I did not adopt this approach for several reasons, including for the purpose of
+maintaining comparability with most dictator experiments and because of evidence from other studies (e.g., Bosman
+and van Winden 2002, Zizzo and Oswald 2001) suggesting that taking an amount is fundamentally different from a
+similarly sized reduction in a positive gift. Of particular significance for the current study is the fact that the
+relationship of stealing to feelings appears to be quite distinct from that associated with giving (or giving less).
+
+22
+
+between them. The difference in means test is in keeping with our focus on mean behavior.
+Given the non-normality of these data, however, two common two-sample non-parametric tests
+are also reported using the zero-adjusted data: Mann-Whitney (MW) tests these shifts using rank
+and Kolmogorov-Smirnov (KS) addresses whether the distributions themselves differ. Beginning
+with the Subsidy experiment, a comparison of the Standard and Subsidy treatments produces
+mixed results: a test of difference in means is not significant at conventional levels, but the MW
+test is significant and the KS test is weakly significant. If one uses the Subsidy Subset, however,
+and excludes confused dictators, all three tests indicate significant crowding. The Shifted
+Standard set is significantly different from both the Subsidy and Subsidy Subsets by all tests.
+Collectively, therefore, it appears that crowding out occurs but is partial. Regarding the Charity
+experiment, Table 4 indicates significantly larger gifts in the Pooled Charity treatment than in the
+Standard treatment (this also holds if the Charity1+2 sessions are deleted). Nevertheless, this
+difference is less than the maximum $5 difference in norms in conditional altruism, based on the
+mostly significant differences between the Standard and Shifted Pooled Charity treatments.
+TABLE 4
+MEAN GIFTS
+
+TREATMENT
+(1)
+Subsidy Experiment
+Standard
+Subsidy
+With Subsidy Subset:
+Standard
+Subsidy Subset
+Charity Experiment
+Pooled Charity
+Standard
+
+(2)
+
+(ZERO ADJUSTED)
+MEAN GIFTS
+OF (1) OF (2)
+(3)
+(4)
+
+ONE -TAIL P-VALUES H0: (1) > (2)
+DIFFERENCE MANN- KOLMOGOROV
+IN MEANS WHITNEY -SMIRNOV
+(5)
+(6)
+(7)
+
+Subsidy
+Shifted Standard
+
+4.31
+3.61
+
+3.61
+1.04
+
+.12
+< .01
+
+.05
+< .01
+
+.06
+< .01
+
+Subsidy Subset
+Shifted Standard
+
+4.31
+3.39
+
+3.30
+1.12
+
+.05
+< .01
+
+.03
+< .01
+
+.01
+< .01
+
+Standard
+6.26
+Shftd Pooled Charity 4.31
+
+2.92
+3.26
+
+< .01
+.04
+
+< .01
+.05
+
+< .01
+.10
+
+NOTE.- To test crowding out, the distribution of gifts in the Shifted Standard set has been shifted down by $4 for comparison with the
+Subsidy and Subsidy Subset treatments, and the Shifted Pooled Charity set has been shifted down by $5 for comparison with the
+Standard treatment. Comparisons for the Charity experiment use distributions that have been zero-adjusted, as described in the text.
+
+Table 5 presents evidence on the reaction of dictators to the Childreach matching grant
+program based on pair-wise comparisons for different versions of this treatment. The “normal”
+versions, in which a $1 gift produces an equal $1 benefit, form the baseline. The normal versions
+of Childreach and Children International do not differ significantly with respect to either the
+23
+
+proportion of subjects who choose them or mean gifts, which is convenient for the benchmark
+case. Next, the “match” versions involve the forms on which subjects chose between giving to
+Childreach, and producing fourfold benefits, or to Children International, and producing equal
+benefits. Here a significantly higher fraction of dictators chooses Childreach with the matching
+grant compared to Children International in the matching grant scenario (40% more) or to
+Childreach without the program (24% more). The matching grant, however, decreases the size of
+the average gift to Childreach compared to Children International in the matching grant scenario
+and to Childreach without the matching grant, significantly so in the former case.
+TABLE 5
+CHARITABLE GIVING WITH MATCHING GRANTS
+
+Versions
+(1)
+Childreach (normal)
+Childreach (match)
+Childreach (match)
+
+Proportion Difference in
+Difference
+Who Chose Proportions Mean Gifts in Means
+(1)
+(2) (3) – (4) of (1) of (2) (6) – (7)
+
+(2)
+(3)
+Children Int’l (normal) .36
+Children Int’l (match) .60
+Childreach (normal) .60
+
+(4)
+.47
+.20
+.36
+
+(5)
+(6)
+–.11
+7.08
+.40** 5.43
+.24** 5.43
+
+(7)
+5.69
+8.29
+7.08
+
+(8)
+1.39
+–2.86**
+–1.65
+
+NOTE. – */** denotes significance at the 10/5-percent level according to two-tail z- or t-tests, respectively.
+
+Let us compare these results to the theoretical predictions of Table 2, beginning with
+unconditional altruism. The partial crowding out in the Subsidy experiment is consistent with
+pure or impure altruism, but not warm glow, since the recipient endowment significantly affects
+dictator giving. The pattern of gifts in the Charity experiment contradicts H1 (the Familiarity
+Hypothesis) and suggests that the greater generosity by student dictators toward charities is not
+due to greater familiarity. The results presented in Table 6 confirm the subject lack of familiarity
+with these charities and cast doubt on familiarity as the dominant consideration here. After the
+allocation decision, each dictator was asked two questions: “Prior to this experiment, had you
+heard of the organization Childreach? … Children International?” Of the 142 responses in the
+sample of 71 dictators, only 3% or 1% had definite prior knowledge of Childreach or Children
+International, respectively. A separate question is whether familiarity with a charity increases the
+likelihood of giving or the gift size to that charity. Given the low level of overall familiarity with
+these charities, it is difficult confidently to draw conclusions. But the percentage giving in the
+“Not Certain” category is almost identical to that in the “No” category, whereas it is higher in the
+“Definitely” known case, although this is based on only three responses (from just two dictators).
+Does familiarity at least increase average giving to the chosen charity? The results in Table 6
+24
+
+suggest not, as mean gifts are all very close or equal to $6. Of course, ceteris paribus, familiarity
+surely matters in many situations involving charitable donations, e.g., see Eckel and Grossman
+(2008). But the point of this design choice was to ensure that familiarity was not driving the main
+treatment effects between student and charity recipients, which this evidence corroborates.
+TABLE 6
+FAMILIARITY WITH CHARITIES
+Definitely
+(1)
+3%
+1%
+
+Childreach (%)
+Children International (%)
+Pooled Charity
+Number of Responses
+3
+Ratio Gifts to Responses (%) 67%
+Mean Gift of Givers ($)
+$6.00
+
+Not Certain
+(2)
+8%
+6%
+
+No
+(3)
+89%
+93%
+
+10
+40%
+$6.00
+
+129
+39%
+$6.18
+
+With respect to matching grants, the increase in the fraction of dictators choosing
+Childreach with the match is consistent with pure or impure altruism, but not with warm glow
+alone. Contrary to pure or impure altruism, however, the match decreases rather than increases
+the average amount dictators give compared to Children International in the matching grant
+scenario or to Childreach in the normal scenario. Thus, the evidence on matching grants provides
+no support for warm glow, and the pattern of gift sizes contradicts pure and impure altruism.
+Turning now to conditional altruism, the results on mean gifts in the Subsidy experiment
+in Table 4 are consistent with unconditional altruism, but also with pure and impure altruism.
+Conditional altruism, however, generates two more specific predictions about mean gifts in this
+treatment, and distinctive predictions from unconditional altruism about the effects of matching
+grants. The two more specific predictions are that crowding out in the Subsidy experiment is,
+first, less than one-half (–½ < cs) and, second, less than one-half of that in the Tax experiment
+(½ct < cs). The differences in zero-adjusted mean gifts in Table 4 imply a cs of –.18 in the
+Subsidy experiment, consistent with the first prediction. Similarly, Table B4 in Appendix B
+implies a ct of –.48 in the Tax experiment, consistent with the second prediction. For the Charity
+experiment, conditional altruism predicts average gifts will be greater in the Charity than in the
+Standard treatment but by less than the $5 difference in φ , consistent with the results in Table 4.
+Conditional altruism is consistent with all results on matching grants in Table 5,
+including with the increased proportions of givers and decreased gifts to Childreach with the
+25
+
+match. This is in contrast to unconditional altruism, which does not predict the latter. Since many
+charities employ matching grant programs, it is interesting to consider the effect of this
+mechanism on their expected revenues. Without any matching grant programs, Childreach
+receives $2.57 and Children International $2.74, averaged across the entire pool of potential
+donors. When Childreach offers a matching grant, it receives $3.26 because, even though the
+average gift per actual donor falls from $7.20 to $5.43, it captures a larger fraction of potential
+donors, viz., 60% versus 36%. 14 For Children International, its average receipts fall from $2.74
+to $1.66, because, even though the average gift per actual donor rises, it captures a smaller
+fraction of potential donors. Across all charities, the matching grant reduces average giving from
+$5.31 to $4.91 (an insignificant difference). Thus, charities might be facing a prisoner’s
+dilemma: if a charity unilaterally offers a matching grant program, it will benefit while others
+suffer, but aggregate charitable donations do not rise and perhaps even fall. 15
+TABLE 7
+REASONS FOR GIFTS
+
+Treatments
+Standard + Subsidy
+Low (< $2)
+High (≥ $2)
+Pooled Charity
+Low (< $5)
+High (≥ $5)
+
+Donor
+Need
+(1)
+
+Recipient
+Need
+(2)
+
+Equity
+(3)
+
+Other
+(4)
+
+N
+(5)
+
+46%
+0%
+
+0%
+0%
+
+8%
+68%
+
+46%
+32%
+
+35
+34
+
+29%
+3%
+
+9%
+65%
+
+3%
+5%
+
+59%
+27%
+
+34
+37
+
+NOTE.- The combined Standard + Subsidy results do not include results for subjects in two Standard and one
+Subsidy sessions where these questions were inadvertently omitted, thus, they have been consolidated for this reason
+and because of their common norm of equity and the small difference in φ between them. The split point for Low
+and High is constructed for each set of treatments so as to divide the dictators as closely as possible into equally
+sized groups.
+
+A post-experimental questionnaire contained open-ended questions about subject
+motives, which are summarized in Table 7. Responses were coded by reason, whereby 93% of
+14
+
+Interestingly, the pattern of giving here is consistent with that observed in the field study of Karlan and List
+(2007), viz., the matching grant increases the charity’s share of potential donors, raises its total donations and lowers
+its average gift per actual donor.
+15
+Of course, this analysis ignores the revenues from the person or organization that is offering to match donations in
+the first place. If this group would not otherwise donate these funds to charitable causes at all, then the matching
+grant program could still have a favorable effect on aggregate revenues. If, however, they would donate the money,
+anyway, then these results suggest matching grant programs do not increase aggregate charitable giving. Another
+potential benefit we are ignoring here is that matching grants provide favorable information about the charity, which
+might help other donors evaluate the quality of charities (see Vesterlund, 2003).
+
+26
+
+these results are based on explicit use of certain terminology, i.e., as “Equity” if dictators
+explicitly explained their decisions using the terms “fair,” “equal” or “even” or their synonyms
+or cognates, as “Need” if they explicitly used the word “need” or its cognates, and as “Other” for
+idiosyncratic reasons. Further, Need responses are decomposed into those dictators who referred
+to the needs of recipients (Recipient Need) versus those who appealed to their own material
+needs (Donor Need). This table also shows these reasons according to whether the dictator’s gift
+is Low or High. Among dictators with High gifts, it is notable that around two-thirds in each of
+the treatment sets volunteer reasons consistent with the hypothesized norm, viz., Equity in the
+Standard + Subsidy treatments and Recipient Need in the Pooled Charity treatments. Only 8% to
+9% of dictators who give Low gifts, on the other hand, mention these reasons in the respective
+treatment sets. Instead, the most frequently identifiable reason among these groups is their own
+Donor Need. Interestingly, results from two additional questions about material well-being
+reveal that dictators who explain their Low gifts in terms of Donor Need are not, in fact, any
+worse off materially than more generous dictators who refer to Equity or Recipient Need,
+suggesting many less generous dictators invoke norms in a self-serving way. 16
+
+4.2.
+
+Affective motivation
+Figure 2 summarizes the results on changes in short run affect (ΔSRA), whereby the
+
+height of the bars indicates mean values. For each treatment, dictators are bifurcated into those
+whose gifts are below the mean, or Low, and those whose gifts are above this, or High (the
+complete results and tests appear in Table C1 of the Appendix). Although some individual
+subjects experienced negative ΔSRAs (indeed, actual scores range fairly widely from –7 to +8),
+note that the mean ΔSRA for every group is nonnegative, i.e., on average, dictators in all cases
+reported feeling better after the payment and allocation phase. I focus, therefore, on differences
+in mean ΔSRAs between comparison groups; nevertheless, the term “is happier” is used as
+shorthand for “has a higher ΔSRA.” Of course, ΔSRA is subject to measurement error, since it is a
+discrete approximation to an underlying latent variable and involves differencing. Although these
+16
+
+Specifically, the two material well-being questions asked about total subject Expenditures in dollars during the
+current school year, and gross Parents’ (or guardians’) Income in the previous year estimated to within $25,000 by
+choosing one of seven categories (the highest was $150,000 or more). In the Pooled Charity treatments, less
+generous dictators who appeal to their own need report mean Expenditures of $28,200 and mean Parents’ Income of
+around $78,000, whereas these numbers for more generous dictators who refer to recipient need are $28,440 and
+around $85,000, respectively, which represent insignificant differences (P=.96 and P=.65, respectively). In the
+Standard + Subsidy treatments, the less generous dictators who argue for donor need are actually better off
+materially than the more generous dictators who explain themselves based on equity. The respective mean
+Expenditures and Parents’ Income of the former are $32,840 and about $100,000 and of the latter are $32,390 and
+about $75,000, although only the latter difference even approaches weak significance (P=.89 and P=.12).
+
+27
+
+facts should not cause bias, they do increase standard errors, a fact that makes statistical
+significance less likely but, when found, more compelling. The color contrast between bars in
+Figure 2 denotes levels of significance of differences in mean ΔSRA between Low and High
+groups within that treatment, viz., black/white denotes p<.05, dark/light p<.10 and grey p≥.10.
+Asterisks denote significant differences versus the Control, viz., **p<.05 and *p<.10. 17
+2.50
+
+2.41
+
+2.00
+
+2.00
+
+1.87
+
+Mean ΔSRAs
+
+1.74
+
+1.50
+1.24
+1.06
+
+1.00
+
+1.00
+
+0.80*
+0.68*
+
+0.50
+
+0.38
+0.20**
+
+0.00
+Low High
+Standard
+
+Low High
+Subsidy
+
+Low High
+Charity - All
+
+Low High
+Low High
+Control
+Charity - к=1 Charity - к=4
+
+FIGURE 2.–Mean ΔSRAs by Treatment and Gift Size. Low refers to dictators who gave less than the mean gift in
+that treatment and High those who gave more than the respective mean. Bar colors denote the level of
+significance of ΔSRA between Low and High within each treatment, whereby black/white = p<.05, dark/light =
+.05≤p<.10, and same color = p>.10. Asterisks indicate levels of significance versus the ΔSRA in the Control,
+whereby **p<.05 and *p<.10. All results are from one-tail t-tests that follow from H3.
+
+For both the Standard and Subsidy treatments, the mean ΔSRA of dictators who gave
+High gifts is less than that of those who gave Low gifts, within each respective treatment, at the
+5% level of significance. For the Charity treatment the reverse is the case, although this is only
+significant at the 10% level. Nevertheless, clearer distinctions emerge if one separates those
+dictators who gave to Childreach in the matching grant version (i.e., those whose gifts were
+increased by the matching grant multiplier, κ=4) and all others in the Charity treatment (for
+whom κ=1). For the κ=1 dictators, the ΔSRA of the more generous dictators exceeds that of the
+less generous ones at conventional levels of significance. For the κ=4 dictators, however, this
+does not come close to significance (p=.38). The ΔSRA of the “happier” dictators (i.e., Low in
+Standard and Subsidy and High in Charity) does not significantly exceed that of the Control
+group. The ΔSRA of the Control, however, does exceed that of some of the less happy dictators
+in the treatments, i.e., for the High Givers in the Subsidy treatment (p<.01) and marginally for
+Since ΔSRA is an ordinal variable, I also employed a more complicated categorical data analysis technique and
+came to the same conclusions, so I report only the more easily explained difference in means tests here.
+
+17
+
+28
+
+the Low Givers in the Charity - All treatment (p<.06).
+Regressions of ΔSRA on gifts substantiate the above conclusions. Table 8 presents the
+results of OLS regressions of ΔSRA on gifts in dollars. 18 The unfavorable effect of giving on
+ΔSRA in the Standard and Subsidy treatments is confirmed by the negative slope coefficient on
+gifts in col. 2 (using the Subsidy Subset, this coefficient is even steeper, –.31, and more
+significant). The slope using all dictators in the Charity treatment is positive but not significant at
+conventional levels. Splitting this treatment as previously, the slope is marginally significant
+(P=.07) for subjects where κ=1 and almost flat and insignificant for κ=4. 19
+TABLE 8
+OLS REGRESSIONS OF ΔSRA ON GIFT
+Treatment
+Standard
+Subsidy
+Charity – All
+κ=1
+κ=4
+
+α
+(1)
+
+Gift(β)
+(2)
+
+R²
+(3)
+
+N
+(4)
+
+2.50**
+(0.41)
+1.35**
+(0.30)
+0.37
+(0.60)
+0.44
+(0.57)
+0.44
+(1.76)
+
+–0.26**
+(0.11)
+–0.28**
+(0.10)
+0.13
+(0.09)
+0.15*
+(0.08)
+0.04
+(0.30)
+
+0.10
+
+47
+
+0.12
+
+58
+
+0.05
+
+47
+
+0.10
+
+34
+
+0.00
+
+13
+
+NOTE.– */** denotes significance at the 10/5-percent level. Standard errors are reported in parentheses.
+
+These results mostly contradict the claims of the Warm Glow Hypothesis (H2) of
+unconditional altruism. The first claim is that more generous dictators should experience more
+favorable ΔSRA than less generous ones in each of the respective treatments. But generosity has
+an unfavorable effect on ΔSRA in the Standard and Subsidy treatments and a favorable effect
+only in the Charity treatment. The second claim that more generous dictators in the treatments
+should have higher ΔSRAs than subjects in the Control is also not borne out. Even if we relax H2
+and allow that subjects self-select into their “happiest” generosity level, the Control should
+include both types, i.e., those who are happier giving a Low gift and those who are happier
+giving a High gift, and this constraint on giving by the latter group in the Control should cause
+
+Since ΔSRA is ordinal, I also ran ordered logit regressions and reached the same results in terms of signs and
+significance. Thus, Table 8 reports only the OLS regression results, since they are easier to explain and interpret.
+19
+Although obscure charities were chosen in light of the familiarity effect, an astute reader noted that subject
+unfamiliarity might reduce the effect of giving on ΔSRA in the charity treatment compared to well-known charities.
+18
+
+29
+
+these subjects to be less happy, on average, than at least some groups in the treatments. But the
+mean ΔSRA in the Control (1.87) is not significantly below the overall means in any of the
+treatments or the means of any of their subgroups (indeed, it is significantly above that for some
+subgroups, as reported in Figure 2).
+6
+
+4
+
+1
+
+3
+
+1
+
+2
+
+7
+
+1
+
+6
+
+-1
+
+1
+
+2
+
+2
+
+4
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+6
+3
+
+1
+4
+
+3
+5
+
+6
+
+7
+
+8
+
+9
+
+4
+
+4
+
+4
+
+1
+
+3
+
+3
+
+1
+
+2
+
+4
+
+1
+
+3
+
+10
+
+11
+
+0
+-1
+
+1
+
+1
+
+1
+
+-1
+
+5
+
+-1
+-2
+
+1
+
+-3
+
+2
+
+1
+
+2
+
+1
+
+Δ SRA
+
+2
+
+ΔSRA
+
+5
+
+1
+
+4
+
+2
+
+1
+
+1
+
+1
+
+0
+
+1
+
+2
+
+2
+
+1
+
+1
+
+3
+
+3
+
+1
+
+1
+
+1
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+1
+
+1
+
+1
+
+2
+
+-2
+
+1
+
+Gift ($ )
+1
+
+-4
+
+-5
+
+-3
+
+b
+
+Gift ($)
+
+a
+6
+
+1
+
+5
+
+1
+
+6
+
+4
+
+1
+4
+
+1
+
+2
+
+1
+
+3
+
+1
+
+3
+
+3
+
+2
+
+1
+
+ΔSR A
+
+1
+
+1
+
+1
+
+1
+
+2
+
+1
+
+2
+
+2
+
+1
+
+Δ SRA
+
+0
+
+1
+0
+
+2
+
+1
+4
+
+6
+
+1
+
+8
+
+10
+
+12
+
+2
+
+0
+
+-2
+
+-1
+
+1
+
+1
+
+1
+
+3
+
+3
+
+5
+
+1
+
+2
+7
+
+9
+
+11
+
+13
+
+15
+
+1
+
+-1
+-4
+
+3
+
+1
+
+2
+
+1
+
+-2
+
+1
+
+1
+
+-6
+
+-3
+
+1
+
+Gift ($ )
+-8
+
+-4
+
+Gifts ($)
+
+d
+
+c
+
+FIGURE 3.–Regressions of short run change in affect (ΔSRA) on gifts. Overlapping observations are indicated by
+numbers and OLS regressions by dark lines. a, Subsidy sessions. b, Standard sessions. c, Charity κ=4 sessions–
+These include all dictators who gave to Childreach under the matching grant version. d, Charity κ=1 sessions–These
+include all Charity dictators except those who gave to Childreach under the matching grant version.
+
+The Mixed Feelings Hypothesis (H3) of conditional altruism states that the more
+favorable ΔSRA in each condition varies with φ but that ΔSRA will not exceed that of the
+Control group. Indeed, we find that would-be dictators in the Control are happier and that their
+mood gain is not significantly exceeded by that of any sub-group. The pattern of effects across
+treatments is also completely consistent with H3. Figure 3 represents the plots of ΔSRA on gifts
+with fitted lines for the OLS regressions summarized in Table 8. In the Subsidy treatment, the
+norm is lowest, so generosity is least beneficial in terms of ΔSRA. This is illustrated in Figure 3a,
+30
+
+the regression with the most negative slope at –0.28 (and –0.31 for the Subsidy subset). In the
+Standard treatment, the norm is slightly higher at $5, so the regression for this treatment,
+illustrated in Figure 3b, has a slightly less negative slope of –0.26. The norm in the Charity
+treatment is greatest, and the effect of giving on ΔSRA is most favorable in this treatment.
+Specifically, it follows from Proposition 4 that the norm depends on whether the dictator chose
+to donate with a matching grant. For the Charity κ = 4 in Figure 3c, theory predicts conditions
+under which giving is lower than without a matching grant, but it does not specify a value for φ
+in this case. Nevertheless, with an average gift of $5.43 in this version, however, one can deduce
+that the norm is greater than in the Standard case (with its mean gift of $4.31), and now the fitted
+line essentially flattens out with a slope of 0.04. Finally, in the Charity versions without the
+matching grant, the norm is highest at $10, and the slope of the regression turns positive at 0.15.
+All results on ΔSRA, then, are consistent with the Mixed Feelings Hypothesis.
+5. Conclusion
+This study provides new evidence and new theoretical perspectives on giving that build
+on important developments in this literature. Warm glow does not alone motivate giving. Greater
+generosity toward charities than toward fellow students is not, in this case, due to greater
+familiarity with the former. If presented with a mixture of funding mechanisms, potential donors
+participate at a higher rate in a matching grant charity but actually decrease their average
+donations. The framework most consistent with the evidence assumes that giving depends on
+context dependent norms, here equity and need. Generosity can create better or worse feelings:
+compliance with the norm creates better feelings, but no better than those of people who can
+avoid the moral obligation altogether. These findings corroborate Adam Smith’s two-sided
+concept of moral action, viz., the feelings that motivate it and the norms that relate to the effects
+it aims to produce. Moreover, they underscore the importance of improving our understanding of
+the relationship of norms to context. This suggests further investigations into the connections
+between motives and real world giving, including efforts to create feelings of duty (e.g.,
+emphasizing social responsibilities and the offsetting good feelings of giving), to target the
+appropriate norm (e.g., inequity of inferior educational opportunities of one group, or servicing
+basic needs), and to weigh the individual benefits of employing matching grants against possible
+negative externalities. Additional norms to explore in future research include efficiency (e.g., a
+concern for the percentage of revenue that goes to programs in the field), and reciprocity (e.g.,
+suggested by small gifts charities often include with solicitations).
+31
+
+References
+Abrams, B.A., and Schmitz, M.A. (1978). "The Crowding Out Effect of Government Transfers on Private
+Charitable Contributions," Public Choice 33, 29-39.
+Alpizar, Francisco, Carlsson, Fredrik and Johansson-Stenman, Olof (2008). "Does Context Matter More
+for Hypothetical Than for Actual Contributions? Evidence from a Natural Field Experiment,"
+Experimental Economics, 11(3), September, 299-314.
+Andreoni, James (1989). "Giving with Impure Altruism: Applications to Charity and Ricardian
+Equivalence," Journal of Political Economy, 97(6), 1447-1458.
+---------- (1990). "Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow Giving,"
+Economic Journal, June 1990, 100, 464-477.
+---------- (1993). "An Experimental Test of the Public Goods Crowding-Out Hypothesis," American
+Economic Review, 83(5), 1317-1327.
+---------- (1995). "Cooperation in Public-Goods Experiments: Kindness or Confusion?" American
+Economic Review, 85(4), 891-904.
+---------- (2006). "Philanthropy," in the Handbook of the Economics of Giving, Altruism and Reciprocity,
+edited by Kolm, S-C., and Mercier, J.M., Amsterdam: Elsevier/North Holland, 1201-1269.
+---------- and Bernheim, B. Douglas (2009). "Social Image and the 50-50 Norm: A Theoretical and
+Experimental Analysis of Audience Effects," Econometrica, 77(5), September, 1607-1636.
+----------, and Payne, A. Abigail (2003). "Do Government Grants to Private Charities Crowd Out Giving
+or Fund-raising?" American Economic Review, 93(3), 792-812.
+Batson, C. Daniel (1987)."Prosocial Motivation: Is It Ever Truly Altruistic?" Advances in Experimental
+and Social Psychology, 20, 65-122.
+---------- (1997a). "Self-Other Merging and the Empathy-Altruism Hypothesis: Reply to Neuberg et al.
+(1997)," Journal of Personality and Social Psychology, 73(3), 517-522.
+----------, et al. (1988). "Five Studies Testing Two New Egoistic Alternatives to the Empathy-Altruism
+Hypothesis," Journal of Personality and Social Psychology, 55(1), 52-77.
+----------, et al. (1997b). "Is Empathy-Induced Helping Due to Self-Other Merging?" Journal of
+Personality and Social Psychology, 73(3), 495-509.
+Becker, Gary S. (1974). "A Theory of Social Interactions," Journal of Political Economy, 82,
+November/December, 1063-1093.
+Ben-Shakhar, Gershon, Bornstein, Gary, Hopfensitz, Astrid and van Winden, Frans (2007). "Reciprocity
+and Emotions in Bargaining Using Physiological and Self-Report Measures," Journal of Economic
+Psychology, 28(3), June, 314-323.
+Benz, Matthias, and Meier, Stephan (2008). "Do People Behave in Experiments as in the Field? –
+Evidence from Donations," Experimental Economics, 11 (3), September, 268-281.
+Bergstrom, Theodore C., Blume, Lawrence E., and Varian, Hal R. (1986). "On the Private Provision of
+Public Goods," American Economic Review, 29, 789-793.
+Bolton, Gary E. and Katok, Elena (1998). "An Experimental Test of the Crowding Out Hypothesis: The
+Nature of Beneficent Behavior," Journal of Economic Behavior and Organization, 37(3), 315-331.
+----------, Katok, Elena, and Zwick, Rami (1998). "Dictator Game Giving: Rules of Fairness versus Acts
+of Kindness," International Journal of Game Theory, 27(2), 269-299.
+----------, and Ockenfels, Axel (2000). "ERC: A Theory of Equity, Reciprocity, and Competition,"
+American Economic Review, 90(1), March, 166-193.
+Bosman, Ronald and van Winden, Frans (2002). "Emotional Hazard in a Power to Take Experiment," The
+Economic Journal, 112(476), January, 147-169.
+Brekke, Kjell Arne, Kipperberg, Gorm, and Nyborg, Karine (2007). "Reluctant Recyclers: Social
+Interaction in Responsibility Ascription," Department of Economics, University of Oslo; The Frisch
+Centre for Economic Research.
+----------, Kverndokk, Snorre, and Nyborg, Karine (2003). "An Economic Model of Moral Motivation,"
+Journal of Public Economics, vol. 87, nos. 9-10 (September), pp. 1967-1983.
+
+32
+
+Broberg, Tomas, Ellingsen, Tore, and Johannesson, Magnus (2007)."Is Generosity Involuntary?"
+Eocnomics Letters, 94, 32-37.
+Buchanan, Laurie, Eckel, Catherine C. and Grossman, Philip J. (2000). "To Give or not to Give: Effects
+of Altruism and Recognition on Philanthropic Gifts," mimeo.
+Carpenter, Jeffrey, Connolly, Cristina and Myers, Caitlin Knowles (2008). "Altruistic Behavior in a
+Representative Dictator Experiment," Experimental Economics, 11(3), September, 282-298.
+----------, Holmes, Jessica and Matthews, Peter Hans (2008). "Charity Auctions: A Field Experiment," The
+Economic Journal, 118(525), January, 92-113.
+Charness, Gary and Grosskopf, Brit (2001). "Relative Payoffs and Happiness: An Experimental Study,"
+Journal of Economic Behavior and Organization, 45(3), 301-328.
+----------, and Rabin, Matthew (2002). "Understanding Social Preferences with Simple Tests." Quarterly
+Journal of Economics 117:3, 817-869.
+Cialdini, Robert B., et al. (1997). "Reinterpreting the Empathy-Altruism Relationship: When One Into
+One Equals Oneness," Journal of Personality and Social Psychology, 73(3), 481-494.
+Crumpler, Heidi and Grossman, Philip J. (2008). "An Experimental Test of Warm Glow Giving," Journal
+of Public Economics, 92(5-6), June, 1011-1021.
+Dana, Jason, Weber, Roberto A., and Kuang, Jason Xi (2007). "Exploiting Moral Wiggle Room:
+Experiments Demonstrating an Illusory Preference for Fairness," Economic Theory, 33, 67-80.
+Di Tella, Rafael, and MacCulloch, Robert (2006). "Some Uses of Happiness Data in Economics," Journal
+of Economic Perspectives, 20(1), 25-46.
+Diener, Ed, Suh, Eunkook M., Lucas, Richard E. and Smith, Heidi L. (1999). "Subjective Well-Being:
+Three Decades of Progress," Psychological Bulletin, 125(2), March, 276-302.
+Dufwenberg, Martin and Kirchsteiger, Georg (2004). "A Theory of Sequential Reciprocity," Games and
+Economic Behavior, 47(2), May, 268-298.
+Eckel, Catherine C. and Grossman, Philip J. (1996). "Altruism in Anonymous Dictator Games," Games
+and Economic Behavior, 16, 181-191.
+---------- (2008). "Subsidizing Charitable Contributions: A Natural Field Experiment Comparing
+Matching and Rebate Subsidies," Experimental Economics, 11 (3), September, 234-252.
+---------- and Johnston, Rachel M. (2005). "An Experimental Test of the Crowding Out Hypothesis,"
+Journal of Public Economics, 89 (8), August, 1543-1560.
+Ellingsen, Tore and Johannesson, Magnus (2008). "Anticipated Verbal Feedback Induces Altruistic
+Behavior," Evolution and Human Behavior, 29, 100-105.
+Fehr, Ernst and Camerer, Colin F. (2007). "Social Neuroeconomics: The Neural Circuitry of Social
+Preferences," TRENDS in Cognitive Sciences, 11(10), October, 419-427.
+----------, and Schmidt, Klaus M. (1999). "A Theory of Fairness, Competition and Cooperation,"
+Quarterly Journal of Economics, 114(3), 817-868.
+Fong, Christina (2007). "Evidence from an Experiment on Charity to Welfare Recipients: Reciprocity,
+Altruism, and the Empathic Responsiveness Hypothesis," The Economic Journal, vol. 117, no. 522
+(July), pp. 1008-1024.
+Frey, Bruno and Meier, Stephan (2004). "Social Comparisons and Pro-social Behavior: Testing
+‘Conditional Cooperation’ in a Field Experiment," American Economic Review, vol. 94, no. 5
+(December), pp. 1717-1722.
+----------, and Stutzer, Alois (2002a). Happiness & Economics, Princeton: Princeton University Press.
+----------, and Stutzer, Alois (2002b). "What Can Economists Learn from Happiness Research?" Journal
+of Economic Literature, 40(2), 402-435.
+Gächter, Simon and Fehr, Ernst (1999). "Collective Action as a Social Exchange," Journal of Economic
+Behavior and Organization, 39(4), 341-369.
+Goeree, Jacob K., Holt, Charles A. and Laury, Susan K. (2002). "Private Costs and Public Benefits:
+Unraveling the Effects of Altruism and Noisy Behavior," Journal of Public Economics, 83, 255-276.
+Graham, Liam and Oswald, Andrew J. (2008). "Hedonic Capital, Adaptation and Resilience," University
+College London and University of Warwick: Department of Economics, 26/February.
+
+33
+
+Harbaugh, William (1998). "What Do Donations Buy?: A Model of Philanthropy Based on Prestige and
+Warm Glow," Journal of Public Economics, 67, 269-284.
+----------, Mayr, Ulrich, and Burghart, Daniel R. (2007). "Neural Responses to Taxation and Voluntary
+Giving Reveal Motives for Charitable Donations," Science, 316 (15/June), 1622-1625.
+Holm, Håkan, and Engseld, Peter (2005). "Choosing Bargaining Partners: An Experimental Study on the
+Impact of Information on Income, Status and Gender," Experimental Economics, 8(3), 183-216.
+Karlan, Dean and List, John A. (2007). "Does Price Matter in Charitable Giving? Evidence from a LargeScale Natural Field Experiment," The American Economic Review, 97(5), December, 1774-1793.
+Kingma, Bruce (1989). "An Accurate Measure of the Crowd-Out Effect, Income Effect, and Price Effect
+for Charitable Contributions," Journal of Political Economy, 97, 1197-1207.
+Kirchsteiger, Georg, Rigotti, Luca, and Rustichini, Aldo (2006). "Your Morals Might Be Your Moods,"
+Journal of Economic Behavior and Organization, 59(2), 155-172.
+Konow, James (2000a). "Fair Shares: Accountability and Cognitive Dissonance in Allocation Decisions,"
+American Economic Review, vol. 90, no. 4 (September), pp. 1072-1091.
+---------- (2000b). "Conditional Altruism: Theory and Evidence," manuscript, Loyola Marymount
+University.
+---------- (2003). "Which is the Fairest One of All?: A Positive Analysis of Justice Theories," Journal of
+Economic Literature, vol. 41, no. 4 (December), pp. 1186-1237.
+----------, and Earley, Joseph (2008). "The Hedonistic Paradox: Is Homo Economicus Happier?" Journal
+of Public Economics, vol. 92, nos. 1-2 (February), pp. 1-33.
+Korenok, Oleg, Millner, Edward L. and Razzolini, Laura (2008). "Experimental Evidence on Inequality
+Aversion: Dictators Give to Help the Less Fortunate," Virginia Commonwealth University, 28/August.
+Levine, David K. (1998). "Modeling Altruism and Spitefulness in Experiments," Review of Economic
+Dynamics, 1(3), July, 593-622.
+Levitt, Steven D. and List, John A. (2007). "What Do Laboratory Experiments Measuring Social
+Preferences Reveal About the Real World?" Journal of Economic Perspectives, 21(2), Spring, 153174.
+List, John A. (2007), "On the Interpretation of Giving in Dictator Games," Journal of Political Economy,
+115(3), June, 482-493.
+Loewenstein, George and Small, Deborah A. (2007). "The Scarecrow and the Tin Man: The Vicissitudes
+of Human Sympathy and Caring," Review of General Psychology, 11(2), 1-15.
+McBride, Michael (2008). "Money, Happiness, and Aspirations: An Experimental Study," University of
+California, Irvine: Department of Economics, 23/July.
+McGranahan, Leslie Moscow (2000). "Charity and the Bequest Motive: Evidence from SeventeenthCentury Wills," Journal of Political Economy, 108(6), December, 1270-1291.
+Neuberg, Steven L., et al. (1997). "Does Empathy Lead to Anything More Than Superficial Helping?
+Comment on Batson et al. (1997)," Journal of Personality and Social Psychology, 73(3), 510-516.
+Novemsky, Nathan and Kahneman, Daniel (2005). "The Boundaries of Loss Aversion," Journal of
+Marketing Research, 42(2), 119-128.
+Palfrey, Thomas R., and Prisbrey, Jeffrey E. (1996). "Altruism, Reputation and Noise in Linear Public
+Goods Experiments," Journal of Public Economics, 61(3), 409-427.
+---------- (1997). "Anomalous Behavior in Public Goods Experiments: How Much and Why?" American
+Economic Review, 87(5), 829-847.
+Payne, A. Abigail (1998). "Does the Government Crowd Out Private Donations?: New Evidence from a
+Sample of Nonprofit Firms," Journal of Public Economics, 69(3), 323-345.
+Rabin, Matthew (1993). "Incorporating Fairness into Game Theory and Economics," American Economic
+Review, 83, 1281-1302.
+---------- (1994). "Cognitive Dissonance and Social Change," Journal of Economic Behavior and
+Organization, 23, 177-194.
+Rege, Mari and Telle, Kjetil (2004). "The Impact of Social Approval and Framing on Cooperation in
+Public Good Situations," Journal of Public Economics, 88(7-8), 1625-1644.
+Ribar, David and Wilhelm, Mark O. (2002). “Altruistic and Joy-of-Giving Motivations in Charitable
+
+34
+
+Behavior,” Journal of Political Economy, 110(2), 425-457.
+Smith, Adam (1759 [1809]), The Theory of Moral Sentiments, Glasgow: R. Chapman.
+Smith, Tom W. (1979). "Happiness: Time Trends, Seasonal Variations, Intersurvey Differences, and
+Other Mysteries," Social Psychology Quarterly, 42(1), 18-30.
+Spichtig, Mathias and Traxler, Christian (2007). "Social Norms and the Evolution of Conditional
+Cooperation," University of Amsterdam; University of Munich: Institute for Biodiversity and
+Ecosystem Dynamics (IBED); Seminar for Economic Policy, 15/March.
+Thaler, Richard H. (1980). "Toward a Positive Theory of Consumer Choice," Journal of Economic
+Behavior and Organization, 1, 39-60.
+Vesterlund, Lise (2003). "The Informational Value of Sequential Fundraising," Journal of Public
+Economics, 87(3-4), March, 627-657.
+Warr, Peter G. (1983). "The Private Provision of a Public Good Is Independent of the Distribution of
+Income" Economics Letters, 13, 207-211.
+Xiao, Erte and Houser, Daniel (2007). "Emotion Expression and Fairness in Economic Exchange,"
+University of Pennsylvania; George Mason University: Philosophy, Politics and Economics Program
+and Wharton School; Interdisciplinary Center for Economic Science and Department of Economics,
+November.
+Zizzo, Daniel John, and Oswald, Andrew (2001). “Are People Willing to Pay to Reduce Others'
+Incomes?,” Annales d'Economie et de Statistique v0, n63-64, July-Dec., 39-65.
+
+APPENDIX A. PROOFS OF PROPOSITIONS
+PROOF OF PROPOSITION 1:
+Substituting the constraint into the utility function, we solve the first order condition with respect
+to x
+dU
+= −u ′( E − x) + f ′(e + x) + g ′( x) = 0 .
+dx
+Applying the implicit function theorem to solve for x = x * (e) , we substitute this into the first
+order condition and differentiate with respect to e
+u ′′ci + f ′c′ i + f ′′ + g ′′ci = 0 .
+Rearranging, we arrive at the following expression
+− f ′′
+< 0.
+ci =
+u ′′ + f ′′ + g ′′
+− f ′′
+For pure altruism, g = 0 and c p =
+, and for warm glow, f = 0 and cw = 0. ■
+u ′′ + f ′′
+
+PROOF OF PROPOSITION 2:
+The utility function of an impurely altruistic dictator in the charity experiment is
+u ( X ) + f (κx) + g ( x) . Substituting the budget constraint X + x = E , we solve the first order
+condition with respect to x
+dU
+= −u ′( E − x) + κf ′(κx) + g ′( x) = 0 .
+dx
+Solving for x = x * (κ ) , substituting and differentiating with respect to κ yields
+′ i + g ′′mi = 0 .
+u ′′mi + f ′ + κ 2 f ′m
+Rearranging, the per dollar effect of changing the matching grant multiplier for an impurely
+altruistic dictator is
+35
+
+− f ′′
+> 0.
+u ′′ + κ 2 f ′′ + g ′′
+− f ′′
+, and for warm glow, f = 0 and mw = 0 . ■
+For pure altruism, g = 0 and m p =
+u ′′ + κ 2 f ′′
+mi =
+
+PROOF OF PROPOSITION 3:
+Substituting the constraints into the utility function, the first order condition with respect to x is
+dU
+= −u ′( E − x) − f ′( x − 12 E + 12 e) + g ′( x) = 0 .
+dx
+Solving x * (e) , substituting, differentiating and rearranging, we find
+1
+f ′′
+1
+< 0. ■
+– < cs =
+2
+2 u ′′ − f ′′ + g ′′
+PROOF OF PROPOSITION 4:
+Substituting the constraints into the utility function, and differentiating with respect to x gives
+dU
+= −u ′( E − x) − f ′( x − φ ) + g ′( x) = 0 .
+dx
+Solving x * (φ ) , substituting and differentiating with respect to φ yields
+dx *
+dx *
+dx *
+u ′′
+− f ′′
++ f ′′ + g ′′
+= 0.
+dφ
+dφ
+dφ
+Rearranging, one finds
+dx *
+− f ′′
+0<
+<1■
+=
+dφ
+u ′′ − f ′′ + g ′′
+PROOF OF PROPOSITION 5:
+With the matching grant, a gift of x dollars generates κ x dollars of the benefit to the recipient,
+such that the second term becomes f (κx − φ ) . The first order condition is now
+dU
+= −u ′( E − x) − κf ′(κx − φ ) + g ′( x) = 0 .
+dx
+Substituting x * (κ ) , differentiating and rearranging produces
+f ′ + κf ′′x ∗
+,
+m=
+u ′′ − κ 2 f ′′ + g ′′
+the sign of which depends on the sign of f ′ . If, however, the optimal gift in the normal case, x n∗ ,
+is no less φ
+
+∗
+
+′
+
+κ , then, evaluated at x n , f ≥ 0 and m<0. ■
+
+The following appendices can be found in the online version at doi:XXXXXXX:
+Appendix B. Summary and Analysis of Bolton and Katok (1998) Tax Experiment
+Appendix C. Detailed Analysis of ΔSRA
+Appendix D. Composite Experimental Protocol
+
+36
+
+

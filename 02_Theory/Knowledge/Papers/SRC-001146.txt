@@ -1,0 +1,3061 @@
+INSIGHTS   |   P E R S P E C T I V E S
+
+What  can  we  expect  of  MINFLUX,  and 
+more  broadly,  superresolution  and  single-
+molecule imaging? Because MINFLUX can 
+now reach a resolution less than 5 nm, sin-
+gle-molecule fluorescence resonance-energy 
+transfer, which can determine distances of 
+up to ~7 nm at 0.3-nm resolution with only 
+about  100  photons  (11),  may  be  combined 
+to  obtain  dynamic  structural  information 
+continuously covering from the length scale 
+of  single  amino  acids  to  the  cellular  scale 
+or larger. A considerable challenge would be 
+to extend the molecular resolution to three-
+dimensional imaging, which most certainly 
+interferometric  methods 
+would  require 
+(12).  Moving  toward  multicolor  imaging  is 
+likely  to  be  more  straightforward  because 
+the  precision  in  position  determination  is 
+largely  wavelength-independent  in  MIN-
+FLUX and because more fluorescent report-
+ers become eligible because of the reduced 
+photon budget. 
+
+“The minimal photon flux…
+is particularly advantageous 
+for single-molecule tracking 
+experiments...”
+
+Ultimately,  the  true  spatial  resolution 
+of an image is going to be limited by how 
+densely  the  sample  can  be  labeled,  How-
+ever,  the greater resolving power achieved 
+at  molecular  distances  that  has  been  en-
+abled  by  MINFLUX  is  likely  to  stimulate 
+further  developments  in  probe  and  label-
+ing  technologies.  MINFLUX  also  requires 
+more  hardware  engineering  as  compared 
+with  other  localization-based  nanoscopy. 
+commercialization, 
+Nevertheless, 
+pending  further  developments  necessary 
+for cellular imaging, may make it available 
+to biologists in the not-too-distant future.  j
+
+rapid 
+
+REFERENCES
+
+1.  C. Eggeling, K. I. Willig, S. J. Sahl, S. W. Hell, Q. Rev. Biophys. 
+
+48, 178 (2015).
+
+  2.  F. Balzarotti et al., Science 355, 606 (2017).
+  3.  A. Yildiz et al., Science 300, 2061 (2003).
+  4.  E. Betzig et al., Science 313, 1642 (2006).
+  5.  M. J. Rust, M. Bates, X. Zhuang, Nat. Methods 3, 793 
+
+(2006).
+
+  6.  T. A. Klar, S. Jakobs, M. Dyba, A. Egner, S. W. Hell, Proc. Natl. 
+
+Acad. Sci. U.S.A. 97, 8206 (2000).
+
+  7.  M. G. Gustafsson, J. Microsc. 198, 82 (2000).
+  8.  M. Dai, R. Jungmann, P. Yin, Nat. Nanotechnol. 11, 798 
+
+(2016).
+
+  9.  S. W. Hell, J. Wichmann, Opt. Lett. 19, 780 (1994).
+  10.  E. Betzig, Opt. Lett. 20, 237 (1995).
+  11.  T. Ha et al., Proc. Natl. Acad. Sci. U.S.A. 93, 6264 (1996).
+  12.  G. Shtengel et al., Proc. Natl. Acad.Sci. U.S.A. 106, 3125 
+
+(2009).
+
+10.1126/science.aam5409
+
+STATISTICS
+
+Measurement error and 
+the replication crisis
+The assumption that measurement error always
+reduces effect sizes is false
+
+7
+1
+0
+2
+
+,
+9
+
+y
+r
+a
+u
+r
+b
+e
+F
+n
+o
+
+/
+g
+r
+o
+.
+g
+a
+m
+e
+c
+n
+e
+i
+c
+s
+.
+e
+c
+n
+e
+i
+c
+s
+/
+/
+:
+p
+t
+t
+h
+m
+o
+r
+f
+
+d
+e
+d
+a
+o
+l
+n
+w
+o
+D
+
+By Eric Loken1 and Andrew Gelman2
+
+M easurement  error  adds  noise  to 
+
+predictions,  increases  uncertainty 
+in parameter estimates, and makes 
+it  more  difficult  to  discover  new 
+phenomena  or 
+to  distinguish 
+among competing theories. A com-
+mon view is that any study finding an effect 
+under  noisy  conditions  provides  evidence 
+that  the  underlying  effect  is  particularly 
+strong  and  robust.  Yet,  statistical  signifi-
+cance conveys very little information when 
+measurements  are  noisy.  In  noisy  research 
+settings, poor measurement can contribute 
+to exaggerated estimates of effect size. This 
+problem and related misunderstandings are 
+key components in a feedback loop that per-
+petuates the replication crisis in science.
+
+It seems intuitive that producing a result 
+under  challenging  circumstances  makes  it 
+all the more impressive. If you learned that 
+a  friend  had  run  a  mile  in  5  minutes,  you 
+would be respectful; if you learned she had 
+done  it  while  carrying  a  heavy  backpack, 
+you would be awed. The obvious inference 
+is  that  she  would  have  been  even  faster 
+without the backpack. But should the same 
+intuition  always  be  applied  to  research 
+findings?  Should  we  assume  that  if  statis-
+tical  significance  is  achieved  in  the  pres-
+ence of measurement error, the associated 
+effects  would  have  been  stronger  without 
+noise? We caution against the fallacy of as-
+suming that that which does not kill statis-
+tical significance makes it stronger.
+
+Measurement  error  can  be  defined  as 
+random  variation,  of  some  distributional 
+form,  that  produces  a  difference  between 
+observed and true values (1). Measurement 
+error  and  other  sources  of  uncontrolled 
+variation  in  scientific  research  therefore 
+add  noise.  The  latter  is  typically  an  at-
+tenuating  factor,  as  acknowledged  in  vari-
+ous  scientific  disciplines.  Spearman  (2) 
+famously derived a formula for the attenu-
+ation  of  observed  correlations  due  to  un-
+
+1Department of Educational Psychology, University of 
+Connecticut, Storrs, CT 06269-3815, USA. 2Department 
+of Statistics and Department of Political Science, 
+Columbia University, New York, NY 10027-6902, USA. 
+Email: gelman@stat.columbia.edu
+
+reliable  measurement.  In  epidemiology,  it 
+is textbook knowledge that nondifferential 
+misclassification tends to bias relative risk 
+estimates toward the null (3). According to 
+Hausman’s  “iron  law”  of  econometrics,  ef-
+fect  sizes  in  simple  regression  models  are 
+underestimated  when  the  predictors  con-
+tain error variance (4).
+
+It  is  understandable,  then,  that  many 
+researchers  have  the  intuition  that  if  they 
+manage  to  achieve  statistical  significance 
+under noisy conditions, the observed effect 
+would have been even larger in the absence 
+of  noise.  As  with  the  runner,  they  assume 
+that  without  the  burden—that  is,  uncon-
+trolled  variation—their  effects  would  have 
+been even larger (5−7). 
+
+The reasoning about the runner with the 
+backpack  fails  in  noisy  research  for  two 
+reasons. First, researchers typically have so 
+many “researcher degrees of freedom”—un-
+acknowledged choices in how they prepare, 
+analyze, and report their data—that statis-
+tical significance is easily found even in the 
+absence of underlying effects (8) and even 
+without  multiple  hypothesis  testing  by  re-
+searchers (9). In settings with uncontrolled 
+researcher  degrees  of  freedom,  the  attain-
+ment of statistical significance in the pres-
+ence of noise is not an impressive feat.
+
+The second, related issue is that in noisy 
+research  settings,  statistical  significance 
+provides very weak evidence for either the 
+sign or the magnitude of any underlying ef-
+fect.  Statistically  significant  estimates  are, 
+roughly speaking, at least two standard er-
+rors from zero. In a study with noisy mea-
+surements  and  small  or  moderate  sample 
+size, standard errors will be high and statis-
+tically  significant  estimates  will  therefore 
+be large, even if the underlying effects are 
+small.  This  is  known  as  the  statistical  sig-
+nificance filter and can be a severe upward 
+bias in the magnitude of effects; as one of 
+us has shown, reported estimates can be an 
+order-of-magnitude  larger  than  any  plau-
+sible underlying effects (10).
+
+In a low-noise setting, the theoretical re-
+sults of Hausman and others correctly show 
+that  measurement  error  will  attenuate  co-
+efficient estimates. But we can demonstrate 
+with a simple exercise that the opposite oc-
+
+584     10 FEBRUARY 2017 • VOL 355 ISSUE 6325
+
+sciencemag.org  SCIENCE
+
+Published by AAAS
+
+DA_0210Perspectives.indd   584
+
+2/8/17   11:10 AM
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+curs in the presence of high noise and se-
+lection on statistical significance.
+
+Suppose we measure x and y in a setting 
+where the underlying truth is that there is 
+a small effect of x on y. Imagine four condi-
+tions based on changes in two factors. First, 
+we might have either a high-powered study 
+(sample  size  N  =  3000)  or  a  low-powered 
+study (N = 50). Second, we might have mea-
+surements on x and y that are high quality, 
+or have some degree of additional measure-
+ment  error.  In  the  large-N  scenario,  add-
+ing measurement error will almost always 
+reduce  the  observed  correlation  between 
+x  and  y (see  the  figure,  left  panel).  But  in 
+the small-N setting, this will not hold; the 
+observed correlation can easily be larger in 
+the presence of measurement error (see the 
+figure, middle panel).
+
+Take these scenarios and now add selection 
+on  statistical  significance.  We  can  track  the 
+proportion of studies, as a function of sample 
+size, where the observed effect is larger than 
+the original error-free effect. For  the largest 
+samples, the observed effect is always smaller 
+than  the  original.  But  for  smaller N,  a  frac-
+tion of the observed effects exceeds the origi-
+nal.  If  we  were  to  condition  on  whether  or 
+not  the  observed  effect  was  statistically  sig-
+nificant, then the fraction is even larger (see 
+the figure, right panel).
+
+Our  concern  is  that  researchers  are 
+sometimes  tempted  to  use  the  “iron  law” 
+reasoning to defend or justify surprisingly 
+large  statistically  significant  effects  from 
+small studies. If it really were true that ef-
+fect  sizes  were  always  attenuated  by  mea-
+surement  error,  then  it  would  be  all  the 
+more  impressive  to  have  achieved  signifi-
+cance.  But to  acknowledge that  there  may 
+have been a substantial amount of uncon-
+
+trolled variation is to acknowledge that the 
+study contained less information than was 
+initially  thought.  If  researchers  foc us  on 
+getting  statistically  significant  estimates 
+of small effects, using noisy measurements 
+and small samples, then it is likely that the 
+additional  sources  of  variance  are  already 
+making the t test look strong. Measurement 
+error and selection bias thus can combine 
+to exacerbate the replication crisis.
+
+The situation becomes more complicated 
+in  problems  with  multiple  predictors,  or 
+with  nonindependent  errors.  Wacholder
+et  al.  (11)  discuss scenarios  beyond  simple 
+two-group  risk-exposure  studies  where 
+misclassification  can  lead  to  exaggerated 
+estimates. For the simpler setting, though, 
+they conclude that while “the estimate may 
+exceed  the  true  value…it  is  more  likely  to 
+fall  below  the  true  value.”  We  agree  with 
+Wacholder  et  al.  for  studies  in  which  ef-
+fects  and  sample  sizes  are  large.  But  for 
+noisier  studies,  especially  combined  with 
+selective  filtering  on  statistically  signifi-
+cant observed effects, we think that there is 
+a greater chance that the effects are exag-
+gerated rather than attenuated. Jurek et al. 
+have also provided evidence that individual 
+research  studies  can  be  biased  away  from 
+the null (12).
+
+A  key  point  for  practitioners  is  that  sur-
+prising results from small studies should not 
+be defended by saying that they would have 
+been  even  better  with  improved  measure-
+ment. Furthermore,  the  signal-to-noise ratio 
+cannot in general be estimated merely from 
+internal  evidence.  It  is  a  common  mistake 
+to take a t-ratio as a measure of strength of 
+evidence  and  conclude  that  just  because  an 
+estimate is statistically significant, the signal-
+to-noise level is  high. It is also a mistake to 
+
+assume  that  the  observed  effect  size  would 
+have been even larger if not for the burden 
+of measurement error. Intuitions that are ap-
+propriate  when  measurements  are  precise 
+are sometimes misapplied in noisy and more 
+probabilistic settings.
+
+The  consequences  for  scientific  replica-
+tion  are  obvious.  Many  published  effects 
+are overstated and future studies, powered 
+by  the  expectation  that  the  effects  can  be 
+replicated, might be destined to fail before 
+they  even  begin.  We  would  all  run  faster 
+without a backpack on our backs. But when 
+it  comes  to  surprising  research  findings 
+from small studies, measurement error (or 
+other uncontrolled variation) should not be 
+invoked  automatically  to  suggest  that  ef-
+fects are even larger.  j
+
+RE FERENCE S AND  NOTE S
+
+1.    S. Messick, Validity, ETS Research Report Series RR-87-40 
+
+(Educational Testing Service, Princeton, NJ, 1987).
+
+  2.    C. Spearman, Am. J. Psychol. 15, 72 (1904).
+  3.   K. J. Rothman, S. Greenland, T. L. Lash, Modern 
+
+Epidemiology (Kluwer, ed. 3, 2008).
+
+  4.    J. Hausman, J. Econ. Perspect. 15, 57 (2001).
+  5.    J. J. Heckman, Boston Rev. (1 September 2012); http://
+bostonreview.net/forum/promoting-social-mobility/
+final-response-aiding-life-cycle-james-heckman.
+
+  6.    J. K. Maner, J. Exp. Soc. Psychol. 66, 100 (2016).
+  7.    S. Goldin-Meadow, Assoc. for Psychol. Sci. Observer 
+
+(October 2016); www.psychologicalscience.org/observer/
+preregistration-replication-and-nonexperimental-studies.
+
+  8.    J. Simmons, L. Nelson, U. Simonsohn, Psychol. Sci. 22, 
+
+1359 (2011).
+
+  9.    A. Gelman, E. Loken, Am. Sci. 102, 460 (2014).
+  10.    A. Gelman, J. B. Carlin, Perspect. Psychol. Sci. 9, 641 (2014).
+  11.   S. Wacholder, P. Hartge, J. H. Lubin, M. Dosemeci, Occup. 
+
+Environ. Med. 52, 557 (1995).
+
+  12.   A. M. Jurek, S. Greenland, G. Maldonado, T. R. Church, Int. J. 
+
+Epidemiol. 34, 680 (2005).
+
+ACKNO WLEDGME NT S
+
+We thank the Office of Naval Research for grant 
+N00014-15-1-2541.
+
+10.1126/science.aal3618
+
+Distribution of statistically significant estimates in the presence of added error 
+To obtain the graphs, effect sizes from simulated studies were estimated in the “ideal” setting and after adding random error. For large-N studies, added error always reduces 
+the effect. For small N, the reverse can be true. Of statistically significant effects observed after error, a majority could be greater than in the “ideal” setting when N is small.
+
+7
+1
+0
+2
+
+,
+9
+
+y
+r
+a
+u
+r
+b
+e
+F
+n
+o
+
+/
+g
+r
+o
+.
+g
+a
+m
+e
+c
+n
+e
+i
+c
+s
+.
+e
+c
+n
+e
+i
+c
+s
+/
+/
+:
+p
+t
+t
+h
+m
+o
+r
+f
+
+d
+e
+d
+a
+o
+l
+n
+w
+o
+D
+
+Large sample size 
+
+Small sample size 
+
+0.20
+
+0.15
+
+0.10
+
+r
+o
+r
+r
+e
+t
+n
+e
+m
+e
+r
+u
+s
+a
+e
+m
+d
+e
+d
+d
+a
+h
+t
+i
+w
+e
+t
+a
+m
+
+i
+t
+s
+E
+
+0.05
+
+0.05
+
+I
+
+E
+C
+N
+E
+C
+S
+/
+N
+Ó
+L
+L
+U
+R
+G
+
+.
+
+G
+
+:
+
+I
+
+C
+H
+P
+A
+R
+G
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+r
+o
+r
+r
+e
+t
+n
+e
+m
+e
+r
+u
+s
+a
+e
+m
+d
+e
+d
+d
+a
+h
+t
+i
+w
+e
+t
+a
+m
+
+i
+t
+s
+E
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+–0.1
+
+–0.2
+
+–0.3
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0) (cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+(cid:0)
+
+0.10
+
+0.15
+
+0.20
+
+–0.2
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+r
+o
+r
+r
+e
+h
+t
+i
+w
+r
+e
+t
+a
+e
+r
+g
+s
+i
+
+e
+t
+a
+m
+
+i
+
+i
+t
+s
+e
+e
+r
+e
+h
+w
+s
+e
+d
+u
+t
+s
+f
+o
+t
+n
+e
+c
+r
+e
+P
+
+Efect of sample size
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0
+
+500
+
+1000
+
+1500 2000
+
+2500
+
+3000
+
+Estimate in “ideal” study
+
+Estimate in “ideal” study
+
+Sample size
+
+SCIENCE   sciencemag.org
+
+10 FEBR UAR Y 20 17 • V OL 355 ISSUE 6325     585
+
+Published by AAAS
+
+DA_0210Perspectives.indd   585
+
+2/8/17   11:10 AM
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Measurement error and the replication crisis
+Eric Loken and Andrew Gelman (February 9, 2017) 
+Science 
+
+ (6325), 584-585. [doi: 10.1126/science.aal3618]
+
+355
+
+Editor's Summary
+
+This copy is for your personal, non-commercial use only. 
+
+Article Tools
+
+Visit the online version of this article to access the personalization and
+article tools: 
+http://science.sciencemag.org/content/355/6325/584
+
+Permissions
+
+Obtain information about reproducing this article: 
+http://www.sciencemag.org/about/permissions.dtl
+
+7
+1
+0
+2
+
+,
+9
+
+y
+r
+a
+u
+r
+b
+e
+F
+n
+o
+
+/
+g
+r
+o
+.
+g
+a
+m
+e
+c
+n
+e
+i
+c
+s
+.
+e
+c
+n
+e
+i
+c
+s
+/
+/
+:
+p
+t
+t
+h
+m
+o
+r
+f
+
+d
+e
+d
+a
+o
+l
+n
+w
+o
+D
+
+(print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week
+
+Science 
+in December, by the American Association for the Advancement of Science, 1200 New York 
+Avenue NW, Washington, DC 20005. Copyright 2016 by the American Association for the
+Advancement of Science; all rights reserved. The title 
+
+ is a registered trademark of AAAS. 
+
+Science

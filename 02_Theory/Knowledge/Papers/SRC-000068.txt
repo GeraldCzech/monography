@@ -1,0 +1,8116 @@
+International Review on Public and Nonprofit Marketing
+https://doi.org/10.1007/s12208-020-00254-3
+
+O R I G I N A L A R T I C L E
+
+Charity donation intention via m-payment apps:
+donor-related, m-payment system-related, or charity
+brand-related factors, which one is overkill?
+
+Fatemeh Maleki 1
+
+& Seyed Mohsen Hosseini 2
+
+Received: 8 April 2020 / Accepted: 1 August 2020/
+# Springer-Verlag GmbH Germany, part of Springer Nature 2020
+
+Abstract
+The purpose of this study is to examine the impact of donor-related factors (e.g.,
+religiosity, and attitude toward helping others), m-payment system-related factors
+(system trust, and effort expectancy) and charity brand-related factors (a donor-brand
+engagement model) on the intention to donate via mobile payment applications (m-
+payment apps) and intention to recommend this function to others. Furthermore,
+importance-performance map analysis (IPMA) was used to list factors in order of
+priority to provide managerial insights. 523 donors of prior donation experiences from
+9 charity organizations in Tehran participated in this study designed to gauge their
+intention to donate via m-payment apps and intention to recommend to others. PLS
+structural equation modeling was used to test the hypotheses of this study. The results
+indicated that donor-brand engagement, helper’s high, and donor involvement fall into
+the “maintain quadrant for intention to donate via m-payment apps. Additionally, as
+religiosity has the lowest importance but relatively high performance, investing in this
+variable seems to be a wasted effort. Also, m-payment system-related factors have
+relatively low importance. So, they are not sufficient to motivate donors to donate via
+m-payment apps. Consequently, charity managers who are interested in expanding
+online donation via m-payment apps should prioritize improving the performance of
+the brand-related factors. Although religiosity may affect offline donation, its influence
+was insignificant in this study. It seems religious donors in this study seek visible or
+public displays of charity donation. This can be justified by pointing to the conspicuous
+consumption and need for social status.
+
+Keywords Brand engagement . Charity reputation . Donation intention . Mobile payment
+apps . Religiosity
+
+* Fatemeh Maleki
+
+fmaleki92@gmail.com
+
+Extended author information available on the last page of the article
+
+F. Maleki, S. M. Hosseini
+
+1 Introduction
+
+The ubiquity of mobile payment applications (m-payment apps) has fundamentally
+reshaped the process of some payment services. After the emergence of the 4th and 5th
+generation of mobile internet and smartphones, m-payment apps have proliferated over
+the recent years in Iran as a developing country. There are a variety of financial and
+payment services available in these apps. These services include bill payment, card to
+card transfer, inventory inquiry, and travel services, which enable users to send money
+remotely by using a mobile device. Charity is a new feature of m-payment apps in Iran
+as an online donation platform. In the charity section of m-payment, there is a shortlist
+of charities to which the users can choose to donate. After the selection of the respective
+charity, donors donate money using a bank card number and related password.
+
+The function of charity donation is essentially different from the other services
+which are available in these m-payment apps. In other services, users receive financial
+benefits. As the charity organizations offer intangible services which the consumer
+(consumer in our study refers to the donor) does not consume (Meijer 2009), the factors
+that influence the charity donation intention via m-payment apps differ from those
+impacting the adoption intention of m-payment apps to receive the other services.
+
+Bekkers and Wiepking (2011) identified eight different reasons for charitable
+donations. Their categorization is an extension of types of “costs and benefits” asso-
+ciated with motivation factors for a charitable donation. They indicated that even the
+physical comfort such as weather conditions affects people’s money donation possi-
+bilities. Moreover, in the context of consumption motives, the donation may be
+classified as an exchange. Due to the intangible services of charities for donors as
+consumers, social exchange plays an important role in consumers’ decision of donation
+(Venable et al. 2005). Donors’ behavior can be affected by pro-social self-attribution
+values, social approval, humanitarianism, or material benefits (Mitchell and Clark
+2019). For example, when donations are announced in public or when donors are
+directly observable, reputation as the social consequences of donations is rewarded to
+the donors.
+
+In addition, identification is related to donors engaging in supporting a non-profit
+organization (Kleinschafer, et al. 2018). A person’s identity is made up of narrower
+identities including self-identity and social identity. Social identity refers to individuals’
+tendency to be identified with groups in their social environment, while self-identity is
+one’s characteristics as a particular individual.
+
+So, payment methods which influence tangible and intangible costs and benefits,
+and donors’ identification would serve as a motivation factor for charitable donations.
+Considering the various existing mechanisms for donation decision-making, payment
+method (online payment vs. cash payment or unknown vs. observable) would contrib-
+ute to donation intention.
+
+There are some studies about online donation intention via online platforms and
+technology-mediated services, such as websites, blogs (Li 2017), social network sites
+(Chen 2018), and charity applications (Choi and Kim 2016). When individuals visit
+charity websites or blogs, the atmospheres of charity websites arouse visitors’ emotions
+and affect their donation intention and behavior. Charity websites or blogs can use
+appropriate colors, shading, text, imagery, and sound to encourage affective responses
+(Bennett 2006). Moreover, charity fundraising via online social networking sites and
+
+Charity donation intention via m-payment apps: donor-related,...
+
+crowd-funding is often about projects that may be initiated by a particular person, and
+initiator reputation can raise the number of potential donors (Liu et al. 2018). So donors
+can be influenced by the expectations of others and the desire to be a member of a
+community (Rodriguez-Ricardo et al. 2018; Choi et al. 2019). Crow-funding through
+social networks provides charities with an additional advantage (Cho et al. 2019).
+Besides, in seeking information about philanthropy, likely donors can interact with the
+organization on social networks, and charity organizations use this effective interaction
+to achieve their goal of collecting money for charity (Chen 2018). Also, donors can
+download the charity application, and by using functions of the installed apps, donate
+indirectly to a charity. In other words, donors donate in exchange for the functions of
+free applications (Choi and Kim 2016). But, factors impacting charity donation inten-
+tion via m-payment apps have not yet been exactly clarified.
+
+In the charity function of m-payment apps in Iran, there is no more information than
+the name of the branded charity. Managing charities as brands assists donors in
+differentiating between the charities and understanding what a charity stands for, and
+helps communicate value to their supporters (Wymer and Akbar 2019). In the context
+of charities, donor-brand relationships are value-based (Wymer and Akbar 2017).
+Brands are significant since they can acquire valuable donors and supporter relation-
+ships (Hudson 2008, p. 72). Charities are supported by donors whose values are in line
+with the charity’s value. So, traits associated with the brands can impact donors’ giving
+intention and behavior (Sargeant et al. 2008). A well-known charity brand to the target
+groups of donors is a strong brand that leads to a higher probability of donation
+intention (Wymer et al. 2016).
+
+In m-payment apps, donors can choose from a shortlist of branded charities.
+Kull and Heath (2016) have shown that restricted cause choices (from a
+shortlist) strengthen consumer-brand relationships. When there is only a
+shortlist of charity brands on the apps and no further information given, the
+brand knowledge must come before the brand can be chosen. Moreover,
+according to the Zajonc’s theory of mere exposure “mere repeated exposure
+of the individual to a stimulus is a sufficient condition for the enhancement of
+his attitude toward it
+(Zajonc 1968). So, the more the donor hears from the
+brand the bigger its chance to be chosen.
+
+A shortlist of branded charities can strengthen donor–brand relationships. When a
+charity focuses on how the donors’ need for social exchanges is met through donation,
+there will be a high level of engagement between the donors and the charity (Mitchell
+and Clark 2019). On the other hand, the charity’s ambition to build strong relationships
+leads to donor-brand engagement (Smitko 2012). Higher donor engagement rates have
+a major impact on contributing to society and continuing their membership in a charity
+organization (Jarvis et al. 2017). Furthermore, studies offer charity reputation and
+donor involvement as drivers of donor-brand engagement (Bennett 2013, Algharabat
+et al. 2018). Involvement is defined as “an active interest in, engagement with, and
+commitment to a group or product (Hassay and Peloza 2009). When the donors have
+active involvement with the charity, then the level of donors’ engagement will be high
+(Mitchell and Clark 2019). Thus, brand engagement can ensure donors’ giving through
+affective commitment. Therefore, this research tests charity reputation and donor
+involvement as the antecedents and affective commitment and intention to donate via
+m-payment apps as a consequence of donor-brand engagement responding to the need
+
+F. Maleki, S. M. Hosseini
+
+for more research that explores antecedents and consequences of donor-brand engage-
+ment in the context of donating via m-payment apps.
+
+Moreover, donor-related factors can be important factors influencing donation via
+m-payment apps. Since the name of donors remains unknown while donating via m-
+payment apps, moral and internal emotions arouse the donors’ behavioral intention, and
+donors are less influenced by externally-oriented arousal (Urbonavicius et al. 2019).
+Accordingly, helpers’ high is an internal emotion that motivates donors. Helpers’ high
+gives donors moral satisfaction and positive emotions as consequences of giving
+behavior (Bennett and Savani 2004). Also, a sense of inner reward and gratification
+from a positive attitude toward helping others are primary and important motives for
+donation activities (Briggs et al. 2010). Likewise, the literature shows in comparison to
+those who are not religious, the more religious the donors are, the more likely they are
+to donate to charity (Lwin et al. 2014; Tiltay and Torlak 2020). So donor-related factors
+including helpers’ high, attitude toward helping others and religiosity may affect the
+donors’ intention to donate via m-payment apps.
+
+M-payment apps allow consumers the quick and easy transfer of money without the
+need for cash. Remote money transfer helps consumers to reduce operation time and
+location restrictions of cash transfer (Oliveira et al. 2016). In the m-payment transac-
+tion, the information passes back and forth to process the payment. This information
+includes personal financial information. Users should trust that the transaction process-
+es are meet their expectations, and their financial and sensitive information will be
+shared only with the respective parties. So, in the context of monetary transactions via
+m-payment, the users’ trust in m-payment systems plays an important role in predicting
+their intention to use m-payment services (Bailey et al. 2020). On the other hand, the
+users’ intention to use m-payment systems depends on how easy it is to do so (Cao and
+Niu 2019). Moreover, technology-mediated charity donation focuses on easiness and
+convenience factors (Chen and Givens 2013). So, effort expectancy, ease of use of a
+system (Sivathanu 2019), can affect donors’ intention to use m-payment for donating
+money to charities. Thus, system trust and effort expectancy can be considered an
+appeal of donation via the m-payment system.
+
+However, in the literature there is research into donation intention via some online
+platforms. Still, donation via m-payment apps has not been studied, especially in
+developing countries. M-payment apps are different from other online donation plat-
+forms. In addition to being an unobservable donation method, m-payment apps are
+lacking in the atmosphere of charity websites, social network site interactions, and the
+free functions of application. So this study investigates how donor-related factors, m-
+payment system-related factors, and charity brand-related factors would affect the
+intention to donate via m-payment apps and intention to recommend it as a post-
+adoption behavior.
+
+An understanding of users’ donation intention via m-payment apps is important for
+charity organization managers to prioritize the factors in order of importance and to
+help them make the right marketing decisions and strategies to achieve their goals in
+collecting donations. Besides, users’ m-payment app adoption intention is significant
+for app providers. In addition, intention to recommend a technological innovation is
+recognized as post-adoption behavior that is a tool for the success assessment of a new
+technology which arouses the interest of providers and app marketers (Miltgen et al.
+2013; Oliveira et al. 2016). Thus, this research is going to focus on the factors that
+
+Charity donation intention via m-payment apps: donor-related,...
+
+affect intention to donate via m-payment apps and recommend this function to others in
+a religious developing country like Iran.
+
+The combination of donor-related factors, system-related factors, and brand-related
+factors can provide a better understanding of the type of factors that affect donors’
+behavioral intentions. This paper is organized as follows. In the next section, the
+literature review and hypotheses investigated in the study are presented. In the third
+section, the measurement instrument, sampling, and data collection are described, while
+the final results of data analysis are in the fourth section. In the end, discussion of the
+results, conclusion, implications, and future research are presented.
+
+2 Literature review and hypothesis development
+
+The purpose of this study is to add to the knowledge of donation intention via m-
+payment apps. Therefore, it suggests a brand engagement model in the context of
+charitable donation and the relationship between the model and the intention to donate
+via m-payment apps and the intention to recommend this technology to others. Also,
+the literature was extended by examining the influence of donor-related factors, and
+system-related factors on the intention to donate via m-payment apps. The relationships
+are shown in Fig. 1. The focal constructs section presents definitions and previous
+research findings on these issues, and then the hypotheses are proposed.
+
+2.1 A donor-brand engagement model
+
+Brands are used to recognize the products and services of one producer and organiza-
+tion from those of competitors (Sargeant et al. 2008). Charity brands are also employed
+so that people can recognize the difference between a charity and its competitors. Due
+
+Fig. 1 Conceptual model
+
+F. Maleki, S. M. Hosseini
+
+to the increasing number of charities and their competitiveness, brands are important in
+differentiating charitable organizations and achieving competitive advantage (Michel
+and Rieunier 2012; Randle et al. 2013). As there is no tangible product to sell, branding
+is critical for charities to communicate their services and values to donors as their
+consumers (Stebbins and Hartman 2013). Positive attitudes towards a charity brand
+leads to a higher level of donation behavior (Randle et al. 2013).
+
+Brands are not passive entities, but the relation between brands and consumers is
+considered an interactive dynamic relationship (Algharabat et al. 2018). The concept of
+Consumer-brand engagement refers to consumer-brand relationship, which is psycho-
+logical and interactive in nature. It encompasses a consumer’s pride and passion for the
+brand, and rises from the strength of the consumer-brand relationship (France et al.,
+2016). The term “engagement
+is used to express this developed relationship, which
+leads to a growth in the accounting rates of return and profitability, enriches perfor-
+mance outcomes, and improves consumers’ significant contributions (Khan et al.
+2016). Since brand-engaged consumers play an essential role in improving the perfor-
+mance of companies and organizations, brand-engagement should be given precedence
+in branding strategies (Stathopoulou et al. 2017). The engagement is also important for
+charities to connect donors emotionally to charities and their activities.
+
+Some researchers have characterized the consumer-brand engagement as a three-
+dimensional variable including cognitive (a consumer level of using his/her mind to
+consider consumer-brand interaction carefully), affective (the emotional bond between
+consumer and brand), and behavioral (the level of time, effort or energy that the
+engaged consumer is prepared to invest in consumer-brand interaction) (Stathopoulou
+et al. 2017) or absorption (sense of being fully concentrated and happily engrossed in
+brand interactions, in which time passes quickly), dedication (sense of significance,
+enthusiasm, inspiration, pride, and challenge), and vigor (the willingness and the ability
+to invest effort in such interactions) (Dwivedi 2015). Therefore, engaged donors invest
+a high level of resources to the charity (Vigor), while they take pride in belonging to the
+charity and have a strong identification with it (Dedication) and are fascinated by the
+charity’s activities (Absorption) (Bennett, 2013).
+
+According to the threefold classification of Carvalho and Fernandes (2018), this
+study addresses the existing donors of branded charities as “engagement subject
+the
+brand of charities as “engagement object , and the charitable donations as the “engage-
+ment context . Thus, this study introduces the term donor-brand engagement taking into
+consideration the relationship between donors and brands as an important element in
+donation intention.
+
+As charity organizations do not offer tangible products, there needs to be a strong
+and dynamic relationship between donors and brands. Therefore, a donor-brand en-
+gagement model related to donating via m-payment apps has to be explored. In this
+study, donor involvement and charity reputation are drivers of the donor-brand en-
+gagement model and the donors’ affective commitment and the intention to donate via
+m-payment apps are the consequences (Fig. 1).
+
+2.1.1 Drivers of donor-brand engagement
+
+Different antecedents and consequences have been identified in the literature of
+consumer-brand engagement. The antecedents of donor-brand engagement within the
+
+Charity donation intention via m-payment apps: donor-related,...
+
+context of charitable donation via m-payment apps are donor involvement and charity
+reputation in this study. These constructs were adopted considering how important they
+are in creating donor-brand interactive relationships and individual experience in the
+context of charities as the service-dominant organizations (Bennett 2013; Algharabat
+et al. 2020). France et al. (2016) categorized the antecedents of consumer-brand
+engagement as firm-led and consumer-centered. In this study, donor involvement and
+charity reputation are investigated respectively as donor-centered and charity-led ante-
+cedents of donor-brand engagement.
+
+Involvement is defined as the extent to which a consumer feels that a targeted object
+is consistent with his/her concerns, importance, values, and interests. A convergence of
+a consumer’s personal relevance and a brand leads to the consumer-brand engagement,
+as a result of which the consumer is prepared to invest time, energy, thoughts, feelings,
+and actions in the brand (Carvalho and Fernandes 2018). Involved consumers feel a
+very strong liking for the brand. This strong feeling puts the involved consumers deep
+into a particular relevance to that brand and converts them to engaged consumers
+(France et al. 2016).
+
+Based on what has been investigated by Bennett (2009), strong feelings of personal
+involvement with the charity could enhance the donors’ inclination toward charitable
+donations. Becoming involved with a charity increases intangible benefits by increas-
+ing the donors’ knowledge of and support for the charity’s activities (Stebbins and
+Hartman 2013). In the context of donation, involved donors go beyond just giving
+donations and a superficial attachment and become engaged with the brand and even
+become a member of the charity brand community (Hassay and Peloza 2009). Like-
+wise, Algharabat et al. (2018) have shown that involvement positively affects
+consumer-brand engagement in the context of non-profit organizations. So, the follow-
+ing hypothesis is posited in the context of charitable donation via m-payment apps in
+Iran:
+
+H1. Donor involvement positively affects donor-brand engagement.
+
+Involvement is studied as an effective factor in the process of identification. According
+to Bloemer and Odekerken-Schröder (2003), involvement is a situation in which
+consumers’ values, needs, and self-images are recognized by an object which can be
+the brand or the service provider. The perceived relevance to the object leads to
+affective and emotional ties, and identification with an organization (Bennett 2013).
+On the other hand, affective commitment is a psychological attachment to an object and
+is associated with feelings and identification. Affective commitment captures the
+consumers’ desire to maintain ties with the brand (Hassay and Peloza 2009; Vivek
+et al. 2012). Studies have shown that the affective form of commitment is developed by
+individual involvement (Bloemer and Odekerken-Schröder 2003; Rather et al. 2018).
+Likewise, involvement has been recognized as an indicator of donor commitment to
+charitable donation (Hassay and Peloza 2009). Furthermore, Merchant, Ford and Rose
+(2011) have shown that emotional benefits affect the donor’s commitment. Affective
+commitment is an emotional factor, which evolves out of personal involvement, which
+contributes to a significant level of commitment (Rather et al. 2018). Thus, in the
+context of donation via m-payment apps, the following hypothesis is posited:
+
+F. Maleki, S. M. Hosseini
+
+H2. Donor involvement positively affects the donors’ affective commitment.
+
+Based on the resource-based view, charity reputation can be a valuable, rare, and
+inimitable resource, which can create a competitive edge. Regarding the charity
+organizations that offer intangible service, the donors do not consume it; reputation
+plays a prominent role in the organization’s success (Meijer 2009). In addition, an
+individual’s perspective on the organization’s reputation is a part of his/her experience
+of the organization. Reputation strengthens a close psychological bond between indi-
+viduals and organizations, which exerts considerable influence over the perceived
+relationship quality (Bennett 2013). Hence, the good opinion that people have about
+the organization, mainly based on the experience they have had with the organization,
+leads to high levels of engagement. Accordingly, Bennett (2013) has shown in the
+context of offline donation that donors are more willing to engage with the charities
+which have a good reputation. Thus, in the context of donation via m-payment apps,
+the following hypothesis is posited:
+
+H3. Charity reputation positively affects donor-brand engagement.
+
+2.1.2 The consequences of donor-brand engagement
+
+Examination of the consequences of donor-brand engagement has an important value
+in helping charities reach their goals of collecting donations. Marketing researchers
+have noticed that consumer-brand engagement is an antecedent of the consumers’
+affective commitment (Vivek et al. 2012). According to relationship marketing theory,
+perceptions of the strength of the relationship shape the consumers’ behavior and
+intention in that relationship (Jeng 2016). When consumers experience positive emo-
+tions as a result of a strong relationship with the brand –conceptualized as consumer-
+brand engagement— there would be a tendency to behave in a way that leads to a more
+heightened consumer-brand relationship (Fang 2017). Affective commitment is an
+important factor that serves as the strength of the relationship, which is defined as a
+psychological desire to remain attached to the partner-brand relationship (Vivek et al.
+2012; Jeng 2016). In the context of branded charities, affective commitment as a
+psychological inclination toward the continuity of a relationship guarantees the donors’
+efforts to maintain the relationship. Thus affective commitment can be a consequence
+of donor-brand engagement. So, the following hypothesis is posited:
+
+H4. Donor-brand engagement positively affects the donors’ affective commitment.
+
+The investment of the preferred self of the consumer is an outcome linked to engage-
+ment (Kumar and Nayak 2019). Engaged donors find their interaction with the charity a
+meaningful one. Their interaction with the charity is meaningful, mainly because their
+investments are rewarded physically, cognitively, or emotionally. In this case, donors
+are affectively committed to the charity and are prepared to invest resources, including
+thought, emotion, time, money, and energy. So, a meaningful interactive relationship
+between donors, as consumers of charities, and the brand of charities would make the
+donors more willing to invest their resources. Thus, the charities emotionally engage
+
+Charity donation intention via m-payment apps: donor-related,...
+
+consumers when appealing for donations (Merchant et al. 2011). Algharabat et al.
+(2018) have indicated that engagement with a non-profit organization Facebook page
+(the brand) raises the probability of members’ willingness to donate. In addition,
+Bennett (2013) suggested that an actively engaged donor intends to offer more support
+in the future. Hence, in the context of donation via m-payment apps, the following
+hypothesis is posited:
+
+H5. Donor-brand engagement positively affects intention to donate via m-payment
+apps.
+
+2.2 Affective commitment and intention to donate via m-payment apps
+
+According to relationship marketing, commitment is a key-mediating construct which
+links evaluative variables to intentional variables (Fullerton, 2005). Donor commitment
+has been recognized as a predictor of charitable donation (Sargeant et al. 2006; Alhidari
+et al. 2018). In studies of marketing relationships, commitment is usually operational-
+ized as affective commitment (Fullerton 2005). So, donor affective commitment can be
+critical for the charity when trying to raise funds. As affective commitment is based on
+the shared values, identification, and attachment (Fullerton 2005; Erciş et al. 2012),
+affectively committed donors are inclined to support or give money to the charity to
+which they feel attached and with which they identify, and they desire to maintain the
+relationship. On the other hand, Meng et al. (2016) have emphasized the significant
+positive effect of affective commitment on users’ behavioral intention in the context of
+online crowd-funding. So, the rationale behind the impact of affective commitment on
+donation can be logical for intention to donate via m-payment apps. So, the following
+hypothesis is posited:
+
+H6. Affective commitment positively affects intention to donate via m-payment
+apps.
+
+2.3 Donors-related factors and intention to donate via m-payment apps
+
+Donating to a charity requires certain motivations and incentives. There are different
+internalized and externalized motivations for charitable donation intention. However,
+when donors remain unknown, their primary motivation may be restricted to internal-
+ized motivation. Donors do not reveal their identity while donating via m-payment
+apps. So, since there is no external recognition, donation intention is influenced by
+internalized motivation (Urbonavicius et al. 2019). Donation intention via m-payment
+apps could be influenced by moral emotions, internalized moral values, or feelings that
+are experienced or felt internally.
+
+The donors’ strong desire to achieve “do the right thing , justifies seeking moral
+satisfaction. Also, people show a positive attitude toward helping others to experience
+positive inner emotions (Human and Terblanche 2012). Attitude toward helping others
+is defined as a relatively enduring judgment about helping, supporting, or assisting
+other people, which include a wide range of donation behaviors (Rodriguez-Ricardo
+
+F. Maleki, S. M. Hosseini
+
+et al., 2018). Attitude toward helping others judges individuals on their personal norms,
+internalized values, and beliefs in a charitable act (Moriuchi and Chung 2018). Attitude
+toward a particular behavior is a reliable index of behavioral intention. The aspiration
+of helping others has been acknowledged as an important motivator for charitable acts
+(Webb et al. 2000). Positives attitude toward helping others could be derived from the
+donors’ basic beliefs, inner empathy, and personal norms (Wymer and Akbar 2019).
+So, a sympathetic attitude toward helping others may be predictive of charity donation
+intentions via m-payment apps.
+
+H7. Attitude toward helping others positively affects intention to donate via m-
+payment apps.
+
+On the other hand, people look for experiencing “the warm glow of giving . “The inner
+warm glow refers to the construct of helper’s high as an experience following
+charitable donation, an experience that leads to pleasurable emotions and personal
+satisfaction that make the donor’s life a better one (Bennett 2018). Considering helper’s
+high, a charitable donation is interpreted as the monetary purchase of moral satisfaction,
+and an internal sense of well-being (Bennett 2006). So, the helper’s high is just like
+giving something to yourself. Helper’s high, the feeling of calmness and inner self-
+worth as a consequence of helping others, is said to be a donor-related reason for
+charitable donations. As a result, this study proposes the following hypothesis.
+
+H8. Helpers’ high positively affects the intention to donate via m-payment apps.
+
+Moreover, religion as a social-cultural system with specific morals and spirituals for its
+followers plays an important role in giving attitude, intention, and behavior (Noor, et al.
+2015; Tiltay and Torlak 2020). Religiosity is defined as the belief in God and the extent
+to which a person lives out his or her religious rules and principles (Muralidharan and
+La Ferle, 2018). Religion and charitable donation intention and behavior have been
+studied in charity studies inseparably (Rajan et al. 2009; Lwin et al. 2014). Religiosity
+is considered a spiritual reason based on the spiritual values of individuals for charitable
+activities. The loyal persons to religious values are more willing to donate (Tiltay and
+Torlak 2020). Peoples’ religious values, which become their self-worth, affect their
+donation intention (Arli and Lasmono 2015). In Iran, as a Muslim country, donation
+patterns have been shaped by religion. The importance of religion and rituals are
+undeniable in Iranian people’s lives. Receiving a return on charity in the afterlife can
+be a driver of donation motivations (Skarmeas and Shabbir 2011). So:
+
+H9. Religiosity positively affects intention to donate via m-payment apps.
+
+Moreover, all major religions have taught the importance of giving behaviors and have
+encouraged helping others (Arli & Lasmono, 2015; Tiltay & Torlak, 2020). So, more
+religious individuals feel that they have a duty to others (Hopkins et al., 2014). There
+are mandatory and optional charitable contributions in Islam for all Muslims who meet
+the necessary criteria of wealth (Rizal & Amin, 2017). So, this study assumes that in
+Iran, as a Muslim country, religiosity affects donors’ attitudes toward helping others.
+The following hypothesis is posited:
+
+Charity donation intention via m-payment apps: donor-related,...
+
+H10. Religiosity positively affects the attitude toward helping others.
+
+2.4 M-payment system-related factors and intention to donate via m-payment apps
+
+The widespread use of smartphones and mobile Internet has driven people to use
+m-payment apps for receiving different services. M-payment apps as an innova-
+tive technology are being applied to pay money for a wide range of products and
+services. These apps are able to perform various improved functionalities. New
+payment technologies are important for product and service providers (Sharma
+et al. 2019). The charity organizations are non-profit service providers who have
+recently started using m-payment apps for online donation fundraising in Iran.
+technological characteristics (Liu et al.,
+As previous research suggested that
+2018) and Internet technology features (Sura et al. 2017) are important factors
+in online donation via websites, m-payment system-related factors can be impor-
+tant factors for the donors’ intention to donate via m-payment apps. In the
+context of charitable donation, the donors’ intention behavior may be affected
+by how easily they can use m-payment apps and to what extent they trust the m-
+payment system.
+
+Effort expectancy is the degree of ease associated with consumers’ use of technol-
+ogy, which can motivate or restrict m-payment usage (Oliveira et al. 2016). The ease of
+technology usage is admitted and accepted, which affects the intention to adopt the m-
+payment technology (Zhou 2014; Sivathanu 2019). Li et al. (2018) recognized that the
+convenience of donating via online crowd-funding platforms and the ease of the
+operation process positively affect the intention of users to donate. Thus, when donors
+perceive that donation via m-payment apps does not necessitate much effort, they will
+intend to use these apps for donating money. Thus:
+
+H11. Effort expectancy positively affects the intention to donate via m-payment
+apps.
+
+the individuals’ intention to donate via m-payment apps may be
+Moreover,
+affected by their trust in the m-payment system. Chiefly, trust is defined as a
+strong belief in the honesty and goodness of “others , who will not behave
+opportunistically to gain unfair advantages. Trust in the “other will lead to a
+positive behavioral intention toward him/her (Chemingui and Ben lallouna 2013).
+In the context of monetary transactions via m-payment apps, users expect that
+money will be exchanged for products or services, and their information will be
+shared only with related parties. Lu et al. (2011) believed that in comparison to
+traditional money transactions, m-payments are more vulnerable, and thus, in-
+volve more potential risk. Therefore, the assessment of users’ trust in m-payment
+systems is important for m-payment providers (Bailey et al. 2020). Likewise, the
+donors’ trust in online payment platforms has been acknowledged to be one of
+the critical antecedents of the intention to donate to a crowd-funding project (Li
+et al. 2018). So, evaluating the level of donors’ trust in the m-payment system
+can predict the level of the donors’ intention to donate via m-payment apps.
+
+H12. System trust positively affects the intention to donate via m-payment apps.
+
+F. Maleki, S. M. Hosseini
+
+2.5 The donors’ intention to recommend donating via m-payment apps
+
+The intention to recommend a technological innovation has been considered an
+evaluation of the success of new technology. Recommending a technology to others
+is a positive word of mouth in which providers and marketer are interested (Miltgen
+et al. 2013). Studies have shown that consumers with a higher intention to use the
+technology are more likely to actually use it and then recommend it to others (Oliveira
+et al., 2016). Hence, the intention to recommend a technology is a type of post-adoption
+behavior, which is vital if the technology is to stand out among its competitors
+(Verkijika 2020). Charitable donation services are a recent addition to m-payment apps
+in Iran. The acceptance and usage of this function can have more than individual
+acceptance (Miltgen et al. 2013), as word of mouth and recommending intention can be
+applied to spread information, ideas, opinions, experiences, and even behavior to as
+many people as possible. Thus, this study proposes the intention to recommend
+donating via m-payment apps as the consequence of the intention to donate via m-
+payment apps.
+
+H13. The intention to donate via m-payment apps positively affects the intention to
+recommend donating via m-payment apps.
+
+3 Methodology
+
+3.1 Measurement instrument
+
+The measurement instrument consisted of two sections of demographic questions
+(items for gender, education, age, and income) and open-ended questions about
+research variables. The second section included 47 items to measure the variables of
+the research model. The preliminary questionnaire was translated into Persian. To be
+sure of the face and content validity of the translated questionnaire and to make items
+free from complexity or ambiguity (As a procedural remedy for common method bias),
+content validity index (CVI), and content validity ratio (CVR) were conducted through
+a panel of experts. The questionnaire items were measured with a 5-point, Likert-type,
+from strongly disagree (1) to strongly agree (5). Since the data was collected from
+single respondents in a one-time survey, the common method bias (CMB) had to be
+assessed. So, procedural (Preventive techniques) and statistical methods were used to
+control the potential common method bias (Podsakoff et al. 2003). The respondents
+were assured that they would remain anonymous. For psychological separation, as a
+way to control CMB (Jordan and Troth 2020), the respondents were asked some
+questions between the independent and dependent variables. Measurement scales were
+standard and established measurements were adapted from previous studies (see
+Table 1). The questionnaire was pre-tested among 30 respondents from the study
+population to avoid misunderstandings.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+3.2 Sampling and data collection
+
+Data collection was done through the questionnaires that were distributed face to face
+and online. Due to their popularity, twelve charity organizations in Tehran, to which
+donors can donate money via m-payment apps, were contacted for data collection. Nine
+of these organizations cooperated with this study. The questionnaire started with two
+screening questions. First, the donors were asked about the frequency of their donations
+to the charity. Since past behavior is a predictor of future intention to donate
+(Michaelidou et al. 2015), donors who had made three or more donations to the same
+charity over the past year were included. According to the interview with charity
+managers, three or more donations to the charity are equated with brand engagement
+and commitment to the charity. Then, the respondents were asked if they had ever
+donated money via m-payment apps. Respondents were asked to answer questions for
+the charity which they currently supported. Also, if the respondent passed the screening
+questions and completed the questionnaire, he/she was asked to extend the survey
+participation invitation to other donors who would then be included in the sample. A
+total of 560 respondents answered the survey from the 1st to the 20th of December
+2019. However, the responses of 37 questionnaires were excluded from the analysis
+due to missing data and straight-lining. The demographic information of the respon-
+dents is shown in Table 2.
+
+4 Data analysis and findings
+
+The data analysis was conducted in SPSS 23 and SmartPLS 3. A systematic evaluation
+of partial least squares structural equation modeling (PLS-SEM) followed the assess-
+ments of the measurement models and the structural model. PLS-SEM supports the
+complex model and the use of variable scores in a subsequent analysis such as
+importance-performance matrix analysis (Hair Jr et al. 2016, p. 23). This study extends
+the research model analysis by performing IPMA in SmartPLS to prioritize the
+antecedent factors for the intention to donate via m-payment apps drawn on the two
+dimensions of importance and performance.
+
+4.1 Common method Bias
+
+Since the data was collected from single respondents in a one-time survey, three post-
+hoc statistical techniques including Harman’s single-factor test, correlation marker
+technique, and full collinearity variance inflation factors (VIF) were conducted to
+check for CMB. Harman’s single-factor test indicates CMB as an issue if an explor-
+atory factor analysis with all study variables produces eigenvalues suggesting the first
+factor accounts for more than 50%. In this study, the total variance for a single factor is
+30.00% and less than 50%; this suggests that CMB does not affect the data. Also, to
+conduct the correlation marker technique (Lindell and Whitney 2001), eye color (light
+or dark) as theoretically unrelated to the dependent variables was added as a marker
+variable. The results show that the correlation between the marker variable and the
+study’s principal variables in the proposed model was very low. Furthermore, the full
+collinearity test was assessed to generate VIFs for all latent variables in the model.
+
+F. Maleki, S. M. Hosseini
+
+Table 1 Constructs and their scale items
+
+Constructs
+
+Scale items
+
+Affective commitment (Fullerton 2005)
+
+AC1. I feel emotionally attached to the charity.
+
+Attitude towards helping others (Mittelman
+
+ATH1. People should be willing to help others who are less
+
+and Rojas-Méndez 2018)
+
+fortunate.
+
+AC2. The charity has a great deal of personal meaning for me.
+
+AC3. I feel a strong sense of identification with the charity.
+
+ATH2. Helping troubled people with their problems is very
+
+important to me.
+
+ATH3. People should be more charitable towards others in
+
+society.
+
+ATH4. People in need should receive support from others.
+
+Donor-brand engagement (Lee et al. 2018) BE1. I have a special bond with this brand.
+
+BE2. I consider this brand to be a part of myself.
+
+BE3. I often feel a personal connection between this brand and
+
+me.
+
+BE4. Part of me is defined by this brand in my life.
+
+BE5. I feel as if I have a close personal connection with this
+
+brand.
+
+BE6. I can identify with this brand in my life.
+
+BE7. There are links between this brand and how I view
+
+myself.
+
+BE8. This brand is an important indication of who I am.
+
+Charity reputation (Bennett 2013)
+
+CR1. The charity is very well-respected among the general
+
+public.
+
+CR2. The charity has an excellent reputation among the general
+
+public for assisting its beneficiaries.
+
+CR3. The charity has an excellent reputation among the general
+
+public for managing its finances wisely.
+
+CR4. The charity has an excellent reputation among the general
+public for being competent and generally well-managed.
+
+donor involvement (Bennett 2009)
+
+DI1. Giving to this charity means a great deal to me
+
+Effort expectancy (Li et al. 2018)
+
+DI2. Giving to this charity is a vitally important part of my life.
+
+DI3. I am deeply interested in the work of the charity I support
+
+even when I am not able to make a donation.
+
+DI4. I feel heavily involved with the good causes to which I
+
+donate.
+
+DI5. I am fascinated by the work of the charity I support.
+
+EF1. The structure and design of the interaction function of the
+m-payment apps’ donation services is clear and easy to
+understand.
+
+EF2. It is convenient to donate to charity donation via the
+
+m-payment app.
+
+EF3. It is easy for me to use m-payment apps’ donation
+
+services.
+
+EF4. I can easily use m-payment apps to donate.
+
+Helper’s high (Bennett 2009)
+
+HH1. Donating to charity gives me a lot of pleasure.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Table 1 (continued)
+
+Constructs
+
+Scale items
+
+HH2. I would feel guilty if I did not give money to charity.
+
+HH3. I feel uplifted after making a donation to charity.
+
+HH4. I obtain deep inherent satisfaction from giving to charity.
+
+HH5. Giving to charity makes my own life better.
+
+Intention to donate via m-payment app
+
+ID1. I intend to donate money to this charity via M-payment
+
+(Kwak et al. 2018)
+
+app.
+
+ID2. I predict that I will donate money to this charity via
+
+M-payment app.
+
+ID3. I am willing to donate money to this charity via
+
+M-payment app.
+
+intention to recommend donating via
+
+IR1. I will recommend to others to subscribe to a mobile
+
+m-payment apps (Oliveira et al. 2016)
+
+payment system to donation.
+
+IR2. If I have a good experience with M-payment I will
+
+recommend others to subscribe to a mobile payment system
+to donation.
+
+Religiosity (Muralidharan and La Ferle
+
+R1. My religion forms an important basis for the kind of person
+
+2018)
+
+I want to be.
+
+R2. My ideas on religion have a big influence on my views in
+
+other areas.
+
+R3. Were I to think about religion differently, my whole life
+
+would be very different.
+
+R4. I often think about religious matters.
+
+R5. My religion is one of the most important parts of my
+
+philosophy of life.
+
+System trust (Bailey et al. 2020)
+
+ST1. I trust M-payment systems to be reliable.
+
+ST2. I trust M-payment payment systems to be secure.
+
+ST3. I believe M-payment payment systems are trustworthy.
+
+ST4. I trust M-payment payment systems.
+
+Results from the full collinearity test are lower than 3.3 or close to 3.3 and less than 5.0
+(see Table 2), which can be still acceptable, and the model can be considered free of the
+common method bias (Kock, 2015, Hair Jr et al. 2016).
+
+Table 2 Respondents’ profile
+
+Age
+
+pct.
+
+Gender
+
+pct.
+
+Income
+
+pct.
+
+Education
+
+pct.
+
+18–25 years old
+26–32 years old
+33–39 years old
+40–46 years old
+More than 46 years old
+Missing
+
+5.2
+12.4
+35.2
+34.2
+12.4
+0.6
+
+Male
+Female
+Missing
+
+64.2
+35.6
+0.2
+
+1–2 million
+2–3 million
+3–4 million
+4–5 million
+more than 5 million
+Missing
+
+4.2
+14.3
+37.5
+30.2
+13.4
+0.4
+
+Non-college
+Bachelor
+Master
+PhD
+Missing
+
+17.4
+31.5
+37.1
+13.0
+1.0
+
+F. Maleki, S. M. Hosseini
+
+4.2 Measurement model evaluation
+
+The measurement model evaluation of PLS-SEM estimates the reliability and validity
+of the construct measures. The evaluation of the reflective measurement models
+includes internal consistency, convergent validity, and discriminant validity (Hair Jr
+et al. 2016).
+
+Cronbach’s α, composite reliability (CR), and Dijkstra–Henseler’s rho are reported
+to evaluate the internal consistency of latent variables. According to the minimum
+threshold of 0.7 for the three criteria (Hair Jr et al. 2016), the internal consistency
+reliability of the constructs was confirmed (Table 3).
+
+Furthermore, convergent validity is assessed according to the reliability of indicators
+(outer loadings) and the average variance extracted (AVE) from the constructs. Taking
+into account the minimum threshold of 0.7 for the factor loadings of the indicators, all
+indicators are reliable. Also, due to the threshold of 0.50 for AVE, the model’s
+convergent validity was approved (Table 3).
+
+Finally, the discriminant validity of the constructs is assessed by cross loading tests,
+Fornell–Larcker criterion, and Heterotrait-Monotrait Ratio (HTMT) approach. Accord-
+ing to cross-loading tests, the own loadings of each construct should be higher than (at
+least 0.2) the cross-loadings with other constructs (Table 4).
+
+The Fornell–Larcker criterion requires that the constructs share more variance with
+their indicators than with any other construct. So the squared AVE of the
+constructsshould be higher the correlations between constructs (Table 5).
+
+Also, due to the maximum threshold of 0.85 for HTMT (Henseler et al. 2015), the
+
+results approved the discriminant validity of the constructs (Table 6).
+
+4.3 Assessment of structural model
+
+After confirming the measurement model validity and reliability, a systematic approach
+to the assessment of the structural model includes the assessment of collinearity, the
+significance and relevance of the structural model relationships (Hypothesis testing),
+the level of R squared, the f2 effect size, and the predictive relevance Q2 (Hair Jr et al.
+2016, p. 206). Moreover, the full VIF is measured to assess the collinearity. As the VIF
+values were below 5, it was confirmed that collinearity is not a problem (Hair Jr et al.
+2016).
+
+The results of testing the hypotheses are shown in Table 7. Ten of the thirteen
+hypotheses were supported. Results indicate that donor-brand engagement, affective
+commitment, attitude toward helping others, helper’s high, and system trust are signif-
+icant antecedents of intention to donate via m-payment apps lending support to H5, H6,
+H7, H8, and H12. Also, donor involvement and charity reputation significantly affect
+donor-brand engagement, which means that H1 and H3 were supported. Moreover, H2
+and H4, which predicted that donor-brand engagement and donor involvement signif-
+icantly influence affective commitment, were supported. But the effect of religiosity on
+the intention to donate via m-payment apps, and attitude toward helping others are
+insignificant, which is counter to H9 and H10. Furthermore, effort expectancy does not
+influence the intention to donate via m-payment apps, which is counter to H11. Finally,
+the intention to donate via m-payment apps significantly affects the intention to
+recommend donating via m-payment apps, lending support to H13.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Table 3 Measurement model assessment
+
+Construct
+
+Affective commitment
+
+Items
+
+F a c t o r
+Loading
+
+AC1
+
+AC2
+
+AC3
+
+0.902
+
+0.872
+
+0.852
+
+Attitude towards Helping Others ATH1 0.741
+
+ATH2 0.827
+
+ATH3 0.834
+
+ATH4 0.869
+
+Donor-brand engagement
+
+Charity reputation
+
+donor involvement
+
+Effort expectancy
+
+Helper’s high
+
+BE1
+
+BE2
+
+BE3
+
+BE4
+
+BE5
+
+BE6
+
+BE7
+
+BE8
+
+CR1
+
+CR2
+
+CR3
+
+CR4
+
+DI1
+
+DI2
+
+DI3
+
+DI4
+
+DI5
+
+EF1
+
+EF2
+
+EF3
+
+EF4
+
+HH1
+
+HH2
+
+HH3
+
+HH4
+
+HH5
+
+Intention to donate via m-payment
+
+ID1
+
+app
+
+intention to recommend donating
+
+via m-payment apps
+
+Religiosity
+
+ID2
+
+ID3
+
+IR1
+
+IR2
+
+R1
+
+R2
+
+R3
+
+0.76
+
+0.765
+
+0.755
+
+0.759
+
+0.738
+
+0.8
+
+0.822
+
+0.773
+
+0.807
+
+0.822
+
+0.849
+
+0.773
+
+0.799
+
+0.754
+
+0.727
+
+0.812
+
+0.804
+
+0.774
+
+0.822
+
+0.766
+
+0.781
+
+0.813
+
+0.817
+
+0.863
+
+0.825
+
+0.795
+
+0.739
+
+0.848
+
+0.862
+
+0.939
+
+0.926
+
+0.823
+
+0.79
+
+0.819
+
+Weights Cronbachs
+
+rho_A CR
+
+AVE VIF
+
+Alpha
+
+0.848
+
+0.852
+
+0.908 0.767 1.804
+
+0.835
+
+0.837
+
+0.89
+
+0.671 1.868
+
+0.903
+
+0.906
+
+0.922 0.596 3.805
+
+0.838
+
+0.878
+
+0.886 0.661 2.274
+
+0.839
+
+0.849
+
+0.886 0.608 3.317
+
+0.794
+
+0.795
+
+0.866 0.618 1.625
+
+0.881
+
+0.883
+
+0.913 0.677 1.940
+
+0.75
+
+0.752
+
+0.858 0.67
+
+2.337
+
+0.85
+
+0.855
+
+0.93
+
+0.869 1.334
+
+0.884
+
+0.943
+
+0.911 0.671 1.016
+
+0.376
+
+0.409
+
+0.356
+
+0.324
+
+0.295
+
+0.275
+
+0.33
+
+0.155
+
+0.151
+
+0.161
+
+0.151
+
+0.144
+
+0.172
+
+0.174
+
+0.185
+
+0.256
+
+0.27
+
+0.265
+
+0.448
+
+0.262
+
+0.226
+
+0.218
+
+0.303
+
+0.267
+
+0.293
+
+0.324
+
+0.319
+
+0.336
+
+0.246
+
+0.211
+
+0.261
+
+0.252
+
+0.245
+
+0.4
+
+0.404
+
+0.42
+
+0.56
+
+0.512
+
+0.337
+
+0.128
+
+0.15
+
+Table 3 (continued)
+
+Construct
+
+System trust
+
+F. Maleki, S. M. Hosseini
+
+Items
+
+F a c t o r
+Loading
+
+Weights Cronbachs
+
+rho_A CR
+
+AVE VIF
+
+Alpha
+
+R4
+
+R5
+
+ST1
+
+ST2
+
+ST3
+
+ST4
+
+0.796
+
+0.864
+
+0.704
+
+0.854
+
+0.788
+
+0.793
+
+0.23
+
+0.365
+
+0.195
+
+0.398
+
+0.32
+
+0.342
+
+0.798
+
+0.827
+
+0.866 0.618 1.053
+
+However, acceptable R2 values depend on model complexity, and research discipline
+(Hair Jr et al. 2016, p. 214), the R2 values of donor-brand engagement (0.653), and the
+intention to donate (0.549) can be considered strong, while the R2 value of affective
+commitment (0.429) can be considered moderate, whereas the R2 value of the intention
+to recommend (0.152) and attitude towards helping others (0.001) are rather weak.
+
+As shown in Table 8, the Q2 values of all endogenous constructs are above zero,
+which provides support for the model’s predictive relevance regarding the endogenous
+latent variables.
+
+Total effects, effect sizes f2, are presented in Table 9. F2 values are defined as 0.02
+(small), 0.15 (medium), and 0.35 (large), so all variables show at least a small effect
+size except the effect of religiosity on attitude toward helping others. The highest f2 is
+linked the effect of donor involvement on donor-brand engagement, followed by the
+impact of charity reputation on donor-brand engagement.
+
+Due to a conservative approach, the SRMR value of less than 0.08 indicates a good
+
+fit (Hair Jr et al. 2016). The model’ SRMR is 0.062, which shows a good fit.
+
+4.4 IPMA results
+
+The IPMA focuses on identifying antecedents that have relatively high importance but
+also a relatively low performance for the target construct. This analysis highlights the
+area that needs great attention. The IPMA includes four quadrants: “concentrate here
+represents factors of high importance but a low performance, where focus should be on
+the improvement of those factors; “maintain represents factors of high importance and
+high performance, which should remain as they are; “possible overkill
+represents
+factors of low importance but high performance; and “lower priority represents factors
+of low importance and low performance (Streukens et al. 2017).
+
+To conduct IPMA in SmartPLS, three requirements need to be checked. First, all the
+indicators are cheeked to be metrics and have the same coding (minimum value
+represents the worst outcome, and the maximum value represents the best outcome
+of an indicator). Second, all the weights of the scales must be positive. Third, VIF
+values need to be checked to be below 5 (Ringle and Sarstedt 2016). According to the
+results in Table 3, all requirements are met.
+
+The IPMA result for the intention to donate via m-payment apps is in Table 10 and
+Fig. 2. The importance value is the total effects of antecedent constructs on the intention
+to donate via m-payment apps, and the performance value is the latent variable score on
+
+Charity donation intention via m-payment apps: donor-related,...
+
+t
+s
+u
+r
+T
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+e
+t
+a
+n
+o
+D
+
+h
+g
+i
+H
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+g
+n
+i
+p
+l
+e
+H
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+o
+T
+
+n
+o
+i
+
+t
+n
+e
+t
+n
+I
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+s
+
+’
+
+r
+e
+p
+l
+e
+H
+
+t
+
+r
+
+o
+
+f
+
+f
+
+E
+
+r
+
+o
+
+n
+
+o
+
+D
+
+y
+
+t
+
+i
+
+r
+
+a
+
+h
+C
+
+d
+
+n
+
+a
+
+r
+
+B
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+e
+
+v
+
+i
+
+t
+
+c
+
+e
+
+f
+
+f
+
+A
+
+s
+n
+o
+i
+t
+s
+e
+u
+Q
+
+s
+g
+n
+i
+d
+a
+o
+l
+
+s
+s
+o
+r
+C
+
+4
+
+e
+l
+b
+a
+T
+
+6
+5
+0
+.
+0
+
+4
+7
+0
+.
+0
+
+8
+5
+0
+.
+0
+
+8
+0
+1
+.
+0
+
+5
+7
+0
+.
+0
+
+2
+8
+0
+.
+0
+
+3
+5
+0
+.
+0
+
+1
+6
+0
+.
+0
+
+3
+2
+0
+.
+0
+
+8
+1
+1
+.
+0
+
+5
+4
+0
+.
+0
+
+6
+0
+.
+0
+
+3
+4
+0
+.
+0
+
+5
+1
+.
+0
+
+3
+2
+0
+.
+0
+
+3
+3
+1
+.
+0
+
+9
+6
+0
+.
+0
+
+6
+6
+0
+.
+0
+
+8
+0
+.
+0
+
+2
+6
+0
+.
+0
+
+1
+1
+1
+.
+0
+
+4
+6
+0
+.
+0
+
+1
+0
+.
+0
+−
+
+3
+0
+0
+.
+0
+
+6
+0
+.
+0
+−
+
+7
+7
+0
+.
+0
+
+1
+0
+.
+0
+
+7
+0
+0
+.
+0
+−
+
+4
+2
+0
+.
+0
+
+3
+0
+.
+0
+
+2
+0
+0
+.
+0
+
+5
+1
+0
+.
+0
+
+1
+0
+.
+0
+
+6
+0
+0
+.
+0
+
+3
+0
+.
+0
+−
+
+1
+2
+0
+.
+0
+
+8
+1
+0
+.
+0
+
+1
+0
+.
+0
+−
+
+1
+5
+0
+.
+0
+
+4
+1
+0
+.
+0
+
+9
+1
+0
+.
+0
+
+9
+1
+0
+.
+0
+−
+
+5
+0
+0
+.
+0
+−
+
+2
+5
+0
+.
+0
+−
+
+6
+2
+2
+.
+0
+
+6
+1
+2
+.
+0
+
+2
+2
+.
+0
+
+8
+7
+2
+.
+0
+
+5
+3
+3
+.
+0
+
+5
+3
+3
+.
+0
+
+1
+0
+3
+.
+0
+
+6
+7
+3
+.
+0
+
+2
+1
+3
+.
+0
+
+3
+5
+3
+.
+0
+
+5
+3
+.
+0
+
+8
+5
+3
+.
+0
+
+3
+2
+3
+.
+0
+
+5
+8
+3
+.
+0
+
+2
+3
+3
+.
+0
+
+5
+2
+3
+.
+0
+
+1
+3
+.
+0
+
+2
+3
+2
+.
+0
+
+8
+3
+.
+0
+
+6
+6
+2
+.
+0
+
+7
+6
+1
+.
+0
+
+1
+9
+1
+.
+0
+
+7
+4
+4
+.
+0
+
+6
+8
+4
+.
+0
+
+6
+5
+4
+.
+0
+
+1
+6
+4
+.
+0
+
+3
+2
+4
+.
+0
+
+5
+9
+3
+.
+0
+
+2
+7
+4
+.
+0
+
+3
+9
+4
+.
+0
+
+5
+9
+3
+.
+0
+
+7
+4
+4
+.
+0
+
+9
+8
+4
+.
+0
+
+8
+8
+4
+.
+0
+
+4
+9
+5
+.
+0
+
+4
+3
+6
+.
+0
+
+2
+2
+5
+.
+0
+
+5
+6
+3
+.
+0
+
+3
+2
+4
+.
+0
+
+4
+9
+3
+.
+0
+
+8
+4
+.
+0
+
+8
+7
+5
+.
+0
+
+7
+5
+5
+.
+0
+
+7
+4
+4
+.
+0
+
+4
+5
+4
+.
+0
+
+9
+5
+4
+.
+0
+
+8
+8
+3
+.
+0
+
+8
+3
+4
+.
+0
+
+5
+4
+3
+.
+0
+
+2
+3
+3
+.
+0
+
+5
+4
+3
+.
+0
+
+1
+8
+3
+.
+0
+
+1
+2
+4
+.
+0
+
+2
+1
+4
+.
+0
+
+2
+8
+3
+.
+0
+
+4
+9
+3
+.
+0
+
+5
+9
+4
+.
+0
+
+7
+4
+.
+0
+
+8
+0
+5
+.
+0
+
+6
+2
+.
+0
+
+8
+4
+3
+.
+0
+
+4
+3
+.
+0
+
+9
+0
+4
+.
+0
+
+7
+4
+.
+0
+
+9
+0
+5
+.
+0
+
+7
+0
+6
+.
+0
+
+5
+3
+3
+.
+0
+
+9
+9
+3
+.
+0
+
+5
+2
+3
+.
+0
+
+4
+5
+3
+.
+0
+
+7
+4
+2
+.
+0
+
+1
+3
+2
+.
+0
+
+5
+3
+2
+.
+0
+
+5
+6
+3
+.
+0
+
+9
+5
+3
+.
+0
+
+4
+5
+3
+.
+0
+
+4
+0
+3
+.
+0
+
+1
+5
+2
+.
+0
+
+5
+9
+2
+.
+0
+
+2
+4
+3
+.
+0
+
+9
+4
+4
+.
+0
+
+5
+7
+3
+.
+0
+
+5
+3
+4
+.
+0
+
+7
+8
+4
+.
+0
+
+7
+6
+3
+.
+0
+
+9
+4
+4
+.
+0
+
+9
+4
+4
+.
+0
+
+7
+7
+3
+.
+0
+
+2
+3
+5
+.
+0
+
+9
+5
+.
+0
+
+2
+0
+5
+.
+0
+
+2
+5
+4
+.
+0
+
+9
+0
+4
+.
+0
+
+9
+1
+4
+.
+0
+
+6
+3
+4
+.
+0
+
+7
+9
+4
+.
+0
+
+3
+1
+5
+.
+0
+
+9
+8
+4
+.
+0
+
+6
+9
+4
+.
+0
+
+5
+5
+4
+.
+0
+
+8
+2
+6
+.
+0
+
+6
+2
+6
+.
+0
+
+2
+5
+7
+.
+0
+
+3
+6
+3
+.
+0
+
+7
+8
+4
+.
+0
+
+9
+6
+4
+.
+0
+
+8
+1
+5
+.
+0
+
+9
+9
+7
+.
+0
+
+4
+5
+7
+.
+0
+
+7
+2
+7
+.
+0
+
+5
+7
+3
+.
+0
+
+6
+4
+.
+0
+
+3
+1
+3
+.
+0
+
+5
+4
+.
+0
+
+6
+7
+4
+.
+0
+
+9
+7
+3
+.
+0
+
+9
+9
+3
+.
+0
+
+4
+6
+5
+.
+0
+
+9
+6
+5
+.
+0
+
+1
+3
+5
+.
+0
+
+1
+5
+.
+0
+
+5
+2
+5
+.
+0
+
+5
+3
+5
+.
+0
+
+3
+3
+5
+.
+0
+
+7
+0
+8
+.
+0
+
+2
+2
+8
+.
+0
+
+9
+4
+8
+.
+0
+
+3
+7
+7
+.
+0
+
+4
+2
+5
+.
+0
+
+1
+9
+3
+.
+0
+
+1
+2
+3
+.
+0
+
+6
+.
+0
+
+7
+2
+5
+.
+0
+
+4
+6
+5
+.
+0
+
+7
+4
+.
+0
+
+7
+4
+5
+.
+0
+
+3
+4
+5
+.
+0
+
+1
+2
+5
+.
+0
+
+7
+3
+5
+.
+0
+
+6
+7
+.
+0
+
+5
+6
+7
+.
+0
+
+5
+5
+7
+.
+0
+
+9
+5
+7
+.
+0
+
+8
+3
+7
+.
+0
+
+2
+2
+8
+.
+0
+
+3
+7
+7
+.
+0
+
+1
+4
+4
+.
+0
+
+5
+6
+4
+.
+0
+
+7
+5
+4
+.
+0
+
+3
+7
+7
+.
+0
+
+4
+6
+5
+.
+0
+
+8
+4
+4
+.
+0
+
+7
+6
+4
+.
+0
+
+8
+.
+0
+
+7
+4
+3
+.
+0
+
+3
+4
+.
+0
+
+3
+9
+2
+.
+0
+
+1
+4
+7
+.
+0
+
+7
+2
+8
+.
+0
+
+4
+3
+8
+.
+0
+
+9
+6
+8
+.
+0
+
+1
+0
+5
+.
+0
+
+9
+1
+4
+.
+0
+
+5
+0
+5
+.
+0
+
+2
+5
+.
+0
+
+2
+8
+4
+.
+0
+
+2
+5
+5
+.
+0
+
+4
+4
+5
+.
+0
+
+7
+2
+5
+.
+0
+
+3
+5
+3
+.
+0
+
+3
+0
+4
+.
+0
+
+8
+3
+.
+0
+
+6
+9
+4
+.
+0
+
+6
+8
+3
+.
+0
+
+2
+0
+4
+.
+0
+
+9
+2
+3
+.
+0
+
+2
+0
+9
+.
+0
+
+2
+7
+8
+.
+0
+
+2
+5
+8
+.
+0
+
+5
+3
+.
+0
+
+7
+7
+2
+.
+0
+
+8
+3
+3
+.
+0
+
+1
+7
+3
+.
+0
+
+4
+3
+4
+.
+0
+
+4
+5
+4
+.
+0
+
+3
+5
+.
+0
+
+4
+1
+4
+.
+0
+
+6
+9
+3
+.
+0
+
+5
+5
+4
+.
+0
+
+3
+4
+.
+0
+
+5
+5
+5
+.
+0
+
+1
+4
+2
+.
+0
+
+1
+5
+3
+.
+0
+
+4
+2
+3
+.
+0
+
+4
+4
+4
+.
+0
+
+8
+0
+5
+.
+0
+
+5
+8
+4
+.
+0
+
+5
+2
+4
+.
+0
+
+1
+C
+A
+
+2
+C
+A
+
+3
+C
+A
+
+1
+H
+T
+A
+
+2
+H
+T
+A
+
+3
+H
+T
+A
+
+4
+H
+T
+A
+
+1
+E
+B
+
+2
+E
+B
+
+3
+E
+B
+
+4
+E
+B
+
+5
+E
+B
+
+6
+E
+B
+
+7
+E
+B
+
+8
+E
+B
+
+1
+R
+C
+
+2
+R
+C
+
+3
+R
+C
+
+4
+R
+C
+
+1
+I
+D
+
+2
+I
+D
+
+3
+I
+D
+
+F. Maleki, S. M. Hosseini
+
+t
+s
+u
+r
+T
+
+7
+0
+0
+.
+0
+
+5
+0
+0
+.
+0
+−
+
+5
+3
+0
+.
+0
+
+1
+6
+0
+.
+0
+
+6
+0
+0
+.
+0
+
+4
+0
+1
+.
+0
+
+7
+7
+0
+.
+0
+
+4
+5
+0
+.
+0
+
+7
+7
+0
+.
+0
+
+6
+0
+.
+0
+
+1
+2
+1
+.
+0
+
+6
+1
+.
+0
+
+6
+6
+1
+.
+0
+
+4
+4
+1
+.
+0
+
+7
+9
+0
+.
+0
+
+5
+8
+0
+.
+0
+
+4
+4
+0
+.
+0
+−
+
+9
+4
+0
+.
+0
+−
+
+7
+0
+0
+.
+0
+−
+
+3
+1
+0
+.
+0
+
+3
+0
+.
+0
+−
+
+4
+0
+7
+.
+0
+
+4
+5
+8
+.
+0
+
+3
+0
+.
+0
+
+2
+2
+0
+.
+0
+−
+
+7
+1
+0
+.
+0
+−
+
+3
+1
+0
+.
+0
+−
+
+2
+2
+0
+.
+0
+−
+
+7
+4
+0
+.
+0
+−
+
+9
+8
+0
+.
+0
+−
+
+1
+3
+0
+.
+0
+−
+
+6
+1
+0
+.
+0
+
+1
+0
+0
+.
+0
+−
+
+6
+3
+0
+.
+0
+
+9
+3
+0
+.
+0
+−
+
+7
+3
+0
+.
+0
+−
+
+1
+2
+0
+.
+0
+−
+
+4
+7
+0
+.
+0
+−
+
+3
+4
+0
+.
+0
+−
+
+3
+2
+8
+.
+0
+
+9
+7
+.
+0
+
+9
+1
+8
+.
+0
+
+6
+9
+7
+.
+0
+
+4
+6
+8
+.
+0
+
+8
+6
+0
+.
+0
+−
+
+1
+0
+0
+.
+0
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+e
+t
+a
+n
+o
+D
+
+h
+g
+i
+H
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+g
+n
+i
+p
+l
+e
+H
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+5
+7
+2
+.
+0
+
+1
+4
+1
+.
+0
+
+3
+2
+1
+.
+0
+
+4
+9
+1
+.
+0
+
+4
+1
+1
+.
+0
+
+2
+8
+2
+.
+0
+
+6
+9
+1
+.
+0
+
+2
+5
+2
+.
+0
+
+2
+2
+2
+.
+0
+
+6
+9
+1
+.
+0
+
+2
+4
+2
+.
+0
+
+8
+3
+3
+.
+0
+
+4
+7
+3
+.
+0
+
+9
+3
+9
+.
+0
+
+6
+2
+9
+.
+0
+
+3
+.
+0
+
+4
+4
+0
+.
+0
+−
+
+5
+4
+0
+.
+0
+−
+
+3
+4
+0
+.
+0
+−
+
+6
+0
+.
+0
+−
+
+3
+6
+0
+.
+0
+−
+
+5
+1
+0
+.
+0
+
+1
+0
+1
+.
+0
+
+2
+4
+5
+.
+0
+
+2
+5
+4
+.
+0
+
+5
+9
+2
+.
+0
+
+7
+2
+3
+.
+0
+
+2
+2
+3
+.
+0
+
+8
+3
+3
+.
+0
+
+2
+9
+4
+.
+0
+
+2
+2
+4
+.
+0
+
+3
+2
+5
+.
+0
+
+6
+0
+5
+.
+0
+
+9
+8
+4
+.
+0
+
+9
+3
+7
+.
+0
+
+8
+4
+8
+.
+0
+
+2
+6
+8
+.
+0
+
+8
+3
+.
+0
+
+7
+4
+3
+.
+0
+
+4
+4
+0
+.
+0
+−
+
+6
+0
+0
+.
+0
+−
+
+5
+2
+0
+.
+0
+−
+
+2
+5
+0
+.
+0
+−
+
+2
+2
+0
+.
+0
+−
+
+9
+0
+.
+0
+
+3
+8
+1
+.
+0
+
+7
+2
+5
+.
+0
+
+5
+6
+4
+.
+0
+
+8
+0
+3
+.
+0
+
+6
+2
+3
+.
+0
+
+1
+8
+2
+.
+0
+
+5
+3
+3
+.
+0
+
+3
+1
+8
+.
+0
+
+7
+1
+8
+.
+0
+
+3
+6
+8
+.
+0
+
+5
+2
+8
+.
+0
+
+5
+9
+7
+.
+0
+
+1
+1
+5
+.
+0
+
+4
+4
+4
+.
+0
+
+6
+6
+2
+.
+0
+
+7
+5
+2
+.
+0
+
+5
+.
+0
+
+6
+1
+0
+.
+0
+−
+
+4
+1
+0
+.
+0
+
+3
+0
+0
+.
+0
+−
+
+4
+4
+0
+.
+0
+−
+
+5
+0
+0
+.
+0
+−
+
+6
+3
+0
+.
+0
+
+8
+0
+.
+0
+
+1
+7
+4
+.
+0
+
+6
+6
+4
+.
+0
+
+4
+7
+7
+.
+0
+
+2
+2
+8
+.
+0
+
+6
+6
+7
+.
+0
+
+1
+8
+7
+.
+0
+
+7
+0
+3
+.
+0
+
+2
+9
+2
+.
+0
+
+6
+5
+3
+.
+0
+
+4
+3
+.
+0
+
+7
+3
+3
+.
+0
+
+7
+3
+4
+.
+0
+
+8
+2
+.
+0
+
+8
+8
+2
+.
+0
+
+8
+1
+.
+0
+
+7
+5
+1
+.
+0
+
+4
+4
+0
+.
+0
+−
+
+4
+4
+0
+.
+0
+−
+
+7
+2
+0
+.
+0
+−
+
+8
+3
+0
+.
+0
+−
+
+4
+0
+0
+.
+0
+
+1
+2
+0
+.
+0
+
+8
+8
+0
+.
+0
+
+2
+1
+8
+.
+0
+
+4
+0
+8
+.
+0
+
+9
+8
+3
+.
+0
+
+3
+4
+4
+.
+0
+
+9
+8
+4
+.
+0
+
+2
+6
+4
+.
+0
+
+8
+1
+5
+.
+0
+
+8
+5
+4
+.
+0
+
+4
+2
+5
+.
+0
+
+7
+8
+5
+.
+0
+
+6
+9
+5
+.
+0
+
+5
+9
+5
+.
+0
+
+5
+1
+5
+.
+0
+
+1
+1
+5
+.
+0
+
+5
+8
+2
+.
+0
+
+3
+.
+0
+
+9
+2
+0
+.
+0
+−
+
+7
+0
+0
+.
+0
+
+2
+1
+0
+.
+0
+−
+
+9
+0
+0
+.
+0
+−
+
+5
+0
+0
+.
+0
+−
+
+7
+1
+0
+.
+0
+
+2
+5
+0
+.
+0
+
+2
+2
+5
+.
+0
+
+2
+7
+4
+.
+0
+
+9
+3
+3
+.
+0
+
+3
+0
+4
+.
+0
+
+4
+4
+.
+0
+
+6
+0
+4
+.
+0
+
+4
+7
+3
+.
+0
+
+9
+2
+3
+.
+0
+
+3
+1
+4
+.
+0
+
+8
+2
+3
+.
+0
+
+4
+3
+3
+.
+0
+
+6
+9
+3
+.
+0
+
+3
+1
+4
+.
+0
+
+2
+8
+4
+.
+0
+
+1
+7
+3
+.
+0
+
+2
+7
+3
+.
+0
+
+2
+2
+0
+.
+0
+
+7
+1
+0
+.
+0
+−
+
+3
+0
+0
+.
+0
+
+7
+1
+0
+.
+0
+
+8
+3
+0
+.
+0
+
+3
+3
+0
+.
+0
+
+1
+0
+1
+.
+0
+
+5
+2
+7
+.
+0
+
+5
+9
+5
+.
+0
+
+2
+3
+.
+0
+
+7
+8
+3
+.
+0
+
+2
+2
+3
+.
+0
+
+1
+6
+3
+.
+0
+
+1
+8
+4
+.
+0
+
+4
+0
+4
+.
+0
+
+2
+9
+4
+.
+0
+
+1
+8
+4
+.
+0
+
+5
+5
+4
+.
+0
+
+1
+4
+4
+.
+0
+
+4
+6
+5
+.
+0
+
+4
+1
+6
+.
+0
+
+6
+3
+4
+.
+0
+
+4
+0
+4
+.
+0
+
+2
+0
+0
+.
+0
+−
+
+2
+4
+0
+.
+0
+
+1
+2
+0
+.
+0
+
+9
+0
+0
+.
+0
+−
+
+5
+1
+0
+.
+0
+
+3
+0
+0
+.
+0
+−
+
+9
+8
+0
+.
+0
+
+9
+7
+4
+.
+0
+
+7
+3
+4
+.
+0
+
+9
+4
+2
+.
+0
+
+2
+7
+2
+.
+0
+
+4
+9
+2
+.
+0
+
+2
+2
+.
+0
+
+3
+1
+3
+.
+0
+
+1
+3
+3
+.
+0
+
+8
+9
+3
+.
+0
+
+4
+7
+3
+.
+0
+
+3
+2
+4
+.
+0
+
+4
+9
+3
+.
+0
+
+9
+6
+4
+.
+0
+
+6
+5
+4
+.
+0
+
+6
+6
+3
+.
+0
+
+2
+4
+3
+.
+0
+
+8
+2
+0
+.
+0
+
+3
+2
+0
+.
+0
+
+6
+0
+0
+.
+0
+
+7
+0
+0
+.
+0
+−
+
+6
+0
+.
+0
+
+3
+0
+.
+0
+
+2
+9
+0
+.
+0
+
+3
+0
+5
+.
+0
+
+4
+9
+4
+.
+0
+
+9
+2
+.
+0
+
+6
+4
+3
+.
+0
+
+5
+5
+2
+.
+0
+
+8
+7
+3
+.
+0
+
+3
+1
+4
+.
+0
+
+9
+4
+3
+.
+0
+
+1
+6
+4
+.
+0
+
+9
+0
+4
+.
+0
+
+8
+9
+4
+.
+0
+
+6
+1
+4
+.
+0
+
+6
+8
+3
+.
+0
+
+5
+2
+.
+0
+
+4
+.
+0
+
+9
+1
+2
+.
+0
+
+1
+0
+.
+0
+−
+
+5
+2
+0
+.
+0
+−
+
+4
+3
+0
+.
+0
+−
+
+8
+4
+0
+.
+0
+−
+
+4
+0
+0
+.
+0
+−
+
+4
+0
+.
+0
+
+4
+7
+0
+.
+0
+
+4
+I
+D
+
+5
+I
+D
+
+1
+F
+E
+
+2
+F
+E
+
+3
+F
+E
+
+4
+F
+E
+
+1
+H
+H
+
+2
+H
+H
+
+3
+H
+H
+
+4
+H
+H
+
+5
+H
+H
+
+1
+D
+
+I
+
+2
+D
+
+I
+
+3
+D
+
+I
+
+1
+R
+
+I
+
+2
+R
+
+I
+
+1
+R
+
+2
+R
+
+3
+R
+
+4
+R
+
+5
+R
+
+1
+T
+S
+
+2
+T
+S
+
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+o
+T
+
+n
+o
+i
+
+t
+n
+e
+t
+n
+I
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+s
+
+’
+
+r
+e
+p
+l
+e
+H
+
+t
+
+r
+
+o
+
+f
+
+f
+
+E
+
+r
+
+o
+
+n
+
+o
+
+D
+
+y
+
+t
+
+i
+
+r
+
+a
+
+h
+C
+
+d
+
+n
+
+a
+
+r
+
+B
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+e
+
+v
+
+i
+
+t
+
+c
+
+e
+
+f
+
+f
+
+A
+
+s
+n
+o
+i
+t
+s
+e
+u
+Q
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+4
+
+e
+l
+b
+a
+T
+
+Charity donation intention via m-payment apps: donor-related,...
+
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+o
+T
+
+n
+o
+i
+
+t
+n
+e
+t
+n
+I
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+s
+
+’
+
+r
+e
+p
+l
+e
+H
+
+t
+
+r
+
+o
+
+f
+
+f
+
+E
+
+r
+
+o
+
+n
+
+o
+
+D
+
+y
+
+t
+
+i
+
+r
+
+a
+
+h
+C
+
+d
+
+n
+
+a
+
+r
+
+B
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+e
+
+v
+
+i
+
+t
+
+c
+
+e
+
+f
+
+f
+
+A
+
+s
+n
+o
+i
+t
+s
+e
+u
+Q
+
+)
+d
+e
+u
+n
+i
+t
+n
+o
+c
+(
+
+4
+
+e
+l
+b
+a
+T
+
+8
+8
+7
+.
+0
+
+3
+9
+7
+.
+0
+
+t
+s
+u
+r
+T
+
+2
+2
+0
+.
+0
+−
+
+3
+0
+.
+0
+−
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+e
+t
+a
+n
+o
+D
+
+h
+g
+i
+H
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+g
+n
+i
+p
+l
+e
+H
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+9
+0
+1
+.
+0
+
+6
+0
+.
+0
+
+7
+4
+1
+.
+0
+
+7
+5
+1
+.
+0
+
+7
+5
+0
+.
+0
+
+1
+1
+1
+.
+0
+
+3
+3
+0
+.
+0
+
+5
+0
+.
+0
+
+5
+1
+0
+.
+0
+
+8
+0
+.
+0
+
+9
+3
+0
+.
+0
+
+7
+3
+1
+.
+0
+
+2
+5
+0
+.
+0
+
+8
+9
+0
+.
+0
+
+8
+0
+.
+0
+
+5
+8
+0
+.
+0
+
+8
+3
+0
+.
+0
+
+6
+6
+0
+.
+0
+
+3
+T
+S
+
+4
+T
+S
+
+F. Maleki, S. M. Hosseini
+
+6
+8
+7
+.
+0
+
+9
+1
+8
+.
+0
+
+3
+0
+.
+0
+−
+
+4
+6
+0
+.
+0
+−
+
+8
+9
+0
+.
+0
+
+9
+3
+0
+.
+0
+−
+
+6
+1
+0
+.
+0
+−
+
+1
+9
+1
+.
+0
+
+5
+9
+0
+.
+0
+
+2
+3
+0
+.
+0
+−
+
+7
+6
+0
+.
+0
+
+4
+1
+0
+.
+0
+−
+
+6
+5
+0
+.
+0
+
+3
+2
+0
+.
+0
+
+6
+0
+1
+.
+0
+
+1
+1
+0
+.
+0
+
+5
+8
+0
+.
+0
+
+2
+3
+9
+.
+0
+
+9
+3
+.
+0
+
+8
+2
+.
+0
+
+2
+8
+1
+.
+0
+
+3
+1
+3
+.
+0
+
+9
+9
+3
+.
+0
+
+1
+5
+4
+.
+0
+
+8
+1
+8
+.
+0
+
+3
+2
+8
+.
+0
+
+4
+9
+5
+.
+0
+
+8
+9
+3
+.
+0
+
+9
+0
+4
+.
+0
+
+5
+5
+6
+.
+0
+
+1
+6
+6
+.
+0
+
+3
+3
+4
+.
+0
+
+8
+2
+5
+.
+0
+
+4
+6
+5
+.
+0
+
+2
+6
+6
+.
+0
+
+6
+8
+7
+.
+0
+
+9
+6
+5
+.
+0
+
+7
+0
+5
+.
+0
+
+3
+4
+4
+.
+0
+
+8
+7
+.
+0
+
+8
+5
+.
+0
+
+3
+7
+.
+0
+
+3
+1
+8
+.
+0
+
+6
+0
+7
+.
+0
+
+2
+7
+7
+.
+0
+
+9
+1
+8
+.
+0
+
+8
+5
+6
+.
+0
+
+2
+2
+5
+.
+0
+
+6
+2
+5
+.
+0
+
+9
+2
+3
+.
+0
+
+8
+4
+4
+.
+0
+
+8
+3
+5
+.
+0
+
+8
+3
+.
+0
+
+4
+3
+0
+.
+0
+
+7
+9
+0
+.
+0
+
+t
+s
+u
+r
+T
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+e
+t
+a
+n
+o
+D
+
+h
+g
+i
+H
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+g
+n
+i
+p
+l
+e
+H
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+6
+7
+8
+.
+0
+
+e
+v
+i
+t
+c
+e
+f
+f
+
+A
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+1
+1
+4
+.
+0
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+7
+9
+5
+.
+0
+
+1
+4
+4
+.
+0
+
+2
+6
+.
+0
+
+5
+0
+4
+.
+0
+
+6
+9
+4
+.
+0
+
+9
+2
+5
+.
+0
+
+2
+5
+2
+.
+0
+
+4
+2
+0
+.
+0
+−
+
+2
+7
+0
+.
+0
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+y
+t
+i
+r
+a
+h
+C
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+r
+o
+f
+f
+E
+
+r
+o
+n
+o
+D
+
+g
+n
+i
+p
+l
+e
+H
+
+d
+n
+a
+r
+B
+
+’
+
+h
+g
+i
+H
+s
+
+r
+e
+p
+l
+e
+H
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+o
+T
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+e
+t
+a
+n
+o
+D
+
+o
+T
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+t
+s
+u
+r
+T
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+s
+
+’
+
+r
+e
+p
+l
+e
+H
+
+t
+
+r
+
+o
+
+f
+
+f
+
+E
+
+r
+
+o
+
+n
+
+o
+
+D
+
+y
+
+t
+
+i
+
+r
+
+a
+
+h
+C
+
+d
+
+n
+
+a
+
+r
+
+B
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+e
+v
+i
+
+t
+
+c
+
+e
+
+f
+
+f
+
+A
+
+n
+o
+i
+r
+e
+t
+i
+r
+
+C
+
+r
+e
+k
+c
+r
+a
+L
+-
+l
+l
+e
+n
+r
+o
+F
+-
+y
+t
+i
+d
+i
+l
+a
+v
+
+t
+n
+a
+n
+i
+m
+
+i
+r
+c
+s
+i
+D
+
+5
+
+e
+l
+b
+a
+T
+
+Charity donation intention via m-payment apps: donor-related,...
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+o
+T
+
+n
+o
+i
+
+t
+n
+e
+t
+n
+I
+
+o
+T
+
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+s
+
+’
+
+r
+e
+p
+l
+e
+H
+
+t
+
+r
+
+o
+
+f
+
+f
+
+E
+
+r
+
+o
+
+n
+
+o
+
+D
+
+y
+
+t
+
+i
+
+r
+
+a
+
+h
+C
+
+d
+
+n
+
+a
+
+r
+
+B
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+e
+
+v
+
+i
+
+t
+
+c
+
+e
+
+f
+
+f
+
+A
+
+)
+T
+M
+T
+H
+
+(
+
+o
+i
+t
+a
+R
+
+t
+i
+a
+r
+t
+o
+n
+o
+M
+
+-
+t
+i
+a
+r
+t
+o
+r
+e
+t
+e
+H
+
+6
+
+e
+l
+b
+a
+T
+
+6
+5
+0
+.
+0
+
+7
+0
+.
+0
+
+9
+0
+1
+.
+0
+
+3
+5
+0
+.
+0
+
+7
+3
+2
+.
+0
+
+3
+5
+0
+.
+0
+
+7
+0
+1
+.
+0
+
+5
+0
+.
+0
+
+8
+8
+0
+.
+0
+
+7
+8
+4
+.
+0
+
+2
+2
+3
+.
+0
+
+1
+2
+2
+.
+0
+
+8
+2
+7
+.
+0
+
+4
+7
+4
+.
+0
+
+1
+3
+5
+.
+0
+
+2
+9
+6
+.
+0
+
+5
+6
+7
+.
+0
+
+4
+3
+8
+.
+0
+
+4
+6
+3
+.
+0
+
+4
+0
+.
+0
+
+6
+8
+0
+.
+0
+
+8
+5
+6
+.
+0
+
+2
+6
+.
+0
+
+9
+7
+4
+.
+0
+
+9
+3
+6
+.
+0
+
+5
+4
+.
+0
+
+4
+3
+0
+.
+0
+
+3
+3
+1
+.
+0
+
+9
+4
+7
+.
+0
+
+4
+1
+8
+.
+0
+
+9
+1
+5
+.
+0
+
+6
+2
+6
+.
+0
+
+8
+9
+7
+.
+0
+
+5
+1
+5
+.
+0
+
+6
+3
+0
+.
+0
+
+6
+0
+1
+.
+0
+
+4
+5
+7
+.
+0
+
+3
+9
+5
+.
+0
+
+2
+6
+.
+0
+
+1
+0
+4
+.
+0
+
+8
+1
+5
+.
+0
+
+6
+7
+6
+.
+0
+
+2
+5
+4
+.
+0
+
+7
+5
+0
+.
+0
+
+2
+1
+1
+.
+0
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+e
+t
+a
+n
+o
+D
+
+h
+g
+i
+H
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+g
+n
+i
+p
+l
+e
+H
+
+t
+n
+e
+m
+
+t
+i
+
+m
+m
+o
+C
+
+1
+8
+4
+.
+0
+
+s
+d
+r
+a
+w
+o
+t
+
+e
+d
+u
+t
+i
+t
+t
+
+A
+
+6
+7
+6
+.
+0
+
+6
+8
+4
+.
+0
+
+1
+3
+7
+.
+0
+
+t
+n
+e
+m
+e
+g
+a
+g
+n
+E
+
+n
+o
+i
+t
+a
+t
+u
+p
+e
+R
+
+y
+t
+i
+r
+a
+h
+C
+
+t
+n
+e
+m
+e
+v
+l
+o
+v
+n
+I
+
+r
+o
+n
+o
+D
+
+g
+n
+i
+p
+l
+e
+H
+
+d
+n
+a
+r
+B
+
+9
+8
+4
+.
+0
+
+y
+c
+n
+a
+t
+c
+e
+p
+x
+E
+
+t
+r
+o
+f
+f
+E
+
+9
+6
+5
+.
+0
+
+4
+6
+6
+.
+0
+
+6
+9
+2
+.
+0
+
+6
+4
+0
+.
+0
+
+4
+8
+0
+.
+0
+
+’
+
+h
+g
+i
+H
+s
+
+r
+e
+p
+l
+e
+H
+
+d
+n
+e
+m
+m
+o
+c
+e
+R
+
+o
+T
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+e
+t
+a
+n
+o
+D
+
+o
+T
+n
+o
+i
+t
+n
+e
+t
+n
+I
+
+t
+s
+u
+r
+T
+m
+e
+t
+s
+y
+S
+
+y
+t
+i
+s
+o
+i
+g
+i
+l
+e
+R
+
+Table 7 Summary of the structural model
+
+Hypotheses Paths
+
+F. Maleki, S. M. Hosseini
+
+P a t h
+Coefficients
+
+T -
+Values
+
+P
+Values
+
+Results
+
+H1: Donor involvement→ donor-brand engagement
+H2: Donor involvement→ donors’ affective commitment
+H3: Charity reputation→ donor-brand engagement
+H4: Donor-brand engagement→ donors’ affective commitment
+H5: Donor-brand engagement→ intention to donate via
+
+0.483
+
+0.395
+
+0.426
+
+0.308
+
+0.32
+
+11.812 0.000
+
+Supported
+
+6.321 0.000
+
+Supported
+
+10.393 0.000
+
+Supported
+
+4.81
+
+0.000
+
+Supported
+
+6.189 0.000
+
+Supported
+
+m-payment apps
+
+H6: Affective commitment→ intention to donate via m-payment
+
+0.122
+
+2.708 0.007
+
+Supported
+
+apps
+
+H7: Attitude toward helping others→ intention to donate via
+
+0.132
+
+3.027 0.002
+
+Supported
+
+m-payment apps
+
+H8: Helpers’ high→ intention to donate via m-payment apps
+H9: Religiosity→ intention to donate via m-payment apps
+
+0.257
+−0.035
+
+6.253 0.000
+
+Supported
+
+1.181 0.238 Not
+
+Supported
+
+H10: Religiosity→ attitude toward helping others
+
+0.034
+
+0.482 0.63
+
+Not
+
+Supported
+
+H11: Effort expectancy→ intention to donate via m-payment apps
+
+0.063
+
+1.467 0.143 Not
+
+Supported
+
+H12: System trust→ intention to donate via m-payment apps
+H13: Intention to donate via m-payment apps→ intention to
+
+recommend donating via m-payment apps
+
+0.113
+
+0.39
+
+3.145 0.002
+
+Supported
+
+10.624 0.000
+
+Supported
+
+a scale from 0 to 100. The highest performances belong to religiosity. Also, donor-brand
+engagement is the variable with the highest importance for the intention to donate via m-
+payment apps. According to Fig. 2, donor-brand engagement, helper’s high, and donor
+involvement fall into the ‘maintain’ quadrant for target construct. Also, m-payment system-
+related factors are positioned in the quadrant of ‘possible overkill.’
+
+5 Discussions
+
+This research offers an understanding of the intention to donate via m-payment apps as
+online platforms for donation. This study investigates the influence of donor-related
+
+Table 8 Result of R2 and Q2
+
+Constructs
+
+R Square
+
+Q Square
+
+Affective commitment
+
+Attitude towards helping others
+
+Donor-brand engagement
+
+Intention to donate via m-payment apps
+
+Intention to recommend donating via m-payment apps
+
+0.429
+
+0.001
+
+0.653
+
+0.549
+
+0.152
+
+0.308
+
+0.00
+
+0.36
+
+0.34
+
+0.126
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Table 9 Effect Sizes (f2) of the Latent Variables
+
+Structural Path
+
+Effect Size
+(f2)
+
+Rating
+
+Donor involvement→ donor-brand engagement
+Donor involvement→ donors’ affective commitment
+Charity reputation→ donor-brand engagement
+Donor-brand engagement→ donors’ affective commitment
+Donor-brand engagement→ intention to donate via m-payment apps
+Affective commitment→ intention to donate via m-payment apps
+Attitude toward helping others→ intention to donate via m-payment apps
+Helpers’ high→ intention to donate via m-payment apps
+Religiosity→ intention to donate via m-payment apps
+Religiosity→ attitude toward helping others
+Effort expectancy→ intention to donate via m-payment apps
+System trust→ intention to donate via m-payment apps
+Intention to donate via m-payment apps→ intention to recommend donating via
+
+m-payment apps
+
+0.446
+
+0.128
+
+0.346
+
+0.078
+
+0.09
+
+0.019
+
+0.022
+
+0.09
+
+0.003
+
+0.001
+
+0.007
+
+0.028
+
+0.18
+
+Large
+
+Medium
+
+Large
+
+Medium
+
+Medium
+
+Small
+
+Small
+
+Medium
+
+Small
+
+Small
+
+Small
+
+Small
+
+Large
+
+factors, system-related factors, and brand-related factors on the intention to donate via
+m-payment apps, and on the extent to which donors will be likely to recommend
+donating via this platform.
+
+This investigation proposes a model of the antecedents and consequences of donor-
+brand engagement in which charity reputation and donor involvement are the anteced-
+ents, and affective commitment and the intention to donate via m-payment apps are the
+consequences. The analysis of this model showed that donor-brand engagement exerted
+a highly significant influence on the intention to donate via m-payment apps. The
+drivers of engagement that have been suggested by the literature in the context of
+charities and non-profit organizations (Bennett 2013, Algharabat et al. 2018) offered a
+sound explanation of donor-brand engagement in the context of donating via m-
+payment apps. In the context of charities as organizations that offer intangible services,
+
+Table 10 Data for importance-performance map for Intention to donate via m-payment app
+
+Constructs
+
+Importance (total effects)
+
+Performance
+
+Affective Commitment
+
+Attitude towards helping others
+
+Donor-brand engagement
+
+Charity Reputation
+
+Donor Involvement
+
+Effort Expectancy
+Helper’s High
+Religiosity
+
+System Trust
+
+0.122
+
+0.132
+
+0.357
+
+0.152
+
+0.221
+
+0.063
+
+0.257
+−0.031
+0.113
+
+75.903
+
+85.253
+
+84.552
+
+83.901
+
+79.706
+
+75.434
+
+73.721
+
+84.934
+
+88.474
+
+F. Maleki, S. M. Hosseini
+
+Fig. 2 Importance-Performance map for Intention to donate via m-payment apps
+
+reputation plays a vital role in convincing donors to make contributions (Meijer, 2009).
+Reputation influences donors’ experiences and makes it develop by deeply embedding
+the charity values in its activities. So, charities with an excellent reputation are expected
+to create high levels of engagement. Also, the involved donors have a remarkable
+relevance to a branded charity. Thus donor involvement is an antecedent of donor
+engagement, and a higher level of involvement leads to a higher level of engagement.
+Likewise, a strong feeling of involvement boosts affective commitment. Involvement,
+as the perceived relevance to the charity according to the donors’ inherent needs,
+values, and interests, influences affective commitment.
+
+Engaged donors are highly likely to donate via m-payment apps that are similar to
+the results of previous researches (Bennett 2013, Algharabat et al. 2018) in the context
+of donation. The donor-brand engagement, which involves dedication to the branded
+charity, goes beyond involvement to affective commitment to donation. Engagement
+engenders a close and strong bond between donors and the branded charity. Engaged
+donors would be eager to maintain the valued relationship by developing affective
+commitment, which is a psychological attachment to the branded charity who is their
+partner in this relationship.
+
+Moreover, affectively committed donors feel a more emotional bond with the
+branded charity. These donors have a greater tendency to donate via m-payment apps.
+Commitment and donation intention are related concepts. There is a significant rela-
+tionship between the level of a donor’s commitment and her/his intention to donate
+(Merchant, Ford and Rose 2011). Individuals who are engaged in charity are more
+likely to perceive themselves as committed donors to the charity. The affectively
+committed donors have a high tendency to remain adherent to their commitment to
+the charity and make donations via m-payment apps.
+
+In this study, attitude toward helping others, helper’s high, and religiosity were
+investigated as donor-related factors. Results show that attitude toward helping others
+and helper’s high affect the intention to donate via m-payment apps positively. These
+results are supported by previous studies (Bennett 2006; Veludo-de-Oliveira et al.
+2017; Bennett 2018; Kwak et al. 2018; Allred and Amos 2018). Attitude toward
+helping others can be influenced by social-cultural phenomena and beliefs (Roberts
+& David, 2019), but the helper’s high arises from the experience of positive inner
+
+Charity donation intention via m-payment apps: donor-related,...
+
+emotion and donors’ self-esteem. The effect of religiosity on attitude toward helping
+others and intention to donate via m-payment apps were insignificant, which is in line
+with the studies of Lwin et al. (2014) and Arli & Lasmono (2015), but are counter to
+Roberts & David (2019). Iran is a Muslim country, but religion does not necessarily
+affect donors’ intention to donate and attitude toward helping others. According to
+Finney (1978), religious commitment has a different dimension, including ritual prac-
+tice, knowledge, experience, belief, and devotional practice. In Iran, religious teachings
+are often concentrated on ritual practices rather than the devotional practice, which can
+be due to the dominance of jurisprudence. On the other hand, all religious commitment
+dimensions have not necessarily developed evenly in a religious person; in other words,
+all religious commitment may not be seen in religious individuals’ behaviors and
+intentions.
+
+On the one hand, donors remain anonymous when donating via m-payment apps;
+hence primary donation motivations may be restricted to internalized ones. On the other
+hand, in the theory of the leisure class, Veblen (1899) considers conspicuous consump-
+tion as a way of showing wealth and social status. He refers to the concept of
+conspicuous consumption as consumption, not merely to satisfy needs, but also to
+acquire greater respect and dignity and resemblance to the upper classes in modern and
+urban societies. Furthermore, conspicuous displays of different affiliations such as
+religious affiliations are a way of signaling belonging to a special social group and
+represent a person’s perceived or actual place in that society (Johnson and Tariq 2016).
+According to the results of this study, it can be concluded that Iranian religious donors
+are motivated by a desire to be seen as responsible members of the religious society,
+and consequently be awarded social esteem. As the identity of donors remains un-
+known when donating via m-payment apps, Iranian religious donors would not be
+motivated only by altruistic reasons.
+
+Effort expectancy and trust in the m-payment system were examined as m-payment
+system-related factors affecting the intention to donate via m-payment apps. Effort
+expectancy does not influence the intention to donate via m-payment apps. However,
+effort expectancy has been acknowledged as an effective factor in the early stages of
+the adoption of m-payment; since charity is one of the newly added services to m-
+payment apps, it has become easier for users to use these apps. On the other hand, the
+process of donating via m-payment apps is effortless and has no complexity. So, effort
+expectancy does not significantly affect donations via m-payment apps.
+
+M-payment technology is well-known and has passed its early stages and has now
+been proliferated; therefore, it is trusted by consumers. In other words, the m-payment
+transaction process satisfies consumers’ expectations. The reason is that if anything
+goes wrong, or something contrary to consumer expectations occurs, consumers would
+just stop using m-payment apps and move onto another transfer method. So, trust in the
+m-payment system plays an important role in consumers’ intention to use it. Trust in an
+m-payment system affects donors’ intention to donate via m-payment apps as a method
+of monetary transfer.
+
+As can be seen, helper’s high which is in the lowest right area of the importance-
+performance map, has high importance for the intention to donate via m-payment apps,
+but shows the lowest performance. Thus, there is a notably high potential for improving
+the performance of the intention to donate via m-payment apps by concentrating on
+helper’s high. In addition, helper’s high would possibly prohibit the donors from
+
+F. Maleki, S. M. Hosseini
+
+distinguishing between or involving in charity organizations, and experiencing the
+warm glow of giving could be an incentive to donate via m-payment apps. So,
+reputation and involvement are less important than the act of donation.
+
+Moreover, m-payment system-related factors have lower importance relative to the
+other constructs (donor-related factors and charity brand-related factors) in the
+importance-performance map, and have a lower priority for performance improve-
+ments. Hence investing in the performance improvement of m-payment system-related
+factors which have very small importance for improving the intention to donate via m-
+payment apps would not be logical. However, m-payment apps remove restrictions on
+time and location and help users to transfer money anytime and anywhere. Passing the
+early stages of proliferation facilitates the technology and makes it a simple operation
+for users. But, regardless of effort expectancy, if the user sees the advantages of using
+the m-payment system are incompatible with the intended purpose, he or she may not
+be willing to use m-payment for transferring money (Oliveira et al. 2016). According to
+the theory of social exchange, if donation via m-payment apps does not have any
+special social benefits for the donor, the incompatibility with the donors’ need for social
+exchange dissuades him or her from donating via m-payment.
+
+Furthermore, religiosity has the lowest importance but relatively high performance.
+So, focusing on religious donors to create a stronger intention to donate via m-payment
+apps is a wasted effort.
+
+6 Conclusion and implication
+
+This study aims to examine the impact of donor-related factors (helper’s high, religi-
+osity, and attitude toward helping others), m-payment system-related factors (system
+trust, and effort expectancy) and charity brand-related factors (a donor-brand engage-
+ment model) on the intention to donate via m-payment apps and intention to recom-
+mend this technology to others. This research suggests a donor-brand engagement in
+which charity reputation and donor involvement are the antecedents, and affective
+commitment and intention to donate via m-payment apps are the consequences of
+donor-brand engagement.
+
+As the donation payment method influences tangible and intangible costs and
+benefits, donation via m-payment would contribute to the donation intention. Donation
+via m-payment apps would affect the market segmentation and target group selection
+process of charities. Patently, wealthy donors who seek social status by donating in
+public are not the target group anymore. Donating via m-payment apps, the donors
+remain unknown, and the donor is not directly observable. Remaining unknown will
+affect donors’ donation intention. So, charities need to revise the demands and needs of
+their target group.
+
+Self and social identities are important factors contributing to donation intention.
+Since in the context of donation via m-payment apps social identity is not salient, the
+donors’ intention to donate via m-payment apps should match his/her self-identity.
+According to Terry et al. (1999) the influence of self-identity on behavioral intention is
+not dependent on whether the behavior had been performed in the past or not. So self-
+identity would motivate individual donation intention if the charity is one that the
+person has already engaged with (an engaged donor), or one that motivates a donor to
+
+Charity donation intention via m-payment apps: donor-related,...
+
+support at that moment in time from the shortlist of charity brands (e.g., due to the
+awareness of the issue).
+
+On the other hand, as charity brands are a focal cue for donors engaging in pro-social
+behavior, charities need strong brands more than ever. A strong brand is well-known to
+the target groups of the charity (Wymer et al. 2016), and has a good chance of being
+selected by donors in a shortlist of the m-payment app.
+
+As the results show in this study, donor-brand engagement is the most crucial factor
+in donation intention via m-payment apps in Iran. So, charities need to enhance donors’
+engagement. On the other hand, donors’ involvement and the charity’s reputation are
+important constructs in explaining donor-brand engagement. Thus charities can get
+more engagement from donors by intensifying donors’ involvement and the charity’s
+reputation.
+
+Charities can hold meetings with donors and talk about their activities. By providing
+opportunities for effective interaction, charities can raise donors’ perceived relevance and
+feelings of identification, which leads to donors’ involvement and, in turn, engenders
+engaged donors. Likewise, charities need to consider effective communication strategies
+that speak to their donors. Also, they should connect with donors, whose donations they
+rely on, and inform them about the positive differences their activities have made to
+people’s lives. This can raise awareness about the charity’s reputation. Furthermore, as the
+need for social representation and identification is a driver of commitment (Bloemer and
+Odekerken-Schröder 2003), it is important that donors feel they are a part of the conver-
+sations and communications. So, the meetings and effective interactions between charities
+and donors can boost donors’ affective commitment and engagement, which, in turn,
+causes greater future intention to donate via m-payment apps.
+
+Since engagement is the donors’ pride and passion for the branded charity, it derives
+from the psychological and interactive bond between the donors and branded charities,
+the charity managers should focus on the application of relationship marketing as an
+instrument for sustaining the donor-brand relationship and connection.
+
+Moreover, sharing experiences with others is likely to make donors feel more
+engaged in a brand (Bennett 2013), so a growth in brand engagement can lead to
+stronger tendencies to recommend donating to the respective charity via m-payment
+apps. Thus, as the most valuable asset of charity brands is their ability to achieve
+positive differentiation in the minds of their donors, branding strategies should be
+applied to attract more engaged donors.
+
+The helper’s high is the second most important construct that affects the intention to
+donate via m-payment apps in this study. Pro-social behavior including donating
+money to charities creates a pleasurable “helper’s high” that benefits the giver. Rudd
+et al. (2014) believe that “the hedonic benefit givers receive from their pro-social acts
+depends, at least in part, on the degree to which givers perceive that their actions had
+the desired pro-social effect . So, if the donors know that their donation made a positive
+difference in other people’s lives, they feel more positive emotions and happiness.
+Thus, charities can boost helper’s high, and consequently, the intention to donate via m-
+payment apps by defining a tracking code. A tracking code can specify the final pro-
+social effect of a donation, and donors would be influenced by the desired pro-social
+effect which their donations have created.
+
+Despite the fact that m-payment system-related factors may be important in the early
+stages of development and adoption of these technologies, they are not sufficient to
+
+F. Maleki, S. M. Hosseini
+
+persuade donors to donate via m-payment apps. So, m-payment app providers should
+design these apps considering donors’ involvement and engagement in a way that
+donors are inspired to donate via m-payment apps. Involved consumers contemplate
+the future benefit of the relationship (Carvalho and Fernandes 2018). Thus, as
+expressed by the social exchange theory, cost-benefit analysis of involved consumers
+causes dedication and commitment (Osei-Frimpong and McLean 2018). Conforming to
+social exchange theory, donations are a result of cost-benefit analysis in that donors
+compare the benefits of donating against the cost of such behavior. So, app providers
+can suggest free services according to the donation sum or frequency of donation via
+m-payment apps, which can be considered as benefits of donating via m-payment apps.
+As a consequence, donors would receive the intangible benefit of donating via m-
+payment for the tangible benefit of using free services.
+
+Users’ tendency to recommend a technology can be pivotal post-adoption behavior,
+the result of which is standing out in the respective market. In comparison to other recent
+studies (Miltgen et al. 2013; Oliveira et al. 2016; Verkijika 2020) that have investigated
+the impact of intention to use other information technology services on recommending
+using the technologies to others, this study shows a lower value of the variance when it
+comes to recommendation. Vargo (2016) stated that consumers would share information
+with friends in order to give them a chance to receive tangible value, considerable gain,
+and benefit or free things. Also, Saxton (1995), believed “The environmental motivation
+is the simplest of forces: people do things because their peers are doing it, or their
+immediate environment will change, or they may directly benefit . So, charity managers
+should offer giveaways, grants, or other obvious beneficial suggestions as ways to
+encourage donors to recommend donating via m-payment apps.
+
+According to the demographic information of the sample, relatively young middle-
+income donors can be a good target market for charities looking to achieve fundraising
+goals via an online platform such as m-payment apps. They are more inclined to use
+technology, and due to their middle-income, their donation sums are possibly small. So,
+they would prefer anonymity to conspicuous giving.
+
+7 Future directions
+
+Like any empirical study, this study is subject to limitations that future research can
+overcome. Since donation is a social-cultural behavior, more cross-cultural investigation
+of intention to donate via m-payment apps should be done. Also, more research should be
+done into the branding strategies in the context of donation via online platforms especially
+m-payment apps. Furthermore, future research may study to what extent technology-
+mediated or mobile-mediated civic engagement is welcomed in religious societies.
+
+References
+
+Algharabat, R., Rana, N. P., Alalwan, A. A., Baabdullah, A., & Gupta, A. (2020). Investigating the
+antecedents of customer brand engagement and consumer-based brand equity in social media. Journal
+of Retailing and Consumer Services, 53. https://doi.org/10.1016/j.jretconser.2019.01.016.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Algharabat, R., Rana, N. P., Dwivedi, Y. K., Alalwan, A. A., & Qasem, Z. (2018). The effect of telepresence,
+social presence and involvement on consumer brand engagement: An empirical study of non-profit
+organizations. Journal of Retailing and Consumer Services, 40, 139–149.
+
+Alhidari, I. S., Veludo-de-Oliveira, T. M., Yousafzai, S. Y., & Yani-de-Soriano, M. (2018). Modeling the
+effect of multidimensional trust on individual monetary donations to charitable organizations. Nonprofit
+and Voluntary Sector Quarterly, 47(3), 623–644.
+
+Allred, A., & Amos, C. (2018). Disgust images and nonprofit children’s causes. Journal of Social Marketing,
+
+8(1), 120–140.
+
+Arli, D., & Lasmono, H. (2015). Are religious people more caring? Exploring the impact of religiosity on
+charitable organizations in a developing country. International Journal of Nonprofit and Voluntary Sector
+Marketing, 20(1), 38–51.
+
+Bailey, A. A., Pentina, I., Mishra, A. S., & Ben Mimoun, M. S. (2020). Exploring factors influencing US
+millennial consumers’ use of tap-and-go payment technology. The International Review of Retail,
+Distribution and Consumer Research, 30(2), 143–163.
+
+Bekkers, R., & Wiepking, P. (2011). A literature review of empirical studies of philanthropy: Eight
+mechanisms that drive charitable giving. Nonprofit and Voluntary Sector Quarterly, 40(5), 924–973.
+Bennett, R. (2006). Predicting the lifetime durations of donors to charities. Journal of Nonprofit & Public
+
+Sector Marketing, 15(1–2), 45–67.
+
+Bennett, R. (2009). Impulsive donation decisions during online browsing of charity websites. Journal of
+
+Consumer Behaviour: An International Research Review, 8(2–3), 116–134.
+
+Bennett, R. (2013). Elements, causes and effects of donor engagement among supporters of UK charities.
+
+International Review on Public and Nonprofit Marketing, 10(3), 201–220.
+
+Bennett, R. (2018). Financial charity giving behaviour of the working poor: An empirical investigation.
+
+Journal of Marketing Management, 34(17–18), 1587–1607.
+
+Bennett, R., & Savani, S. (2004). Factors influencing the willingness to donate body parts for transplantation.
+
+Journal of Health & Social Policy, 18(3), 61–85.
+
+Bloemer, J., & Odekerken-Schröder, G. (2003). Antecedents and consequences of affective commitment.
+
+Australasian Marketing Journal (AMJ), 11(3), 33–43.
+
+Briggs, E., Peterson, M., & Gregory, G. (2010). Toward a better understanding of volunteering for nonprofit
+organizations: Explaining volunteers’ pro-social attitudes. Journal of Macromarketing, 30(1), 61–76.
+Cao, Q., & Niu, X. (2019). Integrating context-awareness and UTAUT to explain Alipay user adoption.
+
+International Journal of Industrial Ergonomics, 69, 9–13.
+
+Carvalho, A., & Fernandes, T. (2018). Understanding customer brand engagement with virtual social
+communities: A comprehensive model of drivers, outcomes and moderators. Journal of Marketing
+Theory and Practice, 26(1–2), 23–37.
+
+Chemingui, H., & Ben Lallouna, H. (2013). Resistance, motivations, trust and intention to use mobile financial
+
+services. International Journal of Bank Marketing, 31(7), 574–592.
+
+Chen, Y. R. R. (2018). Strategic donor engagement on mobile social networking sites for mobile donations: A
+
+study of millennial WeChat users in China. Chinese Journal of Communication, 11(1), 26–44.
+
+Chen, W., & Givens, T. (2013). Mobile donation in America. Mobile Media & Communication, 1(2), 196–
+
+212.
+
+Cho, M., Lemon, L. L., Levenshus, A. B., & Childers, C. C. (2019). Current students as university donors?:
+Determinants in college students’ intentions to donate and share information about university
+crowdfunding efforts. International Review on Public and Nonprofit Marketing, 16(1), 23–41.
+
+Choi, B., & Kim, M. (2016). Donation via Mobile applications: A study of the factors affecting Mobile
+donation application use. International Journal of Human–Computer Interaction, 32(12), 967–974.
+Choi, S., Kim, H., Chung, M., & Lee, S. Y. (2019). Online donation experiences, donation awareness, and
+intention of future donation among teenagers in South Korea. Journal of Social Service Research, 45(5),
+622–633.
+
+Dwivedi, A. (2015). A higher-order model of consumer brand engagement and its impact on loyalty
+
+intentions. Journal of Retailing and Consumer Services, 24, 100–109.
+
+Erciş, A., Ünal, S., Candan, F. B., & Yıldırım, H. (2012). The effect of brand satisfaction, trust and brand
+commitment on loyalty and repurchase intentions. Procedia-Social and Behavioral Sciences, 58, 1395–
+1404.
+
+Fang, Y. H. (2017). Beyond the usefulness of branded applications: Insights from consumer–brand engage-
+
+ment and self-construal perspectives. Psychology & Marketing, 34(1), 40–58.
+
+Finney, J. M. (1978). A theory of religious commitment. Sociological Analysis, 39(1), 19–35.
+France, C., Merrilees, B., & Miller, D. (2016). An integrated model of customer-brand engagement: Drivers
+
+and consequences. Journal of Brand Management, 23(2), 119–136.
+
+F. Maleki, S. M. Hosseini
+
+Fullerton, G. (2005). How commitment both enables and undermines marketing relationships. European
+
+Journal of Marketing, 39(11–12), 1372–1388.
+
+Hair Jr., J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2016). A primer on partial least squares structural
+
+equation modeling (PLS-SEM). Sage publications.
+
+Hassay, D. N., & Peloza, J. (2009). Building the charity brand community. Journal of Nonprofit & Public
+
+Sector Marketing, 21(1), 24–55.
+
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in
+variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–
+135.
+
+Hopkins, C. D., Shanahan, K. J., & Raymond, M. A. (2014). The moderating role of religiosity on nonprofit
+
+advertising. Journal of Business Research, 67(2), 23–31.
+
+Hudson, J. (2008). The branding of charities. In A. Sargeant & W. Wymer (Eds.), The Routledge companion
+
+to nonprofit marketing (pp. 70–81). New York, NY: Routledge.
+
+Human, D., & Terblanche, N. S. (2012). Who receives what? The influence of the donation magnitude and
+donation recipient in cause-related marketing. Journal of Nonprofit & Public Sector Marketing, 24(2),
+141–160.
+
+Jarvis, W., Ouschan, R., Burton, H., Soutar, G., & O’Brien, I. (2017). Customer engagement in CSR: A utility
+theory model with moderating variables. Journal of Service Theory and Practice, 27(4), 833–853.
+Jeng, S. P. (2016). The influences of airline brand credibility on consumer purchase intentions. Journal of Air
+
+Transport Management, 55, 1–8.
+
+Johnson, C. M., & Tariq, A. (2016). Need for status as a motive for the conspicuous consumption of cause-
+related goods. In K. Kim (Ed.), Celebrating America’s pastimes: Baseball, hot dogs, apple pie and
+marketing?. Developments in marketing science: Proceedings of the academy of marketing science (pp.
+19–23). Cham: Springer.
+
+Jordan, P. J., & Troth, A. C. (2020). Common method bias in applied settings: The dilemma of researching in
+
+organizations. Australian Journal of Management, 45(1), 3–14.
+
+Khan, I., Rahman, Z., & Fatma, M. (2016). The role of customer brand engagement and brand experience in
+online banking. International Journal of Bank Marketing, 34(7), 1025–1041. https://doi.org/10.1108
+/IJBM-07-2015-0110.
+
+Kleinschafer, J., Morrison, M., & Dowell, D. (2018). The importance of the service encounter in influencing
+identity salience and volunteering behavior in the cultural sector. International Review on Public and
+Nonprofit Marketing, 15(4), 455–474.
+
+Kock, N. (2015). Common method bias in PLS-SEM: A full collinearity assessment approach. International
+
+Journal of e-Collaboration (ijec), 11(4), 1–10.
+
+Kull, A. J., & Heath, T. B. (2016). You decide, we donate: Strengthening consumer–brand relationships
+through digitally co-created social responsibility. International Journal of Research in Marketing, 33(1),
+78–92.
+
+Kumar, J., & Nayak, J. (2019). Consumer psychological motivations to customer brand engagement: A case
+of brand community. Journal of Consumer Marketing, 36(1), 168–177. https://doi.org/10.1108/JCM-01-
+2018-2519.
+
+Kwak, D. H. A., Ramamurthy, K. R., Nazareth, D., & Lee, S. (2018). The moderating role of helper’s high in
+anchoring process: An empirical investigation in the context of charity website design. Computers in
+Human Behavior, 84, 230–244.
+
+Li, Q. (2017). Research on impact factors for online donation behavior of bank customer. The Journal of
+
+Finance and Data Science, 3(1–4), 13–19.
+
+Li, Y. Z., He, T. L., Song, Y. R., Yang, Z., & Zhou, R. T. (2018). Factors impacting donors’ intention to
+donate to charitable crowd-funding projects in China: A UTAUT-based model. Information,
+Communication & Society, 21(3), 404–415.
+
+Lindell, M. K., & Whitney, D. J. (2001). Accounting for common method variance in crosssectional research
+
+designs. Journal of Applied Psychology, 86(1), 114–121.
+
+Liu, L., Suh, A., & Wagner, C. (2018). Empathy or perceived credibility? An empirical study on individual
+donation behavior in charitable crowdfunding. Internet Research, 28(3), 623–651. https://doi.org/10.1108
+/IntR-06-2017-0240.
+
+Lu, Y., Yang, S., Chau, P. Y., & Cao, Y. (2011). Dynamics between the trust transfer process and intention to
+use mobile payment services: A cross-environment perspective. Information & Management, 48(8), 393–
+403.
+
+Lwin, M., Phau, I., & Lim, A. (2014). An investigation of the characteristics of australian charitable donors.
+
+Journal of Nonprofit & Public Sector Marketing, 26(4), 372–389.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Meijer, M. M. (2009). The effects of charity reputation on charitable giving. Corporate Reputation Review,
+
+12(1), 33–42.
+
+Meng, R., Kang, M., Wang, T., & Zheng, H. (2016). Understanding the role of Commitmentsin explaining
+Crowdfunding investing willingness: Antecedents and consequences. In In proceedings of the 20th
+Pacific Asia conference on information systems. Chiayi: Taiwan.
+
+Merchant, A., Ford, J. B., & Rose, G. (2011). How personal nostalgia influences giving to charity. Journal of
+
+Business Research, 64(6), 610–616.
+
+Michaelidou, N., Micevski, M., & Siamagka, N. (2015). Consumers’ intention to donate to two children’s
+charity brands: A comparison of Barnardo’s and BBC children in need. Journal of Product & Brand
+Management, 24(2), 134–146. https://doi.org/10.1108/JPBM-04-2014-0573.
+
+Michel, G., & Rieunier, S. (2012). Nonprofit brand image and typicality influences on charitable giving.
+
+Journal of Business Research, 65(5), 701–707.
+
+Miltgen, C. L., Popovič, A., & Oliveira, T. (2013). Determinants of end-user acceptance of biometrics:
+Integrating the “big 3” of technology acceptance with privacy context. Decision Support Systems, 56,
+103–114.
+
+Mitchell, S. L., & Clark, M. (2019). Reconceptualising product life-cycle theory as stakeholder engagement
+
+with non-profit organisations. Journal of Marketing Management, 35(1–2), 13–39.
+
+Moriuchi, E., & Chung, C. (2018). Young Americans’ ethnic identity toward disaster advertising: The effects
+of disaster location and message types. International Journal of Nonprofit and Voluntary Sector
+Marketing, 23(1), e1596.
+
+Muralidharan, S., & La Ferle, C. (2018). Religious symbolism in the digital realm: A social advertising
+approach to motivate bystanders to aid victims of cyberbullying. International Journal of Consumer
+Studies, 42(6), 804–812.
+
+Noor, A. H. B. M., Isa, N. A. M., Irpan, H. M., Bahrom, H. B., Salleh, A. B. M., & Ridzuan, A. R. B. (2015).
+Characteristic affecting charitable donations behavior: Empirical evidence from Malaysia. Procedia
+Economics and Finance, 31, 563–572.
+
+Oliveira, T., Thomas, M., Baptista, G., & Campos, F. (2016). Mobile payment: Understanding the determi-
+nants of customer adoption and intention to recommend the technology. Computers in Human Behavior,
+61, 404–414.
+
+Osei-Frimpong, K., & McLean, G. (2018). Examining online social brand engagement: A social presence
+
+theory perspective. Technological Forecasting and Social Change, 128, 10–21.
+
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method biases in
+behavioral research: A critical review of the literature and recommended remedies. Journal of Applied
+Psychology, 88(5), 879–903.
+
+Rajan, S. S., Pink, G. H., & Dow, W. H. (2009). Sociodemographic and personality characteristics of
+Canadian donors contributing to international charity. Nonprofit and Voluntary Sector Quarterly, 38(3),
+413–440.
+
+Randle, M., Leisch, F., & Dolnicar, S. (2013). Competition or collaboration? The effect of non-profit brand
+
+image on volunteer recruitment strategy. Journal of Brand Management, 20(8), 689–704.
+
+Rather, R., Tehseen, S., & Parrey, S. (2018). Promoting customer brand engagement and brand loyalty
+through customer brand identification and value congruity. Spanish Journal of Marketing - ESIC, 22(3),
+319–337. https://doi.org/10.1108/SJME-06-2018-0030.
+
+Ringle, C. M., & Sarstedt, M. (2016). Gain more insight from your PLS-SEM results: The importance-
+
+performance map analysis. Industrial Management & Data Systems, 116(9), 1865–1886.
+
+Rizal, H., & Amin, H. (2017). Perceived ihsan, Islamic egalitarianism and Islamic religiosity towards
+
+charitable giving of cash waqf. Journal of Islamic Marketing, 8(4), 669–685.
+
+Roberts, J. A., & David, M. E. (2019). Holier than thou: Investigating the relationship between religiosity and
+charitable giving. International Journal of Nonprofit and Voluntary Sector Marketing, 24(1), e1619.
+Rodriguez-Ricardo, Y., Sicilia, M., & López, M. (2018). What drives crowdfunding participation? The
+influence of personal and social traits. Spanish Journal of Marketing - ESIC, 22(2), 163–182.
+https://doi.org/10.1108/SJME-03-2018-004.
+
+Rudd, M., Aaker, J., & Norton, M. I. (2014). Getting the most out of giving: Concretely framing a prosocial
+
+goal maximizes happiness. Journal of Experimental Social Psychology, 54, 11–24.
+
+Sargeant, A., Ford, J. B., & Hudson, J. (2008). Charity brand personality: The relationship with giving
+
+behavior. Nonprofit and Voluntary Sector Quarterly, 37(3), 468–491.
+
+Sargeant, A., Ford, J. B., & West, D. C. (2006). Perceptual determinants of nonprofit giving behavior. Journal
+
+of Business Research, 59(2), 155–165.
+
+Saxton, J. (1995). A strong charity brand comes from strong beliefs and values. Journal of Brand
+
+Management, 2(4), 211–220.
+
+F. Maleki, S. M. Hosseini
+
+Sharma, S. K., Sharma, H., & Dwivedi, Y. K. (2019). A hybrid SEM-neural network model for predicting
+
+determinants of mobile payment services. Information Systems Management, 36(3), 243–261.
+
+Sivathanu, B. (2019). Adoption of digital payment systems in the era of demonetization in India: An empirical
+study. Journal of Science and Technology Policy Management, 10(1), 143–171. https://doi.org/10.1108
+/JSTPM-07-2017-0033.
+
+Smitko, K. (2012). Donor engagement through twitter. Public Relations Review, 38(4), 633–635.
+Skarmeas, D., & Shabbir, H. A. (2011). Relationship quality and giving behaviour in the UK fundraising
+sector; exploring the antecedent roles of religiosity and self-construal. European Journal of Marketing,
+45(5), 720–738.
+
+Stathopoulou, A., Borel, L., Christodoulides, G., & West, D. (2017). Consumer branded# hashtag engage-
+ment: Can creativity in TV advertising influence hashtag engagement? Psychology & Marketing, 34(4),
+448–462.
+
+Stebbins, E., & Hartman, R. L. (2013). Charity brand personality: Can smaller charitable organizations
+leverage their brand’s personality to influence giving. International Journal of Nonprofit and Voluntary
+Sector Marketing, 18(3), 203–215.
+
+Streukens, S., Leroi-Werelds, S., & Willems, K. (2017). Dealing with nonlinearity in importance-performance
+map analysis (IPMA): An integrative framework in a PLS-SEM context. In H. Latan & R. Noonan (Eds.),
+Partial least squares path modeling: Basic concepts, methodological issues, and applications (pp. 367–
+403). Cham, Switzerland: Springer International.
+
+Sura, S., Ahn, J., & Lee, O. (2017). Factors influencing intention to donate via social network site (SNS):
+
+From Asian’s perspective. Telematics and Informatics, 34(1), 164–176.
+
+Terry, D. J., Hogg, M. A., & White, K. M. (1999). The theory of planned behaviour: Self-identity, social
+
+identity and group norms. British Journal of Social Psychology, 38(3), 225–244.
+
+Tiltay, M. A., & Torlak, Ö. (2020). Similarities and differences of motivations of giving time and money:
+Giving to individuals versus humanitarian organizations in an emerging marke. International Journal of
+Nonprofit and Voluntary Sector Marketing, 25(1), e1649.
+
+Urbonavicius, S., Adomaviciute, K., Urbutyte, I., & Cherian, J. (2019). Donation to charity and purchase of
+cause-related products: The influence of existential guilt and experience. Journal of Consumer Behaviour,
+18(2), 89–96.
+
+Vargo, C. J. (2016). Toward a tweet typology: Contributory consumer engagement with brand messages by
+
+content type. Journal of Interactive Advertising, 16(2), 157–168.
+Veblen, T. (1899). The theory of the leisure class. London: Penguin Books.
+Veludo-de-Oliveira, T. M., Alhaidari, I. S., Yani-de-Soriano, M., & Yousafzai, S. Y. (2017). Comparing the
+explanatory and predictive power of intention-based theories of personal monetary donation to charitable
+organizations. Voluntas: International Journal of Voluntary and Nonprofit Organizations, 28(2), 571–
+593.
+
+Venable, B. T., Rose, G. M., Bush, V. D., & Gilbert, F. W. (2005). The role of brand personality in charitable
+giving: An assessment and validation. Journal of the Academy of Marketing Science, 33(3), 295–312.
+Verkijika, S. F. (2020). An affective response model for understanding the acceptance of mobile payment
+systems. Electronic Commerce Research and Applications, 39, 100905. https://doi.org/10.1016/j.
+elerap.2019.100905.
+
+Vivek, S. D., Beatty, S. E., & Morgan, R. M. (2012). Customer engagement: Exploring customer relationships
+
+beyond purchase. Journal of Marketing Theory and Practice, 20(2), 122–146.
+
+Webb, D. J., Green, C. L., & Brashear, T. G. (2000). Development and validation of scales to measure
+attitudes influencing monetary donations to charitable organizations. Journal of the Academy of
+Marketing Science, 28(2), 299–309.
+
+Wymer, W., & Akbar, M. M. (2017). Brand authenticity, its conceptualization, and its relevance to nonprofit
+
+marketing. International Review on Public and Nonprofit Marketing, 14(3), 359–374.
+
+Wymer, W., & Akbar, M. M. (2019). Brand authenticity’s influence on charity support intentions. Journal of
+
+Nonprofit & Public Sector Marketing, 31(5), 507–527.
+
+Wymer, W., Gross, H. P., & Helmig, B. (2016). Nonprofit brand strength: What is it? How is it measured?
+What are its outcomes? Voluntas: International Journal of Voluntary and Nonprofit Organizations, 27(3),
+1448–1471.
+
+Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology,
+
+9(2), 1–27.
+
+Zhou, T. (2014). An empirical examination of initial trust in mobile payment. Wireless Personal
+
+Communications, 77(2), 1519–1531.
+
+Charity donation intention via m-payment apps: donor-related,...
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+
+Affiliations
+
+Fatemeh Maleki 1 & Seyed Mohsen Hosseini 2
+
+Seyed Mohsen Hosseini
+mohsenhosseini1985@gmail.com
+
+1
+
+2
+
+Faculty of Economic, Management & Administrative sciences, Semnan University, Semnan Zip Code:
+35131-19111, Iran
+
+Faculty of management and accounting, University of Allameh Taba Taba e (ATU), Tehran, Iran

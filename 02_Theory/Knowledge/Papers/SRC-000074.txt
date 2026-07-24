@@ -1,0 +1,1605 @@
+Li, W., Mao, Y., & Liu, C. (2022). Understanding the intention to donate online in the Chinese context: The 
+influence of norms and trust. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 16(1), Article 7. 
+https://doi.org/10.5817/CP2022-1-7  
+
+Understanding the Intention to Donate Online in the Chinese Context: The 
+Influence of Norms and Trust 
+
+Wu Li 1, Yuanyi Mao 2, & Cong Liu 1 
+
+1 School of Media and Communication, Shanghai Jiao Tong University, 
+Shanghai, China 
+2 Department of Media and Communication, City University of Hong Kong, 
+Hong Kong SAR, China
+
+Abstract 
+
+Due  to  the  advancement  of  information  and  communication  technologies,  online 
+donations have become unprecedentedly convenient, making money received from 
+individual  online  donations  an  important  form  of  revenue  for  many  charitable 
+organizations in China. However,  factors contributing to people’s online donation 
+intentions,  in  turn  impacting  donating  behavior,  have  been  under-examined. 
+The current study aims to understand factors influencing online donation intention 
+in the Chinese cultural context by combining constructs from the extended Theory 
+of Planned Behavior (TPB; including the original TPB constructs and moral norm) 
+and  trust-related  constructs  (i.e.,  trust 
+in  charity  organizations  and  trust 
+in technology). The moderation effect of past donation behavior on the relationship 
+between  trust  and  donation  intention  was  also  explored.  A  total  of  721  Chinese 
+participants  completed  the  online  survey.  SPSS  was  used  to  perform  hierarchical 
+multiple regressions. The results showed that attitude, perceived behavioral control, 
+moral  norm,  and  subjective  norm  were  all  positively  related  to  online  donation 
+intention. Moral norm was found to be a stronger predictor than subjective norm, 
+raising the amount of explained variance of the original TPB model. Trust in charity 
+organizations  was  found  to  positively  predict  donation  intention  while  trust 
+in technology  was  not.  The  results  also  revealed  that  past  donation  behavior 
+moderated  the  effect of  trust in charity organizations on donation intention. This 
+study not only adds to the body of knowledge on charitable donation in the online 
+context by incorporating two trust-related constructs into the extended TPB model, 
+but also highlights the different roles moral and subjective norms play in predicting 
+people’s prosocial behavior in the context of Chinese culture. 
+
+Keywords:  online donation; theory of planned behavior; moral norm; 
+
+subjective norm; trust; past donation behavior; Chinese online 
+philanthropy 
+
+Editorial Record 
+
+First submission received: 
+August 8, 2020 
+
+Revisions received: 
+August 17, 2021 
+November 20, 2021 
+
+Accepted for publication: 
+January 3, 2022 
+
+Editor in charge: 
+Michel Walrave 
+
+The  development  of  information  and  communication  technologies  (ICT)  has  promoted  the  dissemination  of 
+information in healthcare, and made online donation more convenient (Hou et al., 2021). Online donation, which 
+
+Introduction 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+refers to an open call for monetary donations through online platforms, has become an increasingly important 
+channel  for  both  donors  and  beneficiaries  in  China  (Liu  et  al.,  2018).  On  the  one  hand,  a  majority  of  Chinese 
+charitable organizations have set up online donation channels on their official websites to attract more potential 
+donors.  On  the  other  hand,  beneficiaries,  also  known  as  donation  requesters,  usually  turn  to  social  media 
+platforms such as Sina Micro charities and Shuidichou for help. According to Chaoxi Gu, the vice minister of the 
+Ministry of Civil Affairs of China, money from individuals online can comprise up to 80% of the total revenue for 
+some charitable organizations (Zhang, 2017). 
+
+Despite the advancement opportunities the Internet and social media holds for online donation in China, several 
+serious challenges remain. For instance, although the Internet has become an indispensable channel for nonprofit 
+organizations  to  run  fundraising  campaigns  (Hooper  &  Stobart,  2003),  there  is  a  digital  gap  among  various 
+charitable organizations in terms of Internet use. Due to their limited knowledge about the Internet and its users, 
+many organizations are not proficient in running successful online fundraising campaigns to maintain or attract 
+more people to participate (Ma & Xie, 2015; Pan, 2017). In recent years, there are more and more online charity 
+projects in China that fail to achieve their financing goals within a stipulated period (Chen et al., 2019). Therefore, 
+it is of vital importance to explore and identify the factors which influence people’s online donation intention and 
+provide practical implications regarding how to encourage and maintain their continued online donations in the 
+future as well. 
+
+However, factors predicting people’s online donation intention have been under-examined in previous research. 
+The  extant  literature  on  donations  mainly  focus  on  the  traditional  offline  context,  with  the  Theory  of  Planned 
+Behavior  model  (TBP)  used  as  the  main  theoretical  foundation  to  identify  factors  affecting  individual  donation 
+intention or behaviors (Kashif et al., 2015; Knowles et al., 2012; Smith & McSweeney, 2007; van der Linden, 2011). 
+Amongst the limited published literature that explore factors influencing online donation, most lack theoretical 
+guides such as the TPB model, and few touch on trust towards charitable organizations and Internet technology 
+(Ahn et  al.,  2018;  Sura et  al.,  2017;  Treiblmaier  &  Pollach,  2006).  Furthermore,  most  charity  studies  have  been 
+conducted in the context of Western countries, with fairy little attention given to Asian countries (Choi et al., 2019; 
+Li et al., 2018).  
+
+To fill the research gap, the current study combines constructs from the extended TPB model (i.e., the original TPB 
+components  and  moral  norm)  and  trust-related  constructs  (i.e.,  trust  in  charity  organizations  and  trust  in 
+technology) to develop an integrated conceptual model to predict people’s online donation intention. Moreover, 
+to enrich the extant research on donations which has been limited to Western countries, we conducted the current 
+study using Chinese case and samples. Taking into account the potential impact of collectivistic Chinese culture, 
+we  compare  the  different  contributions  from  two  types  of  norms  (i.e.,  subjective  norm  and  moral  norm). 
+Furthermore,  in  order  to  address  the  scarcity  of  research  on  online  donation,  two  forms  of  trust  (i.e.,  trust  in 
+charity organization and trust  in technology) were incorporated into the extended TPB model to gain a holistic 
+understanding  of  factors  influencing  people’s  donation  in  the  online  context.  Beyond  that,  we  explore  the 
+moderation  effect  of  past  donation  behavior  on  the  effect  of  trust  in  predicting  Chinese  intentions  to  donate 
+online, so as to provide more nuanced knowledge on individual decision-making mechanisms concerning online 
+donations. 
+
+Extended Theory of Planned Behavior (TPB) 
+
+Literature Review 
+
+As one of the most frequently cited theories, the TPB (Ajzen, 1991) has been extensively applied to understand 
+and predict human behavior. In its  original formulation, the TPB claims that people’s  behavioral intention—the 
+immediate proxy of actual behavior—is jointly determined by attitude, subjective norm, and perceived behavioral 
+control (PBC). Several meta-analyses identified that the TPB generally explains about 40% to 50% of the variance 
+in behavioral intention (Armitage & Conner, 2001; Sutton, 1998). To better understand human behavior, especially 
+prosocial behavior, moral norm was incorporated into the original TPB model. A meta-analysis revealed that moral 
+norm  predicted  an  additional  4%  of  the  variance  in  donation  intention  after  controlling  for  the  original  TPB 
+variables (Conner & Armitage, 1998).  
+
+Unlike  attitude  and  PBC  in  the  TPB  model,  subjective  norm’s  contribution  to  the  TPB  model  has  been  debated 
+among researchers, especially when in combination with moral norm in the extended TPB. To some extent, the 
+contributions of subjective and moral norms may largely depend on specific contexts such as the different cultural 
+backgrounds of respondents. Distinguished from that of Western countries, the value of philanthropic giving in 
+China is deeply rooted in Confucian ethics and collectivistic cultural values (Zhou & Zeng, 2006). Therefore, it is 
+necessary to examine the influences of different norms on Chinese prosocial behavior, considering extant studies 
+were mainly conducted among Western people.  
+
+Attitude and PBC 
+
+According  to  Ajzen  (1991),  attitude  refers  to  the  degree  to  which  a  person  has  a  favorable  or  unfavorable 
+evaluation of a certain behavior, and PBC concerns the perceived ease or difficulty of performing the behavior. 
+These  two  variables  were  repeatedly  confirmed  to  have  a  consistently  positive  effect  on  people’s  intention  in 
+different  types  of  donation  contexts,  such  as  blood  donation  (France  et  al.,  2014),  organ  donation  (Rocheleau, 
+2013), and monetary donation (Kashif et al., 2015; Kashif & De Run, 2015; Knowles et al., 2012; Oosterhof & Peters, 
+2009; Smith & McSweeney, 2007; van der Linden, 2011). In the case of monetary donation, a more recent study 
+among 432 Saudi participants (Veludo-de-Oliveira et al., 2017), attitude and PBC were also found to be significant 
+factors positively influencing individuals’ intention to give monetary donations.  
+
+When  it  comes  to  online  donation,  there  are  at  least  two  crucial  differences  that  distinguish  it  from  offline 
+donations:  more  potential  risks  and  greater  anonymity  (Gefen  et  al.,  2003;  Postmes  et  al.,  2001).  It  is  thereby 
+necessary to examine whether the effect of attitude and PBC on offline donation would still hold true in the online 
+context. Thus, we hypothesize the following: 
+
+H1: Attitude positively predicts individuals’ intention to donate online. 
+
+H2: PBC positively predicts individuals’ intention to donate online. 
+
+Subjective Norm Versus Moral Norm 
+
+Subjective norm emphasizes the perceived social pressure to perform or not to perform a behavior (Ajzen, 1991), 
+whereas moral norm refers to the individual’s personal belief about what is inherently right or wrong to do (Parker 
+et al., 1995). Despite the similarity of subjective norm and moral norm, the two constructs are distinct from several 
+theoretical perspectives.  
+
+First, self-determination theory posits that there are two types of motivation, namely, internal (or autonomous) 
+motivation and external (or controlled) motivation (Ryan et al., 1996). By and large, moral norms can be considered 
+an internal motivation, where an individual’s behavioral decisions are self-chosen and completely originate from 
+themselves. In contrast, subjective norms can be regarded as an external motivation, where individuals perform 
+behaviors based on the potential social benefits and consequences from significant others (Sheeran et al., 1999). 
+Second, according to theories on social learning, individuals usually acquire moral standards through interactions 
+with social reference groups and choose certain norms as their own value principles and expectations that guide 
+their behaviors (Krebs & Janicki, 2004; van der Linden, 2011). Although moral norms may have their origin in social 
+or  group  norms,  once  becoming  internalized  and autonomous,  they  exert  influence  on  an  individual’s  feelings, 
+intentions, and behaviors independently from social contexts (Manstead, 2000). In short, moral norm focuses on 
+the  individual’s  intrinsic  moral  responsibilities,  whereas  subjective  norm  resorts  to  extrinsic  motives,  such  as 
+rewards or punishment from social groups. 
+
+Many  prominent social-psychological  theories  are  based  on  the  premise  that  moral  norms  are  the  main  driver 
+behind prosocial behavior. For instance, both the Norm-Activation Model (Schwartz, 1977) and the Value-Belief 
+Norm  (Stern  et  al.,  1999)  propose  that  feelings  of  personal  obligation  and  moral  responsibility  lead  to  the 
+formation of prosocial behavior. To date, support for the use of moral norms in predicting prosocial behavior has 
+been widespread (see Manstead, 2000, for a review). Indeed, the findings of previous studies indicate that moral 
+norms  result  in  the  behavioral  intention  to  engage  in  such  prosocial  behaviors  as  donating  and  volunteering 
+(Burgoyne et al., 2005; Warburton & Terry, 2000). Developing further, some researchers argued that the inclusion 
+
+of moral norms can even crowd out the significance of subjective norms (e.g., Kurland, 1995). This argument was 
+also well empirically supported. When entering these two types of norms into the same model, studies conducted 
+by van der Linden (2011) in European countries and Knowles et al. (2012) in Australia revealed that moral norm is 
+a powerful predictor of donating intentions while social norm does not play a significant role in the formation of 
+charitable intent.  
+
+However, considering the fact that the extant studies were mainly conducted in the context of Western countries, 
+we argued that subject norm cannot be ignored when examining Chinese prosocial behavioral intention due to 
+cultural differences. One of the most  frequently documented individual traits is a person’s cultural orientation, 
+which is defined as patterns of assumptions, beliefs, and perceptions that drive people’s attitudes and behavior 
+in society (Hofstede et al., 2010). Among various cultural factors, individualism and collectivism are probably the 
+most  useful  constructs to  assess  culture  in  different  countries  or  areas.  Individualism  emphasizes  self-reliance 
+and  places  more  importance  on  personal  attitudes  than  on  social  norms,  whereas  collectivism  emphasizes 
+interdependence and places more importance on social norms than personal attitudes (Triandis & Gelfand, 1998). 
+According to the social norm theory (Schwartz, 1977), people’ performance of prosocial behavior, to some extent, 
+are  driven  by  social  norms  (such  as  helping  people  in  need)  which  are  approved,  shared  and  expected  by  the 
+group or the society. At the same time, prior research indicates that people with a collectivistic orientation have a 
+greater susceptibility to interpersonal influences (Bearden et al., 1989), and are more likely to obey social norms 
+compared to those from Western individualistic societies (Fischer et al., 2009).  
+
+Several  observations  were  yielded  from  the  above  literature  review  on  the  contribution  of  moral  norms  and 
+subjective norms in predicting prosocial behavior. On the one hand, moral norm plays an important role in the 
+formation of charitable intentions and adds to the explanatory power of the original TPB model as an independent 
+predictor.  On  the  other  hand,  the  role  of  subjective  norm  may  vary  across  cultural  contexts.  Due  to  their 
+collectivistic cultural orientation, the prosocial behavioral intention of Chinese people may be positively predicted 
+by subjective norms even when combined with moral norms. In sum, we propose the following three hypotheses: 
+
+H3: Subjective norm positively predicts individuals’ intention to donate online among Chinese participants. 
+
+H4: Moral norm positively predicts individuals’ intention to donate online among Chinese participants. 
+
+H5: Moral norm makes a unique contribution to the original TPB, that is, moral norm significantly increases online 
+donation intention after controlling for the effect of the original TPB variables (i.e., attitude, PBC, and subjective 
+norm). 
+
+Trust 
+
+Trust  is  a  psychological  state  that  accepts  vulnerability  based  upon  positive  expectations  of  the  intention  or 
+behavior  of  another  (Rousseau  et  al.,  1998).  McKnight  et  al.  (2002)  extended  the  concept  of  trust  into  the  
+e-commerce context, and it was divided into trust in vendors and trust in technology (Pavlou, 2003; Siau & Shen, 
+2003). Similarly, in the context of online government or e-government, researchers conceptualized e-government 
+trust as the trust of the government and technology (Bélanger & Carter, 2008; Teo et al., 2008). In line with the 
+above classifications of trust, Treiblmaier and Pollach (2006) proposed a new framework by claiming that people’s 
+trust in an organization and the Internet would have a bearing on their general attitudes and intention to donate 
+online. We adopt this framework and the classification of trust in our study— that is, trust in charity organizations 
+and trust in (the Internet) technology.  
+
+Trust in Charity Organizations 
+
+Trust in charity organizations refers to donor perception of the beneficial attributes of charitable service providers 
+(Bélanger & Carter, 2008), such as competence, benevolence, and integrity (Bhattacherjee, 2002). These attributes 
+are key antecedent factors in building initial user trust towards online commercial vendors, which, in turn, affect 
+their transaction intentions (Lu et al., 2016). In the context of donation, Tonkiss and Passey (1999) argued that the 
+extent  to  which  potential  donors  trust  charity  organizations  are  driven  by  their  perception  of  how  wisely  an 
+organization has used their donations in the past, an assertion strongly supported by several empirical studies. 
+
+For instance,  Sargeant  et  al. (2006) analyzed perceptual determinants  that influence individual  nonprofit giving 
+behavior,  and  their  results  showed  that  trust  in  charity  organizations  determined  people’s  commitment  to  the 
+organizations, which stimulated their giving behavior. Furthermore, Shier and Handy (2012) found that there was 
+a significantly positive relationship between people’s trust towards nonprofit organizations and their willingness 
+to donate online.  
+
+In  addition  to  the  findings  of  the  empirical  studies  mentioned  above,  we  also  argue  that  trust  in  charity 
+organizations  plays  an  important  role  in  predicting  Chinese  people’s  intention  to  donate  online  for  two  other 
+reasons.  First,  public  trust  in  charity  organizations  has  been  under  great  pressure  in  the  last  decade  due  to  a 
+number of scandals. The media has uncovered several well-known charities, such as the Red Cross of China and 
+the  China  Youth  Development  Foundation,  misusing  their  donations  (Bannister,  2013;  Wang,  2011).  These 
+scandals  have  had  a  major  influence  on  public  trust  towards  the  organizations  involved  (Y.  Yang  et  al.,  2016), 
+decreasing Chinese people’s donation intentions. Second, in line with the tradition of Confucian culture and the 
+moral system, philanthropy in China has been greatly influenced by “familism” (Y. Yang et al., 2020). As a result, 
+when making the donation decisions, Chinese people are inclined to trust those who have a personal relationship 
+(kinship or quasi kinship) rather than strangers, in contrast to the spirit of the “stranger ethic” of modern Western 
+philanthropy (Weber & Gerth, 1953). Given that, in most cases, online donors are not familiar with the recipients, 
+the role of charity organizations is particularly important since they function as a base on which donors can build 
+their trust, especially in the context of collectivist Chinese culture. In light of the above discussion, we propose the 
+sixth hypothesis: 
+
+H6: Trust in charity organizations positively predicts individuals’ intention to donate online.  
+
+Trust in Technology 
+
+Trust in technology is the extent to which the donors trust the competence and security of the Internet (Teo et al., 
+2008). Although the speed and the convenience of payment transactions over the Internet may seem appealing 
+to the donors, the nature of the medium has potential negative ramifications that could deter them from donating 
+online.  In  the  e-service  environment,  users  may  feel  threatened  by  potential  risks—such  as  intangible  service 
+providers,  loss  of  money,  transaction  security,  and  the  leaking  of  personal  information  (Gefen  et  al.,  2003; 
+Yousafzai et al., 2003) which, in turn, could make them reluctant to complete e-commerce transactions or even 
+reject  using  e-services  (Kuisma  et  al.,  2007).  Among  the  scarce  studies  about  online  donation,  Treiblmaier  and 
+Pollach (2006) argued that besides trust in charity organizations, trust in Internet technology was another major 
+factor  determining  people’s  intention  to  donate  online.  An  empirical  study by  Sura  et  al. (2017)  concluded  that 
+Internet technology significantly influenced users’ general attitude toward online donation.  
+
+According to McCole et al. (2010) and Yousafzai et al. (2003), security and privacy are the major barriers for people 
+to build trust in an online transaction. However, being members of a collectivist society where people’s self-image 
+is largely defined in terms of “we” rather than “I” (Hofstede et al., 2010), Chinese people are less concerned about 
+privacy  issues  compared  with  their  Western  counterparts.  As  shown  in  Rose  et  al.’s  (2014)  survey  of  10,000 
+consumers  from different countries, the percentage of Chinese who are cautious about the possible leaking of 
+personal  information  on  the  Internet  is  only  50%,  which  is  largely  below  the  global  average  (76%).  In  addition, 
+online payment technology in China is very mature, deeply penetrating the daily life of Chinese people. Unlike in 
+earlier stages where only after evaluating the risks of online payment would users start to build up their confidence 
+towards the new technology, Chinese internet users nowadays are much more familiar with online payment and 
+already  place  a  higher  degree  of  trust  in  it  (Q.  Yang  et  al.,  2015).  Therefore,  we  are  curious  whether  trust  in 
+technology still plays a significant role in predicting Chinese intention to donate online, and propose the following 
+hypothesis: 
+
+H7: Trust in technology positively predicts individuals’ intention to donate online.  
+
+Moderation Effect of Past Donation Behavior on Trust 
+
+Research  revealed  that  perceived  uncertainty  creates  a  need  for  trust-based  interaction  (Kramer,  2001).  In  the 
+context of online consumption, trust was found to be an important factor that is capable of deceasing people’s 
+
+uncertainty  (such  as  perceived  information  asymmetry,  fears  of  seller  opportunism,  and  information  security 
+concerns),  which  in  turn,  increase  consumers’  purchasing  intention  (Kramer,  2001;  Pavlou  et  al.,  2007). 
+Furthermore, existing studies also showed that previous online shopping experience further promotes people’s 
+intention  to  purchase  online  in  the  future  (Pavlou,  et  al.,  2007).  In  specific,  the  accumulated  online-shopping 
+experience will help reduce the perceived uncertainty about the vendors and increase future purchase intention 
+and behaviors (Grabner-Kräuter, 2004; Park & Stoel, 2005).  
+
+In other words, trust and past behavior are two important factors that alleviate uncertainty and promote online 
+purchasing.  Therefore,  for  the  consumers  who  lack  previous  purchasing  experience,  their  future  intention  to 
+purchase  online  would  be  largely  determined  by  their  trust  in  the  online  platform  and  the  vendor.  Similarly, 
+compared to those who have already experienced online donation, it is plausible that people without past online 
+donating  experience  will  rely  more  heavily  on  their  trust  in  the  charity  organization  as  well  as  their  trust  in 
+technology when making the decisions to donate online. Based on the above, it is hypothesized that:  
+
+H8a: The influence of trust in charity organizations on intention to donate online is moderated by past donation 
+behavior. 
+
+H8b: The influence of trust in technology on intention to donate online is moderated by past donation behavior. 
+
+Based on the above hypotheses, the conceptual framework of this study is depicted in Figure 1. 
+
+Extended TPB Variables 
+
+Figure 1. Research Conceptual Model. 
+
+Past donation 
+behavior 
+
+Trust 
+
+H8a 
+
+H8b 
+
+Trust in charity 
+organizations 
+
+Online donation 
+intention 
+
+Trust in technology 
+
+Attitude to online 
+donation 
+
+Perceived 
+behavioral control 
+
+Influences of norms 
+
+Subjective norm 
+
+Moral norm 
+
+Participants and Procedures 
+
+Method 
+
+The target population of this study is Chinese Internet users, including those who have no experience with online 
+donation and those who have already engaged in online monetary donation activities. An online survey method 
+was adopted for the present study. The pre-test with a convenience sample of 83 users showed that all the core 
+constructs achieved a satisfactory reliability score (all above .80). Principal component analysis of the seven key 
+variables was conducted using SPSS 23.0. Seven factors were extracted with varimax rotation. The cutoff factor 
+loading score was 0.50. Results showed that the items clearly loaded to the seven constructs and the total variance 
+explained by the seven factors was 87.14%. 
+
+  
+Then, the formal online survey was released on WenJuanXing, the most widely used online questionnaire platform 
+in  China,  in  September  2019.  The  survey  link  was  posted  and  distributed  on  the  most  popular  Chinese  social 
+network sites, such as Baidu Tieba and Tencent Weibo. At the beginning of the questionnaire, a screening question 
+was  used  to  filter  out  ineligible  respondents  who  were  under  18  years  old,  as  the target  group  of  this  study  is 
+adults with disposable income.  
+
+Table 1. Participants’ Demographic Profiles and Past Donating Behaviors (n = 721). 
+
+Gender 
+
+Male 
+
+Female 
+
+Age 
+
+18–25 
+
+26–35 
+
+36–45 
+
+46–55 
+
+Education level 
+
+Below Undergraduate  
+
+Undergraduate  
+
+Graduate 
+
+Religious affiliation 
+
+No 
+
+Yes 
+
+Disposable monthly income (in RMB) 
+
+≤1800 
+
+1801–3000 
+
+3001–5000 
+
+5001–8000 
+
+8001–12000 
+
+≥12001 
+
+Past donating behaviors  
+
+No 
+
+Yes 
+
+Payment channels (among those who had past donating behaviors) 
+
+Alipay 
+
+WeChat 
+
+Online Banking 
+
+Fast payment with bank cards 
+
+Other 
+
+272 (37.7%) 
+
+449 (62.3%) 
+
+336 (46.6%) 
+
+181 (25.1%) 
+
+142 (19.7%) 
+
+62 (8.6%) 
+
+102 (14.7%) 
+
+439 (60.5%) 
+
+180 (24.8%) 
+
+580 (80.4%) 
+
+141 (19.6%) 
+
+195 (27.0%) 
+
+116 (16.1%) 
+
+139 (19.3%) 
+
+118 (16.4%) 
+
+64 (8.9%) 
+
+89 (12.3%) 
+
+387 (53.4%) 
+
+338 (46.6%) 
+
+218 (65.3%) 
+
+218(65.3%) 
+
+42 (12.6%) 
+
+24 (7.2%) 
+
+28 (8.4%) 
+
+Amount of money donated (in RMB; among those who had past donating behaviors) 
+
+<10 
+
+11–50 
+
+51–99 
+
+100–200 
+
+>200 
+
+70 (20.0%) 
+
+142 (42.5%) 
+
+61 (18.3%) 
+
+47 (14.1%) 
+
+14 (4.2%) 
+
+Note. Payment channels and the amount of money donated were calculated among the experienced 
+donors (n = 334). 
+
+A total of 721 valid respondents participated in this survey over four weeks. Statisticians have suggested that a 
+researcher  would  have  better  power  (0.8)  to  detect  a  small  effect  size  with  approximately  30  participants  per 
+variable for regression equations using six or more predictors, if the circumstances allow (Cohen & Cohen, 1975; 
+
+Wilson et al., 2007). In this study, 14 predictors were included in the regression model, so a minimum sample size 
+of 420 is required to achieve a power of 0.8. Therefore, we can claim that the sample size of 721 yields enough 
+power to draw reliable inferences from the performed hierarchical regression analysis.  
+
+As is shown in Table 1, among the 721 respondents, the majority were female (62.3%), young (71.7%; between 18 
+and 35), had or were pursuing a bachelor’s degree (60.5%), and had no religious affiliation (80.4%). About 62.4% 
+reported that they had less than 5000 yuan of monthly disposable income. Nearly half of the participants (46.3%) 
+responded that they had previous online donation experience. Among these experienced donors, more than 
+half used Alipay (65.3%) and WeChat (65.3%) as payment channels. When being asked the total amount he/she 
+had donated online in the past three months, 42.5% of the respondents reported to have donated 11–50 Yuan 
+while 20.0% have donated less than 10 Yuan and 36.6% have donated more than 50 Yuan. 
+
+Measures 
+
+Dependent Variable 
+
+To measure behavioral intention, participants were asked to self-report on a 5-point scale (1 = strongly disagree, 
+5 = strongly agree) with two items regarding their intention to donate online in the next three months. Cronbach’s 
+alpha of this scale was 0.90. 
+
+Independent Variables 
+
+The independent variables included the original TPB variables (i.e., attitude to online donation, PBC, and subjective 
+norm), one extended TPB variable (i.e., moral norm), and trust (including trust in charity organizations and trust 
+in  technology).  Attitude  towards  online  donation  was  assessed  with  a  semantic  differential  scale  (e.g., 
+1 bad – 5 good, 1 unpleasant – 5 pleasant, 1 worthless – 5 valuable), while other constructs  were measured on 5-
+point Likert scales (1 = strongly disagree to 5 = strongly agree). All the scales obtained high reliabilities (Cronbach’s 
+Alphas ranged from 0.83 to 0.91). 
+
+Moderator Variable 
+
+Past donation behavior was treated as a moderator between the variables of trust and the dependent variable. It 
+is a single item question (Have you ever donated online before?), and participants were asked to choose Yes or No.  
+
+Detailed items, statistics, and sources of all constructs are shown in Table 2. 
+
+Measures 
+
+Attitude to online donation 
+
+α 
+
+.91 
+
+Source 
+
+Ajzen (2002) 
+
+Table 2. Construct Scales, Cronbach’s Alphas and Sources. 
+
+I believe that participation in online donation would be bad – good 
+
+I believe that participation in online donation would be unpleasant – pleasant 
+
+I believe that participation in online donation would be worthless – valuable 
+
+Perceived behavioral control (PBC) 
+
+.83 
+
+Ajzen (2002) 
+
+It is entirely up to me whether I participate in online donation or not 
+
+I am confident that I am able to easily use the technologies involved when donating 
+online 
+
+The money required for online donation is affordable for me 
+
+Overall speaking, donating online is completely within my control 
+
+Subjective norm 
+
+People closest to me think that I should participate in online donation 
+
+People who are important to me think that I should participate in online donation  
+
+People whose opinions I value think that I should participate in online donation 
+
+.86 
+
+Ajzen (2002); Smith 
+and McSweeney 
+(2007) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moral norm 
+
+I am the kind of person who donates money online 
+
+I would feel guilty if I didn’t participate in online donation 
+
+I believe I have a moral obligation to donate money online 
+
+Not participating in online donation goes against my principles 
+
+Trust in charity organizations 
+
+I would trust the charity organizations to always act in the best interest of the causes  
+
+I would trust the charity organization to use donated funds appropriately 
+
+I would trust the charity organization to use fundraising techniques that are 
+appropriate and sensitive 
+
+Trust in technology 
+
+The technology has enough safeguards to make me feel comfortable using platform 
+to transact personal information 
+I feel assured that legal and technological structures adequately protect me from 
+problems that could arise from the transaction 
+
+.87 
+
+Smith and 
+McSweeney (2007) 
+
+.91 
+
+.81 
+
+Sargeant et al. (2006) 
+
+Bélanger and Carter 
+(2008); Teo et al. 
+(2008) 
+
+Behavioral intention 
+
+.90 
+
+Ajzen (2002) 
+
+I intend to donate money online in the next three months 
+
+I plan to donate money online in the next three months 
+
+Results 
+
+Before performing the hierarchical multiple regression, we conducted the Pearson correlation analysis on all the 
+key constructs in our study. As Table 3 shows, behavioral intention was positively and significantly correlated with 
+other  independent  variables, except  trust  in technology.  The  correlation  coefficients  amongst  the  independent 
+variables  and  the  moderator  were  between  0.10  and  0.60,  suggesting  that  all  the  variables  are  suitable  to  be 
+entered into the same regression model. 
+
+Table 3. Pearson Correlation Matrix and Descriptive Statistics on All Measured Variables. 
+
+Variables 
+
+1. Attitude 
+
+2. PBC 
+
+3. Subjective norm 
+
+4. Moral norm 
+
+M 
+
+SD 
+
+3.74 
+
+0.79 
+
+3.84 
+
+0.65 
+
+3.14 
+
+0.76 
+
+3.10 
+
+0.83 
+
+5. Trust in charity organizations 
+
+2.03 
+
+0.82 
+
+1 
+
+1 
+
+.34** 
+
+.44** 
+
+.50** 
+
+−.07 
+
+6. Trust in technology 
+
+2.47 
+
+0.90 
+
+.03 
+
+7. Behavioral intention 
+
+3.31 
+
+0.90 
+
+8. Past donation behaviora 
+
+0.46 
+
+0.50 
+
+.56** 
+
+.24** 
+
+Note. **p < .01; N = 721. a 0 = no, 1 = yes. 
+
+2 
+
+1 
+
+.17** 
+
+.17** 
+
+−.25** 
+
+−.03 
+
+.34** 
+
+.27** 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+1 
+
+.59** 
+
+.04 
+
+−.01 
+
+.48** 
+
+.19** 
+
+1 
+
+−.01 
+
+.02 
+
+.59** 
+
+.26** 
+
+1 
+
+.57** 
+
+.05 
+
+.12** 
+
+1 
+
+.10** 
+
+.16** 
+
+1 
+
+.48** 
+
+Hierarchical multiple regression was conducted to examine the influence of the original TPB variables, moral norm, 
+and  two  types  of  trusts  on  individuals’  intention  to  donate  online  in the  future.  Specifically,  demographics  (i.e., 
+gender, age, education, income, and religious affiliation) were entered into the first block as control variables, the 
+variables of the original TPB model (i.e., attitude to online donation, PBC, and subjective norm) were entered into 
+the second block, moral norm was entered into the third block, and two trust-related variables, past behavior, and 
+their  interaction  terms  were  entered  into  the  fourth  block.  We  standardized  the  variables  of  trust  in  charity 
+organizations, trust in technology, and past behavior, multiplied the corresponding standardized values to create 
+the interaction terms, and then added these new variables to the last block of regression model. The results of 
+the regression analysis for each block were summarized in Table 4, and only the coefficients for the variables that 
+were first entered to the model were presented. 
+
+As  Table  4  shows,  demographic  variables  accounted  for  6.1%  of  the  variance  in  the  intention  to  donate  in  the 
+future. Among them, gender (β = .077, p = .039), educational level (β = .080, p = .035), monthly disposable income 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(β = .126, p = .007), and religious affiliation (β = .138, p < .001) were the significant predictors. However, age had 
+no  significant  impact  on  their  intention  to  donate  online  (β  =  .067,  p  =  .134).  That  is,  the  results  indicated  that 
+participants of male gender, higher educational level, higher monthly disposable income, and those with religious 
+affiliations were more likely to donate online than their counterparts.  
+
+In the second block, attitude (β = .373, p < .001), PBC (β = .150, p < .001) and subjective norm (β = .271, p < .001) 
+were  significantly  and  positively  related  to  the  intention  to  donate  online  after  controlling  for  the  effect  of  the 
+demographic variables. Thus, H1, H2 and H3 were supported.  
+
+In the third block, moral norm (β = .348, p < .001) was found to be a significant predictor of intention to donate 
+online. Furthermore, three variables in the original TPB model jointly explained 36.4% of the variance in people’s 
+intention, and the addition of moral norm significantly increased the variance explained (ΔR2 = 6.8%, ΔF = 96.18, 
+p < .001). H4 and H5, therefore, were also supported.  
+
+Results of the last block showed that trust in charity organizations (β = .067, p = .039) positively predicted people’s 
+donating intention, whereas trust in technology did not have any significant effect  on their intention to donate 
+online  (β  = .010,  p  =  .754),  after  controlling  for  all  the  variables  in the  above  blocks.  Regarding  the  moderation 
+effect of past behavior, the interaction term of trust in charity organizations and past behavior (β = −.066, p = .031) 
+negatively  and  significantly  predicated  people’s  donating  intention.  In  contrast,  the  interaction  term  of  trust  in 
+technology  and  past  behavior  (β  =  .008,  p  =  .782)  did  not  predicate  their  intention.  Hence,  H6  and  H8a  were 
+supported, yet neither H7 nor H8b was supported. 
+
+Table 4. Hierarchical Regression Predicting Online Donating Intention. 
+
+Predictor 
+
+Demographics (in Block 1) 
+
+Gendera 
+
+Age 
+
+Education 
+
+Disposable monthly income 
+
+Religious affiliationb 
+
+Original TPB (in Block 2) 
+
+Attitude 
+
+PBC 
+
+Subjective norm 
+
+Extended Variable (in Block 3) 
+
+Moral norm 
+
+Trust and Past Behavior (in Block 4) 
+
+Trust in charity organizations 
+
+Trust in technology 
+
+Past donation behavior 
+
+Trust in charity organizations × past behavior 
+
+Trust in technology × past behavior 
+
+∆R2 
+
+.061 
+
+.364 
+
+.068 
+
+.073 
+
+β 
+
+p 
+
+95% CI 
+
+.077 
+
+.067 
+
+.080 
+
+.126 
+
+.138 
+
+.373 
+
+.150 
+
+.271 
+
+.039 
+
+.134 
+
+.035 
+
+.007 
+
+< .001 
+
+< .001 
+
+< .001 
+
+< .001 
+
+[.007, .277] 
+
+[−.019, .139] 
+
+[.006, .174] 
+
+[.018, .115] 
+
+[.146, .478] 
+
+[.349, .499] 
+
+[.124, .290] 
+
+[.245, .395] 
+
+.348 
+
+< .001 
+
+[.300, .450] 
+
+.067 
+
+.010 
+
+.266 
+
+−.066 
+
+.008 
+
+.039 
+
+.754 
+
+[.003, .118] 
+
+[−.046, .063] 
+
+< .001 
+
+[.190, .288] 
+
+.031 
+
+.782 
+
+[−.113, −.005] 
+
+[−.047, .062] 
+
+Total Adjusted R2 
+
+.558 
+
+Note. N = 721; a 0 = male, 1 = female; b 0 = no, 1 = yes; all the coefficients were standardized. 
+
+In sum, the influence of the extended TPB variables (original TPB variables with moral norm) and the trust-
+related variables of online donation intention, as well as the moderation effect of past donation behavior, is 
+depicted in Figure 2. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Influence of TPB Variables, Two Types of Trust, and the Moderation Effect of Past Behavior on Online Donation Intention. 
+
+Extended TPB Variables 
+
+Attitude to online 
+donation 
+
+Perceived 
+behavioral control 
+
+Influences of norms 
+
+Subjective norm 
+
+Moral norm 
+
+Past 
+donation 
+
+*
+β = −.07
+
+Online donation 
+intention 
+
+Trust 
+
+Trust in charity 
+organizations 
+
+Trust in  
+technology 
+
+Note. *p < .05, **p < .01; ***p < .001. 
+
+To  illustrate  the  moderation  effect  of  past  donation  behavior  and  trust  in  charity  organizations  on  individuals’ 
+intention to donate online, post-hoc simple slope tests were conducted and the interactive effects were plotted. 
+The  simple  slope  tests  indicated  that  trust  in  charity  organization  was  positively  related  to  intention  to  donate 
+online (slope = 0.136, p = .004, 95% CI [0.044, 0.227]) for people without previous donation experience, whereas it 
+had no significant effect on online donation intention (slope = 0.002, p = .969, 95% CI [−0.084, −0.087]) for those 
+with donation experiences. See Figure 3 for the illustrations for the simple slope tests. 
+
+Figure 3. Relationship Between Trust in Charity Organizations and Behavioral Intention Among People With and Without Past 
+Donating Experience. 
+
+e
+n
+
+i
+l
+
+n
+o
+e
+t
+a
+n
+o
+d
+o
+t
+n
+o
+i
+t
+n
+e
+t
+n
+
+I
+
+Low trust in organizations               High trust in organizations 
+
+w/o past donation 
+with past donation 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discussion 
+
+Drawing upon the extended TPB and trust-related constructs, this study empirically explored the factors affecting 
+Chinese people’s intention to donate online. The results showed that attitude, PBC, subjective norm, and moral 
+norm were positively related to intent to donate online. Particularly, moral norm was found to be a more important 
+factor  than  subjective  norm  in  predicting  intentions  to  donate  online  among  respondents.  Trust  in  charity 
+organizations  was found to positively predict donation intention, while trust in technology was not. The results 
+also revealed that past donation experience moderated the effects of trust in charity organizations on individuals’ 
+intention  to  donate  online.  People  with  no  donation  experience  tended  to  rely  more  on  their  trust  in  the 
+organizations compared to those who had donated before. 
+
+Contributions of Moral Norm and its Comparisons to Subjective Norm 
+
+In  line  with  the  previous  studies  (e.g.,  Bamberg  &  Möser,  2007;  Conner  &  Armitage,  1998),  the  present  study 
+confirmed that moral norm significantly influences people’s intention to donate online and increased the amount 
+of  explained  variance  of  the  original  TPB  model  in  predicting  people’s  behavioral  intentions.  Also,  this  study 
+revealed that moral norm was a stronger predictor in explaining people’s intention to donate online compared to 
+subjective  norm.  These  results  could  be  explained  by  the  fact  that  monetary  donation  is  a  typical  prosocial 
+behavior, which is mainly driven by people’s intrinsic moral responsibilities rather than the rewards or punishment 
+from social groups. In other words, online donation could be regarded as a prosocial behavior that is much more 
+morally loaded than merely being promoted by one’s social/group identity. Another possible explanation for this 
+finding is the context of online channels. Different from the traditional offline donation behaviors featuring high 
+visibility  and  group  membership  (Christian  &  Abrams,  2003;  Davies  et  al.,  2002),  online  donation  is  usually 
+conducted by Internet users in relatively private or invisible settings. In such cases, the absence of pressure from 
+social expectations and group membership weakens the impact of subjective norm to some extent. 
+
+Nevertheless, departing from previous findings which showed subjective norm did not yield significant influence 
+when moral norm was included simultaneously as a predictor (Knowles et al., 2012; van der Linden, 2011), our 
+study  indicates  that  subjective  norm  is  still  significant  even  after  the  inclusion  of  moral  norm.  This  conflicting 
+finding may originate from the cultural differences between Chinese and Western people, as we argued previously. 
+Due to their collectivist cultural background, Chinese people highly value being part of a social circuit and take 
+responsibility  for  the  actions  and  behaviors  of  people  within  their  group  (Hofstede  et  al.,  2010).  According  to 
+Fischer et al. (2009), individuals within a collectivistic culture are also more strongly guided by group norms, duties, 
+and obligations, in contrast to those who have grown up in an individualistic culture. In this sense, although the 
+influence of subjective norm is weakened in combination with moral norm, it is still a significant predictor of online 
+donation considering the collectivistic mindset of Chinese participants. In addition, there is another explanation 
+for  the  reason  why  subjective  norm  still  matters  when  controlling  for  moral  norm.  As  a  special  form  of  online 
+transaction, online donation involves potential risks (Gefen et al., 2003; Yousafzai et al., 2003), people thereby are 
+inclined to refer to others’ behavior for guidance. Thus, the more they think others engage in online donation, the 
+more likely they are to take the same action. 
+
+Influences of Trust in Charity Organizations and Trust in Technology 
+
+First of all, the findings show that trust in charity organizations does significantly predict the donation intention 
+but the effect only exists among people who have never donated online before. The non-significant effect of trust 
+in charity organizations among those with past donation experience can be attributed to the transparency and 
+accessibility  of  information  provided  by  online  donation  platforms.  Compared  with  the  donors  in  the  offline 
+environment,  online  donors  can  easily  access  the  status  of  the  donation  progress  and  the  distribution  of  the 
+collected money, which could help to largely reduce their concerns about monetary abuse. In addition, as previous 
+studies have indicated, trust can be obtained and developed gradually over time based on positive outcomes from 
+repeated  behaviors  (Chiu  et  al.,  2012;  Hsu  et  al.,  2007).  Consequently,  when  people  donate  online  and  have  a 
+positive experience, such as the easy accessibility of information and timely feedback, their perceived uncertainty 
+is reduced, which weakens the impact of trust in charity organizations on future donation intention. That is, trust 
+in charity organizations is no longer a predominant cause of changes in donation intentions for people who have 
+experienced positive online donations. 
+
+Another  finding  on  trust  worth  discussing  is  the  non-significant  effect  of  trust  in  technology.  This  result  is 
+inconsistent with Sura et al.’s (2017) research which showed that only factors related to Internet technology (other 
+than charity organizations) influenced people’s general attitude toward online donations. As mentioned before, 
+Chinese people usually have a weaker sense of privacy due to their collectivistic orientation and are trusting of 
+online payment methods because of the technology’s maturity in China. These are the possible explanations of 
+the discrepancy between our findings and the previous research results. To be specific, trust in technology is no 
+longer  a  significant  determinant  of  the  online  donation  intention  of  Chinese  participants  due  to  low  levels  of 
+privacy concern and the low levels of uncertainty in online payment technologies. Another possible reason why 
+trust  in  technology  was  not  a  significant  predictor  of  intention  to  donate  online  is  that  most  scandals  in  China 
+about online donation (at least those exposed to the public) were caused by the bad management of organizations 
+instead of technology (Bannister, 2013; Wang, 2011). Hence, Chinese people may be less cautious of technology 
+than they are of organizations when it comes to their decision-making of online donation. 
+
+Implications and Limitations 
+
+Combining the extended TPB model with the trust perspective, the current study sheds light on factors related to 
+Chinese participants’ intentions to donate online. It adds to the body of knowledge on charitable donation in the 
+online  context  by  incorporating  two  forms  of  trust  into  the  extended  TPB  model,  and  highlights  the  different 
+contributions  of  two  types  of  norms  in  predicting  people’s  prosocial  behavior  within  the  Chinese  cultural 
+background.  Furthermore,  findings  on  the  moderation  effect  of  past  donation  behavior  on  trust  provides  us  a 
+deeper understanding of Chinese people’s decision-making process when making online donations.  
+
+Apart  from  its  theoretical  contributions,  this  study  also  provides  some  practical  implications  regarding  how  to 
+increase individuals’ willingness to donate online. For instance, given the importance of moral norm in predicting 
+people’s  donating  intention,  it  is  of  vital  importance  to  show  moral  recognition  for  online  donation  and  foster 
+people’s sense of personal responsibility to participate in the charitable activity. Meanwhile, since subjective norm 
+was  still  found  to  be  a  significant  predictor  after  controlling  for  moral  norm,  it  is  also  necessary  therefore  to 
+encourage online donors to share their charitable giving behaviors on social media which can provide a source of 
+invisible social pressure for other potential donors (Zhong, 2015).  
+
+Beyond that, there are at least two measures that charitable organizations can employ based on the result that 
+trust  in  charity  organizations  significantly  predicts  behavioral  intention  only  among  the  people  without  any 
+previous  experience  of  online  donation.  On  the  one  hand,  charitable  organizations  should  always  engage 
+themselves  in maintaining a positive image and building their credibility among the public. Specifically, besides 
+conducting  external  audits,  which  are  generally  seen  as  an  efficient  means  of  monitoring  (Duncan,  2004), 
+organizations can also make full use of Internet technology to make donation activities (including the amount of 
+money  collected  and  use  of  the  money)  more  transparent  to  decease  potential  donors’  concerns  of  monetary 
+abuse. On the other hand, charitable organizations can initially appeal to donors by allowing them to donate small 
+amounts money, a lower barrier to entry, and help them to get familiar with the online donation process (including 
+its  transparency  regarding  the  use  of  collected  money),  which  will  further  enhance  their  trust  in  charitable 
+organizations and their online donating intention as well.  
+
+Despite the above theoretical and practical contributions, this study has several limitations. First, participants in 
+our study may have varying levels of knowledge of different charity organizations  and they may have a certain 
+organization in mind when filling the questionnaire. It could be a confounding factor that is not controlled for in 
+the current study. Although the forms of the third-party charitable crowdfunding platforms in China are rich and 
+diverse, those hosted by major Chinese corporations like Alibaba, Tencent, and Sina were reported to account for 
+more than 86% of the total amount of fund-raising on the third-party platforms, which has become the driving 
+force for the development of China’s online donation (China Association of Fundraising Professionals, 2015). These 
+most popular third-party charitable platforms share many aspects in common in terms of their social media nature 
+and the supported projects. In specific, they all rely on the huge user base from social media services, and are 
+most  popular  in  medical  projects  for  vulnerable  groups.  Thus,  it  is  believed that  the  evidence  provided  by  this 
+study is still generalizable to the mainstream charitable industry in China. Nevertheless, future studies should also 
+consider including more variables regarding the specific types of channels/platforms and projects when designing 
+their study measures. Second, our study focuses on individuals’ donation intention in the online context as well 
+
+as  the  influence  of  Chinese  culture,  which  offers  us  an  insightful  look  into  factors  influencing  online  donation 
+among Chinese people. However, such a research endeavor, to some extent, also limits the generalizability of the 
+results. Third, considering the intention-behavior gap, longitudinal studies are needed in the future to better link 
+the  relationship  between  predictors  and  actual  online  donation  behavior.  Finally,  the  potential  dynamic 
+relationship between moral norm and subjective norm remained un-examined in our study, which is worthy of 
+being further explored in future studies. 
+
+Acknowledgement 
+
+This work was supported by the National Social Science Fund of China [19BXW090]. The authors also thank the 
+financial support from Qixing Charitable Communication Research Project [2021-2022-A06].  
+
+The Author(s) declare(s) that there is no conflict of interest. 
+
+Conflict of Interest 
+
+References 
+
+Ahn, J.-C., Sura, S., & An, J.-C. (2018). Intention to donate via social network sites (SNSs) A comparison study 
+between Malaysian and South Korean users. Information Technology & People, 31(4), 910–926. 
+https://doi.org/10.1108/ITP-12-2015-0307 
+
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 
+179–211. https://doi.org/10.1016/0749-5978(91)90020-T 
+
+Ajzen, I. (2002). Constructing a TPB questionnaire: Conceptual and methodological considerations. 
+http://chuang.epage.au.edu.tw/ezfiles/168/1168/attach/20/pta_41176_7688352_57138.pdf 
+
+Armitage, C. J., & Conner, M. (2001). Efficacy of the theory of planned behaviour: A meta-analytic review. British 
+Journal of Social Psychology, 40(4), 471–499. https://doi.org/10.1348/014466601164939 
+
+Bamberg, S., & Möser, G. (2007). Twenty years after Hines, Hungerford, and Tomera: A new meta-analysis of 
+psycho-social determinants of pro-environmental behaviour. Journal of Environmental Psychology, 27(1), 14–25. 
+https://doi.org/10.1016/j.jenvp.2006.12.002 
+
+Bannister, T. (2013, December 20). The Guo Meimei scandal: Weibo microblogging unveils the Chinese Red 
+Cross. China Development Brief. https://chinadevelopmentbrief.org/reports/the-guo-meimei-scandal-
+weibo-microblogging-unveils-the-chinese-red-cross/  
+
+Bearden, W. O., Netemeyer, R. G., & Teel, J. E. (1989). Measurement of consumer susceptibility to interpersonal 
+influence. Journal of Consumer Research, 15(4), 473–481. https://doi.org/10.1086/209186 
+
+Bélanger, F., & Carter, L. (2008). Trust and risk in e-government adoption. The Journal of Strategic Information 
+Systems, 17(2), 165–176. https://doi.org/10.1016/j.jsis.2007.12.002 
+
+Bhattacherjee, A. (2002). Individual trust in online firms: Scale development and initial test. Journal of 
+Management Information Systems, 19(1), 211–241. https://doi.org/10.1080/07421222.2002.11045715 
+
+Burgoyne, C. B., Young, B., & Walker, C. M. (2005). Deciding to give to charity: A focus group study in the context 
+of the household economy. Journal of Community & Applied Social Psychology, 15(5), 383–405. 
+https://doi.org/10.1002/casp.832 
+
+Chen, Y., Dai, R., Yao, J., & Li, Y. (2019). Donate time or money? The determinants of donation intention in online 
+crowdfunding. Sustainability, 11(16), Article 4269. https://doi.org/10.3390/su11164269 
+
+China Association of Fundraising Professionals (2015). 2014 report on China’s third-party platforms of online 
+donation. http://gongyi.china.com.cn/2015-11/27/content_8410668.htm  
+
+Chiu, C.-M., Hsu, M.-H., Lai, H., & Chang, C.-M. (2012). Re-examining the influence of trust on online repeat 
+purchase intention: The moderating role of habit and its antecedents. Decision Support Systems, 53(4), 835–845. 
+https://doi.org/10.1016/j.dss.2012.05.021 
+
+Choi, S., Kim, H., Chung M., & Lee, S. Y. (2019). Online donation experiences, donation awareness, and intention 
+of future donation among teenagers in South Korea. Journal of Social Service Research, 45(5), 622–633. 
+https://doi.org/10.1080/01488376.2018.1487363 
+
+Christian, J., & Abrams, D. (2003). The effects of social identification, norms and attitudes on use of outreach 
+services by homeless people. Journal of Community & Applied Social Psychology, 13(2), 138–157. 
+https://doi.org/10.1002/casp.719 
+
+Cohen, J., & Cohen, P. (1975). Applied multiple regression/correlation analysis for the behavioral sciences. Lawrence 
+Erlbaum Associates Publishers. 
+
+Conner, M., & Armitage, C. J. (1998). Extending the theory of planned behavior: A review and avenues for further 
+research. Journal of Applied Social Psychology, 28(15), 1429–1464. https://doi.org/10.1111/j.1559-
+1816.1998.tb01685.x 
+
+Davies, J., Foxall, G. R., & Pallister, J. (2002). Beyond the intention–behaviour mythology: An integrated model of 
+recycling. Marketing Theory, 2(1), 29–113. https://doi.org/10.1177/1470593102002001645 
+
+Duncan, B. (2004). A theory of impact philanthropy. Journal of Public Economics, 88(9–10), 2159–2180. 
+https://doi.org/10.1016/S0047-2727(03)00037-9 
+
+Fischer, R., Ferreira, M. C., Assmar, E., Redford, P., Harb, C., Glazer, S., Cheng, B.-S., Jiang, D.-Y., Wong, C. C., 
+Kumar, N., Kärtner, J., Hofer, J., & Achoui, M. (2009). Individualism-collectivism as descriptive norms: 
+Development of a subjective norm approach to culture measurement. Journal of Cross-Cultural Psychology, 40(2), 
+187–213. https://doi.org/10.1177/0022022109332738 
+
+France, J. L., Kowalsky, J. M., France, C. R., McGlone, S. T., Himawan, L. K., Kessler, D. A., & Shaz, B. H. (2014). 
+Development of common metrics for donation attitude, subjective norm, perceived behavioral control, and 
+intention for the blood donation context. Transfusion, 54(3), 839–847. https://doi.org/10.1111/trf.12471 
+
+Gefen, D., Karahanna, E., & Straub, D. W. (2003). Trust and TAM in online shopping: An integrated model. MIS 
+Quarterly, 27(1), 51–90. https://doi.org/10.2307/30036519 
+
+Grabner-Kräuter, S. (2004). Building consumer trust in online markets. Springer. 
+
+Hofstede, G., Hofstede, G. J. & Minkov, M. (2010). Cultures and organizations: Software of the mind. McGraw-Hill. 
+
+Hooper, P., & Stobart, S. (2003). Using third‐party services to reduce the development cost and improve the 
+effectiveness of charity websites. International Journal of Nonprofit and Voluntary Sector Marketing, 8(4), 328–336. 
+https://doi.org/10.1002/nvsm.223 
+
+Hou, T., Hou, K., Wang, X., & Luo, X. (2021). Why I give money to unknown people? An investigation of online 
+donation and forwarding intention. Electronic Commerce Research and Applications, 47, Article 101055. 
+http://doi.org/10.1016/j.elerap.2021.101055 
+
+Hsu, M.-H., Ju, T. L., Yen, C.-H., & Chang, C.-M. (2007). Knowledge sharing behavior in virtual communities: The 
+relationship between trust, self-efficacy, and outcome expectations. International Journal of Human-Computer 
+Studies, 65(2), 153–169. https://doi.org/10.1016/j.ijhcs.2006.09.003 
+
+Kashif, M., & De Run, E. C. (2015). Money donations intentions among Muslim donors: An extended theory of 
+planned behavior model. International Journal of Nonprofit and Voluntary Sector Marketing, 20(1), 84–96. 
+https://doi.org/10.1002/nvsm.1519 
+
+Kashif, M., Sarifuddin, S., & Hassan, A. (2015). Charity donation: Intentions and behaviour. Marketing Intelligence & 
+Planning, 33(1), 90–102. https://doi.org/10.1108/MIP-07-2013-0110 
+
+Knowles, S. R., Hyde, M. K., & White, K. M. (2012). Predictors of young people’s charitable intentions to donate 
+money: An extended theory of planned behavior perspective. Journal of Applied Social Psychology, 42(9), 2096–
+2110. https://doi.org/10.1111/j.1559-1816.2012.00932.x 
+
+Kramer, R. M. (2001). Identity and trust in organizations: One anatomy of a productive but problematic 
+relationship. In M. A. Hogg & D. J. Terry (Eds.), Social identity processes in organizational contexts (pp. 167–180). 
+Psychology Press.  
+
+Krebs, D. L., & Janicki, M. (2004). The biological foundations of moral norms. In M. Schaller & C. Crandall (Eds.), 
+Psychological foundations of culture (pp. 125–148). Lawrence Erlbaum Associates Publishers. 
+
+Kuisma, T., Laukkanen, T., & Hiltunen, M. (2007). Mapping the reasons for resistance to internet banking: A 
+means-end approach. International Journal of Information Management, 27(2), 75–85. 
+https://doi.org/10.1016/j.ijinfomgt.2006.08.006 
+
+Kurland, N. B. (1995). Ethical intentions and the theories of reasoned action and planned behavior. Journal of 
+Applied Social Psychology, 25(4), 297–313. https://doi.org/10.1111/j.1559-1816.1995.tb02393.x 
+
+Li, Y.-Z., He, T.-L., Song Y.-R., Yang, Z., & Zhou R.-T. (2018). Factors impacting donors’ intention to donate to 
+charitable crowd-funding projects in China: A UTAUT-base model. Information, Communication & Society, 21(3), 
+404–415. https://doi.org/10.1080/1369118X.2017.1282530 
+
+Liu, L., Suh, A., & Wagner, C. (2018). Empathy or perceived credibility? An empirical study on individual donation 
+behavior in charitable crowdfunding. Internet Research, 28(3), 623–651. https://doi.org/10.1108/IntR-06-2017-
+0240 
+
+Lu, B., Fan, W., & Zhou, M. (2016). Social presence, trust, and social commerce purchase intention: An empirical 
+research. Computers in Human Behavior, 56, 225–237. https://doi.org/10.1016/j.chb.2015.11.057 
+
+Ma, G. X., & Xie, D. (2015). XIN MEI TI HUAN JING XIA MIN JIAN GONG YI ZU ZHI CHUAN BO NENG LI JIAN SHE: XIAN 
+ZHUANG, FAN SI YU TI SHENG CE LUE [Research on non-governmental organizations’ developing communication 
+abilities under the new media environment: current situation, reflection and promotion strategy]. Press Circles, 6, 
+36–41. 
+
+Manstead, A. S. R. (2000). The role of moral norm in the attitude–behavior relation. In D. J. Terry, & M. A. Hogg 
+(Eds.), Attitudes, behavior, and social context: The role of norms and group membership (pp. 11–30). Lawrence 
+Erlbaum Associates Publishers. 
+
+McCole, P., Ramsey, E., & Williams, J. (2010). Trust considerations on attitudes towards online purchasing: The 
+moderating effect of privacy and security concerns. Journal of Business Research, 63(9–10), 1018–1024. 
+https://doi.org/10.1016/j.jbusres.2009.02.025 
+
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002). Developing and validating trust measures for e-commerce: 
+An integrative typology. Information Systems Research, 13(3), 334–359. https://doi.org/10.1287/isre.13.3.334.81 
+
+Oosterhof, L., Heuvelman, A., & Peters, O. (2009). Donation to disaster relief campaigns: Underlying social 
+cognitive factors exposed. Evaluation and Program Planning, 32(2), 148–157. 
+https://doi.org/10.1016/j.evalprogplan.2008.10.006 
+
+Pan, L. (2017). ZHONG GUO CAO GEN GONG YI ZU ZHI HU LIAN WANG SHI YONG YU CHUAN BO SHI ZHENG FEN XI: JI 
+YU SHU ZI HONG GOU SHI JIAO [How grassroots nonprofit organizations in China use Internet: an empirical study 
+from digital divide perspective]. China Youth Study, 10, 57–63. 
+
+Park, J., & Stoel, L. (2005). Effect of brand familiarity, experience and information on online apparel purchase. 
+International Journal of Retail & Distribution Management, 33(2), 148–160. 
+https://doi.org/10.1108/09590550510581476 
+
+Parker, D., Manstead, A. S. R., & Stradling, S. G. (1995). Extending the theory of planned behaviour: The role of 
+personal norm. British Journal of Social Psychology, 34(2), 127–138. https://doi.org/10.1111/j.2044-
+8309.1995.tb01053.x 
+
+Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: Integrating trust and risk with the technology 
+acceptance model. International Journal of Electronic Commerce, 7(3), 101–134. 
+https://doi.org/10.1080/10864415.2003.11044275 
+
+Pavlou, P. A., Liang, H., & Xue, Y. (2007). Understanding and mitigating uncertainty in online exchange 
+relationships: A principal-agent perspective. MIS Quarterly, 31(1), 105–136. https://doi.org/10.2307/25148783 
+
+Pentecost, R., Arli, D., & Thiele, S. (2017). It’s my choice! Investigating barriers to pro-social blood donating 
+behavior. Marketing Intelligence & Planning, 35(2), 243–258. https://doi.org/10.1108/MIP-03-2016-0055 
+
+Postmes, T., Spears, R., Sakhel, K., & De Groot, D. (2001). Social influence in computer-mediated communication: 
+The effects of anonymity on group behavior. Personality and Social Psychology Bulletin, 27(10), 1243–1254. 
+https://doi.org/10.1177/01461672012710001 
+
+Rocheleau, C. A. (2013). Organ donation intentions and behaviors: Application and extension of the theory of 
+planned behavior. Journal of Applied Social Psychology, 43(1), 201–213. https://doi.org/10.1111/j.1559-
+1816.2012.00998.x 
+
+Rose, J., Barton, C., Souza, R., & Platt, J. (2014, February 19). Data privacy by the numbers. Boston Consulting 
+Group. https://www.bcg.com/publications/2014/data-privacy-numbers.aspx 
+
+Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so different after all: A cross-discipline view of 
+trust. Academy of Management Review, 23(3), 393–404. https://doi.org/10.5465/amr.1998.926617 
+
+Ryan, R. M., Sheldon, K. M., Kasser, T., & Deci, E. L. (1996). All goals are not created equal: An organismic 
+perspective on the nature of goals and their regulation. In P. M. Gollwitzer, & J. A. Bargh (Eds), The psychology of 
+action (pp. 7–26). Guildford Press. 
+
+Sargeant, A., Ford, J. B., & West, D. C. (2006). Perceptual determinants of nonprofit giving behavior. Journal of 
+Business Research, 59(2), 155–165. https://doi.org/10.1016/j.jbusres.2005.04.006 
+
+Schwartz, S. H. (1977). Normative influences on altruism. Advances in Experimental Social Psychology, 10, 221–279. 
+https://doi.org/10.1016/S0065-2601(08)60358-5 
+
+Sheeran, P., Norman, P., & Orbell, S. (1999). Evidence that intentions based on attitudes better predict behaviour 
+than intentions based on subjective norms. European Journal of Social Psychology, 29(2–3), 403–406. 
+https://doi.org/10.1002/(SICI)1099-0992(199903/05)29:2/3<403::AID-EJSP942>3.0.CO;2-A 
+
+Shier, M. L., & Handy, F. (2012). Understanding online donor behavior: The role of donor characteristics, 
+perceptions of the internet, website and program, and influence from social networks. International Journal of 
+Nonprofit and Voluntary Sector Marketing, 17(3), 219–230. https://doi.org/10.1002/nvsm.1425 
+
+Siau, K., & Shen, Z. (2003). Building customer trust in mobile commerce. Communications of the ACM, 46(4), 91–94. 
+https://doi.org/10.1145/641205.641211 
+
+Smith, J. R., & McSweeney, A. (2007). Charitable giving: The effectiveness of a revised theory of planned 
+behaviour model in predicting donating intentions and behaviour. Journal of Community & Applied Social 
+Psychology, 17(5), 363–386. https://doi.org/10.1002/casp.906 
+
+Stern, P. C., Dietz, T., Abel, T., Guagnano, G. A., & Kalof, L. (1999). A value-belief-norm theory of support for social 
+movements: The case of environmentalism. Human Ecology Review, 6(2), 81–97. 
+https://humanecologyreview.org/pastissues/her62/62sternetal.pdf 
+
+Sura, S., Ahn, J., & Lee, O. (2017). Factors influencing intention to donate via social network site (SNS): From 
+Asian’s perspective. Telematics and Informatics, 34(1), 164–176. https://doi.org/10.1016/j.tele.2016.04.007 
+
+Sutton, S. (1998). Predicting and explaining intentions and behavior: How well are we doing? Journal of Applied 
+Social Psychology, 28(15), 1317–1338. https://doi.org/10.1111/j.1559-1816.1998.tb01679.x 
+
+Teo, T. S. H., Srivastava, S. C., & Jiang, L. (2008). Trust and electronic government success: An empirical study. 
+Journal of Management Information Systems, 25(3), 99–132. https://doi.org/10.2753/MIS0742-1222250303 
+
+Tonkiss, F., & Passey, A. (1999). Trust confidence and voluntary organisations: Between values and institutions. 
+Sociology, 33(2), 257–274. https://doi.org/10.1177/S0038038599000164 
+
+Treiblmaier, H., & Pollach, I. (2006). A framework for measuring people’s intention to donate online. In PACIS 2006 
+Proceedings (Article 88). AISeL. https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1061&context=pacis2006 
+
+Triandis, H. C., & Gelfand, M. J. (1998). Converging measurement of horizontal and vertical individualism and 
+collectivism. Journal of Personality and Social Psychology, 74(1), 118–128. https://doi.org/10.1037/0022-
+3514.74.1.118 
+
+van der Linden, S. (2011). Charitable intent: A moral or social construct? A revised theory of planned behavior 
+model. Current Psychology, 30(4), 355–374. https://doi.org/10.1007/s12144-011-9122-1 
+
+Veludo-de-Oliveira, T. M., Alhaidari, I. S., Yani-de-Soriano, M., & Yousafzai, S. Y. (2017). Comparing the 
+explanatory and predictive power of intention-based theories of personal monetary donation to charitable 
+organizations. VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, 28(2), 571–593. 
+https://doi.org/10.1007/s11266-016-9690-7 
+
+Wang, D. (Ed.). (2011). Development of philanthropy in China: 2001–2011. Beijing Normal University Press. 
+
+Warburton, J., & Terry, D. J. (2000). Volunteer decision making by older people: A test of a revised theory of 
+planned behavior. Basic and Applied Social Psychology, 22(3), 245–257. 
+https://doi.org/10.1207/S15324834BASP2203_11 
+
+Weber, M., & Gerth, H. H. (1953). The Religion of China, Confucianism and Taoism. Philosophy, 28(105), 187–189. 
+
+Wilson, C., Van Voorhis, S., & Morgan, B. (2007). Understanding power and rules of thumb for determining 
+sample sizes. Tutorials in Quantitative Methods for Psychology, 3(2), 43–50. 
+http://dx.doi.org/10.20982/tqmp.03.2.p043 
+
+Yang, Q., Pang, C., Liu, L., Yen, D. C., & Tarn, J. M. (2015). Exploring consumer perceived risk and trust for online 
+payments: An empirical study in China’s younger generation. Computers in Human Behavior, 50, 9–24. 
+https://doi.org/10.1016/j.chb.2015.03.058 
+
+Yang, Y., Wilkinson, M., & Zhang, X. (2016). Beyond the abolition of dual administration: The challenges to NGO 
+governance in 21st century China. Voluntas, 27(5), 2292–2310. https://doi.org/10.1007/s11266-014-9521-7 
+
+Yang, Y., Shi, Y., & Zhang, D. (2020). Intergenerational effects on individual charitable donation: An innovative 
+study on philanthropy in China. The Journal of Chinese Sociology, 7, Article 22. https://doi.org/10.1186/s40711-020-
+00139-2 
+
+Yousafzai, S. Y., Pallister, J. G., & Foxall, G. R. (2003). A proposed model of e-trust for electronic banking. 
+Technovation, 23(11), 847–860. https://doi.org/10.1016/S0166-4972(03)00130-5 
+
+Zhang, W. (2017). CI SHAN ZU ZHI JUAN ZENG JIN WU NIAN LIAN XU CHAO GUO 500 YI YUAN [The amount of money 
+donated by charitable organizations exceeded 50 billion yuan yearly in the past five years]. 
+http://www.legaldaily.com.cn/index_article/content/2017-09/05/content_7307308.htm?node=5955 
+
+Zhong, Z. J. (2015). SHE JIAO MEI TI ZHONG DE GONG YI ZHONG CHOU: WEI GONG YI DE CHOU KUAN NENG LI HE XIN 
+XI TOU MING YAN JIU [Philanthropic crowdfunding on social media: exploring factors shaping the financial success 
+and transparency of online fundraising], Journalism and Communication, 3(8), 68–83. 
+
+Zhou, Q., & Zeng, G. (2006). ZHONG GUO CI SHAN JIAN SHE [A brief history of philanthropy in China]. Renmin 
+Publisher. 
+
+ 
+About Authors 
+
+Wu Li, Ph.D., is a professor at the School of Media and Communication of Shanghai Jiao Tong University, China. 
+
+His  research  interests  cover  new  media  and  media  psychology.  He  recently  investigates  research  topics  on 
+
+psychological effects and social impacts of social media use. 
+
+Yuanyi Mao, M.A., is a doctoral student in media and communication at City University of Hong Kong, China. His 
+
+research  interests  include  human-computer  interaction  and  moral  psychology,  especially  the  psychological 
+
+processes and consequences related to the interaction with emerging technologies. 
+
+Cong  Liu,  Ph.D.,  is  an  associate  professor  at  the  School  of  Media  and  Communication  of  Shanghai  Jiao  Tong 
+
+University, China. Her research interest lies in quantitative studies in computer-mediated communication, media 
+
+psychology, and health communication. 
+
+✉ Correspondence to 
+
+Cong Liu, School of Media and Communication, Shanghai Jiao Tong University, No. 800 Dongchuan Road, 
+
+Shanghai, China; email: lcong26@sjtu.edu.cn   
+
+© Author(s). The articles in Cyberpsychology: Journal of Psychosocial Research on Cyberspace are open access articles 
+
+licensed  under  the  terms  of  the  Creative  Commons  BY-NC-ND  4.0  International  License  which  permits 
+
+unrestricted, non-commercial use, distribution and reproduction in any medium, provided the work is properly 
+
+cited. 
+
+Cyberpsychology: Journal of Psychosocial Research on Cyberspace (https://cyberpsychology.eu/) 
+
+ISSN: 1802-7962 | Faculty of Social Studies, Masaryk University

@@ -1,0 +1,1456 @@
+International Review on Public and Nonprofit Marketing
+https://doi.org/10.1007/s12208-021-00331-1
+ORIGINAL ARTICLE
+
+What facilitate people to do charity? The impact of brand
+anthropomorphism, brand familiarity and brand trust
+on charity support intention
+Quang‑An Ha1 · Phuong Nhi Nguyen Pham1 · Long Hoang Le2,3
+Received: 14 September 2021 / Accepted: 28 December 2021
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+
+Abstract
+Nonprofit organizations have gradually embraced the brand-oriented approach to
+deliver value for their stakeholders. The anthropomorphism of nonprofit brands is
+a promising strategy to attract more attention and support. This study attempted
+to examine the effects of brand anthropomorphism and other brand-related factors
+on charity support intention. Based on the theory of anthropomorphism and literature on the customer-brand relationship, this study proposed a research framework
+explaining the causal relationships between brand anthropomorphism, brand trust,
+brand familiarity, and charity support intention. Data from a survey of 325 respondents were analyzed using the Partial Least Squares technique. The findings revealed
+that brand-related factors have significant effects on behavioral intention under the
+context of the charity sector. Specifically, brand anthropomorphism, brand trust,
+and brand familiarity had significantly positive impacts on charity support intention.
+Moreover, brand trust and brand familiarity were found to mediate the effects of
+brand anthropomorphism on charity support intention. These exploratory findings
+provided several implications for both theory and practice.
+Keywords Brand anthropomorphism · Brand familiarity · Brand trust · Charity
+support intention · Nonprofit marketing · Relationship marketing
+* Long Hoang Le
+longlh@buh.edu.vn; lehoanglong313@gmai.com
+Quang‑An Ha
+anhq@ueh.edu.vn
+Phuong Nhi Nguyen Pham
+nhinpp@ueh.edu.vn
+1
+
+School of International Business and Marketing, University of Economics Ho Chi Minh City,
+Ho Chi Minh City, Vietnam
+
+2
+
+International Economics Faculty, Banking University of Ho Chi Minh City, 36 Ton That Dam,
+District 1, Ho Chi Minh City, Vietnam
+
+3
+
+School of Business and Management, RMIT Vietnam, Ho Chi Minh City, Vietnam
+
+13
+
+Vol.:(0123456789)
+
+Q.-A. Ha et al.
+
+1 Introduction
+Nonprofit marketing has become one of the central topics with the rapid growth
+of charitable activities. The interestingness of nonprofit marketing emerged from
+diverse marketing strategies under the limited marketing budget (Lee, 2019), and
+relationship-marketing base (Arnett et al., 2003). Specifically, the relationship
+marketing of nonprofit organizations has typically focused on brand orientation to
+deliver values to their stakeholders (Hankinson, 2000). One of the potential strategies that can be applied is to anthropomorphize the brand and exploit the anthropomorphic effects (Adaval et al., 2013; Aggarwal & McGill, 2012; Lee & Oh, 2019).
+Anthropomorphized brands were used popularly in marketing campaigns, for example in product design, brand name, and animation (Fernandes & Oliveira, 2021).
+Previous research revealed the positive impacts of brand anthropomorphism on
+brand love (Rauschnabel & Ahuvia, 2014), brand loyalty (Guido & Peluso, 2015),
+and changes in attitude, and behaviors of consumers (Aggarwal & McGill, 2007;
+Hydock et al., 2020). Recognizing these merits, brand anthropomorphic has been
+adopted widely in profitable businesses, for example, the laughing cow cheese,
+M&M’s commercials, Planters, Kellogg’s Froot Loops, Bunny Duracell logo, and
+several Google Doodle campaigns.
+The application of brand anthropomorphism in nonprofit organizations is highly
+promising because of two reasons. First, in the charity sector, donors often rely on
+nonprofit organizations’ brands as trust-related cues (Shehu et al., 2016); therefore,
+an anthropomorphic brand can awaken the awareness and positive attitude towards
+the organization. Second, brand anthropomorphism possibly helps attract the attention of the community, create a long-term consumer-brand relationship, and more
+importantly, facilitate charity support behaviors (Casais & Santos, 2019). However, since the call for further academic research on anthropomorphism adoption of
+non-profit organizations by Stinnett et al. (2013), there was scarce research devoting effort to this topic. The literature on anthropomorphism adoption on non-profit
+organizations has focused on donors’ perception of different types of anthropomorphism adopted by non-profit organizations (Stinnett et al., 2013), donors’ judgment
+about brands with or without anthropomorphism (Dalman & Ray, 2021), and the
+adoption of money anthropomorphism in charity encouragement (Zhou et al., 2019).
+In the recent study by Sepulcri et al., (2020, p. 664), a call for future research on
+“how individuals make choices about donations under the influence of different factors, such as reliability and familiarity, and in different contexts”, and the relationships between branding and donation in a nonprofit context has been proposed.
+This study aims to address the mentioned literature gaps and respond to the
+research call, by focusing on the impacts of brand anthropomorphism on brand
+familiarity and brand trust, which also lead to charity support behavior under the
+nonprofit context. Brand familiarity appears to develop via brand exposure, which
+might increase when the anthropomorphized brand appears. Additionally, brand
+anthropomorphism might also form and enhance brand trust, or endure customer
+relationships with the brand (Fournier 1998). These impacts, possibly occurring
+when a nonprofit organization anthropomorphizes its brand, have not been well
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+investigated in past studies. This study fulfills this gap by investigating the causal
+relationships between brand anthropomorphism, brand familiarity, brand trust, and
+people’s charity support behavior. Specifically, this study addresses the following
+research questions: (i) Does brand anthropomorphism significantly affect brand
+familiarity? (ii) Does brand anthropomorphism significantly affect brand trust? and
+(iii) Do brand-related factors (i.e., brand anthropomorphism, brand familiarity, and
+brand trust) significantly affect people’s intention to do charity support?
+This study expects to provide several contributions. Theoretically, this study contributes to the anthropomorphism theory and extant literature on consumer-brand
+relationships by investigating how brand anthropomorphism, directly and indirectly,
+can lead to people’s charity support behavior. When considering brand anthropomorphism as a type of brand personality (Stinnett et al., 2013), the relationships
+between personalization/ anthropomorphism, familiarity, trust, and behavior have
+been investigated in the literature on technology adoption (Komiak & Benbasat,
+2006), commercial branding management (Zhang et al., 2020). This study confirms
+and extends these relationships in the nonprofit context. Practically, findings from
+this study provide several implications for practitioners in nonprofit organizations
+when they implement the anthropomorphized brand to attract fundraising. Specifically, marketers of nonprofit organizations can adopt anthropomorphism in their
+branding strategy to obtain the donors’ involvement. Additionally, the process of
+anthropomorphism branding should monitor (i.e., measure and evaluate) the evolution of brand familiarity and brand trust, which can mediate the effects of brand
+anthropomorphism and donors’ behavior.
+
+2 Literature review
+2.1 Nonprofit organization brand and charity supporting behaviors
+Nonprofit organizations have some distinctive characteristics which constrain their
+existence and development, for example, financial and human resources (Kashif
+et al., 2015). Regarding the operational structure, nonprofit organizations typically
+followed the organization-centric approach instead of focusing on the customer perspective (Lee & Kotler, 2011), which restricted their growth. Additionally, nonprofit
+organizations also have to address abundant challenges such as funding shortage,
+competition pressure, stakeholder satisfaction, and trustworthiness maintenance
+(Padanyi & Gainer, 2004). Among these constraints, nonprofit fundraising is likely
+to be the most substantial barrier, which might hinder the survival and sustainable
+development of nonprofit organizations.
+To deal with the harsh competition in the charity sector, nonprofit organizations
+and charitable institutions have increasingly adopted a brand oriented-approach,
+which helps to differentiate the organization (Hankinson, 2000). Kylander and Stone
+(2012) also emphasized that brand-focused strategies have affected the mindset and
+tactical decisions of many nonprofit executives. Managing brand and reputation is
+the key to the success in fundraising of nonprofit organizations since “the brand
+
+13
+
+Q.-A. Ha et al.
+
+personality of nonprofit service organizations is a focal cue for individuals engaging
+in pro-social behavior” (Shehu et al., 2016, p. 589).
+Several studies have investigated the relationships between donation behaviors
+and brand-related factors, for example, the brand personality of nonprofit organizations (Sargeant et al., 2008), and brand image (Bennett & Gabriel, 2003; Michel &
+Rieunier, 2012). Meijer (2009) claimed that the reputation of charitable organizations was the main construct of donation intention. Similarly, the impression and
+fame of nonprofit institutions were found to have positive effects on donor behavior (Sargeant et al., 2008). Furthermore, the intention to repeat charitable donations
+is influenced by fundraising experience, nonprofit agent reliability, and sympathy
+for volunteer activities (Beldad et al., 2014). Past studies identified various forms
+of charitable behaviors such as charity funding (Chen et al., 2021; Green & Webb,
+1997), voluntary activities (Clary et al., 1996; Wymer et al., 2021), word-of-mouth
+donation, and fundraising suggestions (Chen et al., 2021; Samu & Wymer, 2009),
+and charitable bequest (Sargeant et al., 2006). In another approach, Wymer et al.
+(2016) suggested eight specific behavioral outcomes of supporter loyalty, including
+donation frequency, average monthly volunteering, volunteering recency, monthly
+volunteering frequency, volunteering recruitment, event attendance, fund-raiser,
+bequest intentions. Although these behaviors are differentiated, they typically
+occur jointly with the same antecedent as charity support intention. In this study,
+we applied the concept of charity support intention suggested by Wymer and Akbar
+(2019), which consists of four outcome variables, including donation intentions,
+volunteering intentions, bequest intentions, and positive word-of-mouth (WOM)
+intentions.
+2.2 Theory of anthropomorphism
+Brand management in the nonprofit sector is considerably complicated since the
+brand practitioners are required to tackle abundant tasks such as setting goals, implementing lobby, communicating its image, and managing its brand name (Stride &
+Lee, 2007) under the limited marketing budget (Lee, 2019). Brand anthropomorphism can be considered as a reasonable brand strategy for nonprofit organizations.
+Anthropomorphism refers to “the individual tendency to perceive inanimate objects
+as humanlike entities” (Guido & Peluso, 2015, p. 2). Specifically, anthropomorphism directs an individual to treat nonhuman objects within attributed thoughts,
+emotions, intentions, and behavior features like a human (Epley et al, 2007; Guido
+& Peluso, 2015; Guthrie & Guthrie, 1995). Furthermore, Letheren et al. (2017)
+found that anthropomorphism drive people to perceive humankind in animated entities so that they are believed to be real human with given moral rights.
+Originated from anthropology, the theory of anthropomorphism justified the
+human brain’s tendency to recognize the humanlike entities in natural phenomena
+(Guthrie & Guthrie, 1995). This theory was developed in the psychology discipline
+(Epley et al., 2007, 2008) and applied widely in business and marketing research
+(e.g., Adaval et al., 2013; Aggarwal & McGill, 2012; Lee & Oh, 2019). The threefactor theory of anthropomorphism provided several justifiable factors that explain
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+why people tend to anthropomorphize, namely, sociality, effectance, and elicited
+agent knowledge. First, sociality means that individuals who desire more communication during daily life tend to believe that anthropomorphism can provide more
+bonds or companionship to them (Lee & Oh, 2019). Additionally, Tam et al. (2013)
+found that people appear to anthropomorphize animated objects to build the social
+connection they need. For instance, persons who feel solely and isolated may find
+nonhuman entities such as pets and gadgets being more humanlike (Epley et al.,
+2008). Second, effectance mentions the cognitive state that drives the interaction
+with and understanding the environment (Epley et al., 2007). Tam et al. (2013) further found that humans frequently expose their concerns on nature, and it is necessary to consider the connectedness between the natural world and people’s perceptual and emotional states. Finally, elicited agent knowledge refers to the situation
+when people tend to anthropomorphize to gain better interpretations of the world
+surrounding them (Epley et al., 2007). Persons normally rely on their knowledge and
+experiences in combination with attributing humanlike features to explain the natural phenomena and consequences of which they are less aware (Aggarwal & McGill,
+2007; Healey, 2021).
+Guthrie and Guthrie (1995) suggested three types of anthropomorphizing– including the partial, the literal, and the accidental. Partial anthropomorphism
+refers to the situation when inanimate entities have several special attributes from
+a person’s characteristics but not as fully completed human. The partial form has
+wide applications since people ascribe some human features to their properties and
+apply a human schema to comprehend them but not view such objects as real persons. Literal anthropomorphizing occurs when people consider inanimate objects as
+actual humans (Fernandes & Oliveira, 2021). Finally, people accidentally anthropomorphize when they find some parts of the human being in nonhuman agents.
+For instance, someone occasionally imagines a human face on a cloud (Aggarwal &
+McGill, 2007).
+Anthropomorphism can be applied as a marketing strategy since marketers attribute human-like traits to their products and offerings, which facilitate the cognition
+and emotion of customers (Aggarwal & McGill, 2012). The adoption of anthropomorphism in the practice of marketing application has several worth notes. Aggarwal and McGill (2007) indicated that people do not tend to anthropomorphize all
+inanimate entities, and also not assign similar anthropomorphic features to different
+agents. The research represented the presence of specific characteristics that might
+affect the ability to anthropomorphize. For example, the movement of an object can
+lead to a perception of its being alive (Tremoulet & Feldman, 2000). The speed of
+this move also has a strong effect on human perception. For another example, people may see entities that quickly dart be like insects rather than humanlike; and,
+similarly, things moving incredibly slowly seem to be the absence of humankind
+(Morewedge et al., 2004). The objects moving at the speed as same as humans’ pace
+are more likely to be anthropomorphized. For this reason, a bottle of Coca-Cola
+might be more easily anthropomorphized than a can of Coke (Aggarwal & McGill,
+2007). Regarding the emotional appealing, Waytz et al. (2010) found that the individual who supports anthropomorphism might frequently grant more rights and
+greater empathy, in comparison with the one who has not been anthropomorphized.
+
+13
+
+Q.-A. Ha et al.
+
+Letheren et al. (2017) concluded that emotions are an essential component of the
+process of anthropomorphism. In the product context, prior research indicated that
+positive emotional responses (such as warmth or enjoyment) lead to the buying decision and repurchase intention (Hwang & Hyun, 2013). Bagozzi et al. (1999) also
+emphasized that emotions are considered as a crucial factor of consumers’ behavior,
+especially applied in service circumstances. In short, products which are assigned
+human qualities often become more unique and unforgettable (e.g., the bottle shape
+of Coca-Cola), more endearing and likable (e.g., advertisements of round clocks frequently represent the time at 10:10, which makes them seem smiling) (Aggarwal &
+McGill, 2012).
+Anthropomorphic perception drives consumers’ favorable attitudes toward products (Adaval et al., 2013). For instance, people are less willing to substitute a product
+when they perceive it from an anthropomorphic perspective. Puzakova et al. (2013)
+provided several explanations for the impacts of anthropomorphism on consumer
+belief and attitude. First, anthropomorphizing objects facilitate consumer mindfulness; which means, consumers are attracted to these objects without judgment
+(Epley & Waytz, 2009). Second, consumers might perceive an anthropomorphizing
+entity as a human with emotions and moral rights (Waytz et al., 2010). The past
+study also illustrated a positive correlation between the attribution of mindfulness to
+inanimate agents and the wish to secure them (Puzakova et al., 2013).
+2.3 Brand anthropomorphism
+Brands have been long recognized to have unique human personalities (Aaker, 1997;
+Stinnett et al., 2013). Consumers typically connect with brands and build distinctive
+associations surrounding them. Practically, marketers frequently enhance anthropomorphism by generating several mascots and characters related to their brands, for
+example, the Green Giant or the Geico Gecko. In several cases, brands are ascribed
+to emotional states and be imagined as a real person, for example, Mrs. Fields cookies and Mr. Kleen’s services (Aggarwal & McGill, 2012). Guido and Peluso (2015)
+defined the concept of brand anthropomorphism as the degree to which a brand is
+seen as a real person. Particularly, the study suggested that consumers experience
+two evaluation processes in which branded objects are endowed with anthropomorphic traits. First, individuals perceive the resemblance between the outside presence
+of branded products and people’s physical features, for example, the packaging of
+goods that is similar to the body of a human. Second, the awareness of brand anthropomorphism might take place based on the perceived consistency between brand
+and self-perception of consumers. In other words, individuals find the congruity
+to help them express their actual, ideal, or social self-views when consuming such
+branded products.
+As discussed above, anthropomorphic perception leads to the consumer’s favorable attitudes toward the brand (Adaval et al., 2013). Consumers widely perceive
+anthropomorphized entities as more unique and memorable (Aggarwal & McGill,
+2012). Furthermore, anthropomorphism drives branded objects to be treated as
+actual persons with given emotion and moral rights (Waytz et al., 2010). A positive
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+relationship was found between the attributions of human-like traits to inanimate
+things and the desire to protect them (Puzakova et al., 2013). Similarly, people
+rarely substitute a product that is anthropomorphized with some emotional qualities
+(Chandler & Schwarz, 2010).
+Regarding the nonprofit context, abundant studies have found that supporting
+intentions and donor behaviors can be enabled by psychological factors, including anthropomorphism perception. For example, Beldad et al. (2014) represented
+that reliability in charitable institutions and sympathy to fundraising have positive
+impacts on donation intention. Wymer and Drollinger (2015) discovered the expertise and admirability of celebrity endorsers as the determinants of participants’ voluntary intention. Regarding brand-related factors, Bennett and Gabriel (2003) illustrated the positive relationship between favorable attitudes towards the brand image
+and supporter outcomes. Hankinson (2001) also suggested that charity organizations should approach brand orientation as a key aspect to create values for their
+participants, and enhance supporting charity intentions. Nonprofit brand strength
+is believed as a major determinant moderating on audiences’ affective emotions
+and supporting behaviors (Wymer et al., 2016). This study, based on the theory of
+anthropomorphism and the mentioned literature, argues that brand anthropomorphism might affect charity intention. Brand anthropomorphism can attract attention,
+appeal to positive emotions, and establish favorable attitudes toward the organization and its charity activities (Stinnett et al., 2013). The charity activities, which are
+normally attached to humanity, can be facilitated when individuals see and make
+the evaluation of the anthropomorphized brand. Hence, we propose the following
+hypothesis:
+H1a: Anthropomorphic brand has a positive effect on charity support intention.
+Brand familiarity refers to the extent of a consumer’s “direct and indirect experience with a brand” (Kent & Allen, 1994, p. 98). Regarding the charity sector, Dogan
+et al., (2021, p. 306) provided a specific definition of brand familiarity as “a close
+acquaintance with or knowledge of NPO… the degree of how well an NPO is performing its mission”. Brand familiarity helps individuals obtain the brand knowledge stored in consumers’ memory, and establish connections toward the brands
+(Campbell & Keller, 2003; Rim et al., 2016). Consumers have different knowledge
+in their mindset between familiar and unfamiliar brands, as well as make diverse
+relationships with different branded products in terms of their brand familiarity
+(Campbell & Keller, 2003).
+The supporter perception of an anthropomorphizing brand mainly relies on
+two key dimensional aspects, including the outside presence of branded offerings
+and the perceived congruency of the brand (Aggarwal & McGill, 2012; Lam et al,
+2013; Landwehr et al., 2011). Regarding the first dimension, individuals are more
+likely to apply the same interpersonal schema to interpret branded products that are
+assigned to humanlike external appearance (Landwehr et al., 2011). For example, a
+handphone designed with a lower “mouth” button can represent smiley and friendliness (Aggarwal & McGill, 2007). This human-like appearance can also create perceived trust when it helps to reduce the feeling of being strange and facilitate the
+
+13
+
+Q.-A. Ha et al.
+
+sense of human–human relationships. For the second dimension related to the perceived congruency of brands, Lam et al. (2013) reported that consumers appraise
+and select the brand which can address consumers’ psychological needs. Especially,
+individuals prefer to select the brand which can aid them to represent themselves
+ideally, actually, and socially (Aaker, 1999). In addition, individuals tend to establish associations with animated entities in the same way they form connections with
+other persons. Guido and Peluso (2015) demonstrated that all these anthropomorphic perceptions happen in the consumers’ mindset, beginning with the evaluation
+of self-brand congruence, then followed by recognition of particular brands and
+ending with the successive growth of personal bonds with the brand. In these circumstances, supporter perception of brand anthropomorphism not only relies on the
+outer presence of branded objects but is also based on the consumers’ perception of
+similarity between brands and humans (Fournier & Alvarez, 2012). In other words,
+anthropomorphism helps the brand become more recognized and recalled in the
+donors’ minds. Therefore, we propose a positive relationship between brand anthropomorphism and brand familiarity. The hypotheses are represented as follows.
+H1b: Anthropomorphic brand has a positive effect on brand familiarity.
+
+2.4 Brand trust
+Brand trust has been well conceptualized in the literature (Chaudhuri & Holbrook,
+2001; Matzler et al., 2006). Brand trust refers to “the willingness of the average consumer to rely on the ability of the brand to perform its stated function” (Chaudhuri
+& Holbrook, 2001, p. 82). Brand trust might exceed the scope in which consumers
+feel happy with the operational attributes of the branded objects (Morgan & Hunt,
+1994). Accordingly, brand trust has been further considered as “a feeling of security
+held by the consumer in his/her interaction with the brand, such that it is based on
+the perceptions that the brand is reliable and responsible for the interests and welfare
+of the consumer” (Delgado-Ballester & Luis Munuera-Alemán, 2001, p. 1242).
+The role of anthropomorphism in enhancing trust has been researched and
+applied widely in technology and machinery (De Visser et al., 2016; Pelau et al.,
+2021; Waytz et al., 2014), since it helps the technology become more human-like
+and create trust in users. In the art of marketing, the application of anthropomorphism can be applied in advertising (Touré-Tillery & McGill, 2015) and branding
+(Lee & Oh, 2019; Stinnett et al., 2013). The key success of anthropomorphism in
+marketing is to create a focal cue that can awaken the human sense in the customers. When considering anthropomorphism in the association with brand personality,
+branding managers typically aim to develop a human-like brand that is described
+as friendly and trustworthy (Lee & Oh, 2019; Stinnett et al., 2013). Specifically, an
+anthropomorphic brand can stimulate customers’ positive attitude, passion and love,
+and accordingly, develop long-term relationships and willingness to invest resources
+(Rauschnabel & Ahuvia, 2014). Since trust has been highlighted as the most crucial antecedent of charity organizations, brand anthropomorphism can potentially
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+become an effective tactic to enable brand trust. Therefore, this study hypothesizes a
+positive association between brand anthropomorphism and brand trust.
+H1c: Anthropomorphic brand has a positive effect on brand trust.
+Brand trust can deliver several outcomes, for example, a customer-brand relationship (Liu et al., 2011; Upamannyu & Mathur, 2013) and long-term loyalty (Gecti
+& Zengin, 2013; Liu et al., 2011). A trustworthy brand can lessen the consumer’s
+ambiguity due to the correlation between the customer’s feelings of dependability,
+safety, and honesty and the consumption of the trusted brand Chaudhuri and Holbrook (2001). Additionally, Casalo et al. (2007) stated that the trusty brand can be a
+cognitive means which triggers the emotional response, or brand affection.
+Regarding the charity sector, trust is one of the most crucial factors that enable
+donation support since the supporters have no monetary incentives when making the
+support decision (Casais & Santos, 2019). Extensive past studies have investigated
+the role of trust on charity support (Casais & Santos, 2019; Torres-Moraga et al.,
+2010; Wymer & Drollinger, 2015; Wymer et al., 2021). Particularly, the empirical
+study found that trust plays a central role in determining the credibility and legitimacy of donation agents, as well as fostering giving. Casais and Santos (2019) highlighted that trust was the prerequisite to enable the charity intention of the donors.
+Another study emphasized that the more participants have trusted in voluntary
+organizations, the more they are willing to support fundraising activities (Burnett,
+2002). Sargeant and Lee (2004) also explored the subsequent outcomes of the trust
+which moderate donors’ behaviors. Especially, past studies also investigated that
+trust can positively influence both the financial-donated intention and other donation types, for example, charity message forwarding (Chen et al., 2021), volunteering (Wymer et al., 2021). In this study, we predict that the perceived trust of noncommercial brands has a direct impact on supporter outcomes. Hence, we make the
+subsequent hypothesis:
+H2: Brand trust has a positive effect on charity support intention.
+2.5 Brand familiarity
+As mentioned above, brand familiarity relates to the association between individuals’ knowledge and a nonprofit brand (Dogan et al., 2021). The past study found that
+brand familiarity has been linked to the length of time taken for processing brand
+information (Baker et al., 1986). Specifically, the familiarity of brands decreases the
+need for searching for information (Ha & Perks, 2005), which might help to shorten
+the time for making decisions. For example, consumers tend to take less timing
+when purchasing a familiar brand than an unfamiliar brand. Besides, brand familiarity was found to have positive associations with other critical factors such as consumers’ knowledge, experiences, and awareness (Alba & Hutchinson, 1987).
+The positive relationship between brand familiarity and brand trust has been
+found in several studies in various contexts (Dawar & Lei, 2009; Ha, 2004; Ha &
+
+13
+
+Q.-A. Ha et al.
+
+Fig. 1  Research model
+
+Perks, 2005). In the context of nonprofit organizations, supporters have limited
+information about the products and services provided by the organizations, as well
+as the recipients (Torres-Moraga et al., 2010). In this case, the familiar brand is the
+solely signal for supporters to make the evaluation and decide to trust (Rim et al.,
+2016). By doing the same campaigns, a familiar brand can help shorten the information processing and establish trust from supporters compared to an unfamiliar brand.
+In the context of online donation, Chen et al. (2021) highlighted that trust can be
+obtained via the stimuli such as content quality, platform credibility and initiator
+credibility. These factors can help donors be familiar with the nonprofit organizations as well as the charity campaign. Therefore, we propose the hypothesis as:
+H3a: Brand familiarity has a positive effect on brand trust.
+As mentioned above, brand familiarity helps to reduce the time for information
+processing, consequently, might facilitate decision making. Particularly, Tam (2008)
+suggested that persons might involve less cognitive effort in evaluating the performance of a familiar brand, and tend to have more favorable appraisals in comparison
+with an unfamiliar brand. It is reasonable to believe there is a stronger link between
+customer satisfaction and repurchase intentions of higher familiar brands (Das, 2015).
+The linkage of brand familiarity with financial-related decisions has been found
+in several studies. For example, Lane and Jacobson (1995) highlighted the role of
+brand familiarity represented in the stock market. Another finding of Arora and
+Stoner (1996) indicated the higher perceived familiarity of brand name leads to more
+likelihood of intention to buy automobile insurances as well as to use photocopying
+services. In short, consumers tend to behave more positively toward a familiar brand
+as compared to an unfamiliar brand.
+In the charity sector, there is several recent research putting their dedication on
+examining the effect of brand familiarity on charitable behavior. Casais and Santos
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+High anthropomorphism
+
+Low anthropomorphism
+
+Fig. 2  Sample nonprofit brands for manipulation
+
+(2019) provided evidence that the supporters only provide support when they are
+familiar with the charity brand, for example, a physical proximity brand and/or a
+brand with a prestigious history. Dogan et al. (2021) argued that brand familiarity
+was a sophisticated cognitive process, which highly correlated with brand recognition and brand awareness. The study, based on the analysis of the empirical data
+from Turkish donors, investigated a direct positive relationship between brand familiarity and donation intention. In this research, based on the literature on brand familiarity and consumer decision-making and recent evidence, we predict that brand
+familiarity might positively influence supporter donation intention. When altering
+the brands to fund, supporters are willing to provide support to the familiar brand,
+which they obtain previous information in mind and take less effort to evaluate.
+Thus, we propose that:
+H3b: Brand familiarity has a positive effect on charity support intentions.
+The research model that combined all proposed hypotheses is represented in
+Fig. 1. The next sections will discuss the methodology and empirical findings.
+
+13
+
+Q.-A. Ha et al.
+
+Fig. 3  Structural equation modeling (PLS-SEM) results
+
+3 Research methodology
+3.1 Research design
+The objective of this study is to identify the causal relationship between anthropomorphized nonprofit brands and charity support intention. To test the causal model
+above, we decide to manipulate the brand anthropomorphism following the methods
+of previous (Xu et al., 2012; Zhang et al., 2011). The scenario-based survey design
+can also generate higher variances in the independent variables. We designed the
+anthropomorphic brands of Redcross and Helpinghands, which represented the high
+and low levels of brand anthropomorphism (see Fig. 2). The designs were carried
+out by an expert designer, followed our descriptions, then were sent to a group of
+students for evaluation before making the final version (Fig. 3).
+The official survey was carried out on Amazon’s Mechanical Turk (M-Turk), which
+has been validated to collect data for rigorous research (Steelman et al., 2014) and well
+applied in scenario experimental studies (e.g., Le & Ha, 2021). M-Turk provides an effective setting for various data collection approaches (e.g., survey, experiment) in the international frame (Duong et al., 2020); however, several studies have argued that research using
+M-Turk should set criteria before collecting data to reduce the risk of heterogeneity in
+terms of the demographic backgrounds of the respondents (Go & Sundar, 2019).
+We set several criteria for participant employment to ensure the quality of the
+responses, including (i) U.S. location, (ii) participants with task approval ratings of
+above 90% (Go & Sundar, 2019), and (iii) participants who were aware of donation
+and volunteering activities (i.e., filtering question). The respondents were paid a $1
+compensation fee for their time. We also provided a filtering question to determine
+whether the respondents had seen the logo and read the scenario/instruction carefully.
+Then we recruited 325 participants, who were randomly shown one of these
+brands, then answered the survey on their opinion about the brand. The manipulation
+
+13
+
+What facilitate people to do charity? The impact of brand…
+Table 1  Participant’s
+demographic characteristics
+
+Characteristics
+
+Frequency
+(N = 325)
+
+Percentage
+(100%)
+
+Female
+
+115
+
+35
+
+Male
+
+210
+
+64.6
+
+18–24
+
+23
+
+7.1
+
+25–30
+
+131
+
+40.3
+
+31–35
+
+61
+
+18.8
+
+36–40
+
+45
+
+13.8
+
+41- 45
+
+22
+
+6.8
+
+> 45
+
+43
+
+13.2
+
+High school or below
+
+230
+
+70.8
+
+Bachelor’s degree
+
+27
+
+8.3
+
+Master’s degree
+
+65
+
+20.0
+
+Doctoral degree
+
+3
+
+0.9
+
+Gender
+
+Age
+
+Education
+
+Income
+< US$ 1,000/month
+
+32
+
+9.8
+
+US $ 1001—$ 2,000/month
+
+119
+
+36.6
+
+US $ 2,001—$ 4,000/month
+
+109
+
+33.5
+
+> US $ 4,000/month
+
+64
+
+19.7
+
+Almost never
+
+27
+
+8.3
+
+Once
+
+53
+
+16.3
+
+Twice
+
+115
+
+35.4
+
+3 times
+
+57
+
+17.5
+
+4 times
+
+32
+
+9.8
+
+5 times or more
+
+41
+
+12.6
+
+Almost never
+
+73
+
+22.5
+
+Once
+
+65
+
+20.0
+
+Twice
+
+68
+
+20.9
+
+3 times
+
+63
+
+19.4
+
+4 times
+
+27
+
+8.3
+
+5 times or more
+
+28
+
+8.6
+
+Past donation experiences
+
+Past volunteering experiences
+
+check showed that the anthropomorphism level of the high anthropomorphized
+brands was significantly higher than the level of the low anthropomorphized brands
+­(MeanHigh = 5.40, S.D. = 1.28; ­MeanLow = 4.74, S.D. = 1.64, p < 0.001). The manipulation was concluded to be acceptable.
+The characteristic of the respondent is listed in Table 1.
+
+13
+
+13
+
+*
+
+S.D = standard deviation
+
+Charity support intention
+(IN)
+
+5.569
+5.277
+4.732
+4.643
+5.123
+
+IN1: I intend to donate to [X] in the future
+
+IN2: I intend to volunteer for [X]
+
+IN3: I intend to leave a bequest to [X] in my will
+
+IN4: I intend to recommend to others to support [X]
+
+5.055
+
+AN5: It suggests the product is like a person
+
+TRU2: Reliable
+
+4.938
+
+AN4: It’s as if the product was alive
+5.548
+
+5.098
+
+AN3: The brand is like a person
+
+TRU1: Dependable
+
+5.098
+
+AN2: The brand had come alive
+
+Brand trust
+(TRU)
+
+5.194
+
+AN1: The brand had a mind of its own and its own beliefs
+and desires
+
+Brand anthropomorphism
+(AN)
+
+Mean
+
+Item
+
+Construct
+
+Table 2  Descriptive statistics and PLS-CFA results
+
+1.645
+
+2.055
+
+1.961
+
+1.621
+
+1.354
+
+1.350
+
+1.775
+
+1.765
+
+1.742
+
+1.695
+
+1.613
+
+S.D
+
+0.879
+
+0.848
+
+0.870
+
+0.896
+
+0.913
+
+0.906
+
+0.872
+
+0.894
+
+0.893
+
+0.871
+
+0.854
+
+Factor loading
+
+0.896
+
+0.790
+
+0.925
+
+Cronbach’s alpha
+
+Q.-A. Ha et al.
+
+What facilitate people to do charity? The impact of brand…
+Table 3  Construct reliability and validity results
+C.R
+
+AVE
+
+AN
+0.877
+
+TRU​
+
+Brand anthropomorphism (AN)
+
+0.943
+
+0.769
+
+Brand Trust (TRU)
+
+0.905
+
+0.826
+
+0.589
+
+Charity Support Intention (IN)
+
+0.928
+
+0.763
+
+0.779
+
+0.621
+
+Familiarity (FAM)
+
+1.000
+
+1.000
+
+0.398
+
+0.516
+
+0.909
+
+IN
+
+FAM
+
+0.873
+
+1.000
+
+0.466
+
+(1)Diagonal bolded figures are the square root of the extracted average variance, C.R. = composite reliability, AVE = average variance extracted
+
+3.2 Measures
+The measurements were mainly adopted from the literature. Specifically, the measurement of anthropomorphism was adopted from Puzakova et al. (2013) using a
+7-point Likert scale (“strongly disagree/strongly agree”). The measurement of brand
+trust was adopted from the study of Puzakova et al. (2013), whereas brand familiarity was measured in a single item (“Unfamiliarity/Familiarity”). For charity support
+intention, four items from Wymer and Akbar (2019) were used.
+
+4 Findings
+Given the goal that identifies the causal relationship between brand anthropomorphism and charity support intention, this study applied component- rather than
+covariance-based structure equation modeling (SEM). Component-based SEM or
+Partial Least Squares Structural Equation Model (PLS-SEM) has been increasingly
+popular in marketing because of several reasons (Hair et al., 2019). First, PLS-SEM
+works efficiently within exploratory purposes. Second, PLS-SEM can deal with a
+complex model with higher-order constructs, and single-measurement constructs
+Table 4  Construct reliability
+and validity results
+
+Brand Anthropomophism
+An1
+An2
+An3
+An4
+An5
+In1
+
+0.854
+
+0.871
+
+0.893
+
+0.894
+
+0.872
+
+0.716
+
+Brand Trust
+0.513
+
+0.697
+
+0.559
+
+0.687
+
+0.485
+
+0.694
+
+0.539
+
+0.691
+
+0.483
+0.608
+
+In2
+
+0.674
+
+0.486
+
+In3
+
+0.660
+
+0.382
+
+In4
+
+0.669
+
+Tru1
+
+0.537
+
+Tru2
+
+0.535
+
+Charity Support Intention
+
+0.667
+
+0.906
+
+0.913
+
+0.642
+
+0.896
+
+0.870
+
+0.848
+
+0.879
+
+0.561
+0.567
+
+13
+
+Q.-A. Ha et al.
+Table 5  HTMT for discriminant
+assessment
+
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+Brand Anthropomophism [1]
+Brand Trust [2]
+
+0.688
+
+Charity Support Intention [3]
+
+0.854
+
+0.729
+
+Familarity [4]
+
+0.413
+
+0.580
+
+0.488
+
+(Cheah et al., 2018; Hair et al., 2019). Third, PLS-SEM is preferred in the cases
+of non-normality data, and relatively small sample size. Lastly, PLS-SEM is also
+efficient for the estimation and assessment of mediating effects. Considering those
+reasons, PLS-SEM is the more appropriate technique for data analysis in this study.
+The next parts represent the results from PLS-SEM analysis, which consists of
+measurement and path analysis evaluation.
+4.1 Measurement model
+To evaluate the measurement model, this study applied the process of Hair et al.
+(2019), which included the assessments of convergent validity, discriminant validity,
+and construct reliability (see Table 2). For convergent validity, all the factor loadings
+were greater than 0.7, indicating an acceptable internal convergent validity. Additionally, the values of the average variance extracted (AVE) of all constructs were
+larger than 0.50, which also warranted high convergent validity. For reliability, the
+reliability of the measurements of this study met the rule of thumb suggested by
+previous research (Bagozzi, 2011; Fornell & Larcker, 1981) when both Cronbach’s
+alpha and composite reliability (see Table 3) values were larger than 0.7.
+To assess discriminant validity, we used Fornell and Larcker’s criterion (see
+Table 3) and compared cross-loadings (see Table 4) (Hair et al., 2019). All the
+square roots of AVEs were larger than the correlation than other inter-construct
+correlations. The cross-loadings results indicated that there was a high correlation
+between items of the same construct and a weaker correlation between items of a
+
+Table 6  Hypothesis testing results
+Hypothesis
+
+f2
+large
+
+H1a
+
+Brand Anthropomorphism Charity
+Support Intention
+
+0.708
+
+H1b
+
+Brand Anthropomorphism Brand Trust
+
+0.169 medium
+
+H1c
+
+Brand Anthropomorphism Familiarity
+
+H2
+
+Brand Trust Charity Support Intention
+
+H3a
+
+Familiarity Brand Trust
+
+H3b
+
+Familiarity Charity Support Intention
+
+0.188 medium
+0.063 small
+
+0.314 medium
+0.030 small
+
+Beta
+
+S.D
+
+t-value
+
+Conclusion
+
+0.616***
+
+0.042
+
+14.775
+
+Supported
+
+0.456***
+
+0.064
+
+7.131
+
+Supported
+
+0.398***
+
+0.057
+
+6.946
+
+Supported
+
+0.196***
+
+0.046
+
+4.217
+
+Supported
+
+0.335***
+
+0.062
+
+5.415
+
+Supported
+
+0.119*
+
+0.048
+
+2.491
+
+Supported
+
+Significance level: ***p < 0.001, **p < 0.01, *p < 0.05, effect size: small (> 0.02), medium (> 0.15) and
+large (> 0.35)
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+different construct. We further examined the discriminant validity by and Heterotrait-Monotrait ratio criterion (see Table 5). Since the HTMT value is below 0.90,
+discriminant validity has been established (Henseler et al., 2015). Therefore the discriminant validity of the measurement was acceptable.
+4.2 Structural model
+This study employed SmartPLS 3.0 to test the hypotheses, with the path analysis
+procedure for the beta coefficient results and bootstrap procedure for the significance
+test (Hair et al., 2019). The results of the hypothesis testing are shown in Table 6.
+We assessed the structural model followed the process of Hair et al. (2016),
+including collinearity assessment, R
+­ 2 assessment, effect size f­2, and statistical significance of structural relationships. Regarding the collinearity assessment, all variance inflation factor (VIF) values were lower than 5, indicating that collinearity
+did not occur. The values of adjusted R-squared showed that the model accounted
+for 65.7%, 44.2%, and 15.8% of the variances in charity support intention, brand
+trust, and brand familiarity respectively. These values indicated a moderate level of
+explanatory power (Hair et al., 2019). For the effect size, all the ­f2 values ranged
+from 0.030 to 0.708 indicating that all exogenous constructs have effects on the
+endogenous constructs, and should be included in the model.
+The hypothesis testing showed that brand anthropomorphism positively influenced
+charity support intention (βH1a = 0.616, p < 0.001), thus H1a is supported. Furthermore,
+the significance of H1b and H1c (βH1b = 0.456, p < 0.001 and βH1c = 0.398, p < 0.001,
+respectively) also showed the important role of brand anthropomorphism. H2 was supported when brand trust significantly influences charity support intention (βH2 = 0.196,
+p < 0.001). Brand familiarity also had positive impacts on both brand trust and charity
+support intention (βH3a = 0.335, p < 0.001, and βH1c = 0.0.119, p < 0.05 respectively).
+We further examined the mediating effect following the process of Preacher and
+Hayes (2008), which suggested the testing of total indirect effect first, followed by
+testing hypothesis regarding individual mediators. SmartPLS 3.0 was also used to
+estimate the total indirect effect from brand anthropomorphism to charity support
+intention. The results of the total indirect effect with 5000 bootstrap samples showed
+that βIndirect = 0.166, p < 0.001, which indicated brand trust and brand familiarity significantly contributed to the indirect effects of brand anthropomorphism on charity
+support intention. The value of effect size also indicated the partial mediating roles
+of brand trust and brand familiarity (Hair et al., 2019).
+
+5 Discussions
+5.1 Discussions on findings
+The primary objective of this study was to explore and empirically test the impact
+of brand anthropomorphism on charity support intention under the context of nonprofit organizations. The findings of this study revealed the crucial role of brand
+
+13
+
+Q.-A. Ha et al.
+
+anthropomorphism when it enhanced brand trust, brand familiarity, and charity support intention. Past studies discovered the roles of brand anthropomorphism on other
+brand-related factors and customer behavior in the commercial context (Adaval
+et al., 2013; Aggarwal & McGill, 2012; Guido & Peluso, 2015; Rauschnabel &
+Ahuvia, 2014). The findings of this study not only confirmed the past investigation
+but also explored the causal relationship of brand anthropomorphism, brand trust,
+brand familiarity, and charity support intention. Specifically, this study has confirmed the relationship between brand anthropomorphism and charity support intention (hypothesis 1a), which was proposed in the past study (Stinnett et al., 2013).
+Given the underlying mechanism of this relationship was not clarified in the literature, this study advances the knowledge on this topic by examining both direct and
+indirect impacts of brand anthropomorphism on charity support intention. The indirect effect of brand anthropomorphism on charity support intention was mentioned
+in a recent study by Dalman and Ray (2021). This study found that brand anthropomorphism performed a moderating effect on the relationship between moral judgment and charity intention, but the effect was different across segments of donors.
+The findings of this study clarified the positively indirect impact of brand anthropomorphism on charity intention in the context of nonprofit brands.
+Besides the brand anthropomorphism, the findings also highlighted the impact
+of all three brand-related factors in justifying 65.7% of the variances in charity support intention. Among three brand-related constructs, brand anthropomorphism has
+the largest effect size and beta coefficients, indicating that the significant impact
+of brand anthropomorphism on charity support intention. While previous studies
+showed the effects of brand trust (Wymer & Akbar, 2019; Wymer et al., 2021) and
+brand familiarity (Dogan et al., 2021; Torres-Moraga et al., 2010) on charity support
+intention, the findings of this study not only confirmed their results but also demonstrated the structural relationships between these constructs.
+
+5.2 Research implications
+This study made several theoretical contributions. First, this research has contributed to the knowledge of anthropomorphism by investigating its impact in
+a new context – a nonprofit context. The theory of anthropomorphism has been
+well applied in several topics of marketing such as designing, advertising, and
+commercial brand management (Epley et al., 2007; Guido & Peluso, 2015). In
+such contexts, anthropomorphism can be one of the mixed communication tools
+of marketers to attract and connect customers. However, in the charity sector,
+where nonprofit organizations mainly base on the brand and reputation to obtain
+supporters, the role of brand anthropomorphism appears to be dominant but has
+not yet been revealed previously. Second, this study also contributes to the literature of anthropomorphism by examining the dimensions of brand familiarity
+and brand trust as mediators of the relationship between brand anthropomorphism and charity support intention. Lastly, this study contributed to the large
+body of literature on relationship marketing under the context of nonprofit
+
+13
+
+What facilitate people to do charity? The impact of brand…
+
+marketing (Arnett et al., 2003), especially literature on the customer-brand relationship. This study addressed a distinctive part in the big question that how
+brand design and management can facilitate customer engagement and making
+decisions. The relationships between anthropomorphism, familiarity, trust, and
+behavior have been investigated in the literature on advertising (Touré-Tillery &
+McGill, 2015) and commercial branding (Lee & Oh, 2019; Zhang et al., 2020).
+Brand anthropomorphism can be also promising in the nonprofit sector, but
+there has been scarce research on this context (Stinnett et al., 2013). This study
+confirmed and extended the relationships between brand-related constructs and
+donors’ behavior in the nonprofit context. Specifically, the relationships between
+brand anthropomorphism, brand familiarity and brand trust have been discovered. These relationships also reveal the underlying mechanism of the path from
+brand anthropomorphism to donating intention.
+For practical implications, nonprofit organizations were suggested to consider
+using the anthropomorphized brand instead of the objectified brand to exploit
+the effects of brand anthropomorphism, for example, consolidating the trust and
+familiarity, and appealing the engagement and charity support intention. Additionally, the findings of this study revealed that brand anthropomorphism can
+help to develop brand familiarity, brand trust, and donors’ intention. Accordingly, branding managers were suggested to include brand familiarity and brand
+trust in their evaluations when following brand anthropomorphism.
+
+5.3 Limitations and future research suggestions
+This study exposed several limitations. First, although brand trust and brand
+familiarity have been included in this study because of their salient effects, other
+brand-related factors that might have strong relationships with brand anthropomorphism can be considered in the future, for example, brand awareness, brand
+associations, and brand loyalty (Aaker, 2012). Second, this study examined the
+effects of brand-related factors on the behavioral outcomes under the context
+of nonprofit marketing; however, since charity support is the volunteer activity,
+individual-related factors such as personal traits, personal motivations should be
+crucial when supporters decide to engage in the activity (Arnett et al., 2003;
+Le & Duong, 2020). Lastly, this study, based on a scenario survey, could have
+a limitation in realism. Future research can validate our results by using natural field data, for example, a survey on actual supporters of several nonprofit
+organizations.
+5.4 Conclusion
+Given the promising adoption of brand anthropomorphism in the context of nonprofit branding, this study carried out an experimental design to explore the effects
+of brand anthropomorphism and other brand-related factors on charity support intention. Based on the theory of anthropomorphism and literature on the customer-brand
+
+13
+
+Q.-A. Ha et al.
+
+relationship, this study proposed a research framework explaining the causal relationships between brand anthropomorphism, brand trust, brand familiarity, and charity support intention. The findings from 325 respondents indicated the significant
+effects of brand-related factors on behavioral intention. The structural relationship
+between brand anthropomorphism, brand trust, brand familiarity, and charity support intention can provide insights for nonprofit brand managers to design an appropriate anthropomorphism strategy and have comprehensive evaluations on multidimension of the branding.
+Funding This study was funded by the University of Economics Ho Chi Minh City (Vietnam).
+
+Declarations
+Conflict of interest No.
+
+References
+Aaker, D. A. (2012). Building strong brands. Simon and Schuster.
+Aaker, J. L. (1997). Dimensions of brand personality. Journal of Marketing Research, 34(3), 347–356.
+https://​doi.​org/​10.​1177/​00222​43797​03400​304
+Aaker, J. L. (1999). The malleable self: The role of self-expression in persuasion. Journal of Marketing
+Research, 36(1), 45–57. https://​doi.​org/​10.​1177/​00222​43799​03600​104
+Adaval, R., Chen, F., & Sengupta, J. (2013). Anthropomorphism: new insights and implications.
+Advances in Consumer Research, 41, 27. http://​hdl.​handle.​net/​1783.1/​78107
+Aggarwal, P., & McGill, A. L. (2007). Is that car smiling at me? Schema congruity as a basis for evaluating anthropomorphized products. Journal of Consumer Research, 34(4), 468–479. https://​doi.​org/​
+10.​1086/​518544
+Aggarwal, P., & McGill, A. L. (2012). When Brands Seem Human, Do Humans Act Like Brands? Automatic Behavioral Priming Effects of Brand Anthropomorphism. Journal of Consumer Research,
+39(2), 307–323–323. https://​doi.​org/​10.​1086/​662614
+Alba, J. W., & Hutchinson, J. W. (1987). Dimensions of consumer expertise. Journal of Consumer
+Research, 13(4), 411–454. https://​doi.​org/​10.​1086/​209080
+Arnett, D. B., German, S. D., & Hunt, S. D. (2003). The identity salience model of relationship marketing
+success: The case of nonprofit marketing. Journal of Marketing, 67(2), 89–105.
+Arora, R., & Stoner, C. (1996). The effect of perceived service quality and name familiarity on the service selection decision. Journal of Services Marketing. https://​doi.​org/​10.​1108/​08876​04961​01066​
+99
+Bagozzi, R. P. (2011). Measurement and meaning in information systems and organizational research:
+Methodological and philosophical foundations. MIS quarterly, 261-292. https://​doi.​org/​10.​2307/​
+23044​044
+Bagozzi, R. P., Gopinath, M., & Nyer, P. U. (1999). The role of emotions in marketing. Journal of the
+Academy of Marketing Science, 27(2), 184–206. https://​doi.​org/​10.​1177/​00920​70399​272005
+Baker, W., Hutchinson, J., Moore, D., & Nedungadi, P. (1986). Brand Familiarity and Advertising:
+Effects on the Evoked Set and Brand Preference. Advances in Consumer Research, 13, 637–642.
+Beldad, A., Snip, B., & van Hoof, J. (2014). Generosity the second time around: Determinants of individuals’ repeat donation intention. Nonprofit and Voluntary Sector Quarterly, 43(1), 144–163. https://​
+doi.​org/​10.​1177/​08997​64012​457466
+Bennett, R., & Gabriel, H. (2003). Image and reputational characteristics of UK charitable organizations:
+An empirical study. Corporate Reputation Review, 6(3), 276–289. https://​doi.​org/​10.​1057/​palgr​ave.​
+crr.​15402​06
+
+13
+
+What facilitate people to do charity? The impact of brand…
+Burmann, C., Jost-Benz, M., & Riley, N. (2009). Towards an identity-based brand equity model. Journal
+of Business Research, 62(3), 390–397. https://​doi.​org/​10.​1016/j.​jbusr​es.​2008.​06.​009
+Burnett, K. (2002). Relationship fundraising: A donor-based approach to the business of raising money.
+John Wiley & Sons.
+Campbell, M. C., & Keller, K. L. (2003). Brand familiarity and advertising repetition effects. Journal of
+Consumer Research, 30(2), 292–304. https://​doi.​org/​10.​1086/​376800
+Casais, B., & Santos, S. (2019). Corporate Propensity for Long-Term Donations to Non-Profit Organisations: An Exploratory Study in Portugal. Social Sciences, 8(1), 2.
+Casalo, L. V., Flavián, C., & Guinalíu, M. (2007). The influence of satisfaction, perceived reputation and
+trust on a consumer’s commitment to a website. Journal of Marketing Communications, 13(1),
+1–17. https://​doi.​org/​10.​1080/​13527​26060​09516​33
+Chandler, J., & Schwarz, N. (2010). Use does not wear ragged the fabric of friendship: Thinking of
+objects as alive makes people less willing to replace them. Journal of Consumer Psychology,
+20(2), 138–145. https://​doi.​org/​10.​1016/j.​jcps.​2009.​12.​008
+Chaudhuri, A., & Holbrook, M. B. (2001). The chain of effects from brand trust and brand affect to
+brand performance: The role of brand loyalty. Journal of Marketing, 65(2), 81–93. https://​doi.​org/​
+10.​1509/​jmkg.​65.2.​81.​18255
+Cheah, J.-H., Sarstedt, M., Ringle, C. M., Ramayah, T., & Ting, H. (2018). Convergent validity assessment of formatively measured constructs in PLS-SEM. International Journal of Contemporary
+Hospitality Management, 30(11), 3192–3210. https://​doi.​org/​10.​1108/​IJCHM-​10-​2017-​0649
+Chen, H., Li, W., Lyu, T., Zheng, X. J. I. M., & Systems, D. (2021). Understanding people’s participation
+in online charities: a dual-process approach of trust and empathic concern.
+Clary, E. G., Snyder, M., & Stukas, A. A. (1996). Volunteers’ motivations: Findings from a national
+survey. Nonprofit and Voluntary Sector Quarterly, 25(4), 485–505. https://​doi.​org/​10.​1177/​08997​
+64096​254006
+Dalman, M. D., & Ray, S. (2021). To donate or not to donate? How cosmopolitanism and brand anthropomorphism influence donation intentions for international humanitarian causes. Management
+Research Review.
+Das, G. (2015). Linkages between self-congruity, brand familiarity, perceived quality and purchase intention: A study of fashion retail brands. Journal of Global Fashion Marketing, 6(3), 180–193. https://​
+doi.​org/​10.​1080/​20932​685.​2015.​10323​16
+Dawar, N., & Lei, J. (2009). Brand crises: The roles of brand familiarity and crisis relevance in determining the impact on brand evaluations. Journal of Business Research, 62(4), 509–516.
+De Visser, E. J., Monfort, S. S., McKendrick, R., Smith, M. A., McKnight, P. E., Krueger, F., & Parasuraman, R. (2016). Almost human: Anthropomorphism increases trust resilience in cognitive agents.
+Journal of Experimental Psychology: Applied, 22(3), 331. https://​psycn​et.​apa.​org/​doi/​10.​1037/​
+xap00​00092
+Delgado-Ballester, E., & Luis Munuera-Alemán, J. (2001). Brand trust in the context of consumer loyalty.
+European Journal of Marketing, 35(11/12), 1238–1258. https://​doi.​org/​10.​1108/​EUM00​00000​
+006475
+Dogan, A., Calik, E., & Calisir, F. (2021). Organizational Factors Affecting Individuals to Donate to
+NPOs in the Turkish Context. Voluntas: International Journal of Voluntary & Nonprofit Organizations, 32(2). https://​doi.​org/​10.​1007/​s11266-​020-​00207-8
+Duong, G. H., Wu, W.-Y., & Le, L. H. (2020). The effects of brand page characteristics on customer
+brand engagement: Moderating roles of community involvement and comedy production contents.
+Journal of Brand Management, 27(5), 531–545. https://​doi.​org/​10.​1057/​s41262-​020-​00196-5
+Epley, N., Waytz, A., Akalis, S., & Cacioppo, J. T. (2008). When we need a human: Motivational determinants of anthropomorphism. Social Cognition, 26(2), 143–155. https://​doi.​org/​10.​1521/​soco.​
+2008.​26.2.​143
+Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On Seeing Human: A Three-Factor Theory of Anthropomorphism [Article]. Psychological Review, 114(4), 864–886. https://​doi.​org/​10.​1037/​0033-​295X.​
+114.4.​864
+Epley, N., & Waytz, A. G. (2009). Perspective taking. In Encyclopedia of Human Relationships (pp.
+1228–1231). Sage Publications, Inc.
+Fernandes, T., & Oliveira, E. (2021). Understanding consumers’ acceptance of automated technologies in
+service encounters: Drivers of digital voice assistants adoption. Journal of Business Research, 122,
+180–191. https://​doi.​org/​10.​1016/j.​jbusr​es.​2020.​08.​058
+
+13
+
+Q.-A. Ha et al.
+Fornell, C., & Larcker, D. (1981). Evaluating structural equation models with unobservable variables and
+measurement error. Journal of Marketing Research, 18(3), 39–50. https://​doi.​org/​10.​2307/​31509​79
+Fournier, S., & Alvarez, C. (2012). Brands as relationship partners: Warmth, competence, and inbetween. Journal of Consumer Psychology, 22(2), 177–185. https://​doi.​org/​10.​1016/j.​jcps.​2011.​10.​
+003
+Gecti, F., & Zengin, H. (2013). The relationship between brand trust, brand affect, attitudinal loyalty and
+behavioral loyalty: A field study towards sports shoe consumers in Turkey. International Journal of
+Marketing Studies, 5(2), 111. https://​doi.​org/​10.​5539/​ijms.​v5n2p​111
+Go, E., & Sundar, S. S. (2019). Humanizing chatbots: The effects of visual, identity and conversational
+cues on humanness perceptions. Computers in Human Behavior, 97, 304–316. https://​doi.​org/​10.​
+1016/j.​chb.​2019.​01.​020
+Green, C. L., & Webb, D. J. (1997). Factors influencing monetary donations to charitable organizations. Journal of Nonprofit & Public Sector Marketing, 5(3), 19–40. https://​doi.​org/​10.​1300/​J054v​
+05n03_​03
+Guido, G., & Peluso, A. M. (2015). Brand anthropomorphism: Conceptualization, measurement, and
+impact on brand personality and loyalty. Journal of Brand Management, 22(1), 1–19–19. https://​
+doi.​org/​10.​1057/​bm.​2014.​40
+Guthrie, S. E., & Guthrie, S. (1995). Faces in the clouds: A new theory of religion. Oxford University
+Press on Demand.
+Ha, H. Y. (2004). Factors influencing consumer perceptions of brand trust online. Journal of Product &
+Brand Management. https://​doi.​org/​10.​1108/​10610​42041​05544​12
+Ha, H. Y., & Perks, H. (2005). Effects of consumer perceptions of brand experience on the web: Brand
+familiarity, satisfaction and brand trust. Journal of Consumer Behaviour: An International
+Research Review, 4(6), 438–452. https://​doi.​org/​10.​1002/​cb.​29
+Hair, J. F., Risher, J. J., Sarstedt, M., & Ringle, C. M. (2019). When to use and how to report the results
+of PLS-SEM. European Business Review. https://​doi.​org/​10.​1108/​EBR-​11-​2018-​0203
+Hair, J. J. F., Hult, G. T. M., Ringle, C., & Sarstedt, M. (2016). A primer on partial least squares structural equation modeling (PLS-SEM). Sage Publications.
+Hankinson, P. (2000). Brand orientation in charity organisations: Qualitative research into key charity
+sectors. International Journal of Nonprofit and Voluntary Sector Marketing, 5(3), 207–219. https://​
+doi.​org/​10.​1002/​nvsm.​114
+Hankinson, P. (2001). Brand orientation in the charity sector: A framework for discussion and research.
+International Journal of Nonprofit and Voluntary Sector Marketing, 6(3), 231–242. https://​doi.​org/​
+10.​1002/​nvsm.​149
+Healey, P. (2021). Human-Like Communication. Oxford University Press.
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in
+variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1),
+115–135. https://​doi.​org/​10.​1007/​s11747-​014-​0403-8
+Hwang, J., & Hyun, S. S. (2013). The impact of nostalgia triggers on emotional responses and revisit
+intentions in luxury restaurants: The moderating role of hiatus. International Journal of Hospitality
+Management, 33, 250–262. https://​doi.​org/​10.​1016/j.​ijhm.​2012.​09.​001
+Hydock, C., Chen, Z., & Carlson, K. (2020). Why unhappy customers are unlikely to share their opinions with brands. Journal of Marketing, 0022242920920295. https://​doi.​org/​10.​1177/​00222​42920​
+920295
+Kashif, M., Sarifuddin, S., & Hassan, A. (2015). Charity donation: Intentions and behaviour. Marketing
+Intelligence & Planning. https://​doi.​org/​10.​1108/​MIP-​07-​2013-​0110
+Kent, R. J., & Allen, C. T. (1994). Competitive interference effects in consumer memory for advertising:
+The role of brand familiarity. Journal of Marketing, 58(3), 97–105. https://​doi.​org/​10.​1177/​00222​
+42994​05800​307
+Komiak, S. Y., & Benbasat, I. (2006). The effects of personalization and familiarity on trust and adoption
+of recommendation agents. MIS quarterly, 941-960. https://​doi.​org/​10.​2307/​25148​760
+Kylander, N., & Stone, C. (2012). The role of brand in the nonprofit sector. Stanford Social Innovation
+Review, 10(2), 35–41. https://​doi.​org/​10.​48558/​NV6C-​3A31
+Lam, S. K., Ahearne, M., Mullins, R., Hayati, B., & Schillewaert, N. (2013). Exploring the dynamics of
+antecedents to consumer–brand identification with a new brand. Journal of the Academy of Marketing Science, 41(2), 234–252. https://​doi.​org/​10.​1007/​s11747-​012-​0301-x
+
+13
+
+What facilitate people to do charity? The impact of brand…
+Landwehr, J. R., McGill, A. L., & Herrmann, A. (2011). It’s got the look: The effect of friendly and
+aggressive “facial” expressions on product liking and sales. Journal of Marketing, 75(3), 132–146.
+https://​doi.​org/​10.​1509/​jmkg.​75.3.​132
+Lane, V., & Jacobson, R. (1995). Stock market reactions to brand extension announcements: The effects
+of brand attitude and familiarity. Journal of Marketing, 59(1), 63–77. https://​doi.​org/​10.​1177/​
+00222​42995​05900​106
+Le, L. H., & Duong, G. H. (2020). Engagement in the Online Brand Community: Impacts of Cultural
+Traits. Journal of International Consumer Marketing, 32(2), 146–158. https://​doi.​org/​10.​1080/​
+08961​530.​2019.​16499​92
+Le, L. H., & Ha, Q.-A. (2021). Effects of negative reviews and managerial responses on consumer attitude and subsequent purchase behavior: An experimental design. Computers in Human Behavior,
+106912. https://​doi.​org/​10.​1016/j.​chb.​2021.​106912
+Lee, N. R., & Kotler, P. (2011). Social marketing: Influencing behaviors for good. Sage Publications.
+Lee, S. A., & Oh, H. (2019). Anthropomorphism and its implications for advertising hotel brands. Journal of Business Research. https://​doi.​org/​10.​1016/j.​jbusr​es.​2019.​09.​053
+Lee, Y.-J. (2019). Nonprofit marketing expenses: Who spends more than others? Journal of Nonprofit &
+Public Sector Marketing, 1-18. https://​doi.​org/​10.​1080/​10495​142.​2019.​17077​43
+Letheren, K., Martin, B. A., & Jin, H. S. (2017). Effects of personification and anthropomorphic tendency
+on destination attitude and travel intentions. Tourism Management, 62, 65–75. https://​doi.​org/​10.​
+1016/j.​tourm​an.​2017.​03.​020
+Liu, C.-T., Guo, Y. M., & Lee, C.-H. (2011). The effects of relationship quality and switching barriers on
+customer loyalty. International Journal of Information Management, 31(1), 71–79. https://​doi.​org/​
+10.​1016/j.​ijinf​omgt.​2010.​05.​008
+Matzler, K., Bidmon, S., & Grabner-Kräuter, S. (2006). Individual determinants of brand affect: The role
+of the personality traits of extraversion and openness to experience. Journal of Product & Brand
+Management. https://​doi.​org/​10.​1108/​10610​42061​07128​01
+Meijer, M.-M. (2009). The effects of charity reputation on charitable giving. Corporate Reputation
+Review, 12(1), 33–42. https://​doi.​org/​10.​1057/​crr.​2009.5
+Michel, G., & Rieunier, S. (2012). Nonprofit brand image and typicality influences on charitable giving.
+Journal of Business Research, 65(5), 701–707. https://​doi.​org/​10.​1016/j.​jbusr​es.​2011.​04.​002
+Morewedge, C. K., Preston, J., & Wegner, D. M. (2004). In Timescale anthropomorphism in the attribution of mind.
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship marketing. Journal of
+Marketing, 58(3), 20–38. https://​doi.​org/​10.​1177/​00222​42994​05800​302
+Padanyi, P., & Gainer, B. (2004). Market orientation in the nonprofit sector: Taking multiple constituencies into consideration. Journal of Marketing Theory and Practice, 12(2), 43–58. https://​doi.​org/​
+10.​1080/​10696​679.​2004.​11658​518
+Pelau, C., Dabija, D.-C., & Ene, I. (2021). What makes an AI device human-like? The role of interaction
+quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of
+artificial intelligence in the service industry. Computers in Human Behavior, 122, 106855. https://​
+doi.​org/​10.​1016/j.​chb.​2021.​106855
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and comparing
+indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879–891.
+Puzakova, M., Kwak, H., & Rocereto, J. F. (2013). When Humanizing Brands Goes Wrong: The Detrimental Effect of Brand Anthropomorphization Amid Product Wrongdoings. Journal of Marketing,
+77(3), 81–100. https://​doi.​org/​10.​1509/​jm.​11.​0510
+Rauschnabel, P. A., & Ahuvia, A. C. (2014). You’re so lovable: Anthropomorphism and brand love. Journal of Brand Management, 21(5), 372–395. https://​doi.​org/​10.​1057/​bm.​2014.​14
+Rim, H., Yang, S.-U., & Lee, J. (2016). Strategic partnerships with nonprofits in corporate social responsibility (CSR): The mediating role of perceived altruism and organizational identification. Journal
+of Business Research, 69(9), 3213–3219. https://​doi.​org/​10.​1016/j.​jbusr​es.​2016.​02.​035
+Samu, S., & Wymer, W. (2009). The effect of fit and dominance in cause marketing communications.
+Journal of Business Research, 62(4), 432–440. https://​doi.​org/​10.​1016/j.​jbusr​es.​2008.​01.​039
+Sargeant, A., Ford, J. B., & Hudson, J. (2008). Charity brand personality: The relationship with giving behavior. Nonprofit and Voluntary Sector Quarterly, 37(3), 468–491. https://​doi.​org/​10.​1177/​
+08997​64007​310732
+
+13
+
+Q.-A. Ha et al.
+Sargeant, A., Hilton, T., & Wymer, W. (2006). Bequest motives and barriers to giving: The case of direct
+mail donors. Nonprofit Management and Leadership, 17(1), 49–66. https://​doi.​org/​10.​1002/​nml.​
+130
+Sargeant, A., & Lee, S. (2004). Donor trust and relationship commitment in the UK charity sector: The
+impact on behavior. Nonprofit and Voluntary Sector Quarterly, 33(2), 185–202. https://​doi.​org/​10.​
+1177/​08997​64004​263321
+Sepulcri, L. M. C. B., Mainardes, E. W., & Belchior, C. C. (2020). Nonprofit branding: A bibliometric
+analysis. Journal of Product & Brand Management. https://​doi.​org/​10.​1108/​JPBM-​05-​2019-​2366
+Shehu, E., Becker, J. U., Langmaack, A.-C., & Clement, M. (2016). The brand personality of nonprofit
+organizations and the influence of monetary incentives. Journal of Business Ethics, 138(3), 589–
+600. https://​doi.​org/​10.​1007/​s10551-​015-​2595-3
+Steelman, Z. R., Hammer, B. I., & Limayem, M. (2014). Data Collection in the Digital Age: Innovative
+Alterantives to Student Samples. In MIS quarterly (Vol. 38, pp. 355–378).
+Stinnett, R. C., Hardy, E. E., & Waters, R. D. (2013). Who are we? The impacts of anthropomorphism
+and the humanization of nonprofits on brand personality. International Review on Public and Nonprofit Marketing, 10(1), 31–48. https://​doi.​org/​10.​1007/​s12208-​012-​0087-z
+Stride, H., & Lee, S. (2007). No Logo? No Way. Branding in the Non-Profit Sector. Journal of Marketing
+Management, 23(1–2), 107–122. https://​doi.​org/​10.​1362/​02672​5707X​178585
+Tam, J. L. (2008). Brand familiarity: Its effects on satisfaction evaluations. Journal of Services Marketing. https://​doi.​org/​10.​1108/​08876​04081​08519​14
+Tam, K.-P., Lee, S.-L., & Chao, M. M. (2013). Saving Mr. Nature: Anthropomorphism enhances connectedness to and protectiveness toward nature. Journal of experimental social psychology, 49(3),
+514–521. https://​doi.​org/​10.​1016/j.​jesp.​2013.​02.​001
+Torres-Moraga, E., Vásquez-Parraga, A., & Barra, C. (2010). Antecedents of donor trust in an emerging
+charity sector: The role of reputation, familliarity, opportunism and communication. Transylvanian
+Review of Administrative Sciences, 6(29), 159–177.
+Touré-Tillery, M., & McGill, A. L. (2015). Who or what to believe: Trust and the differential persuasiveness of human and anthropomorphized messengers. Journal of Marketing, 79(4), 94–110. https://​
+doi.​org/​10.​1509/​jm.​12.​0166
+Tremoulet, P. D., & Feldman, J. (2000). Perception of animacy from the motion of a single object. Perception, 29(8), 943–951. https://​doi.​org/​10.​1068/​p3101
+Upamannyu, N. K., & Mathur, G. (2013). Effect of brand trust, brand affect and brand image on customer
+brand loyalty and consumer brand extension attitude in FMCG sector. PRIMA,
+Waytz, A., Gray, K., Epley, N., & Wegner, D. M. (2010). Causes and consequences of mind perception.
+Trends in Cognitive Sciences, 14(8), 383–388. https://​doi.​org/​10.​1016/j.​tics.​2010.​05.​006
+Waytz, A., Heafner, J., & Epley, N. (2014). The mind in the machine: Anthropomorphism increases trust
+in an autonomous vehicle. Journal of Experimental Social Psychology, 52, 113–117. https://​doi.​
+org/​10.​1016/j.​jesp.​2014.​01.​005
+Wymer, W., & Akbar, M. M. (2019). Brand authenticity’s influence on charity support intentions. Journal of Nonprofit & Public Sector Marketing, 31(5), 507–527. https://​doi.​org/​10.​1080/​10495​142.​
+2018.​15267​54
+Wymer, W., Becker, A., Boenigk, S. J. J., & o. P., & Marketing. (2021). The antecedents of charity trust
+and its influence on charity supportive behavior. Journal of Philanthropy and Marketing, 26(2),
+e1690. https://​doi.​org/​10.​1002/​nvsm.​1690
+Wymer, W., & Drollinger, T. (2015). Charity appeals using celebrity endorsers: Celebrity attributes most
+predictive of audience donation intentions. Voluntas: international journal of voluntary and nonprofit organizations, 26(6), 2694–2717. https://​doi.​org/​10.​1007/​s11266-​014-​9546-y
+Wymer, W., Gross, H. P., & Helmig, B. (2016). Nonprofit brand strength: what is it? How is it measured?
+What are its outcomes? Voluntas: international journal of voluntary and nonprofit organizations,
+27(3), 1448–1471. https://​doi.​org/​10.​1007/​s11266-​015-​9641-8
+Xu, H., Teo, H.-H., Tan, B. C., & Agarwal, R. (2012). Research note—effects of individual self-protection, industry self-regulation, and government regulation on privacy concerns: A study of location-based services. Information Systems Research, 23(4), 1342–1363. https://​doi.​org/​10.​1287/​isre.​
+1120.​0416
+Zhang, M., Li, L., Ye, Y., Qin, K., & Zhong, J. (2020). The effect of brand anthropomorphism, brand distinctiveness, and warmth on brand attitude: A mediated moderation model. Journal of Consumer
+Behaviour, 19(5), 523–536. https://​doi.​org/​10.​1002/​cb.​1835
+
+13
+
+What facilitate people to do charity? The impact of brand…
+Zhang, T., Agarwal, R., & Lucas Jr, H. C. (2011). The value of IT-enabled retailer learning: personalized
+product recommendations and customer store loyalty in electronic markets. MIS quarterly, 859881. https://​doi.​org/​10.​2307/​41409​964
+Zhou, X., Kim, S., & Wang, L. (2019). Money helps when money feels: Money anthropomorphism
+increases charitable giving. Journal of Consumer Research, 45(5), 953–972. https://​doi.​org/​10.​
+1093/​jcr/​ucy012
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+
+13
+
+

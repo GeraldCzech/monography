@@ -1,0 +1,3243 @@
+Psychological Bulletin
+2006, Vol. 132, No. 2, 249 –268
+
+Copyright 2006 by the American Psychological Association
+0033-2909/06/$12.00 DOI: 10.1037/0033-2909.132.2.249
+
+Does Changing Behavioral Intentions Engender Behavior Change?
+A Meta-Analysis of the Experimental Evidence
+
+Thomas L. Webb
+The University of Manchester
+
+Paschal Sheeran
+The University of Sheffield
+
+Numerous theories in social and health psychology assume that intentions cause behaviors. However,
+most tests of the intention– behavior relation involve correlational studies that preclude causal inferences.
+In order to determine whether changes in behavioral intention engender behavior change, participants
+should be assigned randomly to a treatment that significantly increases the strength of respective
+intentions relative to a control condition, and differences in subsequent behavior should be compared.
+The present research obtained 47 experimental tests of intention– behavior relations that satisfied these
+criteria. Meta-analysis showed that a medium-to-large change in intention (d (cid:1) 0.66) leads to a
+small-to-medium change in behavior (d (cid:1) 0.36). The review also identified several conceptual factors,
+methodological features, and intervention characteristics that moderate intention– behavior consistency.
+
+Keywords: intention, behavior change, intervention, meta-analysis
+
+Intentions are self-instructions to perform particular behaviors or to
+obtain certain outcomes (Triandis, 1980) and are usually measured by
+endorsement of items such as “I intend to do X!” Forming a behav-
+ioral or goal intention signals the end of the deliberation about what
+one will do and indicates how hard one is prepared to try, or how
+much effort one will exert, in order to achieve desired outcomes
+(Ajzen, 1991; Gollwitzer, 1990; Webb & Sheeran, 2005). Intentions
+thus are assumed to capture the motivational factors that influence a
+behavior (Ajzen, 1991). Theories of attitude– behavior relations, mod-
+els of health behavior, and goal theories all converge on the idea that
+intention is the key determinant of behavior (summaries by Abraham,
+Sheeran, & Johnston, 1998; Austin & Vancouver, 1996; Conner &
+Norman, 1996; Eagly & Chaiken, 1993; Gollwitzer & Moskowitz,
+1996; Maddux, 1999). However, reviews of intention– behavior rela-
+tions to date have relied on correlational evidence and do not afford
+clear conclusions about whether intentions have a causal impact on
+behavior. The present review integrates for the first time experimental
+studies that manipulate intention and subsequently followup behavior.
+In so doing, the review quantifies the extent to which changes in
+intention lead to changes in behavior across studies.
+
+The Role of Intention in Theories of Social
+and Health Behaviors
+
+Models of attitude– behavior relations such as the theory of
+reasoned action (Fishbein, 1980; Fishbein & Ajzen, 1975), the
+
+Thomas L. Webb, School of Psychological Sciences, The University of
+Manchester; Paschal Sheeran, Department of Psychology, The University
+of Sheffield.
+
+We thank Amanda Rivis and Vikkie Buxton for coding the study
+characteristics, Paul Norman and Richard Cooke for coding assessed
+control, and Gaston Godin and Ian Kellar for providing considerable
+additional information about their research.
+
+Correspondence concerning this article should be addressed to
+Thomas L. Webb, School of Psychological Sciences, The University of
+Manchester, Oxford Road, Manchester M13 9PL, United Kingdom.
+E-mail: thomas.webb@manchester.ac.uk
+
+theory of planned behavior (Ajzen, 1985, 1991; Ajzen & Madden,
+1986), and the model of interpersonal behavior (Triandis, 1977,
+1980) each accord intentions a key role in the prediction of
+behavior. An important impetus for the development of these
+models was a review by Wicker (1969) that showed that general
+attitudes (e.g., X is good/bad) only weakly predicted specific
+behaviors. Models of attitude– behavior relations attempted to ex-
+plain this attitude– behavior discrepancy by pointing to the impor-
+tance of measuring attitudes and behavior at the same level of
+specificity and by elucidating how attitudes combine with other
+factors to influence behavior. For instance, the theory of reasoned
+action (TRA; Fishbein & Ajzen, 1975) proposes that two addi-
+tional constructs are needed to explain the relationship between
+attitude and behavior. First, a favorable attitude toward a behavior
+might not be translated into action because of social pressure from
+significant others not to perform the behavior. The theory therefore
+suggests that measures of subjective norm (e.g., Most people who
+are important to me think that I should/should not do X) should be
+taken alongside attitude measures in order to capture both social
+and personal influences on behavior. Second, Fishbein and Ajzen
+suggested that attitudes and subjective norms affect behavior by
+promoting the formation of a decision or intention to act. That is,
+the TRA proposes that behavioral intention is the proximal deter-
+minant of behavior and mediates the influence of both the theory’s
+predictors (attitude and subjective norm) and external variables
+(e.g., personality and demographic characteristics). Thus, accord-
+ing to the TRA, intention is the most immediate and important
+predictor of behavior.
+
+The TRA was designed to predict volitional behaviors, or be-
+haviors over which the individual has a good deal of control.
+However, many behaviors require resources, skills, opportunities,
+or cooperation to be performed successfully (Liska, 1984). Con-
+sequently, a person may not (a) intend to perform a behavior unless
+the behavioral performance is perceived as under personal control
+or (b) enact their behavioral intention successfully unless they
+possess actual control over the behavior. To take account of these
+
+249
+
+250
+
+WEBB AND SHEERAN
+
+issues, Ajzen (1985, 1991) added the concept of perceived behav-
+ioral control (PBC) to the TRA to form the theory of planned
+behavior (TPB). The TPB proposes that perceived behavioral
+control (e.g., For me to do X would be easy/difficult) is an addi-
+tional predictor of intention alongside attitude and subjective
+norm. The theory assumes that intentions are the most important
+determinant of behavior but also suggests that PBC can directly
+predict behavior and/or moderate the relation between intention
+and behavior when PBC accurately reflects the amount of actual
+control over the performance (Ajzen & Madden, 1986; Sheeran,
+Trafimow, & Armitage, 2003).
+
+The model of interpersonal behavior (MIP; Triandis, 1980) also
+construes intention as a key determinant of behavior. Like the
+TPB, the MIP assumes that successful realization of an intention
+requires control over the behavior (or appropriate “facilitating
+conditions”). However, the MIP also postulates a second potential
+moderator of intention realization, namely, the extent to which the
+behavior is habitual. According to Triandis (1980), frequently
+performed behaviors are likely to come under the control of habits,
+and the impact of intentions on behavior is thereby reduced. More
+recently, Wood and colleagues (Ouellette & Wood, 1998; Wood,
+Quinn, & Kashy, 2002; Wood & Quinn, 2005) drew upon research
+on skill acquisition and automaticity to outline a theoretical anal-
+ysis of circumstances conducive to habitual versus intentional
+control of behavior. According to this analysis, frequency of
+behavioral performance and stability of the context of performance
+combine to determine how well intentions predict behavior.
+
+Several models of health behavior also assume that intention is
+the proximal cause of behavior. Protection motivation theory
+(PMT; Rogers, 1983) proposes that two processes—threat ap-
+praisal and coping appraisal— determine “protection motivation.”
+Threat appraisal refers to perceptions of vulnerability to and the
+severity of a disease, whereas coping appraisal refers to percep-
+tions of the efficacy and costs of a recommended response. Pro-
+tection motivation is operationally defined in terms of the person’s
+intention to perform the recommended behavioral response and is
+considered the most immediate predictor of health behaviors (Rip-
+petoe & Rogers, 1987; Rogers, 1983).
+
+The prototype–willingness model (PWM; Gibbons, Gerrard,
+Blanton, & Russell, 1998; Gibbons, Gerrard, & Lane, 2003) posits
+two routes to behavior. The first reasoned action route is similar to
+the TRA and suggests that health-protective actions are determined
+by behavioral intentions, which in turn are a function of attitudes,
+norms, and past behavior. The second social reaction route per-
+tains to health-risk behaviors that are performed in social contexts.
+The assumption is that people may not necessarily intend to
+perform behaviors such as smoke cigarettes or practice unsafe sex
+but might be willing to do so if circumstances were conducive. The
+PWM therefore includes the concept of behavioral willingness to
+capture the notion that social settings can afford opportunities to
+engage in risky behaviors that might overwhelm people’s good
+intentions. Although attitudes, norms, and past behavior predict
+behavioral willingness, prototype perceptions are considered the
+key determinant of this motivational orientation. Prototypes are
+social images of the type of person who engages in a risk-behavior
+(e.g., the typical smoker is cool) the more favorable is the indi-
+vidual’s image of the type of person who engages in the behavior;
+and the more similar that image is perceived to the self, the more
+likely it is that the person would be willing to perform the respec-
+
+tive risk behavior. Thus, the PWM supposes that intentions are the
+most important predictor of health-protective behaviors but suggests
+that engaging in risky behavior is often more a reaction to risk-
+conducive circumstances (and determined by willingness) than a
+deliberate decision (determined by intention). The implication is that
+although intentions are good predictors of health actions, intentions
+may better predict health-protective behaviors compared with health-
+risk behaviors that are performed in social contexts.
+
+the behavior
+
+The transtheoretical model
+
+(TTM; e.g., Prochaska & Di-
+Clemente, 1984) describes five distinct stages through which peo-
+ple progress and relapse in the pursuit and attainment of health
+goals. During the first two stages, people move from not thinking
+about
+to deliberating about
+( precontemplation)
+changing their behavior (contemplation). In the third stage ( prep-
+aration), people prepare themselves and their social world to make
+behavioral changes. In the final two stages, the person initiates
+(action stage) and continues to perform the behavior (maintenance
+stage). Although behavioral intention is not an explicit component
+of the TTM, commentators have argued that the model implies that
+intention scores increase in a linear fashion across the first three
+stages of change at least (e.g., Godin, Lambert, Owen, Nolin, &
+Prud’homme, 2004; Sutton, 2000). Empirical studies of health
+behaviors also support this conclusion (Armitage & Arden, 2002;
+Armitage, Sheeran, Conner, & Arden, 2004; Courneya, Nigg, &
+Estabrooks, 1998; Courneya, Plotnikoff, Hotz, & Birkett, 2001).
+Thus, forward transitions from precontemplation, contemplation,
+and preparation stages of change can be interpreted in terms of
+increasing strength of respective behavioral intentions. The same
+reasoning also applies to progressions through key phases of other
+stage models such as the health action process approach (HAPA;
+Schwarzer, 1992, 1999) and the precaution adoption process (PAP;
+Weinstein, 1988; Weinstein & Sandman, 1992).
+
+The intention construct is also central to theories of goal striving
+and self-regulation (reviews by Austin & Vancouver, 1996; Gollwit-
+zer & Moskowitz, 1996; Oettingen & Gollwitzer, 2001). Control
+theory (Carver & Scheier, 1982, 1998) suggests that self-regulation is
+a continuous process of comparing ongoing performance with a
+desired standard and adjusting behavior accordingly. Standards of
+comparison are derived from the hierarchical structure of people’s
+goals, with self-related goals (system concepts, e.g., be a successful
+person) at the top of the hierarchy, abstract action goals ( principles,
+e.g., work hard at my job) in the middle, and courses of action
+( programs, e.g., stay in the office after 5 p.m.) at the bottom (Carver
+& Scheier, 1998). Thus, people’s intentions can refer both to abstract
+endpoints as well as to behavioral means of reaching those endpoints
+(see also Kruglanski, Shah, Fishbach, Friedman, Chun, and Sleeth-
+Keppler, 2002). In either case, setting an intention or reference value
+for performance is the prime determinant of subsequent behavior
+change according to Carver and Scheier (1998).
+
+Similarly, Locke and Latham’s (1990) theory of goal setting
+considers forming an intention to undertake specific tasks as the
+key act of willing that promotes goal achievement (see Mento,
+Steel, & Karren, 1987, for an empirical demonstration). Although
+social– cognitive theory (SCT; e.g., Bandura, 1977, 1998) is con-
+cerned predominantly with the role of self-efficacy beliefs (percep-
+tions of one’s capacities to execute actions and to obtain outcomes)
+in self-regulation, the theory construes behavioral intentions (or
+proximal goals) both as a mediator of the impact of self-efficacy
+independent determinant of self-
+beliefs and as an important
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+251
+
+regulatory success (Bandura, 1998). Finally, the model of action
+phases (MAP; Heckhausen & Gollwitzer, 1987; Heckhausen,
+1991) provides a comprehensive temporal analysis of the phases of
+goal pursuit. The first action phase is termed predecisional. Here
+the person deliberates about the feasibility and desirability of her
+many varied wishes and desires and comes to a decision about
+which one(s) to pursue. Thus, the culmination of the predecisional
+phase of the MAP is the development of a goal intention that
+provides the starting point for subsequent goal striving. In sum-
+mary, models of attitude– behavior relations, health behavior mod-
+els, and goal theories all agree that intentions are a key determinant
+of behavioral performance and goal attainment.
+
+Empirical Tests of Intention–Behavior Relations
+
+Correlational studies show that intentions are reliably associated
+with behavior. For instance, in a meta-analysis of 185 studies that
+have used the TPB, Armitage and Connor (2001) found that the
+sample-weighted average correlation between measures of inten-
+tion and behavior was .47 (see meta-analyses by Ajzen, 1991;
+Godin & Kok, 1996; Randall & Wolff, 1994; Sheppard et al.,
+1988; Trafimow, Sheeran, Conner, & Finlay, 2002; Van den Putte,
+1991, for similar findings). In a meta-analysis of correlational
+studies of PMT, Milne, Sheeran, and Orbell (2000) found that the
+average correlation between protection motivation (intention) and
+future behavior was .40 (see also Floyd, Prentice-Dunn, & Rogers,
+2000). Meta-analyses of correlations between intentions and spe-
+cific behaviors have found similar effects. In a meta-analysis of
+studies of condom use, Sheeran, Abraham, and Orbell (1999)
+found that the average correlation between condom use intentions
+and condom use behavior was .39 (cross-sectional designs) and .46
+(longitudinal designs; see also Albarracı´n, Johnson, Fishbein, &
+Muellerleile, 2001). In a meta-analysis of applications of the TRA
+and TPB to exercise behavior, Hausenblas, Caron, and Mack
+(1997) found that the average correlation between intention and
+behavior was .47 (see also Hagger, Chatzisarantis, & Biddle,
+2002). To gain insight into the overall effect size in this type of
+research, Sheeran (2002) conducted a meta-analysis of 10 meta-
+analyses. Findings from 422 studies involving 82,107 participants
+showed that intentions accounted for 28% of the variance in
+behavior on average (r(cid:2) (cid:1) .53). Thus, meta-analyses of correla-
+tional studies have suggested that intentions have a large effect on
+behavior, according to standard estimates of effect size (Cohen,
+1992).
+
+intention and behavior
+
+liable to consistency or
+
+However, there are several problems with making inferences
+about causation on the basis of correlational studies. First, many
+correlational studies use cross-sectional designs that render reports
+of
+self-
+presentational biases. These biases may inflate estimates of the
+strength of the relationship between intention and behavior (Budd,
+is the problem that cross-
+1987). Second, and more serious,
+sectional studies cannot rule out the possibility that behavior
+caused intention. For instance, the person may infer her intention
+to exercise on the basis of the number of times she exercised last
+week through a process of self-perception (Bem, 1972); thus,
+behavior may be the cause of the reported intention rather than the
+other way round. Third, the path from behavior to intention is
+precluded by using longitudinal designs that correlate measures of
+intention taken at one time point with measures of behavior taken
+
+at a later time point (cross-lagged panel designs also take account
+of initial behavior scores). However, there is still a problem with
+inferring causation. This is because correlational designs (whether
+cross-sectional, longitudinal, or cross-lagged panel studies) are
+subject to the “third variable problem” (Mauro, 1990) or “spuri-
+ousness” (Kenny, 1979), whereby a third— unmeasured—variable
+is the potential cause of both intention and behavior. Thus, the
+intention– behavior correlation may be spurious because it is a
+product of the relationship between these variables and the true
+causal factor. In summary, correlational designs are not a valid
+way of determining whether intentions cause behavior.
+
+To test the causal impact of intention on behavior it is necessary
+to change intention and observe whether there is a corresponding
+change in behavior. That is, an experimental manipulation that
+produces a statistically significant increase in intention strength
+should also produce a significant increase in subsequent behavior
+if there is a causal relation between intention and behavior. In fact,
+several studies have manipulated behavioral intentions in this way
+and examined changes in subsequent behavior. For example,
+Brubaker and Fowler (1990) used a persuasive message based on
+the TPB to encourage men to perform testicular self-examination
+(TSE). As expected, participants who had been exposed to the
+persuasive message had stronger intentions to perform TSE in the
+next month than did participants who were given only factual
+information about testicular cancer. Rates of TSE performance
+(assessed 1 month later) were also higher among participants who
+received the persuasive communication. Thus, in this study, a
+change in intention led to a change in subsequent behavior. The
+design of this study also rules out the problems associated with
+correlational tests because (a) intentions changed as a function of
+the manipulation and thus could not have been based on past
+behavior, and (b) random assignment of participants to conditions
+takes account of the potential impact of extraneous variables.
+
+Although there are many experimental studies similar to Brubaker
+and Fowler’s (1990) research, findings from these studies have not
+been integrated in a manner that permits inferences about whether
+changing intentions causes behavior change. This is because reviews
+of these experiments (e.g., evaluations of interventions and random-
+ized controlled trials) do not address the issue of causality directly.
+These reviews start from important applied questions such as Do
+smoking cessation programs promote quitting? (e.g., Fiore et al.,
+1996; Silagy, Mant, Fowler, & Lodge, 1994) or How effective are
+interventions to promote safer sexual behavior? (e.g., Jemmott &
+Jemmott, 2000; Kalichman & Hospers, 1997). This focus presents
+two problems for understanding causation. First, these reviews in-
+clude studies that measured subsequent behavior but did not measure
+intention. This means that even if an intervention is successful in
+modifying behavior, we have no insight into whether behavior change
+was the result of intention change (Michie & Abraham, 2004). Sec-
+ond, these reviews include studies that were not successful in chang-
+ing intention. Such studies demonstrate only that it can be difficult to
+change people’s behavioral intentions—they provide no insight into
+the question of whether changing intention causes changes in behavior.
+There are theoretical and practical grounds for conducting a
+review to estimate the causal impact of intentions on behavior. At
+the theoretical level, several theories of attitude– behavior rela-
+tions, models of health behavior, and goal theories assume that
+changing intentions will change behavior. Estimating the size of
+intention– behavior effects therefore affords a critical test of these
+
+252
+
+WEBB AND SHEERAN
+
+theories. Estimates of effect size could illuminate whether the
+concept of intention is needed to understand the process of behav-
+ior change, whether additional concepts are needed, or whether
+researchers need to look to other constructs to understand behavior
+change. At the applied level, numerous surveys have been con-
+ducted to establish what factors should be targeted by interventions
+in order to change behavioral intentions (e.g., Astrom & Rise,
+2001; Conner & McMillan, 1999; Sheeran & Orbell, 2000; Smith
+& Stasson, 2000). Moreover, many interventions consider inten-
+tion a valid outcome variable because it is assumed that intention
+change will be translated into behavior change (e.g., Gagnon &
+Godin, 2000; Maddux & Rogers, 1983; Steffen, 1990). Thus, a
+substantial proportion of intervention research rests on the— un-
+tested—assumption that intentions cause behavior.
+
+Moderators of the Intention–Behavior Relation
+
+Several variables may influence intention– behavior consistency
+(see Sheeran, 2002; Sutton, 1998, for reviews) and the impact of
+these variables needs to be assessed in order to characterize accu-
+rately the impact of intention on behavior. For present purposes, it
+is useful to delineate three classes of moderator variables, namely,
+conceptual factors, measurement features, and study characteris-
+tics. Conceptual factors refer to theoretically specified variables
+that are predicted to affect how well intentions are realized in
+behavior. Three conceptual factors were mentioned in the exposi-
+tion of attitude, health, and goal theories above and are examined
+in the present review. The first concerns volitional control. Several
+theories predict that greater perceived or actual control over be-
+haviors should be associated with improved prediction of behavior
+by intention (e.g., TPB, MIP, SCT). Thus, participants’ perceived
+behavioral control or self-efficacy is assessed. The type of inten-
+tion measure can also index control perceptions. Whereas behav-
+ioral intention refers to what one intends to do (e.g., Do you intend
+to use a condom the next time you have sexual intercourse?),
+behavioral expectation (BE) refers to self-predictions about what
+one is likely to do (e.g., How likely is it that you will use a condom
+the next time you have sexual intercourse?). Measures of BE are
+thought to encompass people’s perceptions of factors that may
+facilitate or impede performance of a behavior, and thus BE may
+be a better predictor of behavior than traditional measures of
+intention (e.g., Sheppard et al., 1988). However, evidence indicates
+that people may overestimate the amount of control they possess
+over behaviors (e.g., Langer, 1975; Sheeran, Trafimow, & Armit-
+age, 2003). For this reason, two objective assessments of volitional
+control are taken: (a) effect sizes are computed for interventions
+that change both intentions and PBC/self-efficacy and for inter-
+ventions that change intention only, and (b) independent raters are
+asked to assess how much control each sample is likely to have
+over performance of the focal behaviors.
+
+The second conceptual factor concerns the PWM analysis of
+reasoned actions versus social reactions (e.g., Gibbons et al.,
+1998). This analysis implies that intentions should better predict
+health-protective behaviors (e.g., exercise, testicular self-examination)
+than health-risk behaviors (especially risky behaviors that are per-
+formed in social contexts and involve clear images of about the type
+of person who engages in the behavior; e.g., smoking, condom use).
+This is because health-protective behaviors are assumed to be under
+intentional control whereas risky behaviors may be determined more
+
+by what the person is willing to do in risk-conducive circumstances
+than by intention. Thus, whether the focal behavior has the potential
+to engender social reaction is assessed.
+
+The third conceptual factor is whether circumstances of the behav-
+ioral performance promote habitual control of behavior. According to
+Wood and colleagues (Ouellette & Wood, 1998; Wood & Quinn,
+2005; Wood et al., 2002), behaviors that are performed frequently in
+stable contexts support the development of habits, and thus the impact
+of intention on behavior is attenuated. A meta-analysis by Ouellette
+and Wood (1998) showed that when behavior is practiced repeatedly
+and the context of performance is stable, past behavior is a better
+predictor of future behavior than is intention whereas the reverse was
+true when behaviors were performed infrequently in unstable con-
+texts. Similarly, Verplanken, Aarts, van Knippenberg, and Moonen
+(1998) found an interaction between habit and intention such that
+intentions were only significantly related to behavior when habit
+strength was weak. When participants possessed moderate or
+strong habits, their intentions had little influence on their subse-
+quent behavior (see also Ferguson & Bibby, 2002; Klockner,
+Matthies, & Hunecke, 2003; however, see Ajzen, 2002, for a
+different view). Thus, whether behaviors have the potential to be
+controlled by habit could be an important moderator of intention–
+behavior relations.
+
+(measured in weeks) and the strength of
+
+The second category of moderator variables relates to measure-
+ment
+factors that could potentially influence the intention–
+behavior relationship. The first is the time interval between the
+measure of intention and behavior. Ajzen (e.g., Ajzen, 1985; Ajzen
+& Fishbein, 1980; Ajzen & Madden, 1986) repeatedly asserted that
+to obtain accurate prediction of behavior, intention must be mea-
+sured as close in time as possible to the measure of behavior. This
+is because intervening events (e.g., new information) can produce
+changes in intentions such that the original measure may no longer
+predict behavior. Meta-analysis supports the idea that temporal
+contiguity affects how well intentions predict behavior. Sheeran
+and Orbell (1998) found a significant negative correlation between
+time interval
+the
+intention– behavior association (r(cid:2) (cid:1) (cid:3).53). The second measure-
+ment factor that may influence the intention– behavior relation is
+the type of behavior measure (objective vs. self-report). Self-report
+measures of behavior may overestimate intention– behavior asso-
+ciations because of consistency, social desirability, or memory
+biases (Kiesler, 1971; Hessing, Elffers, & Wiegel, 1988; Randall
+& Wolff, 1994). Consistent with this idea, Armitage and Conner
+(2001) found that intentions had a larger effect on self-reported
+(r (cid:1) .56) compared with objective measures of behavior (r(cid:2) (cid:1)
+.45). Finally, the nature of the control group could influence the
+extent of intention and behavior change as a function of the
+intervention. In particular, effect sizes might be smaller when
+interventions are compared with an alternative intervention as
+opposed to a no-treatment control condition.
+
+Study characteristics constitute the final category of moderator
+variables. Two such characteristics warrant attention. First, the
+type of sample has the potential to moderate intention– behavior
+relations (e.g., Sheeran & Orbell, 1998). Compared with nonstu-
+dents, students may have superior cognitive test-taking abilities
+and greater motivation to answer questionnaires consistently and
+rationally (reviews by Foot & Sanford, 2004; Sears, 1986). Con-
+sequently, intention– behavior consistency might be greater among
+undergraduate samples. Second, the publication status of respec-
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+253
+
+tive studies should be considered. On the one hand, studies with
+large effect sizes may have a better chance of publication com-
+pared with studies with small or nonsignificant effects (the “file
+drawer problem”; Rosenthal, 1979). On the other hand, unpub-
+lished studies may use less rigorous procedures that produce larger
+effect sizes compared with the effect sizes reported in published
+research. Given these possibilities, it is important to compare
+effect sizes for published versus unpublished studies.
+
+Intervention Characteristics
+
+The present research examines intervention studies that assess
+changes in both intention and subsequent behavior. Thus, the review
+affords an excellent opportunity to identify characteristics of effective
+interventions. Three key features appear to determine the impact of an
+intervention on behavior change according to previous research (e.g.,
+Bootzin, 1975; Kanfer & Goldstein, 1986; Hardeman, Griffin,
+Johnston, Kinmonth, & Wareham, 2000). These features are (a) the
+theoretical basis of the intervention, (b) the behavior change methods
+used, and (c) the mode of delivery. The theoretical basis refers to the
+theory(s) that were used to develop the respective intervention. For
+example, Fitzgerald et al. (1999) developed an intervention to pro-
+mote condom use based on protection motivation theory, whereas the
+intervention to promote the same behavior developed by Bryan,
+Aiken, and West (1996) was based on the health belief model (Rosen-
+stock, 1974). Behavior change methods refer to the specific strategies
+used in the intervention to promote behavioral intentions. For exam-
+ple, both Fitzgerald et al. and Bryan et al. included materials designed
+to increase participants’ level of skill, but only Bryan et al. provided
+participants with an opportunity to rehearse these skills. Finally, mode
+of delivery can be subdivided into two aspects: (a) the intervention
+format, which refers to whether the intervention was delivered one-
+to-one or on a group basis and (b) the source of the intervention,
+which refers to whether the intervention was delivered by an expert
+(health educator, trained facilitator, or teacher) or nonexpert. Exami-
+nation of the effect sizes for these different intervention characteristics
+has the potential to inform future interventions designed to change
+intentions and behavior.
+
+The Present Review
+
+The present review aims to test the assumption made by several
+models of attitude– behavior relations, accounts of health behavior,
+and goal theories that people’s intentions to act have a causal influ-
+ence on their subsequent behavior. To achieve this aim, meta-analysis
+is used to integrate experimental studies that manipulated intention
+and assessed the effect of this manipulation on subsequent behavior.
+The key test of the causal link between intention and behavior in-
+volves estimating the size of behavioral effects that accrue from
+successful intention-change interventions (i.e., interventions that pro-
+duce significant changes in intentions). This is because there must be
+a significant difference in intention scores between treatment and
+control conditions in order to make meaningful inferences about the
+impact of changing intention on subsequent behavior change.
+
+Meta-analysis is used to estimate a series of effect sizes relevant
+to characterizing the intention– behavior relation. First, we quan-
+tify the overall impact of the interventions on intention change.
+Second, the impact of interventions on behavior change is quan-
+tified. These two effect sizes indicate the extent to which inter-
+ventions that change intention also engender changes in behavior.
+
+Mediation analysis is then undertaken to determine whether the
+behavior change produced by respective interventions is the result
+of changes in intention. Third, meta-analysis is used to examine
+whether conceptual factors, measurement features, and study char-
+acteristics moderate the impact of intention on behavior. Finally,
+the review estimates effect sizes for different theoretical models,
+behavior change methods, and modes of delivery.
+
+Method
+
+Selection of studies. The following methods were used to generate the
+sample of studies: (a) computerized searches of social scientific databases
+(Web of Science, PsycINFO, UMI Dissertation Abstracts) for articles
+written between January 1981 and December 2004 on the search terms
+intention/goal/plan/expectation/decision and intervention/program/training/
+behavior change/experiment (studies had to include respective terms in
+either the title or abstract); (b) reference lists in each article were evaluated
+for inclusion (ancestry approach; Johnson, 1993); and (c) authors were
+contacted and requests were made for unpublished and in-press studies.
+There were three inclusion criteria for the meta-analysis. First, the studies
+had to involve random assignment of participants to a treatment group who
+received an intervention and a comparison group who received either a
+control intervention or no intervention. Second, the intervention had to
+have produced a significant difference in intention between the treatment
+and control groups. Finally, a measure of behavior had to have been taken
+after the intention measure.
+
+The literature search identified 221 studies that could be potentially
+included in the review. Of these, 64 studies (29%) were rejected because
+they did not include a measure of intention (e.g., Fishbein, Ajzen, &
+McArdle, 1980), 40 studies (18%) did not measure behavior (e.g., Evans,
+Edmundson-Drane, & Harris, 2000), 23 studies (10%) measured intentions
+and behavior at the same time (e.g., Brug, Steenhuis, van Assema, & de
+Vries, 1996), 17 studies (8%) did not include a comparison group (e.g.,
+Palmer, Burwitz, Smith, & Barrie, 2000), 15 interventions (7%) did not
+lead to significant intention differences (e.g., Banks et al., 1995), 12 studies
+(6%) measured intentions but did not report relevant data (e.g., Plotnikoff
+& Higginbottom, 1995), 2 studies reported a subset of data from a larger
+study already included in the analysis (e.g., Tedesco, Keffer, Davis, &
+Christersson, 1993), and 1 study used a different sample for the intention
+measure and the behavior measure (Pierce et al., 1986).
+
+In total, k (cid:1) 47 tests of the association between intention change and
+behavior change met the inclusion criteria for the review. These 47 tests come
+from 45 reports. Table 1 presents the characteristics and effect sizes in each
+study. (An asterisk precedes each of these reports on the reference list.)
+
+Meta-analytic strategy. Of the 47 studies that reported significant
+intention differences, 37 studies (79%) reported data suitable for comput-
+ing precise effect sizes for intention and behavior, 4 studies (9%) provided
+effect sizes for intention only, 4 studies provided effect sizes for behavior
+only, and the final 2 studies (4%) did not report precise information for
+either intention or behavior. When effect sizes could not be computed
+precisely on the basis of information in the report or correspondence with
+authors, we estimated values based on the significance levels reported. For
+example, if the effect was nonsignificant we assumed zero difference (d (cid:1)
+0.00). If the effect was significant at p (cid:4) .05 we used the smallest value of
+d (given the sample size) that was significant at this level of alpha.1 Where
+
+1 To ensure that these estimation procedures did not bias the results, we
+compared the effect sizes for intentions and behavior when estimated
+values were included versus excluded from respective computations. Find-
+ings showed that including estimated values did not influence the effect
+sizes obtained (Q (cid:1) 2.84 and 1.05, ns, for intention and behavior,
+respectively).
+
+254
+
+WEBB AND SHEERAN
+
+Table 1
+Characteristics and Effect Sizes for Intention and Behavior Change for Studies Included in the Meta-Analysis
+
+Author
+
+Behavior
+
+Ajzen (1971)
+Basen-Engquist (1994)
+Beck & Lund (1981)
+Brubaker & Fowler (1990)
+Bryan, Aiken, & West (1996)
+Burgess & Wurtele (1998)
+Caron, Godin, Otis, & Lambert (2004)
+Chatrou, Maes, Dusseldorp, & Seegers (1999)
+Cody & Lee (1990)
+Crawley & Koballa (1992)
+D’Onofrio, Moskowitz, & Braverman (2002)
+Das, de Wit, & Stroebe (2003) Study 2
+Das, de Wit, & Stroebe (2003) Study 3
+Detweiler, Bedell, Salovey, Pronin, & Rothman (1999)
+Dholakia & Bagozzi (2003) Study 2
+Dukeshire (1995) Study 2B
+Fitzgerald, Stanton, Terreri, Shipena, Xiaoming, Kahihuata, Ricardo,
+
+Galbraith, & DeJaeger (1999)
+
+Godin, Desharnais, Jobin, & Cook (1987)
+Graham-Clarke & Oldenberg (1994)
+Hillhouse & Turrisi (2002)
+Hine & Gifford (1991)
+Irvine, Ary, Grove, & Gilfillan-Morton (2004)
+Jackson (1997)
+Jemmott, Jemmott, & Fong (1998)
+Jones, Sinclair, & Courneya (2003)
+Lescano (1998)
+Luszcyznska & Schwarzer (2003)
+Mahler, Fitzpatrick, Barker, & Lapin (1997)
+Mahler, Kulik, Gibbons, Gerrard, & Harrell (2003)
+Main, Iverson, & McGloin (1994)
+Martinez (1999)
+Martinez, Levine, Martin, & Altman (1996)
+Melendez, Hoffman, Exner, Leu, & Ehrhardt (2003)
+Milne, Orbell, & Sheeran (2002)
+Murphy & Brubaker (1990)
+Quine, Rutter, & Arnold (2001)
+Sanderson & Jemmott (1996)
+Sheeran, Webb, & Gollwitzer (2003)
+Slonim-Nevo, Auslander, Ozawa, & Jung (1996)
+Stanton, Li, Ricardo, Galbraith, Feigelman, & Kaljee (1996)
+Steffen, Sternberg, Teegarden, & Shepherd (1994)
+Sutton & Hallet (1988) Study 1
+Sutton & Hallet (1988) Study 2
+Tesar (1996)
+Thompson, Kyle, Swan, Thomas, & Vrungos (2002)
+Wurtele (1988)
+Wurtele & Maddux (1987)
+
+Prisoners dilemma
+Condom use
+Use of dental tablets
+Testicular self-examination
+Condom use
+Parent-child communication
+Condom use
+Smoking
+Skin examination
+Course enrollment
+Smoking
+Course enrollment
+Course enrollment
+Sunscreen use
+Visiting an Internet site
+Sunscreen use
+
+Contraceptive use
+Exercise
+Exercise
+Indoor tanning
+Donating behavior
+Low fat diet
+Sun protective
+Sexual behavior
+Exercise
+Sun protection
+Breast self-examination
+Sun protection
+Sun protection
+Sexual behavior
+Condom use
+Seat belt use
+Sexual behavior
+Exercise
+Testicular self-examination
+Cycle helmet use
+Condom use
+Study behavior
+AIDS-risk behavior
+Condom use
+Testicular self-examination
+Smoking
+Smoking
+HIV-preventive behavior
+Condom use
+Calcium intake
+Exercise
+
+NC
+
+35
+24
+40
+29
+41
+13
+159
+292
+90
+111
+557
+55
+59
+33
+74
+51
+
+222
+65
+191
+53
+49
+234
+65
+204
+45
+54
+173
+17
+35
+176
+35
+44
+116
+76
+49
+49
+47
+39
+58
+39
+138
+44
+46
+74
+17
+40
+80
+
+NE
+
+35
+19
+40
+59
+42
+6
+147
+248
+108
+135
+557
+56
+59
+26
+74
+51
+
+230
+65
+191
+53
+55
+229
+73
+200
+45
+71
+244
+29
+28
+151
+88
+126
+109
+93
+50
+48
+86
+46
+25
+40
+139
+33
+50
+170
+16
+40
+80
+
+Effect size (d)
+
+Intention
+
+Behavior
+
+1.91**
+0.39*
+0.56*
+1.54***
+1.16***
+1.14***
+0.54***
+0.23**
+0.53***
+0.32*
+0.12*a
+1.44***
+0.59**
+2.97***
+1.27***
+1.03***
+
+0.28
+0.44**b
+0.30*
+0.58***
+0.60**
+0.32***
+0.64**
+0.24*
+0.39*
+0.43*
+0.55***
+0.73**
+0.56*
+0.25*
+0.40*
+0.51**
+0.72***
+0.76***
+0.96***
+0.57*
+0.65**
+1.96***
+0.45*
+0.39*a
+0.48**a
+0.39*a
+0.26*a
+0.30*
+0.50**
+0.75***
+0.75***
+
+2.23**
+
+(cid:3)0.25
+0.00b
+0.94*
+0.38*
+2.31***
+0.32**
+0.02
+0.34*
+0.20
+0.00b
+1.04***
+0.25*
+0.68*
+0.46*
+0.33*
+
+0.31*
+0.29
+0.00b
+0.35*
+0.40*
+0.13
+0.37*
+0.11
+0.03
+(cid:3)0.32
+
+0.38**
+0.14
+0.00b
+0.15
+0.00b
+0.24
+0.44**
+0.11
+0.67**
+0.70***
+0.22
+0.66**
+0.27
+0.16
+0.48**a
+0.48*
+0.21
+0.23
+0.81*
+0.73***
+0.30
+
+Note. NC
+a Estimated effect size from probability.
+*** p (cid:4) .001.
+** p (cid:4) .01.
+* p (cid:4) .05.
+
+(cid:1) number of participants in the control group, NE
+
+(cid:1) number of participants in the experimental group.
+
+b Estimated effect size based on nonsignificant difference.
+
+studies used more than one treatment condition, we selected the treatment
+group that produced the largest difference in intention scores compared
+with the control group.2
+
+The present meta-analysis used the unbiased effect size estimator d (Hedges
+
+& Olkin, 1985). The d statistic is calculated using the following formula:
+
+d (cid:1)
+
+x1 (cid:2) x2
+(cid:5)sd1 (cid:3) sd2(cid:6)/ 2
+
+(cid:1) mean of Condition 1, x2
+where x1
+deviation of Condition 1, and sd2
+
+(cid:1) mean of Condition 2, sd1
+(cid:1) standard deviation of Condition 2.
+
+(cid:1) standard
+
+2 Treatment groups were selected from 13 studies (28%). Selecting the
+treatment group that produced the largest difference in intention scores
+compared with the control condition is consistent with the review’s aim of
+estimating how big an effect on behavior successful intention-change
+interventions have. Selecting the treatment group also permits more precise
+characterization of the intervention’s theoretical basis, behavior change
+method, and mode of delivery than would be achieved by aggregating
+effect sizes from different interventions within the same study. To check
+whether selection of treatment groups biased the results for intentions and
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+255
+
+The small sample correction factor (see Hedges, 1981) was not applied
+because of the relatively large sample sizes used by the primary studies
+(sample size: M (cid:1) 187). Computations were undertaken using Schwarzer’s
+(1988) META program. Sample-weighted average effect sizes (d(cid:2)) are
+based on a random effects model. A random effects model was chosen
+because studies were likely to be “different from one another in ways too
+complex to capture by a few simple study characteristics” (Cooper 1986, p.
+526). Cohen (1992) provided useful guidelines for interpreting average
+effect size values. According to Cohen’s power primer, d (cid:1) 0.20 should be
+considered a small effect size, d (cid:1) 0.50 is a medium effect size, and d (cid:1)
+0.80 is a large effect size. We use these qualitative indexes to interpret the
+findings.
+
+Study characteristics were coded by Thomas L. Webb and by a second,
+independent coder. Reliabilities were acceptable (categorical characteristics:
+Mdn (cid:4) (cid:1) .67; continuous characteristics: Mdn r (cid:1) .78) and disagreements
+were jointly resolved. Each study was coded for the following characteristics:
+
+(a) the sample size for experimental and control groups (NE and NC,
+respectively)— defined as the number of participants in each condi-
+tion at the time of the final behavior measure;
+
+(b) the effect size for postintervention intention differences between
+the conditions. Where studies examined more than one behavior (e.g.,
+study of seat belt use measured intentions to use a seat belt both as a
+driver and as a passenger), the effect sizes within the study (across
+behaviors) were computed prior to inclusion in the main data set. This
+procedure captures the richness of the data while maintaining the
+independence of samples that is central to the validity of meta-
+analysis (Hunter & Schmidt, 1990);3
+
+(c) the effect size for the difference in behavior between the condi-
+tions in the wake of the intervention (covariate-adjusted effect sizes
+were used where available). In the same manner as intention, where
+studies examined more than one behavior (e.g., study of donating
+behavior measured donations of both money and time), the within-
+study findings were meta-analyzed in their own right first;4
+
+(d) the mean PBC for the treatment (intervention) condition. To
+permit comparisons across studies, PBC scores were converted to the
+standard 1–7 scale used in TPB studies wherever PBC measures used
+a different number of scale points;
+
+(e) whether the intervention produced significant differences in both intention
+and PBC/self-efficacy or a significant difference in intention only;
+
+(f) the type of intention measure (behavioral intention vs. behavioral
+expectation);
+
+(g) the assessed control. This moderator was coded by two indepen-
+dent faculty members. Coders were given details of the sample and
+focal behavior used by each study and asked to rate how much control
+each sample was likely to possess over each behavior on a 7-point
+scale (where 1 (cid:1) no control and 7 (cid:1) complete control);
+
+(h) whether the behavior was health-protective (e.g., exercise, testic-
+ular self-examination) versus a health-risk behavior performed in
+social contexts (smoking, condom use);
+
+behavior, we compared the effect sizes when studies involving treatment
+selection were included versus excluded in the analyses. Findings revealed
+no differences in the effect sizes for intention or behavior (Q (cid:1) 1.39 and
+0.02, ns, respectively). A table describing the intervention versus control
+condition selected from each of the 13 studies can be obtained from
+Thomas L. Webb.
+
+(i) whether the behavior was likely to be under habitual control.
+Following Wood’s analysis (Ouellette & Wood, 1998; Wood et al.,
+2002) behaviors were coded as under habitual control if there were
+both multiple opportunities to perform the behavior and the environ-
+mental context in which the behavior was performed was stable (e.g.,
+seat belt use). All other combinations of opportunity and context
+stability were considered antithetical to the development of habits;
+
+(j) the nature of the control group (no treatment vs. alternative
+intervention);
+
+(k) the time interval between intention and behavior measures (in
+weeks);
+
+(l) the sample type (student vs. nonstudent);
+
+(m) the behavior measure (objective vs. self-report); and
+
+(n) the publication status (published vs. unpublished).
+
+Results
+
+Effect sizes for intention and behavior change. We began by
+computing the effect size for the differences in intention between
+conditions following the intervention (see Figure 1). Effect sizes
+(d) ranged from 0.12 to 2.97 and had a standard deviation of 0.54.
+The sample-weighted average effect size derived from these stud-
+ies was d(cid:2) (cid:1) 0.66 with a 95% confidence interval from .51 to .82,
+based on 47 studies and a total sample size of 8,802. This means
+that the interventions had, on average, a medium-to-large effect on
+intention according to Cohen’s (1992) criteria.
+
+Next, the average effect size representing the impact of the
+interventions on behavior was computed (see Figure 1). Effect
+sizes for behavior ranged from (cid:3).25 to 2.31 and had a standard
+deviation of .48. The sample-weighted effect size for behavior
+derived from these studies was d(cid:2) (cid:1) 0.36 with a 95% confidence
+interval from .22 to .50 (k (cid:1) 47; N (cid:1) 8,802). These findings
+indicate that successful intention-change interventions lead to a
+small-to-medium change in behavior, on average.5
+
+3 Five effect sizes for intention were meta-analyzed in their own right
+before inclusion in the main analysis (Dukeshire, 1995; Godin et al., 1987;
+Mahler et al., 1997; Martinez et al., 1996; Wurtele, 1988).
+
+4 Six effect sizes for behavior were meta-analyzed in their own right
+prior to inclusion in the main analyses (Das et al., 2003, Studies 2 and 3;
+Dholakia & Bagozzi, 2003; Hine & Gifford, 1991; Mahler et al., 1997;
+Martinez et al., 1996).
+
+Five studies reported covariate-adjusted effect sizes for behavior. Sen-
+sitivity analyses showed that the sample-weighted average effect size for
+behavior did not differ between studies that reported covariate-adjusted
+effect sizes and studies that reported nonadjusted effect sizes, Q(1) (cid:1) .78,
+ns.
+
+5 This finding indicates that interventions that change intentions engen-
+der changes in behavior. An implication of this analysis is that interven-
+tions that do not generate intention change would not be expected to
+produce changes in behavior. To investigate this prediction we computed
+the average effect sizes for intention and behavior in the 15 studies (13
+reports) that did not genderate significant intention differences (Bamberg,
+2002, Study 2; Banks et al., 1995; Brown et al., 2003; Caplan, Vinokur,
+Price, & van Ryn, 1989; Dukeshire, 1995, Studies 1, 2a, & 3; James,
+Gillies, & Bignell, 1998; Kamal, 1999; Kellar & Abraham, 2004; Meyer
+
+256
+
+WEBB AND SHEERAN
+
+Table 2
+Mediation of the Intervention–Behavior Change Relation by
+Intention Change (N (cid:1) 1,875)
+
+Without mediator
+
+Intention change
+as mediator
+
+Relation
+
+(cid:5)
+
+t
+
+(cid:5)
+
+t
+
+Intervention–behavior
+
+change
+
+Intention change–behavior
+
+change
+
+*** p (cid:4) .001.
+
+0.21
+
+9.14***
+
+0.08
+
+3.65***
+
+0.37
+
+16.29***
+
+Mediation analyses. The correlation between the effect size
+for intention and the effect size for behavior was .57, which
+suggests that interventions that produced greater intention change
+had a corresponding greater effect on effect on behavior. In order
+to ensure that changes in intention were responsible for the impact
+of the interventions on behavior, we conducted a mediation anal-
+ysis by using data from 15 studies (N (cid:1) 1,875) where the corre-
+lation between intention and behavior could be retrieved.6 In line
+with Kenny, Kashy, and Bolger’s (1998) recommendations, four
+multiple regressions were conducted to establish mediation (d
+values were converted to rs for this purpose, and the sample-
+weighted average intercorrelations between intervention, intention
+change, and behavior change were used in the matrix input func-
+tion in SPSS). These regressions test (a) the effect of the indepen-
+dent variable on the dependent variable, (b) the effect of the
+independent variable on the mediating variable, (c) the effect of the
+mediating variable on the dependent variable, and (d) the simul-
+taneous effect of the independent variable and the mediator on the
+dependent variable, respectively.
+
+Regression analyses showed that intervention (the independent
+variable) predicted both changes in behavior (the dependent vari-
+able) and changes in intention (the proposed mediator), F(1,
+1873) (cid:1) 83.57 and 244.74, respectively ( ps (cid:4) .001). Changes in
+intention also predicted changes in behavior, F(1, 1873) (cid:1) 345.04,
+p (cid:4) .001. Most important, however, findings showed that intention
+change attenuated the relationship between intervention and be-
+havior in a simultaneous regression analysis (see Table 2). This
+
+6 The 15 studies used in the mediation analysis were: Brubaker and
+Fowler (1990); Bryan et al. (1996); Burgess and Wurtele (1998); Crawley
+and Koballa (1992); Das, deWit, and Stroebe (2003, Studies 2 and 3),
+Dholakia and Bagozzi (2003); Jackson (1997); Lescano (1998); Quine et
+al. (2001); Sanderson and Jemmott (1996); Sheeran, Webb, and Gollwitzer
+(2003); Tesar (1996); Wurtele (1988), and Wurtele and Maddux (1987).
+These 15 studies differed significantly from excluded studies in both
+intention effect sizes (d(cid:2) (cid:1) 0.87 and 0.57, respectively), Q(1) (cid:1) 29.42,
+p (cid:4) .001, and behavior effect sizes (d(cid:2) (cid:1) 0.53 and 0.28, respectively),
+Q(1) (cid:1) 21.79, p (cid:4) .001. A potential explanation of these differences is that
+studies that found large group differences in intention and behavior were
+also more likely to report the correlation between intention and behavior
+(and therefore could be included in the mediation analysis). It is also
+worthwhile noting that because the mediation analysis relies on reported
+correlations between intention and behavior, third variable effects cannot
+be ruled out (Mauro, 1990).
+
+Figure 1. Stem-and-leaf plots of effect sizes (ds) for intention change and
+behavior change. Digits to the left of the vertical line (stems) are read as
+ones and tenths place of each effect size. Numbers to the right of the
+vertical line (leafs) are the hundredths place for each effect size. Multiple
+leafs indicate that there were multiple effect sizes with the same stem (e.g.,
+0.24, 0.25, 0.26).
+
+owitz & Chaiken, 1987; Raats, Sparks, Geekie, & Shepherd, 1999; Te-
+desco, Keffer, Davis, & Christersson, 1993; a table describing character-
+istics and effect sizes from each study can be obtained from Thomas L.
+Webb). The sample-weighted average effect size for intention derived from
+these studies was d(cid:2) (cid:1) 0.07 with a 95% confidence interval from .00 to .13
+(k (cid:1) 15; N (cid:1) 3,588). The sample-weighted average effect size for behavior
+obtained in these studies was d(cid:2) (cid:1) 0.20 with a 95% confidence interval
+from .08 to .32 (k (cid:1) 15; N (cid:1) 3,588). These findings indicate that
+interventions that do not generate significant differences in intention
+scores, nonetheless, produce a small change in behavior. Of importance,
+however, is the finding that unsuccessful intention-change interventions
+engendered a significantly smaller effect size for behavior compared to
+successful intention-change interventions (d(cid:2) (cid:1) 0.20 and 0.36, respec-
+tively), Q(1) (cid:1) 15.42, p (cid:4) .001.
+
+257
+
+Q
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+Table 3
+Moderators of the Intention Change–Behavior Change Relation
+
+Level 1
+
+N
+
+k
+
+Q
+
+d
+
+Level 2
+
+N
+
+k
+
+Q
+
+d
+
+Moderator
+
+Volitional control
+
+Assessed control
+PBC
+Intervention effect
+Intention measure
+
+Habitual control
+Social reaction
+
+Low
+Low
+BI only
+BI
+Unlikely
+Unlikely
+
+4,996
+1,913
+1,426
+4,339
+1,992
+4,440
+
+Time interval (weeks)
+Behavior measure
+Comparison intervention
+
+(cid:6) 11.5
+Self-report
+None
+
+2,887
+7,844
+3,502
+
+Publication status
+Type of sample
+
+Published
+Nonstudent
+
+8,070
+2,856
+
+Conceptual factors
+
+48.38***
+13.47
+15.44*
+93.17***
+59.81***
+105.75***
+
+.25
+.32
+.55
+.38
+.74
+.45
+
+High
+High
+BI (cid:2) PBC
+BE
+Likely
+Likely
+
+Measurement factors
+
+95.08***
+89.26***
+13.44
+
+.46
+.30
+.25
+
+(cid:7) 11.5
+Objective
+Alternative
+
+Study characteristics
+
+3,806
+1,610
+2,097
+2,737
+6,880
+4,362
+
+5,915
+958
+5,300
+
+150.20***
+34.67***
+
+.38
+.33
+
+Unpublished
+Student
+
+732
+5,946
+
+21
+9
+8
+26
+12
+30
+
+25
+39
+14
+
+42
+12
+
+26
+10
+11
+14
+35
+17
+
+22
+8
+33
+
+5
+35
+
+89.70***
+20.84*
+19.92*
+26.97*
+55.38**
+27.58*
+
+45.19**
+47.33***
+139.05***
+
+.45
+.51
+.33
+.35
+.22
+.19
+
+.23
+.67
+.41
+
+22.42***
+8.14*
+10.54*
+0.58
+96.30***
+36.46***
+
+23.51***
+28.24***
+12.79***
+
+2.37
+104.54***
+
+.25
+.38
+
+2.51
+0.99
+
+Note. Bonferroni correction has been applied when evaluating significance of Q statistics comparing the two levels of the moderator (new p [.0045] (cid:1)
+old p [.05] (cid:8) 11). BI (cid:1) behavioral intention; BE (cid:1) behavioral expectation; PBC (cid:1) perceived behavioral control.
+* p (cid:4) .05.
+
+*** p (cid:4) .001.
+
+** p (cid:4) .01.
+
+conclusion was confirmed by a highly significant value on Kenny
+et al.’s (1998) modification of the Sobel (1982) test (Z (cid:1) 11.95,
+p (cid:4) .001) which shows that changes in intention engendered a
+significant reduction in the association between intervention and
+behavior. Although intention change attenuated the relationship
+between intervention and behavior,
+the
+intervention– behavior association remained significant even after
+intention change had been taken into account ((cid:5) (cid:1) .08, t[1873] (cid:1)
+3.65, p (cid:4) .001).7
+
+is notable that
+
+it
+
+the relationship between successful
+
+Moderators of the intention–behavior relationship. The ho-
+mogeneity statistic for the behavior effect sizes was significant,
+Q(46) (cid:1) 152.58, p (cid:4) .001, indicating that the data set is hetero-
+geneous (i.e., there is significant variation in the effect sizes
+derived from the primary studies). This encourages a search for
+moderators of
+intention-
+change interventions and behavior. In order to test the influence of
+11 moderators, each moderator was treated as a dichotomous
+variable and the effect sizes from each study were coded into one
+of two levels of the moderator (see Eagly & Wood, 1994). For
+example, studies with PBC scores below the median were coded as
+low on PBC, PBC scores above the median were coded as high.
+Next, the sample-weighted effect size (d(cid:2)) and homogeneity sta-
+tistic (Q) were calculated separately for the two groups. The Q
+statistic (with Bonferroni adjustment) was used to compare the
+coefficients (see Table 3).
+
+We began by examining moderation by conceptual factors.
+There were four indexes of volitional control. Assessed control
+moderated intention– behavior relations. Changes in intention
+had a larger effect on behavior when participants were rated as
+possessing more control over the behavior (d(cid:2) (cid:1) 0.45) than
+when they were rated as having less control (d(cid:2) (cid:1) 0.25).
+
+Participants’ own perceptions of control (PBC) moderated
+intention– behavior relations in a similar manner. Effect sizes
+for behavior were larger when PBC was high (d(cid:2) (cid:1) 0.51) rather
+than when it was low (d(cid:2) (cid:1) 0.32). The type of intention
+measure (behavioral intention vs. behavioral expectation) did
+not influence effect sizes for behavior (d(cid:2) (cid:1) 0.38 vs. 0.35). Contrary
+to expectations, however, greater behavior change was observed
+when interventions produced significant changes in intention only
+(d(cid:2) (cid:1) 0.55) compared with interventions that generated significant
+changes in both intention and PBC (d(cid:2) (cid:1) 0.33).
+
+Habitual control had a strong effect on intention– behavior
+relations. Intention change had less impact on behavior change
+when circumstances supported the development of habits (d(cid:2) (cid:1)
+0.22) compared with when circumstances did not support habit
+formation (d(cid:2) (cid:1) 0.74). There was also a significant social
+reaction effect. Intentions engendered smaller effects on behav-
+ior in the case of risky behaviors performed in social contexts
+(d(cid:2) (cid:1) 0.19) compared with health-protective behaviors (d(cid:2) (cid:1)
+0.45).
+
+7 The theory of planned behavior suggests that the effect of interventions
+on behavior should be mediated by both intention and PBC/self-efficacy. In
+order to test the idea that PBC mediates the effect of interventions on
+behavior, we conducted mediation analysis on the three studies that re-
+ported correlations between PBC/self-efficacy and behavior (Brubaker &
+Fowler, 1990; Bryan et al., 1996; Crawley & Koballa, 1992). Regression
+analyses revealed that, although the intervention predicted changes in PBC
+((cid:5) (cid:1) .13, p (cid:4) .05) and changes in PBC predicted behavior ((cid:5) (cid:1) .12, p (cid:4)
+.05), Sobel’s (1982) test revealed that changes in PBC did not attenuate the
+relationship between intervention and behavior in a simultaneous regres-
+sion analysis (Z (cid:1) 0.30, ns).
+
+258
+
+WEBB AND SHEERAN
+
+The second category of moderators pertained to measurement
+characteristics. Changing participants’ intentions had a greater
+impact on behavior when the time interval between the intention
+and behavior measures was short (i.e., less than or equal to the
+median value of 11.5 weeks) as compared with long (d(cid:2) (cid:1) 0.46
+vs. 0.23). Perhaps surprisingly, manipulating intention had a
+greater impact when behavior was measured objectively (d(cid:2) (cid:1)
+0.67) rather than by self-report (d(cid:2) (cid:1) 0.30). Intention-change
+interventions also had a greater impact on behavior when the
+control group received an alternative intervention (d(cid:2) (cid:1) 0.41) than
+when the control group received no treatment (d(cid:2) (cid:1) 0.25).
+
+Finally, we evaluated two study characteristics as moderators of
+the relationship between intention-change interventions and be-
+havior. Findings showed that there were no significant differences
+between the effect sizes from published versus unpublished studies
+(d(cid:2) (cid:1) 0.38 vs. 0.25) or between the effect sizes for student versus
+nonstudent samples (d(cid:2) (cid:1) 0.38 vs. 0.33). None of the moderators
+led to homogenous effect sizes (nonsignificant Q statistics) at both
+levels of the moderator, though effect sizes in three cases were
+homogenous (low PBC, no-treatment control groups, and unpub-
+lished studies). This finding suggests that the observed effect sizes
+for behavior are influenced by multiple factors.8
+
+jointly. To
+
+Intervention characteristics. Characteristics of the interven-
+tions were categorized by using a taxonomy adapted from Harde-
+man et al. (2000).9 Thomas L. Webb and a second independent
+rater coded the interventions. Reliabilities were acceptable (inde-
+pendent characteristics: Mdn (cid:4) (cid:1) .73; agreement for nonindepen-
+dent characteristics: Mdn (cid:1) 77%) and disagreements were re-
+solved
+intervention
+characteristics, we computed the respective sample-weighted av-
+erage effect sizes for intention and behavior (see Table 4). Studies
+that reported significant
+intention differences and studies that
+reported nonsignificant intention differences both were included in
+these analyses (k (cid:1) 62) to permit stronger inferences about the
+characteristics of effective interventions. Because interventions
+that had a large effect on intention also had a large effect on
+behavior (r (cid:1) .57), we focus on the effect sizes for behavior.
+
+examine
+
+impact
+
+the
+
+of
+
+The first intervention characteristic concerned the theoretical
+basis of the research. Twelve models provided the basis for the
+interventions according to respective reports. The most frequently
+used models were the theories of reasoned action/planned behavior
+(29%), social– cognitive theory/social learning theory (21%), pro-
+tection motivation theory (18%), and the health belief model
+(13%). To gain insight into the effect sizes for interventions with
+different theoretical bases, disjoint cluster analysis (Hedges &
+Olkin, 1985) was used to decompose the 12 effect sizes into
+smaller subsets. Two clusters were identified by using a 5% level
+of significance for differences between effect sizes. Cluster 1
+comprised interventions based on protection motivation theory, the
+theory of reasoned action/planned behavior, gain versus loss
+framed messages, the elaboration likelihood model, the health
+belief model, stage models, cognitive– behavioral principles,
+social– cognitive theory/social learning theory, and motivational
+interviewing. Interventions in Cluster 1 tended to have small to
+medium effects on behavior (Mdn d(cid:2) (cid:1) 0.30), according to
+Cohen’s (1992) criteria. Cluster 2 comprised interventions based
+on the parallel response model and the information, motivation,
+behavioral skills model, which had negligible effects on behavior
+(Mdn d(cid:2) (cid:1) 0.01).
+
+Interventions used the following behavior change methods most
+frequently:
+information regarding the behavior and outcome
+(58%), risk awareness material (50%), skills enhancement (42%),
+and goal or target setting (40%). Disjoint cluster analysis indicated
+that
+the effects sizes for behavior change methods could be
+grouped into five distinct clusters ( p (cid:4) .05). Cluster 1 included
+interventions that incorporated incentives for behaving or remain-
+ing in the program and social encouragement or support, which
+tended to have medium effects on behavior (Mdn d(cid:2) (cid:1) 0.56).
+Cluster 2 consisted of interventions that provided information
+regarding behavior and outcome, that specified a goal or target,
+included questions on the material, persuasive communication,
+modeling or demonstration by others, environmental changes, ef-
+forts to increase relevant skills, a personalized message, or risk
+awareness material. Behavior change methods in Cluster 2 had
+small-to-medium effects on behavior (Mdn d(cid:2) (cid:1) 0.26). Cluster 3
+comprised three behavior change methods (planning, experiential
+tasks, and rehearsal of relevant skills) that tended to have small
+effects on behavior (Mdn d(cid:2) (cid:1) 0.20). Cluster 4 was made up of
+interventions that incorporated monitoring and homework (Mdn
+d(cid:2) (cid:1) 0.12). Finally, Cluster 5 consisted of interventions that used
+personal experiments (d(cid:2) (cid:1) 0.06).
+
+Effect sizes for modes of delivery were independent so the homo-
+geneity statistic (Q) was used to test variability among the effect sizes.
+There was no variability in effect sizes for different intervention
+formats, Q(2) (cid:1) 5.39, ns. In other words, interventions delivered one
+to one (d(cid:2) (cid:1) 0.38) were no more effective than were interventions
+delivered in group (d(cid:2) (cid:1) 0.31) or classroom settings (d(cid:2) (cid:1) 0.28).
+However, homogeneity analysis did reveal significant variability in
+effect sizes as a function of the source of the intervention, Q(4) (cid:1)
+37.09, p (cid:4) .001. Pairwise comparisons (with Bonferroni adjustment)
+revealed that, whereas interventions delivered by research assistants
+and health educators were similarly effective (d(cid:2) (cid:1) 0.41 and .33,
+respectively), research-assistant delivered interventions had larger ef-
+fects on behavior compared with interventions delivered by either
+trained facilitators or teachers (d(cid:2) (cid:1) 0.18 and 0.15, respectively).10
+
+8 The present analysis investigated the factors that moderate the impact
+of successful intention-change interventions on behavior (k (cid:1) 47). How-
+ever, to confirm the validity of these analyses we also evaluated moderators
+with respect to the full sample of (k (cid:1) 62) successful and unsuccessful
+interventions. Findings for each moderator were identical with the excep-
+tion of publication status. Across the full sample of 62 studies, published
+studies had larger effects on behavior (d(cid:2) (cid:1) 0.35) than unpublished studies
+(d(cid:2) (cid:1) 0.17). One explanation for this finding is that interventions that did not
+change intention were less likely to be published (67% unpublished) than
+interventions that did change intention (89% published), (cid:7)2(1) (cid:1) 4.33, p (cid:4) .05.
+A table describing these analyses is available from Thomas L. Webb.
+
+9 A table describing the theoretical basis, behavior change methods, and
+modes of delivery for each study can be obtained from Thomas L. Webb.
+10 Effect sizes from 13 of the studies in our analyses of intervention
+characteristics were based on selecting the treatment group that produced
+the largest difference in intention scores compared with the control con-
+dition (see Footnote 2). To confirm the validity of this approach, we reran
+the analyses substituting effect sizes representing differences across mul-
+tiple conditions for these 13 studies. As expected, the findings were
+virtually identical. A table describing these analyses can be obtained from
+Thomas L. Webb.
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+259
+
+Table 4
+Effect Sizes for Intervention Characteristics (k (cid:1) 62)
+
+Intervention characteristic
+
+N
+
+k
+
+Intention
+
+Behavior
+
+Theoretical basis
+
+d(cid:2)
+
+Protection motivation theory
+Theory of reasoned action/planned behavior
+Gain versus loss framed messages
+Model of interpersonal behavior
+Elaboration likelihood model
+Health belief model
+Stage models (MAP, TTM, HAPA, ARRM)
+Cognitive behavioral principles
+Social cognitive / social learning theory
+Motivational interviewing
+Parallel response model
+Information, motivation, behavioral skills model
+
+1,510
+3,548
+761
+444
+433
+1,090
+1,654
+1,422
+4,409
+463
+540
+123
+
+Behavior change methods
+
+Incentives for behaving or remaining in program
+Social encouragement, social pressure, social support
+Information regarding behavior and outcome
+Goal or target specified
+Questions on the material
+Persuasive communication
+Modeling / demonstration by others
+Environmental changes
+Increasing skills
+Personalized message
+Risk awareness material
+Planning, implementation
+Experiential tasks
+Rehearsal of relevant skills
+Monitoring, self-monitoring
+Homework
+Personal experiments
+
+1,153
+2,365
+7,393
+4,575
+353
+2,621
+3,592
+162
+6,302
+2,044
+5,345
+787
+3,032
+4,780
+1,721
+1,239
+1,488
+
+One-to-one
+Group
+Classroom
+
+Research assistant
+Health educator
+Trained facilitator
+Teacher
+Clinical
+
+Modes of delivery: Group format
+
+4,834
+4,177
+2,839
+
+Modes of delivery: Expert behavior change
+
+4,774
+1,567
+5,355
+694
+174
+
+11
+18
+6
+2
+3
+8
+5
+3
+13
+1
+1
+1
+
+6
+8
+36
+25
+3
+16
+14
+2
+26
+8
+31
+4
+12
+15
+3
+2
+4
+
+24
+23
+14
+
+36
+6
+17
+3
+1
+
+0.69
+0.58
+0.68
+0.57
+0.39
+0.52
+0.53
+0.40
+0.28
+0.32
+0.23
+0.40
+
+0.96
+0.64
+0.60
+0.64
+0.55
+0.38
+0.41
+0.77
+0.38
+0.10
+0.56
+0.68
+0.33
+0.35
+0.36
+0.23
+0.25
+
+0.66
+0.42
+0.48
+
+0.62
+0.45
+0.38
+0.26
+0.06
+
+0.46a
+0.40a
+0.34a
+0.33a
+0.30a
+0.29a
+0.22a
+0.19a
+0.15a
+0.13a
+0.02b
+0.00b
+
+0.58a
+0.54a
+0.32b
+0.31b
+0.30b
+0.29b
+0.28b
+0.27b
+0.27b
+0.26b
+0.25b
+0.20c
+0.20c
+0.19c
+0.13d
+0.11d
+0.06e
+
+0.38
+0.31
+0.28
+
+0.41a
+0.33
+0.18b
+0.15b
+0.13
+
+Note. Because interventions could be based on more than one theory and/or use multiple methods of behavior
+change, classifications of theoretical basis and behavior change methods are not mutually exclusive. Bonferroni
+correction has been applied when evaluating significance of pairwise comparisons between modes of delivery.
+MAP (cid:1) Model of action phases; TTM (cid:1) Transtheoretical model; HAPA (cid:1) Health action process approach;
+ARRM (cid:1) Aids risk reduction model. Behavior effect sizes with different subscripts differ significantly (within
+each category).
+
+Discussion
+
+The present review provides the first systematic integration of
+experimental studies that tested the impact of changing partici-
+pants’ intentions on subsequent behavior change. Previous meta-
+analyses of intention– behavior relations integrated findings from
+correlational studies (e.g., Armitage & Conner, 2001; Godin &
+
+Kok, 1996; Randall & Wolff, 1994; Sheppard et al., 1988; Shee-
+ran, 2002), and showed that intentions have strong associations
+with behavior. For instance, Sheeran’s (2002) meta-analysis of 422
+studies showed that the impact of intentions on behavior was
+equivalent to d (cid:1) 1.47; this value easily exceeds the criterion for
+a large effect size according to Cohen’s (1992) power primer (d (cid:1)
+
+260
+
+WEBB AND SHEERAN
+
+0.80). However, correlational tests of intention– behavior consis-
+tency cannot rule out the possibility that a third variable is respon-
+sible for the observed associations (Mauro, 1990). To deal with
+this problem, the present review integrated experimental studies
+that (a) randomly assigned participants to experimental and control
+groups, (b) generated a significant difference in intention scores
+between the groups, and (c) followed up behavior. The key finding
+is that a medium-to-large change in intention (d (cid:1) 0.66) engenders
+a small-to-medium change in behavior (d (cid:1) 0.36). Thus, intention
+has a significant impact on behavior, but the size of this effect is
+considerably smaller than correlational tests have suggested.
+
+The theoretical significance of these findings resides in the
+fact that several important conceptual frameworks in social and
+health psychology propose that changing behavioral intentions
+will engender behavior change (e.g., Ajzen, 1991; Bandura,
+1989; Carver & Scheier, 1998; Fishbein, 1980; Gibbons et al.,
+1998; Heckhausen & Gollwitzer, 1987; Locke & Latham, 1990;
+Rogers, 1983; Triandis, 1980). The present meta-analysis sup-
+ports this proposal. Moreover, most of the studies included in
+the review concerned the performance of consequential health-
+related behaviors (condom use, exercise, smoking) over sub-
+stantial time periods (M (cid:1) 15 weeks between measurement of
+intention and behavior). It was also the case that when behavior
+was measured objectively (rather than by self-report), the effect
+size for behavior change was medium-to-large rather than
+small-to-medium (d (cid:1) 0.67). Thus, several aspects of the re-
+view serve to bolster
+intention determines
+the idea that
+behavior.
+
+However, as Ajzen and Fishbein (2004) pointed out, how
+well self-reports reflect actual behavior is an empirical matter,
+and so it cannot be assumed that self-reports underestimate the
+impact of intention on behavior in the present meta-analysis. In
+fact, evidence indicates that self-reports for several of the
+behaviors reviewed here generally are reliable and valid (con-
+dom use, e.g., Jaccard, McDonald, Wan, Dittus, & Quinlan,
+2002; exercise, e.g., Godin, Jobin, & Bouillon, 1986; smoking,
+e.g., Dolcini, Adler, Lee, & Bauman, 2003; Heatherton, Koz-
+lowski, Frecker, Rickert, & Robinson, 1989). It is also impor-
+tant to acknowledge that the effect size for behavior obtained in
+the present review (d (cid:1) 0.36) captures not only the impact of
+intentions on behavior but also the direct effect of interventions
+on behavior. Mediation analyses showed that although intention
+change significantly attenuated the impact of interventions on
+behavior, the effect of the intervention remained significant
+even after controlling for intention. Thus, even the modest
+overall effect observed here (d (cid:1) 0.36 is equivalent to r (cid:1) .18)
+overestimates the impact of a medium-to-large change in inten-
+tion on subsequent behavior change. The implication is that,
+although the present meta-analysis supports the view that in-
+tentions determine behavior, intentional control of behavior is a
+great deal more limited than previously supposed.
+
+What factors explain the direct effects of interventions on be-
+havior? Why did successful interventions affect behavior even
+after changes in intention had been taken into account? And why
+did unsuccessful interventions, that did not produce significant
+changes in intention scores, nonetheless have a small effect on
+behavior? (see Footnote 5). One explanation of these findings that
+can be derived from the theory of planned behavior, protection
+motivation theory, and social– cognitive theory is that the inter-
+
+ventions increased perceived behavioral control (PBC) or self-
+efficacy and that these variables, in turn, had direct effects on
+behavior. However, the idea that changes in PBC/self-efficacy
+explained the direct effect of interventions on behavior is not
+supported by mediation analysis using data from studies that
+reported correlations between PBC and behavior (Footnote 7).
+This finding is consistent with previous meta-analyses that indicate
+that PBC/self-efficacy captures at most a small increment in the
+variance in behavior after intention has been taken into account
+(e.g., Armitage & Conner, 2001; Trafimow et al., 2002).
+
+A second possible explanation is that interventions affected
+behavior by a route that did not involve either intentions or
+PBC/self-efficacy. For instance, the interventions could have
+activated behavior-relevant goals outside of participants’ con-
+scious awareness and initiated behavior automatically. The
+automotive model (Bargh, 1990; reviews by Chartrand &
+Bargh, 2002; Gollwitzer & Bargh, 2005) proposes that goals do
+not have to be consciously held to affect behavior. Situational
+features can directly activate goals and goal-directed behaviors
+such that relevant actions are initiated and run to completion
+without the person ever consciously intending to pursue the
+goal. For instance, Chartrand and Bargh (1996) used the scram-
+bled sentence task (Srull & Wyer, 1979) to activate goals either
+to memorize presented material or to form an impression of a
+target person described in the material. Even though partici-
+pants reported no awareness of activation of the goals during
+debriefing and did not believe that completing scrambled sen-
+tences could have influenced their behavior, findings repro-
+duced the results of a previous experiment (Hamilton, Katz, &
+Leirer, 1980) in which participants had formed conscious in-
+tentions to memorize or form an impression (for equivalent
+findings, see Aarts, Gollwitzer, & Hassin, 2004; Bargh, Goll-
+witzer, Lee-Chai, Barndollar, & Tro¨ tschel, 2001; Fitzsimons &
+Bargh, 2003). Other experiments have demonstrated that non-
+conscious goal pursuit operates in the same way as does con-
+scious goal pursuit. Goals activated outside of awareness in-
+crease in strength until
+they are
+characterized by task persistence in the face of obstacles, and
+goal-directed behavior is resumed in the wake of disruption
+even when tempting alternatives are available (Aarts et al.,
+2004; Bargh et al., 2001). These features are known to charac-
+terize people’s striving for consciously chosen goals (Atkinson
+& Birch, 1970; Lewin, 1935). Thus, it is possible that interven-
+tions directly affected behavior because goal activation oc-
+curred outside of participants’ awareness—in a manner that
+bypassed participants’ self-reported intentions.
+
+they are acted upon,
+
+Why does intention not have greater impact on behavior? Sev-
+eral findings from the present review are relevant to understanding
+why successfully changing intention engenders only a small-to-
+medium change in behavior. We assessed three conceptual mod-
+erators derived from relevant theories in social and health psychol-
+ogy. According to several models (e.g., the theory of planned
+behavior,
+interpersonal behavior, and social–
+cognitive theory), intentions can only be expected to find expres-
+sion in behavior if the person possesses actual control over the
+behavior. The moderating roles of four indicators of volitional
+control were therefore assessed. As expected, participants’ percep-
+tions of control (PBC) moderated intention change– behavior
+change relations such that intention had a larger effect on behavior
+
+the model of
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+261
+
+when perceptions of control were high. Similarly, assessments of
+volitional control from independent raters indicated that greater
+actual control over behavior is associated with more effective
+translation of intentions into action. These findings support the
+importance of volitional control as a moderator of intention–
+behavior relations.
+
+Meta-analysis indicated that measures of behavioral expectation
+(that are assumed to capture factors that might facilitate or inhibit
+performance of a behavior) had similar effects on behavior as
+measures of behavioral intention. Although certain meta-analyses
+of correlational studies indicate that expectations have superior
+predictive validity compared with intentions (e.g., Sheppard et al.,
+1988), other meta-analyses found that the type of intention mea-
+sure does not moderate intention– behavior relations (e.g., Randall
+& Wolff, 1994; Sheeran & Orbell, 1998). Further research is
+needed to identify what factors determine the relative strength of
+expectations versus intentions as predictors of behavior.
+
+The final indicator of volitional control concerned whether the
+intervention changed both intention and PBC versus changed
+intention only. We anticipated that interventions that generated
+significant changes in both intention and PBC would have larger
+effects on behavior compared with intention-only interventions.
+However, the results showed the opposite effect—interventions
+that were successful only in changing intention had stronger ef-
+fects on behavior. Post hoc analyses revealed an important asym-
+metry in the effectiveness of the two types of intervention in
+changing intentions. Interventions that changed both PBC and
+intention had a smaller effect on intention compared with the
+intention-change-only interventions (d(cid:2) (cid:1) 0.69 and 0.84, respec-
+tively), Q(1) (cid:1) 4.58, p (cid:4) .05. Thus, findings for this moderator do
+not provide clear evidence about volitional control because the
+potential additional impact of changing PBC (after generating
+equivalent change in intention) cannot be assessed.
+
+Wood and colleagues’ (Ouellette & Wood, 1998; Wood et al.,
+2002) analysis of the circumstances conducive to habit formation
+was used to designate behaviors as likely (or not) to come under
+habitual control. Consistent with expectations,
+this conceptual
+factor moderated intention– behavior consistency. When behaviors
+were performed frequently in stable contexts (e.g., seat belt use),
+intention-change interventions had less impact on action than
+when respective behaviors were performed infrequently and/or in
+unstable contexts (e.g., course enrolment). According to Wood,
+behaviors that are instigated repeatedly and consistently in the
+presence of particular environmental cues gradually come under
+stimulus control and can be initiated and executed without needing
+the person’s conscious intent and guidance. In contrast, when
+behaviors are performed infrequently, or if the time, place, and
+other circumstances of performance are liable to change, then
+intentions are likely to guide behavior.
+
+The final conceptual factor came from the prototype/willingness
+model (PWM) and concerned the idea that certain health-risk
+behaviors may be determined more by people’s willingness to
+engage in those activities (the social reaction route) than by their
+behavioral intentions (the reasoned action route). Smoking and
+condom nonuse may be determined more by social reaction than
+by intention because they are risky behaviors that generally are
+performed in social contexts and about which people have clear
+images according to previous research (e.g., Blanton et al., 2001;
+Gibbons, Gerrard, Lando, & McGovern, 1991; Thornton, Gibbons,
+
+& Gerrard, 2002; Wills, Gibbons, Gerrard, & Brody, 2000). These
+risk-behaviors were compared with health-protective behaviors
+(e.g., testicular self-examination) because it is unlikely that the
+latter behaviors involve a social reaction route (Gibbons et al.,
+1998). Findings supported PWM predictions. Intention change
+engendered less change in behavior when the respective activity
+was potentially socially reactive. Of course, the present review
+cannot clarify whether changing behavioral willingness would
+have had greater impact on these behaviors compared with inten-
+tion change interventions. Future studies should compare the im-
+pact of these two types of intervention to assess the relative
+importance of reasoned action versus social reaction routes to
+health-risk behaviors.
+
+The foregoing analysis indicates that lack of control over the
+behavior, circumstances conducive to habit formation, and poten-
+tial for social reaction each can reduce the impact of intention on
+behavior. Findings from the meta-analysis also illuminate other
+contexts in which intentions have less impact on behavior. For
+instance, when the behavioral follow-up was taken more than 11.5
+weeks after the intention change intervention the effect size re-
+duced to d (cid:1) 0.23—which is consistent with the idea that there is
+often a substantial “gap” between intention and action (Orbell &
+Sheeran, 1998; Sheeran, 2002). However, it is important to ac-
+knowledge that the moderator analyses are based on only 47 effect
+sizes and that effect sizes within each level of moderator variables
+generally were heterogenous; this may indicate that respective
+effects are moderated by multiple factors potentially in interaction
+with one another. Further studies are needed to increase statistical
+power and thus afford firmer conclusions about moderation.
+
+What are the characteristics of interventions that successfully
+change intentions and behavior? The final aim of the present
+review was to identify the characteristics of effective intention and
+behavior change interventions. Findings showed that there was a
+strong relationship between the effect size for intention and the
+effect size for behavior, indicating that interventions that engen-
+dered greater changes in intention also produced greater impacts
+on behavior. Analyses of relevant effect sizes suggested that an
+intervention is likely to be most successful in generating intention
+and behavior change if the treatment (a) is based on protection
+motivation theory (Rogers, 1983) or the theory of reasoned action/
+planned behavior (Fishbein & Ajzen, 1975; Ajzen, 1991), (b) uses
+social encouragement and incentives for behaving or remaining in
+the program as behavior change methods, and (c) is delivered by
+a health educator or research assistant.
+
+The most frequently used theoretical frameworks for designing
+interventions were protection motivation theory (PMT), the theo-
+ries of reasoned action and planned behavior (TRA/TPB), the
+health belief model, and social– cognitive theory (57% of tests). It
+is notable that two of these theoretical frameworks (PMT and
+TRA/TPB) also produced the largest changes in intention and
+behavior. The importance of PMT in the present review is consis-
+tent with previous reviews concerning the usefulness of this model
+in behavior change interventions (e.g., Milne et al., 2000). Simi-
+larly, the effect sizes obtained for the TRA/TPB suggest that this
+model provides a worthwhile basis for developing interventions in
+addition to its role in identifying useful process and outcome
+variables (see also Hardeman, Johnston, Johnston, Bonnetti, Ware-
+ham, & Kinmonth, 2002).
+
+262
+
+WEBB AND SHEERAN
+
+The findings for behavior change methods are also consistent
+with previous research on these issues. The provision of incentives
+either for behavior change or for program participation was highly
+effective, perhaps because incentives boost participants’ commit-
+ment to their intentions and thereby increase the likelihood that
+decisions will be acted upon (Erez & Zidon, 1984). However, it is
+worth noting that the impact of incentives on behavioral perfor-
+mance is not straightforward and may depend both on the nature of
+the reward (task-dependent vs. task-independent) and goal diffi-
+culty (Locke & Latham, 1990). For instance, Mowen, Middlemist,
+and Luther (1981) found that task-independent rewards benefited
+the performance of difficult goals, whereas the performance of
+easy or moderate goals was enhanced by task-dependent rewards.
+Social support or encouragement is well established as an effective
+method for promoting goal attainment (Povey, Conner, Sparks,
+James, & Shepherd, 2000; Rutter, Quine, & Chesham, 1993). For
+example, in a study of married cigarette smokers, Mermelstein,
+Lichtenstein, and McIntyre (1983) found a positive relationship
+between partner support and the success of quitting attempts.
+
+Finally, some interesting findings emerged for the mode by
+which the intervention was delivered. Evidence supports the idea
+that source expertise enhances the impact of interventions on
+behavior (e.g., Hovland & Weiss, 1952; Pornpitakpan, 2004).
+However, in the present analysis, behavioral effects were compa-
+rable when interventions were delivered by health educators versus
+research assistants. One explanation for these findings is that
+source expertise was confounded with the nature of the focal
+is, health educators were employed to deliver
+behavior. That
+interventions designed to change important health behaviors (e.g.,
+testicular self-examination and condom use), whereas research
+assistants delivered interventions targeted at less consequential
+behaviors (e.g., responses in the prisoners dilemma and visiting an
+Internet site). In support of this idea, when source expertise was
+evaluated in relation to the same behavior (cancer self-
+examination), health educators were more persuasive (k (cid:1) 2, N (cid:1)
+187, d(cid:2) (cid:1) 0.79) than were research assistants (k (cid:1) 2, N (cid:1) 496,
+d(cid:2) (cid:1) 0.42), Q(1) (cid:1) 4.31, p (cid:4) .05.
+
+There is a paucity of research comparing one-to-one versus
+group-based interventions (Emmons, 2000) and it was notable that
+no difference emerged between these two modes of delivery in the
+present review. This is encouraging for intervention programs that
+target large populations. However, it is important to note that this
+finding does not undermine the value of tailored interventions
+(Kreuter & Skinner, 2000), as delivering an intervention one-to-
+one is not the same thing as tailoring an intervention to the
+characteristics of particular individuals.
+
+How might the impact of intention on behavior be enhanced in
+future behavior change interventions? It is worthwhile to con-
+sider two recent developments that are relevant to understanding
+how the impact of intention on behavior might be enhanced in
+future behavior change interventions. First, research on strength-
+related properties of behavioral intentions (reviews by Cooke &
+Sheeran, 2004a; Sheeran, 2002) suggests that important aspects of
+people’s motivation to perform a behavior are not captured by
+standard (cid:3)3 to 3 intention scales (that measure only the valence of
+the intention) and that additional measures of the strength or
+priority of the intention are needed to understand whether deci-
+sions will be implemented successfully. Temporal stability of
+intention is a key index of intention strength and is characteristi-
+
+cally measured by within-participants correlations between mea-
+sures of intention taken at two time points prior to the performance
+of the behavior (e.g., Doll & Ajzen, 1992; Sheeran, Orbell, &
+Trafimow, 1999). Meta-analysis indicates that temporal stability of
+intention has greater impact on intention– behavior consistency
+compared with other properties of intention (Cooke & Sheeran,
+2004a) and mediates the effects of other moderators of behavioral
+intentions (Sheeran & Abraham, 2003). Temporal stability is a
+useful index of intention strength because stable intentions can
+withstand contextual threats (Cooke & Sheeran, 2004b), attenuate
+the impact of past behavior (habit) on future performance (Conner,
+Sheeran, Norman, & Armitage, 2000; Sheeran, Orbell, & Trafi-
+mow, 1999), and facilitate maintenance of behavior change (Con-
+ner, Norman, & Bell, 2002). The implication is that interventions
+that promote changes in both the valence and stability of intention
+are likely to have larger behavioral effects compared with inter-
+ventions that only change the valence of intention.
+
+Second, Gollwitzer’s (1993, 1999; Gollwitzer & Sheeran, in
+press) concept of implementation intentions is also relevant to
+promoting intention realization. Implementation intentions are
+plans that specify when, where, and how one will perform goal-
+directed behaviors and take the format If situation Y arises, then I
+will perform behavior Z! Thus, whereas a behavioral intention
+might state I intend to exercise this week!, a corresponding imple-
+mentation intention might be When I get home from work on
+Monday, then I will jog round the park for 20 minutes! Implemen-
+tation intentions elaborate behavioral intentions by spelling out
+both a good opportunity to act and an appropriate action to initiate
+in order to promote the behavioral performance. Meta-analysis
+indicates that forming an implementation intention improves rates
+of behavioral enactment and goal attainment compared with the
+formation of a behavioral intention on its own (Gollwitzer &
+Sheeran, in press; Sheeran, 2002). These benefits in performance
+come about because implementation intentions delegate control of
+behavior to specified situational cues that serve to elicit behavior
+automatically (e.g., Brandsta¨tter, Lengfelder, & Gollwitzer, 2001;
+Gollwitzer, 1993; Sheeran, Webb, & Gollwitzer, 2005). By form-
+ing an if–then plan, action control switches from a conscious
+effortful mode that is dependent upon the activation level of
+intention (action control by behavioral intentions) to control of
+behavior by preselected situational cues (action control by imple-
+mentation intentions). In summary, future interventions that en-
+hance the temporal stability of behavioral intentions and prompt
+formation of respective implementation intentions are likely to
+enhance the impact of intention on behavior.
+
+Conclusion
+
+The present meta-analysis provides the first estimate of the
+overall impact of changing behavioral intentions on subsequent
+behavior change in experiments to date. An integration of 47 tests
+showed that a medium-to-large sized change in intention engen-
+ders only a small-to-medium change in behavior. Findings also
+showed that intentions have less impact on behavior when partic-
+ipants lack control over the behavior, when there is potential for
+social reaction, and when circumstances of the performance are
+conducive to habit formation. Thus, this review suggests that
+intentional control of behavior is a great deal more limited than
+previous meta-analyses of correlational studies have indicated.
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+263
+
+Future behavior change interventions should aim not only to
+identify more effective methods of changing intentions but also to
+facilitate the translation of intentions into action by promoting
+intention stability and implementation intention formation. The
+present findings also suggest, however,
+that future behavior
+change efforts might do well to give greater consideration to
+nonintentional routes to action such as prototype perceptions (e.g.,
+Gibbons et al., 2003) and automotives (e.g., Gollwitzer & Bargh,
+2005).
+
+References
+
+An asterisk precedes studies that were included in the meta-analysis.
+
+Aarts, H., Gollwitzer, P. M., & Hassin, R. R. (2004). Goal contagion:
+Perceiving is for pursuing. Journal of Personality and Social Psychol-
+ogy, 87, 23–37.
+
+Abraham, C., Sheeran, P., & Johnston, M. (1998). From health beliefs to
+self-regulation: Theoretical, advances in the psychology of action con-
+trol. Psychology and Health, 13, 569 –591.
+
+Ajzen, I. (1985). From intentions to action: A theory of planned behavior.
+In J. Kuhl & J. Beckmann (Eds.), Action-control: From cognition to
+behavior (pp. 11–39). New York: Springer.
+
+*Ajzen, I. (1971). Attitudinal vs. normative messages: An investigation of
+the differential effects of persuasive communications on behavior. So-
+ciometry, 34, 263–280.
+
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior
+
+and Human Decision Processes, 50, 179 –211.
+
+Ajzen, I. (2002). Residual effects of past on later behavior: Habituation and
+reasoned action perspectives. Personality and Social Psychology Re-
+view, 6, 107–122.
+
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting
+
+social behavior. Englewood Cliffs, NJ: Prentice Hall.
+
+Ajzen, I., & Fishbein, M. (2004). Questions raised by a reasoned action
+approach: Comment on Ogden (2003). Health Psychology, 23, 431– 434.
+Ajzen, I., & Madden, T. J. (1986). Prediction of goal-directed behavior:
+Attitudes, intentions and perceived behavioral control. Journal of Per-
+sonality and Social Psychology, 22, 453– 474.
+
+Albarracı´n, D., Johnson, B. T., Fishbein, M., & Muellerleile, P. A. (2001).
+Theories of reasoned action and planned behavior as models of condom
+use: A meta-analysis. Psychological Bulletin, 127, 142–161.
+
+Armitage, C. J., & Arden, M. A. (2002). Exploring discontinuity patterns
+in the transtheoretical model: An application of the theory of planned
+behavior. British Journal of Health Psychology, 7, 89 –104.
+
+Armitage, C. J., & Conner, M. (2001). Efficacy of the theory of planned
+behaviour: A meta-analytic review. British Journal of Social Psychol-
+ogy, 40, 471–500.
+
+Armitage, C. J., Sheeran, P., Conner, M., & Arden, M. (2004). Stages of
+change or changes of stage? Predicting transitions in transtheoretical
+model stages in relation to healthy food choice. Journal of Consulting
+and Clinical Psychology, 72, 491– 499.
+
+Astrom, A. N., & Rise, J. (2001). Young adults’ intention to eat healthy
+food: Extending the theory of planned behavior. Psychology and Health,
+2, 223–237.
+
+Atkinson, J. W., & Birch, D. (1970). A dynamic theory of action. Cam-
+
+bridge, MA: Harvard University Press.
+
+Austin, J. J., & Vancouver, J. B. (1996). Goal constructs in psychology:
+Structure, process, and content. Psychological Bulletin, 120, 338 –375.
+Bamberg, S. (2002). Effects of implementation intentions on the actual
+performance of new environmentally friendly behaviors. Results of two
+field experiments. Journal of Environmental Psychology, 22, 399 – 411.
+Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice
+
+Hall.
+
+Bandura, A. (1998). Exploration of fortuitous determinants of life paths.
+
+Psychological Inquiry, 9, 95–99.
+
+*Banks, S. M., Salovey, P., Greener, S., Rothman, A. J., Moyer, A.,
+Beauvais, J., & Epel, E. (1995). The effects of message framing on
+mammography utilization. Health Psychology, 14, 178 –184.
+
+Bargh, J. A. (1990). Auto-motives: Preconscious determinants of social
+interaction. In E. T. Higgins & R. M. Sorrentino (Eds.), Handbook of
+Motivation and Cognition (Vol. 2, pp. 93–130). New York: Guilford
+Press.
+
+Bargh, J. A., Gollwitzer, P. M., Lee-Chai, A., Barndollar, K., & Tro¨tschel,
+R. (2001). The automated will: Non-conscious activation and pursuit of
+behavioral goals. Journal of Personality and Social Psychology, 68,
+768 –781.
+
+*Basen-Engquist, K. (1994). Evaluation of a theory based HIV prevention
+intervention for college students. AIDs Education and Prevention, 6,
+412– 424.
+
+*Beck, K. H., & Lund, A. K. (1981). The effects of health threat serious-
+ness and personal efficacy upon intentions and behavior. Journal of
+Applied Social Psychology, 11, 401– 415.
+
+Bem, D. J. (1972). Self-perception theory. In L. Berkowitz (Ed.), Advances
+in experimental social psychology (Vol. 6, pp. 1– 62). San Diego: Aca-
+demic Press.
+
+Blanton, H., van den Eijnden, R. J. J. M., Buunk, B. P., Gibbons, F. X.,
+Gerrard, M., & Bakker, A. (2001). Accentuate the negative: Social
+images in the prediction and promotion of condom use. Journal of
+Applied Social Psychology, 31, 274 –295.
+
+Bootzin, R. (1975). Behavior modification and therapy: An introduction.
+
+Cambridge, MA: Winthrop.
+
+Brandsta¨tter, V., Lengfelder, A., & Gollwitzer, P. M. (2001). Implemen-
+tation intentions and efficient action initiation. Journal of Personality
+and Social Psychology, 81, 946 –960.
+
+Brown, R. A., Ramsey, S. E., Strong, D. R., Myers, M. G., Kahler, C. W.,
+Lejuez, C. W., et al. (2003). Effects of motivational interviewing on
+smoking cessation in adolescents with psychiatric disorders. Tobacco
+Control, 12(Suppl IV), iv3–iv10.
+
+*Brubaker, R. G. & Fowler, C. (1990). Encouraging college males to
+perform testicular self-examination: Evaluation of a persuasive message
+based on the revised theory of reasoned action. Journal of Applied Social
+Psychology, 20, 1411–1422.
+
+Brug, J., Steenhuis, I., van Assema, P., & de Vries, H. (1996). The impact
+of a computer-tailored nutrition intervention. Preventive Medicine, 25,
+236 –242.
+
+*Bryan, A. D., Aiken, L. S. & West, S. G. (1996). Increasing condom use:
+Evaluation of a theory based intervention to prevent sexually transmitted
+diseases in young women. Health Psychology, 15, 371–382.
+
+Budd, R. J. (1987). Response bias and the theory of reasoned action. Social
+
+Cognition, 5, 95–107.
+
+*Burgess, E. S., & Wurtele, S. K. (1998). Enhancing parent– child com-
+munication about sexual abuse: A pilot study. Child Abuse and Neglect,
+22, 1167–1175.
+
+Caplan, R. D., Vinokur, A. D., Price, R. H. & Van Ryn, M. (1989). Job
+seeking, reemployment, and mental health: A randomized field experi-
+ment in coping with job loss. Journal of Applied Psychology, 74,
+759 –769.
+
+*Caron, F., Godin, G., Otis, J., & Lambert, L. D. (2004). Evaluation of a
+theoretically based AIDS/STD peer education program on postponing
+sexual intercourse and on condom use among adolescents attending high
+school. Health Education Research, 19, 185–197.
+
+Carver, C. S., & Scheier, M. F. (1982). Control theory: A useful conceptual
+framework for personality, social, clinical, and health psychology. Psy-
+chological Bulletin, 92, 111–135.
+
+Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior.
+
+Bandura, A. (1989). Human agency in social cognitive theory. American
+
+Cambridge, UK: Cambridge University Press.
+
+Psychologist, 44, 1175–1184.
+
+Chartrand, T. L., & Bargh, J. A. (1996). Automatic activation of impres-
+
+264
+
+WEBB AND SHEERAN
+
+sion formation and memorization goals: Nonconscious goal priming
+reproduces effects of explicit task instructions. Journal of Personality
+and Social Psychology, 71, 464 – 478.
+
+Chartrand, T. L., & Bargh, J. A. (2002). Nonconscious motivations: Their
+activation, operation, and consequences. In A. Tesser, D. Stapel, & J.
+Wood (Eds.), Self and motivation: Emerging psychological perspectives
+(pp. 13– 41). Washington, DC: American Psychological Association.
+*Chatrou, M., Maes, S., Dusseldorp, E., & Seegers, G. (1999). Effects of
+the Brabant smoking prevention programme. A replication of the Wis-
+consin programme. Psychology and Health, 14, 159 –178.
+
+*Cody, R., & Lee, C. (1990). Behaviors, beliefs, and intentions in skin
+
+cancer prevention. Journal of Behavioral Medicine, 13, 373–389.
+
+Cohen, J. (1992). A power primer. Psychological Bulletin, 112, 155–159.
+Conner, M., & McMillan, B. (1999). Interaction effects in the theory of
+planned behaviour: Studying cannabis use. British Journal of Social
+Psychology, 38, 195–222.
+
+Conner, M., & Norman, P. (1996). Predicting health behaviour. Bucking-
+
+ham, UK: Open University Press.
+
+Conner, M., Norman, P., & Bell (2002). The theory of planned behavior
+
+and healthy eating. Health Psychology, 21, 194 –201.
+
+Conner, M., Sheeran, P., Norman, P., & Armitage, C. J. (2000). Temporal
+stability as a moderator of relationships in the theory of planned behav-
+iour. British Journal of Social Psychology, 39, 469 – 493.
+
+Cooke, R., & Sheeran, P. (2004a). Moderation of cognition-intention and
+cognition– behaviour relations: A meta-analysis of properties of vari-
+ables from the theory of planned behaviour. British Journal of Social
+Psychology, 43, 159 –187.
+
+Cooke, R., & Sheeran, P. (2004b). Properties of behavioral intentions:
+Factor structure and implications for behavior, information processing,
+and resistance to attack. Manuscript submitted for publication.
+
+Cooper, H. M. (1986). Integrating research: A guide for literature reviews.
+
+London: Sage.
+
+Courneya, K. S., Nigg, C. R., Estabrooks, P. A. (1998). Relationships
+among the theory of planned behavior, stages of change, and exercise
+behavior in older persons over a three year period. Psychology and
+Health, 13, 355–367.
+
+Courneya, K. S., Plotnikoff, R. C., Hotz, S. B., & Birkett, N. J. (2001).
+Predicting exercise stage transitions over two consecutive 6-month pe-
+riods: A test of the theory of planned behaviour in a population-based
+sample. British Journal of Health Psychology, 6, 135–150.
+
+*Crawley, F. E., & Koballa, T. R. (1992). Hispanic-American students’
+attitudes toward enrolling in high school chemistry. A study of planned
+behaviour and belief-based change. Hispanic Journal of Behavioural
+Sciences, 14, 469 – 486.
+
+*D’Onofrio, C. N., Moskowitz, J. M., & Braverman, M. T. (2002). Cur-
+tailing tobacco use among youth: Evaluation of Project 4-Health. Health
+Education and Behavior, 29, 656 – 682.
+
+*Das, E. H. J., de Wit, J. B. F., & Stroebe, W. (2003). Fear appeals
+motivate acceptance of action recommendations: Evidence for a positive
+bias in the processing of persuasive messages. Personality and Social
+Psychology Bulletin, 29, 650 – 664.
+
+*Detweiler, J. B., Bedell, B. T., Salovey, P., Pronin, E., & Rothman, A. J.
+(1999). Message framing and sunscreen use: Gain-framed messages
+motivate beach-goers. Health Psychology, 18, 189 –196.
+
+*Dholakia, U. M., & Bagozzi, R. P. (2003). As time goes by: How goal and
+implementation intentions influence enactment of short-fuse behaviors.
+Journal of Applied Social Psychology, 33, 889 –922.
+
+Dolcini, M. M., Adler, N. E., Lee, P., & Bauman, K. E. (2003). An
+assessment of the validity of adolescent self-reported smoking using
+three biological indicators. Nicotine and Tobacco Research, 5, 473– 483.
+Doll, J., & Ajzen, I. (1992). Accessibility and stability of predictors in the
+theory of planned behavior. Journal of Personality and Social Psychol-
+ogy, 51, 754 –765.
+
+on sun-protective attitudes, intentions, and behaviors. Dissertation Ab-
+stracts International: Section B: The Sciences and Engineering, 57(6B),
+4019.
+
+Eagly, A. H., & Chaiken, S. (1993). The psychology of attitudes. Fort
+
+Worth: Harcourt Brace Jovanovich.
+
+Eagly, A. H., & Wood, W. (1994). Using research synthesis to plan future
+research. In H. Cooper & L. V. Hedges (Eds.), The handbook of research
+synthesis (pp. 485–500). New York: Russell Sage Foundation.
+
+Emmons, K. E. (2000). Behavioral and social science contributions to the
+health of adults in the United States, In B. R. Smedley & S. L. Syme
+(Eds.), Promoting health: Intervention strategies from social and behav-
+ioral research. Washington, DC: National Academy Press.
+
+Erez, M., & Zidon, I. (1984). Effect of goal acceptance on the relationship
+of goal difficulty to performance. Journal of Applied Psychology, 69,
+69 –78.
+
+Evans, A. E., Edmundson-Drane, E. W., & Harris, K. K.
+
+(2000).
+Computer-assisted instruction: An effective instructional method for
+HIV prevention education? Journal of Adolescent Health, 26, 244 –251.
+Ferguson, E., & Bibby, P. A. (2002). Predicting future blood donor returns:
+Past behavior, intentions, and observer effects. Health Psychology, 21,
+513–518.
+
+Fiore, M. C., Bailey, W. C., Cohen, S. J., Dorfman, S. F., Goldstein, M. G.,
+Gritz, E. R., et al. (1996). Smoking cessation. Rockville, MD: Agency
+for Health Care Policy and Research, U.S. Department of Health and
+Human Services (Clinical practice guideline No. 18. Publication No
+96 – 0692).
+
+Fishbein, M. (1980). A theory of reasoned action: Some applications and
+implications. In H. Howe & M. Page (Eds.), Nebraska Symposium on
+Motivation (Vol. 27, pp. 65–116). Lincoln, NB: University of Nebraska
+Press.
+
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and behavior:
+An introduction to theory and research. Reading, MA: Addison Wesley.
+Fishbein, M., Ajzen, I., & McArdle, J. (1980). Changing the behavior of
+alcoholics: Effects of persuasive communication. In I. Ajzen & M.
+Fishbein (Eds.), Understanding attitudes and predicting social behavior.
+Englewood Cliffs, NJ: Prentice Hall.
+
+*Fitzgerald, A. M., Stanton, B. F., Terreri, N., Shipena, H., Xiaoming, L.,
+Kahihuata, J., et al. (1999). Use of western-based HIV risk reduction
+interventions targeting adolescents in an African setting. Journal of
+Adolescent Health, 25, 52– 61.
+
+Fitzsimons, G. M., & Bargh, J. A. (2003). Thinking of you: Nonconscious
+pursuit of interpersonal goals associated with relationship partners. Jour-
+nal of Personality and Social Psychology, 84, 148 –164.
+
+Floyd, D. L., Prentice-Dunn, S., & Rogers, R. W. (2000). A meta-analysis
+of research on protection motivation theory. Journal of Applied Social
+Psychology, 30, 407– 429.
+
+Foot, H., & Sanford, A. (2004). The use and abuse of student participants.
+
+The Psychologist, 17, 256 –259.
+
+Gagnon, M. P., & Godin, G. (2000). The impact of new antiretroviral
+treatments on college students’ intentions to use a condom with a new
+sexual partner. AIDS Education and Prevention, 12, 239 –251.
+
+Gibbons, F. X., Gerrard, M., Blanton, H., & Russell, D. W. (1998).
+Reasoned action and social reaction: Willingness and intention as inde-
+pendent predictors of health risk. Journal of Personality and Social
+Psychology, 74, 1164 –1180.
+
+Gibbons, F. X., Gerrard, M., Lando, H. A., & McGovern, P. G. (1991).
+Social-comparison and smoking cessation - the role of the typical
+smoker. Journal of Experimental Social Psychology, 27, 239 –258.
+Gibbons, F. X., Gerrard, M., & Lane, D. J. (2003). A social-reaction model
+of adolescent health risk. In J. J. Suls & K. A. Wallston (Eds.), Social
+Psychological Foundations of Health and Illness (pp. 107–136). Oxford,
+England: Blackwell.
+
+*Dukeshire, S. R. (1995). Turning up the head: The effects of fear appeals
+
+*Godin, G., Desharnais, R., Jobin, J., & Cook, J. (1987). The impact of
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+265
+
+physical fitness and health-age appraisal upon exercise intentions and
+behavior. Journal of Behavioral Medicine, 10, 241–250.
+
+size and related estimators. Journal of Educational Statistics, 6, 107–
+128.
+
+Godin, G., Jobin, J., & Bouillon, J. (1986). Assessment of leisure time
+exercise behavior by self-report: A concurrent validity study. Canadian
+Journal of Public Health, 77, 259 –262.
+
+Godin, G., & Kok, G. (1996). The theory of planned behavior: A review of
+it’s applications in health related behavior. American Journal of Health
+Promotion, 11, 87–98.
+
+Godin, G., Lambert, L. D., Owen, N., Nolin, B., & Prud’homme, D.
+(2004). Stages of motivational readiness for physical activity: A com-
+parison of different algorithms of classification. British Journal of
+Health Psychology, 9, 253–267.
+
+Gollwitzer, P. M. (1990). Action phases and mindsets. In E. T. Higgins &
+R. M. Sorrentino (Eds.), The handbook of motivation and cognition:
+Foundations of social behavior (Vol. 2, pp. 53–92). New York: Guilford
+Press.
+
+Gollwitzer, P. M. (1993). Goal achievement: The role of intentions. Eu-
+
+ropean Review of Social Psychology, 4, 141–185.
+
+Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of
+
+simple plans. American Psychologist, 54, 493–503.
+
+Gollwitzer, P. M., & Bargh, J. A. (2005). Automaticity in goal pursuit. In
+A. Elliot & C. Dweck (Eds.), Handbook of competence and motivation.
+New York: Guilford Press.
+
+Gollwitzer, P. M., & Moskowitz, G. B. (1996). Goal effects on action and
+cognition. In E. T. Higgins & A. W. Kruglanski (Eds.), Social psychol-
+ogy: Handbook of basic principles (pp. 361–399). New York: Guilford
+Press.
+
+Gollwitzer, P. M., & Sheeran, P. (in press). Implementation intentions and
+goal achievement: A meta-analysis of effects and processes. Advances in
+Experimental Social Psychology.
+
+*Graham-Clarke, P., & Oldenberg, B. (1994). The effectiveness of a
+general-practice-based physical activity intervention on patient physical
+activity status. Behavior Change, 11, 132–144.
+
+Hagger, M. S., Chatzisarantis, N. L. D., & Biddle, S. J. H. (2002). The
+influence of autonomous and controlling motives on physical activity
+intentions within the theory of planned behaviour. British Journal of
+Health Psychology, 7, 283–298.
+
+Hamilton, D. L., Katz, L. B., & Leirer, V. O. (1980). Cognitive represen-
+tation of personality impression: Organizational processes in first im-
+pression formation. Journal of Personality and Social Psychology, 39,
+1050 –1063.
+
+Hardeman, W., Griffin, C., Johnson, M., Kinmonth, A. K., & Wareham,
+N. J. (2000). Interventions to prevent weight gain: A systematic review
+of psychological models and behavior change methods. International
+Journal of Obesity and Related Metabolic Disorders, 24, 131–143.
+Hardeman, W., Johnston, M., Johnston, D. W., Bonnetti, D., Wareham,
+N. J., & Kinmonth, A. L. (2002). Application of the theory of planned
+behaviour in behaviour change interventions: A systematic review. Psy-
+chology and Health, 17, 123–158.
+
+Hausenblas, H. A., Caron, A. V., & Mack, D. E. (1997). Application of the
+theories of reasoned action and planned behavior to exercise behavior: A
+meta-analysis. Journal of Sport and Exercise Psychology, 19, 36 –51.
+Heatherton, T. F., Kozlowski, L. T., Frecker, R. C., Rickert, W., &
+Robinson, J. (1989). Measuring heaviness of smoking: Using self-
+reported time to first cigarette of the day and number of cigarettes
+smoked per day. British Journal of Addiction, 84, 791– 800.
+
+Heckhausen, H. (1991). Motivation and action. Berlin: Springer-Verlag.
+Heckhausen, H., & Gollwitzer, P. M. (1987). Thought contents and cog-
+nitive functioning in motivational versus volitional states of mind. Mo-
+tivation and Emotion, 11, 101–120.
+
+Hedges, L., & Olkin, I. (1985). Statistical methods for meta-analysis. New
+
+York: Academic Press.
+
+Hedges, L. V. (1981). Distribution theory for Glass’s estimator of effect
+
+Hessing, D. J., Elffers, H., & Wiegel, R. H. (1988). Exploring the limits of
+self-reports and reasoned action: An investigation of the psychology of
+tax-evasion behavior. Journal of Personality and Social Psychology, 54,
+405– 413.
+
+*Hillhouse, J. J., & Turrisi, R. (2002). Examination of the efficacy of an
+appearance-focused intervention to reduce UV exposure. Journal of
+Behavioral Medicine, 25, 395– 409.
+
+*Hine, D. W. & Gifford, R. (1991). Fear appeals, individual differences
+and environmental concern. Journal of Environmental Education, 23,
+36 – 41.
+
+Hovland, C. I., & Weiss, W. (1952). The influence of source credibility in
+communication effectiveness. Public Opinion Quarterly, 15, 635– 650.
+Hunter, J. E., & Schmidt, E. L. (1990). Methods of meta-analysis: Cor-
+recting error and bias in research findings. Newbury Park, CA: Sage.
+*Irvine, A. B., Ary, D. V., Grove, D. A., & Gilfillan-Morton, L. (2004).
+The effectiveness of an interactive multimedia program to influence
+eating habits. Health Education Research, 19, 290 –305.
+
+Jaccard, J., McDonald, R., Wan, C. K., Dittus, P. J., & Quinlan, S. (2002).
+The accuracy of self-reports of condom use and sexual behavior. Journal
+of Applied Social Psychology, 32, 1863–1905.
+
+*Jackson, K. M. (1997). Psychosocial model and intervention to encourage
+sun protective behavior. Dissertation Abstracts International: Section B:
+The Sciences and Engineering, 58, 3368.
+
+James, N. J., Gillies, P. A., & Bignell, C. J. (1998). Evaluation of a
+randomized controlled trial of HIV and sexually transmitted disease
+prevention in a genitourinary medicine clinic setting. AIDS, 12, 1235–
+1242.
+
+Jemmott, J. B., & Jemmott, L. S. (2000). HIV risk reduction behavioral
+interventions with heterosexual adults. AIDS, 14(Suppl. 2), S40 –S52.
+*Jemmott, J. B., Jemmott, L. S. & Fong, G. T. (1998). Abstinence and safer
+sex. HIV risk interventions for African American adolescents. Journal of
+the American Medical Association, 279, 1529 –1536.
+
+Johnson, B. T. (1993). DSTAT. Software for the meta-analytic review of
+research literatures (rev. ed.). [Computer software]. Hillsdale, NJ:
+Erlbaum.
+
+*Jones, L. W., Sinclair, R. C., & Courneya, K. S. (2003). The effects of
+source credibility and message framing on exercise intentions, behav-
+iors, and attitudes: An integration of the Elaboration Likelihood Model
+and Prospect Theory. Journal of Applied Social Psychology, 33, 179 –
+196.
+
+Kalichman, S. C., & Hospers, H. J. (1997). Efficacy of behavioral skills
+enhancement HIV risk-reduction interventions in community settings.
+AIDS, 11(Suppl. A), S191–S199.
+
+Kamal, A.S. (1999). Adult awareness strategies in AIDS health education.
+Dissertation Abstracts International: Section A: Humanities and Social
+Sciences, 60(3A), 0617.
+
+Kanfer, F. H. E., & Goldstein, A. P. E. (1986). Helping people change: A
+
+textbook of methods. New York: Pergamon Press.
+
+Kellar, I., & Abraham, C. (2004). Can the theory of planned behavior
+mediate effects of age and gender on exercise performance and partic-
+ipation among school children? Unpublished manuscript.
+
+Kenny, D. A. (1979). Correlation and causality. New York: Wiley.
+Kenny, D. A., Kashy, D. A., & Bolger, N. (1998). Data-analysis in social
+psychology. In D. Gilbert, S. Fiske, & G. Lindzey (Eds.), The handbook
+of social psychology (Vol. 4, pp. 233–265). New York: Oxford Univer-
+sity Press.
+
+Kiesler, C. A. (1971). The psychology of commitment: Experiments linking
+
+behavior to belief. New York: Academic Press.
+
+Klockner, C. A., Matthies, E., & Hunecke, M. (2003). Problems of opera-
+tionalising habits and integrating habits in normative decision-making
+models. Journal of Applied Social Psychology, 33, 396 – 417.
+
+266
+
+WEBB AND SHEERAN
+
+Kreuter, M. W., & Skinner, C. S. (2000). Tailoring: What’s in a name?
+
+Health Education Research, 15, 1– 4.
+
+Kruglanski, A. W., Shah, J. Y., Fishbach, A., Friedman, R., Chun, W. Y.,
+& Sleeth-Keppler, D. (2002). A theory of goal-systems. Advances in
+Experimental Social Psychology, 34, 311–378.
+
+Langer, E. J. (1975). The illusion of control. Journal of Personality and
+
+Social Psychology, 32, 311–328.
+
+*Lescano, C. M. (1999). Promoting sun-protective behaviors through a
+school plus home intervention. Dissertation Abstracts International:
+Section B: The Sciences and Engineering, 60, 835.
+
+Lewin, K. (1935). A dynamic theory of personality. New York: McGraw-Hill.
+Liska, A. E. (1984). A critical examination of the causal structure of the
+Fishbein/Azjen attitude– behavior model. Social Psychology Quarterly,
+47, 61–74.
+
+Locke, E. A., & Latham, G. P. (1990). A theory of goal-setting and task
+
+performance. Englewood Cliffs, NJ: Prentice Hall.
+
+*Luszcyznska, A., & Schwarzer, R. (2003). Planning and self-efficacy in
+the adoption and maintenance of breast self-examination: A longitudinal
+study on self-regulatory cognitions. Psychology and Health, 18, 93–108.
+Maddux, J. E. (1999). Expectancies and the social cognitive perspective:
+Basic principles, processes, and variables. In I. Kirsch (Ed.), How
+expectancies shape experience (pp. 17– 40). Washington, DC: American
+Psychological Association.
+
+Milne, S., Sheeran, P., & Orbell, S. (2000). Prediction and intervention in
+health related behavior: A meta-analytic review of protection motivation
+theory. Journal of Applied Social Psychology, 30, 143–166.
+
+Mowen, J. C., Middlemist, R. C., & Luther, D. (1981). Joint effects of
+assigned goal level and incentive structure on task performance: A
+laboratory study. Journal of Applied Psychology, 66, 598 – 603.
+
+*Murphy, W. G., & Brubaker, R. G. (1990). Effects of a brief theory based
+intervention on the practice of testicular self-examination by high school
+males. Journal of School Health, 60, 459 – 462.
+
+Oettingen, G., & Gollwitzer, P. M. (2001). Goal setting and goal striving.
+In A. Tesser., & N. Schwarz (Eds.), Blackwell book of social psychol-
+ogy:
+(pp. 329 –348). Oxford, England:
+Blackwell.
+
+Intraindividual processes
+
+Orbell, S., & Sheeran, P. (1998). Inclined abstainers: A problem for
+predicting health-related behaviour. British Journal of Social Psychol-
+ogy, 37, 151–165.
+
+Ouellette, J. A., & Wood, W. (1998). Habit and intention in everyday life:
+The multiple processes by which past behavior predicts future behavior.
+Psychological Bulletin, 124, 57–74.
+
+Palmer, C. L., Burwitz, L., Smith, N. C., & Barrie, A. (2000). Enhancing
+fitness-training adherence of elite netball players: An evaluation of
+Maddux’s revised theory of planned behavior. Journal of Sport Sciences,
+18, 627– 641.
+
+Maddux, J. E., & Rogers, R. W. (1983). Protection motivation and self-
+efficacy: A revised theory of fear appeals and attitude change. Journal
+of Experimental Social Psychology, 19, 469 – 479.
+
+Pierce, J. P., Dwyer, T., Frape, G., Chapman, S., Chamberlain, A., &
+Burke, N. (1986). Evaluation of the Sydney “quit for life” anti-smoking
+campaign. Medical Journal of Australia, 144, 341–346.
+
+*Mahler, H. I. M., Fitzpatrick, B., Barker, P., & Lapin, A. (1997). The
+relative effects of a health-based versus an appearance-based interven-
+tion designed to increase sunscreen use. American Journal of Health
+Promotion, 11, 426 – 429.
+
+*Mahler, H. I. M., Kulik, J. A., Gibbons, F. X., Gerrard, M., & Harrell, J.
+(2003). Effects of appearance-based interventions on sun protective
+intentions and self-reported behaviors. Health Psychology, 22, 199 –209.
+*Main, D. S., Iverson, D. C., & McGloin, J. (1994). Preventing HIV
+infection among adolescents: Evaluation of a school-based education
+program. Preventive Medicine, 23, 409 – 417.
+
+*Martinez, R., Levine, D. W., Martin, R., & Altman, D. G. (1996). Effect
+of integration of injury control information into a high school physics
+course. Annals of Emergency Medicine, 27, 216 –224.
+
+*Martinez, T. B. (1999). Message framing and college students HIV
+preventative behavior. Dissertation Abstracts International: Section B:
+The Sciences and Engineering, 60, 4303.
+
+Mauro, R. (1990). Understanding L. O. V. E (left out variables error): A
+method for estimating the effects of omitted variables. Psychological
+Bulletin, 108, 314 –329.
+
+*Melendez, R. M., Hoffman, S., Exner, T., Leu, C-S., & Ehrhardt, A. A.
+(2003). Intimate partner violence and safer sex negotiation: Effects of a
+gender-specific intervention. Archives of Sexual Behavior, 32, 499 –511.
+Mento, A. J., Steel, R. P., & Karren, R. J. (1987). A meta-analytic study of
+the effects of goal-setting on task-performance, 1966 to 1984. Organi-
+zational Behavior and Human Decision Processes, 39, 52– 83.
+
+Mermelstein, R., Lichtenstein, E., & McIntyre, K. (1983). Partner support
+and relapse in smoking cessation programs. Journal of Consulting and
+Clinical Psychology, 51, 465– 466.
+
+Meyerowitz, B. E., & Chaiken, S. (1987). The effect of message framing
+on breast self-examination attitudes, intentions and behavior. Journal of
+Personality and Social Psychology, 52, 500 –510.
+
+Michie, A. J., & Abraham, C. (2004). Interventions to change health
+behaviours: Evidence-based or evidence-inspired? Psychology and
+Health, 19, 29 – 49.
+
+*Milne, S. E., Orbell, S., & Sheeran, P. (2002). Combining motivational
+and volitional interventions to promote exercise participation: Protection
+motivation theory and implementation intentions. British Journal of
+Social Psychology, 7, 163–184.
+
+Plotnikoff, R. C., & Higginbottom, N. (1995). Predicting low fat diet
+intentions and behaviours for the prevention of coronary heart disease:
+An application of protection motivation theory among an Australian
+population. Psychology and Health, 10, 397– 408.
+
+Pornpitakpan, C. (2004). The persuasiveness of source credibility: A crit-
+ical review of five decades’ evidence. Journal of Applied Social Psy-
+chology, 34, 243–281.
+
+Povey, R., Conner, M., Sparks, P., James, R., & Shepherd, R. (2000). The
+theory of planned behaviour and health eating: Examining additive and
+moderating effects of social influence variables. Psychology and Health,
+14, 991–1006.
+
+Prochaska, J. O., & DiClemente, C. C. (1984). The transtheoretical ap-
+proach: Crossing the traditional boundaries of change. Homewood, IL:
+Irwin.
+
+*Quine, L., Rutter, D. R., & Arnold, L. (2001). Persuading school age
+cyclists to use safety helmets: Effectiveness of an intervention based on
+the theory of planned behaviour. British Journal of Health Psychology,
+6, 327–346.
+
+Raats, M. M., Sparks, P., Geekie, M. A., & Shepherd, R. (1999). The
+effects of providing personalized dietary feedback. A semicomputerized
+approach. Patient Education and Counseling, 37, 177–189.
+
+Randall, D. M., & Wolff, J. A. (1994). The time interval in the intention-
+behaviour relationship. Meta-analysis. British Journal of Social Psychol-
+ogy, 33, 405– 418.
+
+Rippetoe, P. A., & Rogers, R. W. (1987). Effects of components of a
+protection motivation theory on adaptive and maladaptive coping with a
+health threat. Journal of Personality and Social Psychology, 52, 596 –
+604.
+
+Rogers, R. W. (1983). Cognitive and physiological processes in fear
+appeals and attitude change: A revised theory of protection motivation.
+In J. T. Cacioppo & R. E. Petty (Eds.), Social psychophysiology: A
+sourcebook. London: Guilford Press.
+
+Rosenstock, I. M. (1974). Historical origins of the health belief model.
+
+Health Education Monographs, 2, 1– 8.
+
+Rosenthal, R. (1979). The “file drawer problem” and tolerance for null
+
+results. Psychological Bulletin, 86, 638 – 641.
+
+Rutter, D. R., Quine, L., & Chesham, D. J. (1993). Social psychological
+
+approaches to health. Hemel Hempstead: Harvester Wheatsheaf.
+
+META-ANALYSIS OF BEHAVIOR CHANGE
+
+267
+
+*Sanderson, C. A., & Jemmott, J. B. (1996). Moderation and mediation of
+HIV-prevention interventions: Relationship status, intentions and con-
+dom use among college students. Journal of Applied Social Psychology,
+26, 2076 –2099.
+
+Schwarzer, R. (1988). Meta: Programs for secondary data analysis. Ber-
+
+lin: Free University of Berlin.
+
+Schwarzer, R. (1992). Self-efficacy in the adoption and maintenance of
+health behaviors: Theoretical approaches and a new model. In R.
+Schwarzer (Ed.), Self-efficacy: Thought control of action (pp. 217–242).
+Washington, DC: Hemisphere.
+
+Schwarzer, R. (1999). Self-regulatory processes in the adoption and main-
+tenance of health behaviors: The role of optimism, goals, and threats.
+Journal of Health Psychology, 4, 115–127.
+
+Sears, D. O. (1986). College sophomores in the laboratory: Influences of a
+narrow database on social psychology’s view of human nature. Journal
+of Personality and Social Psychology, 51, 515–530.
+
+*Stanton, B. F., Li, X., Ricardo, I., Galbraith, J., Feigelman, S., & Kaljee,
+L. (1996). A randomized, controlled effectiveness trial of an AIDS
+prevention program for low-income African-American youths. Archives
+of Pediatric and Adolescent Medicine, 150, 363–372.
+
+Steffen, V. J. (1990). Men’s motivation to perform the testicle self-exam:
+Effects of prior knowledge and an educational brochure. Journal of
+Applied Social Psychology, 20, 681–702.
+
+*Steffen, V. J., Sternberg, L., Teegarden, L. A., & Shepherd, K. (1994).
+Practice and persuasive frame: Effects on beliefs, intentions, and per-
+formance of a cancer self-examination. Journal of Applied Social Psy-
+chology, 24, 897–925.
+
+Sutton, S. (1998). Predicting and explaining intentions and behavior: How
+well are we doing? Journal of Applied Social Psychology, 28, 1317–
+1338.
+
+Sutton, S. (2000). Interpreting cross-sectional data on stages of change.
+
+Psychology and Health, 15, 163–171.
+
+Sheeran, P. (2002). Intention-behaviour relations: A conceptual and em-
+pirical review. In W. Stroebe & M. Hewstone (Eds.), European review
+of social psychology, (Vol. 12, pp. 1–36). London: Wiley.
+
+*Sutton, S., & Hallett, R. (1988). Smoking intervention in the workplace
+using videotapes and nicotine chewing gum. Preventive Medicine, 17,
+48 –59.
+
+Sheeran, P., & Abraham, C. (2003). Mediator of moderators: Temporal
+stability of intention and the intention– behavior relation. Personality
+and Social Psychology Bulletin, 29, 205–215.
+
+Sheeran, P., Abraham, C., & Orbell, S. (1999). Psychosocial correlates of
+heterosexual condom use: A meta-analysis. Psychological Bulletin, 125,
+90 –132.
+
+Sheeran, P., & Orbell, S. (1998). Do intentions predict condom use?
+Meta-analysis and examination of six moderator variables. British Jour-
+nal of Social Psychology, 37, 231–250.
+
+Sheeran, P., & Orbell, S. (2000). Using implementation intentions to
+increase attendance for cervical cancer screening. Health Psychology,
+19, 283–289.
+
+Sheeran, P., Orbell, S., & Trafimow, D. (1999). Does the temporal stability
+of behavioral intentions moderate intention– behavior and past behavior–
+future behavior relations? Personality and Social Psychology Bulletin,
+25, 721–730.
+
+Sheeran, P., Trafimow, D., & Armitage, C. J. (2003). Predicting behaviour
+from perceived behavioural control: Tests of the accuracy assumption of
+the theory of planned behaviour. British Journal of Social Psychology,
+42, 393– 410.
+
+*Sheeran, P., Webb, T. L., & Gollwitzer, P. M. (2003). Implementation
+
+intention effects are goal-dependent. Unpublished manuscript.
+
+Sheeran, P., Webb, T. L., & Gollwitzer, P. M. (2005). The interplay
+between goal intentions and implementation intentions. Personality and
+Social Psychology Bulletin, 31, 87–98.
+
+Sheppard, B. H., Hartwick, J., & Warshaw, P. R. (1988). The theory of
+reasoned action: A meta-analysis of past research with recommendations
+for modifications and future research. Journal of Consumer Research,
+15, 325–343.
+
+Tedesco, L. A., Keffer, M. A., Davis, E. L., & Christersson, L. A. (1993).
+Self-efficacy and reasoned action: Predicting oral health status and
+behaviour at 1, 3, and 6 month intervals. Psychology and Health, 8,
+105–121.
+
+* Tesar, C. M. (1996). Peer education intervention and change in HIV
+related knowledge, attitudes, intentions, and behaviors in college stu-
+dents. Dissertation Abstracts International: Section A: Humanities and
+Social Sciences, 57, 2376.
+
+*Thompson, S. C., Kyle, D., Swan, J., Thomas, C., & Vrungos, S. (2002).
+Increasing condom use by undermining perceived invulnerability to
+HIV. AIDS Education and Prevention, 14, 505–514.
+
+Thornton, B., Gibbons, F. X., & Gerrard, M. (2002). Risk perception and
+prototype perception: Independent processes predicting risk behavior.
+Personality and Social Psychology Bulletin, 28, 986 –999.
+
+Trafimow, D., Sheeran, P., Conner, K., & Finlay, K. A. (2002). Evidence
+that perceived behavioural control is a multidimensional construct: Per-
+ceived control and perceived difficulty. British Journal of Social Psy-
+chology, 41, 101–122.
+
+Triandis, H. C. (1977). Interpersonal behaviour. Monterey, CA: Brooks/
+
+Cole.
+
+Triandis, H. C. (1980). Values, attitudes, and interpersonal behavior. In
+H. E. Howe, Jr. & M. Page (Eds.), Nebraska symposium of motivation
+(Vol. 27, pp. 195–259). Lincoln: University of Nebraska Press.
+
+Van den Putte, B. (1991). 20 years of the theory of reasoned action of
+Fishbein and Ajzen: A meta-analysis. Unpublished manuscript. Univer-
+sity of Amsterdam.
+
+Verplanken, B., Aarts, H., van Knippenberg, A., & Moonen, A. (1998).
+Habit versus planned behaviour: A field experiment. British Journal of
+Social Psychology, 37, 111–128.
+
+Silagy, C., Mant, D., Fowler, G., & Lodge, M. (1994). Meta-analysis on
+efficacy of nicotine replacement therapies in smoking cessation. Lancet,
+343, 139 –142.
+
+Webb, T. L., & Sheeran, P. (2005). Integrating concepts from goal theories
+to understand the achievement of personal goals. European Journal of
+Social Psychology, 35, 69 –96.
+
+*Slonim-Nevo, V., Auslander, W. F., Ozawa, M. N., & Jung, K. G. (1996).
+The long-term impact of AIDS preventive interventions for delinquent
+and abused adolescents. Adolescence, 31, 409 – 421.
+
+Smith, B. N., & Stasson, M. F. (2000). A comparison of health behavior
+constructs: Social psychological predictors of AIDs-preventive behav-
+ioral intentions. Journal of Applied Social Psychology, 30, 443– 462.
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in
+structural models. In S. Leinhardt (Ed.), Sociological Methodology (pp.
+290 –312). San Francisco: Jossey-Bass.
+
+Srull, T. K., & Wyer, R. S. (1979). The role of category accessibility in the
+interpretation of information about persons: Some determinants and
+implications. Journal of Personality and Social Psychology, 37, 1660 –
+1672.
+
+Weinstein, N. D. (1988). The precaution adoption process. Health Psy-
+
+chology, 7, 355–386.
+
+Weinstein, N. D., & Sandman, P. M. (1992). A model of the precaution
+adoption process. Evidence from home radon testing. Health Psychol-
+ogy, 11, 170 –180.
+
+Wicker, A. W. (1969). Attitudes versus actions: The relationship of verbal
+and overt behavioral responses to attitude objects. Journal of Social
+Issues, 25, 41–78.
+
+Wills, T. A., Gibbons, F. X., Gerrard, M., & Brody, G. H. (2000). Protection
+and vulnerability processes for early onset of substance abuse: A test among
+African American children. Health Psychology, 19, 253–263.
+
+Wood, W., & Quinn, J. M. (2005). Habits and the structure of motivation
+in everyday life. In J. P. Forgas, K. D. Williams, & W. Hippel (Eds.),
+
+268
+
+WEBB AND SHEERAN
+
+Social motivation: Conscious and unconscious processes (pp. 55–70).
+New York: Cambridge University Press.
+
+Wood, W., Quinn, J. M., & Kashy, D. (2002). Habits in everyday life: The
+thought and feel of action. Journal of Personality and Social Psychol-
+ogy, 83, 1281–1297.
+
+*Wurtele, S. K. (1988). Increasing women’s calcium intake: The role of
+health beliefs, intentions and health value. Journal of Applied Social
+Psychology, 18, 627– 639.
+
+*Wurtele, S. K., & Maddux, J. E. (1987). Relative contributions of pro-
+tection motivation theory components in predicting exercise intentions
+and behavior. Health Psychology, 6, 453– 466.
+
+Received October 19, 2004
+Revision received July 18, 2005
+
+Accepted August 16, 2005 (cid:1)

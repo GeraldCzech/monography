@@ -1,0 +1,901 @@
+The Impact of Brand Equity Dimensions on Purchase Intention:
+Empirical Evidence from the Vietnamese Life Insurance Market
+PhD Student Bui Tien Thanh, Assoc. Prof. Le Quang Hieu, PhD Le Thi Lan 
+Faculty of Economics and Business Administration, Hong Duc University, Vietnam
+
+Abstract
+This study investigates the impact of brand equity dimensions - brand awareness, brand
+associations, perceived quality, and brand loyalty - on purchase intention in the Vietnamese life
+insurance market. Drawing upon Aaker’s (1991) and Keller’s (1993) customer-based brand equity
+framework and the Theory of Planned Behavior, the study employs a quantitative approach using
+survey data from 350 customers analyzed via SmartPLS 4. The results confirm that all four brand
+equity dimensions positively and significantly influence purchase intention, with brand loyalty
+exhibiting the strongest effect, followed by perceived quality, brand awareness, and brand
+associations. These findings highlight the dual cognitive - affective nature of brand equity,
+emphasizing that trust and emotional attachment are critical in shaping consumers’ decisions for
+high-involvement financial services. The study contributes to the literature by validating the
+multidimensional brand equity model within an emerging Asian market context. Managerially, it
+underscores the importance of enhancing customer loyalty, ensuring service reliability, and
+maintaining transparent communication to foster long-term trust and brand sustainability in
+Vietnam’s competitive life insurance industry.
+Keywords: Brand equity, Brand loyalty, Perceived quality, Purchase intention, Life insurance, Vietnam.
+JEL Classification codes: G22.
+Suggested citation: Thanh, B.T., Hieu, L.Q., & Lan, L.T. (2026). The Impact of Brand Equity
+Dimensions on Purchase Intention: Empirical Evidence from the Vietnamese Life Insurance
+Market. European Journal of Management, Economics and Business, 3(1), 213-226. DOI:
+10.59324/ejmeb.2026.3(1).18
+
+Introduction
+In recent years, brand equity has become a crucial strategic concept for firms seeking to create
+sustainable competitive advantages, particularly in service industries where intangible offerings
+make evaluation difficult prior to purchase. According to Aaker (1991), brand equity represents a
+set of brand assets and liabilities linked to a brand’s name and symbol that add to or subtract from
+the value provided by a product or service (Negash, 2018). Similarly, Keller (1993) conceptualized
+customer-based brand equity (CBBE) as the differential effect of brand knowledge on consumer
+response to marketing activities. These perspectives highlight that strong brand equity can
+influence consumer perceptions, preferences, and ultimately purchase intentions (Yoo & Donthu,
+2001; Buil et al., 2013).
+This work is licensed under a Creative Commons Attribution 4.0 International License. The license permits
+unrestricted use, distribution, and reproduction in any medium, on the condition that users give exact credit to
+the original author(s) and the source, provide a link to the Creative Commons license, and indicate if they
+made any changes.
+
+The insurance industry provides a compelling context for studying brand equity because of its high
+involvement and risk-perception nature. Unlike tangible goods, life insurance products are
+complex, long-term commitments whose benefits cannot be directly experienced at the point of
+purchase. Therefore, customers rely heavily on brand cues as signals of credibility, reliability, and
+quality (Erdem & Swait, 2004; Dawes et al., 2015). A strong brand can reduce perceived risk,
+increase trust, and enhance consumers’ willingness to purchase insurance services (DelgadoBallester & Munuera-Alemán, 2005; de Chernatony & McDonald, 2003).
+Vietnam’s life insurance market has undergone rapid expansion over the past decade, reflecting the
+country’s economic growth and rising middle class. According to the Ministry of Finance of
+Vietnam (2023), the total premium revenue of the life insurance sector reached over VND 180
+trillion in 2022, accounting for nearly 70% of the insurance market’s total revenue. Despite this
+remarkable growth, the market remains highly competitive, with more than 20 domestic and
+foreign life insurers vying for customer trust and loyalty. In such an environment, brand equity
+serves as a critical differentiator that can shape consumers’ purchase intentions and foster longterm relationships.
+While numerous studies have examined brand equity in sectors such as fast-moving consumer
+goods (Yoo & Donthu, 2001; Buil et al., 2013) and retail services (Pappu et al., 2005), empirical
+evidence from the life insurance industry - especially in emerging markets like Vietnam - remains
+scarce. Moreover, given the unique cultural and behavioral characteristics of Vietnamese
+consumers, including a high level of uncertainty avoidance and strong reliance on interpersonal
+trust (Hofstede Insights, 2023), the dynamics between brand equity dimensions and purchase
+intention may differ from those observed in Western contexts.
+Against this background, the present study aims to examine the impact of brand equity dimensions
+- brand awareness, brand associations, perceived quality, and brand loyalty - on purchase intention
+in the Vietnamese life insurance market. Drawing on Aaker’s (1991) and Keller’s (1993)
+frameworks of brand equity and grounded in the Theory of Planned Behavior (Ajzen, 1991), the
+study develops and tests a conceptual model using survey data from customers of Hanwha Life
+Vietnam. By identifying the relative importance of brand equity components, this research
+contributes to the literature by extending the applicability of brand equity theories to a service
+context in an emerging market. From a managerial perspective, the findings will provide actionable
+insights for insurance firms to strengthen brand positioning, improve perceived quality, and foster
+customer loyalty.
+
+Literature Review and Hypotheses Development
+Brand Equity and Its Dimensions
+Brand equity has been recognized as a multidimensional construct that represents the value added
+to a product or service by its brand name (Aaker, 1991; Keller, 1993). From a customer-based
+perspective, brand equity captures consumers’ perceptions and responses to brand-related stimuli
+(Keller, 2003). Aaker (1991) proposed four key dimensions of brand equity: brand awareness, brand
+associations, perceived quality, and brand loyalty. Together, these dimensions explain how
+consumers evaluate brands and how such evaluations influence their behavioral intentions (Yoo &
+Donthu, 2001).
+Empirical studies have consistently demonstrated that strong brand equity leads to favorable
+consumer attitudes and behavioral outcomes, including higher satisfaction, trust, and purchase
+intention (Pappu, Quester & Cooksey, 2005; Buil, de Chernatony & Martínez, 2013). In the context
+of services, particularly financial and insurance services, brand equity serves as a signal of credibility
+
+214
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+and risk reduction (Erdem & Swait, 2004). The following subsections review each dimension of
+brand equity and its hypothesized relationship with purchase intention.
+Brand Awareness and Purchase Intention
+Brand awareness refers to the ability of consumers to recognize and recall a brand under different
+conditions (Keller, 1993). It reflects the strength of a brand’s presence in consumers’ minds and
+influences how likely it is to be considered during purchase decisions (Percy & Rossiter, 1992).
+When consumers are familiar with a brand, they tend to perceive it as more reliable and trustworthy,
+especially in high-risk service contexts such as insurance (Rossiter & Percy, 1997). Prior research
+confirms that higher brand awareness increases consumers’ confidence and reduces perceived risk,
+thereby enhancing their intention to purchase (Huang & Sarigöllü, 2012; Foroudi et al., 2018).
+H1: Brand awareness has a positive effect on purchase intention.
+Brand Associations and Purchase Intention
+Brand associations encompass the meanings, images, and attributes linked to a brand in consumers’
+memory (Aaker, 1991; Keller, 1993). These associations may include perceptions of company
+reputation, product quality, emotional appeal, and social responsibility. In the life insurance sector,
+strong and favorable associations - such as trustworthiness, financial stability, and caring service can significantly influence customer choice (Low & Lamb, 2000; Chen, 2001). Empirical evidence
+suggests that brand associations play a critical role in shaping consumers’ perceived value and
+purchase intention (Agarwal & Rao, 1996; Tong & Hawley, 2009).
+H2: Brand associations have a positive effect on purchase intention.
+Perceived Quality and Purchase Intention
+Perceived quality is defined as the consumer’s judgment about the overall excellence or superiority
+of a product or service (Zeithaml, 1988). It represents the customer’s subjective evaluation rather
+than an objective assessment of quality. In services like insurance, perceived quality is particularly
+salient because consumers face uncertainty regarding the provider’s reliability and performance.
+Studies have shown that perceived quality not only enhances customer satisfaction but also builds
+trust and willingness to purchase (Yoo, Donthu & Lee, 2000; Buil et al., 2013). In Vietnam’s life
+insurance market, where information asymmetry and skepticism toward service providers remain
+prevalent, perceived quality is expected to be a decisive determinant of purchase intention.
+H3: Perceived quality has a positive effect on purchase intention.
+Brand Loyalty and Purchase Intention
+Brand loyalty represents a consumer’s commitment to repurchase or continue using a brand’s
+products or services in the future (Oliver, 1999). Loyal customers are less sensitive to price changes
+and more resistant to competitive offerings (Chaudhuri & Holbrook, 2001). In the insurance
+context, loyalty reflects long-term relationships built on satisfaction, trust, and positive prior
+experiences (Mittal & Kamakura, 2001). High brand loyalty not only increases repeat purchases but
+also enhances word-of-mouth and brand advocacy (Dick & Basu, 1994). Numerous studies have
+confirmed a strong and direct relationship between brand loyalty and purchase intention across
+various industries (Yoo & Donthu, 2001; Nam, Ekinci & Whyatt, 2011).
+H4: Brand loyalty has a positive effect on purchase intention.
+Conceptual Framework
+Based on the above literature, this study conceptualizes a model linking four dimensions of brand
+equity - brand awareness, brand associations, perceived quality, and brand loyalty - to purchase
+intention in the Vietnamese life insurance market. The model draws upon the customer-based
+
+215
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+brand equity framework (Aaker, 1991; Keller, 1993) and integrates behavioral insights from the
+Theory of Planned Behavior (Ajzen, 1991), which suggests that favorable brand beliefs and
+attitudes influence consumers’ behavioral intentions. Figure 1 illustrates the proposed conceptual
+framework and hypothesized relationships among constructs.
+
+Research Methodology
+Research Design
+This study adopts a quantitative research design to empirically examine the relationships between
+the dimensions of brand equity and purchase intention in the Vietnamese life insurance market.
+Given the explanatory nature of the research model, a cross-sectional survey was conducted among
+individual customers of Hanwha Life Vietnam, one of the leading life insurance providers in the
+country. The quantitative approach was selected because it allows for testing hypothesized causal
+relationships between constructs and generalizing findings across a larger population (Hair, Hult,
+Ringle, & Sarstedt, 2021).
+The study follows the variance-based structural equation modeling (PLS-SEM) technique using
+SmartPLS 4 software. PLS-SEM is appropriate when the research objective is theory development
+rather than theory confirmation, and when the model includes multiple latent constructs measured
+by several indicators (Hair et al., 2021; Ringle, Wende, & Becker, 2015). This method also
+accommodates non-normal data distributions and moderate sample sizes, making it suitable for
+consumer survey data collected in emerging markets such as Vietnam.
+Sampling and Data Collection
+The target population comprised individual customers who have purchased or considered
+purchasing life insurance policies from Hanwha Life Vietnam. A purposive sampling method was
+employed to ensure that respondents possessed relevant knowledge and experience with the brand.
+Data were collected through a structured questionnaire distributed both online and in person
+between April and June 2024.
+A total of 400 questionnaires were distributed, of which 362 were returned and 350 were deemed
+valid for analysis after screening for completeness and response quality. This sample size satisfies
+the minimum sample requirement for PLS-SEM, following the “10-times rule” (Hair et al., 2019),
+as well as recommendations for achieving statistical power above 0.80 (Cohen, 1992). Respondents
+represented diverse demographic profiles, including gender, age, income, and duration of insurance
+participation, ensuring heterogeneity of perspectives.
+Measurement Instruments
+All constructs in this study were measured using multi-item scales adapted from prior validated
+research, with minor contextual adjustments for the insurance sector in Vietnam. Each item was
+rated on a five-point Likert scale ranging from 1 (“strongly disagree”) to 5 (“strongly agree”) (Luo,
+et al., 2024).
+Table 1. Measurement Items
+Code
+Statement
+Brand Awareness (BA)
+BA1
+I am aware of several life insurance brands available in Vietnam.
+BA2
+I can recognize a life insurance company’s name or logo when
+I see it.
+
+Source (author, year)
+Yoo & Donthu (2001)
+Keller (1993); Yoo & Donthu (2001)
+
+216
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+BA3
+
+When someone mentions “life insurance,” I can quickly recall
+specific brand names.
+BA4
+I have seen advertising or communications from life insurance
+companies in Vietnam that I remember.
+Brand Associations (BAS)
+BAS1
+I associate life insurance companies in Vietnam with financial
+stability and trust.
+BAS2
+Life insurance brands convey images of professional and caring
+service.
+BAS3
+I associate leading life insurers with clear and positive corporate
+reputation.
+BAS4
+I associate life insurance brands with helpful and
+understandable product information.
+BAS5
+I perceive some life insurance brands as socially responsible
+(e.g., customer-care, community programs).
+Perceived Quality (PQ)
+PQ1
+In general, life insurance companies in Vietnam provide highquality service.
+PQ2
+Life insurance companies deliver on the service promises they
+make to customers.
+PQ3
+Compared with other financial service providers, life insurers
+in Vietnam offer superior product/service quality.
+PQ4
+The processes (e.g., claims handling, policy servicing) of life
+insurers are reliable and consistent.
+Brand Loyalty (BL)
+BL1
+If I currently hold a life insurance policy, I intend to renew it
+with the same company.
+BL2
+I would recommend my life insurance provider to friends or
+family.
+BL3
+I prefer to continue with my current life insurer even if other
+companies offer similar policies.
+BL4
+I consider myself loyal to at least one life insurance brand in
+Vietnam.
+Purchase Intention (PI)
+PI1
+I intend to purchase a life insurance policy from a reputable life
+insurance company in Vietnam within the next 12 months.
+PI2
+I am likely to consider buying life insurance from companies
+that have strong brand reputations.
+PI3
+I would choose a well-known life insurance brand over an
+unknown company when purchasing a policy.
+PI4
+It is likely that I will recommend buying life insurance to others
+based on brand impressions.
+
+Keller (1993)
+Buil, de Chernatony & Martínez
+(2013)
+Aaker (1991); Chen (2001)
+Chen (2001); Low & Lamb (2000)
+Low & Lamb (2000)
+Keller (1993); Aaker (1991)
+Buil et al. (2013)
+Zeithaml (1988); Yoo, Donthu &
+Lee (2000)
+Zeithaml (1988)
+Buil et al. (2013); Yoo et al. (2000)
+Zeithaml (1988)
+Oliver (1999)
+Chaudhuri & Holbrook (2001)
+Yoo & Donthu (2001)
+Oliver (1999)
+Dodds, Monroe & Grewal (1991);
+Pappu et al. (2005)
+Buil et al. (2013)
+Dodds et al. (1991)
+Pappu et al. (2005)
+
+The questionnaire was first developed in English, then translated into Vietnamese following a backtranslation procedure (Brislin, 1980) to ensure conceptual and linguistic equivalence. A pilot test
+was conducted with 30 respondents to check clarity, relevance, and reliability. Based on feedback,
+minor wording adjustments were made to improve comprehension.
+Data Analysis Procedure
+Data analysis proceeded in two main stages: (1) assessment of the measurement model and (2)
+evaluation of the structural model (Hair et al., 2021).
+In the measurement model assessment, internal consistency reliability was evaluated using
+Cronbach’s alpha and composite reliability (CR), both of which should exceed 0.70 (Nunnally &
+Bernstein, 1994). Convergent validity was examined via factor loadings (>0.70) and average
+
+217
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+variance extracted (AVE > 0.50), while discriminant validity was verified using the heterotrait–
+monotrait ratio (HTMT < 0.85) (Henseler, Ringle, & Sarstedt, 2015).
+For the structural model assessment, path coefficients and coefficient of determination (R²) were
+estimated to assess the predictive power of the model. The significance of hypothesized
+relationships was tested through a bootstrapping procedure with 5,000 resamples. Additionally,
+effect sizes (f²) and predictive relevance (Q²) were computed to evaluate the magnitude and
+predictive accuracy of the model (Chin, 1998). Multicollinearity was assessed using variance
+inflation factors (VIF < 5), confirming the absence of collinearity issues.
+Ethical Considerations
+Participation in the study was voluntary, and all respondents were informed of the research purpose
+and confidentiality of their responses. No identifying personal data were collected. Ethical approval
+was obtained from the research committee of the authors’ affiliated university prior to data
+collection, in accordance with standard research ethics procedures.
+
+Results
+Sample Characteristics
+A total of 350 valid responses were collected from individual customers with experience purchasing
+or considering life insurance in Vietnam. Among respondents, 52.6% were female and 47.4% were
+male. The majority of respondents were between 25 and 44 years old (61.2%), followed by those
+aged 45–60 (27.5%) and those under 25 years old (11.3%). In terms of income, 57.7% earned
+between 10 and 25 million VND per month, 22.3% earned above 25 million VND, and 20.0%
+earned below 10 million VND. Regarding insurance experience, 63% had already purchased at least
+one life insurance policy, while 37% were potential customers who were considering buying one.
+More than half of respondents (54.9%) reported that they had known about their insurance
+provider for more than three years, suggesting that participants were sufficiently informed to
+evaluate brand-related factors.
+These characteristics indicate that the sample is well distributed and representative of the
+Vietnamese life insurance market, where brand equity and customer loyalty play important roles in
+shaping purchasing behavior.
+Table 2. Respondents’ Information
+Variable
+Gender
+Age group
+Monthly income (VND)
+Experience
+with life
+insurance
+Duration of relationship
+with insurer
+
+Category
+Male
+Female
+Under 25 years
+25–44 years
+45–60 years
+< 10 million
+10–25 million
+> 25 million
+Already purchased
+Considering purchase
+< 1 year
+1–3 years
+> 3 years
+
+Frequency (n)
+166
+184
+40
+214
+96
+70
+202
+78
+221
+129
+64
+94
+192
+
+Percentage (%)
+47.4
+52.6
+11.3
+61.2
+27.5
+20.0
+57.7
+22.3
+63.1
+36.9
+18.3
+26.8
+54.9
+
+Source: Authors’ survey data (2024).
+
+218
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+Measurement Model Evaluation
+The measurement model was evaluated in terms of internal consistency reliability, convergent
+validity, and collinearity diagnostics. As shown in Table 3, all outer loadings ranged from 0.804 to
+0.889, exceeding the recommended threshold of 0.70 (Hair et al., 2021), demonstrating good
+indicator reliability. Cronbach’s alpha coefficients for all constructs were above 0.86, with the
+highest value being 0.904 (BA), confirming internal consistency reliability. Composite reliability
+(CR) values ranged from 0.906 to 0.932, all exceeding 0.70, further indicating construct reliability.
+Convergent validity was confirmed as all Average Variance Extracted (AVE) values exceeded 0.50,
+ranging from 0.707 (PI) to 0.775 (BA), satisfying the Fornell–Larcker criterion. Variance Inflation
+Factor (VIF) values for individual items were between 1.902 and 2.715, all well below the threshold
+of 3.0, indicating the absence of multicollinearity issues.
+Table 3. Measurement Model Summary
+Construct
+
+Outer Loading
+Range
+0.867–0.888
+0.804–0.879
+0.859–0.879
+0.821–0.858
+0.843–0.889
+
+Brand Awareness (BA)
+Brand Associations (BAS)
+Brand Loyalty (BL)
+Purchase Intention (PI)
+Perceived Quality (PQ)
+
+Cronbach’s α
+
+CR
+
+AVE
+
+VIF Range
+
+0.904
+0.902
+0.889
+0.862
+0.891
+
+0.932
+0.927
+0.923
+0.906
+0.925
+
+0.775
+0.717
+0.751
+0.707
+0.754
+
+2.50–2.72
+2.06–2.52
+2.25–2.53
+1.90–2.21
+2.18–2.66
+
+Discriminant Validity
+Discriminant validity was examined using both the Fornell–Larcker criterion and the Heterotrait–
+Monotrait (HTMT) ratio. The square roots of the AVE values (diagonal elements in Table 4) were
+higher than the inter-construct correlations, satisfying the Fornell–Larcker criterion (Liu, et al.,
+2025). Furthermore, all HTMT values were below the conservative threshold of 0.85 (Henseler,
+Ringle, & Sarstedt, 2015; Liu, et al., 2025), ranging from 0.036 to 0.520, confirming discriminant
+validity among constructs.
+Table 4. Discriminant Validity (HTMT and Fornell–Larcker Results)
+Constructs
+HTMT
+BA
+BAS
+BL
+PI
+PQ
+Fornell–Larcker (√AVE)
+
+BA
+
+BAS
+
+BL
+
+PI
+
+PQ
+
+—
+
+0.119
+—
+
+0.054
+0.036
+—
+
+0.342
+0.338
+0.520
+—
+
+0.880
+
+0.847
+
+0.866
+
+0.841
+
+0.047
+0.077
+0.075
+0.392
+—
+0.869
+
+These results indicate that each construct captures a unique concept distinct from other variables
+in the model.
+Structural Model Evaluation
+Collinearity among latent variables was tested and found to be acceptable, with construct-level VIF
+values between 1.007 and 1.018, far below the critical value of 3. The model’s predictive accuracy
+and relevance were assessed using R² and Q² values. As shown in Table 5, the endogenous
+construct Purchase Intention (PI) recorded R² = 0.477 and adjusted R² = 0.471, indicating that
+47.7% of the variance in purchase intention is explained by the four brand equity dimensions (BA,
+
+219
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+BAS, PQ, BL). The cross-validated redundancy value Q² = 0.460 (>0) demonstrates strong
+predictive relevance of the model. Additionally, the model’s goodness of fit was supported by the
+SRMR value of 0.040, which is below the threshold of 0.08 (Henseler et al., 2014).
+Table 5. Structural Model Summary (R², Q², SRMR)
+Endogenous
+Construct
+Purchase Intention
+(PI)
+
+R²
+
+Adjusted R²
+
+Q²
+
+SRMR
+
+0.477
+
+0.471
+
+0.460
+
+0.040
+
+These results suggest that the model demonstrates satisfactory explanatory and predictive power
+in the context of Vietnam’s life insurance market.
+Hypothesis Testing
+The significance of the hypothesized relationships was assessed using the bootstrapping method
+with 5,000 resamples. All path coefficients were found to be positive and statistically significant at
+the 0.001 level, confirming that each brand equity dimension has a meaningful influence on
+purchase intention.
+Table 6. Hypothesis Testing Results
+Path
+H1: Brand Awareness → Purchase
+Intention
+H2: Brand Associations → Purchase
+Intention
+H3: Perceived Quality → Purchase
+Intention
+H4: Brand Loyalty → Purchase
+Intention
+
+β (Original
+Sample)
+0.288
+
+t-Statistic
+
+F2
+
+p-Value
+
+Supported
+
+7.815
+
+0.156
+
+0.000
+
+Yes
+
+0.263
+
+6.273
+
+0.130
+
+0.000
+
+Yes
+
+0.291
+
+7.577
+
+0.160
+
+0.000
+
+Yes
+
+0.457
+
+12.525
+
+0.396
+
+0.000
+
+Yes
+
+Among the predictors, Brand Loyalty (β = 0.457) exhibited the strongest effect on Purchase
+Intention, followed by Perceived Quality (β = 0.291), Brand Awareness (β = 0.288), and Brand
+Associations (β = 0.263). These findings suggest that while all brand equity dimensions contribute
+to shaping consumers’ purchase intentions, loyalty and perceived quality are particularly decisive in
+the Vietnamese life insurance context.
+Overall, the measurement model demonstrated high reliability and validity, while the structural
+model exhibited substantial explanatory power and predictive relevance. The results confirm that
+consumers’ purchase intentions toward life insurance products in Vietnam are significantly
+influenced by their awareness, associations, perceived quality, and loyalty toward insurance
+brands—emphasizing the critical role of brand-building strategies in enhancing customer decisions
+and long-term competitiveness.
+
+220
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+Figure 2. Structual Model
+
+Discussion
+The findings of this study provide strong empirical support for the proposed research model,
+confirming that all four dimensions of brand equity - brand awareness, brand associations,
+perceived quality, and brand loyalty - positively and significantly influence purchase intention in
+the Vietnamese life insurance market. These results are consistent with the theoretical foundations
+of Aaker’s (1991) and Keller’s (1993) brand equity frameworks, which posit that consumers’
+perceptions, experiences, and emotional attachment to a brand jointly determine their behavioral
+intentions.
+Discussion of Key Findings
+Among the four dimensions, brand loyalty emerged as the strongest predictor of purchase intention
+(β = 0.457, p < 0.001). This finding aligns with prior studies by Chaudhuri and Holbrook (2001),
+Pappu et al. (2005), and Buil et al. (2013), which emphasize that loyalty represents the most direct
+behavioral manifestation of brand equity. In the context of life insurance - a high-involvement,
+long-term service - customers tend to rely heavily on trust, satisfaction, and prior experiences.
+Loyalty, therefore, acts as a stabilizing mechanism that reduces perceived risk, encourages contract
+renewal, and strengthens word-of-mouth advocacy (Oliver, 1999).
+In Vietnam, where financial literacy and service transparency are still developing, loyal customers
+often become informal brand ambassadors, influencing peers and family members’ purchase
+decisions. Hence, loyalty not only reflects satisfaction but also encapsulates emotional
+
+221
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+commitment, which is especially vital in financial service sectors characterized by intangible and
+trust-based offerings.
+The second most influential factor, perceived quality (β = 0.291, p < 0.001), also exerts a strong
+effect on purchase intention. This result supports previous empirical evidence (e.g., Zeithaml, 1988;
+Yoo et al., 2000; Pappu et al., 2005) suggesting that perceived quality serves as a critical cognitive
+assessment that underpins trust and value perception in brand evaluation. In life insurance,
+perceived quality is manifested through service reliability, claims efficiency, staff professionalism,
+and transparent policy information. Vietnamese consumers often face difficulties evaluating life
+insurance benefits due to information asymmetry; therefore, high service quality reduces
+uncertainty and enhances confidence in purchasing decisions.
+While brand awareness (β = 0.288) and brand associations (β = 0.263) have relatively smaller yet
+significant effects, they remain fundamental antecedents of brand-building. Awareness fosters
+recognition and familiarity, which are prerequisites for brand consideration and trust formation
+(Keller, 1993). Associations - such as perceptions of financial stability, reputation, and social
+responsibility - contribute to emotional differentiation and perceived credibility (Low & Lamb,
+2000; Chen, 2001).
+Collectively, these results indicate that both cognitive and affective components of brand equity
+operate synergistically to drive consumer intentions, confirming the multidimensional and
+interdependent nature of brand equity in the service sector.
+Theoretical Implications
+This study enriches brand equity research by validating Aaker’s and Keller’s conceptual frameworks
+in a developing Asian context characterized by trust-sensitive financial services. The empirical
+evidence demonstrates that brand loyalty and perceived quality are the most dominant components
+influencing behavioral intention, reinforcing the hierarchical brand equity model proposed by
+Cobb-Walgren et al. (1995), where loyalty and quality serve as outcome-oriented constructs
+reflecting deeper brand engagement.
+Furthermore, by examining brand equity in the life insurance industry - a domain with long-term,
+risk-based customer relationships—this research extends the literature beyond the commonly
+studied fast-moving consumer goods and retail banking sectors, showing that brand equity
+functions similarly but with stronger emphasis on trust, assurance, and relationship continuity.
+Managerial Implications
+The empirical findings of this study offer several important managerial insights for life insurance
+companies operating in Vietnam. First, the dominant role of brand loyalty in shaping purchase
+intention suggests that insurers should focus on strengthening long-term customer relationships
+rather than short-term sales. Building loyalty requires consistent delivery of promises, transparent
+communication, and proactive customer support, particularly during the claims-handling process.
+Firms that maintain customer satisfaction throughout the policy lifecycle can transform existing
+clients into advocates who promote the brand through positive word-of-mouth, thereby reducing
+acquisition costs and enhancing reputation. Second, the strong influence of perceived quality
+indicates that customers value service excellence and reliability as the foundation for trust.
+Insurance providers should therefore prioritize service consistency, staff professionalism, and
+responsiveness, while leveraging digital technologies such as online policy management, automated
+claim systems, and AI-based advisory tools to enhance perceived efficiency and credibility. Third,
+although brand awareness and brand associations exhibit relatively weaker effects, they remain
+critical for establishing initial trust and consideration. Continuous brand communication
+emphasizing financial stability, customer care, and social responsibility can reinforce positive
+perceptions and foster emotional attachment. Companies that link their brand identity with
+
+222
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+responsible business practices—such as supporting community well-being or promoting financial
+literacy—can cultivate more meaningful associations in the minds of Vietnamese consumers.
+Finally, strengthening collaboration with regulatory bodies and industry associations to ensure
+transparency in product information and claims performance may further enhance public trust in
+the industry as a whole. Overall, these managerial implications highlight that the sustainable
+development of life insurance brands in Vietnam depends not only on product innovation but also
+on consistent service quality, long-term relationship management, and an authentic, socially
+responsible brand image.
+Summary
+In summary, this study underscores that brand equity is not merely a marketing asset but a strategic
+determinant of purchasing behavior in Vietnam’s life insurance sector. Companies that invest in
+long-term customer relationships and maintain superior perceived quality will be better positioned
+to sustain competitive advantage and market share. The findings provide actionable insights for
+insurers seeking to strengthen customer trust, enhance loyalty, and drive purchase intentions in a
+rapidly evolving and increasingly customer-centric financial environment.
+
+Conclusion
+This study set out to examine the impact of brand equity dimensions—brand awareness, brand
+associations, perceived quality, and brand loyalty—on purchase intention within the context of the
+Vietnamese life insurance market. Drawing upon the customer-based brand equity (CBBE)
+framework proposed by Aaker (1991) and Keller (1993), the research utilized quantitative data
+from 350 respondents analyzed through SmartPLS 4. The findings confirm that all dimensions of
+brand equity significantly and positively influence purchase intention, with brand loyalty and
+perceived quality emerging as the two most powerful determinants. These results validate the
+multidimensional structure of brand equity and highlight its pivotal role in driving consumer
+decisions in high-involvement and trust-dependent service sectors such as life insurance.
+Theoretically, the study extends the literature on brand equity by empirically testing its dimensions
+in an emerging Asian market context, thereby reinforcing the universality of the CBBE model
+beyond Western markets. It also emphasizes that both cognitive and affective processes jointly
+shape consumers’ behavioral intentions, with loyalty and quality reflecting outcome-oriented
+dimensions that bridge perception and commitment.
+From a managerial perspective, the findings underscore the importance for insurers to invest in
+building and maintaining customer loyalty through reliable service, transparent communication,
+and long-term engagement strategies. Enhancing perceived quality through professional staff
+training, digitalization, and efficient claims handling can further strengthen consumer trust and
+willingness to purchase. While awareness and associations play supporting roles, their contribution
+to initial consideration and emotional differentiation should not be underestimated.
+Despite its contributions, the study is not without limitations. The sample was restricted to
+Vietnamese customers, which may limit the generalizability of findings across other cultural or
+regional markets. Future research could incorporate comparative studies across ASEAN countries,
+apply longitudinal data to track changes in brand equity perception over time, or integrate
+moderating variables such as trust, digital experience, or regulatory confidence to deepen
+understanding of consumer decision mechanisms.
+In conclusion, the results affirm that brand equity is not merely a marketing construct but a strategic
+asset that drives consumer behavior, strengthens organizational reputation, and ensures sustainable
+competitiveness in Vietnam’s rapidly evolving life insurance industry.
+
+223
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+References
+Aaker, D. A. (1991). Managing Brand Equity: Capitalizing on the Value of a Brand Name. New York:
+Free Press.
+Agarwal, M. K., & Rao, V. R. (1996). An empirical comparison of consumer-based measures of
+brand equity. Marketing Letters, 7(3), 237–247. https://doi.org/10.1007/BF00435740
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes,
+50(2), 179–211.* https://doi.org/10.1016/0749-5978(91)90020-T
+Brislin, R. W. (1980). Translation and content analysis of oral and written materials. In H. C.
+Triandis & J. W. Berry (Eds.), Handbook of Cross-Cultural Psychology (Vol. 2, pp. 389–444). Boston:
+Allyn & Bacon.
+Buil, I., de Chernatony, L., & Martínez, E. (2013). Examining the role of advertising and sales
+promotions in brand equity creation. Journal of Business Research, 66(1), 115–122.
+https://doi.org/10.1016/j.jbusres.2011.07.030
+Chaudhuri, A., & Holbrook, M. B. (2001). The chain of effects from brand trust and brand affect
+to brand performance: the role of brand loyalty. Journal of Marketing, 65(2), 81–93.
+https://doi.org/10.1509/jmkg.65.2.81.18255
+Chen, A. C. H. (2001). Using free association to examine the relationship between the
+characteristics of brand associations and brand equity. Journal of Product & Brand Management, 10(7),
+439–451. https://doi.org/10.1108/10610420110410559
+Chin, W. W. (1998). The partial least squares approach to structural equation modeling. In G. A.
+Marcoulides (Ed.), Modern Methods for Business Research (pp. 295–336). Mahwah, NJ: Lawrence
+Erlbaum.
+Cobb-Walgren, C. J., Ruble, C. A., & Donthu, N. (1995). Brand equity, brand preference, and
+purchase intent. Journal of Advertising, 24(3), 25–40. https://www.jstor.org/stable/4188979
+Cohen, J. (1992). A power primer.
+https://doi.org/10.1037//0033-2909.112.1.155
+
+Psychological
+
+Bulletin,
+
+112(1),
+
+155–159.
+
+Dawes, J., Meyer-Waarden, L., & Driesener, C. (2015). Has brand loyalty declined? A longitudinal
+analysis of repeat purchase behavior in the UK and USA. Journal of Business Research, 68(2), 425–432.
+https://doi.org/10.1016/j.jbusres.2014.06.006
+de Chernatony, L., & McDonald, M. (2003). Creating Powerful Brands in Consumer, Service, and Industrial
+Markets (3rd ed.). Oxford: Butterworth-Heinemann.
+Delgado-Ballester, E., & Munuera-Alemán, J. L. (2005). Does brand trust matter to brand equity?
+Journal
+of
+Product
+&
+Brand
+Management,
+14(3),
+187–196.
+https://doi.org/10.1108/10610420510601058
+Dick, A. S., & Basu, K. (1994). Customer loyalty: toward an integrated conceptual framework.
+Journal
+of
+the
+Academy
+of
+Marketing
+Science,
+22(2),
+99–113.
+https://doi.org/10.1177/0092070394222001
+Erdem, T., & Swait, J. (2004). Brand credibility, brand consideration, and choice. Journal of Consumer
+Research, 31(1), 191–198. https://doi.org/10.1086/383434
+Foroudi, P., Jin, Z., Gupta, S., Melewar, T. C., & Foroudi, M. M. (2018). Influence of innovation
+capability and customer experience on reputation and loyalty. Journal of Business Research, 88, 388–
+396. https://doi.org/10.1016/j.jbusres.2016.04.047
+
+224
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2021). A Primer on Partial Least Squares
+Structural Equation Modeling (PLS-SEM) (3rd ed.). Thousand Oaks, CA: Sage.
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity
+in variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–
+135. https://doi.org/10.1007/s11747-014-0403-8
+Hofstede Insights. (2023). Country Comparison: Vietnam. Retrieved from https://www.hofstedeinsights.com
+Huang, R., & Sarigöllü, E. (2012). How brand awareness relates to market outcome, brand equity,
+and
+the
+marketing
+mix.
+Journal
+of
+Business
+Research,
+65(1),
+92–99.
+https://doi.org/10.1016/j.jbusres.2011.02.003
+Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based brand equity.
+Journal of Marketing, 57(1), 1–22. https://doi.org/10.1177/002224299305700101
+Keller, K. L. (2003). Strategic Brand Management: Building, Measuring, and Managing Brand Equity (2nd
+ed.). Upper Saddle River, NJ: Prentice Hall.
+Lan LT, Man DT, Hieu LQ, Thanh BT, and Hung PD (2025). The impact of enterprise brand
+equity on customer purchase intention through brand preference. International Journal of
+Advanced and Applied Sciences, 12(8): 202-213 https://doi.org/10.21833/ijaas.2025.08.019
+Liu, Y., Li, D., Guo, Z., Zhou, J., Dong, E., & Zhang, W.-Z. (2025). Risk and reward: A study on
+the influencing mechanism of decision-making behavior of mountaineering in Siguniang Mountain
+Region. Journal
+of
+Outdoor
+Recreation
+and
+Tourism,
+51,
+100895.
+https://doi.org/10.1016/j.jort.2025.100895
+Low, G. S., & Lamb, C. W. (2000). The measurement and dimensionality of brand associations.
+Journal
+of
+Product
+&
+Brand
+Management,
+9(6),
+350–368.
+https://doi.org/10.1108/10610420010356966?urlappend=%3Futm_source%3Dresearchgate
+Luo, S., Luo, S., Ren, Z., Zhang, H., Li, X., & Liu, L. (2024). The influence of water safety
+knowledge on adolescents’ drowning risk behaviors: A framework of risk-protect integrated and
+KAP theory. Frontiers in Public Health, 12, 1354231. https://doi.org/10.3389/fpubh.2024.1354231
+Ministry of Finance of Vietnam (2023). Annual report on Vietnam’s insurance market. Hanoi:
+Ministry of Finance.
+Mittal, V., & Kamakura, W. A. (2001). Satisfaction, repurchase intent, and repurchase behavior:
+investigating the moderating effect of customer characteristics. Journal of Marketing Research, 38(1),
+131–142.
+https://doi.org/10.1509/jmkr.38.1.131.18832?urlappend=%3Futm_source%3Dresearchgate
+Nam, J., Ekinci, Y., & Whyatt, G. (2011). Brand equity, brand loyalty and consumer satisfaction.
+Annals of Tourism Research, 38(3), 1009–1030. Doi: https://doi.org/10.1016/j.annals.2011.01.015
+Negash, M. (2018). The effect of brand equity on customers preference: An empirical study of Ethiopian
+Airlines (Master’s thesis, Addis Ababa University, School of Commerce). Addis Ababa University
+Institutional Repository.
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric Theory (3rd ed.). New York: McGraw-Hill.
+Oliver, R. L. (1999). Whence consumer loyalty? Journal of Marketing, 63(Special Issue), 33–44.
+https://doi.org/10.2307/1252099
+
+225
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+Pappu, R., Quester, P. G., & Cooksey, R. W. (2005). Consumer-based brand equity: improving the
+measurement – empirical evidence. Journal of Product & Brand Management, 14(3), 143–154.
+https://doi.org/10.1108/10610420510601012
+Percy, L., & Rossiter, J. R. (1992). A model of brand awareness and brand attitude advertising
+strategies. Psychology & Marketing, 9(4), 263–274. https://doi.org/10.1002/mar.4220090402
+Ringle, C. M., Wende, S., & Becker, J.-M. (2015). SmartPLS 3. Boenningstedt: SmartPLS GmbH.
+Rossiter, J. R., & Percy, L. (1997). Advertising Communications and Promotion Management. New York:
+McGraw-Hill.
+Tong, X., & Hawley, J. M. (2009). Measuring customer-based brand equity: empirical evidence
+from the sportswear market in China. Journal of Product & Brand Management, 18(4), 262–271.
+https://doi.org/10.1108/10610420910972783?urlappend=%3Futm_source%3Dresearchgate
+Yoo, B., & Donthu, N. (2001). Developing and validating a multidimensional consumer-based
+brand equity scale. Journal of Business Research, 52(1), 1–14. https://doi.org/10.1016/S01482963(99)00098-3
+Yoo, B., Donthu, N., & Lee, S. (2000). An examination of selected marketing mix elements and
+brand equity. Journal of the Academy of Marketing Science, 28(2), 195–211.
+https://doi.org/10.1177/0092070300282002
+Zeithaml, V. A. (1988). Consumer perceptions of price, quality, and value: a means–end model and
+synthesis of evidence. Journal of Marketing, 52(3), 2–22. https://doi.org/10.2307/1251446
+
+226
+EJMEB (ISSN 3041-2102) | VOLUME 3 | NUMBER 1 | 2026
+
+

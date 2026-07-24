@@ -1,0 +1,1901 @@
+TYPE Review
+PUBLISHED
+
+04 August 2022
+
+DOI 10.3389/fpsyg.2022.923464
+
+OPEN ACCESS
+EDITED BY
+
+Chris Englert,
+Goethe University Frankfurt, Germany
+REVIEWED BY
+
+Jennifer Inauen,
+University of Bern, Switzerland
+Dayna Lee-Baggley,
+Dalhousie University, Canada
+
+Understanding the
+intention-behavior gap: The role
+of intention strength
+Mark Conner1* and Paul Norman2
+1
+
+School of Psychology, University of Leeds, Leeds, United Kingdom, 2 Department of Psychology,
+University of Sheffield, Sheffield, United Kingdom
+
+*CORRESPONDENCE
+
+Mark Conner
+m.t.conner@leeds.ac.uk
+SPECIALTY SECTION
+
+This article was submitted to
+Health Psychology,
+a section of the journal
+Frontiers in Psychology
+RECEIVED 19 April 2022
+ACCEPTED 27 June 2022
+PUBLISHED 04 August 2022
+CITATION
+
+Conner M and Norman P (2022)
+Understanding the intention-behavior
+gap: The role of intention strength.
+Front. Psychol. 13:923464.
+doi: 10.3389/fpsyg.2022.923464
+COPYRIGHT
+
+© 2022 Conner and Norman. This is an
+open-access article distributed under
+the terms of the Creative Commons
+Attribution License (CC BY). The use,
+distribution or reproduction in other
+forums is permitted, provided the
+original author(s) and the copyright
+owner(s) are credited and that the
+original publication in this journal is
+cited, in accordance with accepted
+academic practice. No use, distribution
+or reproduction is permitted which
+does not comply with these terms.
+
+This manuscript overviews recent research on the intention-behavior
+gap, focusing on moderators of the intention-behavior relationship. The
+manuscript draws on the concept of intention strength to make two important
+points. First, strong intentions provide better predictions of behavior, thereby
+reducing the intention-behavior gap. However, strong intentions have the
+additional features of being more stable over time, less pliable in the face of
+interventions to change them, and more likely to bias information processing
+about engaging in the behavior. These four features of intention strength
+are not independent. For example, stable intentions are likely to provide
+better predictions of behavior. Second, various predictors of strength (e.g.,
+importance, certainty, extremity) may also constitute important, but little
+studied, moderators of the intention-behavior relationship. Moreover, the
+effects of these moderators of the intention-behavior relationship may be
+mediated through intention stability (and perhaps other features of intention
+strength). Future research on the intention-behavior gap would benefit
+from a more systematic consideration of a broad range of moderators of
+the intention-behavior relationship both individually and in combination.
+In addition, future research could usefully explore how these moderating
+effects might be explained. Such a systematic approach may further our
+understanding of the intention-behavior gap in relation to physical activity and
+other behaviors.
+KEYWORDS
+
+intention, intention strength, intention-behavior gap, attitude strength, intention
+stability, physical activity, health behavior
+
+Introduction
+Definitions of intentions often focus on the idea of them being self-instructions
+(Triandis, 1980; Sheeran and Webb, 2016) that capture the underlying motivation
+(Rogers, 1983) or commitment (Sheeran and Webb, 2016) to act. It is common to
+distinguish goal (e.g., “I intend to get fit”) and behavioral (e.g., “I intend to engage
+in physical activity at least five times per week”) intentions, with the former focusing
+achieving desired goals and the latter focusing on engaging in a behavior or action
+(perhaps in the service of reaching a goal). It is the latter that are the main focus
+here. Behavioral intentions are central to a range of theories about the determinants
+
+Frontiers in Psychology
+
+01
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+small-to-medium sized changes in behavior (Webb and Sheeran,
+2006; Sheeran et al., 2016). Similar sized effects are reported in
+studies focusing just on physical activity (Rhodes and Dickau,
+2012). It is notable that the effect sizes reported in reviews of
+these experimental studies (r+ = 0.08–0.18) are considerably
+smaller than those reported in reviews of correlational studies
+(r+ = 0.40–0.48). The disjunction between intentions and
+behavior observed in both correlational and experimental
+studies has been termed the intention-behavior gap (Sheeran,
+2002; see also Godin and Conner, 2008; Rhodes and de Bruijn,
+2013).
+A range of methodological factors will be associated
+with either a narrowing or widening of this gap; more
+reliable measures of intention and behavior or a focus on
+relationships disattenuated for measurement error may be
+associated with a narrowing of the gap, while a focus on
+objective measures of behavior and failure to ensure that
+measures of intention and action/behavior are matched on
+the principle of correspondence (Ajzen, 1991) may widen the
+gap. Unfortunately the former effects may be more modest
+than the latter effects. For example, McEachan et al. (2011)
+estimated the intention-behavior correlation increased from
+0.40 to 0.43 when disattentuated for measurement error. In
+contrast, McEachan et al. (2011) reported that intention and
+perceived behavioral control explained 26% of the variance in
+self-reported measures of physical activity, but only 12% of
+the variance in objective measures. Across a broader set of
+behaviors, Armitage and Conner (2001) reported that intention
+and perceived behavioral control explained 31% of the variance
+in self-reported behaviors, but only 20% of the variance in
+objective behaviors. Matching of intention (plus other measures)
+and behavior measures on action and target elements is central
+to the theory of planned behavior (Ajzen, 1991). However,
+some behaviors such as physical activity often employ frequency
+measures of behavior that commonly fail to follow this principle.
+For example, some physical activity studies measure behavior
+based on frequency measures such as the International Physical
+Activity Questionnaire (sometimes converting this into METs)
+but predict this from intention items focusing on meeting
+recommended guidelines for physical activity (e.g., five sessions
+per week of at least 20 mins). The problem here is that the
+intention measure should be matched to a behavior item that
+taps whether the recommended activity had been completed
+or not rather than number of METs. The linearity of the
+relationship between such an intention measure and a measure
+of METs is unclear and could under- or over-estimate the size
+of the true intention-behavior relationship (see Morwitz and
+Munz, 2020 on other methodological issues in relation to the
+intention-behavior relationship).
+An important focus in furthering our understanding of the
+intention-behavior gap has been exploring the role of conceptual
+moderators. This research focuses mainly on features of the
+
+of behavior/action. Indeed they are the proximal and sole
+determinant of action in the reasoned action approach (Fishbein
+and Ajzen, 2010) and in protection motivation theory (Rogers,
+1983), and one of several proximal determinants of behavior
+in social cognitive theory (Bandura, 1997) and the health
+action process approach (Schwarzer and Luszczynska, 2015).
+Nevertheless, intentions rarely if ever explain all the variance in
+behavior. This has become known as the intention-behavior gap
+and is the focus of the current manuscript.
+The current manuscript is divided into six main sections
+(see Figure 1 for a route map and summary). The first briefly
+reviews the intention-behavior gap for physical activity and
+other behaviors. The second reviews work on various factors
+that reduce the intention-behavior relationship (i.e., moderate
+the intention-behavior relationship) for physical activity and
+other behaviors. The third introduces the concept of intention
+strength as a means to improve our understanding of the
+intention-behavior relationship. The fourth and fifth consider
+features and then predictors of intention strength. In particular,
+these sections consider the intention-behavior gap as one of four
+key features of intention strength and reviews various predictors
+of intention strength as potential moderators of the intentionbehavior relationship. The sixth and final section discusses a
+number of directions for future research on the intentionbehavior gap.
+
+Intention-behavior gap
+Measures of behavioral intentions (e.g., “I intend to
+engage in physical activity at least five times per week,”
+strongly disagree – strongly agree) commonly include both a
+valence (i.e., intenders versus non-intenders and sometimes a
+neutral category) and an extremity component (i.e., slightly
+agree versus strongly agree) component. Such measures
+of intention to engage in a behavior rarely predict all
+or even the majority of the variance in behavior. For
+example, reviews of the theory of planned behavior and the
+reasoned action approach indicate that intentions explain
+between 18 and 23% of the variance in behavior across
+a broad range of behaviors (Armitage and Conner, 2001)
+or health behaviors in particular (McEachan et al., 2011,
+2016). Reviews suggest values at the lower end of this range
+for studies focusing on physical activity (18% variance in
+Hagger et al., 2002; 20% in McEachan et al., 2011). It is
+notable that the (mostly prospective) correlational studies
+included in these reviews almost exclusively focus on behavioral
+intentions rather than goal intentions. Experimental studies
+that manipulate intentions and observe effects on subsequent
+behavior similarly indicate less than perfect relationships. For
+example, studies of a range of behaviors indicate that mediumto-large sized changes in intentions are associated with only
+
+Frontiers in Psychology
+
+02
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+Intention-behavior gap
+A brief review of the nature of the intention-behavior gap.
+Intention-behavior moderators
+A review of seven key sets of moderators of the intention-behavior relationship:
+-
+
+Goal dimensions (goal difficulty, goal desire, goal priority, goal conflict)
+Basis of intention (affective attitude, moral norms, anticipated regret, self-identity)
+Structure of intention (degree of reasoned action, motivational coherence, realism
+of intention)
+Past behavior / habit (frequency of past behavior, habit)
+Personality (openness, conscientiousness, extraversion, agreeableness,
+neuroticism)
+Socio-demographic factors (age, gender, socio-economic status)
+Temporal stability of intentions (similarity of intentions over time)
+
+What is strength?
+A consideration of construct strength from the attitude domain that could be applied
+to intentions.
+Features of strength
+Four features of strength distinguished:
+- Durability (temporal stability, pliability)
+- Impact (impact on behavior, impact on processing of relevant information)
+Predictors of strength
+Consideration of 11 predictors of strength (under four categories) derived from the
+attitude domain and their potential application to intentions:
+- Aspects of the cognition (Extremity)
+- Aspects of the cognition structure (Knowledge, Accessibility, Moralization,
+Ambivalence, Cognitive-Affective Consistency, Intensity)
+- Processes (Elaboration)
+- Subjective beliefs about the cognition (Certainty, Importance, Vested Interest)
+
+Future directions
+An integration of presented work and consideration of future directions:
+- Need for systematic study of individual moderators (consider effects on different
+features of intention strength)
+- Need for systematic study of multiple moderators (consider effects on different
+features of intention strength; identify dominant moderators)
+- Exploration of mechanisms (consider stability and other features of strength as
+mechanisms explaining the mechanisms of action for identified moderators).
+FIGURE 1
+
+Route map and summary of main sections of the manuscript.
+
+Frontiers in Psychology
+
+03
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+moderated the intention-behavior relationship for physical
+activity in approximately 60% (13/21 tests) of studies reporting
+this effect. Sheeran and Webb (2016) argue that some of the
+mixed findings for perceptions of goal difficulty as a moderator
+may be attributable to people under-estimating actual difficulty
+of performing these more difficult behaviors.
+Goal desire and commitment have received much less
+attention. The more a goal is desired (Prestwich et al., 2008)
+and the more an individual is committed to the goal (Rhodes
+et al., 2018) then the stronger should be the intention-behavior
+relationship. Prestwich et al. (2008) reported stronger intentionbehavior relationships at higher compared to lower levels of goal
+desire across four studies. Greater commitment to a goal might
+also be expected to increase the intention-behavior relationship
+(Cooke and Sheeran, 2013). Rhodes et al. (2022) reported that
+commitment significantly moderated the intention-behavior
+relationship for physical activity in approximately 70% (2/3
+tests) of studies.
+Goal conflict and goal priority have also received attention
+as moderators of the intention-behavior relationship. The less
+a focal goal conflicts with other goals might be expected to
+be associated with greater effort to achieve the focal goal
+and so stronger intention-behavior relationships. Rhodes et al.
+(2022) reported that goal conflicts significantly moderated
+the intention-behavior relationship for physical activity in
+approximately 70% (6/9 tests) of studies reviewed. Goal priority
+is an important concept in understanding the pursuit of
+multiple goals and refers to the temporary increase in the
+importance attached to, and resources directed toward, one or
+more goals compared to other goals – that serve to benefit
+the performance of the prioritized behavior (Unsworth et al.,
+2014). Although conceptually important, goal priority has
+not received widespread attention as an intention-behavior
+moderator (Geers et al., 2009; Conner et al., 2016a). Conner
+et al. (2016a) showed that goal priority moderated the intentionbehavior relationship for physical activity (Study 1) and a range
+of health behaviors (Study 4) and that a manipulation of goal
+priority increased the intention-physical activity relationship
+when physical activity was self-reported (Study 2) or objectively
+measured (Study 3). More recently, Conner et al. (2022c)
+showed that prioritizing one or two behaviors (including
+physical activity) that individuals intended to engage in resulted
+in greater performance of the prioritized behaviors with no
+decrement to the non-prioritized behaviors.
+
+intention and other constructs that influence the intentionbehavior gap and is briefly reviewed in the next section.
+
+Intention-behavior moderators
+In the existing research literature, a key approach to
+understanding the intention-behavior gap in relation to physical
+activity and other behaviors has been to focus on potential
+moderators of the relationship, i.e., factors associated with
+changes in the magnitude of the intention-behavior relationship.
+Moderators help identify the limits of the relationship between
+intention and behavior and also the conditions under which
+strong versus weak relationships might be expected. A range
+of such moderators have been identified in various studies
+and discussed in several reviews (e.g., Sheeran, 2002; Sheeran
+and Webb, 2016). In addition, a recent, broad review of
+intention-physical activity moderators (Rhodes et al., 2022)
+provides a number of insights. The moderators that have
+received the most attention can be broadly split into goal
+dimensions, basis of intention, structure of intention, past
+behavior/habit, personality and socio-demographic factors, and
+temporal stability.
+
+Goal dimensions
+The goal dimensions explored as moderators of the
+intention-behavior relationship include goal difficulty, goal
+desire and commitment, plus goal priority and conflict. As
+the difficulty of a goal increases, the power of intentions to
+predict behavior decreases (e.g., Sheeran et al., 2003). Goal
+difficulty is a function of the goal itself and the skills, resources,
+and effort an individual can bring to achieving the goal.
+Measures typically tackle how easy or difficult the individual
+perceives it to be to achieve the goal. Easy-difficult judgments
+are a key component of perceived behavioral control. Lower
+perceived behavioral control (i.e., high goal difficulty) should
+be associated with larger intention-behavior gaps. This is the
+prediction in the theory of planned behavior and reasoned
+action approach (Fishbein and Ajzen, 2010). However, the
+empirical findings are mixed. Armitage and Conner (2001)
+reported that approximately 50% (9/19 studies) of the studies
+in their meta-analysis testing the interaction between perceived
+behavioral control and intentions reported a significant effect
+(i.e., intentions being stronger predictors when perceived
+behavioral control was higher). More recently, Hagger et al.
+(2022) reported that across 36 tests, the intention-behavior
+relationship was stronger when perceived behavioral control was
+high (M + 1SD: b = 0.555, 95%CI [0.452, 0.658]) compared to
+moderate (M: b = 0.489, 95%CI [0.384, 0.594]) or low (M-1SD:
+b = 0.423, 95%CI [0.301, 0.545]). Rhodes et al. (2022) in their
+review reported that perceived behavioral control significantly
+
+Frontiers in Psychology
+
+Basis of intention
+Studies that have explored the basis of intention as a
+moderator of the intention-behavior relationship have primarily
+considered the extent to which intentions are based on affect
+or identity. Several studies indicate that intentions based more
+on personal or affective compared to other factors are more
+
+04
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+predictive of behavior, consistent with the predictions of selfdetermination theory (Deci and Ryan, 1985). This includes work
+on attitudes versus norms (Sheeran et al., 1999) and affective
+versus instrumental attitudes (Keer et al., 2014). Similarly, high
+levels of moral norms (Godin et al., 2005), anticipated regret
+(Sheeran and Abraham, 2003), and self-identity (Sheeran and
+Orbell, 2000; Carfora et al., 2017) have also been found to
+be associated with stronger intention-behavior relationships.
+Rhodes et al. (2022) reported that affective attitudes (4/6 tests),
+anticipated regret (4/5 tests), and physical activity personal/selfidentity (5/7 tests) each significantly moderated the intentionphysical activity relationship in their review. Across a group
+of health behaviors including physical activity, Conner et al.
+(2016b) showed that out of instrumental attitude, affective
+attitude, injunctive norm, descriptive norm, and anticipated
+regret, it was intentions based on anticipated regret that
+most strongly predicted behavior. Other studies have shown
+that drawing attention to anticipated regret via measuring it
+(drawing on the Question-Behavior Effect; Wood et al., 2016) is
+sufficient to increase the power of intentions to predict behavior.
+For example, Sandberg and Conner (2011) showed that
+measuring anticipated regret increased the power of intentions
+to predict objectively measured sports center use. Sandberg and
+Conner (2009) showed similar effects for objective measured
+attendance for cervical screening. Importantly this effect was
+only present when anticipated regret was assessed before rather
+than after intention, suggesting that the anticipation of regret
+had to inform the intention for the moderation effect to occur.
+
+activity), it was shown that more realistic intentions were
+stronger predictors of behavior.
+
+Structure of intention
+
+Personality
+
+A number of recent studies have explored various aspects
+of the structure of intention as moderators of the intentionbehavior relationship. This includes work on the degree of
+reasoned action (Sheeran and Conner, 2019), motivational
+coherence (Sheeran and Conner, 2017) and the realism of
+the intention (Avisha et al., 2019). Degree of reasoned action
+refers to the extent to which a person’s determination to act is
+based on relevant expectancies, or how well behavior-relevant
+cognitions predict intentions. Across two studies, Sheeran and
+Conner (2019) showed that well-reasoned intentions better
+predicted behavior. Motivational coherence is the extent to
+which predictors of intentions (e.g., attitudes, norms, perceived
+control from the theory of planned behavior) cohere or point
+in the same direction. Across three studies (including one on
+physical activity), Sheeran and Conner (2017) showed that
+greater motivational coherence was associated with a stronger
+relationship between intentions and behavior. Finally, Avisha
+et al. (2019) examined how realistic intentions (i.e., those
+based on considerations of the expectations that the behavior
+could be performed) might moderate the intention-behavior
+relationship. Across three studies (including one on physical
+
+The personality factors explored as moderators of the
+intention-behavior relationship have included all of the
+big five personality dimensions (openness, conscientiousness,
+extraversion, agreeableness, and neuroticism) with generally no
+significant effects (see Rhodes et al., 2022). The exception to this
+trend is conscientiousness, with Rhodes et al. (2022) reporting
+that 80% (4/5 tests) of studies reported that higher levels
+of conscientiousness were associated with stronger intentionphysical activity relationships. Conscientiousness refers to the
+ability to control one’s behavior and to complete tasks, with
+individuals high in conscientiousness being more organized,
+careful, dependable, self-disciplined and achievement-oriented
+than those low in conscientiousness (McCrae and Costa, 1987).
+In addition, conscientiousness is associated with greater impulse
+control (Bogg and Roberts, 2004, 2013). A number of these
+factors might help explain why those high in conscientiousness
+show stronger relationships between their intentions and
+behavior with perhaps different factors operating in relation
+to risk (e.g., impulse control) versus protection (e.g., selfdiscipline) behaviors like physical activity. These explanations
+remain to be tested.
+
+Frontiers in Psychology
+
+Past behavior/habit
+The frequency of past performance of a behavior (or
+habit based on self-report measures) has also been found
+to moderate the intention-behavior relationship, although
+the direction of this moderation effect is inconsistent. For
+example, Rhodes et al. (2022) reported that past behavior/habit
+was associated with a significantly stronger intention-physical
+activity relationship in approximately 30% (4/14 tests) of studies,
+but a significantly weaker relationship in approximately 50%
+(7/14 tests) of studies (see also Gardner et al., 2011). Sheeran
+et al. (2017) showed that this apparent inconsistency can be
+explained by the fact that the impact of past behavior/habit
+on the relationship between intentions and behavior follows an
+inverted U-shaped relationship. At low levels of past behavior,
+increasing experience initially enhances the power of intention
+to predict behavior, while at higher levels of past behavior
+increasing experience attenuates the power of intention to
+predict behavior. The former effect may be attributable to
+experience strengthening the intention (similar arguments have
+been made in relation to experience on the attitude-behavior
+relationship; Fazio and Zanna, 1978), while the latter effect may
+be attributable to the behavior becoming more automatized or
+habitual (Ouellette and Wood, 1998).
+
+05
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+Socio-demographic factors
+
+moderator of intention-physical activity relationships in nearly
+80% (10/13 tests) of studies and noted intention stability as one
+of the more consistent moderators. Beyond the physical activity
+domain, Conner et al. (2002) reported intentions were stronger
+predictors of healthy eating over a period of 6 years when
+these intentions were stable over a 6-month time period. More
+recently, Norman et al. (2022) showed that the temporal stability
+of intentions moderated intention-behavior relationships across
+a number of COVID-19 protection behaviors. As discussed in
+subsequent sections, the temporal stability of intentions may
+also be considered a key feature of a strong intention and
+also represent a key mechanism to explain the effects of other
+moderators of the intention-behavior relationship.
+
+A number of socio-demographic factors have been explored
+as moderators of the intention-behavior relationship with
+mostly null effects. For example, Rhodes et al. (2022) reviewed
+a range of such demographic factors including age and gender
+although no clear evidence emerged of consistent effects across
+the various physical activity studies examined. One exception
+to these generally null effects has been socio-economic status.
+A number of studies on physical activity (Schüz et al., 2017)
+and other behaviors (e.g., Conner et al., 2013; Schüz et al.,
+2020, 2021) indicate that socio-economic status moderates the
+intention-behavior relationship (i.e., weaker intention-behavior
+relationships in lower SES groups). However, Rhodes et al.
+(2022) reported mixed effects for different measures of socioeconomic status on intention-physical activity relationships: 1/2
+significant effects for material deprivation, 1/5 significant effects
+for income, 0/1 for social deprivation, and 2/4 for education. The
+observed effects may be attributable to the same goal being of
+greater difficulty in lower socio-economic status groups due to
+variations in the opportunities, resources, ability, skills and time
+and effort required to realize the goal (Sheeran and Webb, 2016;
+Schüz, 2017).
+
+What is strength?
+The moderators reviewed in the previous section provide
+a number of insights into the factors that may account for
+the intention-behavior gap. However, in general they fail to
+provide a strong framework for understanding the magnitude
+of the impact of intentions on behavior. The subsequent
+sections of this manuscript consider the concept of intention
+strength, what it can add to our understanding of the intentionbehavior relationship, and how it might provide the basis for
+such a framework.
+The concept of “strength” in relation to social/health
+cognitions has received the most attention in relation to
+attitudes. Attitude strength has been defined as “the extent
+to which attitudes manifest the qualities of durability and
+impactfulness” (Petty and Krosnick, 1995, p. 3). Thus, strong
+attitudes are stable and resistant to efforts to change them
+(i.e., they are durable) and they bias information processing
+and guide behavior (i.e., they are impactful). In the attitude
+literature, a distinction is made between predictors versus the
+defining features of attitude strength (Luttrell and Sawicki,
+2020). Predictors of attitude strength include the importance,
+accessibility and extremity of an attitude, while defining features
+include the attitude’s temporal stability and impact on behavior.
+The idea that goal or behavioral intentions also possess a
+dimension of strength has received comparatively less attention,
+although the idea does appear sporadically in the literature.
+For example, Hall (2013), in the Encyclopedia of Behavioral
+Medicine, offers this definition:
+
+Temporal stability of intentions
+Research in the goal/behavioral intention domain has also
+focused on the whether the temporal stability of intentions is
+associated with stronger effects on behavior. Temporal stability
+here refers to the lack of change in an intention measure
+over time. In most studies this is typically operationalized as
+a lack of absolute change in an intention measure within an
+individual over time (see Conner et al., 2000 for consideration
+of different measures of stability). For intensive longitudinal
+designs, where intention is measured multiple times, stability
+might be better captured by some form of within-person
+variability measure (with low variability equating to greater
+stability). The important moderating role of temporal stability
+has been highlighted as one of the limiting conditions of the
+Theory of Planned Behavior/Reasoned Action and Reasoned
+Action Approach (Fishbein and Ajzen, 2010) which states that
+intentions will only predict behavior to the extent that they
+remain unchanged between when they are measured and the
+time point at which they may influence the decision to act.
+A number of studies show that more stable intentions better
+predict behavior. Cooke and Sheeran’s (2004) meta-analysis
+showed temporal stability to significantly moderate intentionbehavior (10 studies) relationships. More specifically in relation
+to physical activity, Conner and Godin (2007), across seven
+studies, showed the intention-behavior relationship to be a
+substantial r+ = 0.60 when intentions were stable, but only
+r+ = 0.27 when intentions were unstable. Similarly, the review of
+Rhodes et al. (2022) showed intention stability to be a significant
+
+Frontiers in Psychology
+
+“Intention strength can be defined as the quantity of
+personal resources that an individual is prepared to invest
+in executing a behavior. Intention strength is closely akin
+to the concept of “motivation,” with high levels of intention
+strength understood to represent strong motivation to
+perform a behavior.”
+Similarly, Fuchs et al. (2017) suggest that “intention strength
+refers to the degree of firmness a person expresses toward
+
+06
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+Indeed, temporally stable attitudes may predict behavior over
+periods as long as 10 years (Conner and Norman, 2021).
+Research has also looked at the resistance of strong attitudes
+to persuasive attempts and the impacts of strong attitudes on
+information processing. In general, this research shows that
+stronger attitudes are more resistant to efforts to change them
+(Eagly and Chaiken, 1995) and have greater impact on the
+processing of attitude-relevant information (Petty and Krosnick,
+1995) leading to more biased processing (i.e., enhancement of
+information consistent with current attitude and denigration of
+information inconsistent with current attitude).
+As with strong attitudes, strong intentions might usefully
+be defined as having the consequences of being durable and
+having impact. Durability can be split into the temporal
+stability of intentions and the pliability of intentions. Impact
+can be split into effects of the intention on behavior and
+on the processing of intention-relevant information. In the
+intentions domain it is the intention-behavior relationship that
+has received the most attention. From an intention strength
+perspective, strong intentions are more predictive of behavior
+and therefore reduce the gap between intentions and behavior.
+However, strong intentions are also likely to have the features
+of being stable over time, less pliable when challenged, and
+having greater impacts on the processing of intention relevant
+information. The need for these features of intention strength
+to be given more attention alongside examination of impacts
+on the intention-behavior relationship is noted in the future
+directions section below. Importantly stability, pliability and
+information processing effects may each represent important
+mechanisms by which moderators of the intention-behavior
+relationship have their effects.
+
+an intended action” and Rebar et al. (2019) define intention
+strength as “the degree of commitment a person has to enact
+their intention.” The distinction here is between the focus of the
+intention and the strength of the commitment to pursue that
+intention. Rebar et al. (2019) label these decisional intentions
+versus intention strength. Decisional intentions can be tapped
+by items such as “I intend to engage in __ minutes of physical
+activity next week,” yes/no. In contrast, strength of commitment
+can be tapped by items such as “How strong is your intention
+to resume your fitness training within the next weeks and
+months?,” I do not have this intention at all – I do have a very
+strong intention (Fuchs et al., 2017), or “To what degree do you
+intend to engage in physical activity next week?,” Very little –
+Very much (Rebar et al., 2019).
+These definitions of strength identify some of the different
+predictors of strength but say little about the consequences
+of having a strong intention. It is argued here that work on
+intention strength would benefit from employing a similar
+definition to that used for attitude strength. That is, intention
+strength should be broadly defined in terms of the extent
+to which intentions manifest the qualities of durability and
+impactfulness. These are discussed in the next section under the
+features of intention strength. A subsequent section examines
+a number of predictors of strength that might be expected to
+impact on the features of strength.
+
+Features of strength
+There are interesting parallels between work on the
+intention-behavior gap and work on the attitude-behavior
+relationship. In the attitude domain, strong attitudes are defined
+as having the consequences of being durable and having impact
+(Petty and Krosnick, 1995). Luttrell and Sawicki (2020) refer
+to these as the defining features of attitude strength. Durability
+can be further split into temporal stability and pliability (or
+persistence and resistance), while impact can be further split into
+effects of the attitude on behavior and the processing of attituderelevant information. Temporal stability and impact on behavior
+(i.e., the attitude-behavior gap) are the defining features of
+attitude strength that have received the most attention (Petty
+and Krosnick, 1995). It is worth noting that these two features
+of strong attitudes are not unrelated, with attitude temporal
+stability being one important mechanism through which strong
+attitudes better predict behavior (the prediction explanation;
+Fabrigar et al., 2005). As Schwartz (1978) noted, attitudes
+will not be likely to predict subsequent behavior unless they
+persist over the intervening time interval between when the
+two are measured. A number of previous studies support this
+prediction explanation (Schwartz, 1978; Davidson and Jaccard,
+1979; see also Glasman and Albarracín, 2006). More recently,
+Conner et al. (2022a) showed across three studies that more
+stable attitudes were more predictive of subsequent behavior.
+
+Frontiers in Psychology
+
+Predictors of strength
+A number of factors may be associated with having strong
+cognitions. In the attitude domain, Luttrell and Sawicki (2020)
+refer to these as predictors of attitude strength. In relation
+to predictors of attitude strength, Howe and Krosnick (2017)
+identified 11 predictors: certainty, importance, ambivalence,
+accessibility, knowledge volume, extremity, cognitive-affective
+consistency, intensity, moral conviction, elaboration, and vested
+interest. Similarly, Luttrell and Sawicki (2020) identified
+seven such predictors: accessibility, ambivalence, certainty,
+importance, elaboration, knowledge, and moralization.
+Many of these predictors of attitude strength may also
+have direct or indirect utility in relation to understanding
+intention strength. Each of the eleven predictors of strength
+identified in previous reviews (Howe and Krosnick, 2017;
+Luttrell and Sawicki, 2020) are discussed in detail below:
+extremity, knowledge, accessibility, moralization, ambivalence,
+cognitive-affective consistency, intensity, elaboration, certainty,
+importance, and vested interest. Evidence from the attitude
+
+07
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+behavior (Bechler et al., 2021), although here the greatest change
+in behavior was apparent around the neutral point (these tests
+mainly focused on the attitude-intention relationship). Bassili
+(1996) makes the useful distinction between operative and metajudgmental measures of strength. Operative measures link to
+processes and may be less open to bias in self-report (e.g.,
+accessibility based on reaction times), while meta-judgmental
+measures are based on self-perceptions and may be more open
+to bias in self-report (e.g., perceived importance of a cognition).
+Extremity measures can be considered to be both operative and
+meta-judgmental measures of strength.
+Similarly in relation to intentions, although few studies
+explicitly examine extremity, typically measures are bipolar and
+include elements tapping both direction (equivalent to valence
+in attitude measures) and extremity which is assumed to tap
+strength. For example, behavioral intentions toward physical
+activity might be measured by an item such as, “I intend to
+engage in the recommended levels of physical activity each
+week over the next month, strongly disagree – strongly agree”
+(scored 1–7). Such a measure taps the direction of the intention
+(i.e., negative/disinclined for scores 1–3; neutral for a score of
+4; positive/inclined for scores 5–7) and the extremity of the
+intention (i.e., scored as the distance from the neutral point;
+scores of 5 and 7 both indicate a positive intention but the latter
+score indicates a more extreme [and stronger] positive intention
+than the former). Although unipolar measures of intention (e.g.,
+“I intend to engage in the recommended levels of physical
+activity each week over the next month, not at all – definitely;”
+scored 1–7) are possible, they are relatively little used. For
+example, the intention-behavior relationship of r+ = 0.45 for
+physical activity reported by McEachan et al. (2011) was largely
+based on bipolar intention measures that include both direction
+(or valence) and extremity elements. Such analyses assume
+the intention-behavior relationship is linear, although research
+points to this being unlikely to be the case (e.g., Rebar et al.,
+2019). For example, Sheeran (2002) makes the important point
+that the intention-behavior gap is mainly attributable to those
+who are inclined to act (i.e., positive intention in the distinction
+above) failing to subsequently act (i.e., inclined abstainers in
+his matrix; see also Orbell and Sheeran, 1998). Sheeran (2002)
+noted that in relation to physical activity, 54% of intenders (i.e.,
+those inclined or with positive intentions) failed to act (and 46%
+did act), while only 3% of non-intenders (i.e., those disinclined
+to act/with negative intentions) acted (and 97% failed to act).
+Rhodes and de Bruijn (2013), in their meta-analysis, reported
+the overall intention-physical activity gap to be 46% (only 2% of
+non-intenders acted; while 42% of intenders acted).
+Reanalysis of data from Conner et al. (2021; Study 1) on
+engagement with physical activity examined the effects for
+both valence/direction and extremity for intention. This study
+was conducted in a sample of almost 1,000 adults over a 1month time period using the above bipolar intention measure
+and a self-report measure of engaging with the recommended
+
+strength literature is reviewed alongside any work in the
+intention domain.
+These different predictors of strength fall into one of four
+basic categories (Petty and Krosnick, 1995; Eaton and Visser,
+2008). The first category comprises aspects of the cognition.
+Extremity is the key predictor in this category. The second
+category comprises aspects of the cognition structure. This
+includes aspects of the structure of the thoughts associated with
+the cognition in memory such as the amount of knowledge
+linked to the cognition in memory (i.e., knowledge) and the
+strength of the association between the cognition and the object
+(i.e., accessibility), but also the extent to which the cognition is
+based on something being right or wrong or moral or immoral
+(i.e., moralization), the extent to which positive and negative
+evaluations are incongruent (i.e., ambivalence), the extent to
+which cognitive and affective evaluations are incongruent (i.e.,
+cognitive-affective inconsistency), and the extent to which
+strong emotions are elicited (i.e., intensity). The third category
+comprises processes by which the cognition is formed. This
+includes the degree of thinking done (i.e., elaboration) about the
+merits and shortcomings of target. The fourth and final category
+comprises the subjective beliefs about the cognition. This includes
+the degree of certainty about the object, the importance given to
+the cognition or the object, and vested interest in the cognition.
+
+Aspects of the construct
+In relation to extremity, attitude measures are typically
+operationalized using bipolar scales with a neutral mid-point
+(e.g., “For me, engaging in the recommended levels of physical
+activity each week over the next month is. . .bad – good;”
+scored 1–7). Such measures simultaneously tap the valence
+of the attitude (i.e., negative for scores 1–3; neutral for a
+score of 4; positive for scores 5–7) and the extremity of the
+attitude (i.e., scored as the distance from the neutral point;
+scores of 5 and 7 both indicate a positive attitude but the
+latter score indicates a more extreme positive score than the
+former). More extreme attitudes are assumed to be stronger
+and considerable literature shows more extreme attitudes to
+be more predictive of behavior, stable over time, resistant to
+change and impactful on information processing (see Abelson,
+1995 for a review). The majority of tests of the strength of
+the attitude-behavior relationship employ bipolar measures of
+attitude that confound the valence and extremity of the attitude.
+For example, McEachan et al. (2011) meta-analysis of the theory
+of planned behavior reports an attitude-behavior relationship
+of r+ = 0.30 for physical activity based mainly on such bipolar
+attitude measures. Such analyses assume the attitude-behavior
+relationship is linear, although an attitude strength perspective
+might suggest a cubic relationship with the greatest change in
+behavior apparent at the extremes. Some recent research has
+supported a cubic relationship between attitude extremity and
+
+Frontiers in Psychology
+
+08
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+level of physical activity (“Over the past month, how many
+weeks did you engage in the recommended levels of physical
+activity”? 0–4 weeks; coded into 0–3 weeks non-compliance,
+4 weeks compliance). The results indicate that the discordant
+percentages were 65% for intenders, but only 4% for nonintenders. Table 1 reports the percentage engaging with the
+behavior for each point on the intention scale. This indicates
+several interesting findings. First, that the relationship between
+intention and behavior is not linear (with the pattern either side
+of the neutral point looking very different). Second, that the
+relationship between extremity and likelihood of behavior is not
+linear (even for the positive intender end of the scale). Third, the
+rate of change in the likelihood of behavior is greater between
+more extreme positive responses. More detailed examination
+of how extremity impacts on intention-behavior relationships
+is warranted, particularly as tests of other moderators of
+the intention-behavior relationship may be mainly based on
+measures of intention that include both direction/valence
+and extremity components. As Bechler et al. (2021) note in
+relation to the attitude-behavior relationship, different patterns
+of relationships between extremity and behavior have different
+implications (e.g., a strength perspective would be expected to
+lead to an accelerating effect at more extreme levels).
+
+date there are no studies using operative or meta-judgmental
+measures of knowledge on the intention-behavior relationship.
+It might be expected that knowing more about a behavior
+would be associated with intentions that are more predictive of
+engaging in the behavior.
+In relation to attitudes, accessibility is the likelihood that the
+attitude will come to mind automatically in relevant situations.
+It is an operative measure (i.e., response latency) and assessed
+in relation to the evaluation of the attitude object (Fazio, 1995).
+More accessible attitudes have been found to be more stable
+over time (Bassili, 1996) and more predictive of behavior (Fazio
+et al., 1982); they are also more resistant to persuasion (Pfau
+et al., 2003) and more likely to bias information processing
+(Houston and Fazio, 1989).
+In relation to intentions, accessibility would be the
+likelihood that the intention comes to mind automatically in
+relevant situations. It is an operative measure (i.e., response
+latency) and assessed in relation to the intention. Bassili (1993,
+1995) reported more accessible voting intentions for a candidate
+to better predict voting for that candidate. In contrast, Doll
+and Ajzen (1992) failed to observe a significant moderating
+effect for accessibility on intention-behavior relationships in
+relation to playing with a video game. A meta-analysis by
+Cooke and Sheeran (2004) reported that across five studies
+for the intention-behavior relationship that accessibility was a
+significant moderator. Those with highly accessible intentions
+(r+ = 0.75) compared to those with less accessible intentions
+(r+ = 0.62) showed stronger intention-behavior relationships.
+There is a lack of studies testing intention accessibility in relation
+to engaging in physical activity.
+In relation to attitudes, moralization or moral conviction is
+the degree to which an attitude is a strong and absolute belief
+that something is right versus wrong, moral versus immoral,
+or that it reflects core moral values and convictions (Skitka,
+2014). It is measured by meta-judgmental measures and usually,
+but not always, measured in relation to the attitude/evaluation
+(e.g., Skitka, 2014) rather than the object (e.g., Conner et al.,
+2022b). Various studies have shown such attitudes to be more
+stable (Luttrell and Togans, 2021) and to better predict behavior
+(Skitka and Bauman, 2008; Judge et al., 2012). For example,
+Conner et al. (2022b) showed a measure of moral conviction
+taken in relation to the object (e.g., “Morally, wearing a face
+covering in public places is the right thing to do? Strongly
+disagree-Strongly agree”) in a multi-behavior study significantly
+moderated the attitude-behavior relationship (i.e., higher moral
+conviction associated were better predictors of behavior).
+To date there is a lack of studies assessing the impact
+of moralization or moral conviction in relation to the
+intention or in relation to the behavior on the intentionbehavior relationship. As noted earlier, some studies do show
+that intentions based on moral norms were more predictive
+of behavior, consistent with this hypothesis. For example,
+Godin et al. (2005) showed, across six datasets for various
+
+Aspects of the construct structure
+Attitude knowledge or knowledge volume refers to the
+amount of information the person has about the attitude
+object. This is usually tapped by knowledge listing tasks or
+quizzes (i.e., operative indexes), although meta-judgmental
+measures have also been used. For example, Davidson et al.
+(1985) asked respondents about how well-informed they were
+about the attitude object (completely uninformed - completely
+informed). Davidson et al. (1985) showed greater knowledge to
+be associated with stronger attitude-behavior relationships and
+studies have also shown it to be linked to greater attitude stability
+(Bartle, 2000). Similarly, Conner et al. (2022b) reported that
+more self-reported knowledge about the behavior was associated
+with attitudes that were more predictive of behavior.
+Knowledge measures typically focus on the attitude object
+(i.e., behavior) and therefore could also predict the strength
+of an intention, including its impact on behavior. However, to
+TABLE 1 Percentages of respondents reporting engaging in
+recommended levels of physical activity at different levels of intention
+(reanalysis of data from Conner et al., 2021, Study 1).
+
+Scale point
+
+Behavior
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+0%
+
+0%
+
+9%
+
+17%
+
+28%
+
+33%
+
+51%
+
+Higher scores indicate more positive intentions (4 is the neutral point).
+
+Frontiers in Psychology
+
+09
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+physical activity elicits powerful positive or negative emotions
+then intentions might be expected to be more predictive of
+engaging in physical activity than if no emotions are elicited.
+This may be related to intentions being better predictors of
+behavior when based on affective attitudes or anticipated regret.
+Future research could usefully explore intensity as an intentionbehavior moderator in the physical activity domain.
+
+behaviors (including physical activity), that intentions more
+closely aligned with moral norms (compared to attitudes)
+were more predictive of subsequent behavior. Further tests
+of moral conviction as a predictor of intention strength, are
+warranted, although moralization might not be expected to be
+a key predictor of intention strength in relation to physical
+activity as physical activity is not typically considered to be
+a moral behavior.
+In the attitude domain, ambivalence is the degree to which
+an individual has both positive and negative reactions to an
+attitude object (Conner and Sparks, 2002). Greater ambivalence
+is generally associated with less stable attitudes and weaker
+attitude-behavior relationships. Cooke and Sheeran (2004)
+reported a significant effect of ambivalence on the attitudebehavior relationship across six studies, although the average
+effect size was small. Both meta-judgmental and operative
+measures of ambivalence are widely used (Conner and Sparks,
+2002), although the correlation between the two is modest.
+A limited number of studies have examined ambivalence
+as a moderator of the intention-behavior relationship (see
+Armitage and Conner, 2004), although the effects do not appear
+to be consistent.
+Cognitive-affective inconsistency is the absolute difference
+between the cognitive and affective evaluations of an attitude
+object (irrespective of whether these evaluations are oppositely
+valenced or not as would be required for a measure of
+cognitive-affective ambivalence). Conner et al. (2021) found
+that a measure of cognitive-affective inconsistency, derived
+from bipolar measures of cognitive and affective attitudes,
+moderated the attitude-behavior relationship, as did a measure
+of cognitive-affective ambivalence. Higher levels of cognitiveaffective inconsistency and ambivalence were both associated
+with weaker attitude-behavior relationships, although cognitiveaffective inconsistency was the stronger moderator of attitudebehavior relations (Conner et al., 2021). There are few tests
+of cognitive-affective inconsistency as a predictor of attitude
+stability (see Chaiken et al., 1995). In addition, to date, there
+have been no tests of cognitive-affective inconsistency (taken
+in relation to the behavior) as a moderator of the intentionbehavior relationship. It might be expected that when cognitiveaffective inconsistency is low intentions to perform the behavior
+will be more predictive of behavior.
+In the attitude domain, intensity is the degree to which
+a person’s evaluation of the attitude object activates powerful
+emotions (Howe and Krosnick, 2017). Intensity is measured
+by simple, meta-judgmental measures about how strong the
+participant’s feelings are about an issue or attitude object
+(Krosnick and Schuman, 1988). Again, there are no tests
+to date of intensity taken in relation to the behavior as a
+moderator of the intention-behavior relationship. It might be
+expected that when the behavior activates powerful positive
+emotions then intentions toward to perform the behavior will
+be more predictive of behavior. For example, if the thought of
+
+Frontiers in Psychology
+
+Cognitive processes
+Attitude elaboration is the degree of thought or careful
+consideration one has given to the attitude object’s merits and
+shortcomings (Barden and Tormala, 2014). The classic measure
+is based on thought listing where participants list all their
+thoughts about an attitude object (i.e., operative measures; Petty
+and Cacioppo, 1977), although meta-judgmental measures of
+elaboration could be tapped by simple self-report. Studies have
+shown more elaborated attitudes based on thought-listing to be
+more stable (Haugtvedt and Petty, 1992) and to better predict
+behavior (Barden and Petty, 2008). In contrast, Conner et al.
+(2022b) did not find a meta-judgmental measure of attitude
+elaboration about the attitude object to moderate the attitudebehavior relationship.
+There are no published tests of elaboration (operative
+or meta-judgmental) taken in relation to the behavior as a
+moderator of the intention-behavior relationship. It might be
+expected that greater elaboration about a behavior might lead to
+intentions that are more predictive of engaging in the behavior.
+
+Subjective beliefs about the construct
+Attitude certainty refers to the degree of confidence an
+individual has that his or her evaluation of the attitude object
+is correct/clear to him or her. The conviction with which an
+attitude is held is included as part of other definitions of
+certainty (Tormala and Rucker, 2018). Simple single-item, metajudgmental measures are often used to tap certainty (e.g., Fazio
+and Zanna, 1978) and studies have shown greater certainty
+to be linked to both greater stability of attitudes (Bassili,
+1996) and stronger attitude-behavior relationships (Warland
+and Sample, 1973; Fazio and Zanna, 1978). Cooke and Sheeran
+(2004) found significant effects of certainty on attitude-behavior
+relationships across four studies with small-medium average
+effect sizes. Conner et al. (2022b) showed that a measure of
+certainty taken in relation to general thoughts and feelings
+about the behavior (e.g., How certain are you about what you
+think about wearing a face covering in public places? Not
+at all certain-Extremely certain’) in a multi-behavior study
+significantly moderated the attitude-behavior relationship (i.e.,
+higher certainty associated with attitudes that were better
+predictors of behavior).
+
+10
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+given the large amount of attention devoted to this variable
+in relation to attitude strength and the conclusion that it is a
+key predictor that may account for the role of other predictors
+(Conner et al., 2022b).
+In the attitude domain, vested interest is the degree to which
+the attitude object is perceived to be of significant personal
+consequence (Crano, 1995; Howe and Krosnick, 2017). Crano
+(1995) notes the strong overlap between vested interest and
+personal relevance (and also attitude importance). Personal
+relevance is measured by simple, meta-judgmental measures
+about the attitude object anchored with “not personally
+relevant” to “personally relevant” (Haugtvedt and Wegener,
+1994). To date there are no tests of vested interest or personal
+relevance taken in relation to the behavior as a moderator of
+the intention-behavior relationship. It might be expected that
+greater vested interest/personal relevance of a behavior would be
+associated with intentions that are more predictive of engaging
+in the behavior.
+
+A limited number of studies have reported that intentions
+held with greater certainty better predict behavior (Bagozzi
+and Yi, 1989; Bassili, 1993; Pieters and Verplanken, 1995;
+Chandrashekaran et al., 2000; Sheeran, 2002; Sheeran and
+Abraham, 2003). A meta-analysis by Cooke and Sheeran (2004)
+reported that that certainty was a significant moderator of the
+intention-behavior relationship across two studies, with those
+with more certain intentions (r = 0.64) compared to those with
+less certain intentions (r = 0.41) showing stronger intentionbehavior relationships. Sheeran and Abraham (2003) reported
+that intention certainty significantly moderated the intentionphysical activity relationship.
+Attitude importance is the degree to which an individual
+attaches significance to the attitude. This is a predictor of
+attitude strength that has received considerable attention (e.g.,
+it is the focus of the first Annual Review of Psychology article
+focusing on attitude strength; Howe and Krosnick, 2017). Howe
+and Krosnick (2017) argue that attitude importance is a key
+predictor of attitude strength and reflects the degree of priority
+a person attaches to an attitude and distinguish it from concepts
+that link an attitude to one’s values or self-image (e.g., centrality,
+involvement, ego-involvement, salience, personal relevance).
+The most frequently used measures of this construct tap how
+important the attitude or object is to the individual, how
+concerned they are about it, or how deeply they care about
+it (i.e., meta-judgmental measures; Krosnick, 1989; Gopinath
+and Nyer, 2009). Studies show greater attitude importance
+to be associated with stronger attitude-behavior relationships
+in relation to product choices (Kokkinaki and Lunt, 1997),
+work behavior (Ziegler and Schlett, 2016), and environmental
+behaviors (Bolsen, 2013). There are fewer tests of the impact
+of attitude importance on attitude stability with mixed findings
+(Krosnick, 1988).
+Eaton and Visser (2008) note that although typical
+definitions of attitude importance focus on the significance
+that people attach to their attitude toward a given object,
+measures of attitude importance (Boninger et al., 1995) tend
+to focus on how important the attitude object is to them.
+However, studies show that measures of these two aspects of
+attitude importance are extremely highly correlated (Boninger
+et al., 1995). Conner et al. (2022b) showed a measure of
+importance taken in relation to the attitude object or behavior
+(e.g., “How important is wearing a face covering in public
+places to you? Not at all – Extremely important”) in a multibehavior study significantly moderated the attitude-behavior
+relationship (i.e., higher importance associated with better
+predictions of behavior).
+Given the attention in the attitude domain it is perhaps
+surprising that importance has not received any attention
+in relation to intention strength. It might be expected that
+intentions toward behaviors judged to be important (or indeed
+behaviors judged to be important) might be stronger (i.e.,
+durable and impactful) than those toward behaviors not judged
+to be important. Tests in the intention domain are warranted
+
+Frontiers in Psychology
+
+Future directions
+In this section two related directions for future research
+on the intention-behavior gap are set out based on the
+above review of the existing literature (see Figure 1 for a
+summary). These are the systematic study of individual and
+multiple moderators of the intention-behavior relationship and
+exploration of mechanisms by which moderators influence the
+intention-behavior relationship.
+
+Systematic study of individual and
+multiple moderators
+The literature reviewed above has highlighted a wide
+range of moderators of the intention-behavior relationship
+which together could provide a better understanding of the
+intention-behavior gap in relation to physical activity and other
+behaviors. The moderators reviewed prominently included goal
+dimensions, intention strength predictors and intention stability
+but also those linked to the basis of intention, structure of
+intention, and the personality dimension of conscientiousness.
+The concept of intention strength might provide a useful way to
+conceptualize these various different moderators. In this view,
+the different individual moderators would be considered as
+predictors of intention strength. As such, it would be useful to
+explore their effects on the intention-behavior relationship as
+well as on other features of intention strength such as intention
+stability, pliability and impacts on information processing (for
+an example see Cooke and Sheeran, 2013). For example, in
+addition to the predictors of strength reviewed above (i.e.,
+extremity, knowledge, accessibility, certainty, and importance),
+goal dimensions such as goal desire, goal commitment, goal
+priority and goal conflict and measures of the structure of
+intentions (e.g., motivational coherence) might all be expected
+
+11
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+importance and cognitive-affective inconsistency moderated the
+attitude-behavior relationship and only the former remained
+significant when controlling for attitude stability. This supports
+the idea that attitude importance is a key predictor of attitude
+strength (see Howe and Krosnick, 2017). Similar studies in
+relation to the various moderators of the intention-behavior
+relationship would be valuable to identify key moderators.
+This might indicate that moderators found to be dominant in
+relation to attitude strength such as importance are also key
+in relation to intention strength or whether different patterns
+exist (e.g., a different moderator such as certainty or several
+moderators are important).
+
+to influence the intention-behavior relationship as well as other
+features of intention strength (i.e., intention stability, intention
+pliability and impact on information processing). As noted
+below, studies assessing the impact of moderators on both the
+intention-behavior relationship and other features of intention
+strength opens up the possibility of testing these other features
+as mechanisms to explain their effects on the intention-behavior
+relationship. In particular, research on intention stability as a
+mechanism to explain the effects of various intention-behavior
+moderators is reviewed below.
+Studies examining multiple moderators of the intentionbehavior relationship open up additional avenues for analysis.
+Relatively few studies have assessed more than one of these
+moderators, making comparisons of effects difficult due to
+differences in samples and behaviors. More studies could
+usefully assess multiple moderators to allow more direct
+comparisons of effects without the potential confounding
+factors that limit between study comparisons (e.g., sample,
+behavior or measure differences). Such studies could also allow
+exploration of the inter-relationships between moderators. In
+the attitude domain, a number of studies have examined the
+inter-relationships of different predictors of attitude strength.
+The general conclusion is that these predictors of attitude
+strength are both conceptually and empirically distinct (Luttrell
+and Sawicki, 2020). Correlations (e.g., Conner et al., 2022b)
+and confirmatory factor analyses (Krosnick et al., 1993; Lavine
+et al., 1998) support the idea that each constitutes its own
+latent factor), although they are intercorrelated. This may
+also be the case for moderators of the intention-behavior
+relationship although this remains to be determined. Studies
+that assess multiple intention-behavior moderators could
+employ exploratory and confirmatory factor analyses to test for
+underlying dimensions among moderators.
+A limited number of studies have examined the effects
+of more than one predictor of attitude strength at a time
+on more than one feature of attitude strength (Bassili, 1996;
+Prislin, 1996; Luttrell and Togans, 2021; Conner et al., 2022b;
+see also Philipp-Muller et al., 2020 on predicting intentions).
+Such studies also allow exploration of the simultaneous
+effects of different predictors of attitude strength in order to
+assess if, for example, particular predictors dominate in their
+impact on the stability of attitudes and the attitude-behavior
+relationship. Conner et al. (2022b) showed that attitude
+certainty, importance, subjective knowledge, moral basis of
+attitude, cognitive-affective felt and potential ambivalence
+plus cognitive-affective inconsistency, but not attitude
+elaboration, individually and in combination (excluding
+potential ambivalence) predicted attitude stability. It was also
+found that attitude certainty, importance, subjective knowledge,
+moral basis of attitude, cognitive-affective felt ambivalence,
+cognitive-affective inconsistency plus attitude stability, but
+not cognitive-affective potential ambivalence or attitude
+elaboration, each individually moderated the attitude-behavior
+relationship. But when considered simultaneously only attitude
+
+Frontiers in Psychology
+
+Exploration of mechanisms
+A further useful direction for research on the intentionbehavior gap would be exploration of the mechanisms by
+which moderators of this relationship have their effect. In
+statistical terms this would be a test of whether measures
+of a proposed mechanism fully or partially mediate the
+effect of a moderator of the intention-behavior relationship.
+As noted above, intention stability, intention pliability and
+impacts on information processing might each be features of
+intention strength that could explain the effects of various
+moderators of the intention-behavior relationship. For example,
+a moderator like conscientiousness might be associated with
+stronger intention-behavior relationships because conscientious
+individuals hold intentions that are more stable and less pliable
+in the face of persuasive attempts and also because they are more
+likely to denigrate information that conflicts with their existing
+intentions (or bolster information that is consistent with their
+existing intentions).
+The stability of attitudes has particularly received attention
+as a mechanism to explain the effects of other moderators of the
+attitude-behavior relationship. The idea that attitude temporal
+stability is one important mechanism through which strong
+attitudes better predict behavior is known as the prediction
+explanation (Fabrigar et al., 2005). As Schwartz (1978) noted,
+attitudes are unlikely to predict subsequent behavior unless
+they remain stable over the intervening time interval between
+when the two are measured. For example, Conner et al.
+(2022b) showed that the moderating effects of certainty,
+importance, knowledge, moral basis of attitude, ambivalence
+and inconsistency on the attitude-behavior relationship were
+fully or partially explained by their effects on attitude stability.
+Other mechanisms relate to other features of attitude strength
+(e.g., changing/biased perceptions of the attitude object;
+Fabrigar et al., 2005).
+Similarly, intention stability rather than being just another
+moderator of the intention-behavior relationship, may
+represent an important mechanism through which other
+moderators of the intention-behavior relationship have their
+effect. That is, a moderator like high goal commitment may
+strengthen the intention-behavior relationship because it is
+
+12
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+aid our understanding of causal relationships in relation to
+intentions and behavior.
+
+associated with more stable intentions. The extent to which
+intention stability effects fully mediate the effects of other
+moderators of the intention-behavior relationship would
+point to stability being a key mechanism by which they have
+this effect. Research has shown intention stability to fully or
+partially explain the effect of various other moderators of the
+intention-behavior relationship. For example, Sheeran and
+Abraham (2003) reported that intention stability moderated
+the intention–behavior relationship for exercising (intentionbehavior correlation for low stability, r+ = 0.49, for high
+stability, r+ = 0.76). More importantly, Sheeran and Abraham
+(2003) found that intention stability fully mediated the effect
+of other moderators (i.e., intention certainty, past behavior,
+self-schema, anticipated regret and attitudinal control) of
+the intention–behavior relationship. This suggests that the
+mechanism by which these other moderators have their effect
+on intention–behavior relationships is through changing the
+temporal stability of intentions. Hence, factors that might be
+expected to make individual intentions more stable over time
+would be expected to increase the impact that these intentions
+have on behavior and so reduce the intention–behavior gap.
+Further studies that consider intention stability and other
+mechanisms as mediators of the effects of moderators of the
+intention-behavior relationship would be valuable. This is the
+case both for the examination of the effects of individual
+(e.g., motivational coherence, Sheeran and Conner, 2017) and
+multiple (e.g., Sheeran and Abraham, 2003) moderators. In
+relation to other mechanisms, it was noted earlier that in
+the attitude strength domain, attitude stability was assumed
+not to be the only mechanism that might explain the effects
+of moderators of the attitude-behavior relationship. Similarly,
+in the intention domain, intention stability may not be the
+only mechanism to explain the effects of moderators of the
+intention-behavior relationship. For example, such moderators
+may have their effects on the intention-behavior relationship
+through their effects on various aspects of goal pursuit. Sheeran
+and Webb (2016) provide a useful review of the processes
+leading to goal realization. Self-regulatory challenges such as
+getting started, keeping goal pursuit on track, and bringing
+goal pursuit to a successful close are highlighted. Aspects of
+these processes could also form mechanisms explaining how
+moderators of the intention-behavior relationship have their
+effect (see also Johnson et al., 2006 for relevant suggestions
+from control theory). Relatedly, increased effort during goal
+pursuit and greater persistence in the face of obstacles could
+constitute additional mechanisms by which moderators have
+their effect on the intention-behavior relationship (see Bogg and
+Roberts, 2004, 2013 on conscientiousness). Studies that compare
+various different mechanisms through which individual and
+multiple moderators of the intention-behavior relationship
+have their effects could make an important contribution
+to understanding in this area. Further, experimental studies
+that attempt to manipulate moderators or mechanisms could
+
+Frontiers in Psychology
+
+Conclusion
+This manuscript has reviewed the work on various
+moderators of the intention-behavior relationship in order to
+provide insights into the factors that might explain the gap
+between the two. The focus was on the concept of intention
+strength and how this might add to understanding in this area.
+In particular, the idea that strong intentions may not only
+better predict behavior but also be more stable over time was
+advanced and it was noted that stability may be an important
+mechanism by which moderators of the intention-behavior
+relationship have their effects. In addition, a number of potential
+moderators drawn from the concept of intention strength and
+its parallels to predictors of attitude strength were reviewed.
+Future research in this area could benefit from a systematic
+examination of multiple moderators of the intention-behavior
+relationship and the extent to which intention stability or other
+mechanisms might explain their moderating effects. Relatedly,
+future research should also consider other key features of
+intention strength such as the pliability of intentions and their
+impact on the processing of intention-relevant information.
+Although strong intentions may be stable over time and more
+predictive of engaging in behaviors such as physical activity,
+they may also be more difficult to change through intervention
+and may lead to the biased processing of messages designed
+to change them (see Johnson et al., 2006; Cooke and Sheeran,
+2013).
+
+Author contributions
+MC and PN developed the idea, contributed to and wrote
+the manuscript, and approved the submitted version.
+
+Conflict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest.
+
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their affiliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed
+or endorsed by the publisher.
+
+13
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+References
+Abelson, R. P. (1995). “Attitude extremity,” in Attitude Strength: Antecedents and
+Consequences, eds R. E. Petty and J. A. Krosnick (Mahwah, NJ: Erlbaum), 25–41.
+
+Conner, M., and Norman, P. (2021). Predicting long-term healthy eating
+behaviour: understanding the role of cognitive and affective attitudes. Psychol.
+Health 36, 1165–1181. doi: 10.1080/08870446.2020.1832675
+
+Ajzen, I. (1991). The theory of planned behavior. Organ. Behav. Hum. Decis.
+Process. 50, 179–211. doi: 10.1016/0749-5978(91)90020-T
+
+Conner, M., and Sparks, P. (2002). Ambivalence and attitudes. Eur. Rev. Soc.
+Psychol. 12, 37–70. doi: 10.1080/14792772143000012
+
+Armitage, C. J., and Conner, M. (2001). Efficacy of the theory of planned
+behaviour: a meta-analytic review. Br. J. Soc. Psychol. 40, 471–499.
+
+Conner, M., McEachan, R., Jackson, C., McMillan, B., Woolridge, M., and
+Lawton, R. (2013). Moderating effect of socioeconomic status on the relationship
+between health cognitions and behaviors. Ann. Behav. Med. 46, 19–30. doi: 10.
+1007/s12160-013-9481-y
+
+Armitage, C. J., and Conner, M. (2004). “The effects of attitudinal ambivalence
+on attitude-intention-behaviour relations,” in Theoretical Perspectives on Attitudes
+for the 21st Century: The Gregynog Symposium, eds G. R. Maio and G. Haddock
+(Hove: Psychology Press), 121–143.
+
+Conner, M., McEachan, R., Lawton, J., and Gardner, P. (2016b). Basis of
+intentions as a moderator of the intention-health behavior relationship. Health
+Psychol. 35, 219–227. doi: 10.1037/hea0000261
+
+Avisha, A., Conner, M., and Sheeran, P. (2019). Setting realistic health goals:
+antecedents and consequences. Ann. Behav. Med. 53, 1020–1031. doi: 10.1093/
+abm/kaz012
+
+Conner, M., Norman, P., and Bell, R. (2002). The theory of planned behavior
+and healthy eating. Health Psychol. 21, 194–201. doi: 10.1037/0278-6133.21.2.194
+
+Bagozzi, R. P., and Yi, Y. (1989). The degree of intention formation as a
+moderator of the attitude-behavior relationship. Soc. Psychol. Q. 52, 266–279.
+doi: 10.2307/2786991
+
+Conner, M., Sheeran, P., Norman, P., and Armitage, C. J. (2000). Temporal
+stability as a moderator of relationships in the theory of planned behaviour. Br.
+J. Soc. Psychol. 39, 469–493. doi: 10.1348/014466600164598
+
+Bandura, A. (1997). Self-Efficacy: The Exercise of Control. New York, NY:
+Freeman.
+
+Conner, M., van Harreveld, F., and Norman, P. (2022a). Attitude stability as
+a moderator of the relationships between cognitive and affective attitudes and
+behaviour. Br. J. Soc. Psychol. 61, 121–142. doi: 10.1111/bjso.12473
+
+Barden, J., and Petty, R. E. (2008). The mere perception of elaboration creates
+attitude certainty: exploring the thoughtfulness heuristic. J. Personal. Soc. Psychol.
+95, 489–509. doi: 10.1037/a0012559
+
+Conner, M., Wilding, S., and Norman, P. (2022b). Testing predictors of attitude
+strength as determinants of attitude stability and attitude-behavior relationships:
+a multi-behavior study. Eur. J. Soc. Psychol. 1–13. doi: 10.1002/ejsp2844
+
+Barden, J., and Tormala, Z. L. (2014). Elaboration and attitude strength: the
+new meta-cognitive perspective. Soc. Personal. Psychol. Compass 8, 17–29. doi:
+10.1111/spc3.12078
+
+Conner, M., Wilding, S., Prestwich, A., Hutter, R., Hurling, R., van Harreveld,
+F., et al. (2022c). Goal prioritization and behavior change: evaluation of an
+intervention for multiple behaviors. Health Psychol. 41, 356–365. doi: 10.1037/
+hea0001149
+
+Bartle, J. (2000). Political awareness, opinion constraint and the stability of
+ideological positions. Polit. Stud. 48, 467–484. doi: 10.1111/1467-9248.00270
+Bassili, J. N. (1993). Response latency versus certainty as indexes of the strength
+of voting intentions in a CATI survey. Public Opin. Q. 57, 54–61. doi: 10.1086/
+269354
+
+Conner, M., Wilding, S., van Harreveld, F., and Dalege, J. (2021). Cognitiveaffective inconsistency and ambivalence: impact on the overall attitudebehavior relationship. Personal. Soc. Psychol. Bull. 47, 673–687. doi: 10.1177/
+0146167220945900
+
+Bassili, J. N. (1995). Response latency and the accessibility of voting intentions:
+what contributes to accessibility and how it affects vote choice. Personal. Soc.
+Psychol. Bull. 21, 686–695. doi: 10.1177/0146167295217003
+
+Cooke, R., and Sheeran, P. (2004). Moderation of cognition-intention and
+cognition-behaviour relations: a meta-analysis of properties of variables from
+the theory of planned behaviour. Br. J. Soc. Psychol. 43, 159–186. doi: 10.1348/
+0144666041501688
+
+Bassili, J. N. (1996). Meta-judgmental versus operative indexes of psychological
+attributes: the case of measures of attitude strength. J. Personal. Soc. Psychol. 71,
+637–653. doi: 10.1037/0022-3514.71.4.637
+Bechler, C. J., Tormala, Z. L., and Rucker, D. D. (2021). The attitude–behavior
+relationship revisited. Psychol. Sci. 32, 1285–1297. doi: 10.1177/0956797621995206
+
+Cooke, R., and Sheeran, P. (2013). Properties of behavioral intentions: factor
+structure and consequences for behavior, information processing, and resistance
+to attack. J. Appl. Soc. Psychol. 43, 749–760. doi: 10.1111/jasp.12003
+
+Bogg, T., and Roberts, B. W. (2004). Conscientiousness and health-related
+behaviors: a meta-analysis of the leading behavioral contributors to mortality.
+Psychol. Bull. 130, 887–919. doi: 10.1037/0033-2909.130.6.887
+
+Crano, W. D. (1995). “Attitude strength and vested interest,” in Attitude
+Strength: Antecedents and Consequences, eds R. E. Petty and J. A. Krosnick
+(Mahwah, NJ: Erlbaum), 131–157.
+
+Bogg, T., and Roberts, B. W. (2013). The case for conscientiousness: evidence
+and implications for a personality trait marker of health and longevity. Ann. Behav.
+Med. 45, 278–288. doi: 10.1007/s12160-012-9454-6
+
+Davidson, A. R., and Jaccard, J. J. (1979). Variables that moderate the attitudebehavior relation: results of a longitudinal survey. J. Personal. Soc. Psychol. 37,
+1364–1376. doi: 10.1037/0022-3514.37.8.1364
+
+Bolsen, T. (2013). A light bulb goes on: norms, rhetoric, and actions for the
+public good. Polit. Behav. 35, 1–20. doi: 10.1007/s11109-011-9186-5
+
+Davidson, A. R., Yantis, S., Norwood, M., and Montano, D. E. (1985). Amount
+of information about the attitude object and attitude–behavior consistency.
+J. Personal. Soc. Psychol. 49, 1184–1198. doi: 10.1037//0022-3514.49.5.1184
+
+Boninger, D. S., Krosnick, J. A., Berent, M. K., and Fabrigar, L. R. (1995). “The
+causes and consequences of attitude importance,” in Attitude Strength: Antecedents
+and Consequences, eds R. E. Petty and J. A. Krosnick (Mahwah, NJ: Erlbaum),
+159–189.
+
+Deci, E. L., and Ryan, R. M. (1985). Intrinsic Motivation and Self-Determination
+in Human Behavior. New York, NY: Plenum.
+Doll, J., and Ajzen, I. (1992). Accessibility and stability of predictors in the theory
+of planned behavior. J. Personal. Soc. Psychol. 63, 754–765. doi: 10.1037/0022-3514.
+63.5.754
+
+Carfora, V., Caso, D., Sparks, P., and Conner, M. (2017). Moderating effects of
+pro-environmental self-identity on pro-environmental intentions and behaviour:
+a multi-behaviour study. J. Environ. Psychol. 53, 92–99. doi: 10.1016/J.JENVP.
+2017.07.001
+
+Eagly, A. H., and Chaiken, S. (1995). “Attitude strength, attitude structure, and
+resistance to change,” in Attitude Strength: Antecedents and Consequences, eds R. E.
+Petty and J. A. Krosnick (Mahwah, NJ: Erlbaum), 413–432.
+
+Chaiken, S., Pomerantz, E. M., and Giner-Sorolla, R. (1995). “Structural
+consistency and attitude strength,” in Attitude Strength: Antecedents and
+Consequences, eds R. E. Petty and J. A. Krosnick (Mahwah, NJ: Erlbaum), 387–412.
+
+Eaton, A. A., and Visser, P. S. (2008). Attitude importance: understanding the
+causes and consequences of passionately held views. Soc. Personal. Compass 2,
+1719–1736. doi: 10.1111/j.1751-9004.2008.00125.x
+
+Chandrashekaran, M., McNeilly, K., Russ, F. A., and Marinova, D. (2000).
+From uncertain intentions to actual behavior: a threshold model of whether and
+when salespeople quit. J. Market. Res. 37, 463–479. doi: 10.1509/jmkr.37.4.463.
+18793
+
+Fabrigar, L. R., MacDonald, T. K., and Wegener, D. T. (2005). “The structure
+of attitudes,” in The Handbook of Attitudes, eds D. Albarracin, B. T. Johnson, and
+M. P. Zanna (Milton Park: Routledge), 79–124.
+
+Conner, M., Abraham, C., Prestwich, A., Hutter, R., Hallam, J., Sykes-Muskett,
+B., et al. (2016a). Impact of goal priority and goal conflict on the intention-health
+behavior relationship: tests on physical activity and other health behaviors. Health
+Psychol. 35, 1017–1026. doi: 10.137/hea0000340
+
+Fazio, R. H. (1995). “Attitudes as object-evaluation asociations: determinants,
+consequences, and correlates of attitude accessibility,” in Attitude Strength:
+Antecedents and Consequences, eds R. E. Petty and J. A. Krosnick (Mahwah, NJ:
+Erlbaum), 247–282.
+
+Conner, M., and Godin, G. (2007). Temporal stability of behavioural intention
+as a moderator of intention-health behaviour relationships. Psychol. Health 22,
+875–896. doi: 10.1080/14768320601070449
+
+Fazio, R. H., and Zanna, M. P. (1978). Attitudinal qualities relating to the
+strength of the attitude-behavior relationship. J. Exp. Soc. Psychol. 14, 398–408.
+doi: 10.1016/0022-1031(78)90035-5
+
+Frontiers in Psychology
+
+14
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+Fazio, R. H., Chen, J., McDonel, E. C., and Sherman, S. J. (1982). Attitude
+accessibility, attitude-behavior consistency and the strength of the objectevaluation association. J. Exp. Soc. Psychol. 18, 339–357. doi: 10.1016/00221031(82)90058-0
+
+Kokkinaki, F., and Lunt, P. (1997). The relationship between involvement,
+attitude accessibility and attitude-behavior consistency. Br. J. Soc. Psychol. 53,
+315–327. doi: 10.1111/j.2044-8309.1997.tb01146.x
+Lavine, H., Huff, J. W., Wagner, S. H., and Sweeney, D. (1998). The moderating
+influence of attitude strength on the susceptibility to context effects. J. Personal.
+Soc. Psychol. 75, 359–373. doi: 10.1037/0022-3514.75.2.359
+
+Fishbein, M., and Ajzen, I. (2010). Predicting and Changing Behavior: The
+Reasoned Action Approach. London: Psychology Press.
+Fuchs, R., Seelig, H., Gohner, W., Schlatterer, M., and Ntoumanis, N. (2017). The
+two sides of goal intentions: Intention self-concordance and intention strength as
+predictors of physical activity. Psychol. Health 32, 110–126. doi: 10.1080/08870446.
+2016.1247840
+
+Luttrell, A., and Sawicki, V. (2020). Attitude strength: distinguishing predictors
+versus defining features. Soc. Personal. Psychol. Compass 14:e12555. doi: 10.1111/
+spc3.12555
+Luttrell, A., and Togans, L. J. (2021). The stability of moralized attitudes over
+time. Personal. Soc. Psychol. Bull. 47, 551–564. doi: 10.1177/0146167220935737
+
+Gardner, B., de Bruijn, G.-J., and Lally, P. (2011). Systematic review and metaanalysis of applications of the self-report habit index to nutrition and physical
+activity behaviours. Ann. Behav. Med. 42, 174–187. doi: 10.1007/s12160-0119282-0
+
+McCrae, R. R., and Costa, P. T. (1987). Validation of the five-factor model of
+personality across instruments and observers. J. Personal. Soc. Psychol. 52, 81–90.
+doi: 10.1037/0022-3514.52.1.81
+
+Geers, A. L., Wellman, J. A., and Lassiter, G. D. (2009). Dispositional optimism
+and engagement: the moderating influence of goal prioritization. J. Personal. Soc.
+Psychol. 96, 913–932. doi: 10.1037/a0014830
+
+McEachan, R. R. C., Conner, M., Taylor, N. J., and Lawton, R. J. (2011).
+Prospective prediction of health-related behaviors with the theory of planned
+behavior: a meta-analysis. Health Psychol. Rev. 5, 97–144. doi: 10.1080/17437199.
+2010.521684
+
+Glasman, L. R., and Albarracín, D. (2006). Forming attitudes that predict future
+behavior: a meta-analysis of the attitude-behavior relation. Psychol. Bull. 132,
+778–822. doi: 10.1037/0033-2909.132.5.778
+
+McEachan, R., Taylor, N., Harrison, R., Lawton, R., Gardner, P., and Conner, M.
+(2016). Meta-analysis of the Reasoned Action Approach (RAA) to understanding
+health behaviors. Ann. Behav. Med. 50, 592–612. doi: 10.1007/s12160-0169798-4
+
+Godin, G., and Conner, M. (2008). Intention-behavior relationship based on
+epidemiological indices: an application to physical activity. Am. J. Health Promot.
+22, 180–182. doi: 10.4278/ajhp.22.3.180
+
+Morwitz, V. G., and Munz, K. P. (2020). Intentions. Consum. Psychol. Rev. 4,
+26–41. doi: 10.1002/arcp.1061
+
+Godin, G., Conner, M., and Sheeran, P. (2005). Bridging the intention-behavior
+“gap”: the role of moral norm. Br. J. Soc. Psychol. 44, 497–512. doi: 10.1348/
+014466604X17452
+
+Norman, P., Wilding, S., and Conner, M. (2022). Does temporal stability
+moderate reasoned action approach relations with Covid-19 preventive
+behaviours? Ann. Behav. Med. doi: 10.1093/abm/kaac022
+
+Gopinath, M., and Nyer, P. U. (2009). The effect of public commitment on
+resistance to persuasion: the influence of attitude certainty, issue importance,
+susceptibility to normative influence, preference for consistency and source
+proximity. Int. J. Res. Market. 26, 60–68. doi: 10.1016/j.ijresmar.2008.08.003
+
+Orbell, S., and Sheeran, P. (1998). ‘Inclined abstainers’: a problem for predicting
+health—related behaviour. Br. J. Health Psychol. 37, 151–165. doi: 10.1111/j.20448309.1998.tb01162.x
+
+Hagger, M., Chatzisarantis, N., and Biddle, S. (2002). A meta-analytic review
+of the theories of reasoned action and planned behavior in physical activity:
+Predictive validity and the contribution of additional variables. J. Sport Exerc.
+Psychol. 24, 3–32. doi: 10.1123/jsep.24.1.3
+
+Ouellette, J. A., and Wood, W. (1998). Habit and intention in everyday life: the
+multiple processes by which past behavior predicts future behavior. Psychol. Bull.
+124, 54–74. doi: 10.1037/0033-2909.124.1.54
+Petty, R. E., and Cacioppo, J. T. (1977). Forewarning, cognitive responding, and
+resistance to persuasion. J. Personal. Soc. Psychol. 35, 645–655. doi: 10.1037/00223514.35.9.645
+
+Hagger, M. S., Cheung, M. W.-L., Ajzen, I., and Hamilton, K. (2022). Perceived
+behavioral control moderating effects in the theory of planned behavior: a metaanalysis. Health Psychol. 41, 155–167. doi: 10.1037/hea0001153
+
+Petty, R. E., and Krosnick, J. A. (eds) (1995). Attitude Strength: Antecedents and
+Consequences. Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Hall, P. (2013). “Intention strength,” in Encyclopedia of Behavioral Medicine, eds
+M. D. Gellman and J. R. Turner (New York, NY: Springer), doi: 10.1007/978-14419-1005-9_1708
+
+Pfau, M., Roskos-Ewoldsen, D., Wood, M., Yin, S., Cho, J., Lu, K.-H., et al.
+(2003). Attitude accessibility as an alternative explanation for how inoculation
+confers resistance. Commun. Monogr. 70, 39–51. doi: 10.1037/10.1080/71511
+4663
+
+Haugtvedt, C. P., and Petty, R. E. (1992). Personality and persuasion: need for
+cognition moderates the persistence and resistance of attitude changes. J. Personal.
+Soc. Psychol. 63, 308–319. doi: 10.1037/0022-3514.63.2.308
+
+Philipp-Muller, A., Wallace, L. E., and Wegener, D. T. (2020). Where does
+moral conviction fit?: A factor analytic approach examining antecedents to attitude
+strength. J. Exp. Soc. Psychol. 86:103900. doi: 10.1016/j.jesp.2019.103900
+
+Haugtvedt, C. P., and Wegener, D. T. (1994). Message order effects in
+persuasion: an attitude strength perspective. J. Consum. Res. 21, 205–218. doi:
+10.1086/209393
+
+Pieters, R. G. M., and Verplanken, B. (1995). Intention-behaviour consistency:
+effects of consideration set size, involvement and need for cognition. Eur. J. Soc.
+Psychol. 25, 531–543. doi: 10.1002/ejsp.2420250505
+
+Houston, D. A., and Fazio, R. H. (1989). Biased processing as a function of
+attitude accessibility: making objective judgments subjectively. Soc. Cogn. 7, 51–66.
+doi: 10.1521/soco.1989.7.1.51
+
+Prestwich, A. J., Perugini, M., and Hurling, R. (2008). Goal desires moderation
+intention-behaviour relations. Br. J. Soc. Psychol. 47, 49–71. doi: 10.1348/
+014466607X218221
+
+Howe, L. C., and Krosnick, J. A. (2017). Attitude strength. Annu. Rev. Psychol.
+68, 327–351. doi: 10.1146/annurev-psych-122414-033600
+Johnson, R. E., Chang, C. H., and Lord, R. G. (2006). Moving from cognition to
+behavior: what research says. Psychol. Bull. 132, 381–415. doi: 10.1037/0033-2909.
+132.3.381
+
+Prislin, R. (1996). Attitude stability and attitude strength: one is enough to make
+it stable. Eur. J. Soc. Psychol. 26, 447–477. doi: 10.1002/(SICI)1099-0992(199605)
+26:3<447::AID-EJSP768<3.0.CO;2-I
+
+Judge, L. W., Bellar, D., Petersen, J., Lutz, R., Gilreath, E., Simon, L., et al. (2012).
+The attitudes and perceptions of adolescent track and field athletes toward PED
+use. Perform. Enhanc. Health 1, 75–82. doi: 10.1016/j.peh.2012.04.002
+
+Rebar, A. L., Rhodes, R. E., and Gardner, B. (2019). How we are misinterpreting
+physical activity intention – behavior relations and what to do about it. Int. J.
+Behav. Nutr. Phys. Act. 16:71. doi: 10.1186/s12966-019-0829-y
+
+Keer, M., Conner, M., Van den Putte, B., and Neijens, P. (2014). The temporal
+stability and predictive validity of affect-based and cognition-based intentions. Br.
+J. Soc. Psychol. 53, 315–327. doi: 10.1111/bjso.12034
+
+Rhodes, R. E., and de Bruijn, G.-J. (2013). How big is the physical activity
+intention-behaviour gap? A meta-analysis using the action control framework. Br.
+J. Health Psychol. 18, 296–309. doi: 10.1111/bjhp.12032
+
+Krosnick, J. A. (1988). Attitude importance and attitude change. J. Exp. Soc.
+Psychol. 24, 240–255. doi: 10.1016/0022-1031(88)90038-8
+
+Rhodes, R. E., and Dickau, L. (2012). Experimental evidence for the intentionbehavior relationship in the physical activity domain: a meta-analysis. Health
+Psychol. 31, 724–727. doi: 10.1037/a0027290
+
+Krosnick, J. A. (1989). Attitude importance and attitude accessibility. Personal.
+Soc. Psychol. Bull. 15, 297–308. doi: 10.1177/0146167289153002
+
+Rhodes, R. E., Cox, A., and Reza Sayar, M. A. (2022). What predicts the physical
+activity intention–behavior gap? A Systematic Review. Ann. Behav. Med. 56, 1–20.
+doi: 10.1093/abm/kaab044
+
+Krosnick, J. A., and Schuman, H. (1988). Attitude intensity, importance, and
+certainty and susceptibility to response effects. J. Personal. Soc. Psychol. 54,
+940–952. doi: 10.1037/0022-3514.54.6.940
+
+Rhodes, R. E., Saelens, B. E., and Sauvavage-Mar, C. (2018). Understanding
+physical activity through interactions between the built environment and social
+cognitions: A systematic review. Sports Med. 48, 1893–1912. doi: 10.1007/s40279018-0934-0
+
+Krosnick, J. A., Boninger, D. S., Chuang, Y. C., Berent, M. K., and Carnot, C. G.
+(1993). Attitude strength: one construct or many related constructs? J. Personal.
+Soc. Psychol. 65, 1132–1151. doi: 10.1037/0022-3514.81.4.566
+
+Frontiers in Psychology
+
+15
+
+frontiersin.org
+
+Conner and Norman
+
+10.3389/fpsyg.2022.923464
+
+Sheeran, P., and Webb, T. L. (2016). The intention-behavior gap. Soc. Personal.
+Compass 10, 503–518. doi: 10.1111/spc3.12265
+
+Rogers, R. W. (1983). “Cognitive and physiological processes in fear appeals
+and attitude change: a revised theory of protection motivation,” in Social
+Psychophysiology: A Source Book, eds J. T. Cacioppo and R. E. Petty (New York,
+NY: Guilford Press), 153–176.
+
+Sheeran, P., Godin, G., Conner, M., and Germain, M. (2017). Paradoxical effects
+of experience: past behavior both strengthens and weakens the intention-behavior
+relationship. J. Assoc. Consum. Res. 2, 309–318. doi: 10.1086/691216
+
+Sandberg, T., and Conner, M. (2009). A mere measurement effect for anticipated
+regret: impacts on cervical screening attendance. Br. J. Soc. Psychol. 48, 221–236.
+doi: 10.1348/014466608X347001
+
+Sheeran, P., Maki, A., Montanaro, E., Bryan, A., Klein, W. M. P., Miles, E.,
+et al. (2016). The impact of changing attitudes, norms, and self-efficacy on healthrelated intentions and behavior: a meta-analysis. Health Psychol. 35, 1178–1188.1.
+doi: 10.1037/hea0000387
+
+Sandberg, T., and Conner, M. (2011). Using self-generated validity to promote
+exercise behaviour. Br. J. Soc. Psychol. 50, 769–783. doi: 10.1111/j.2044-8309.2010.
+02004.x
+
+Sheeran, P., Norman, P., and Orbell, S. (1999). Evidence that intentions based
+on attitudes better predict behaviour than intentions based on subjective norms.
+Eur. J. Soc. Psychol. 29, 403–406. doi: 10.1002/(SICI)1099-0992(199903/05)29:
+2/3<403::AID-EJSP942>3.0.CO;2-A
+
+Schüz, B. (2017). Socio-economic status and theories of health behaviour: time
+to upgrade a control variable. Br. J. Health Psychol. 22, 1–7. doi: 10.1111/bjhp.
+12205
+Schüz, B., Brick, C., Wilding, S., and Conner, M. (2020). Socioeconomic status
+moderates the effects of health cognitions on health behaviors: two multi-behavior
+studies. Ann. Behav. Med. 54, 36–48. doi: 10.1093/abm/kaz023
+
+Sheeran, P., Trafimow, D., and Armitage, C. J. (2003). Predicting behaviour
+from perceived behavioural control: tests of the accuracy assumption of the
+theory of planned behaviour. Br. J. Soc. Psychol. 42, 393–410. doi: 10.1348/
+014466603322438224
+
+Schüz, B., Conner, M., Wilding, S., Alhwatan, R., Prestwich, A., and Norman,
+P. (2021). Do socio-structural factors moderate the effects of health cognitions
+on COVID-19 protection behaviours? Soc. Sci. Med. 285:114261. doi: 10.1016/j.
+socscimed.2021.114261
+
+Skitka, L. J. (2014). “The psychological foundations of moral conviction,” in
+Advances in Moral Psychology, eds J. C. Wright and H. Sarkissian (London:
+Bloomsbury Academic Press), 148–166.
+
+Schüz, B., Li, A. S. W., Harding, A., McEachan, R. R. C., and Conner, M. (2017).
+Socioeconomic status as a moderator between social cognitions and physical
+activity: systematic review and meta-analysis based on the theory of planned
+behavior. Psychol. Sport Exerc. 30, 186–195. doi: 10.1016/j.psychsport.2017.03.004
+
+Skitka, L. J., and Bauman, C. W. (2008). Moral conviction and political
+engagement. Polit. Psychol. 29, 29–54. doi: 10.1111/j.1467-9221.2007.00611.x
+Tormala, Z. L., and Rucker, D. D. (2018). Attitude certainty: antecedents,
+consequences, and new directions. Consum. Psychol. Rev. 1, 72–89. doi: 10.1002/
+arcp.1004
+
+Schwartz, S. H. (1978). Temporal instability as a moderator of the attitudebehavior relationship. J. Personal. Soc. Psychol. 36, 715–724. doi: 10.1037/00223514.36.7.715
+
+Triandis, H. C. (1980). Reflections on trends in cross-cultural research. J. Cross
+Cult. Psychol. 11, 35–58. doi: 10.1177/0022022180111003
+
+Schwarzer, R., and Luszczynska, A. (2015). “Health action process approach,”
+in Predicting and Changing Health Behaviour: Research and Practice with Social
+Cognition Models, 3rd Edn, eds M. Conner and P. Norman (Maidenhead: Open
+University Press), 252–278.
+
+Unsworth, K., Yeo, G., and Beck, J. (2014). Multiple goals: a review and
+derivation of general principles. J. Organ. Behav. 8, 1064–1078. doi: 10.1002/job.
+1963
+
+Sheeran, P. (2002). Intention-behavior relations: a conceptual and empirical
+review. Eur. Rev. Soc. Psychol. 12, 1–30. doi: 10.1080/14792772143000003
+
+Warland, R. H., and Sample, J. (1973). Response certainty as a moderator
+variable in attitude measurement. Rural Sociol. 38, 174–180.
+
+Sheeran, P., and Abraham, C. (2003). Mediator of moderators: temporal stability
+of intention and the intention–behavior relationship. Personal. Soc. Psychol. Bull.
+29, 205–215. doi: 10.1177/0146167202239046
+
+Webb, T. L., and Sheeran, P. (2006). Does changing behavioral intentions
+engender behavior change? A meta-analysis of the experimental evidence. Psychol.
+Bull. 132, 249–268. doi: 10.1037/0033-2909.132.2.249
+
+Sheeran, P., and Conner, M. (2017). Improving the translation of intentions into
+health actions: the role of motivational coherence. Health Psychol. 36, 1065–1073.
+doi: 10.1037/hea0000553
+
+Wood, C., Conner, M., Sandberg, T., Taylor, N., Godin, G., Miles, E., et al.
+(2016). The impact of asking intention or self-prediction questions on subsequent
+behavior: a meta-analysis. Personal. Soc. Psychol. Rev. 20, 245–268. doi: 10.1177/
+1088868315592334
+
+Sheeran, P., and Conner, M. (2019). Degree of reasoned action predicts
+increased intentional control and reduced habitual control over health behaviors.
+Soc. Sci. Med. 228, 68–74. doi: 10.1016/j.socscimed.2019.03.015
+
+Ziegler, R., and Schlett, C. (2016). An attitude strength and selfperception framework regarding the bi-directional relationship of job
+satisfaction with extra-role and in-role behavior: the doubly moderating
+role of work certainty. Front. Psychol. 7:235. doi: 10.3389/fpsyg.2016.
+00235
+
+Sheeran, P., and Orbell, S. (2000). Using implementation intentions
+to increase attendance for cervical cancer screening. Health Psychol. 19,
+283–289. doi: 10.1037/0278-6133.19.3.283
+
+Frontiers in Psychology
+
+16
+
+frontiersin.org
+
+

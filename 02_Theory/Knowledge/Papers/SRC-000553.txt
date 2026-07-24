@@ -1,0 +1,1865 @@
+Journal of Brand Management (2024) 31:193–211
+https://doi.org/10.1057/s41262-023-00319-8
+
+ORIGINAL ARTICLE
+
+From warmth to warrior: impacts of non‑profit brand activism
+on brand bravery, brand hypocrisy and brand equity
+Zoe Lee1
+
+· Amanda Spry2 · Yuksel Ekinci3 · Jessica Vredenburg4
+
+Revised: 7 December 2022 / Accepted: 27 February 2023 / Published online: 20 March 2023
+© Crown 2023
+
+Abstract
+Empirical evidence concerning the effects of brand activism on brand equity is growing but remains mixed at best. Although
+non-profit brands increasingly implement activism initiatives, there are not yet any studies that look outside the commercial
+sector. Non-profit brands are well placed to step up and engage in political dialogue—social change is at their core. Yet, the
+risks of neglecting a warm charitable image are considerable in terms of alienating current supporters and losing donations.
+Our research contributes to this debate by employing signalling theory to examine the effects of non-profit brand activism on
+brand equity in the ‘third sector’. The mediating roles of brand bravery and brand hypocrisy in this central relationship are
+also explored. Survey data were obtained from 518 British respondents and analysed using structural equation modelling.
+Our results show evidence of partial serial mediation, where the direct negative effect of non-profit brand activism on brand
+equity is eliminated in the presence of brand bravery and brand hypocrisy. Interestingly, in studying the mediated-moderation
+links, we also find the strengthening effects of a donor’s moral foundations at play. Our study suggests that there are equity
+gains for non-profit brands that shed traditional ‘warmth’ positioning and embrace activism and bravery.
+Keywords Brand activism · Brand equity · Non-profit branding · Brand bravery · Brand hypocrisy · Virtue signalling
+
+Introduction
+‘Charities too often maintain the structures of power
+and privilege in our society rather than striving to dismantle them’—Charity So White
+* Zoe Lee
+LeeSH4@cardiff.ac.uk
+Amanda Spry
+amanda.spry@rmit.edu.au
+Yuksel Ekinci
+yuksel.ekinci@port.ac.uk
+Jessica Vredenburg
+jessica.vredenburg@aut.ac.nz
+1
+
+Cardiff Business School, Cardiff University, Colum Drive,
+Cardiff CF10 3EU, Wales, UK
+
+2
+
+School of Economics, Finance, and Marketing, RMIT
+University, 445 Swanston Street, Melbourne, VIC 3000,
+Australia
+
+3
+
+Faculty of Business and Law, University of Portsmouth,
+Richmond Building, Portsmouth PO1 3DE, UK
+
+4
+
+Marketing, Auckland University of Technology, Auckland,
+New Zealand
+
+More and more brands are stepping into the domain of activism to achieve business and social goals. Accordingly, academic research on ‘brands doing good’ has proliferated (e.g.
+Iglesias and Ind 2020; Kapitan et al. 2022; Mirzaei et al.
+2021; Moorman 2020; Vredenburg et al. 2020). Yet, the literature remains relatively silent on brand activism in the
+non-profit sector. Brand activism is defined as taking a public stance on a divisive sociopolitical issue (Moorman 2020;
+Vredenburg et al. 2020). While this strategy emerged in the
+commercial sector, examples amongst non-profit organisations (NPOs) also abound. Consider Charity So White, a
+campaign group that originated to tackle institutional racism
+among charities positioning themselves as ‘white saviours’
+and relying on ‘poverty porn’ to meet fundraising goals.
+More recently, Shelter, a homelessness charity launched an
+activist-driven campaign called ‘Fight for Home’, in which
+they took a public stand in support of the human right to
+Vol.:(0123456789)
+
+194
+
+safe housing (Farndon-Taylor 2021). But do donors respond
+positively to activism campaigns from non-profit brands?
+In the brand activism context, NPOs present an interesting
+paradox, which makes this an important avenue of inquiry.
+On one hand, NPOs exert a strong cultural and moral authority (Moorman 2020) as a result of being ‘higher purpose
+natives’ (Mirzaei et al. 2021, p. 186) with civic and political
+engagement as fundamental responsibilities (LeRoux 2007;
+Suárez 2009). Thus, unlike their commercial counterparts,
+NPOs do not need to employ brand activism to signal a ‘virtuous’ position in the marketplace. Yet, NPOs face a crisis
+relating to their identity and role (Lee and Bourne 2017).
+While once regarded as providers of public services considered critical to community well-being (Charity Commission
+2020), their legitimacy is now being questioned as a result
+of declining transparency and trust (Becker et al. 2020;
+Edelman 2022). Moreover, their marketplace relevance is
+dubious—meaningful differentiation was already difficult to
+sustain, given the exponential growth in competition in the
+last four decades (Mirzaei et al. 2021). This is now intensified by commercial brands encroaching on their prosocial
+positioning by adopting activism. Meanwhile, sector-wide
+funding cuts (du Bois and Langley-Cook 2022; Michaelidou
+et al. 2015a) make it all the more important to achieve differentiation and relevance and, in turn, attract donations. To
+survive this downturn, NPOs have a history of borrowing
+branding strategies from the commercial sector—for example, by crafting a desirable brand image (Wymer et al. 2016),
+adopting a strong brand orientation (Da Silva et al. 2020;
+Lee 2013; Napoli 2006) and communicating a credible brand
+purpose (Mirzaei et al. 2021). Most recently, this has been
+attempted with the rise of brand activism in the non-profit
+sector, as a strategic avenue to adapt and survive.
+Looking to the brand activism literature, empirical evidence of the success of this strategy is mixed. Brand activism holds potential to create positive social change (Moorman 2020) and build brand equity when authenticity is
+carefully maintained (Korschun et al. 2020; Schmidt et al.
+2022; Vredenburg et al. 2020). But this strategy is polarising and its outcomes, unpredictable (Bhagwat et al. 2020;
+Hydock et al. 2020). This drastically departs from the ‘warm
+and fuzzy’ brand images historically used by NPOs to draw
+in donations (Michel and Rieunier 2012; Mirzaei et al. 2021;
+Venable et al. 2005). Together, the non-profit branding and
+brand activism literatures do not provide a clear picture of
+the relationship between non-profit brand activism and brand
+equity, a key question to be answered for NPOs considering
+an activism strategy.
+The current paper proposes that non-profit brand activism can shape brand equity (1) positively via brand bravery and (2) negatively via brand hypocrisy. In contrast to
+the traditional warmth appeals employed in the charitable
+sector, which can at times be interpreted as incompetent
+
+Z. Lee et al.
+
+(Kim and Ball 2021), brand bravery depicts a distinct and
+strategic brand identity of boldness, determination and
+resilience in upholding core beliefs and values (Jain et al.
+2021). Thus, we argue that when non-profit brand activism is perceived by donors as brave, there will be positive
+flow-on effects to brand equity. On the other hand, the
+risk of judgements of brand hypocrisy is also elevated
+when ‘virtue signalling’ tactics are employed (Berthon
+et al. 2021), due to the departure this represents from the
+known and understood warmth appeals, characteristic of
+NPOs. We argue that when brand activism is instead perceived as hypocritical, there will be negative brand equity
+effects. Therefore, the present work empirically examines
+the mediating effects of both bravery and hypocrisy as
+two mechanisms to explain the potential for positive and
+negative effects, respectively, of non-profit brand activism
+on brand equity. Last, given that activism and morality are
+interlinked, the moderating effect of the individual donor’s
+moral foundations—namely, their concern for justice—is
+also investigated.
+Our results reveal a significant negative effect of nonprofit brand activism on brand equity. However, this effect
+was eliminated in the presence of brand bravery and brand
+hypocrisy, showing support for partial serial mediation.
+Brand bravery plays a key role—non-profit brand activism
+has potential to indirectly and positively affect brand equity
+when mediated by bravery, and brand bravery effectively
+mitigates the negative effect of hypocrisy on brand equity. In
+addition, the relationship between non-profit brand activism
+and bravery is intensified when a donor’s concern for justice
+is high. Our research thus makes three important theoretical
+contributions. First, we contribute to the evolving debate in
+the non-profit brand activism literature about the direction
+of its effects on brand equity, empirically demonstrating that
+it has the potential to be positive in the presence of bravery.
+Second, we speak to the ongoing conversation in the nonprofit branding literature about how contemporary branding approaches can be successfully transplanted to the third
+sector to provide strategic solutions to problems caused by
+funding cuts, increased competition and decreased differentiation. Last, we offer brand activism to the NPO sector as
+an avenue to disrupt problematic discourses that underlie
+inequitable institutions and structures.
+The paper is organised as follows. First, we map the literature on brand activism, non-profit branding and signalling theory, all of which inform our conceptual framework
+and hypotheses development. The empirical aspects of the
+paper are then presented, including research methods and
+results. The paper concludes with a discussion of theoretical and practical implications, as well as a note about future
+research on the evolution of brand activism within the nonprofit sector.
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+Theoretical background
+Brand activism
+Brand activism is defined as a ‘purpose- and values-driven
+strategy in which a brand adopts a nonneutral stance on
+institutionally contested sociopolitical issues, to create
+social change and marketing success’ (Vredenburg et al.
+2020, p. 446). Unlike corporate firms that were the first
+to adopt brand activism, NPOs have inherently always
+attended to their societal duties—as Mirzaei and colleagues (2021) note, NPOs are ‘higher purpose natives’
+(p. 186). What makes brand activism different from the
+existing environmental, political and social change efforts
+of NPOs and therefore worthy of study in this context?
+First, the domain of non-profit brands has historically
+been more closely aligned to corporate social responsibility (CSR)—indeed one of the most common CSR practices
+is to strategically partner with a non-profit (Lafferty and
+Goldsmith 2005). Yet, there are clear differences between
+brand activism, CSR and other strategies of brands ‘doing
+good’ (Iglesias and Ind 2020). CSR entails company policies and practices that reflect their responsibilities to the
+wider society (Matten and Moon 2008). Moreover, CSR
+programs tend to be tightly linked to organisational
+value and perceived to benefit the majority of the society (Wettstein and Baur 2016). While brand activism has
+evolved from CSR (Sarkar and Kotler 2018) as a result of
+increasing consumer pressure for brands to take a stand
+on important political and social issues, it is a distinctly
+different strategy. Because brand activism expresses support for or opposition to controversial sociopolitical issues
+(Moorman 2020), whether or not these issues should be
+resolved and what constitutes a viable solution tends to
+be highly debated, garnering polarised audience reactions
+(Bhagwat et al. 2020; Vredenburg et al. 2020). Thus,
+unlike CSR, brand activism is inherently divisive as there
+is no ‘correct’ solution as to how brands should address
+social and political issues, nor guidance as to which issues
+to address (Korschun et al 2019; Vredenburg et al 2020).
+Due to brand activism’s engagement with partisan issues
+(Moorman 2020), it would not necessarily be as well
+received as related strategies such as brand purpose have
+been in the non-profit sector (Mirzaei et al. 2021). Consider Barnardo’s, a leading UK children’s charity—while
+its mission to protect vulnerable children has never been
+contested by the public, Barnardo’s recent spotlight on
+racial injustice and white privilege attracted major backlash and complaints (Blackall 2020). The charity published guides for parents to discuss white privilege with
+their children, which was a relatively ‘brave’ approach,
+involving issues of equity, class and race, and represented
+
+195
+
+a departure from the conventional warm and fuzzy messaging used by NPOs.
+Second, brand activism has been linked to both positive
+and negative outcomes. Authentic brand activism, which
+entails alignment of marketing messaging with corporate
+practice, purpose and values, can strengthen brand equity
+whereas woke washing, where brands pay lip service to
+a sociopolitical issue without taking action, diminishes
+brand equity (Korschun et al. 2019; Schmidt et al. 2022;
+Vredenburg et al. 2020). Corporate sociopolitical activism
+and political advocacy work documents adverse reactions
+from investors (Bhagwat et al. 2020) and the likelihood of
+repelling existing customers for reasons of identity-based
+consumption and negative bias (Hydock et al. 2020). One
+can expect even greater unpredictability when brand activism is used by NPOs due to multiple stakeholders espousing
+diverse values (Bennett and Sargeant 2005; Boenigk and
+Becker 2016; Chad 2015) and the risk of it being interpreted
+as over-commercialised (Sepulcri et al. 2020). For example, such a business-like strategy (Maier et al. 2016) can be
+perceived as hypocritical and deceitful when employed by
+NPOs (see Table 1 for key differences between brand activism when used by corporations versus NPOs). Yet, understanding the impact of branding strategies is important given
+the pivotal role that strong brands serve for NPOs (Chapleo
+2015). We now turn to the non-profit branding literature to
+better understand brand activism in this new context.
+
+Non‑profit branding and the dualities of non‑profit
+brands
+Unlike commercial brands, non-profit brands must navigate
+complex identity issues (Lee and Bourne 2017; Lee and
+Davies 2021). Central to our conceptualisation is the duality of advocacy and service provision logics embedded in
+NPOs (Beaton et al. 2021). While this duality demonstrates
+that the notion of non-profits participating in advocacy is
+not new, many organisations have historically been forced
+to prioritise service provision over advocacy (Schmid et al.
+2008). This is echoed across non-profit brand image and personality studies, which indicate that NPOs have traditionally
+crafted their identities around being caring and compassionate (Sargeant et al. 2008). Non-profit brands also emphasise
+generous and friendly images (Michel and Rieunier 2012)
+and nurturing personalities (Venable et al. 2005). Political
+orientation is scarcely considered in the non-profit branding
+literature (with the exception of Bennett and Gabriel 2003),
+despite civic engagement being a fundamental responsibility of NPOs (Beaton et al. 2021; LeRoux 2007). With this
+background, advocacy and service provision are now conceived as competing institutional logics (Beaton et al. 2021).
+Thus, non-profit brands that adopt activism—connoting a
+tilt towards advocacy rather than service provision—would
+
+Traditionally caring and compassionate; higher-purpose native
+To differentiate and stand out
+To better align with the mission
+Sources of income
+Government funding, donations or funding from corporate partners, fees for
+services provided, donations/fundraising
+Stakeholders
+Trustees, employees, donors, volunteers, supporters, service users
+Key strategic issues related to
+Difficult to shift from a ‘warm’ compassionate communication style to a
+engaging in brand activism
+‘warrior’ activist one
+The ‘stickiness’ of the traditional caring and compassionate brand image of
+NPOs that drives donations
+Concern around stakeholder perceptions of over-commercialisation and
+adopting business-like strategies
+Likely to garner polarised reactions—due to contested nature of focal sociopolitical issues and a departure from the traditional caring and nurturing
+service-provision role of NPOs
+Intended brand activism outcomes Increased brand equity, with the aim of increasing donations and support for
+charitable service provision, in turn
+Change and impact related to focal sociopolitical issue
+Examples
+Greenpeace (campaigning for environmental protection and peace), Shelter’s
+Fight for Home campaign (e.g. equality and justice in safe housing); Charity So White (tackling racism in the sector)
+Indicative literature
+Beaton et al (2021), Lee and Davies (2021), Michel and Rieunier, (2012),
+Mirzaei et al (2021)
+
+Contextual foundations
+Activism drivers
+
+Non-profit (NPO) brand activism
+
+Table 1  Comparison of non-profit and for-profit brand activism
+
+Korschun et al (2019), Moorman (2020), Schmidt et al (2022), Vredenburg
+et al (2020)
+
+Increased brand equity, with the aim of increasing market leadership and
+financial performance, in turn
+Change and impact related to focal sociopolitical issue
+Nike’s support of the Black Lives Matter social movement, Oreo’s support of
+the LGBTQIA + community via the Pride campaign
+
+Customers, suppliers, board members, employees, shareholders
+Difficult to create a credible and authentic identity
+Risks of woke washing
+Risks of alienating some customers
+Likely to garner polarised reactions—due to contested nature of focal
+sociopolitical issues and appropriateness of holding up businesses as moral
+leaders
+
+Profit-driven business
+Consumer expectations
+Maintaining relevance through taking part in sociocultural movements
+Sales revenue
+
+For-profit (FPO) brand activism
+
+196
+Z. Lee et al.
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+likely be viewed by donors as a significant departure from
+the norm in this sector. Next, as brands play a crucial ‘signalling’ role in communicating such significant changes in
+strategic functions and objectives (Ertimur and CoskunerBalli 2015) and managing stakeholders’ reactions (Stuart
+2018), we draw on signalling theory to understand this
+further.
+
+Signalling theory
+Signalling theory (Spence 1973) is useful for explaining how
+people will respond to new brand information where there
+are information asymmetries between sender and receiver
+(Erdem and Swait 1998). A brand is situated as a signal in
+the marketplace. Recent theory iterations speak to the notion
+of ‘virtue signalling’ (Berthon et al. 2021), defined as ‘the
+action or practice of publicly expressing opinions or sentiments intended to demonstrate one’s good character or the
+moral correctness of one’s position on a particular issue’.
+Indeed, these authors point to the trend of brand virtue signalling, which has the specific goal of defining or enhancing
+brand image. We suggest brand activism can act as a virtue
+signal assisting the brand in establishing a ‘virtuous’ position and, in turn, brand equity.
+In the non-profit context, however, we argue that brands
+do not need to adopt activist positioning for the purpose
+of signalling a ‘virtuous’ position in the marketplace, as
+they have mission and purpose encoded into their brand
+DNA (Mirzaei et al. 2021). Instead, brand activism could
+be employed by NPOs to signal strategic intent to achieve
+differentiation, relevance and growth within the sector, particularly in response to the commercial companies that are
+increasingly leveraging social and political issues as part
+of their marketing communications to establish a prosocial
+positioning. Indeed, brand virtue signalling carves out differentiation and demonstrates the brand’s sentiment on an issue
+of importance to its donors (Berthon et al. 2021). Consistent
+with the brand activism literature, brand virtue signalling
+Fig. 1  Conceptual framework of
+the effects of non-profit brand
+activism on non-profit brand
+equity
+
+197
+
+also has potential to attract negative reactions (Berthon et al.
+2021). Namely, it can be perceived as moral grandstanding
+in a climate which calls into question the appropriateness of
+businesses and CEOs as moral leaders (e.g. Branicki et al.
+2021).
+Synthesising the brand activism and non-profit branding
+literatures with signalling theory, it becomes clear that what
+is needed is to identify and unpack possible mechanisms
+that could explain the opposing outcomes of non-profit
+brand activism. We therefore propose (1) brand bravery
+and (2) brand hypocrisy as missing links that mediate the
+brand activism-brand equity relationship and explain the
+positive and negative effects, respectively, that have been
+documented in the literature. Figure 1 depicts our conceptual
+framework. Next, we define the constructs and hypothesise
+their relationships in more detail.
+
+Effects of non‑profit brand activism on brand
+bravery
+We define non-profit brand activism from the donor’s perspective, namely the extent to which donors perceive (1) a
+brand’s identity to encompass activism and (2) a brand’s
+commitment to activism (Corning and Myers 2002; Klar
+and Kasser 2009). Brand bravery is a differentiated and strategic aspect of brand identity that reflects a sense of being
+‘altruistic, bold, courageous, determined, enduring, fearless
+or gritty’ (Jain et al. 2021, p. 1222). Perceptions of bravery,
+in particular, are established by demonstrating a determination to uphold and communicate beliefs and values, even
+when this requires courage and risk to ‘intercept the future
+and not just flow with it’ (Jain et al. 2021, p. 1215). Practitioners suggest that being brave requires moving away from
+what is considered the norm or traditional in marketing communications (Adams 2018). We reason that the very actions
+and values discussed above as essential to building brand
+bravery are inherent to a strategy of brand activism. Activist
+brands use a ‘controversial pathway’ towards challenging the
+
+198
+
+Z. Lee et al.
+
+status quo and are regarded as ‘moral subjects’ (Sibai et al.
+2021), which are purpose and values driven (Wettstein and
+Baur 2016; Vredenburg et al. 2020). Thus, brand activism
+has potential to contribute to the formation of a courageous
+and emancipatory—a brave—brand identity. In the marketing literature, more generally, ‘wokeness’ is associated with
+courage (Sobande 2020). In sum, we propose a positive relationship between brand activism and brand bravery.
+
+to do good rather than to make money, it is also likely to lead
+to perceptions of hypocrisy if viewed as a drastic departure
+from traditional charitable service provision (Beaton et al.
+2021). Such hypocritical perceptions are likely for charities because activist messaging deviates from the expected
+compassionate and caring tone (Becker-Olsen et al. 2006).
+Overall, we predict that higher perceived non-profit brand
+activism leads to greater brand hypocrisy.
+
+H1 Perceived non-profit brand activism has a positive
+impact on brand bravery.
+
+H2 Perceived non-profit brand activism has a positive
+impact on brand hypocrisy.
+
+Effects of non‑profit brand activism on brand
+hypocrisy
+
+Effects of brand bravery on brand hypocrisy
+
+Acts of virtue signalling are often viewed as questionable
+and therefore, can garner positive or negative reactions (Berthon et al. 2021); the interpretation and in turn, the decisionmaking process depends on the receiver (Bergh et al. 2014;
+Connelly et al. 2011). Thus, we hypothesise that perceived
+non-profit brand activism can also have negative effects,
+namely breeding judgements of brand hypocrisy. Brand
+hypocrisy is based on the concept of corporate hypocrisy
+(Wagner et al. 2009) and refers to the perception that a brand
+is claiming to be something that it is not, arising from ‘distance between assertions and performance’ (Shklar 1984,
+p. 62). Korschun et al (2019) further suggest that hypocrisy
+can emerge in the activism context when a company remains
+silent on an issue.
+We reason that this negative effect could occur because
+brand virtue signalling—which is exhibited through brand
+activism—invites a high degree of scrutiny from the marketplace (Berthon et al. 2021) in terms of brand activism
+authenticity (Mirzaei et al. 2022; Vredenburg et al. 2020)
+and brand signal credibility (e.g. Erdem and Swait 1998,
+2004). Authenticity is concerned with the alignment of message and practice (Vredenburg et al. 2020), while credibility
+refers to the extent to which the information about a brand’s
+position (in this case, the stance on a sociopolitical issue
+expressed in the brand activism campaign) is truthful and
+dependable (Erdem and Swait 1998). Thus, there are clear
+parallels between authenticity, credibility and hypocrisy
+as these concepts all emphasise a brand delivering on its
+promises.
+Hypocrisy is a major risk of brand virtue signalling (Berthon et al. 2021) as it can be interpreted as a display of
+‘conspicuous compassion’ rather than actual political commitment or responsibility (West 2004). Extant studies further caution the risks of virtue signalling—being perceived
+as moral grandstanding (Grubbs et al. 2019) or presenting themselves as ‘woke’ to enhance their status (Tosi and
+Warmke 2016). Hence, whilst brand activism can be interpreted positively for non-profits because their raison d'être is
+
+Next, we propose a negative relationship between brand
+bravery and brand hypocrisy. Hypocrisy judgements are
+a reaction to information exposure that indicates a difference between a brand’s assertions and actions (Wagner
+et al. 2009). While non-profit brand activism was argued to
+directly and positively relate to brand hypocrisy (H2), brand
+bravery plays an important mediating role with the potential
+to mitigate negative reactions to non-profit brand activism. It
+does this by conveying a brand’s actions and values thereby
+minimising the distance that donors perceive between these
+and a brand’s claims (which gives rise to hypocrisy) and by
+buffering the effect of negative information on donors and
+the brand evaluations formed.
+First, brand bravery goes beyond caring for the cause—it
+resonates with the brand’s core identity as well as actions
+and values (Jain et al. 2021). Brands that fit the ‘brave’ (Jain
+et al. 2021) and ‘hero’ (Pearson and Mark 2001; Smith 2016)
+personality archetypes take courageous and difficult actions
+and privilege purpose above profit (Smith and Milligan
+2011). Specifically, brand bravery as an identity reflected
+in brand’s core values, culture, positioning and personality
+(de Chernatony 2002; Harris and de Chernatony 2001; Kapferer 2012), communicates to donors that a brand is altruistic
+and courageous in its actions and values. Hence, bravery
+works to minimise the distance between perceived prosocial
+actions and assertions that breeds hypocrisy. By contrast,
+when brands engage with sociopolitical issues for opportunistic reasons or as a response under pressure, perceptions of
+woke washing can result (Vredenburg et al. 2020), which,
+like hypocrisy, signals a mismatch between what a brand
+says and what it does. Second, brand bravery can create a
+buffering effect on the consumers, making them resistant
+to negative information against the brand (Jain et al. 2021).
+Hence, holding beliefs about a brand as brave can reduce the
+risk of hypocrisy perceptions forming from certain information exposure, thus protecting the brand.
+H3 Brand bravery has a negative impact on brand hypocrisy.
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+Effects of brand bravery on brand equity
+Brand equity has become an outcome of interest in the NPO
+sector as branding is used to achieve competitive differentiation (Baghi and Gabrielli 2013; Khan and Ede 2009; Randle
+et al. 2013; Wymer and Akbar 2017). We follow BeckerOlsen and Hill (2006) and define non-profit brand equity
+according to four stepwise components: (1) brand identity,
+(2) brand meaning, (3) brand response and (4) brand relationship. We choose this definition because it is derived from
+the widely adopted Consumer Based Brand Equity (CBBE)
+model (Keller and Swaminathan 2020).
+We hypothesise a positive relationship between brand
+bravery and brand equity. Initially, brand bravery can
+strengthen brand identity by setting a brand apart from competitors, and favourably shaping brand associations related
+to being altruistic, bold and courageous. Brand bravery can
+further establish positive brand meanings via performance
+attributes (such as empathy and ability to satisfy donor
+needs) and abstract imagery (Keller 1993). How people
+think about brands abstractly is particularly important for
+NPOs because of the intangibility and social context of their
+offerings (Venable et al. 2005). Brand bravery conveys a
+brand’s identity, which includes upholding its core values
+and beliefs by engaging in altruistic and empathetic actions
+and, in turn, defines and differentiates brand meanings.
+Next, as brand bravery is associated with altruistic and
+courageous acts, it can further elicit favourable affective brand responses (Jain et al. 2021), such as feelings of
+inspiration and goodwill that become associated with the
+non-profit brand (Amos 1982; Dawson 1988; Wunderink
+2002). Brand bravery can effectively contribute to credibility
+perceptions by communicating the brand’s actions, beliefs
+and values and how those support a brand’s promises made
+in its activism campaign. Finally, the brand relationship is
+the ultimate link in the chain of responses that builds brand
+equity. Perceived bravery is likely to reinforce favourable
+brand associations and brand images, increase credibility
+and trust and generate positive feelings of inspiration and
+goodwill, which result in more benevolent attitudes and
+behavioural intentions, which characterise relationships with
+NPOs (Becker-Olsen and Hill 2006).
+H4 Brand bravery has a positive impact on brand equity.
+
+Effects of brand hypocrisy on brand equity
+We hypothesise a negative relationship between brand
+hypocrisy and brand equity. While brand hypocrisy may
+not compromise brand awareness, it will create negative
+brand image and sales relating to perceived deviation
+between a brand’s sociopolitical messaging and business practice (Wagner et al. 2009). Related research on
+
+199
+
+greenwashing and woke washing clearly demonstrates that
+consumers feel misled by these practices and view them
+as unethical (Delmas and Burbano 2011; Vredenburg et al.
+2020). This will tarnish and create inconsistencies across
+images and beliefs, which negatively shapes brand meanings (Becker-Olsen and Hill 2006).
+Brand hypocrisy further negatively impacts credibility
+and trust, which form the brand response (Keller and Swaminathan 2020). Credibility is driven by confidence in the
+brand to deliver on its promises (Erdem and Swait 1998;
+Hoeffler and Keller 2002). Having confidence in the brand
+to act dependably and truthfully (in this case, in relation to
+the brand’s position on the sociopolitical issue) improves
+its utility and thereby adds value or ‘equity’ to the brand
+(Erdem and Swait 1998). Where brand hypocrisy exists,
+therefore, credibility and, in turn, brand equity, will be
+compromised. Last, to brand relationships, research shows
+that negative perceptions and lack of trust in a non-profit
+means individuals do not want to donate to or volunteer
+with a charity (Haski-Leventhal and Foot 2016), which
+are key elements of brand relationships and in turn, brand
+equity.
+H5 Brand hypocrisy has a negative impact on brand equity.
+
+Non‑profit brand activism, brand bravery, brand
+hypocrisy and brand equity
+Perceived brand bravery plays a pivotal role in the formation
+of donors’ emotional and evaluative reactions (Jain et al.
+2021). In the domain of non-profit brand activism where
+donors may react positively or negatively, we propose that
+brand bravery is an important link that mitigates negative
+judgements (i.e. brand hypocrisy) and reinforces positive
+outcomes (i.e. brand equity) of non-profit brand activism.
+The literature suggests that brand bravery has the
+power to bolster positive brand attitudes and behaviours
+and buffer against negative brand information (Jain et al.
+2021). Being driven by a higher purpose—a notion related
+to brand bravery—is a crucial aspect of a brand’s identity
+(Kapferer 2012), which, in turn, helps to build brand equity
+(Madhavaram et al. 2005). Moreover, a brave brand identity, which embodies the upholding of altruistic values and
+taking courageous actions, mitigates judgements of brand
+hypocrisy that can hamper brand equity. Combining these
+research streams, the current study proposes the influence
+of perceived non-profit brand activism on brand equity via
+brand bravery and brand hypocrisy.
+H6 The relationship between perceived non-profit brand
+activism and brand equity is sequentially mediated by brand
+bravery and brand hypocrisy, respectively.
+
+200
+
+Z. Lee et al.
+
+Moderating effects of donors’ moral foundations
+
+Research instrument, data collection and sampling
+
+Research suggests that the strategy of activism warrants
+questions about motivations and effects of morality (Branicki et al. 2021). Thus, we consider the moderating effect
+of a donor’s moral foundations on the non-profit brand
+activism-brand bravery relationship. Specifically, we
+examine the extent of concern for justice that individual
+donors display (herein concern for justice), which alludes
+to a donor’s individualising moral foundation and their
+interest in the fair protection and treatment of individuals
+(Haidt and Joseph 2004). Reactions to virtue signalling
+depend on the audience’s point of view (Berthon et al.
+2021), and moral foundations account for the broad psychological system that an individual possesses and guides
+their cognitions (Haidt and Joseph 2004).
+We argue that a donor’s concern for justice strengthens the positive relationship between perceived non-profit
+brand activism and brand bravery. The literature shows
+that those who prioritise individualising moral foundations
+tend to evaluate matters of justice to be of greater moral
+importance (Haidt 2012) and respond to these in ways
+that are congruent with their identity (Reed et al. 2007;
+Winterich et al. 2012). Moreover, the bravery literature
+suggests that moral foundations shape impressions of what
+constitutes heroic behaviour. Individuals with stronger
+individualising moral foundations view those involved in
+defending rights and bucking oppressive social norms as
+heroic and value them as such (Jayawickreme and Di Stefano 2012). Along the lines of these arguments, donors
+with a higher concern for justice will be more likely to
+perceive non-profit brand activism positively as a means to
+disrupt problematic discourses as this is compatible with
+their moral foundations that emphasise justice. Specifically, these donors are more likely to perceive non-profit
+brand activism as heroic, which strengthens its positive
+relationship to brand bravery.
+
+The data for this study were collected using an online questionnaire composed of closed-ended questions/statements
+accompanied by a 7-point Likert-type scale ranging from
+strongly disagree (1) to strongly agree (7). The constructs
+in our study were measured using pre-developed scales from
+the marketing literature. There are five main constructs in
+this study: (1) Perceived non-profit brand activism, (2)
+Brand bravery, (3) Non-profit brand equity, (4) Brand hypocrisy and (5) Donor’s concern for justice. Where necessary,
+these scales were adapted to the non-profit context. Table 2
+provides the list of items for each construct, including appropriate dimensions and sources.
+Perceived non-profit brand activism was measured using
+an eight-item scale from the political psychology literature,
+which provides a good grounding for orientation towards
+engagement in social and political action (Corning and
+Myers 2002; Klar and Kasser 2009). Using this scale, brand
+activism was operationalised as a second-order construct
+with identity and commitment dimensions. The brand bravery measure was adopted from Jain et al (2021) and consisted of 13 items as a second-order construct. Non-profit
+brand equity was measured using 13 items with four dimensions: brand identity, brand meaning, brand response and
+brand relationships (Becker-Olsen and Hill 2006; Washburn
+and Plank 2002). Brand hypocrisy was measured using three
+items (Wagner et al. 2009), and donor’s concern for justice used a single universal item adapted from Graham et al
+(2011). The content and face validity of the constructs was
+examined by a panel of six marketing academics. Several
+attention checks or “trap questions” (Jones et al. 2015) were
+included throughout to ensure quality data capturing.
+Greenpeace was selected as the focal non-profit brand for
+this study. The decision to study a single NPO follows previous research that studies a single, purposely selected brand/
+firm because it serves as benchmark for the phenomenon
+of interest (Batt et al. 2021; Ladhari et al. 2022; Sultan and
+Wong 2019). The Greenpeace brand was selected by the
+first and second authors by referring to the Charity Index
+Ranking 2020—Top 50 charities (YouGov 2020) and subsequently identifying eight charities that had high reported
+levels of familiarity amongst the UK public and were known
+to have recently engaged in activism campaigns. We then
+consulted with two external marketing experts (an academic
+and a practitioner, both with a high level of exposure to and
+knowledge of the UK charitable sector). Based on this process, we selected Greenpeace, which has 94% familiarity
+(YouGov 2022). Furthermore, Greenpeace is a globally recognised environmental activist organisation (Becker et al.
+2020; She 2022; Villo et al. 2020), and Moorman (2020)
+suggests brand activism studies should focus on companies
+with self-evident political missions that drive decisions and
+
+H7 The effect of non-profit brand activism on brand bravery
+is moderated by a donor’s concern for justice.
+
+Methodology
+Research context
+The empirical context for this study was the UK non-profit
+sector. This sector is highly competitive with 169,000 charities (Statista 2021), generating charitable value of £11.3
+billion in 2020 (CAF 2021). The UK is also ranked as the
+second most generous country in the world in terms of charitable giving (Statista 2019).
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+201
+
+Table 2  Measurements
+Latent variables and scale items
+Brand Activism (Cronbach Alpha = 0.94); Klar and Kasser (2009), Corning and Myers (2002)
+Brand activism identity
+1. Being an activist is central to who the charity[brand] is
+2. I identify the [brand] charity as an activist
+3. People who know the [brand] well would call the charity an activist
+4. Being an activist is an important reflection of who the charity is
+Brand activism commitment
+1. The charity is truly committed to engaging in activism
+2. The charity make time for activism amongst all their other activities
+3. The charity goes out of their way to engage in activism
+4. The charity takes time to engage in activism
+Brand Bravery(Cronbach Alpha = 0.95); Jain et al. (2021)
+Bold
+1. The brand has a path distinct from its competitors
+2. The brand is true to itself
+Determined
+1. The brand remains relentless and refuses to succumb to external power
+2. The brand challenges the status quo
+3. The brand is resolute and holds on to its values
+4. The spirit of the Brand remains unshaken despite failures
+Enduring
+1. The brand stands up to its competitors
+2. The brand has a never-say-die vision
+Fearless
+1. The brand is fearless in venturing into new territories
+2. The brand defines new frontiers in business
+3. The brand is courageous in taking changes/risks
+Gritty
+1. The brand is revolutionary and questions the existing stereotypes
+2. The brand is innovative and defies the industry norms
+Brand Equity (Cronbach Alpha = 0.96); Becker-Olsen and Hill (2006), Washburn and Plank (2002)
+Brand identity
+1. This brand is all about protecting the planet
+2. This brand helps make the planet greener, healthier, and more peaceful
+Brand meaning
+1. This brand delivers the desired benefits to the brand
+2. This brand is a vital part of the community
+3. This brand is a positive force in the community
+Brand response
+1. This brand is one you can trust
+2. This brand can be donated to with confidence
+3. I like this brand
+4. This is a good brand
+5. This is a helpful brand
+Brand relationship
+1. If I were to donate money to charity, I would likely donate to [charity brand]
+2. If I were to volunteer personal time with charity, I would likely volunteer with [charity brand]
+3. I am likely to recommend this brand
+Brand Hypocrisy (Cronbach Alpha = 0.86); Wagner et al. (2009)
+1. This brand acts hypocritically
+
+Loadings
+
+0.86
+0.75
+0.79
+0.84
+0.85
+0.70
+0.82
+0.83
+
+0.71
+0.80
+0.85
+0.78
+0.85
+0.81
+0.77
+0.74
+0.86
+0.70
+0.81
+0.81
+0.85
+
+0.73
+0.93
+0.78
+0.81
+0.84
+0.92
+0.90
+0.92
+0.93
+0.89
+0.86
+0.82
+0.96
+0.78
+
+202
+
+Z. Lee et al.
+
+Table 2  (continued)
+Latent variables and scale items
+
+Loadings
+
+2. What this brand says and does are two different things
+3. This brand pretends to be something that it is not
+Donor’s Concern for Justice, Graham et al. (2011)—one universal item
+1. Justice is the most important requirement for a society
+
+0.80
+0.86
+
+Table 3  Demographic characteristics of the sample (N = 518)
+Demographic
+factors
+
+Items
+
+Count
+
+Percentage
+
+Gender
+
+Female
+Male
+Other
+Total
+18–29
+30–39
+40–49
+50–59
+60 and more
+Total
+
+321
+196
+1
+518
+71
+142
+132
+106
+67
+518
+
+62.0
+37.8
+0.2
+100
+13.7
+27.4
+25.5
+20.5
+12.9
+100
+
+Age
+
+actions. Finally, Greenpeace was chosen to establish ecological validity (Van Heerde et al. 2021)—it represents a known
+exemplar of environmental activism and is highly polarising,
+garnering both supporters and sceptics (BBC News 2022).
+Its polarising nature furthermore aimed to maximise variance in brand equity dimensions. All respondents were provided with a brief description of the Greenpeace brand’s
+mission, history and activities and instructed to answer all
+survey questions with reference to Greenpeace.
+Using Prolific Academic, which is common in marketing and branding research (Palan and Schitter 2018), we
+obtained a sample of 518 UK residents. Consistent with
+prior research (Michaelidou et al. 2015b), participants were
+invited to the study if they reported donating to charity in
+the past six months. Initially, 553 participants completed the
+questionnaire. However, we removed those who indicated
+that they are not aware of the Greenpeace brand (stating
+‘strongly disagree’, ‘disagree’ and ‘somewhat disagree’ for
+this item) as well as those who failed the attention checks,
+resulting in a final sample size of 518. See Table 3 for demographic data.
+
+Data analysis and results
+This study utilised a four-step procedure to examine
+the hypotheses. Firstly, the demographic profile and the
+
+n.a
+
+distribution of the data were investigated to ensure reliable sampling. Next, the measurement model reliability
+was tested using Confirmatory Factor Analysis (CFA). This
+was followed by a covariance-based structural equation
+modelling (CB-SEM) using AMOS 27 software to examine
+hypotheses 1–5 (Hair et al. 2017). Path coefficients were
+used to test the direct effects of factors (H1 to H5), and the
+sizes of indirect effects were explored to reveal the mediation effect of brand bravery on brand equity. The moderation
+and serial mediation (H6 and H7) effects were investigated
+using the PROCESS macro model.
+
+Reliability and validity of measurement
+Before analysing the conceptual model, convergent validity, discriminant validity, and model reliability were tested
+for all endogenous and exogenous variables (Hair et al.
+2017). Normality of the data was assessed by using the Kaiser–Meyer–Olkin measure of sampling adequacy (Hair et al.
+2017). A value of 0.72 (p < 0.001) was obtained indicating
+adequate sampling. In addition, all items had skewness and
+kurtosis values less than 2, indicating a fairly normally distributed data pattern (Hair et al. 2017). The multicollinearity test showed that VIF ranged from 1.04 to 1.56, which is
+well below 10, suggesting that multicollinearity was not a
+concern (Hair et al. 2017).
+CFA was used to verify the convergent and discriminant
+validity. All standardised regression weights were above
+0.50 and significant at 0.001. All items had factor loadings
+greater than 0.70, indicating item-level convergent validity.
+All Average Variance Extracted values (AVEs) were higher
+than 0.50, suggesting convergent validity at the factor level.
+Further, we tested the condition for discriminant validity among constructs as suggested by Fornell and Larcker
+(1981), and all AVEs were larger than the squared correlation between the construct and any others (Table 4). All the
+measures exhibited strong reliability, with composite reliabilities ranging from 0.85 to 0.95 (Bagozzi and Yi 1988)
+and all Cronbach’s Alphas exceeding 0.80.
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+Table 4  Descriptive statistics,
+reliability, discriminant validity
+
+Constructs
+Brand bravery (BRA)
+Brand hypocrisy (BH)
+Brand activism (BA)
+Brand equity (BE)
+
+Mean
+6.12
+2.99
+6.12
+4.74
+
+S.D
+
+CR
+
+0.74
+1.25
+0.74
+1.12
+
+0.95
+0.85
+0.89
+0.95
+
+AVE
+0.79
+0.66
+0.80
+0.83
+
+203
+
+CA
+0.93
+0.86
+0.90
+0.96
+
+BRA
+
+BH
+
+BA
+
+BE
+
+1(0.81)
+− 0.15**
+− 0.75***
+
+1 (0.89)
+0.09
+
+1 (0.91)
+
+a
+
+1 (0.89 )
+− 0.66***
+0.34***
+0.63***
+
+BRA Brand Bravery, BH Brand Hypocrisy, BA Brand Activism, BE Brand Equity, CR Composite reliability, CA Cronbach alpha
+
+a
+
+square root of average variance extracted (AVE) (bold diagonal)
+
+Significant of correlations:
+**p < 0.01; *** p < 0.001
+
+The CFA fit statistics indicated that the measurement
+model fit well with the data (χ2 [518] = 1352.53, p < 0.00; χ2/
+df = 2, GFI = 0.87; TLI = 0.95; CFI = 0.96; RMSEA = 0.05;
+Bryne 2013; Hair et al. 2017). Therefore, the measurement model was deemed appropriate for measuring latent
+constructs.
+Common method variance (CMV) was also examined to
+check if a single latent variable accounts for the majority of
+manifest variable variance (Podsakoff et al. 2012). These
+authors offer procedural and statistical remedies, which we
+followed. In the questionnaire design and sampling procedures, we randomised the presentation order of items for
+respondents, separated the measurement of the predictor
+and outcome variables and protected respondent anonymity
+using Prolific Academic’s ID system. We also introduced
+an additional latent common method factor (LCMF), which
+every item in the baseline model was allowed to load on (in
+addition to loading on its respective construct). The LCMF
+accounted for 39.9% of the total variance, which was less
+than 50% following Harman’s one-factor method (Podsakoff
+et al. 2012). The results indicated that CMV was not an issue
+in this study.
+
+Structural model assessment and hypothesis testing
+The hypotheses were tested with a structural model based on
+p-value (H1 to H5) and a series of analyses using bootstrapping with the SPSS macro PROCESS (Preacher and Hayes
+2008) (H6 and H7). We used 95% confidence intervals to
+check the indirect, direct and total estimates of path coefficients, with 5000 samples.
+To examine hypotheses 1 to 5, a CB-SEM analysis
+was conducted. The results revealed an overall good fit
+of this model (χ 2 [518] = 1331.57, p < 0.00; χ 2/df = 2,
+GFI = 0.87; TLI = 0.95; CFI = 0.95; RMSEA = 0.05; ­R2
+Brand bravery = 0.12; ­R2 Brand hypocrisy = 0.45; R
+­ 2 Brand
+equity = 0.60). The second-order factor loadings were all
+
+Table 5  Model fit and structural coefficients
+Constructs
+
+2nd-order factor
+loading
+
+Critical ratio
+
+p-value
+
+BA→AI
+BA→AC
+BRA→BB
+BRA→BD
+BRA→BEN
+BRA→BF
+BRA→BG
+BE→BI
+BE→BM
+BE→BR
+BE→BRL
+
+0.89
+0.89
+0.95
+0.92
+0.92
+0.85
+0.82
+0.80
+0.94
+0.95
+0.86
+
+9.56
+–
+–
+17.14
+15.92
+15.88
+15.72
+17.39
+–
+19.18
+15.92
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+significant (see Table 5). More specifically, we found nonprofit brand activism positively influenced brand bravery
+(β = 0.42, p < 0.001), supporting H1. However, non-profit
+brand activism had a positive but non-significant relationship with brand hypocrisy (β = 0.01, n.s.). As such, H2 was
+rejected. Brand bravery was negatively related to brand
+hypocrisy (β = − 0.99, p < 0.001). In addition, brand bravery
+had a positive effect on brand equity (β = 0.29, p < 0.001),
+supporting H3 and H4, respectively. Brand hypocrisy was
+found to have a negative effect on brand equity (β = − 0.45,
+p < 0.001), supporting H5. Alternative analysis using SPSS
+macro PROCESS reconfirmed similar results—see Model
+1, 2 and 3 in Table 6 in the next section.
+
+The mediating roles of brand bravery and brand
+hypocrisy
+To examine the serial mediating effects of brand bravery and
+brand hypocrisy in the relationship between non-profit brand
+activism as a predictor and brand equity as an outcome, we
+
+204
+
+Z. Lee et al.
+
+conducted a series of analyses using the bootstrapping procedure with the SPSS macro PROCESS (Preacher and Hayes
+2008). The total, direct and indirect effects in a model with
+two serial mediators were tested (Hayes 2018). In a PROCESS model 6, the direct effect of non-profit brand activism was not significant (effect = − 0.09, p = 0.07). However, there was a positive and significant total indirect effect
+(effect = 0.25, p < 0.001, LLCI = 0.16 and ULCI = 0.36) of
+Table 6  Indirect effects
+for mediation models: The
+PROCESS Macro Models
+
+non-profit brand activism on brand equity. The indirect effect
+of brand activism → brand bravery → brand equity was positive and significant (effect = 0.15, p < 0.001, LLCI = 0.10
+and ULCI = 0.20) as was the indirect effect of brand activism → brand bravery → brand hypocrisy → brand equity
+(effect = 0.12, p < 0.001, LLCI = 0.08 and ULCI = 0.16).
+Thus, there is a partial serial mediation, supporting H6. See
+Fig. 2 for the process model effect.
+
+Independent variables
+
+Model
+1 Brand
+Bravery
+
+Model 2 Brand Hypocrisy
+
+Model 3 Brand Equity
+
+Hypothesis
+
+Brand activism
+
+0.35 (9.79)
+
+0.01 (n.s.)
+
+− 0.09 (n.s)
+
+Brand bravery
+Brand hypocrisy
+
+–
+–
+
+− 0.77 (− 14.44)
+–
+
+0.42 (8.71)
+− 0.43 (− 12.88)
+
+R2
+Indirect effects
+BA→BRA→BH→BE
+Indirect effects
+BA→BRA→BE
+
+0.08
+Effect
+0.12
+Effect
+0.15
+
+0.30
+LLCI
+0.08
+LLCI
+0.10
+
+0.50
+UCLI
+0.16
+UCLI
+0.20
+
+H1 supported
+H2 rejected
+H3 supported
+H4 supported
+H5 supported
+
+H6 supported
+
+N = 518; t values in bracket
+LLCI lower level of the 95% confidence interval, UCLI upper level of the 95% confidence interval
+*Significant at the 0.01 (2-tailed t test)
+Fig. 2  Process model results for
+the effect of non-profit brand
+activism
+
+Table 7  Test of conditional
+indirect effect of donor’s
+concern for justice on the brand
+activism and brand equity
+
+Moderators
+
+Donor’s concern for justice
+
+Index of moderated mediation
+
+Level
+
+(− 1 SD)
+(Mean)
+(+ 1 SD)
+
+Conditional indirect effects
+of brand activism on brand
+equity via brand bravery
+BA→BRA→BE
+
+Conditional indirect effects
+of brand activism on brand
+equity via brand bravery and
+brand hypocrisy
+BA→BRA→BH→BE
+
+b
+
+CI95%low
+
+CI95%high
+
+b
+
+CI95%low
+
+CI95%high
+
+0.08
+0.14
+0.19
+0.05
+
+0.02
+0.09
+0.12
+0.01
+
+0.15
+0.20
+0.28
+0.10
+
+0.07
+0.11
+0.15
+0.04
+
+0.01
+0.07
+0.93
+0.01
+
+0.12
+0.16
+0.23
+0.08
+
+CI confidence interval; b unstandardized coefficient
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+Finally, we used Model 83 in PROCESS to test for moderated mediation (H7)—namely, that a donor’s concern
+for justice moderates the indirect relationship between
+non-profit brand activism and brand equity, through
+brand bravery and brand hypocrisy. In Table 7, we found
+the interaction effect was positive and significant, and
+H7 was supported (β = 0.01; p < 0.001, LLCI = 0.07 and
+ULCI = 0.19).
+
+Discussion
+Theoretical contributions
+This study extends prior research on brand activism in the
+B2C and B2B contexts (Kapitan et al. 2022; Moorman
+2020; Schmidt et al. 2022; Vredenburg et al. 2020) by
+providing an initial inquiry into brand activism in the third
+sector, presenting some of the first empirical evidence on
+the relationship between non-profit brand activism and
+brand equity. First, this study found that the relationship
+between non-profit brand activism and brand equity is
+positive but only in the presence of brand bravery. This
+implies that, in the non-profit sector, relevant mediators
+for translating the strategic value of non-profit brand activism into positive brand equity are required. This finding
+is interesting because previous research has highlighted
+the importance of authenticity, finding significant risks
+to brands taking a stand (Mukherjee and Althuizen 2020)
+as they may lack perceived authenticity (Ahmad et al.
+2022; Vredenburg et al. 2020). This risk is heightened
+in the non-profit context, as mentioned—a sharp shift to
+an activist-driven ‘warrior’ image contradicts traditional
+donor expectations of NPOs to possess a caring, nurturing ‘warmth’ image. Accordingly, this research has shown
+that developing a sense of bravery, such that the brand is
+perceived as bold, determined, enduring, and fearless is
+indispensable if brands want to harness brand activism
+for improved brand equity in the non-profit sector. This
+means that NPOs need to implement what is necessary
+to disrupt the status quo, by achieving an authentic alignment between ‘bold’ communications and action regarding
+focal sociopolitical issue (Vredenburg et al. 2020). In addition, NPOs should be ‘brave enough’ to make sacrifices
+(e.g. alienating stakeholders), another important driver for
+authenticity that eventually leads to brand equity (Mirzaei et al. 2022). We extend this thinking about authenticity by identifying brand bravery—a unique and strategic
+facet of brand identity (Jain et al. 2021)—as critical for
+
+205
+
+a non-profit brand activism strategy to realise brandequity gains. This theorising and testing for brand bravery’s mediating role helps to ‘open the black box’ of the
+relationship between non-profit brand activism and brand
+equity by identifying one missing link that connects the
+strategy with the outcome.
+In addition, this study reveals that brand bravery mitigates the formation of brand hypocrisy judgements that
+can arise from non-profit brand activism and, in turn,
+diminish brand equity. This is a significant finding that
+builds on Korschun et al (2019) by showing when and
+how a sense of hypocrisy can be reduced. Relatedly,
+brand activism has been documented to lead to higher
+perceptions of hypocrisy in value-driven firms as compared to market-driven ones when they fail to take a stand
+(Korschun et al. 2019). In the non-profit setting, however,
+we did not find a direct correlation between non-profit
+activism and hypocrisy. Despite non-profits being seen as
+business-like (Maier et al. 2016) and suffering declining
+trust (Becker et al. 2020), donors apparently maintain faith
+in NPOs while they leverage a new activist positioning, in
+a bid to not only disrupt problematic discourses in their
+sector but also to maintain marketplace relevance. This is
+consistent with Korschun et al (2019), which shows consumers respond positively towards firms taking a stand
+when the issue aligns with their values. It is further relevant to mention that the serial mediation of brand bravery
+and brand hypocrisy is strengthened when donors have a
+greater concern for justice, echoing extant research argues
+that individuals view organisations defending their rights
+as heroic (Jayawickreme and Di Stefano 2012). Thus, our
+findings indicate that increasing an individual’s perceptions of justice increases positive outcomes of non-profit
+brand activism.
+Second, this study contributes to the non-profit branding literature by examining non-profit brand activism as an
+emerging strategy and unpacking the unique tension that
+NPOs face in shifting away from the traditional image as
+a charitable service provider towards one as a powerful
+political advocate. The literature highlights a number of
+dualities that non-profit brands must navigate and reconcile
+to successfully achieve their aims—for example, pursuing
+both income and mission goals (Lee and Bourne 2017).
+Our study points to a new strategic tension that arises when
+NPOs participate in non-profit brand activism. Past studies show that consumers respond positively to marketing
+communications that utilise warmth and empathy appeals
+to drive donations (Bennett and Gabriel 2003; Michaelidou
+et al. 2015a; Michel and Rieunier 2012; Venable et al. 2005).
+
+206
+
+This is diametrically misaligned with an activist positioning.
+We show that brand bravery is essential as a bridge between
+these two market positions and enables brands to craft a
+balanced identity as a compassionate warrior that not only
+empathises with consumers’ concerns but also courageously
+challenges the status quo.
+Finally, we contribute to the evolving conversation in
+the marketing literature about the societal responsibilities
+and roles of brands as agents of change. Alongside brand
+activism, the literature reveals an array of branding concepts
+with a social edge. While these studies consider how brands
+and branding can drive transformation at different levels,
+from micro (within consumers) to meso (within organisations) to macro (within market and societal systems; Spry
+et al. 2021), they predominantly speak to the commercial
+sector (with the exception of Mirzaei et al. 2021). Some
+may consider the non-profit sector as one that does not
+require this type of change or transformation—after all, the
+primary function of this sector is to provide services that
+strengthen community accessibility and safety. However,
+there are growing discussions about the inequalities that
+persist in the sector due to problematic institutions, systems
+and structures. For example, the humanitarian sector and aid
+organisations (e.g. Oxfam) are understood to operate with
+a white saviour mentality grounded in colonialist and racist
+histories (Hirsch 2018), and initiatives, such as Charity So
+White, are now operating to bring such organisations into
+alignment with their espoused values. Therefore, our study
+builds on this burgeoning stream of research by highlighting
+non-profit brand activism as a catalyst for change within the
+third sector, specifically where the unquestioned ‘goodness’
+of NPOs may be actively obstructing the broader pursuit of
+social justice.
+
+Managerial implications
+The findings of this study have three significant implications
+for NPO marketing managers navigating brand activism.
+The overarching take away is that non-profit brand activism is an effective tool for building brand equity indirectly
+through building brand bravery and suggests guidelines
+for managing both non-profit brand activism as a strategy
+and brand bravery as an identity. First, implementing a
+strategy of non-profit brand activism has the potential to
+deliver positive effects on brand equity, but these are not
+guaranteed or immediate. NPOs perceived to have a salient identity as an activist and a steadfast commitment to
+the cause have the most to gain but also the most to lose in
+terms of brand equity. Specifically, stronger perceptions that
+a brand is implementing activism lead to brand bravery but
+
+Z. Lee et al.
+
+also elevates the risk of donors forming judgements of brand
+hypocrisy. Marketing managers should focus on brand bravery as an essential ingredient and strategic roadmap for maximising positive outcomes of non-profit brand activism and
+minimising the risk of negative outcomes. This may include
+organisation-initiated assessments of non-profit brand activism strategies prior to launch to gather preliminary insights
+into how these would be perceived by donors—brave or
+hypocritical?
+More broadly, our study corroborates the positive outcomes of brand bravery and calls for marketing managers to
+consider more courageous means to enhancing donor intentions and behaviours (Jain et al. 2021). In times of deep
+mistrust of societal institutions (Edelman 2022), rather than
+avoid political messaging (Robson and Hart 2020), our findings encourage NPO marketing managers to bravely embrace
+activism that allows for both achievement of brand equity
+and the advancement of social goals.
+Second, our findings provide insights into how nonprofits can effectively communicate activism initiatives to
+potential donors. Given that non-profit brand activism can be
+perceived by audiences as brave or hypocritical, it is crucial
+to have a strategic view of the creative execution. Practitioners can consider adopting a more charged and determined
+tone of voice and visuals elements. For example, Shelter—
+which works to end homelessness and inadequate housing
+in the UK—rebranded and launched a new campaign called
+Fight For Home, in which they take a public stand in support of the human right to safe housing. Where Shelter had
+previously used the ‘polite’ promotional trope (Wong 2021)
+common to the charity sector, the new direction motivated
+the activist edge evident in the new campaign. Continuing
+with a gentle rather than brave approach impedes the ability
+of NPOs to affect true social change.
+Third, by providing the first examination of non-profit
+brand activism, this study offers the strategy as a novel avenue for effectively engaging a younger donor cohort, which
+remains a common challenge in the sector. When a NPOs
+core supporters are mainly elderly, it is imperative to safeguard against future losses in donations. In the UK, many
+household non-profit brands have strong equity amongst
+older supporters and are reluctant to make dramatic changes
+to take part in social movements (Dufour 2019). However,
+non-profit brand activism presents an opportunity to communicate a change in the NPOs strategic direction towards
+advocacy and refresh the brand image. Generation Z has
+been termed the ‘activist generation’ (Callaghan 2019)—
+they take the view that ‘my dollar is my vote’ and as such,
+they deliberately patronise brands that make a social impact
+(Admirand 2020). Millennials similarly display a preference
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+
+for supportive and caring brands (Jain et al. 2021). Nonprofits can take steps towards appealing to and even collaborating with grassroots youth activists and speaking out
+to these young potential donors.
+
+Limitations and future research
+This research has several limitations, which point to important avenues for future research. First, our study is based on
+Greenpeace as an exemplar of NPO brand activism. Given
+the activist history of the Greenpeace brand (Becker et al.
+2020), such strongly held consumer associations and perceptions may not be apparent when considering other nonprofit brands that are newly engaged in activism. This could
+hinder the generalisability of our results to other non-profit
+contexts. Hence, it would be fruitful for future research to
+explore fictitious non-profit brands or a wider variety of real
+brands that are newly embracing a strategy of activism and
+attempting to address other issues, such as gender inequality
+and systemic racism. It would be particularly interesting to
+compare activism efforts relating to causes that are popular
+and unpopular with the public (Body and Breeze 2022).
+A related limitation is the cross-sectional design utilised herein. This was appropriate for the chosen brand
+given the enduring stability of its positioning as an environmental activist and correlation with brand equity
+(Becker-Olsen and Hill 2006). However, it does not allow
+inferences of causality, which were beyond the scope of
+this research. Future research could consider an experimental design that manipulates and captures the dynamics of a brand shifting to this strategy. Future research
+could also consider employing a longitudinal design to
+map the navigation of non-profit brand activism over time.
+The findings would build on those here within to test the
+causality between variables, providing additional support
+or a different perspective on the influence of brand bravery
+and brand hypocrisy on non-profit brand activism, thus
+providing further useful managerial implications.
+Second, our study is based on a UK sample and, on
+balance, primarily reflects a developed economy and
+Western culture. It remains for future research to examine the international applicability of the observed effects
+by replicating our results with samples from other countries. Our focal variables may take on different meanings
+in different cultures. There is clear merit in examining
+consumers’ reactions to non-profit brand activism beyond
+those that occur in European and North American countries. For example, how differently would non-profit brand
+
+207
+
+activism be received in countries with stricter censorship
+rules or citizen rights to free speech? How would it be
+interpreted in communities that tend to be culturally marginalised? Moreover, what is considered brave and heroic
+in one culture may be different as compared to another. In
+a highly individualistic culture, those who defend rights
+and buck oppressive social norms have historically been
+highly valued whereas those who protect in-group interest
+and integrity may be heralded as heroes in collectivistic
+cultures (Jayawickreme and Di Stefano 2012).
+Third, our study is the first to investigate brand activism
+in the non-profit sector, so to provide a clearer and fuller
+picture of brand equity implications, it would be useful for
+future research to examine additional boundary conditions.
+As for brand-level factors, there is scope to consider the
+historical positioning of the non-profit brand as an activist
+versus philanthropist as well as the image and personality (e.g. nurturing, rugged, sincere). Moral foundations of
+non-profit brands could also be examined. Prior research
+(Winterich et al. 2012) suggests that donors may infer a
+charity brand’s moral foundations based on its management and mission, and this, in turn, can significantly affect
+giving. In this vein, it would be similarly illuminating to
+more fully understand how donors’ moral foundations
+(beyond concern for justice) and political identity shape
+their receptivity to non-profit brand activism and their
+donation behaviour, especially when these are perceived
+to be aligned/misaligned with those of the NPO.
+To conclude, difficulties abound in the non-profit sector:
+cuts to corporate and government funding, increases in competition for donors and volunteers, risks to being perceived
+as overly commercial in the branding tactics used to differentiate, and widespread public mistrust. While non-profits
+as purpose natives have always had an advocacy role to play,
+a growing number are once again embracing this role and
+positioning themselves as activists by engaging with controversial and divisive issues within the third sector. Overall,
+this study aims to contribute to the burgeoning body of work
+addressing brand activism and provide a first step towards
+examining what happens when a non-profit brand makes a
+strategic shift away from being warm to being a warrior, a
+shift from doing ‘good’ to doing what’s ‘right’.
+
+Appendix A
+Information about Greenpeace and activism.
+
+208
+
+Declarations
+Conflict of interest The authors declare that they have no conflict of
+interest.
+
+References
+Adams, P. 2018. What true brand bravery looks like, according to marketers who took the leap, available at: https://​www.​marke​tingd​
+ive.​com/​news/​what-​true-​brand-​brave​r y-​looks-​like-​accor​ding-​
+to-​marke​ters-​who-​took-​the-​lea/​539093/. Accessed 11 Jan 2022.
+Admirand, L. 2020. Thinking beyond an empty black box: Meeting
+Gen Z’s expectations for genuine brand activism, available at:
+https://​www.​resea​rchwo​rld.​com/​t hink​ing-​beyond-​an-​empty-​
+black-​box-​meeti​ng-​gen-​zs-​expec​tatio​ns-​for-​genui​ne-​brand-​activ​
+ism/. Accessed 25 June 2021.
+Ahmad, F., F. Guzmán, and B. Kidwell. 2022. Effective messaging
+strategies to increase brand love for sociopolitical activist brands.
+Journal of Business Research 151: 609–622.
+Amos, O.M. 1982. Empirical analysis of motives underlying individual contributions to charity. Atlantic Economic Journal 10
+(4): 45–52.
+Baghi, I., and V. Gabrielli. 2013. Co-branded cause-related marketing campaigns: The importance of linking two strong brands.
+International Review on Public and Non-Profit Marketing 10
+(1): 13–29.
+Bagozzi, R.P., and Y. Yi. 1988. On the evaluation of structural equation models. Journal of the Academy of Marketing Science 16
+(1): 74–94.
+Batt, V., M. Holzer, M. Bruhn, and S. Tuzovic. 2021. Effects of sponsorship quality and quantity on employee brand behavior. Journal of Brand Management 28 (5): 495–509.
+BBC News. 2022. Greenpeace activists in Essex arrested blocking oil
+tanker, 16th May.
+
+Z. Lee et al.
+
+Beaton, E., H. MacIndoe, and T. Wang. 2021. Combining non-profit
+service and advocacy: Organizational structures and hybridity.
+Non-Profit and Voluntary Sector Quarterly 50 (2): 372–396.
+Becker, A., S. Boenigk, and J. Willems. 2020. In non-profits we trust?
+A large-scale study on the public’s trust in non-profit organizations. Journal of Non-Profit and Public Sector Marketing 32 (2):
+189–216.
+Becker-Olsen, K.L., and R.P. Hill. 2006. The impact of sponsor fit on
+brand equity: The case of non-profit service providers. Journal
+of Service Research 9 (1): 73–83.
+Bennett, R., and H. Gabriel. 2003. Image and reputational characteristics of UK charitable organizations: An empirical study. Corporate Reputation Review 6 (3): 276–289.
+Bennett, R., and A. Sargeant. 2005. The non-profit marketing landscape: Guest editors’ introduction to a special section. Journal
+of Business Research 58 (6): 797–805.
+Bergh, D.D., B.L. Connelly, D.J. Ketchen Jr., and L.M. Shannon.
+2014. Signalling theory and equilibrium in strategic management research: An assessment and a research agenda. Journal of
+Management Studies 51 (8): 1334–1360.
+Berthon, P.R., Ferguson, S.T.L., Pitt, L.F. and Wang, E. 2021. The virtuous brand: The perils and promises of brand virtue signaling.
+Business Horizons (in press).
+Bhagwat, Y., N.L. Warren, J.T. Beck, and G.F. Watson IV. 2020. Corporate sociopolitical activism and firm value. Journal of Marketing 84 (5): 1–21.
+Blackall, M. 2020. Barnardo's hits back at Tory MPs upset by talk
+of ‘white privilege’, available at: https://​www.​thegu​ardian.​com/​
+world/​2020/​dec/​05/​barna​rdos-​hits-​back-​at-​tory-​mps-​upset-​by-​
+talk-​of-​white-​privi​lege. Accessed 22 Nov 2021.
+Body, A., and B. Breeze. 2022. Fundraising across different causes. In
+Charity Marketing: Contemporary issues, research and practice,
+ed. F. Hyde and S. Mitchell, 113–127. Oxon: Routledge.
+Boenigk, S., and A. Becker. 2016. Toward the importance of nonprofit brand equity: Results from a study of German non-profit
+organizations. Non-Profit Management and Leadership 27 (2):
+181–198.
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+Branicki, L., S. Brammer, A. Pullen, and C. Rhodes. 2021. The morality of “new” CEO activism. Journal of Business Ethics 170 (2):
+269–285.
+Byrne, B.M. 2013. Structural equation modelling with Mplus: Basic
+concepts, applications, and programming. London: Routledge.
+CAF (2021) Charities Aid Foundation: UK giving report. 2021. https://​
+www.​cafon​line.​org/​docs/​defau​lt-​source/​about-​us-​resea​rch/​uk_​
+giving_​report_​2021.​pdf. Accessed 4 Jan 2022.
+Callaghan, G. 2019. Is the ‘activist generation’ too anxious about the
+future?, available at: https://w
+​ ww.s​ mh.c​ om.a​ u/e​ nviro​ nment/s​ usta​
+inabil​ ity/i​ s-t​ he-a​ ctivi​ st-g​ enera​ tion-t​ oo-a​ nxiou​ s-a​ bout-t​ he-f​ uture-​
+20190​716-​p527rw.​html. Accessed 25 June 2021.
+Chad, P. 2015. Utilising a change management perspective to examine
+the implementation of corporate rebranding in a non-profit SME.
+Journal of Brand Management 22 (7): 569–587.
+Chapleo, C. 2015. Brand ‘infrastructure’in non-profit organizations:
+Challenges to successful brand building? Journal of Marketing
+Communications 21 (3): 199–209.
+Charity Commision. 2020. Greenpeace Environmental Trust, https://​
+regis​ter-​of-​chari​ties.​chari​tycom​missi​on.​gov.​uk/​chari​ty-​searc​h/-/​
+chari​ty-​detai​ls/​284934. Accessed 10 Jan 2022.
+Connelly, B.L., S.T. Certo, R.D. Ireland, and C.R. Reutzel. 2011. Signaling theory: A review and assessment. Journal of Management
+37 (1): 39–67.
+Corning, A.F., and D.J. Myers. 2002. Individual orientation toward
+engagement in social action. Political Psychology 23 (4):
+703–729.
+da Silva, L.C., E.W. Mainardes, A.M.C. Teixeira, and L.C. Júnior.
+2020. Brand orientation of non-profit organizations and its relationship with the attitude toward charity and donation intention.
+International Review on Public and Non-Profit Marketing 17
+(3): 353–373.
+Dawson, S. 1988. Four motivations for charitable giving: Implications
+for marketing strategy to attract monetary donations for medical
+research. Journal of Health Care Marketing 8 (2): 31–37.
+De Chernatony, L. 2002. Would a brand smell any sweeter by a corporate name? Corporate Reputation Review 5 (2): 114–132.
+Delmas, M.A., and V.C. Burbano. 2011. The drivers of greenwashing.
+California Management Review 54 (1): 64–87.
+du Bois, M., and R. Langley-Cook. 2022. Building powerful charity
+brands: An inside perspective. In Charity Marketing: Contemporary issues, research and practice, ed. F. Hyde and S. Mitchell,
+14–26. Oxon: Routledge.
+Dufour, D. 2019. Battle of the brands: charity or movement? https://​
+thete​am.​co.​uk/​blog/​battle-​of-​the-​brands-​chari​ty-​or-​movem​ent/.
+Accessed 3 Sept 2022.
+Edelman. 2022. https://w
+​ ww.e​ delma​ n.c​ om/s​ ites/g/fi
+​ les/a​ atuss​ 191/fi
+​ les/​
+2022-​01/​Trust​22_​Top10.​pdf. Accessed 10 Jan 2022.
+Erdem, T., and J. Swait. 1998. Brand equity as a signaling phenomenon. Journal of Consumer Psychology 7 (2): 131–157.
+Erdem, T., and J. Swait. 2004. Brand credibility, brand consideration,
+and choice. Journal of Consumer Research 31 (1): 191–198.
+Ertimur, B., and G. Coskuner-Balli. 2015. Navigating the institutional
+logics of markets: Implications for strategic brand management.
+Journal of Marketing 79 (2): 40–61.
+Farndon-Taylor, C. 2021. Rebranding Shelter: A UX Designer’s Perspective, available at: https://​blog.​shelt​er.​org.​uk/​2021/​06/​rebra​
+nding-​shelt​er-a-​ux-​desig​ners-​persp​ective/. Accessed 22 Nov
+2021.
+Fornell, C., and D.F. Larcker. 1981. Evaluating structural equation
+models with unobservable variables and measurement error.
+Journal of Marketing Research 18 (1): 39–50.
+Graham, J., B.A. Nosek, J. Haidt, R. Iyer, S. Koleva, and P.H. Ditto.
+2011. Mapping the moral domain. Journal of Personality and
+Social Psychology 101 (2): 366.
+
+209
+
+Grubbs, J.B., B. Warmke, J. Tosi, A.S. James, and W.K. Campbell.
+2019. Moral grandstanding in public discourse: Status-seeking
+motives as a potential explanatory mechanism in predicting conflict. PLoS ONE 14 (10): e0223749. https://d​ oi.o​ rg/1​ 0.1​ 371/j​ ourn​
+al.​pone.​02237​49.
+Haidt, J. 2012. The righteous mind: Why good people are divided by
+politics and religion. New York: Pantheon.
+Haidt, J., and C. Joseph. 2004. Intuitive ethics: How innately prepared
+intuitions generate culturally variable virtues. Daedalus 133 (4):
+55–66.
+Hair, J.F., L.M. Matthews, R.L. Matthews, and M. Sarstedt. 2017.
+PLS-SEM or CB-SEM: Updated guidelines on which method
+use. International Journal of Multivariate Data Analysis 1 (2):
+107–123.
+Harris, F., and L. De Chernatony. 2001. Corporate branding and corporate brand performance. European Journal of Marketing 35
+(3/4): 441–456.
+Haski-Leventhal, D., and C. Foot. 2016. The relationship between
+disclosure and household donations to nonprofit organizations
+in Australia. Nonprofit and Voluntary Sector Quarterly 45 (5):
+992–1012.
+Hirsch, A. 2018. Oxfam abuse scandal is built on the aid industry’s
+white saviour mentality, available at: https://​www.​thegu​ardian.​
+com/​comme​ntisf​ree/​2018/​feb/​20/​oxfam-​abuse-​scand​al-​haiti-​
+colon​ialism. Accessed 22 Nov 2021.
+Hoeffler, S., and K.L. Keller. 2002. Building brand equity through corporate societal marketing. Journal of Public Policy & Marketing
+21 (1): 78–89.
+Hydock, C., N. Paharia, and S. Blair. 2020. Should your brand pick a
+side? How market share determines the impact of corporate political advocacy. Journal of Marketing Research 57 (6): 1135–1151.
+Iglesias, O., and N. Ind. 2020. Towards a theory of conscientious
+corporate brand co-creation: The next key challenge in brand
+management. Journal of Brand Management 27 (6): 710–720.
+Jain, K., I. Jajodia, P. Sharma, and G. Singh. 2021. Brand bravery:
+Conceptualization, scale development and validation. Journal of
+Product and Brand Management 30 (8): 1212–1218.
+Jayawickreme, E., and P. Di Stefano. 2012. How can we study heroism? Integrating persons, situations and communities. Political
+Psychology 33 (1): 165–178.
+Jones, M.S., L.A. House, and Z. Gao. 2015. Respondent screening
+and revealed preference axioms: Testing quarantining methods
+for enhanced data quality in web panel surveys. Public Opinion
+Quarterly 79 (3): 687–709.
+Kapferer, J.N. 2012. The new strategic brand management: Advanced
+insights and strategic thinking. London: Kogan Page publishers.
+Kapitan, S., J.A. Kemper, J. Vredenburg, and A. Spry. 2022. Strategic
+B2B Brand Activism: Building Conscientious Purpose for Social
+Impact. Industrial Marketing Management 107: 14–28.
+Keller, K.L. 1993. Conceptualizing, measuring, and managing customer-based brand equity. Journal of Marketing 57 (1): 1–22.
+Keller, K.L., and V. Swaminathan. 2020. Strategic brand management: Building, measuring, and managing brand equity. Pearson: Harlow.
+Khan, H., and D. Ede. 2009. How do not-for-profit SMEs attempt
+to develop a strong brand in an increasingly saturated market?
+Journal of Small Business and Enterprise Development 16 (2):
+335–354.
+Kim, T., and J.G. Ball. 2021. Unintended consequences of warmth
+appeals: An extension of the compensation effect between
+warmth and competence to advertising. Journal of Advertising
+50 (5): 622–638.
+Klar, M., and T. Kasser. 2009. Some benefits of being an activist:
+Measuring activism and its role in psychological well-being.
+Political Psychology 30 (5): 755–777.
+
+210
+Korschun, D., K.D. Martin, and G. Vadakkepatt. 2020. Marketing’s
+role in understanding political activity. Journal of Public Policy
+& Marketing 39 (4): 378–387.
+Korschun, D., Rafieian, H., Aggarwal, A. and Swain, S.D. 2019. Taking
+a stand: Consumer responses when companies get (or don’t get)
+political. Available at SSRN 2806476.
+Ladhari, R., S. Cheikhrouhou, M. Morales, and E. Zaaboub. 2022.
+Antecedents and consequences of emotional attachment to sport
+teams brands. Journal of Brand Management 29: 454–469.
+Lafferty, B.A., and R.E. Goldsmith. 2005. Cause–brand alliances: Does
+the cause help the brand or does the brand help the cause? Journal of Business Research 58 (4): 423–429.
+Lee, Z. 2013. Rebranding in brand-oriented organisations: Exploring
+tensions in the non-profit sector. Journal of Marketing Management 29 (9–10): 1124–1142.
+Lee, Z., and H. Bourne. 2017. Managing dual identities in non-profit
+rebranding: An exploratory study. Non-Profit and Voluntary Sector Quarterly 46 (4): 794–816.
+Lee, Z., and I. Davies. 2021. Nonprofit brand and managing nonprofit
+rebranding strategy. In Charity Marketing: Contemporary Issues,
+Research and Practice, ed. H. Fran and S. Mitchell, 46–58. London: Routledge.
+LeRoux, K. 2007. Non-profits as civic intermediaries: The role of community-based organizations in promoting political participation.
+Urban Affairs Review 42 (3): 410–422.
+Madhavaram, S., V. Badrinarayanan, and R.E. McDonald. 2005.
+Integrated marketing communication (IMC) and brand identity
+as critical components of brand equity strategy: A conceptual
+framework and research propositions. Journal of Advertising 34
+(4): 69–80.
+Maier, F., M. Meyer, and M. Steinbereithner. 2016. Nonprofit organizations becoming business-like: A systematic review. Nonprofit and
+Voluntary Sector Quarterly 45 (1): 64–86.
+Matten, D., and J. Moon. 2008. “Implicit” and “explicit” CSR: A conceptual framework for a comparative understanding of corporate
+social responsibility. Academy of Management Review 33 (2):
+404–424.
+Michaelidou, N., M. Micevski, and J.W. Cadogan. 2015a. An evaluation of non-profit brand image: Towards a better conceptualization and measurement. Journal of Business Research 68 (8):
+1657–1666.
+Michaelidou, N., M. Micevski, and N.T. Siamagka. 2015b. Consumers’
+intention to donate to two children’s charity brands: A comparison of Barnardo’s and BBC Children in Need. Journal of Product
+and Brand Management 24 (2): 134–146.
+Michel, G., and S. Rieunier. 2012. Non-profit brand image and typicality influences on charitable giving. Journal of Business Research
+65 (5): 701–707.
+Mirzaei, A., C.M. Webster, and H. Siuki. 2021. Exploring brand purpose dimensions for non-profit organizations. Journal of Brand
+Management 28 (2): 186–198.
+Mirzaei, A., D.C. Wilkie, and H. Siuki. 2022. Woke brand activism
+authenticity or the lack of it. Journal of Business Research 139
+(February): 1–12.
+Moorman, C. 2020. Commentary: Brand activism in a political world.
+Journal of Public Policy & Marketing 39 (4): 388–392.
+Mukherjee, S., and N. Althuizen. 2020. Brand activism: Does courting controversy help or hurt a brand? International Journal of
+Research in Marketing 37 (4): 772–788.
+Napoli, J. 2006. The impact of non-profit brand orientation on organisational performance. Journal of Marketing Management 22
+(7–8): 673–694.
+Palan, S., and C. Schitter. 2018. Prolific.ac: A subject pool for online
+experiments. Journal of Behavioral and Experimental Finance
+17: 22–27.
+
+Z. Lee et al.
+Pearson, C., and M. Mark. 2001. The Hero and the Outlaw: Building
+Extraordinary Brands through the Power of Archetypes. New
+York, NY: McGraw-Hill.
+Podsakoff, P.M., S.B. MacKenzie, and N.P. Podsakoff. 2012. Sources
+of method bias in social science research and recommendations
+on how to control it. Annual Review of Psychology 63: 539–569.
+Preacher, K.J., and A.F. Hayes. 2008. Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple
+mediator models. Behavior Research Methods 40 (3): 879–891.
+Randle, M., F. Leisch, and S. Dolnicar. 2013. Competition or collaboration? The effect of non-profit brand image on volunteer recruitment strategy. Journal of Brand Management 20 (8): 689–704.
+Reed, A., K. Aquino, and E. Levy. 2007. Moral identity and judgments
+of charitable behaviors. Journal of Marketing 71 (1): 178–193.
+Robson, A., and D.J. Hart. 2020. Feed the world or help the heroes?
+Exploring how political attitudes influence charitable choice.
+Journal of Marketing Management 36 (17–18): 1680–1706.
+Sargeant, A., J.B. Ford, and J. Hudson. 2008. Charity brand personality: The relationship with giving behavior. Nonprofit and Voluntary Sector Quarterly 37 (3): 468–491.
+Sarkar, C., and P. Kotler. 2018. Brand activism: From purpose to
+action. Idea Bite Press.
+Schmid, H., M. Bar, and R. Nirel. 2008. Advocacy activities in nonprofit human service organizations: Implications for policy. Nonprofit and Voluntary Sector Quarterly 37 (4): 581–602.
+Schmidt, H.J., N. Ind, F. Guzmán, and E. Kennedy. 2022. Sociopolitical activist brands. Journal of Product and Brand Management
+31 (1): 40–55.
+Sepulcri, L.M.C.B., E.W. Mainardes, and C.C. Belchior. 2020. Nonprofit branding: A bibliometric analysis. Journal of Product and
+Brand Management 29 (5): 655–673.
+She, C. 2022. January. Social media dissemination of counter accounts
+and stakeholder support–evidence from greenpeace’s “Save the
+Arctic” campaign on Facebook. In Accounting Forum (pp.
+1–26). Routledge.
+Shklar, J.N. 1984. Ordinary vices. Harvard University Press.
+Sibai, O., Mimoun, L. and Boukis, A. 2021. Authenticating brand
+activism: Negotiating the boundaries of free speech to make a
+change. Psychology and Marketing (forthcoming).
+Smith, N. 2016. Brand archetypes – meet the hero. Nvision Designs,
+available at: www.n​ visio​ n-t​ hat.c​ om/d​ esign-f​ rom-a​ llang​ les/b​ rand-​
+arche​type-​the-​hero.
+Smith, S., and A. Milligan. 2011. Bold: How to be brave in business
+and win. London: Kogan Page Publishers.
+Sobande, F. 2020. Woke-washing: “intersectional” femvertising and
+branding “woke” bravery. European Journal of Marketing 54
+(11): 2723–2745.
+Spence, M. 1973. Job market signaling. Quarterly Journal of Economics 87 (3): 355–374.
+Spry, A., B. Figueiredo, L. Gurrieri, J.A. Kemper, and J. Vredenburg.
+2021. Transformative branding: A dynamic capability to challenge the dominant social paradigm. Journal of Macromarketing
+41 (4): 531–546.
+Statista. 2019. The most generous countries in the world. https://​www.​
+stati​sta.​com/​chart/​12315/​the-​most-​gener​ous-​count​r ies-​in-​the-​
+world/. Accessed 5 Jan 2022.
+Statista. 2021. Charities in the UK. https://​www.​stati​sta.​com/​topics/​
+3781/​chari​ties-​in-​the-​uk/#​dossi​erKey​figur​es. Accessed 14 Jan
+2022.
+Stuart, H. 2018. Corporate branding and rebranding: An institutional
+logics perspective. Journal of Product and Brand Management
+27 (1): 96–100.
+Suárez, D.F. 2009. Non-profit advocacy and civic engagement on the
+Internet. Administration and Society 41 (3): 267–289.
+Sultan, P., and H.Y. Wong. 2019. How service quality affects university brand performance, university brand image and behavioural
+
+From warmth to warrior: impacts of non‑profit brand activism on brand bravery, brand hypocrisy…
+intention: The mediating effects of satisfaction and trust and
+moderating roles of gender and study mode. Journal of Brand
+Management 26 (3): 332–347.
+Tosi, J., and B. Warmke. 2016. Moral grandstanding. Philosophy and
+Public Affairs 44 (3): 197–217.
+Van Heerde, H.J., C. Moorman, C.P. Moreau, and R.W. Palmatier.
+2021. Reality check: Infusing ecological value into academic
+marketing research. Journal of Marketing 85 (2): 1–13.
+Venable, B.T., G.M. Rose, V.D. Bush, and F.W. Gilbert. 2005. The
+role of brand personality in charitable giving: An assessment
+and validation. Journal of the Academy of Marketing Science
+33 (3): 295–312.
+Villo, S., M. Halme, and T. Ritvala. 2020. Theorizing MNE-NGO conflicts in state-capitalist contexts: Insights from the Greenpeace,
+Gazprom and the Russian state dispute in the Arctic. Journal of
+World Business 55 (3): 101068.
+Vredenburg, J., S. Kapitan, A. Spry, and J.A. Kemper. 2020. Brands
+taking a stand: Authentic brand activism or woke washing? Journal of Public Policy and Marketing 39 (4): 444–460.
+Wagner, T., R.J. Lutz, and B.A. Weitz. 2009. Corporate hypocrisy:
+Overcoming the threat of inconsistent corporate social responsibility perceptions. Journal of Marketing 73 (6): 77–91.
+Washburn, J.H., and R.E. Plank. 2002. Measuring brand equity: An
+evaluation of a consumer-based brand equity scale. Journal of
+Marketing Theory and Practice 10 (1): 46–62.
+West, P. 2004. Conspicuous compassion: Why sometimes it really is
+cruel to be kind. The Institute for the Study of Civil Society
+(Civitas). London: UK.
+Wettstein, F., and D. Baur. 2016. Why should we care about marriage
+equality? Political advocacy as a part of corporate responsibility.
+Journal of Business Ethics 138 (2): 199–213.
+Winterich, K.P., Y. Zhang, and V. Mittal. 2012. How political identity
+and charity positioning increase donations: Insights from moral
+foundations theory. International Journal of Research in Marketing 29 (4): 346–354.
+Wong, H. 2021. Shelter reveals activism-inspired rebrand from Superunion, available at: https://w
+​ ww.d​ esign​ week.c​ o.u​ k/i​ ssues/2​ 4-3​ 0-​
+may-​2021/​shelt​er-​revea​ls-​activ​ism-​inspi​red-​rebra​nd-​from-​super​
+union/. Accessed 22 Nov 2021.
+Wunderink, S.R. 2002. Individual financial donations to charities in
+The Netherlands: Why, how and how much? Journal of NonProfit and Public Sector Marketing 10 (2): 21–39.
+Wymer, W., and M.M. Akbar. 2017. Brand authenticity, its conceptualization, and its relevance to non-profit marketing. International
+Review on Public and Non-Profit Marketing 14 (3): 359–374.
+Wymer, W., H.P. Gross, and B. Helmig. 2016. Nonprofit brand strength:
+What is it? How is it measured? What are its outcomes? Voluntas
+International Journal of Voluntary and Nonprofit Organizations
+27 (3): 1448–1471.
+YouGov. 2020. Charity index ranking 2020. https://​yougov.​co.​uk/​topics/​resou​rces/​artic​les-​repor​ts/​2020/​10/​20/​yougov-​chari​tyind​ex-​
+ranki​ngs-​2020. Accessed 5 Jan 2022.
+
+211
+
+YouGov. 2022. The most popular charities and organisations. https://​
+yougov.​co.​uk/​ratin​gs/​polit​ics/​popul​arity/​chari​ties-o​ rgan​isati​ons/​
+all. Accessed 1 Oct 2022.
+Publisher's Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+Dr Zoe Lee is a Senior Lecturer in Marketing at Cardiff Business School,
+Cardiff University, UK. She is an Associate Editor of Journal of Strategic
+Marketing and member of the Editorial Review Board for the Journal
+of Philanthropy and Marketing. Her research interest focuses on corporate branding & heritage, sustainability and brand activism. Her latest
+research explores the internal perspective of corporate (re)branding and
+corporate identity change, in particular nonprofit employees’ emotional
+resilience. Dr Zoe Lee is currently conducting research in understanding
+brand activism in nonprofit rebranding. Her research has been published
+in Journal of Business Research, Journal of Business Ethics, European
+Journal of Marketing and Journal of Marketing Management, and she
+reviews for a number of leading journals.
+Dr Amanda Spry is a Lecturer of Marketing at RMIT University, Australia. Amanda investigates the critical role that brands play for consumers, companies, markets, and society, from driving performance to
+engaging in activism and societal transformation. She has published in
+such journals as the European Journal of Marketing, Journal of Public Policy and Marketing, and Journal of Macromarketing. She is an
+editorial review board member for the European Journal of Marketing. Amanda has contributed to The Conversation and AdNews media
+outlets, amongst others, as a branding expert.
+Professor Yuksel Ekinci (Ph.D.) is a Professor of Marketing at the Faculty of Business and Law, University of Portsmouth. His research interest includes Consumer-Based Brand Equity and SME marketing. His
+articles are published in the Journal of Business Research, European
+Journal of Marketing, Annals of Tourism Research, Journal of Travel
+Research and others. Yuksel is an associate editor of the International
+Journal of Market Research and editorial board member of several marketing and tourism journals (e.g. Journal of Business Research, Journal
+of Travel Research and Journal of Retailing and Consumer Services).
+Dr Jessica Vredenburg (Ph.D., University of Melbourne) is Senior
+Lecturer of Marketing at Auckland University of Technology. She is
+a member of the Editorial Review Board for the Journal of Public
+Policy & Marketing and has published in top ranked peer-reviewed
+academic journals including the Journal of Public Policy & Marketing,
+the European Journal of Marketing, and the Journal of Macromarketing. Her research focuses on contemporary branding issues (including
+brand activism and cancel culture), service and relationship marketing
+(including service automation and retail theatre), and strategic sport
+marketing and sponsorship.
+
+

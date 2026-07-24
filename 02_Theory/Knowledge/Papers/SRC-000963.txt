@@ -1,0 +1,2658 @@
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/1066-2243.htm
+
+Empathy or perceived credibility?
+An empirical study on individual
+donation behavior in charitable
+crowdfunding
+Lili Liu
+Department of Management Science and Engineering,
+College of Economics and Management,
+Nanjing University of Aeronautics and Astronautics, Nanjing, China, and
+
+Study on
+individual
+donation
+behavior
+623
+Received 21 June 2017
+Revised 30 October 2017
+3 January 2018
+Accepted 3 January 2018
+
+Ayoung Suh and Christian Wagner
+City University of Hong Kong, Kowloon Tong, Hong Kong
+Abstract
+Purpose – Researchers have called for the synthesis of divergent perspectives and the development of a
+theoretical model that examines individuals’ donation behavior in charitable crowdfunding. To fill this research
+gap, the purpose of this paper is to synthesize the literature pertaining to the determinants of donation behavior
+in charitable crowdfunding. Then, drawing on the stimulus-organism-response framework, the authors develop
+and test a model that explains individuals’ intention to donate to charitable crowdfunding.
+Design/methodology/approach – This paper follows a quantitative research approach. An online survey
+was distributed to collect data from individuals who had experienced charitable crowdfunding. In total, 205
+valid responses were received and analyzed.
+Findings – First, this study finds that individuals’ empathy and the perceived credibility of a charitable
+crowdfunding project are key determinants for their intention to donate in charitable crowdfunding. Second,
+the study finds that website quality, transaction convenience, and project content quality influence both
+empathy and perceived credibility in different ways. Third, it is noteworthy that initiator reputation is
+positively related to perceived credibility, while project popularity is positively associated with empathy.
+Originality/value – This research advances the knowledge of individual donation behavior in charitable
+crowdfunding. The model can help researchers understand individuals’ philanthropic behavior by providing
+empirical explanations of the interplay between technological and project characteristics, emotional and
+cognitive states, and individuals’ donation behavior. For practitioners, the research suggests appropriate design,
+launch, and operation strategies to facilitate individuals’ donation behavior in charitable crowdfunding.
+Keywords Empathy, Perceived credibility, Charitable crowdfunding, Donation behaviour,
+Project characteristic, Technological characteristic
+Paper type Research paper
+
+1. Introduction
+Charitable crowdfunding – emerging within the broader landscape of crowdsourcing – describes
+an open call for monetary donations over a fixed time limit, typically through the medium of
+web-enabled information systems (Belleflamme et al., 2014; Gerber et al., 2012). In contrast to
+conventional charity in which a small group of major funders provides money (e.g. bake sales,
+door knocking, or society events), charitable crowdfunding seeks to obtain external financing
+from a large number of individuals (the “crowd”) who mainly donate small amounts of money
+(Lu et al., 2014). Charitable crowdfunding has become a mainstream approach to charity
+participation, raising 2.85 billion USD globally in 2015 (Massolution, 2015). As a relatively recent
+This research was supported in part by Grant No. CityU 11531016 from the Research Grants Council of
+the Hong Kong SAR awarded to the second author. This research was supported in part by GRF Grant
+CityU 11507815 from the Research Grants Committee of the Hong Kong Special Administrative
+Region, awarded to the second and third author.
+
+Internet Research
+Vol. 28 No. 3, 2018
+pp. 623-651
+© Emerald Publishing Limited
+1066-2243
+DOI 10.1108/IntR-06-2017-0240
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+624
+
+and expanding phenomenon, charitable crowdfunding is gaining substantial interest from
+practitioners and scholars (Choy and Schlagwein, 2016).
+Soliciting small amounts of money from a large number of people is not new in charity
+domains. For example, charitable organizations such as the March of Dimes have been
+seeking donations from society since 1938 (Whitman, 1972). However, charitable
+crowdfunding presents a unique context that distinguishes it from traditional charity in
+many ways. First, while traditional charity intends to carry out large-scale fundraising,
+charitable crowdfunding focuses on specific and size-limited charity causes (Yang, 2013).
+Second, in charitable crowdfunding, relatively small contributions are provided by many
+individuals over a fixed time (normally a few weeks) (Kuppuswamy and Bayus, 2015).
+Third, charitable crowdfunding provides real-time updates on the communications among
+participants as well as on the progress of each project, in which potential funders are able to
+learn the level of support from other funders and the time left before making donation
+decisions (Kuppuswamy and Bayus, 2015). Fourth, many donations in charitable
+crowdfunding are made by individuals with few or no social connections to funding
+seekers (Agrawal et al., 2015). Finally, advanced information technologies
+(e.g. crowdfunding websites, mobile payment systems) have significantly reduced the
+coordination and transaction costs in charitable crowdfunding (Choy and Schlagwein, 2016;
+Moisseyev, 2013). In short, charitable crowdfunding has standardized the process of
+fundraising by implementing information, transaction, and communication tools, thereby
+challenging existing explanations of donation behavior in conventional acts of charity
+(Belleflamme et al., 2013).
+Despite charitable crowdfunding’s popularity and the increasing public attention it is
+receiving, a great number of charitable crowdfunding campaigns have reportedly failed to
+achieve their monetary goals within the pre-specified period (Kickstarter, 2013).
+To understand the success of charitable crowdfunding, research has focused on diverse
+factors that influence individuals’ donation behavior, such as IT affordances (Choy and
+Schlagwein, 2016), altruism and warm glow motivations (Gleasure and Feller, 2016a),
+project content (Kuppuswamy and Bayus, 2015), credibility (Liu et al., 2017; Tanaka and
+Voida, 2016), website quality (Kuo and Wu, 2014), and social networks (Agrawal et al.,
+2015). Given that researchers have investigated various factors with different focuses,
+there is a need for a synthesis of divergent perspectives and the development of a
+theoretical model that systematically examines individual donation behavior in charitable
+crowdfunding (Feller et al., 2013). However, relatively little attention has been paid to the
+synthesis of existing knowledge; the question of why people donate for charitable
+crowdfunding has not been fully answered.
+To fill this research gap, we synthesize the literature pertaining to the determinants of
+donation behavior in charitable crowdfunding. Then, drawing on the stimulus-organismresponse (S-O-R) framework, we develop and test a model that explains an individual’s intention
+to donate in charitable crowdfunding. The S-O-R framework serves as a theoretical platform
+through which we consolidate diverse factors related to the aspects of the project, technology,
+and individuals’ emotional and cognitive states. By linking the subset of underlying
+psychosocial mechanisms applicable to charitable crowdfunding, this study seeks to expand our
+knowledge of individuals’ donation behavior in charitable crowdfunding.
+For academia, this research contributes to advancing our knowledge of individual
+donation behavior in charitable crowdfunding. Our model can help researchers
+understand individuals’ philanthropic behavior by providing empirical explanations of
+the interplay between technological and project characteristics, emotional and cognitive
+states, and individuals’ donation behavior. For practitioners, the research suggests
+appropriate design, launch, and operation strategies to facilitate individuals’ donation
+behavior in charitable crowdfunding.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+2. Literature review
+2.1 Charitable crowdfunding
+Crowdfunding – either charitable or commercial – aims to harness the power of the crowd
+for many relatively small contributions that together form a budget great enough to execute
+a project that is unlikely to be realized by traditional means of funding (Lambert and
+Schwienbacher, 2010). Crowdfunding has matured into a meaningful paradigm for
+fundraising that is projected to raise $1 trillion in 2025 (Crowdsourcing, 2012). The previous
+literature identifies four primary types of crowdfunding, based on what funders receive in
+exchange for their contribution (Beaulieu et al., 2015; Belleflamme et al., 2014; Gleasure and
+Feller, 2016b; Groebner et al., 2011; Haas et al., 2014; Mollick, 2014; Salisbury et al., 2001):
+equity-based crowdfunding (share equities), reward-based crowdfunding (receive a product,
+service, or other non-monetary rewards), lending-based crowdfunding (share a particular
+interest rate), and donation-based crowdfunding (or charitable crowdfunding), where the
+funders receive no material reward. Since each type of crowdfunding features a distinctive
+operational mode, these four types of crowdfunding are usually analyzed separately
+(Beier and Wagner, 2015). In this study, we focus on investigating charitable crowdfunding.
+The term “charity” commonly describes “the giving of aid to the needy” (Merriam-Webster,
+2015). More specifically, donation in charitable crowdfunding refers to the giving of monetary
+aid to the needy. In general, a charitable crowdfunding project involves three parties: the
+project initiator, who proposes the idea to be funded; funders whose donations support
+the project; and platforms, which bring project initiators and funders together to launch the
+project (Moisseyev, 2013). Charitable crowdfunding platforms, such as Kiva, Chuffed, and
+Pledgie, provide opportunities for any initiator to launch a project and to request a certain
+amount of money that needs to be raised within a fixed duration (Mollick, 2012). The two
+largest social network sites (SNSs) in Mainland China (Weibo and WeChat) also serve as
+charitable crowdfunding platforms that allow users to raise money for charitable purposes.
+For instance, “weigongyi” in Weibo and “qingsongchou” in WeChat are two popular charity
+fundraising channels. Launching a charitable crowdfunding project on SNSs is a fast and
+far-reaching way to broadcast information to the large pool of users and to build widespread
+support (Lambert and Schwienbacher, 2010), which maximizes the chances of its success
+(Moisseyev, 2013).
+
+Study on
+individual
+donation
+behavior
+625
+
+2.2 S-O-R framework
+Intention to donate is a crucial factor that signifies charitable crowdfunding success yet has
+not received in-depth investigation. Our literature review reveals that diverse
+factors – technological characteristics, crowdfunding project characteristics, individuals’
+emotional and cognitive states – are related to individuals’ behavioral intention to donate in
+charitable crowdfunding (see Table AI). To consolidate factors that are associated with an
+individual’s intention to donate, this study employs the S-O-R framework (Mummalaneni,
+2005). This framework posits that cues perceived in the situated environment (stimuli) trigger
+one’s internal evaluation (organism), which subsequently brings about positive or negative
+behaviors in relation to the organism (response) ( Jiang et al., 2010). We believe that the S-O-R
+framework is suitable to consolidate the factors examined in the previous studies because it
+serves as a theoretical guide to synthesizing divergent perspectives on stimuli, organism, and
+response in charitable crowdfunding context. On the basis of the S-O-R framework, we
+develop a model that explores how technological and project characteristics (stimuli) induce
+individuals’ empathy and their perception of a project’s credibility (organism), which in turn
+affect their intention to donate (response) in charitable crowdfunding.
+2.2.1 Organism: empathy and perceived credibility. Charitable crowdfunding denotes the
+intersection between conventional charity and online behavior. On the one hand, charitable
+crowdfunding can be framed as a type of philanthropy (Gerber and Hui, 2013). Hence, some
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+626
+
+of the key factors identified in philanthropy are expected to play a role in crowdfunding.
+In conventional charitable donation projects, individuals who donate money frequently cite
+altruistic reasons to explain their willingness to donate (Choy and Schlagwein, 2016;
+Steele et al., 2008). For instance, researchers have found that individuals are stimulated to
+donate money because of their feelings of empathy for specific crowdfunding projects
+(Gerber et al., 2012; Rick et al., 2008). In this context, empathy pertains to the extent to which
+an individual feels compassion for the particular target (i.e. those seeking help), which
+represents the individuals’ emotional state (Hoffman, 2001).
+On the other hand, IS research has found that online behavior is facilitated by
+perceptions of the source’s credibility (Cheung et al., 2009). In charitable crowdfunding,
+individuals’ monetary donations are made without expectation of material rewards.
+Therefore, we expect concerns about credibility to be relevant for the potential funders.
+Those who fund in charitable crowdfunding are concerned about whether their donation
+will be abused for another purpose. Thus, before donating money, individuals will evaluate
+whether a project is credible. Credibility is defined here as a perceptual variable of
+crowdfunding projects rather than as an objective measure of such projects, which
+represents individuals’ cognitive state (Kim et al., 2016). In other words, credibility is a
+property that is judged by the individuals who participate in crowdfunding rather than a
+property of a crowdfunding project per se (Freeman and Spyridakis, 2004). Accordingly, we
+identify empathy (emotional state) and perceived credibility (cognitive state) as predictors of
+intention to donate in this study.
+2.2.2 Stimulus: environmental cues. Environmental cues have been found to influence
+donation behavior in that individuals may experience the intention to donate money when they
+are stimulated by certain circumstantial factors while reviewing crowdfunding projects
+(Bennett, 2009; Moisseyev, 2013). Previous research has suggested that technological
+characteristics and crowdfunding project characteristics are important factors in crowdfunding
+(Belleflamme et al., 2014; Gerber and Hui, 2013; Gerber et al., 2012; Moisseyev, 2013; Mollick,
+2012). In this study, technological characteristics are represented by website quality (Everard
+and Galletta, 2005) and transaction convenience (Belleflamme et al., 2014; Gerber and Hui, 2013).
+Huber (1990) suggests that when new technology is adopted or when we make a better use of
+the capability of existing technology, it is important to reassess the effects of the technology.
+In the charitable crowdfunding context, individuals’ donation behavior may be affected by the
+implementation of new technology that facilitates transactions (e.g. a mobile payment system),
+which lowers the effort of giving and makes smaller donations worthwhile. In addition, the
+website quality of a crowdfunding platform (e.g. security) may affect individuals’ perceived
+credibility of a project on that platform, which has long been a challenge for online money
+spending (Hoffman et al., 1999). Previous research has identified crowdfunding project
+characteristics as those project attributes that relate to the funding decision; these attributes are
+initiator reputation (Gerber and Hui, 2013), popularity of crowdfunding project (Lu et al., 2014),
+and crowdfunding project content quality (Park and Kim, 2003).
+The environmental cues have been discussed in previous crowdfunding literature
+(Belleflamme et al., 2014; Gerber and Hui, 2013; Gerber et al., 2012; Moisseyev, 2013; Mollick,
+2012). However, there is little knowledge about how these characteristics jointly trigger
+donation behavior. Collectively, the characteristics stand for the many facets of
+environmental cues in the context of charitable crowdfunding. Thus, this study extends
+previous research by investigating whether these cues and their corresponding attributes
+are major catalysts in increasing the empathy for and perceived credibility of a charitable
+crowdfunding project, which in turn determine the intention to donate money. In doing so,
+we seek to investigate the relative importance of the two characteristics and their
+corresponding attributes with respect to their effect on individuals’ donation behavior.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+3. Research model and hypotheses
+On the basis of the preceding literature review, we propose the research model depicted
+in Figure 1. Each hypothesis in the proposed model is discussed in detail below.
+3.1 Empathy, perceived credibility, and intention to donate
+Empathy is defined as “an affective state that stems from the apprehension of another’s
+emotional state or condition” (Eisenberg and Miller, 1987). Empathy relies on automatically
+activated state matching that produces shared representations and similar emotions
+(Decety and Jackson, 2006); such state matching is prominent wherever humans attempt to
+cultivate feelings that are more just and compassionate (Gerdes, 2011). Researchers have
+found that empathy motivates prosocial behaviors (Batson et al., 1995; Eisenberg and Miller,
+1987; Murillo et al., 2016), such as donating money to charitable crowdfunding projects
+(Lee et al., 2014). Hence, cultivating empathy is a main determinant for intention to donate.
+Accordingly, we formulate the following hypothesis:
+
+Study on
+individual
+donation
+behavior
+627
+
+H1. Empathy is positively related to intention to donate.
+Perceived credibility, defined in the study as the believability of a crowdfunding project in
+the judgment of potential funders (O’Keefe, 2015), has been extensively studied in the
+context of online transactions (Castillo et al., 2011; Gvili and Levy, 2016; Kim et al., 2016).
+Previous works have indicated that although most of the messages posted on crowdfunding
+platforms are credible, at times such platforms are also used to spread misinformation and
+false rumors (Castillo et al., 2011). Hence, while reviewing a crowdfunding project, potential
+funders often rely on their assessment of the project’s credibility when deciding whether to
+donate money (Greenberg and Gerber, 2014). We thus propose the following hypothesis:
+H2. Perceived credibility is positively related to intention to donate.
+3.2 Technological characteristics
+Previous studies have described website quality as a form of technological characteristic
+(Wells et al., 2011). Following Wells et al.’s (2011) study, website quality is identified as a
+high-order construct consisting of three sub-dimensions: security, navigability, and visual
+appeal. When website quality is affirmed, an attitude of trust toward or belief in the
+information/source on the website can be established (Gregg and Walczak, 2010).
+Furthermore, a well-designed website interface induces positive emotional and cognitive
+evaluations of crowdfunding projects. For instance, visual appeal has been found to induce a
+sharable emotion between audiences (Capota et al., 2007). Thus, a well-designed,
+Stimulus
+
+Organism
+
+Response
+
+Technological Characteristics
+Website Quality
+Empathy
+Transaction Convenience
+Intention to Donate
+Project Characteristics
+Initiator Reputation
+Project Popularity
+Project Content Quality
+
+Perceived
+Credibility
+Control Variables
+Altruism; Income;
+Past Donation Experience;
+Social Ties with Project Initiator
+
+Figure 1.
+Research model
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+high-quality website will increase individuals’ empathy for a crowdfunding project, as well
+as the project’s perceived credibility. We therefore propose the following hypotheses:
+H3a. Website quality is positively related to empathy.
+H3b. Website quality is positively related to perceived credibility.
+
+628
+
+Transaction convenience is defined as the extent to which it is easy to initiate, authorize, and
+confirm a transaction (Kim et al., 2010). In crowdfunding, existing online payment systems
+are adopted to facilitate transactions between initiators and potential funders (Gerber et al.,
+2012). Transaction convenience has been discussed primarily in the marketing and
+consumer behavior literature ( Jih, 2007), which relates to the elements generating time and
+place utility for users. For example, in order to transfer money to crowdfunding projects
+(initiators and potential funders are geographically isolated), users of Weibo are able to pay
+through their e-banking system, Alipay system, or WeChat payment system, all of which
+are more convenient than visiting a physical bank. In fact, funding behavior appears
+instantaneously during or immediately after reading the information of a crowdfunding
+project (Bennett, 2009). One possible explanation is that a potential funder’s attention
+quickly shifts (Crawford, 2015, p. 11). If there is a long time delay, potential funders are
+likely to be unwilling to return their attention to the previously viewed crowdfunding
+project, expend the effort of possibly having to find it again, and learn how to transfer
+money to it. Furthermore, an individual’s intention to donate money is also affected by the
+circumstances of use, such as time pressure ( project deadline) for the payment (Kim et al.,
+2010). Hence, if a transaction can be accomplished easily, individuals may perceive the
+project as highly credible and quickly generate empathy toward it, which in turn motivates
+their funding behavior. We thus propose the following hypotheses:
+H4a. Transaction convenience is positively related to perceived credibility.
+H4b. Transaction convenience is positively related to empathy.
+3.3 Project characteristics
+Initiator reputation describes the extent to which a potential funder believes that an initiator is
+honest and concerned about the funders ( Jøsang et al., 2007). This definition corresponds well
+with the position of researchers (Marsden and Lin, 1982) that a reputation is a quantity of
+good impressions derived from the underlying website that is globally visible to all members
+of the network. Prior research has noted that this construct has a positive and direct effect on
+building positive attitudes (e.g. trust) toward people or objects ( Jin et al., 2008). Moreover, a
+favorable reputation can bring several important benefits to individuals or organizations, for
+instance, because people rely on reputation information when they choose partners with
+whom to work, they are more willing to apprehend the feelings of reputable partners and
+support them ( Jøsang et al., 2007). We thus hypothesize the following:
+H5a. Initiator reputation is positively related to empathy.
+H5b. Initiator reputation is positively related to perceived credibility.
+The popularity of a crowdfunding project is represented by the number of retweets,
+comments, and likes related to it (De Vries et al., 2012). Once launched, crowdfunding projects
+have the potential to spread to other websites (e.g. Twitter, Weibo, WeChat) and to be viewed
+by potential funders (Guo et al., 2013). Crowdfunding projects with large numbers of retweets,
+comments, and likes are popular. Previous research has demonstrated that project popularity
+serves as a cue and that, as it increases, potential funders’ perception of a project’s credibility
+also increases ( Jin and Phua, 2014; Westerman et al., 2012). Moreover, others users’
+involvement in a crowdfunding project (e.g. retweeting the crowdfunding project’s
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+information, liking the project, and commenting on the project) is conducive to generating
+empathy and positive feelings among future viewers, who may become funders of the project
+(Bickart and Schindler, 2001). These findings are consistent with previous research on
+popularity. For example, it is demonstrated that people often buy and download music based
+on its popularity (Salganik et al., 2006). Therefore, we propose the following hypotheses:
+H6a. Project popularity is positively related to empathy.
+H6b. Project popularity is positively related to perceived credibility.
+
+Study on
+individual
+donation
+behavior
+629
+
+In this study, project content quality is defined as the degree to which an individual believes
+that the information provided about a crowdfunding project is of a high quality (Xu et al.,
+2013). Because it is often the case that multiple crowdfunding projects are concurrently
+raising money for similar purposes, individuals seek information about crowdfunding
+projects that allows them to distinguish those with high credibility from those with low
+credibility by acquiring more detailed information (e.g. the initiator, aim, anticipated amount
+of money, available period). Empirical findings have supported the observation that project
+content quality positively influences the user’s perception of a project’s credibility
+(Fung and Lee, 1999). In addition, when a crowdfunding project provide complete, accurate,
+well-formatted, and timely information, individuals are more likely to generate an emotional
+resonance (e.g. empathy) with it, based on a deeper understanding of the project
+(Lee et al., 2008). Thus, we propose:
+H7a. Project content quality is positively related to empathy.
+H7b. Project content quality is positively related to perceived credibility.
+4. Methodology
+4.1 Measurement
+All the measurement items have been adopted from the literature and modified to reflect the
+context of charitable crowdfunding. Seven-point Likert scale ranging from 1 (strongly
+disagree) to 7 (strongly agree) were used to measure the items. Website quality was assessed
+with items adapted from Gleasure and Feller (2016b), Salisbury et al. (2001), Loiacono et al.
+(2007). These items measured three sub-dimensions of the crowdfunding website: security,
+navigability, and visual appeal. Items for transaction convenience were adapted from Kim
+et al. (2010). Items of initiator reputation were adapted from Jarvenpaa et al. (1999). Project
+popularity items were adapted from Chang et al. (2015). Items of project content quality were
+adapted from the work of Xu et al. (2013). Items for perceived credibility were adapted from
+McCroskey and Teven (1999). Items of Empathy were adapted from Batson et al. (1987).
+Finally, items of intention to donate were adapted from Dodds et al. (1991).
+Previous research demonstrates that individuals’ general tendency to be altruistic differ
+considerably (Steele et al., 2008). Hence, altruism was treated in this study as a control
+variable of intention to donate. We measured an individual’s inherent altruism using four
+items adapted from Chen et al. (1998). In addition, many donations in charitable
+crowdfunding were made by individuals who built weak or no social connections with fund
+seekers (Agrawal et al., 2015). We thus examined individuals’ social ties with the project
+initiator as another control variable of intention to donate. Items for measuring social ties
+with a project initiator were derived from the work of Chiu et al. (2006). Moreover, we also
+included individuals’ income and past donation experience as control variables of intention
+to donate. A summary of the measurement items and their sources is presented in Table AII.
+The questionnaire was originally developed in English and subsequently translated
+into Chinese by the first author while another bilingual professor conducted the back
+translation. To ensure the accuracy of translation, three bilingual PhD students helped to
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+630
+
+verify that both versions reflected the same content. The instruments were further
+pretested with a convenience sample of 15 participants, confirming that the wording and
+instructions were appropriate. According to the pretest, minor revisions were made to
+the questionnaire.
+4.2 Data collection
+To test our hypotheses, we collected data from the users of WeChat and Weibo, SNSs in
+Mainland China. These SNSs allow initiators to directly post charitable crowdfunding
+projects, recruit funders, and solicit the required amount of money based on an
+agreed-upon deadline. Although charitable crowdfunding can function without SNSs,
+it has greatly developed along with the advance of SNSs. It has been argued that use of
+SNSs may help initiators to reach fundraising targets faster (Moisseyev, 2013).
+For instance, in 2014, Weibo (Chinese Twitter) announced that within 20 days, 40,000
+users collectively donated $1.5 million for Amyotrophic Lateral Sclerosis patients, an
+amount almost five times greater than the total amount of donations for this charitable
+purpose in 2013.
+An online survey agency called SO JUMP (www.sojump.com) was commissioned to
+recruit survey participants, targeting Weibo and WeChat users via an e-mail invitation,
+from May 12 to May 26, 2016. Respondents were asked to recall the latest charitable
+crowdfunding project they had read (regardless of whether they had donated money) and to
+fill out our questionnaire. In two weeks, a total of 403 respondents were approached, of
+which 230 (57 percent) people completed the questionnaire. Among these respondents,
+25 were excluded as they had reported nonexistent charitable crowdfunding projects
+(we asked each respondent to provide the title of the latest charitable crowdfunding project
+he or she had read and double-checked the authenticity of each project). Finally, 205 valid
+responses were collected during this process. Table I lists the demographic information of
+the respondents. To summarize, 45.85 percent were male and 54.15 percent were female,
+with ages ranging from 18 to 50; education levels varied from associate degree to doctoral
+degree, and 56 percent had an income of less than CNY 5,000 per month.
+
+Item
+
+Category
+
+Gender
+
+Male
+Female
+⩽20
+21-30
+31-40
+41-50
+Associate degree
+Bachelor degree
+Master degree
+Doctoral degree
+⩽2,000
+2,001-5,000
+5,001-8,000
+8,001-15,000
+W15,000
+Never
+Seldom
+Sometimes
+Frequently
+
+Age
+
+Education
+
+Income (CNY)
+
+Past donation experience
+Table I.
+Subject demographics
+
+Frequency
+
+Ratio (%)
+
+94
+111
+9
+118
+55
+23
+54
+128
+20
+3
+24
+91
+56
+24
+10
+48
+64
+81
+12
+
+45.85
+54.15
+4.39
+57.56
+26.83
+11.22
+26.35
+62.44
+9.76
+1.45
+11.71
+44.38
+27.32
+11.71
+4.88
+23.41
+31.22
+39.51
+5.86
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+5. Data analysis and results
+This study utilized a two-step approach to analyze the research model (Chin et al., 2003).
+The first step involved the analysis of the measurement model, where reliability, validity, and
+common method bias were examined. The second step tested the structural model, where
+structural relationships among latent constructs and hypotheses were assessed, respectively
+(Chin et al., 2003). SmartPLS 2.0 was used to analyze the data (Ringle et al., 2005).
+
+Study on
+individual
+donation
+behavior
+631
+
+5.1 Measurement model
+5.1.1 Reliability, convergent validity, and discriminant validity. The reliability was verified by
+using three criteria suggested by Hair et al. (2006) and Chin (1998): Cronbach’s α should exceed
+0.7, construct composite reliabilities (CR) should exceed 0.7, and average variance extracted
+(AVE) by each construct should exceed 0.5. As shown in Table II, all Cronbach’s αs were
+greater than 0.7 and the CR values of all constructs ranged from 0.89 to 0.96. The AVE values
+ranged from 0.62 to 0.87 (see Table V ). These results suggested that all the constructs had
+adequate reliability (Fornell and Larcker, 1981). Convergent validity for the reflective
+constructs was assessed by checking the item loadings on the corresponding constructs, while
+item weights were examined for the formative construct (website quality). Results in Table II
+showed that all item loadings of reflective constructs were significant at po0.001 (all the
+t-values were greater than 3.29), and almost all item loadings exceeded 0.7, indicating
+Construct
+Transaction convenience
+
+Item code
+
+Means
+
+TC1
+5.63
+TC2
+5.50
+TC3
+5.26
+TC4
+5.58
+Initiator reputation
+REP1
+5.65
+REP2
+4.39
+REP 3
+4.40
+REP 4
+5.01
+REP 5
+5.08
+Project popularity
+POP1
+5.45
+POP2
+5.49
+POP3
+5.38
+Project content quality
+CON1
+5.23
+CON2
+5.38
+CON3
+5.18
+Empathy
+EMP1
+5.81
+EMP2
+5.89
+EMP3
+5.40
+EMP4
+5.66
+EMP5
+5.40
+EMP6
+5.75
+Perceived credibility
+CRE1
+5.32
+CRE2
+5.28
+CRE3
+5.27
+CRE4
+5.28
+CRE5
+5.19
+CRE6
+4.99
+Intention to donate
+INT1
+5.16
+INT2
+5.22
+INT3
+5.23
+Notes: α, Cronbach’s alpha; CR, composite reliability
+
+Loadings
+
+t-value
+
+α
+
+CR
+
+0.89
+0.89
+0.85
+0.88
+0.68
+0.71
+0.77
+0.89
+0.88
+0.87
+0.93
+0.90
+0.93
+0.94
+0.93
+0.61
+0.72
+0.79
+0.86
+0.85
+0.85
+0.91
+0.91
+0.87
+0.91
+0.88
+0.82
+0.94
+0.94
+0.90
+
+53.47
+45.57
+34.50
+37.70
+16.40
+16.50
+16.50
+53.78
+49.40
+33.98
+79.36
+50.62
+72.65
+113.45
+70.21
+9.23
+13.50
+20.36
+46.36
+36.73
+33.20
+54.34
+70.70
+45.10
+66.08
+33.22
+27.95
+89.76
+106.07
+37.01
+
+0.90
+
+0.93
+
+0.85
+
+0.89
+
+0.88
+
+0.93
+
+0.93
+
+0.95
+
+0.88
+
+0.91
+
+0.94
+
+0.96
+
+0.92
+
+0.95
+
+Table II.
+Item means and
+loadings of reflective
+constructs
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+632
+
+adequate convergent validity (Fornell and Larcker, 1981). For the formative construct, the
+weights of the three items were significant (see Table III). Furthermore, the results showed
+that the loadings for formative items were significant, indicating that all the conditions for
+convergent validity were ensured (Cenfetelli and Bassellier, 2009). In addition, values for
+skewness (a measure of the asymmetry of a distribution) and kurtosis (a measure of
+peakedness of a distribution) were tested using IBM SPSS Statistics 23. The results showed
+that skewness values ranged from −0.439 to 0.205 while kurtosis values ranged from −0.926
+to −0.051, indicating the reasonable normality of the distribution (skewness and kurtosis
+values should ranged from −1.5 and 1.5) (Brown, 2011; Hair et al., 1998).
+Two steps were performed to assess the discriminant validity of the constructs (Fornell
+and Larcker, 1981). First, the AVE analysis was conducted. If the square root value of the
+AVE for each construct is greater than the correlations between constructs that are not
+theoretically related, the discriminant validity is confirmed. As shown in Table V, all the
+square root values of the AVE (values on the diagonal) exceeded the inter-construct
+correlations, suggesting good discriminant validity. The study gains further confidence on
+discriminant validity by examining the cross-loadings, which indicate that items are more
+strongly related to their own construct than other constructs (see Tables IV and V ).
+5.1.2 Common method biases. As Podsakoff et al. (2003) and Podsakoff and Organ
+(1986) argued, with self-reported data, common method biases resulting from multiple
+sources, e.g., consistency motif and social desirability, would potentially show up. In our
+study, website quality was measured with formative indicators. According to Liang et al.’s
+(2007) statistical approach, in which they also adopted formative measurements, we first
+performed Harmon one-factor test on the pivotal constructs (Podsakoff and Organ, 1986),
+including transaction convenience, initiator reputation, project popularity, project content
+quality, empathy, perceived credibility, and intention to donate. The greatest covariance
+explained by the one factor was 22.37 percent, indicating that common method bias were
+unlikely to be a serious issue in this study. Second, following Podsakoff et al. (2003) and
+Liang et al. (2007), the variance explained by a common method factor and the substantive
+factors were compared to determine whether the majority of covariance was explained by
+the common method factor. In advance of common method bias evaluation, we tested two
+different versions of the theoretical model. In one version, website quality was considered
+as a formative construct, while in the other version, it was treated as a reflective construct.
+As a result, all the significant paths remained and no paths gained or lost statistical
+significance, advising that regardless of whether website quality was formatively or
+reflectively measured, there was no qualitative difference (Liang et al., 2007). Therefore,
+website quality was modeled as a reflective construct when we used SmartPLS 2.0 to
+examine common method bias.
+In light of Liang et al.’s (2007) study, each indicator in the research model were
+transformed to a first-order construct, and then linked to a second-order construct
+(the first-order construct before conversion). Corresponding indicators were used to measure
+these first-order constructs (the indicators before conversion). Moreover, following
+Podsakoff et al. (2003) and Williams et al.’s (2003) procedure, a common method factor
+
+Construct
+Table III.
+Item means and
+loadings of formative
+constructs
+
+Website quality
+
+Item code
+
+Means
+
+Weights
+
+SEC
+4.40
+0.42
+NAV
+5.76
+0.56
+VIS
+5.24
+0.30
+Notes: SEC, security; NAV, navigability; VIS, visual appeal
+
+t-value
+
+Loading
+
+t-value
+
+4.54
+5.38
+2.33
+
+0.72
+0.84
+0.78
+
+13.49
+23.09
+32.32
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+WQ
+
+TC
+
+REP
+
+POP
+
+CON
+
+EMP
+
+CRE
+
+INT
+
+SEC
+0.72
+0.39
+0.30
+0.27
+0.33
+0.35
+0.46
+0.48
+NAV
+0.84
+0.52
+0.24
+0.38
+0.36
+0.56
+0.37
+0.36
+VIS
+0.78
+0.38
+0.37
+0.45
+0.44
+0.46
+0.41
+0.41
+TC1
+0.53
+0.89
+0.20
+0.32
+0.34
+0.50
+0.40
+0.51
+TC2
+0.48
+0.89
+0.21
+0.30
+0.34
+0.44
+0.40
+0.53
+TC3
+0.41
+0.85
+0.26
+0.32
+0.34
+0.39
+0.38
+0.57
+TC4
+0.56
+0.88
+0.22
+0.41
+0.36
+0.52
+0.41
+0.48
+REP1
+0.18
+0.23
+0.68
+0.44
+0.54
+0.33
+0.48
+0.34
+REP2
+0.28
+0.19
+0.71
+0.30
+0.37
+0.36
+0.41
+0.34
+REP 3
+0.23
+0.05
+0.77
+0.29
+0.31
+0.24
+0.21
+0.21
+REP 4
+0.35
+0.17
+0.89
+0.38
+0.47
+0.38
+0.44
+0.37
+REP 5
+0.40
+0.27
+0.88
+0.48
+0.54
+0.37
+0.44
+0.45
+POP1
+0.37
+0.28
+0.49
+0.87
+0.52
+0.47
+0.42
+0.50
+POP2
+0.40
+0.34
+0.43
+0.93
+0.52
+0.45
+0.46
+0.50
+POP3
+0.46
+0.42
+0.40
+0.90
+0.54
+0.43
+0.47
+0.54
+CON1
+0.41
+0.39
+0.52
+0.54
+0.93
+0.52
+0.62
+0.58
+CON2
+0.44
+0.35
+0.56
+0.51
+0.94
+0.55
+0.64
+0.58
+CON3
+0.45
+0.36
+0.57
+0.60
+0.93
+0.48
+0.61
+0.56
+EMP1
+0.33
+0.32
+0.27
+0.32
+0.33
+0.61
+0.32
+0.29
+EMP2
+0.43
+0.37
+0.36
+0.42
+0.48
+0.72
+0.45
+0.40
+EMP3
+0.46
+0.38
+0.33
+0.35
+0.38
+0.79
+0.46
+0.43
+EMP4
+0.52
+0.42
+0.32
+0.39
+0.46
+0.86
+0.45
+0.51
+EMP5
+0.47
+0.46
+0.35
+0.39
+0.43
+0.85
+0.37
+0.53
+EMP6
+0.56
+0.53
+0.42
+0.49
+0.51
+0.85
+0.47
+0.64
+CRE1
+0.47
+0.42
+0.45
+0.49
+0.63
+0.49
+0.91
+0.55
+CRE2
+0.51
+0.46
+0.46
+0.49
+0.60
+0.49
+0.91
+0.55
+CRE3
+0.42
+0.37
+0.43
+0.44
+0.60
+0.51
+0.87
+0.50
+CRE4
+0.44
+0.40
+0.46
+0.43
+0.60
+0.48
+0.91
+0.50
+CRE5
+0.48
+0.44
+0.53
+0.45
+0.61
+0.47
+0.88
+0.61
+CRE6
+0.44
+0.29
+0.47
+0.35
+0.52
+0.39
+0.82
+0.50
+INT1
+0.54
+0.52
+0.47
+0.57
+0.62
+0.61
+0.61
+0.94
+INT2
+0.45
+0.56
+0.44
+0.55
+0.57
+0.58
+0.58
+0.94
+INT3
+0.46
+0.57
+0.32
+0.45
+0.50
+0.49
+0.50
+0.90
+Notes: WQ, website quality; SEC, security; NAV, navigability; VIS, visual appeal; TC, transaction convenience; REP, initiator reputation; POP, project popularity; CON, project content quality; EMP, empathy;
+CRE, perceived credibility; INT, intention to donate
+
+AVE
+
+WQ
+
+TC
+
+REP
+
+POP
+
+CON
+
+EMP
+
+CRE
+
+Study on
+individual
+donation
+behavior
+633
+
+Table IV.
+Cross-loadings
+
+INT
+
+WQ
+na
+na
+TC
+0.77
+0.57
+0.88
+REP
+0.63
+0.37
+0.25
+0.79
+POP
+0.81
+0.46
+0.39
+0.49
+0.90
+CON
+0.87
+0.47
+0.39
+0.59
+0.59
+0.93
+EMP
+0.62
+0.60
+0.53
+0.44
+0.50
+0.55
+0.79
+CRE
+0.78
+0.52
+0.45
+0.53
+0.50
+0.67
+0.54
+0.89
+INT
+0.86
+0.52
+0.59
+0.45
+0.57
+0.61
+0.61
+0.61
+0.93
+Notes: WQ, website quality; TC, transaction convenience; REP, initiator reputation; POP, project popularity;
+CON, project content quality; EMP, empathy; CRE, perceived credibility; INT, intention to donate; AVE,
+average variance extracted. The square root of average variance extracted (AVE) is shown on the diagonal of
+the correlation matrix
+
+Table V.
+Discriminant validity
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+634
+
+with items of all constructs was created and included into the converted research model.
+Thus, the variance of each item was explained substantively by its principle construct, as
+well as by the method factor. Results in Table VI indicated that the substantive factor
+loading (R1) of each item was significant at p o0.001 and was much greater than
+corresponding method factor loadings (R2). All of the method factor loadings were not
+significant, justifying that common method bias was not a serious concern for this study
+(Williams et al., 2003). Besides, the common method factor only explained 0.4 percent of
+the overall variance (R22), again confirming that common method bias was not a threat to
+the results.
+5.1.3 Multicollinearity. Although the correlations among different constructs were
+generally moderate or low, several correlations were above 0.6 (e.g. correlation between
+perceived credibility and intention to donate). To avoid the threat of multicollinearity, the
+variance inflation factor (VIF) and tolerance values were examined using the regression
+module of IBM SPSS Statistics 23. The results showed that the VIF values for all the
+independent variables ranged from 1.217 to 2.291, whereas the tolerance values ranged from
+
+Construct
+Website quality
+
+Table VI.
+Common method
+bias analysis
+
+Indicator
+
+SEC
+NAV
+VIS
+Transaction convenience TC1
+TC2
+TC3
+TC4
+Initiator reputation
+REP1
+REP2
+REP 3
+REP 4
+REP 5
+Project popularity
+POP1
+POP2
+POP3
+Project content quality CON1
+CON2
+CON3
+Empathy
+EMP1
+EMP2
+EMP3
+EMP4
+EMP5
+EMP6
+Perceived credibility
+CRE1
+CRE2
+CRE3
+CRE4
+CRE5
+CRE6
+Intention to donate
+INT1
+INT2
+INT3
+Average
+Notes: ***p o0.001
+
+Substantive factor loading
+(R1)
+
+R12
+
+Method factor loading
+(R2)
+
+R22
+
+0.694***
+0.774***
+0.880***
+0.887***
+0.918***
+0.875***
+0.832***
+0.686***
+0.654***
+0.974***
+0.923***
+0.845***
+0.871***
+0.958***
+0.869***
+0.935***
+0.939***
+0.926***
+0.693***
+0.643***
+0.855***
+0.922***
+0.934***
+0.667***
+0.899***
+0.874***
+0.896***
+0.984***
+0.761***
+0.903***
+0.829***
+0.927***
+0.926***
+0.853
+
+0.482
+0.599
+0.774
+0.787
+0.843
+0.766
+0.692
+0.471
+0.428
+0.949
+0.852
+0.714
+0.759
+0.918
+0.755
+0.874
+0.882
+0.857
+0.480
+0.413
+0.731
+0.850
+0.872
+0.445
+0.808
+0.764
+0.803
+0.968
+0.579
+0.815
+0.687
+0.859
+0.857
+0.737
+
+0.035
+0.010
+−0.039
+−0.000
+−0.038
+−0.020
+0.058
+0.226
+0.065
+−0.289
+−0.034
+0.070
+0.003
+−0.039
+0.038
+−0.004
+0.003
+0.001
+−0.080
+0.102
+−0.069
+−0.073
+−0.103
+0.208
+0.015
+0.042
+−0.023
+−0.082
+0.135
+−0.094
+0.125
+0.018
+−0.152
+0.069
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.010
+0.000
+0.003
+0.000
+0.001
+0.001
+0.000
+0.001
+0.000
+0.023
+0.003
+0.005
+0.000
+0.004
+0.008
+0.000
+0.000
+0.000
+0.007
+0.014
+0.006
+0.009
+0.002
+0.032
+0.004
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+0.378 to 0.681. According to Hair et al. (1998), the VIF values were far below the suggested
+value of 10. The VIF and tolerance values of this study were also within the more
+stringent criteria (VIF o5 and tolerance W0.2) as indicated by Groebner et al. (2011).
+Hence, multicollinearity was not a serious problem of this study.
+5.2 Structural model
+As illustrated in Figure 2, ten out of the twelve hypotheses were supported ( p o0.05), while
+the remaining two were not significant at the 0.05 level of significance. First, empathy
+( β ¼ 0.29, p o0.001) and perceived credibility ( β ¼ 0.33, p o0.001) exhibited strong positive
+effects on intention to donate. They jointly explained 55.8 percent of the variance in
+intention to donate. Consequently, H1 and H2 were supported empirically. Second, in terms
+of technological characteristics, website quality significantly and positively affected
+empathy ( β ¼ 0.29, p o0.001) and perceived credibility ( β ¼ 0.17, po 0.05), supporting H3a
+and H3b. In addition, transaction convenience was associated positively with empathy
+( β ¼ 0.22, p o0.001) and perceived credibility ( β ¼ 0.14, p o0.05). Therefore, we concluded
+that H4a and H4b were supported. Third, findings on impacts of project characteristics
+were more complicated. Initiator reputation was positively related to perceived credibility
+( β ¼ 0.16, p o0.05), confirming H5b. However, the results showed an insignificant path
+between initiator reputation and empathy. The path from project popularity to empathy
+( β ¼ 0.12, p o0.05) was positive and significant, while project popularity showed no
+significant influence on perceived credibility. Consequently, H6a was supported while H6b
+was not. Project content quality exerted significant and positive impacts on both empathy
+( β ¼ 0.21, p o0.01) and perceived credibility ( β ¼ 0.42, p o0.001). Therefore, H7a and H7b
+were supported. The proportions of variances explained were 49.8 percent for empathy,
+and 53.7 percent for perceived credibility. Finally, the results indicated that two
+control variables – altruism ( β ¼ 0.15, p o0.05) and past donation experience ( β ¼ 0.23,
+p o0.001) – significantly affected intention to donate.
+Stimulus
+
+Organism
+
+Study on
+individual
+donation
+behavior
+635
+
+Response
+
+Technological Characteristics
+Security
+
+0.42***
+
+Navigability
+
+0.56***
+
+0.29***
+
+Website Quality
+
+0.17*
+0.30*
+
+Visual Appeal
+
+0.22***
+
+Transaction
+Convenience
+
+Empathy
+R2= 0.498
+0.29***
+
+0.14*
+
+Intention to Donate
+R2 = 0.558
+
+Project Characteristics
+Initiator Reputation
+
+0.12*
+
+Project Popularity
+0.21**
+
+Project Content
+Quality
+
+0.33***
+
+0.16*
+
+0.42***
+
+Perceived
+Credibility
+R2 = 0.537
+
+Control Variables
+Altruism 0.15*
+Past Donation Experience 0.23***
+
+Notes:
+First-order construct;
+second-order construct;
+significant relationship;
+insignificant relationship. *p< 0.05; **p<0.01; ***p< 0.001
+
+Figure 2.
+Structural model
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+636
+
+Table VII.
+Summary of
+structural model
+
+The proposed hypotheses and data analysis results are summarized in Table VII.
+In conclusion, majority of the hypotheses are supported, except for the impact of initiator
+reputation on empathy and the influence of project popularity on perceived credibility of a
+charitable crowdfunding project. Besides, among the 205 respondents, we reported in this
+study, 157 respondents had donation experience while 48 respondents had no donation
+experience. In order to check the robustness of our findings, we used SmartPLS 2.0 to test
+the structural model with 157 samples who had donation experience and compared with
+the results of analyzing 205 samples. Findings indicated that the results were consistent
+across the two groups (see Table AIII, we summarized the results of hypotheses test
+between two groups; in Figure 3, structural model with 157 respondents who had no
+donation experience was shown).
+
+Hypotheses
+
+Description
+
+Result
+
+H1
+H2
+H3a
+H3b
+H4a
+H4b
+H5a
+H5b
+H6a
+H6b
+H7a
+H7b
+
+Empathy is positively related to intention to donate
+Perceived credibility is positively related to intention to donate
+Website quality is positively related to empathy
+Website quality is positively related to perceived credibility
+Transaction convenience is positively related to perceived credibility
+Transaction convenience is positively related to empathy
+Initiator reputation is positively related to empathy
+Initiator reputation is positively related to perceived credibility
+Project popularity is positively related to empathy
+Project popularity is positively related to perceived credibility
+Project content quality is positively related to empathy
+Project content quality is positively related to perceived credibility
+
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Not supported
+Supported
+Supported
+Not supported
+Supported
+Supported
+
+Stimulus
+
+Organism
+
+Response
+
+Technological Characteristics
+Security
+
+0.44***
+
+Navigability
+
+0.63***
+
+Website Quality
+
+0.29***
+0.20*
+
+0.21*
+Visual Appeal
+
+0.21***
+
+Transaction
+Convenience
+
+Empathy
+R2 =0.509
+0.38***
+
+0.13*
+
+Intention to Donate
+R2 =0.579
+
+Project Characteristics
+Initiator Reputation
+
+0.16**
+Project Popularity
+0.17**
+
+Figure 3.
+Structural model with
+157 respondents who
+had donation
+experience
+
+Project Content
+Quality
+
+0.35***
+
+0.12*
+
+0.45***
+
+Perceived
+Credibility
+R2 =0.522
+
+Control Variables
+Altruism 0.13*
+Past Donation Experience 0.14**
+
+Notes:
+First-order construct;
+second-order construct;
+significant relationship;
+insignificant relationship. *p< 0.05; **p<0.01; ***p< 0.001
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+6. Discussion and implications
+The aim of this study was to develop and test a comprehensive framework that explains
+individual donation behavior in crowdfunding. Since charitable crowdfunding is gaining
+popularity as an alternative vehicle to traditional charity, it becomes crucial to understand
+the drivers of fundraising success or failure. However, relatively little is known about the
+mechanisms that drive individuals to donate in charitable crowdfunding. This research
+responds to a call to advance our knowledge of individuals’ donation behavior for
+charitable crowdfunding.
+The results indicate that individuals’ empathy and the perceived credibility of a
+charitable crowdfunding project play powerful and additive roles in determining their
+intention to donate money. Although previous studies have investigated the effects of
+empathy and perceived credibility on individuals’ intention to donate, they mostly have not
+examined their additive effects; they investigated the effect of either empathy or perceived
+credibility on intention to donate for charitable crowdfunding (Kim et al., 2016). The results
+also show that there is no significant correlation between empathy and perceived credibility,
+justifying the need to distinguish emotional state from cognitive state and to investigate
+them together in a comprehensive model.
+Second, evidence is provided for the positive effects of website quality, transaction
+convenience, and project content quality on both empathy and perceived credibility.
+The results associated with the impact of technological characteristics (website quality and
+transaction convenience) on empathy warrant further discussion. Previous research on
+empathy has largely regarded it as a personal characteristic (Decety and Jackson, 2006;
+Hoffman, 2001; Lee et al., 2014) and overlooked how technology (e.g. website quality)
+stimulates empathy. Our findings add to the literature on empathy by empirically verifying
+how technology exemplifies empathy. More specifically, website quality in terms of security,
+navigability, visual appeal, and transaction convenience are key factors that influence
+individuals’ empathy for charitable crowdfunding projects.
+Third, it is noteworthy that initiator reputation is positively related to a project’s
+perceived credibility, while project popularity is positively associated with empathy.
+As comments, likes, and donations made by other individuals are visible in charitable
+crowdfunding, the initial, pure project popularity will be extended by additional information
+when a crowdfunding project is ongoing. It is proven that project visitors will be influenced
+by the additional information representing the behavior of previous visitors to the project,
+described elsewhere as a herding effect (Beier and Wagner, 2015). Our observation
+regarding the positive impact of project popularity on empathy further confirms this
+argument. Contrary to our expectations, initiator reputation did not have a significant
+impact on empathy, and project popularity did not have a significant impact on its perceived
+credibility. In addition, we failed to identify a significant effect of social ties with the project
+initiators on intention to donate, which differs from the findings of other crowdfunding
+types. For instance, existing studies report that interpersonal relations significantly
+influence funding behavior in revenue-share crowdfunding, especially at the early stage
+(Agrawal et al., 2015; Liang and Yuan, 2016). One possible explanation may be that most
+individuals who donate money in charitable crowdfunding have built weak or no social
+connections with fund seekers, and they do not expect material reward. Hence, it is not
+necessary for them to be familiar with the funding seekers when making donation decisions.
+
+Study on
+individual
+donation
+behavior
+637
+
+6.1 Theoretical implications
+In this study, we drew on previous charity and crowdfunding research to investigate the
+determinants of individual donation behavior in charitable crowdfunding. The results of this
+research make a few key contributions to the existing body of knowledge on charitable
+crowdfunding through IS wisdom. This study is among the first to combine and empirically
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+638
+
+examine the effects of an emotional state (empathy) and a cognitive state ( perceived credibility)
+on intention to donate in the context of charitable crowdfunding. It contributes to the IS literature
+by demonstrating that both emotional and cognitive states positively affect individuals’ intention
+to donate. In addition, the findings suggest that there is no significant correlation between
+empathy and perceived credibility, further proving the importance of distinguishing the
+emotional state from the cognitive state and investigating their respective influences.
+Second, the study identifies technological characteristics (e.g. website quality, transaction
+convenience) and crowdfunding project characteristics (e.g. initiator reputation, project
+popularity, information quality) as two environmental cues, and quantifies their influences on
+emotional and cognitive states (e.g. empathy and perceived credibility). It expands the literature
+on human-computer interaction by conceptualizing and investigating how technology elicits
+empathy. This research also contributes to an overall conceptual understanding of the nature
+and importance of facets of environmental cues in affecting individuals’ donation behavior in
+charitable crowdfunding, mediated by emotional and cognitive states.
+Third, while previous research focuses primarily on exploring why people (including
+both initiators and funders) participate in charitable crowdfunding, the present research
+contributes to our knowledge by conducting a granular analysis from the perspective of
+funders. Fourth, the study contributes to the S-O-R model by incorporating both emotional
+and cognitive states into the “organism” stage, and adapting and verifying it in the
+charitable crowdfunding context.
+6.2 Practical implications
+This study also provides important implications for the better organization of charitable
+crowdfunding projects. We call practitioners’ attention to technological design features and
+project features. More specifically, our research indicates that website quality, transaction
+convenience, initiator reputation, project popularity, and project content quality should be
+strategically managed to elicit empathy and perceived credibility, which may induce
+individuals’ intentions to donate money in charitable crowdfunding.
+First, the crowdfunding platform and payment system should be carefully designed to
+reduce the efforts involved in completing donations. For example, a simplified transaction
+system that enables individuals to manage their donation to crowdfunding projects with
+minimal effort (i.e. via a small number of clicks) may lead users to believe that accomplishing
+the donation is more convenience. Enhanced transaction convenience boosts empathy and
+perceived credibility, thus helping to generate greater intention to donate money.
+Second, our results may serve to support managers in their decisions on whether and
+how to set up a charitable crowdfunding project’s content. The findings indicate that project
+content is the strongest predictor of both empathy and perceived credibility. Hence,
+providing project content of a high quality (e.g. accurate, up-to-date, well organized) may
+maximize donations to charitable crowdfunding. In addition, making use of social media
+(e.g. Weibo, Facebook) and communication tools will help to improve the popularity of a
+project, which results in enhanced intention to donate.
+Third, with regard to individuals who participate in charitable crowdfunding, our work
+reinforces the prior finding that the majority of them are millennials (Brown, 2011).
+The millennial generation, who are described as “digital natives” (Fife-Schaw, 2013) who use
+social media very frequently (Scott, 2016), are reportedly the biggest audience of
+crowdfunding (Brown, 2011). Therefore, cultivating the online millennial funder is
+inevitably central to making crowdfunding successful (Riley-Huff et al., 2016). To leverage
+the power of millennials more effectively, crowdfunding platform operators are encouraged
+to collect the users’ demographic information. By this means, initiators could directly target
+and harness the millennials while exhibiting, promoting and distributing a crowdfunding
+project, in their efforts to enhance the possibility of crowdfunding success.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+6.3 Limitations
+Our study is subject to several limitations. First, our data originated from only two Chinese
+crowdfunding platforms, namely Weibo and WeChat, which are essentially social media
+platforms with extensions that enable crowdfunding. It appears that this study yields insights
+into the Chinese charitable crowdfunding landscape in particular; thus, the generalizability to
+other crowdfunding platforms and cultures remains in question. Prior research has demonstrated
+that cultural differences play an important role in individuals’ decision making in crowdfunding
+(Loiacono et al., 2007). Hence, future work can build on the present study by collecting data from
+other platforms and from regions that have a different cultural background. Another concern
+with our methodology is that in our respondents, those who have never donated money to
+charitable crowdfunding projects are included. According to expectation confirmation theory
+(Bhattacherjee, 2001), intention might change once an individual has funded a project and begun
+to receive feedback on his or her funding behavior. We thus suggest that future studies compare
+the model between those who have donation experience and those who have never donated
+money before, and investigate whether there are differences among the hypotheses.
+Second, we derived environmental cues (including technological characteristics and project
+characteristics) based on prior charity and crowdfunding studies and treated them exclusively
+as the predictors of empathy and perceived credibility. In fact, complex social mechanisms
+also exist in charitable crowdfunding. In this study, we examined individuals’ social ties with
+initiators as a control variable. Although various tools are provided to support interaction
+among these individuals, social ties among them are neglected in the current assessment.
+In the case of conventional charity, an initiator’s reputation is often built through interpersonal
+interactions. Therefore, social indicators, such as a potential funder’s social ties with other
+participants in charitable crowdfunding should be investigated as part of future research.
+In addition, initiators may use different methods to interact with potential funders (e.g. using
+social media or fact-to-face communication). However, in the current study, we do not have
+information about how initiators communicated with potential funders. Future work could
+explore how potential funders’ trustworthiness toward different communication media affects
+our model (e.g. adding trustworthiness toward communication media as a moderator).
+Furthermore, the effects of potential funders’ prior knowledge (Marom and Sade, 2013) and of
+government regulation (Lee et al., 2016) on crowdfunding projects have been identified as
+important factors in crowdfunding, but are overlooked in our study. The effects of the abovementioned variables remain open for future research.
+Third, charitable crowdfunding is not limited to donations to individuals in
+disadvantaged areas, nonprofit organizations (e.g. the documentary film industry) (Hobbs
+et al., 2016; Sørensen, 2012) are important initiators as well. Previous research illustrates that
+donation behaviors toward organizations may be influenced by different factors, such as
+administrative wastefulness (Wash, 2013). This suggests that individuals’ donation
+behavior in charitable crowdfunding regarding individuals and organizations may be
+subject to different threats. Moreover, although funders in charitable crowdfunding do not
+expect material rewards in exchange for their donations (Giudici et al., 2012), they may
+anticipate a social reward instead (e.g. acknowledgments) (Leimeister and Zogaj, 2013),
+which deserves further investigation in the future.
+
+Study on
+individual
+donation
+behavior
+639
+
+References
+Agrawal, A., Catalini, C. and Goldfarb, A. (2015), “Crowdfunding: geography, social networks, and the
+timing of investment decisions”, Journal of Economics & Management Strategy, Vol. 24 No. 2,
+pp. 253-274.
+Allison, T.H., Davis, B.C., Webb, J.W. and Short, J.C. (2017), “Persuasion in crowdfunding: an
+elaboration likelihood model of crowdfunding performance”, Journal of Business Venturing,
+Vol. 32 No. 6, pp. 707-725.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+Althoff, T. and Leskovec, J. (2015), “Donor retention in online crowdfunding communities: a case study
+of donorschoose. org”, Proceedings of the 24th International Conference on World Wide Web,
+International World Wide Web Conferences Steering Committee, pp. 34-44.
+Batson, C.D., Fultz, J. and Schoenrade, P.A. (1987), “Distress and empathy: two qualitatively distinct
+vicarious emotions with different motivational consequences”, Journal of Personality, Vol. 55
+No. 1, pp. 19-39.
+
+640
+
+Batson, C.D., Klein, T.R., Highberger, L. and Shaw, L.L. (1995), “Immorality from empathy-induced
+altruism: when compassion and justice conflict”, Journal of Personality and Social Psychology,
+Vol. 68 No. 6, pp. 1042-1054.
+Beaulieu, T., Sarker, S. and Sarker, S. (2015), “A conceptual framework for understanding crowdfunding”,
+Communications of the Association for Information Systems, Vol. 37 No. 1, pp. 1-31.
+Beier, M. and Wagner, K. (2015), “Crowdfunding success: a perspective from social media and
+e-commerce”, Thirty-Sixth International Conference on Information Systems, Fort Worth, TX,
+December 13-16.
+Belleflamme, P., Lambert, T. and Schwienbacher, A. (2013), “Individual crowdfunding practices”,
+Venture Capital, Vol. 15 No. 4, pp. 313-333.
+Belleflamme, P., Lambert, T. and Schwienbacher, A. (2014), “Crowdfunding: tapping the right crowd”,
+Journal of Business Venturing, Vol. 29 No. 5, pp. 585-609.
+Bennett, R. (2009), “Impulsive donation decisions during online browsing of charity websites”, Journal
+of Consumer Behaviour, Vol. 8 No. 2, pp. 116-134.
+Bhattacherjee, A. (2001), “Understanding information systems continuance: an expectation-confirmation
+model”, MIS Quarterly, Vol. 25 No. 3, pp. 351-370.
+Bickart, B. and Schindler, R.M. (2001), “Internet forums as influential sources of consumer
+information”, Journal of Interactive Marketing, Vol. 15 No. 3, pp. 31-40.
+Brown, S. (2011), “Measures of shape: skewness and kurtosis”, available at: http://BrownMath.com/
+stat/shape.htm (accessed September 18, 2017).
+Burtch, G., Ghose, A. and Wattal, S. (2013), “Cultural differences and geography as determinants of
+online pro-social lending”, MIS Quarterly, Vol. 38 No. 3, pp. 773-794.
+Burtch, G., Ghose, A. and Wattal, S. (2014), “An experiment in crowdfunding: assessing the role and
+impact of transaction-levelinformation controls”, Proceedings of the 2014 International
+Conference on Information Systems, Auckland, December 14-17.
+Burtch, G., Ghose, A. and Wattal, S. (2015), “The hidden cost of accommodating crowdfunder privacy
+preferences: a randomized field experiment”, Management Science, Vol. 61 No. 5, pp. 949-962.
+Capota, K., Van Hout, M. and Van Der Geest, T. (2007), “Measuring the emotional impact of websites: a
+study on combining a dimensional and discrete emotion approach in measuring visual appeal of
+university websites”, in Koskinen, I., Kurvinen, E., Mattelmäki, T. and Vaajakallio, K. (Eds),
+Proceedings of the 2007 Conference on Designing Pleasurable Products and Interfaces, ACM,
+Helsinki, pp. 135-147.
+Castillo, C., Mendoza, M. and Poblete, B. (2011), “Information credibility on twitter”, in Ghinita, G. and
+Punera, K. (Eds), Proceedings of the 20th International Conference on World Wide Web, ACM,
+Hyderabad, pp. 675-684.
+Cecere, G., Le Guel, F. and Rochelandet, F. (2017), “Crowdfunding and social influence: an empirical
+investigation”, Applied Economics, Vol. 49 No. 57, pp. 1-12.
+Cenfetelli, R.T. and Bassellier, G. (2009), “Interpretation of formative measurement in information
+systems research”, MIS Quarterly, Vol. 33 No. 4, pp. 689-707.
+Chang, Y.-T., Yu, H. and Lu, H.-P. (2015), “Persuasive messages, popularity cohesion, and message
+diffusion in social media marketing”, Journal of Business Research, Vol. 68 No. 4, pp. 777-782.
+Chen, X.-P., Hui, C. and Sego, D.J. (1998), “The role of organizational citizenship behavior in turnover:
+conceptualization and preliminary tests of key hypotheses”, Journal of Applied Psychology,
+Vol. 83 No. 6, pp. 922-931.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Cheung, M.Y., Luo, C., Sia, C.L. and Chen, H. (2009), “Credibility of electronic word-of-mouth:
+informational and normative determinants of on-line consumer recommendations”, International
+Journal of Electronic Commerce, Vol. 13 No. 4, pp. 9-38.
+Chin, W.W. (1998), “The partial least squares approach to structural equation modeling”, Modern
+Methods for Business Research, Vol. 295 No. 2, pp. 295-336.
+Chin, W.W., Marcolin, B.L. and Newsted, P.R. (2003), “A partial least squares latent variable modeling
+approach for measuring interaction effects: results from a Monte Carlo simulation study and an
+electronic-mail emotion/adoption study”, Information Systems Research, Vol. 14 No. 2, pp. 189-217.
+Chiu, C.-M., Hsu, M.-H. and Wang, E.T. (2006), “Understanding knowledge sharing in virtual
+communities: an integration of social capital and social cognitive theories”, Decision Support
+Systems, Vol. 42 No. 3, pp. 1872-1888.
+Choy, K. and Schlagwein, D. (2016), “Crowdsourcing for a better world: on the relation between IT
+affordances and donor motivations in charitable crowdfunding”, Information Technology &
+People, Vol. 29 No. 1, pp. 221-247.
+
+Study on
+individual
+donation
+behavior
+641
+
+Crawford, M.B. (2015), “Introduction, attention as a cultural problem”, in Farrar, S.A.G. (Ed.),
+The World Beyond Your Head: On Becoming an Individual in an Age of Distraction, Macmillan,
+New York, NY, pp. 3-27.
+Crowdsourcing, L. (2012), “Crowdfunding industry report: market trends, composition and
+crowdfunding platforms”, Crowdfund Insider, available at: www.crowdfundinsider.com/20
+14/03/34255-crowdfunding-fraud-big-threat/ (accessed September 18, 2017).
+De Vries, L., Gensler, S. and Leeflang, P.S. (2012), “Popularity of brand posts on brand fan pages: an
+investigation of the effects of social media marketing”, Journal of Interactive Marketing, Vol. 26
+No. 2, pp. 83-91.
+Decety, J. and Jackson, P.L. (2006), “A social-neuroscience perspective on empathy”, Current Directions
+in Psychological Science, Vol. 15 No. 2, pp. 54-58.
+Dodds, W.B., Monroe, K.B. and Grewal, D. (1991), “Effects of price, brand, and store information on
+buyers’ product evaluations”, Journal of Marketing Research, Vol. 28 No. 3, August, pp. 307-319.
+Du, Q., Fan, W., Qiao, Z., Wang, G., Zhang, X. and Zhou, M. (2015), “Money talks: a predictive model on
+crowdfunding success using project description”, Proceedings of the Twenty-first Americas
+Conference on Information Systems, Puerto Rico, August 13-15.
+Eisenberg, N. and Miller, P.A. (1987), “The relation of empathy to prosocial and related behaviors”,
+Psychological Bulletin, Vol. 101 No. 1, pp. 91-119.
+Everard, A. and Galletta, D.F. (2005), “How presentation flaws affect perceived site quality, trust, and
+intention to purchase from an online store”, Journal of Management Information Systems,
+Vol. 22 No. 3, pp. 56-95.
+Feller, J., Gleasure, R. and Treacy, S. (2013), “Crowdfunding: past research, future directions”, European
+Conference on Information Systems, Utrecht, June 6-8.
+Fife-Schaw, C. (2013), “Statistics FAQ”, available at: www.surrey.ac.uk/psychology/current/statistics/
+index.htm (accessed September 18, 2017).
+Fornell, C. and Larcker, D.F. (1981), “Evaluating structural equation models with unobservable
+variables and measurement error”, Journal of Marketing Research, Vol. 18 No. 1, pp. 39-50.
+Freeman, K.S. and Spyridakis, J.H. (2004), “An examination of factors that affect the credibility of
+online health information”, Technical Communication, Vol. 51 No. 2, pp. 239-263.
+Fung, R. and Lee, M. (1999), “EC-trust (trust in electronic commerce): exploring the antecedent factors”,
+in And, W.D.H. and Nazareth, D.L. (Eds), Proceedings of Fifth Americas Conference on
+Information Systems, ACM, New York, NY, pp. 517-519.
+Galak, J., Small, D. and Stephen, A.T. (2011), “Microfinance decision making: a field study of prosocial
+lending”, Journal of Marketing Research, Vol. 48, pp. S130-S137.
+Gerber, E.M. and Hui, J. (2013), “Crowdfunding: motivations and deterrents for participation”,
+ACM Transactions on Computer-Human Interaction, Vol. 20 No. 6, pp. 1-33.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+Gerber, E.M., Hui, J.S. and Kuo, P.-Y. (2012), “Crowdfunding: why people are motivated to post and fund
+projects on crowdfunding platforms”, in Poltrock, S. and Simone, C. (Eds), Proceedings of the
+International Workshop on Design, Influence, and Social Technologies: Techniques, Impacts and
+Ethics, ACM, New York, NY, pp. 1-11.
+Gerdes, K.E. (2011), “Empathy, sympathy, and pity: 21st-century definitions and implications for
+practice and research”, Journal of Social Service Research, Vol. 37 No. 3, pp. 230-241.
+
+642
+
+Gierczak, M., Bretschneider, U. and Leimeister, J.M. (2014), “Is all that glitters gold? Exploring the
+effects of perceived risk on backing behavior in reward-based crowdfunding”, Proceedings of the
+Thirty-fifth International Conference on Information Systems, Auckland, December 14-17.
+Giudici, G., Nava, R., Rossi Lamastra, C. and Verecondo, C. (2012), “Crowdfunding: the new frontier
+for financing entrepreneurship?”, available at: https://ssrn.com/abstract=2157429 (accessed
+September 18, 2017).
+Gleasure, R. and Feller, J. (2016a), “Does heart or head rule donor behaviors in charitable crowdfunding
+markets?”, International Journal of Electronic Commerce, Vol. 20 No. 4, pp. 499-524.
+Gleasure, R. and Feller, J. (2016b), “Emerging technologies and the democratisation of financial
+services: a metatriangulation of crowdfunding research”, Information and Organization, Vol. 26
+No. 4, pp. 101-115.
+Greenberg, M.D. and Gerber, E.M. (2014), “Learning to fail: experiencing public failure online through
+crowdfunding”, in Schmidt, A. and Grossman, T. (Eds), Proceedings of the SIGCHI Conference on
+Human Factors in Computing Systems, ACM, Toronto, pp. 581-590.
+Gregg, D.G. and Walczak, S. (2010), “The relationship between website quality, trust and price
+premiums at online auctions”, Electronic Commerce Research, Vol. 10 No. 1, pp. 1-25.
+Groebner, D.F., Shannon, P.W., Fry, P.C. and Smith, K.D. (2011), Business Statistics: A Decision Making
+Approach, Prentice Hall, UpperSaddle River, NJ.
+Guo, Z., Huang, J., He, J., Hei, X. and Wu, D. (2013), “Unveiling the patterns of video tweeting: a sina
+weibo-based measurement study”, in Roughan, M. and Chang, R. (Eds) Passive and Active
+Measurement, Springer, Berlin, pp. 166-175.
+Gvili, Y. and Levy, S. (2016), “Antecedents of attitudes toward eWOM communication: differences
+across channels”, Internet Research, Vol. 26 No. 5, pp. 1030-1051.
+Haas, P., Blohm, I. and Leimeister, J.M. (2014), “An empirical taxonomy of crowdfunding
+intermediaries”, Proceedings of the Thirty-fifth International Conference on Information
+Systems, Auckland, December 14-17.
+Hair, J.F., Anderson, R.E., Tatham, R.L. and Black, W.C. (1998), Multivariate Data Analysis,
+Upper Saddle River, NJ.
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E. and Tatham, R.L. (2006), Multivariate Data Analysis,
+Prentice Hall, Pearson Prentice Hall, Upper Saddle River, NJ.
+Hobbs, J., Grigore, G. and Molesworth, M. (2016), “Success in the management of crowdfunding projects
+in the creative industries”, Internet Research, Vol. 26 No. 1, pp. 146-166.
+Hoffman, D.L., Novak, T.P. and Peralta, M. (1999), “Building consumer trust online”, Communications
+of the ACM, Vol. 42 No. 4, pp. 80-85.
+Hoffman, M.L. (2001), Empathy and Moral Development: Implications for Caring and Justice, Cambridge
+University Press, New York, NY.
+Huber, G.P. (1990), “A theory of the effects of advanced information technologies on organizational
+design, intelligence, and decision making”, Academy of Management Review, Vol. 15 No. 1,
+pp. 47-71.
+Jarvenpaa, S.L., Tractinsky, N. and Saarinen, L. (1999), “Consumer trust in an internet store: a cross‐
+cultural validation”, Journal of Computer-Mediated Communication, Vol. 5 No. 2, pp. 1-35.
+Jiang, Z., Chan, J., Tan, B.C. and Chua, W.S. (2010), “Effects of interactivity on website involvement and
+purchase intention”, Journal of the Association for Information Systems, Vol. 11 No. 1, pp. 34-59.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Jih, W.-J.K. (2007), “Effects of consumer-perceived convenience on shopping intention in mobile commerce:
+an empirical study”, International Journal of E-Business Research, Vol. 3 No. 4, pp. 33-48.
+Jin, B., Yong Park, J. and Kim, J. (2008), “Cross-cultural examination of the relationships among firm
+reputation, e-satisfaction, e-trust, and e-loyalty”, International Marketing Review, Vol. 25 No. 3,
+pp. 324-337.
+Jin, S.-A. A. and Phua, J. (2014), “Following celebrities’ tweets about brands: the impact of twitter-based
+electronic word-of-mouth on consumers’ source credibility perception, buying intention, and
+social identification with celebrities”, Journal of Advertising, Vol. 43 No. 2, pp. 181-195.
+Jøsang, A., Ismail, R. and Boyd, C. (2007), “A survey of trust and reputation systems for online service
+provision”, Decision Support Systems, Vol. 43 No. 2, pp. 618-644.
+Kang, M., Kang, M., Gao, Y., Gao, Y., Wang, T., Wang, T., Zheng, H. and Zheng, H. (2016),
+“Understanding the determinants of funders’ investment intentions on crowdfunding platforms:
+a trust-based perspective”, Industrial Management & Data Systems, Vol. 116 No. 8,
+pp. 1800-1819.
+Kickstarter (2013), “Q&A”, available at: www.kickstarter.com/blog/2011-the-stats (accessed
+September 18, 2017).
+Kim, C., Mirusmonov, M. and Lee, I. (2010), “An empirical examination of factors influencing the
+intention to use mobile payment”, Computers in Human Behavior, Vol. 26 No. 3, pp. 310-322.
+Kim, J.G., Kong, H.K., Karahalios, K., Fu, W.-T. and Hong, H. (2016), “The power of collective
+endorsements: credibility factors in medical crowdfunding campaigns”, in Kaye, J., Druin, A.,
+Lampe, C., Morris, D. and Pablo, J. (Eds), Proceedings of Computer Human Interaction, ACM,
+San Jose, CA, pp. 4538-4549.
+Kuo, Y.-F. and Wu, C.-H. (2014), “Understanding the drivers of sponsors’ intentions in online
+crowdfunding: a model development”, in Tao, Y.-H., Yang, H.-C., Ting, I.-H., Steinbauer, M.,
+Khalil, I. and Anderst-Kotsis, G. (Eds), Proceedings of the 12th International Conference on
+Advances in Mobile Computing and Multimedia, ACM, New York, NY, pp. 433-438.
+Kuppuswamy, V. and Bayus, B.L. (2015), “Crowdfunding creative ideas: the dynamics of project
+backers in Kickstarter”, UNC Kenan-Flagler research paper, University of North Carolina
+Kenan-Flagler Business School, Chapel Hill, NC, available at: http://ssrn.com/abstract=223476
+(accessed September 18, 2017).
+Lacan, C., Lacan, C., Desmet, P. and Desmet, P. (2017), “Does the crowdfunding platform matter? Risks
+of negative attitudes in two-sided markets”, Journal of Consumer Marketing, Vol. 34 No. 6,
+pp. 472-479.
+Lambert, T. and Schwienbacher, A. (2010), “An empirical analysis of crowdfunding”, Social Science
+Research Network, University de Louvain, Leuven, available at: http://ssrn.com/abstract=1578175.
+Lee, C.H., Zhao, J.L. and Hassna, G. (2016), “Government-incentivized crowdfunding for one-belt,
+one-road enterprises: design and research issues”, Financial Innovation, Vol. 2 No. 2, pp. 1-14.
+Lee, J., Park, D.-H. and Han, I. (2008), “The effect of negative online consumer reviews on product
+attitude: an information processing view”, Electronic Commerce Research and Applications,
+Vol. 7 No. 3, pp. 341-352.
+Lee, S., Winterich, K.P. and Ross, W.T. (2014), “I’m moral, but I won’t help you: the distinct roles of
+empathy and justice in donations”, Journal of Consumer Research, Vol. 41 No. 3, pp. 678-696.
+Leimeister, J.M. and Zogaj, S. (2013), “Neue Arbeitsorganisation durch Crowdsourcing: Eine
+Literaturstudie”, Arbeitspapier der Hans-Böckler-Stiftung, Reihe Arbeit und Soziales Nr. 287,
+Hans Böckler Foundation, Düsseldorf, pp. 1-112.
+Li, Y.-Z., He, T.-L., Song, Y.-R., Yang, Z. and Zhou, R.-T. (2017), “Factors impacting donors’ intention to
+donate to charitable crowd-funding projects in China: a UTAUT-based model”, Information,
+Communication & Society, Vol. 20 No. 3, pp. 1-12.
+Liang, H., Saraf, N., Hu, Q. and Xue, Y. (2007), “Assimilation of enterprise systems: the effect of
+institutional pressures and the mediating role of top management”, MIS Quarterly, Vol. 31 No. 1,
+pp. 59-87.
+
+Study on
+individual
+donation
+behavior
+643
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+644
+
+Liang, Y.E. and Yuan, S.-T.D. (2016), “Predicting investor funding behavior using crunchbase social
+network features”, Internet Research, Vol. 26 No. 1, pp. 74-100.
+Liu, L., Suh, A. and Wagner, C. (2017), “Donation behavior in online micro charities: an investigation of
+charitable crowdfunding projects”, Proceedings of the50th Hawaii International Conference on
+System Sciences, Big Island, HI, pp. 843-852.
+Loiacono, E.T., Watson, R.T. and Goodhue, D.L. (2007), “WebQual: an instrument for consumer
+evaluation of web sites”, International Journal of Electronic Commerce, Vol. 11 No. 3, pp. 51-87.
+Lu, C.-T., Xie, S., Kong, X. and Yu, P.S. (2014), “Inferring the impacts of social media on crowdfunding”,
+Proceedings of the 7th ACM International Conference on Web Search and Data Mining,
+New York, NY, pp. 573-582.
+McCroskey, J.C. and Teven, J.J. (1999), “Goodwill: a reexamination of the construct and its
+measurement”, Communications Monographs, Vol. 66 No. 1, pp. 90-103.
+McGowan, M. (2012), “Crowdfunding and nonprofits: creating successful campaigns”, available at:
+http://megmdesigns.com/img/NonProfit%20Fundraising.pdf (accessed September 18, 2017).
+Marom, D. and Sade, O. (2013), “Are the life and death of an early stage venture indeed in the power of
+the tongue? Lessons from online crowdfunding pitches”, available at: http://ssrn.com/
+abstract=2255707 (accessed September 18, 2017).
+Marsden, P. and Lin, N. (1982), Social Structure and Networks Analysis, Sage, Beverley Hills, CA.
+Massolution, C. (2015), “Crowdfunding industry report: market trends, composition and crowdfunding
+platforms”, Crowdfund Insider, available at: www.crowdfundinsider.com/2014/03/34255crowdfunding-fraud-big-threat/ (accessed September 18, 2017).
+Meng, R., Kang, M., Wang, T. and Zheng, H. (2016), “Understanding the role of commitments in
+explaining crowdfunding investing willingness: antecedents and consequences”, Proceedings of
+the 20th Pacific Asia Conference on Information Systems, Chiayi, June 27-July 1.
+Merriam-Webster (2015), “Charity”, available at: www.merriam-webster.com/dictionary/charity
+(accessed September 18, 2017).
+Moisseyev, A. (2013), Effect of Social Media on Crowdfunding Project Results, University of Nebraska,
+Lincoln.
+Mollick, E. (2012), “The dynamics of crowdfunding: determinants of success and failure”, Social Science
+Research Network, Rochester, NY.
+Mollick, E. (2014), “The dynamics of crowdfunding: an exploratory study”, Journal of Business
+Venturing, Vol. 29 No. 1, pp. 1-16.
+Moqri, M. and Bandyopadhyay, S. (2016), “Please share! Online word of mouth and charitable
+crowdfunding”, Proceedings of the 22nd Americas Conference on Information Systems, San
+Diego, CA.
+Mummalaneni, V. (2005), “An empirical investigation of web site characteristics, consumer emotional
+states and on-line shopping behaviors”, Journal of Business Research, Vol. 58 No. 4,
+pp. 526-532.
+Murillo, D.E., Kang, J. and Yoon, S. (2016), “Factors influencing pro-social consumer behavior through
+non-profit organizations”, Internet Research, Vol. 26 No. 3, pp. 626-643.
+O’Keefe, D.J. (2015), Persuasion: Theory and Research, Sage, Newbury Park, CA.
+Park, C.-H. and Kim, Y.-G. (2003), “Identifying key factors affecting consumer purchase behavior in an
+online shopping context”, International Journal of Retail & Distribution Management, Vol. 31
+No. 1, pp. 16-29.
+Podsakoff, P.M. and Organ, D.W. (1986), “Self-reports in organizational research: problems and
+prospects”, Journal of Management, Vol. 12 No. 4, pp. 531-544.
+Podsakoff, P.M., Mackenzie, S.B., Lee, J.-Y. and Podsakoff, N.P. (2003), “Common method biases in
+behavioral research: a critical review of the literature and recommended remedies”, Journal of
+Applied Psychology, Vol. 88 No. 5, pp. 879-903.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Rick, S.I., Cryder, C.E. and Loewenstein, G. (2008), “Tightwads and spendthrifts”, Journal of Consumer
+Research, Vol. 34 No. 6, pp. 767-782.
+Riley-Huff, D.A., Herrera, K., Ivey, S. and Harry, T. (2016), “Crowdfunding in libraries, archives and
+museums”, The Bottom Line, Vol. 29 No. 2, pp. 67-85.
+Ringle, C.M., Wende, S. and Will, A. (2005), “SmartPLS 2.0 (beta)”, SmartPLS, Hamburg.
+Salganik, M.J., Dodds, P.S. and Watts, D.J. (2006), “Experimental study of inequality and
+unpredictability in an artificial cultural market”, Science, Vol. 311 No. 5762, pp. 854-856.
+
+Study on
+individual
+donation
+behavior
+645
+
+Salisbury, W.D., Pearson, R.A., Pearson, A.W. and Miller, D.W. (2001), “Perceived security and
+world wide web purchase intention”, Industrial Management & Data Systems, Vol. 101 No. 4,
+pp. 165-177.
+Scott, A. (2016), “How to reach the millennial generation with social media”, available at: www.postplanner.
+com/how-to-reach-the-millennialgeneration-with-social-media/ (accessed September 18, 2017).
+Shier, M.L. and Handy, F. (2012), “Understanding online donor behavior: the role of donor characteristics,
+perceptions of the internet, website and program, and influence from social networks”,
+International Journal of Nonprofit and Voluntary Sector Marketing, Vol. 17 No. 3, pp. 219-230.
+Sørensen, I.E. (2012), “Crowdsourcing and outsourcing: the impact of online funding and distribution
+on the documentary film industry in the UK”, Media, Culture & Society, Vol. 34 No. 6,
+pp. 726-743.
+Steele, W.R., Schreiber, G.B., Guiltinan, A., Nass, C., Glynn, S.A., Wright, D.J., Kessler, D., Schlumpf, K.S.,
+Tu, Y. and Smith, J.W. (2008), “The role of altruistic behavior, empathetic concern, and social
+responsibility motivation in blood donation behavior”, Transfusion, Vol. 48 No. 1, pp. 43-54.
+Sura, S., Ahn, J. and Lee, O. (2017), “Factors influencing intention to donate via social network site
+(SNS): from Asian’s perspective”, Telematics and Informatics, Vol. 34 No. 1, pp. 164-176.
+Tan, X., Lu, Y. and Tan, Y. (2016), “Why should I donate? Examining the effects of reputation, peer
+influence, and popularity on charitable giving over social media platforms”, available at: https://
+ssrn.com/abstract=2820219 (accessed September 18, 2017).
+Tanaka, K.G. and Voida, A. (2016), “Legitimacy work: invisible work in philanthropic crowdfunding”,
+Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, ACM,
+pp. 4550-4561.
+Wan, J., Lu, Y., Wang, B. and Zhao, L. (2017), “How attachment influences users’ willingness to donate
+to content creators in social media: a socio-technical systems perspective”, Information &
+Management, Vol. 54 No. 7, pp. 837-850.
+Wash, R. (2013), “The value of completing crowdfunding projects”, Seventh International AAAI
+Conference on Weblogs and Social Media, Boston, MA.
+Wells, J.D., Parboteeah, V. and Valacich, J.S. (2011), “Online impulse buying: understanding the
+interplay between consumer impulsiveness and website quality”, Journal of the Association for
+Information Systems, Vol. 12 No. 1, pp. 32-56.
+Westerman, D., Spence, P.R. and Van Der Heide, B. (2012), “A social network as information: the effect
+of system generated reports of connectedness on credibility on Twitter”, Computers in Human
+Behavior, Vol. 28 No. 1, pp. 199-206.
+Whitman, A. (1972), “Basil O’Connor, polio crusader, dies”, The New York Times, March 10, 1972, p. 40.
+Williams, L.J., Edwards, J.R. and Vandenberg, R.J. (2003), “Recent advances in causal modeling
+methods for organizational and management research”, Journal of Management, Vol. 29 No. 6,
+pp. 903-936.
+Xu, J.D., Benbasat, I. and Cenfetelli, R.T. (2013), “Integrating service quality with system and
+information quality: an empirical test in the e-service context”, MIS Quarterly, Vol. 37 No. 3,
+pp. 777-794.
+Yang, T. (2013), Annual Report on China’s Philanthropy Development, Social Sciences Academic
+Press, Beijing.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+Zhao, Q., Chen, C.-D., Wang, J.-L. and Chen, P.-C. (2017), “Determinants of backers’ funding intention in
+crowdfunding: Social exchange theory and regulatory focus”, Telematics and Informatics,
+Vol. 34 No. 1, pp. 370-384.
+Zheng, H., Hung, J.-L., Qi, Z. and Xu, B. (2016), “The role of trust management in reward-based
+crowdfunding”, Online Information Review, Vol. 40 No. 1, pp. 97-118.
+
+646
+
+Zhou, M.J., Lu, B., Fan, W.P. and Wang, G.A. (2016), “Project description and crowdfunding success: an
+exploratory study”, Information Systems Frontiers, Vol. 20 No. 2, pp. 259-274, available at
+https://doi.org/10.1007/s10796-016-9723-1 (accessed September 18, 2017).
+
+Further reading
+Boeuf, B., Darveau, J. and Legoux, R. (2014), “Financing creativity: crowdfunding as a new approach
+for theatre projects”, Arts Funding, Vol. 16 No. 3, pp. 33-48.
+Cheung, C.K. and Chan, C.M. (2000), “Social-cognitive factors of donating money to charity, with special
+attention to an international relief organization”, Evaluation and Program Planning, Vol. 23
+No. 2, pp. 241-253.
+Choy, K. and Schlagwein, D. (2015), “IT affordances and donor motivations in charitable crowdfunding:
+the ‘Earthship Kapita’ case”, Proceedings of the Twenty-Third European Conference on
+Information Systems, Münster, May 27-29.
+Hibbert, S., Smith, A., Davies, A. and Ireland, F. (2007), “Guilt appeals: persuasion knowledge and
+charitable giving”, Psychology & Marketing, Vol. 24 No. 8, pp. 723-742.
+Michel, G. and Rieunier, S. (2012), “Nonprofit brand image and typicality influences on charitable
+giving”, Journal of Business Research, Vol. 65 No. 5, pp. 701-707.
+Pitschner, S. and Pitschner-Finn, S. (2014), “Non-profit differentials in crowd-based financing: evidence
+from 50,000 campaigns”, Economics Letters, Vol. 123 No. 3, pp. 391-394.
+Sana, M.S. (2014), “Donating behaviour in the non-profit marketing context: an empirical study based
+on the identity theory model”, Proceedings of the International Conference “Marketing-from
+Information to Decision”, Babes Bolyai University, EBSCO (Business Source Complete), pp. 230-247.
+Teah, M., Lwin, M. and Cheah, I. (2014), “Moderating role of religious beliefs on attitudes towards
+charities and motivation to donate”, Asia Pacific Journal of Marketing and Logistics, Vol. 26
+No. 5, pp. 738-760.
+Venable, B.T., Rose, G.M., Bush, V.D. and Gilbert, F.W. (2005), “The role of brand personality in
+charitable giving: an assessment and validation”, Journal of the Academy of Marketing Science,
+Vol. 33 No. 3, pp. 295-312.
+Wymer, W. and Drollinger, T. (2015), “Charity appeals using celebrity endorsers: celebrity attributes
+most predictive of audience donation intentions”, VOLUNTAS: International Journal of
+Voluntary and Nonprofit Organizations, Vol. 26 No. 6, pp. 2694-2717.
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Study on
+individual
+donation
+behavior
+
+Appendix 1
+
+Dimension Factors
+
+References
+
+Cognitive
+dimension
+
+Choy and Schlagwein
+(2016), Kim et al. (2016)
+Tanaka and Voida (2016)
+Althoff and Leskovec (2015)
+McGowan (2012)
+Lacan et al. (2017)
+Zhao et al. (2017)
+Meng et al. (2016)
+Kuo and Wu (2014)
+Kang et al. (2016)
+Gerber and Hui (2013)
+Allison et al. (2017)
+Du et al. (2015)
+Gierczak et al. (2014)
+Zheng et al. (2016)
+Zhou et al. (2016)
+
+Emotional
+dimension
+
+Choy and
+
+Choy and
+
+Perceived credibility
+
+Legitimacy of the fundraiser
+Sense of personal impact, trust
+Establish trust
+Perceived transaction risk
+Perceived risk; trust; commitment
+Trust
+perceived risk
+Trust beliefs: calculus trust, relationship trust
+Distrust of creators’ use of funds
+Issue-related information
+Source credibility (competence), argument quality
+Perceived risks (controlled variable: trust, reputation)
+Creditworthiness (i.e. success experience, investment in others)
+Trustworthy cues ( project owner traits), content of project
+description
+General attitude toward online donation
+Sura et al. (2017)
+Information control
+Burtch et al. (2014)
+Feelings of sympathy and empathy toward the cause; feelings of Gerber et al. (2012)
+guilt for not giving
+Individual-intrinsic motivations (e.g. feelings of empathy, sympathy Choy and Schlagwein (2016)
+or nostalgia; personal enjoyment and satisfaction), social-intrinsic
+motivations (e.g. sense of belonging to a team or community)
+Warm glow (i.e. positive emotions; pleasure)
+Cecere et al. (2017), Gleasure
+and Feller (2016a)
+Feelings of connectedness to a community with similar interests Choy and Schlagwein (2016)
+and ideals
+Similarities in occupation and gender, sharing a first initial
+Galak et al. (2011)
+Cultural similarities/differences between lender and borrower
+Burtch et al. (2013)
+countries, geographical proximity
+Technological dimension
+Website characteristics
+( platform-cognition
+affordances; platform-action
+affordances)
+Schlagwein (2016)
+Facilitating anonymity
+Burtch et al. (2015)
+Internet technological features, SNS features
+Sura et al. (2017)
+Information control
+Burtch et al. (2014)
+Website service quality
+Kuo and Wu (2014)
+Perceived accreditation, structural assurance, third-party seal
+Kang et al. (2016)
+Crowdfunding project characteristics
+Project-cognition
+affordances; project-action
+affordances
+Schlagwein (2016)
+Individual vs group fundraisers
+Galak et al. (2011)
+Charity project, charity organization
+Sura et al. (2017)
+Donations to organizations: fundraising target; rate of donation; Gleasure and Feller (2016a)
+level of disclosure
+
+(continued )
+
+647
+
+Table AI.
+Factors examined in
+crowdfunding
+literature
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+Dimension Factors
+
+648
+
+Donations to individuals: level of disclosure; campaign imagery;
+campaign dialogue
+Perception of the organization
+Facilitating conditions
+Emotional attachment
+Perception of urgency
+
+Table AI.
+
+Popularity effects, high visibility of funders’ contributions
+Network externality, perceived informativeness
+Value congruence, social interaction ties
+
+References
+
+Shier and Handy (2012)
+Li et al. (2017)
+Wan et al. (2017)
+Moqri and Bandyopadhyay
+(2016)
+Tan et al. (2016)
+Kang et al. (2016)
+Kang et al. (2016)
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Appendix 2
+
+Constructs Items Measures
+
+References
+
+Website quality
+Security
+SEC1 While using Weibo/WeChat, I am confident that the information I Gleasure and
+provide during my donation will not reach inappropriate parties Feller (2016b)
+SEC2 While using Weibo/WeChat, I believe inappropriate parties cannot
+deliberately observe the information I provide during my donation
+SEC3 While using Weibo/WeChat, inappropriate parties will not collect
+and store the information I provide during my donation
+Navigability NAV1 Navigating Weibo/WeChat is easy for me
+Salisbury et al.
+(2001)
+NAV2 I find that my interaction with Weibo/WeChat is clear and
+understandable
+NAV3 It is easy for me to become skillful at navigating Weibo/WeChat
+Visual
+VIS1 Weibo/WeChat is visually pleasing
+Loiacono et al.
+appeal
+(2007)
+VIS2 Weibo/WeChat displays visually pleasing design
+VIS3 Weibo/WeChat is visually appealing
+
+Study on
+individual
+donation
+behavior
+649
+
+Transaction convenience
+TC1 It is convenient to pay for the crowdfunding project
+Kim et al. (2010)
+TC2 When the crowdfunding project is still open, I am able to pay for it
+at any time
+TC3 When the crowdfunding project is still open, I am able to pay for it
+in any situation
+TC4 It is not complex to manage my payment to the crowdfunding project
+Initiator reputation
+REP1 The initiator of this project has an authorized account on Weibo/ Jarvenpaa et al.
+WeChat
+(1999)
+REP2 I am familiar with the initiator’s Weibo/WeChat account
+REP 3 The initiator of this project is well-known on Weibo/WeChat
+REP 4 The initiator of this project has a good reputation on Weibo/
+WeChat
+REP 5 The initiator of this project has a reputation of being honest
+Project popularity
+POP1 Many users of Weibo/WeChat have pressed like on the
+crowdfunding project
+POP2 Many users of Weibo/WeChat have shared the crowdfunding
+project
+POP3 Many users of Weibo/WeChat have commented on the
+crowdfunding project
+
+Chang et al. (2015)
+
+Project content quality
+CON1 Overall, I would give the content quality of the project high marks Xu et al. (2013)
+CON2 Overall, I would give a high rating in terms of the content quality
+for the crowdfunding project
+CON3 In general, high-quality content for the crowdfunding project is
+provided
+Empathy
+When you think about the crowdfunding project, to what extent do Batson et al.
+you feel the following emotions?
+(1987)
+
+(continued )
+
+Table AII.
+Constructs and
+measures
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+INTR
+28,3
+
+Constructs Items Measures
+
+References
+
+EMP1 Sympathetic
+EMP2 Warm
+EMP3 Compassionate
+EMP4 Soft-hearted
+EMP5 Tender
+EMP6 Moved
+
+650
+
+Perceived credibility
+CRE1 The crowdfunding project is believable
+CRE2
+CRE3
+CRE4
+CRE5
+CRE6
+Intention to donate
+INT1
+INT2
+INT3
+
+McCroskey and
+Teven (1999)
+
+The crowdfunding project is trustworthy
+The crowdfunding project is competent
+The crowdfunding project is credible
+The crowdfunding project is unbiased
+The crowdfunding project is expert
+The probability that I would donate money to the crowdfunding Dodds et al. (1991)
+project is high
+My willingness to donate money to the crowdfunding project is
+high
+The likelihood of my donating money to the crowdfunding project
+is high
+
+Altruism
+ALT1 I like helping other people even though it is not required
+ALT2 I am always ready to help others
+ALT3 I am willing to give my time to help others
+
+Table AII.
+
+Social ties with project initiator
+ST1 I maintain close social relationships with the project initiator on
+Weibo/WeChat
+ST2 I spend a lot of time interacting with the project initiator on
+Weibo/WeChat
+ST3 I know the project initiator on a personal level
+ST4 I have frequent communication with the project initiator on
+Weibo/WeChat
+
+Chen et al. (1998)
+
+Chiu et al. (2006)
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+Appendix 3
+
+Hypotheses
+
+Description
+
+Result (n ¼ 205)
+
+H1
+H2
+
+Result (n ¼ 157)
+
+Empathy is positively related to intention to donate Supported (0.29***) Supported (0.38***)
+Perceived credibility is positively related to
+Supported (0.33***) Supported (0.35***)
+intention to donate
+H3a
+Website quality is positively related to empathy Supported (0.29***) Supported (0.29***)
+H3b
+Website quality is positively related to perceived Supported (0.17*)
+Supported (0.20*)
+credibility
+H4a
+Transaction convenience is positively related to Supported (0.22***) Supported (0.21***)
+perceived credibility
+H4b
+Transaction convenience is positively related to Supported (0.14*)
+Supported (0.13*)
+empathy
+H5a
+Initiator reputation is positively related to empathy Not supported
+Not supported
+H5b
+Initiator reputation is positively related to
+Supported (0.16*)
+Supported (0.12*)
+perceived credibility
+H6a
+Project popularity is positively related to empathy Supported (0.12*)
+Supported(0.16**)
+H6b
+Project popularity is positively related to
+Not supported
+Not supported
+perceived credibility
+H7a
+Project content quality is positively related to
+Supported (0.21**)
+Supported (0.17**)
+empathy
+H7b
+Project content quality is positively related to
+Supported (0.42***) Supported (0.45***)
+perceived credibility
+Notes: All respondents, n ¼ 205 vs respondents who had donation experience, n ¼ 157. *p o0.05; **p o0.01;
+***po 0.001
+
+Study on
+individual
+donation
+behavior
+651
+
+Table AIII.
+Summary of the
+hypotheses test
+between two groups
+
+Corresponding author
+Lili Liu can be contacted at: llili85@nuaa.edu.cn
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+Downloaded from http://www.emerald.com/intr/article-pdf/28/3/623/1246278/intr-06-2017-0240.pdf by WU Wirtschaftsuniversitet Wien user on
+
+

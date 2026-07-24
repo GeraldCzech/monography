@@ -1,0 +1,3573 @@
+THE
+
+QUARTERLY JOURNAL
+OF ECONOMICS
+Vol. 127
+
+February 2012
+
+Issue 1
+
+STEFANO DELLAVIGNA
+JOHN A. LIST
+ULRIKE MALMENDIER
+Every year, 90% of Americans give money to charities. Is such generosity
+necessarily welfare enhancing for the giver? We present a theoretical framework
+that distinguishes two types of motivation: individuals like to give, for example,
+due to altruism or warm glow, and individuals would rather not give but dislike
+saying no, for example, due tosocial pressure. We design a door-to-door fund-raiser
+in which some households are informed about the exact time of solicitation with a
+flyer on their doorknobs. Thus, they can seek or avoid the fund-raiser. We find
+that the flyer reduces the share of households opening the door by 9% to 25%
+and, if the flyer allows checking a Do Not Disturb box, reduces giving by 28%
+to 42%. The latter decrease is concentrated among donations smaller than $10.
+These findings suggest that social pressure is an important determinant of doorto-door giving. Combining data from this and a complementary field experiment,
+we structurally estimate the model. The estimated social pressure cost of saying
+no to a solicitor is $3.80 for an in-state charity and $1.40 for an out-of-state charity.
+Our welfare calculations suggest that our door-to-door fund-raising campaigns on
+average lower the utility of the potential donors. JEL Codes: C93, D03, H41.
+∗ We thank the editor, four referees, Saurabh Bhargava, David Card, Gary
+Charness, Constanca Esteves-Sorenson, Bryan Graham, Zachary Grossman,
+Lawrence Katz, Patrick Kline, Stephan Meier, Klaus Schmidt, Bruce Shearer,
+Joel Sobel, Daniel Sturm and the audiences at the Chicago Booth School of Business, Columbia University, Harvard University, HBS, University of Amsterdam,
+University of Arizona, Tucson, UC Berkeley, USC (Marshall School), UT Dallas,
+University of Rotterdam, University of Zurich, Washington University (St. Louis),
+Yale University, the NBER Summer Institute (Labor Studies), the San Francisco
+2009 Applied Micro Conference, the 2009 Berkeley Conference in Behavioral
+Economics, the 2010 UCSB Conference on Experimental Economics, the Munich
+Workshop on Natural Experiments and Controlled Field Studies, and the ASSA
+2009 Meetings for helpful comments. We also thank Daniel Acland, Diane Alexander, Jim Cai, MatthewLevy, Vera te Velde, Xiaoyu Xia, andespecially Gautam Rao
+for excellent research assistance.
+
+c The Author(s) 2012. Published by Oxford University Press, on behalf of President and
+Fellows of Harvard College. All rights reserved. For Permissions, please email: journals.
+permissions@oup.com.
+The Quarterly Journal of Economics (2012) 127, 1–56. doi:10.1093/qje/qjr050.
+Advance Access publication on January 18, 2012.
+
+1
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE IN
+CHARITABLE GIVING∗
+
+2
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+I. INTRODUCTION
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+In the UnitedStates, approximately 90% ofindividuals donate
+money each year. There is at least one capital campaign to raise
+$25 million or more under way in virtually every major population
+center in North America. Smaller capital campaigns are even
+more numerous, with phoneathons, door-to-door drives, and mail
+solicitations increasing in popularity. Despite the ubiquity of
+fund-raising, we still have an imperfect understanding of the
+motivations for giving and the welfare implications for the giver
+(see, e.g., Andreoni 2006).
+In this article, we consider two broad classes of motivations. First, individuals may enjoy giving. For example, they care
+about a specific worthy cause or like the warm glow of giving.
+Second, individuals may give, despite not liking to give to the
+charity, because the solicitor effectively placed them under social
+pressure to give. Such givers would rather avoid the personal
+interaction with the solicitor. The two motivations have very
+different welfare implications. The altruism (or warm glow) model
+(Becker 1974; Andreoni 1989, 1990) posits that giving is mostly
+supply-driven, and that it is utility-maximizing for the giver to
+give. Under this model, donations unambiguously enhance the
+giver’s utility as well as societal welfare. The social pressure
+model (Akerlof and Kranton 2000) posits that giving is mostly
+demand-driven, and that giving may be utility-reducing for the
+giver.
+We test for these two types of motivations in the context of
+in-person, unsolicited donation requests. Building on a theoretical
+model, we design a field experiment that allows us to test whether
+giving is welfare-enhancing or welfare-reducing for the giver.
+We complement the reduced-form experimental evidence with
+structural estimates of the model parameters. The structural estimation allows us to decompose the share of giving that is due to
+altruism versus social pressure and to quantitatively evaluate the
+welfare effects for the giver. In this way, the empirics and theory
+are intertwined in a manner that is rare in this literature. To
+our knowledge, this article is the first in the behavioral literature
+to provide structural estimates of welfare implications of a field
+experiment. Moreover, while the fund-raising set-up is specific,
+it showcases a general methodology and provides a first step
+toward better understanding the underpinnings for giving more
+generally.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+3
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Our field experiment revolves around a door-to-door fundraising drive for two charities, a local children’s hospital, which
+has a reputation as a premier hospital for children, and an outof-state charity, unfamiliar to most solicitees. Between April and
+October 2008, we approached 7,668 households in the towns surrounding Chicago. The crucial aspect of the experimental design
+is to allow individuals to sort, that is, to either seek or avoid the
+solicitor. In our first treatment, a flyer on the doorknob notifies
+households one day in advance about the one-hour time interval
+in which a solicitor will arrive at their homes the next day. In
+the second treatment, opt-out, the flyer also includes a box to
+be checked if the household does not want to be disturbed. We
+compare these two conditions to a baseline treatment, wherein
+solicitors approach households in the usual manner without a
+flyer. We estimate the treatment effects on both the share of
+households that open the door and the share that give.
+This design allows for a simple test of (pure or impure) altruism versus social pressure in door-to-door giving. If altruism is the
+main driver of giving, the flyer should increase both the presence
+at home and giving. Because giving is utility-enhancing, givers
+should sort into staying at home, provided that alternative ways
+of donating to these charities require more effort. In addition,
+givers who would like to give in response to the flyer but who find
+it too costly to be at home should give to the charity via other
+means, such as mailing a check. Conversely, if social pressure is
+the main driver of giving, the flyer shouldlower both the frequency
+of opening the door and the frequency of giving. Since being asked
+to give is welfare-diminishing, potential givers should sort out of
+opening the door and should not give via Internet or check because
+these forms of donation are not subject to social pressure.
+We report four main results, which are similar across the two
+charities. First, the flyer lowers the frequency of opening the door.
+Relative to a baseline rate of 41 percentage points, the share
+of households opening the door is 9% lower after receiving the
+flyer and 23% lower after receiving the flyer with an opt-out box
+(including the households that check the opt-out box). Second, the
+simple flyer does not reduce giving. However, the flyer with an
+opt-out checkbox decreases giving significantly, by 28% relative
+to a baseline of 7% for the local charity and 40% relative to a 5%
+baseline giving for the out-of-state charity. Third, the decrease
+in giving in the opt-out treatment is driven by small donations
+up to $10; donations above $10, instead, increase slightly (not
+
+4
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+significantly). Fourth, there is no effect on donations via mail or
+Internet. In contrast to the substantial donation rates in person,
+only one household out of 7,668 gave through these other means.
+Overall, the reduced-form estimates indicate that both altruism and social pressure are important determinants of giving in
+this setting, with stronger evidence for the role of social pressure.
+The lower frequency of households opening the door after receiving a flyer indicates that households are, on average, trying to
+avoid solicitors, consistent with social pressure. The lack of an
+effect of the baseline flyer on giving is consistent with opposing
+effects of altruism and social pressure approximately canceling
+each other out. The decrease in giving after a flyer with optout box supports the role of social pressure. When the cost of
+avoiding the solicitor is lowered (a simple check on a box suffices),
+giving due to social pressure decreases. This interpretation is
+consistent with the reduction occurring almost exclusively among
+small donations, which are more likely due to social pressure
+than large donations. The social pressure interpretation is also
+consistent with the lack of donations via mail or Internet.
+We consider several alternative interpretations. First, flyers
+could be taken as a signal of lower quality of the charity. This
+interpretation can explain the reduction in answering the door
+and in giving with a flyer, but does not immediately explain
+why only small donations decrease, not large donations. Second,
+individuals might donate to send (costly) signals to themselves or
+to others that they are generous (Bodner and Prelec 2003; Benabou and Tirole 2006; Grossman 2010). This interpretation can
+explain our findings to the extent that avoiding a solicitor does not
+send the same negative signal as saying no to the solicitor. This
+explanation, however, is less consistent with the fact that 12% of
+households in the opt-out treatment check the opt-out box, which
+is a signal to the solicitor, as well as possibly to the neighbors.
+Third, people may dislike spending time with the solicitor, for
+example, because of the time involved, despite wanting to donate
+in principle. These potential donors, however, when alerted of a
+campaign by a flyer, should seek alternative ways to give that
+do not involve personal interaction; instead, we observe no such
+substitution.
+To assess the welfare effects of giving, we structurally estimate the model parameters. We combine data from the treatments with complementary field experiments on the value of time,
+run in the same geographical areas in 2008 and 2009. These
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+5
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+experiments are designedtoestimate a key parameter in the fundraising treatments, the sensitivity of home presence to incentives,
+which is otherwise identified only parametrically. We ask 11, 900
+households to complete a survey and vary the payment ($0, $5, or
+$10), the duration (5 or 10 minutes), and whether the surveys are
+announced (with a flyer, with or without opt-out option). Higher
+payments and shorter duration increase the presence at home up
+to 16% and increase survey completion by 17–82%.
+We use a minimum-distance estimator on the combined data
+from the charity and the survey experiments. The estimator
+minimizes the distance between the moments predicted by the
+model and the observed moments. The moments are the probabilities of opening the door, giving different amounts, completing a
+survey, and opting out. Key parameters are the share of altruists,
+the curvature of the altruism function, and the social pressure
+cost of saying no in person to a solicitor. We estimate that 75%
+of solicitees have no altruism toward the charities, but there is
+substantial heterogeneity. Among the altruists, the utility from
+giving due toaltruism is steeply concave in the amount given, with
+almost no predicted donation above $50, consistent with warmglow rather than pure altruism. The estimated social pressure
+cost of giving zero is $3.75 (and significantly different from $0) for
+the in-state charity and $1.44 (marginally significant) for the outof-state charity. As a result of social pressure, a majority of donors
+give more than they would have liked to. Half of donors derive
+negative utility from the fund-raising interaction and would have
+preferred to sort out.
+Given the large social pressure costs, our door-to-door campaigns lower the utility of the solicited households on average. In
+the benchmark specification, a visit is estimated to lower welfare
+by $1.10 per household contacted for the in-state charity and
+by $0.44 for the out-of-state charity. The more negative welfare
+impact for the in-state charity is counterintuitive because more
+people are willing to donate to this better-liked charity. At the
+same time, however, the social pressure cost of saying no is also
+significantly higher for the local charity, and the second force
+dominates.
+If we take our fund-raising campaigns to be representative
+of door-to-door solicitations, unsolicited campaigns lead to utility
+losses for the givers in the order of hundreds of millions of dollars.
+The campaigns may still increase overall welfare, though only if
+the charities spend the money very effectively; in our campaign,
+
+6
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+we raised net donations of only $0.24 per household contacted
+for the in-state charity, and no net donation for the out-of-state
+charity.
+An important qualification is that our design identifies reasons for marginal, as opposed to infra-marginal, giving. Households that do not give to our fund-raiser, or give only due to
+social pressure, likely contributed to other charities. The motives
+for giving identified in this article may not generalize to inframarginal giving, which is more likely motivated by altruism
+and desire for status. By the same token, however, it would be
+a mistake to ignore the high-pressure giving requests studied
+herein, or to assume that the motives for infra-marginal giving
+studied in the literature apply. Small capital campaigns, like the
+one studied in this article, are common and reveal a different facet
+of the motivations for giving.
+Our findings can be used as an argument to introduce a donot-solicit or do-not-call list for charities. However, they also suggest an alternative: providing households with the opportunity to
+sort or, even better, opt out. Introducing sorting opportunities in
+fund-raising limits or eliminates altogether, the welfare losses for
+the solicitees. Interestingly, introducing sorting can also increase
+charitable fund-raising, and be a win-win solution: even a limited
+amount of sorting in of altruistic givers, who give larger amounts,
+is likely to counterbalance the sorting out of givers motivated by
+social pressure, who give smaller amounts.
+A methodological contribution of this article is the close tie
+between the behavioral model and the field experiment, allowing
+for structural estimation of the underlying parameters, which
+is surprisingly rare. Of all field experiments published in top
+five journals from 1985 to 2010, only two have this feature
+(Card, DellaVigna, and Malmendier 2011). A small literature in
+structural behavioral economics estimates behavioral models on
+observational data, including Laibson, Repetto, and Tobacman
+(2007) and Conlin, O’Donoghue, and Vogelsang (2007).
+Our article adds to several other strands of literature. It
+provides field evidence about social preferences to complement
+the laboratory evidence (Fehr and Gächter 2000; Charness and
+Rabin 2002; and especially Dana, Cain, and Dawes 2006; Lazear,
+Malmendier, and Weber forthcoming). The study also relates to
+the empirical and theoretical literature on optimal fund-raising
+(e.g., List and Lucking-Reiley 2002; Andreoni 2006; Landry et al.
+2006; Ariely, Bracha, and Meier 2009; Croson and Shang 2009;
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+7
+
+II. MODEL
+We model the behavior of an individual whose home is visited
+by a fund-raiser. We distinguish between the standard case of an
+unanticipated visit and that of an anticipated visit. In the latter
+case, a flyer announces the visit and the individual can alter the
+probability of being at home and opening the door. We discuss
+here the setting and predictions. The technical details, including
+Lemmas are in the Appendix, and the proofs are in the Online
+Appendix.
+II.A. Setup
+We consider a two-stage game between a potential giver and
+a solicitor. For convenience, we denote the potential giver, or
+solicitee, simply as giver. In the first stage, the giver may receive
+a flyer of the upcoming visit and, if so, notices the flyer with
+probability r ∈ (0, 1]. In the second stage, the solicitor visits the
+home. The giver opens the door with probability h. If she did not
+notice the flyer (or did not receive one), h is equal to a baseline
+probability h0 ∈ (0, 1). If she noticed the flyer, she can adjust the
+probability to h ∈ [0, 1] at a cost c (h), with c(h0 ) = 0, c0 (h0 ) = 0, and
+c00 (∙) > 0. That is, the marginal cost of small adjustments is small,
+but larger adjustments have an increasingly large cost. We do not
+require symmetry around h0 and we allow for corner solutions at
+h = 0 or h = 1.
+If the giver is present, she donates an amount g ≥ 0. If she
+is absent, there is no in-person donation (g = 0). The giver can
+donate through other channels, such as via mail or online, after
+learning about the charity from the solicitor or the flyer. The giver
+has utility
+(1)
+
+U (g, gm ) = u (W − g − gm ) + av (g + θgm , G−i ) − s (g) .
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Fong and Luttmer 2009). Finally, it adds tothe literature on social
+pressure (Asch 1951; Milgram 1963; Garicano, Palacios-Huerta,
+andPrendergast 2005; Gerber, Green, andLarimer 2008; Mas and
+Moretti 2009).
+The rest of the article proceeds as follows. In Section II
+we present a simple model of giving with altruism and social
+pressure. We introduce the experimental design in Section III and
+discuss the reduced-form results in Section IV. In Section V, we
+structurally estimate the parameters. In Section VI, we discuss
+alternative interpretations. Section VII concludes.
+
+8
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+1. The key results generalize to a fixed cost of giving by mail, but the algebra
+is more complex.
+2. We allow for giving to exceed current wealth, that is, the case g + gm > W.
+In practice, this case is unlikely to matter.
+3. The parameter a can also capture the belief of the donor about the quality
+of the charity.
+4. Under the warm-glow model, an alternative interpretation of θ is that the
+charity receives the full amount gm (i.e., there are no costs of giving via mail), but
+the impersonal mean lowers warm glow by a factor θ.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+The utility of private consumption, u, is derivedfrom the pregiving
+wealth W minus the donations given to the solicitor (g) and
+through other channels such as mail (gm ). Giving through other
+channels gm involves additional costs, such as finding an envelope
+andstamp, equal to(1−θ)gm , with 0 ≤ θ < 1. The charity therefore
+receives θgm .1 The private utility satisfies standard properties:
+u0 ( ∙ ) > 0 and u00 ( ∙ ) ≤ 0. Notice that the utility of private
+consumption can include the utility from infra-marginal giving to
+other charities.2
+The utility of giving to the charity, v, allows for pure and
+impure altruism (warm glow), or prestige (Harbaugh 1998). Since
+the experiment is not designed to separate pure altruism, impure altruism, or prestige but altruism from social pressure, we
+use a specification that is general enough to encompass both. We
+also allow for negative social preferences, or spite (Levine 1998),
+towards the charity.
+In the case of pure altruism, the agent cares about the total
+contributions to the charity, G−i + g + θgm , where G−i is the
+giving of others. In this case, we can think of v (G−i + g + θgm )
+as the production function of the charity, which is increasing in
+the donation g but has decreasing returns: v0g (∙, ∙) > 0, v00g,g (∙, ∙)
+< 0, and limg→∞ v0 (g, ∙) = 0. The parameter a ≥ 0 denotes the
+level of altruism,3 and the overall utility from giving is
+av (G−i + g + θgm ).
+In the case of impure altruism, the agent cares about the
+warm glow from giving g. Hence, v (∙) does not necessarily depend
+on the giving of others, G−i , and a ≥ 0 captures the intensity of
+the warm glow. We make the same assumptions v0g > 0, v00g,g < 0,
+and limg→∞ v0 (g, ∙) = 0.4
+Finally, in the case of spite towards the charity, the agent
+dislikes giving tothe charity. The utility is av (G−i + g + θgm ), with
+a < 0 capturing the intensity of spite. It is natural to assume that
+the disutility of giving increases with the donation in a convex
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+9
+
+Giving in Person. We solve the model working backward. In
+the second stage, conditional on being at home and answering the
+door, the giver chooses g to maximize (1). Notice that conditional
+on answering the door, the giver always prefers to donate in
+person because mail donations involve an additional cost (1 − θ)
+and do not eliminate the social pressure cost.
+We characterize optimal giving g∗ as a function of the parameters a and S in Lemma 1A in the Appendix. (The thresholds
+ˉ are also defined in the Appendix.) Figure I
+a(S), a(S), and a
+illustrates the case of linear private utility u and v+0 (0) = v−0 (0),
+which are the assumptions used for the structural estimation.
+Giving g∗ increases in altruism. When altruism is sufficiently
+low (a ≤ a (S)), the individual does not give. For a higher level
+of altruism (a (S) < a < a (S)), the individual gives a positive
+ˉ ),
+amount, but less than gs . For even higher altruism (a (S) ≤ a ≤ a
+there is bunching at g∗ = gs , which is the lowest level of giving
+associated with zero social pressure cost. Finally, for large enough
+ˉ ), the donor gives more than gs . Any giving above gs is
+a (a > a
+ˉ > 0 does not depend on
+due to altruism (hence the threshold a
+the social pressure cost S), while donations smaller than gs may
+be due to altruism or social pressure. Giving can occur also with
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+manner: v0g > 0 and v00g,g > 0. Here, we are abusing notation since
+the function v differs for a ≥ 0 (altruism) and a < 0 (spite);
+it is concave in the first case and convex in the second. When
+the distinction is important, we use v+ to denote the function for
+a ≥ 0, v− to denote the function for a < 0, and v to denote the
+function that equals v+ for a ≥ 0 and v− for a < 0. Notice that
+it is important to consider the case of spite because, unlike in a
+standard model of giving, even spiteful individuals may give to
+the charity if social pressure is high enough.
+The third element in the utility function is social pressure.
+The giver pays a utility cost s(g) = S ∙ (gs − g) ∙ 1g<gs ≥ 0 for
+not giving or only a giving small amount g while the solicitor is
+present. The cost is highest for the case of no donation (s(0)= Sgs ),
+then decreases linearly in g, and is 0 for donations of gs or higher.
+The giver does not incur a social pressure cost if she is away
+from home during the visit. The special case of S = 0 (no social
+pressure) and a = 0 (no altruism or warm glow) represents the
+standard model. We further assume that the giver is aware of her
+own preferences and rationally anticipates her response to social
+pressure.
+
+10
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Figure indicates the different regions for giving, no giving [g = 0], small giving
+[0 < g < gs ], giving equal to gs , and large giving [g > gs ], and the different regions
+for the probability of being at home, avoiding the solicitor [h < h0 ], and seeking
+the solicitor [h > h0 ]. The regions are a function of the altruism parameter a and
+of the social pressure parameter S.
+
+spiteful agents (a < 0) if the social pressure cost S is large enough
+(S > u0 (W) and hence a < 0).
+Giving via Mail. Conditional on not being at home, a giver
+who was informed about the fund-raising via a flyer decides
+whether to give via mail gm . Note that the only reason to give
+via mail is altruism. Giving via mail is increasing in altruism,
+provided θ > 0. For given altruism a, the level of giving via
+mail received by the charity (θg∗m (a)) is always smaller than the
+level of giving in person conditional on being at home (g∗ (a, S))
+(Lemma 1B).
+Presence at Home. In the first stage, the giver opens the
+door with probability h0 if the visit is unanticipated (no flyer or,
+with probability 1 − r, despite a flyer). If the visit is anticipated
+(flyer), she optimizes h given her utility from being at home,
+u (W − g∗ ) + av (g∗ , G−i ) − s (g∗ ), and her utility from not being
+at home, u (W − g∗m ) + av (θg∗m , G−i ):
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE I
+Regions of Giving g and Probability of Home Presence h
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+11
+
+max h [u (W − g∗ ) + av (g∗ , G−i ) − s (g∗ )] + (1 − h) [u (W − g∗m )
+
+h∈[0,1]
+
++av (θg∗m , G−i )] − c (h) .
+
+Opt-out. So far we have assumed that it is costly to reduce the
+probability of being at home. We now allow agents to costlessly
+reduce the probability of being at home to 0, for example, via a
+Do-Not-Disturb check box on the flyer. Formally, c (0) = 0 and c (h)
+as above for h > 0.5
+Opting out does not affect giving g∗ (a) (conditional on being
+at home) or g∗m (a) (conditional on not being at home) but only the
+probability of being at home h∗ (a). As characterized in Lemma 3,
+h∗ (a) remains the same as without the opt-out option if there is no
+social pressure and, hence, no reason to opt out. In the presence of
+social pressure, however, the agent opts out for low altruism, a <
+a0 (S), since the interaction with the fund-raiser lowers utility.
+For higher altruism levels, instead, the agent derives positive
+5. This formalization allows a costless reduction of h to 0 but not to other
+levels. This is not a restriction because agents who prefer to lower h below h0 (at
+a positive cost) will strictly prefer to lower h to 0 at no cost.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+We characterize the optimal probability of being at home, h∗ (a, S),
+in Lemma 2 (see Appendix). It is (weakly) increasing in altruism: the more the giver cares about the charity (or the warm
+glow), the more likely she is to be at home. The exact pattern
+depends on the degree of social pressure (Figure I). In the case
+of no social pressure (S = 0), sufficiently altruistic agents, a >
+a (0), give if at home and actively seek to be at home (h∗ >
+h0 ). The probability of being at home is increasing in the altruism up to the corner solution h = 1. Less altruistic agents,
+a ≤ a (0), instead, do not plan to give. They are indifferent as
+to being at home or not, and hence do not alter the baseline
+probability h0 .
+In the case of social pressure (S > 0), agents with low
+altruism a ≤ a (S) do not give and avoid the fund-raiser in order
+not to pay the social pressure cost. More altruistic agents with
+a (S) < a ≤ a0 (S) give a small amount but prefer to avoid the
+fund-raiser. Their giving is either entirely or partly due to social
+pressure. Agents with sufficiently high altruism, a > a0 (S), care
+enough about the charity that they seek the interaction with the
+fund-raiser, despite the fact that social pressure may distort their
+giving upward.
+
+12
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+utility from giving. Hence, she does not opt out and the solution
+is the same as in Lemma 2.
+Opting out also allows us to distinguish social pressure from
+self- or other-signaling. In our model, checking the opt-out box
+has no cost to the agent. Under self- and other-signalling, instead,
+opting out is costly since it signals avoidance of giving. If the cost
+is high, the agent will never opt out, and the opt-out treatment
+reduces to the simple flyer treatment.
+
+PROPOSITION 1. With Altruism and No Social Pressure, the
+probability P (H) is higher with flyer than without: P (H)F =
+P(H)OO > P (H)NF . With Social Pressure and Limited Altruism, P (H) is lower with flyer and lowest with opt-out:
+P (H)NF > P (H)F ≥ P (H)OO .
+
+In the case of Altruism and No Social Pressure, the flyer
+increases home presence relative to the control group since some
+agents seek to meet the solicitor. The opt-out option has no
+differential effect since no one avoids the solicitor. Under Social
+Pressure and Limited Altruism, the opposite is true: the flyer
+lowers home presence as agents seek to avoid the solicitor. In this
+case, the costless opt-out possibility lowers the presence at home
+further.7 In general, the probability of being at home is higher for
+the flyer group if the altruism force dominates the social pressure
+force, but the opt-out option always weakly lowers the presence at
+home.
+
+6. In case (ii), we also require F(a0 (S) ) − F(a (S) ) > 0 to eliminate a trivial
+case.
+7. A sufficient (not necessary) condition for the inequality P (H)F ≥ P (H)OO
+to be strict is a positive mass of households with a in the left neighbourhood of a0 .
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Testable Predictions. To complete the model, we assume that
+the population of agents is heterogeneous in a with c.d.f. F. We
+emphasize two special cases: (i) Altruism and No Social Pressure,
+that is, the standard assumption S = 0, but a positive probability
+of altruistic individuals with a > a (0); (ii) Social Pressure and
+Limited Altruism, that is, allowing for social pressure S > 0, but
+requiring 0 probability of altruistic individuals with a > a0 (S).6
+The following propositions outline testable predictions regarding the key outcomes, home presence and giving. Our first
+prediction compares the probabilities of being at home in the
+treatments without flyer, P (H)NF , with flyer, P (H)F , and with
+opt-out flyer P(H)OO .
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+13
+
+The next proposition illustrates the impact of the different
+treatments on the unconditional probability of in-person giving,
+P (G).
+
+Under Altruism and No Social Pressure, the flyer and opt-out
+treatments lead to the same probability of giving, since there is no
+reason to opt out in the absence of social pressure. The probability
+of giving in these two flyer treatments is higher than without flyer
+because some agents seek to stay at home. Under Social Pressure
+and Limited Altruism, instead, the probability of giving is lower
+with flyer and lowest with an opt-out flyer. In general, the net
+effect of a flyer depends on whether the giving is more due to real
+altruism (which works to increase giving) or to social pressure
+(which has the opposite effect).
+The third prediction regards the probability of giving conditional on being at home, P (G|H).
+PROPOSITION 3. The probability of giving conditional on being
+at home is higher with flyer than without: min (P(G|H)F ,
+P(G|H)OO ) ≥ P (G|H)NF .
+
+Altruism and social pressure both lead to increases in the
+conditional giving probability with flyer: altruistic people are
+more likely to be at home, and nongivers sort away from home.
+Hence, conditionally on reaching an agent at home, giving is
+higher with than without flyer.
+The next proposition focuses on gift size. We distinguish
+between large donations, defined as g > gs , and small donations,
+g ≤ gs .
+
+PROPOSITION 4. (i) The unconditional probability of a large donation, P(GHI ), is higher with flyer than without: P(GHI )F =
+a) < 1 ). (ii)
+P(GHI )OO ≥ P(GHI )NF (with strict inequality if F(ˉ
+The unconditional probability of a small donation, P(GLO ) , is
+identical under the simple flyer treatment and the flyer with
+opt out (P(GLO )F = P(GLO )OO ) if S = 0 , but higher under the
+simple flyer (P(GLO )F > P(GLO )OO ) if S > 0 (and F(a0 (S) ) −
+F(a (S) ) > 0).
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+PROPOSITION 2. With Altruism and No Social Pressure, the
+probability P (G) is higher with flyer than without: P (G)F =
+P (G)OO > P (G)NF . With Social Pressure and Limited Altruism, P (G) is lower with flyer and lowest with opt-out:
+P (G)NF > P (G)F ≥ P (G)OO .
+
+14
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+PROPOSITION 5. The unconditional probability of a donation while
+not at home P(Gm ) satisfies 0 = P(Gm )NF ≤ P(Gm )F ≤
+P(Gm )OO .
+Without a flyer, giving via mail is zero because the giver is
+only informed about the fund-raiser if she is at home. A flyer
+informs the giver about the fund-raiser and, hence, she may give
+even if not at home, so long as she is sufficiently altruistic. Giving
+via mail is at least as high if the flyer offers opting out as with the
+simple flyer because some of the individuals who opt out because
+they would have given more than they wish in person give a
+smaller amount via mail.
+III. EXPERIMENTAL DESIGN
+Charities. The two charities in the fund-raising treatments
+are La Rabida Children’s Hospital and the East Carolina Hazard
+Center (ECU). Although both charities are well-respectedregional
+charities, we chose them so that most households in our sample
+would prefer one (La Rabida) to the other (ECU). To document
+these preferences, in our 2008 survey treatments we asked respondents to rank five charities from 1 (least liked) to 5 (most
+liked). The charity with the highest average rank is the La Rabida
+Children’s Hospital (average rank 3.95) followed by Donate Life
+(rank 3.79), and the Seattle Children’s Hospital (rank 3.47). At
+the bottom of the rank, below the Chicago Historical Society (rank
+2.96), is the East Carolina Hazard Center (rank 2.54).8 La Rabida
+appears to be highly liked both because it is an in-state charity
+well known to residents in the area around Chicago, and also
+8. We obtain similar results when we ask the respondents to allocate $1 that
+an anonymous sponsor has pledged to give to one of the five charities. (We followed
+up and delivered the donations.) Out of 255 respondents, 147 pledge the donation
+to the La Rabida charity, and only 7 choose the ECU charity.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+A flyer (with or without opt-out option) increases large
+donations given that altruistic donors increase their probability
+of being at home. The impact of a flyer on small donations is less
+obvious since small donations can reflect moderate altruism or
+social pressure. A flyer with opt-out unambiguously lowers the
+probability of small donations relative to a simple flyer, given that
+it simplifies the sorting out of donors motivated by social pressure.
+The last proposition characterizes the probability of giving
+via mail.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+15
+
+because it provides health benefits to children; neither condition
+applies to ECU.
+
+Logistics. We employed 92 solicitors and surveyors, mostly
+undergraduate students at the University of Chicago, who were
+paid $9.50 per hour. All solicitors elicited contributions within
+at least two treatments, and most over multiple weekends, and
+similarly for surveyors. Each solicitor and surveyor’s participation in the study typically followed four steps: (1) an invitation to work as a paid volunteer for the research center, (2)
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Door-to-Door Fund-Raising. Our experiment uses a door-todoor campaign because it offers the easiest implementation of the
+design. While door-to-door campaigns are common and previously
+studied in economics (Landry et al. 2006), it is hard to quantify
+how much money they raise. To provide some evidence, our
+survey asked respondents to recall how many times in the past
+12 months people have come to your door to raise money for a
+charity. We asked similarly phrased questions about giving via
+phone, via mail, and through other channels, such as employer or
+friends. Of 144 respondents who answered all of these questions,
+76% stated that they had received at least one such visit, and 48%
+of respondents reported at least three such visits. This frequency
+is smaller than but comparable in magnitude to other solicitation
+forms: phone (86% received at least one call), mail (95% with at
+least one mailing), andother forms (83% with at least one contact).
+We also asked how much the respondents gave to these
+solicitors in total over the last 12 months. Of the respondents,
+40% reported donating to a door-to-door campaign, compared
+to 28% in response to phone solicitations, 53% in response to
+mail solicitations, and 76% in response to other solicitations.
+The average reported total door-to-door donation in the past
+12 months (including nondonors) is $26, compared to $101 by
+phone, $1, 012 by mail, and $2, 063 by other means. However,
+this estimate is very sensitive to a small number of individuals
+reporting large sums given (in two cases $50, 000 and $60, 000)
+which could be due to measurement error or self-aggrandizing
+claims. If we cap the donations at $1, 000, the numbers are $26
+by door-to-door, $66 by phone, $115 by mail, and $295 by other
+means. Hence, door-to-door solicitations are quite common, at
+least in the area where the survey took place, and they raise a
+smaller, but not negligible, amounts.
+
+16
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Treatments. In the treatments without flyer, solicitors knock
+on the door or ring the bell and, if they reach a person, proceed
+through the script (see Online Appendix C). They inform the
+household about the charity (La Rabida or ECU), ask if they are
+willing to make a donation, and if they receive a gift leave a receipt. In the survey treatment, the solicitor inquires whether the
+household member is willing to respond to survey questions about
+charitable giving. The solicitor informs the household member
+about the duration of the survey (5 or 10 minutes) and about the
+payment for completing the survey, if any ($10, $5, or none).
+In the flyer treatments, the solicitor’s script is identical, but
+in addition a different solicitor leaves a flyer on the doorknob on
+the day before the solicitation. The professionally prepared flyer
+indicates the time of the upcoming fund-raising (or survey) visit
+within a one-hour time interval. Figure II provides examples of
+two flyers used for the fund-raising treatment and two flyers used
+for the 2008 survey treatments.10 In the opt-out treatments, the
+9. Burr Ridge, Countryside, Flossmoor, Kenilworth, Lemont, Libertyville,
+Oak Brook, Oak Forest, Oak Park, Orland Park, Park Ridge, Rolling Meadows,
+Roselle, Schaumburg, Skoke-Evanston, and Willowbrook.
+10. For a small number of observations, the flyer does not indicate the exact
+time of the visit, only that there will be a visit in the next two weeks. Results for
+this subgroup are qualitatively similar tothe results for the flyer with the one-hour
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+an in-person interview, (3) a training session, and (4) participation as a solicitor and/or surveyor in the door-to-door campaign. Details about the recruitment process are in Online
+Appendix B.
+The field experiment took place on Saturdays and Sundays
+between April 2008 and October 2008 (both charity and survey
+treatments) and then again between April 2009 and November
+2009 (survey treatments only). The locations are wealthy towns
+around Chicago.9 Each solicitor is assigned a list of typically 25
+households per hour on a street, for a daily workload of either
+4 hours (10 am–noon and 1–3 pm) or 6 hours (10 am–noon and
+1–5 pm). Every hour, the solicitor moves to a different street in
+the neighborhood and typically enters a different treatment. Solicitors do not know whether a treatment involves a flyer, though
+they can presumably learn that information from observing flyers
+on doors. Solicitors are trained to either do charity treatments
+or survey treatments (with a small number trained to do both).
+A solicitor assigned to La Rabida on a given day will only do
+treatments for La Rabida, and similarly for ECU or survey.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+17
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE II
+Flyer Samples
+Twoexamples of flyers for the 2008 fund-raising treatments (toprow) andflyers
+for the 2008 survey treatments (bottom row). The top-left flyer is for the opt-out
+treatment, while the top-right flyer is for a flyer treatment. The bottom-row flyers
+are both for a 10-minute survey with flyer, the left one without payment, the right
+one for a $10 payment.
+
+18
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Summary of the treatments run in the door-to-door field experiments in 2008
+(charity and survey) and run in 2009. La Rabida and ECU are the names of the
+two charities for which the funds were raised.
+
+flyer has a box “Check this box if you do not want to be disturbed.”
+If the solicitors find the box checked, they do not knock on the
+door. The charity treatments are summarized in the top part of
+Figure III.
+The survey treatments are aimed at estimating the elasticity
+of the presence at home and of the response rate to incentives. In
+Section V, we use these elasticities to estimate the social pressure
+interval of visit. We therefore present the results combining these treatments.
+Excluding the observations with the two-week window does not change any of the
+results.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE III
+Experimental Treatments (Top) 2008, (Bottom) 2009
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+19
+
+and altruism parameters. The survey questions are mostly about
+patterns of charitable giving in 2008 and about voter participation
+in 2009.11 Figure III summarizes the survey treatments run in
+2008 (top) and 2009 (bottom).
+
+IV. REDUCED-FORM ESTIMATES
+We report the differences across the treatments in the share
+of households answering the door, the empirical counterpart of
+11. In the 2009 survey treatments, about half of the flyers specify that the
+survey will be about voter participation. The results are similar for the two types
+of flyers and hence we pool them in the analysis.
+12. These five solicitors indicate the presence of flyers on the door or on the
+floor also for households in the no-flyer treatment.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Sample and Randomization. We reached a total of 8,906
+households in the charity treatments, 2,018 households in the
+2008 survey treatments, and 10,594 households in the 2009
+survey treatments. From this initial sample, we exclude 1,391
+observations in which the households displayed a no-solicitor
+sign (in which case the solicitor did not contact the household)
+or the solicitor was not able to contact the household for other
+reasons (including, for example, a lack of access to the front door
+or a dog blocking the entrance). We also exclude 559 solicitorday observations for 5 solicitors with substantial inconsistencies
+in the recorded data.12 The final sample includes 7,668 households in the charity treatments, 1,865 households in the 2008
+survey treatments, and 10,035 households in the 2009 survey
+treatments.
+The charity field experiment took place in 2008 in three
+waves. In the first wave (April 27 to June 1), we solicited for
+both charities (with equal weights) and all three treatments
+(approximate weights of 40% for no-flyer, 35% flyer, 25% optout). In the second wave (July 13 to August 23), we solicited only
+for La Rabida and ran only no-flyer and flyer treatments (with
+equal weights). In the third wave (September 6 to October 18) we
+solicited for both charities (the ECU charity is over-sampled with
+weight 75%) and all treatments (approximate weights of 25% for
+no-flyer, 50% flyer, 25% opt-out). The script of the randomization
+and the flyer design is the same throughout. Within each of these
+waves, the randomization of the treatments takes place for each
+solicitor-hour and is at the street level within a town.
+
+20
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+13. On almost all days, we visited only one town, so that the day-town fixed
+effects are essentially equivalent to day fixed effects.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+P (H), and the share of households giving to the charity in person, corresponding to P (G). We also present results on giving
+conditional on being at home, corresponding to P (G|H), on the
+frequency of small and large donations, P(GLO ) and P(GHI ), and
+on giving via mail and Internet, P (Gm ).
+Table I presents the summary statistics on the key treatment
+outcomes. The rate at which the respondents open the door varies
+between 41% and 42% in the baseline treatments for La Rabida,
+ECU, and in the 2008 survey treatment. Since households did not
+know the task at hand, these averages ought, indeed, to be close.
+The share answering the door is smaller for the flyer treatment
+and smaller yet for the opt-out treatment. The share of givers is
+substantially smaller for the ECU charity than for the La Rabida
+charity, consistent with our survey evidence that the La Rabida
+charity is more liked than the ECU charity. For ECU, the share
+of givers is substantially lower in the opt-out treatment than in
+the other treatments. For La Rabida, instead, giving is somewhat
+higher in the opt-out treatment. In the survey treatments, the
+share opening the door and the share completing the survey are
+generally larger for the treatments with higher pay and shorter
+duration both in 2008 and 2009.
+While the summary statistics provide suggestive evidence on
+the impact of the treatments, the raw statistics are potentially
+confounded with randomization fixed effects. As discussed in
+Section III, treatments were randomized within a date-solicitor
+time block, but not all treatments were run in all time periods.
+Hence, estimates that do not control for the randomization fixed
+effects may be confounded, for example, by time effects—we ran
+more ECU treatments later in the sample when donation rates
+also happened to be lower. It turns out that all directional effects
+indicated in the summary statistics, except for the higher giving
+to La Rabida under opt-out, are confirmed once we add the
+randomization fixed effects.
+The benchmark empirical specifications (Table II) control
+for solicitor i and day-town t fixed effects.13 The identification
+comes from within-solicitor, within-day variation in treatment.
+The vector of control variables Xi,t,h includes dummies for the
+hourly time blocks h (10 am, 11 am, 1 pm, 2 pm, 3 pm, and 4 pm),
+and dummies for a subjective rating by the solicitor of the quality
+
+N
+
+Flyer with opt-out treatment
+
+Flyer treatment
+
+0.4090
+(N = 3166)
+0.3753
+(N = 3432)
+0.3355
+(N = 1070)
+N = 7668
+
+0.4228
+(N = 946)
+0.3993
+(N = 1172)
+0.3503
+(N = 588)
+N = 2706
+
+0.4032
+(N = 2220)
+0.3628
+(N = 2260)
+0.3174
+(N = 482)
+N = 4962
+0.0289
+N = 2706
+
+N = 7668
+
+0.0460
+
+0.0507
+
+ECU
+(5)
+
+0.0514
+
+0.0585
+
+0.0629
+
+Pooled
+(4)
+
+N = 4962
+
+0.0788
+
+0.0650
+
+0.0680
+
+La Rabida
+(6)
+
+Share of households giving In
+person
+
+La Rabida
+(8)
+One ($25)
+donation across
+all treatments
+
+N = 4962
+
+ECU
+(7)
+Zero donations
+across all
+treatments
+
+N = 2706
+
+Number of households giving via
+mail or internet
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Baseline (no-flyer) treatment
+
+La Rabida
+(3)
+
+Pooled
+(1)
+
+Sample:
+
+ECU
+(2)
+
+Share of households answering
+the door
+
+Variable:
+
+Panel A: Fund-raising treatments
+
+TABLE I
+SUMMARY STATISTICS
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+21
+
+0.0972
+0.1186
+0.1714
+0.1719
+N = 1865
+
+(2)
+
+(1)
+
+0.4135 (N = 607)
+0.3681 (N = 489)
+0.392 (N = 449)
+0.4156 (N = 320)
+N = 1865
+
+Share of
+households
+completing the
+survey
+
+Share of
+households
+answering the
+door
+
+Baseline ($0/5min)
+Baseline ($5/5min)
+Flyer ($0/10min)
+Flyer ($0/5min)
+Flyer ($5/5min)
+Flyer ($10/5min)
+Opt-out ($0/5min)
+Opt-out ($5/5min)
+N
+
+2009 survey
+treatments
+
+Share of hhs.
+completing the
+survey
+(4)
+0.1472
+0.1231
+0.1430
+0.1679
+0.2085
+0.2600
+0.1434
+0.1797
+N = 10035
+
+Share of hhs.
+answering the
+door
+(3)
+0.3915 (N = 1420)
+0.3956 (N = 910)
+0.3771 (N = 769)
+0.3852 (N = 1703)
+0.4057 (N = 1856)
+0.4428 (N = 673)
+0.3420 (N = 1374)
+0.3639 (N = 1330)
+N = 10035
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Notes. Summary statistics for the variables of the experiment. ”ECU” and ”La Rabida” indicate the two charities in the experiment, ”ECU” is an out-of-state research center on
+hurricanes, ”La Rabida” is an in-state children’s hospital.
+
+Baseline ($0/10min) treatment
+Flyer ($0/10min) treatment
+Flyer ($0/5min) treatment
+Flyer ($10/10min) treatment
+N
+
+2008 survey treatments
+
+Variable:
+
+Panel B: Survey treatments
+
+TABLE I
+(CONTINUED)
+
+22
+QUARTERLY JOURNAL OF ECONOMICS
+
+−0.0967
+
+Flyer with opt-out
+treatment
+Indicator ECU
+charity
+Flyer treatment
+* ECU charity
+Flyer with opt-out
+* ECU charity
+Flyer treatment
+* La Rabida charity
+Flyer with opt-out
+* La Rabida charity
+Omitted treatment
+Mean of dep. var. for
+omitted treatment
+Fixed effects for
+solicitor, datelocation, hour,
+and area rating
+N
+
+(2)
+(0.0062)
+
+−0.0195
+
+−0.0011
+
+(3)
+
+(4)
+
+Indicator for
+giving
+
+(0.0052)
+
+−0.0193
+
+−0.0033
+
+(5)
+
+N = 7668
+
+N = 7668
+
+X
+
+N = 7668
+
+0.0717
+
+N = 7668
+
+X
+
+N = 7668
+
+0.0414
+X
+
+(8)
+
+N = 7668
+
+0.0414
+X
+
+N = 7668
+
+0.0215
+X
+
+(9)
+
+1.161
+X
+
+N = 7668
+
+0.0215
+X
+
+N = 7668
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+(10)
+
+N = 7668
+
+1.161
+X
+
+Notes. Estimates for a linear probability model, with standard errors clustered by solicitor-date, in parentheses. The omitted treatment is the baseline no-flyer fund-raising
+treatment for the La Rabida charity. The regressions include fixed effects for the solicitor, for the date-town combination, for the hour of day, and for a subjective rating of home values
+in the block. ∗ significant at 10%; ∗∗ significant at 5%; ∗∗∗ significant at 1%.
+
+X
+
+0.413
+
+X
+
+(7)
+
+Amount given
+(including $0)
+
+0.0022
+−0.1459
+(0.0035)
+(0.1357)
+−0.0002
+−0.3041
+(0.0051)
+(0.1653)∗
+−0.0107
+−0.0123
+−0.0155
+−0.7611
+−0.9767
+(0.0085)
+(0.0032)∗∗∗ (0.0052)∗∗∗ (0.1368)∗∗∗ (0.2014)∗∗∗
+0.0051
+0.1154
+−0.0045
+(0.0076)
+(0.0045)
+(0.1240)
+−0.0222
+−0.0907
+0.0039
+(0.0098)∗∗
+(0.0058)
+(0.1268)
+0.0009
+−0.0028
+−0.2545
+(0.0066)
+(0.0046)
+(0.1841)
+−0.0161
+−0.0042
+−0.4573
+(0.0128)
+(0.0087)
+(0.2885)
+No-flyer, La Rabida
+No-flyer, La Rabida
+
+(6)
+
+Indicator for giving
+Small amount (≤ $10)
+Large amount (> $10)
+
+OLS regressions
+
+(0.0084)∗∗
+(0.0081)∗∗
+−0.0249
+−0.0263
+−0.0127
+0.0041
+(0.0234)
+(0.0049)∗∗∗ (0.0085)∗∗∗ (0.0053)∗∗
+0.0006
+−0.0365
+(0.0313)
+(0.0094)
+−0.089
+−0.0183
+(0.0271)∗∗∗
+(0.0100)∗
+−0.0396
+−0.0019
+(0.0144)∗∗∗
+(0.0078)
+−0.106
+−0.0202
+(0.0132)
+(0.0319)∗∗∗
+No-flyer, La Rabida
+No-flyer, La Rabida
+
+(0.0194)∗∗∗
+0.01
+(0.0143)
+
+(0.0137)∗∗∗
+
+−0.0387
+
+(1)
+
+Indicator for
+answering the door
+
+Flyer treatment
+
+Dep. var.:
+
+Specification:
+
+TABLE II
+RESULTS FOR FUND-RAISING TREATMENTS
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+23
+
+24
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+of the houses visited in that hour block on a 0–10 scale. The latter
+controls provide a rough measure of the wealth level of a street
+within a town. We run the OLS regression
+(2)
+
+yi,j,t,h = α + Γ Ti,t,h + βECU dECU + ηi + λt + BXi,t,h + εi,j,t,h ,
+
+(3)
+
+yi,j,t,h = α + ΓLaR Ti,t,h dLaR + βECU dECU + ΓECU Ti,t,h dECU
++ ηi + λt + BXi,t,h + εi,j,t,h ,
+
+where dch is an indicator variable for charity ch ∈ {LaR, ECU}.
+The omitted treatment is the no-flyer treatment for La Rabida.
+In Figures IVA and IVB, we plot the estimated coefficients from
+this specification. The estimated impact for the baseline no-flyer
+treatment for La Rabida is α̂, from specification (3) with no
+fixed effects and controls. The estimated impact for the other
+k
+k
+treatments k are α̂ + γ̂LaR
+for La Rabida and α̂ + β̂ + γ̂ECU
+for ECU.
+Answering the Door. For both charities, a flyer announcing
+the visit reduces the share of households opening the door by
+about 4 percentage points relative to the baseline treatment with
+no flyer (Figure IVA). As Table II shows, the difference is statistically significant at conventional levels. The share of households
+opening the door is further lowered, by an additional 5 to 6
+14. The specification assumes that the impact of the fixed effects on the relevant outcomes is additive. We obtain essentially identical results using solicitortime-date fixed effects, reported in the Online Appendix. These fixed effects,
+however, do not allow us to identify the difference in outcomes between La Rabida
+and ECU, because on any given date each solicitor raised money for only one
+charity.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+where the dependent variable yi,j,t,h is, alternatively, an indicator
+for whether individual j opened the door (yH ), gave a positive
+amount to the charity (yG ), gave a small amount (yGLO ), or gave
+a large amount (yGHI ). The vector Ti,t,h contains indicators for
+the various fund-raising treatments, with the baseline no-flyer
+treatment for La Rabida as the omitted group. As such, the point
+estimates for Γ are to be interpreted as the effect of a treatment
+compared to the baseline.14 We cluster the standard errors at the
+solicitor × date level.
+We also estimate the impact of the fund-raising treatment
+separately for the two types of charities (ECU and La Rabida),
+using the following OLS regression model:
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+25
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE IV
+Frequency of (A) Answering the Door, (B) (Unconditional) Giving, and (C) Giving
+Conditional on Answering the Door
+Panel A presents the percent of households that answer the door under
+different treatment. The third set of bars (opt-out treatment) also shows the
+percent opting out (shaded colors on top). Panel B displays the percent that give
+to the charity out of all the households in the treatment group (including those
+not answering the door). Panel C shows giving conditioned on answering the door,
+which equals the ratioof the estimated shares of unconditional giving (Figure IVB)
+and of households answering the door (Figure IVA). All estimates are obtained
+from regressions that control for randomization fixed effects.
+
+26
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Opting Out. Figure IVA alsopresents evidence on the share of
+subjects in the opt-out treatment that check the opt-out box: 12%
+of all households for the La Rabida charity and 9.9% for the ECU
+charity. Households that, in the flyer treatment, are explicitly
+avoiding the solicitor by not answering the door, instead use the
+opt-out option when available. This result is consistent with the
+assumption that checking the opt-out box is a cheaper way to
+avoid a solicitor.
+Unconditional Giving. Figure IVB presents the results on the
+unconditional giving probability, including households that do
+not answer the door. Not surprisingly, giving is higher for the
+preferred charity, La Rabida, than for ECU in each treatment.
+The pattern of effects across treatments is similar for the two
+charities. The baseline and the flyer treatments have essentially
+the same share of giving. The lack of a difference between these
+treatments is estimated quite precisely because we overweighted
+the baseline and flyer treatments. The opt-out treatment, instead,
+lowers giving by 2 percentage points for both charities. This
+difference is statistically and economically significant (see Table
+II): the effect amounts to a reduction in giving of about a third
+relative to the other treatments.
+The first result—that the flyer per se does not affect giving—
+is consistent with both social pressure and altruism affecting
+charitable giving. The advance notice increases the presence at
+home of the altruistic givers and lowers the presence of those who
+give due to social pressure. To the extent that these two forces
+are of about the same size, we expect no overall impact. Note that
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+percentage points, by the presence of an opt-out condition (Check
+this box if you do not want to be disturbed) on the flyer. Hence, the
+flyer and the opt-out conditions lower the probability of opening
+the door by, respectively, 10% and 25%, an economically large
+effect that is similar for both charities. We interpret this evidence
+as suggestive of social pressure: when informed of a visit by a
+solicitor, households attempt to avoid the interaction, especially
+when doing so has little cost, as in the opt-out treatment. Notice
+that the reduction in the probability of opening the door in the
+presence of a flyer can be due to two factors: a lower probability
+of being at home, or a lower probability of opening the door
+conditional on being at home. The variable we measure captures
+the sum of these two effects.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+27
+
+Conditional Giving. For both charities, the share of
+households that give among those who answer the door15 is
+higher in the treatments with flyer than in the baseline treatment
+(Figure IVC). This increase is consistent with Proposition 3 since
+the flyer allows sorting in by donors who want to give and
+sorting out by those who do not want to give. In the opt-out
+treatment, however, conditional giving is lower. This effect
+is inconsistent with Proposition 3, though not statistically
+significant at conventional significance levels.
+Amount of Giving. In our model, individuals who give due to
+social pressure give at most gS , whereas individuals who give due
+to altruism may contribute higher amounts. Hence, relative to the
+control treatment, the flyer treatment may both decrease smaller
+donations (sorting out of social-pressure givers) and increase
+larger donations (sorting in of altruists). The opt-out treatment,
+which further facilitates sorting out but not sorting in, should
+lower the share of small donations but not the share of larger
+donations (Proposition 4).
+To test these predictions, we split donations based on the
+median amount given, $10, and label donations smaller than (or
+equal to) $10 as small and donations larger than $10 as large.
+Figure V presents the results. In the baseline treatment, 4% of
+households give small donations, and 2% give large donations.
+The percentage giving a small donation decreases slightly in the
+flyer treatment and decreases by 2.1 percentage points in the optout treatment. Hence, the opt-out option more than halves the
+15. The conditional giving for each treatment is the estimated unconditional
+giving, Figure IVB, divided by the estimated share of households answering the
+door, Figure IVA.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+this result does not contradict our previous finding that the flyer
+significantly reduces the share of households opening the door. In
+the presence of social pressure costs, nongivers also avoid being at
+home when notified with a flyer. This avoidance does not impact
+the probability of giving, but it lowers home presence.
+The second result—that the opt-out option significantly lowers giving—points to the importance of social pressure: in the
+opt-out treatment the cost of avoiding the fund-raiser is substantially lowered, and giving decreases proportionally. If giving was
+primarily due to altruism, the opt-out option should not affect
+giving rates or levels.
+
+28
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Figure presents the results on (unconditional) giving of small (≤$10) and large
+(>$10) donations across treatment. The estimates are obtained from regressions
+that control for randomization fixed effects.
+
+likelihood of a small donation, a significant difference as shown
+in Table II. The pattern is very different for large donations.
+The flyer somewhat increases the incidence of larger donations,
+though not significantly, and the opt-out option has no effect. This
+pattern is consistent with Proposition 4.
+Figure VI presents additional information on the distribution
+of the amount given across treatments. The opt-out treatment,
+compared to the baseline treatment, induces a decrease in the
+donations up to $10, but no change in larger donations. The
+histogram also provides evidence of bunching at $5 and $10.
+In the structural model, we use this information and consider
+$10 as the amount that eliminates all social pressure from not
+giving, gs .
+Finally, in columns (9) and (10) of Table II we consider
+the effect of the different treatments on the amount given.
+There is no significant effect of the flyer treatment, and a
+marginally significant reduction in giving with the opt-out
+treatment.
+Robustness. We examine the robustness of specification (2)
+in Table II to: (i) omitting the dummy for the ECU charity; and
+(ii) introducing fixed effects for solicitor-day-location fixed effects,
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE V
+Frequency of Giving: Small versus Large (Pooled)
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+29
+
+Figure displays the distribution of donation amounts across different treatment groups. Each bar indicates the percentage giving the specified amount out
+of all households in the treatment. The figure does not display the share of
+households donating $0. The estimates are obtained from regressions that control
+for randomization fixed effects.
+
+which allows for different solicitor fixed effects on different days
+or towns. Online Appendix Table 1 shows that the estimates are
+essentially identical.
+In Online Appendix Table II, we estimate separately the
+results for the three experimental waves in 2008: April to June
+(wave 1), July and August (wave 2), September and October (wave
+3). The results in the first and second waves for the flyer treatment
+are consistent (in wave 2 we did not run an opt-out treatment): in
+both waves the share answering the door significantly decreases
+in response to a flyer, and there is no effect on the share giving. In
+the third wave, we obtain similar effects as in the previous waves
+for the share answering the door, but somewhat different effects
+on giving. In this time period, which coincides with the peak
+of the financial crisis, the level of giving is substantially lower.
+Given this lower level, a flyer (marginally) increases giving,
+mostly in the form of larger donations; a flyer with opt-out option
+still lowers giving, though less so than in previous waves. These
+results are consistent with the crisis reducing giving due to lower
+social pressure cost of turning away a solicitor (“sorry, times are
+tough”), but the sample size in this period is toosmall todrawfirm
+conclusions.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE VI
+Distribution of Amounts Donated
+
+30
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Survey. For the survey treatments, we estimate a specification parallel to equation (2), separately for the 2008 and the
+2009 field experiments. In the 2008 experiments (Figure VII (top)
+and column (1) of Table III), a flyer announcing a $0 10-minute
+survey reduces the share opening the door by 15% (though not
+significantly), compared to the same survey without flyer. In
+addition, flyers for more attractive surveys with either shorter
+duration (5 minutes) or higher payment ($10) lead to a 10–15%
+increase in the share of households opening the door, indicating
+that households sort into shorter and better-paid surveys, though
+the difference is again not significant.
+The share completing the survey is comparable (about 10%)
+for the $0 10-minute conditions with and without flyer (Figure VII
+(top) and column (2) of Table III). Interestingly, the willingness to
+complete an unpaid 10-minute survey is higher than the willingness to give money even to an in-state charity. Also, compared to
+the $0 10-minute survey with flyer, surveys with shorter duration
+or payment have a higher completion rate of 17–18%, a 70–80%
+increase. The increase is very similar for the two groups, indicating a high value of time for survey completion, consonant with the
+sample population characteristics.
+Figure VII (bottom) and columns (3) and (4) of Table III
+report the results for the 2009 survey. Within the treatments with
+flyer, the share answering the door is increasing in the amount
+paid (from $0 to $5 to $10). In addition, the share answering is
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Giving via Mail or Internet. We also obtained data on mail
+and Internet donations from the households in our sample over
+the time period of the fund-raising campaign. The results are
+reported in columns (7) and (8) of Table I. There was not a single
+donation to ECU, and only one donation to La Rabida—a striking
+difference compared to the 3–7% of households donating in person
+for the same charities. The near absence of donations provides
+further evidence on the motivations of giving. If giving was due to
+pure altruism, individuals whosee the flyer but cannot be at home
+during the fund-raiser would donate via mail or Internet. The
+cost of this form of giving (captured by θ in our model) attenuates
+giving, but not likely to be zero. A model of warm glow can better
+fit the data if we assume that the warm glow arises only from inperson donations (i.e., θ is close to 0). The lack of mail or Internet
+donations is also consistent with social pressure: giving arises
+only under high social pressure.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+31
+
+Surveys: (Top) 2008 Experiment, (Bottom) 2009 Experiment
+Figures present the percent of households answering the door and the percent
+completing the survey (out of all households) in the survey treatment run in 2008
+(top) and 2009 (bottom). The estimates are obtained from regressions that control
+for randomization fixed effects.
+
+significantly lower for the treatments with opt-out, especially the
+treatment with no payment. These findings are consistent with
+the findings for 2008 and confirm a sizable responsiveness of the
+presence at home to the attractiveness of the task.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE VII
+
+Flyer ($10/5min) treatment
+
+Flyer ($5/5min) treatment
+
+Flyer ($0/5min) treatment
+
+Flyer ($0/10min) treatment
+
+Baseline ($5/5min) treatment
+
+Flyer ($10/10min) treatment
+
+Flyer ($0/5min) treatment
+
+Flyer ($0/10min) treatment
+
+Dependent variable:
+
+Sample:
+
+−0.0563
+(0.0377)
+−0.0021
+(0.0334)
+−0.0105
+(0.0448)
+
+Indicator for
+answering the door
+(1)
+0.0000
+(0.0260)
+0.0794
+(0.0233)∗∗∗
+0.0695
+(0.0265)∗∗
+
+Indicator for
+completing survey
+(2)
+
+2008 Survey
+
+−0.0096
+(0.0217)
+−0.0198
+(0.0247)
+−0.0193
+(0.0189)
+0.0028
+(0.0205)
+0.0368
+(0.0243)
+
+−0.0240
+(0.0176)
+−0.0008
+(0.0180)
+0.0243
+(0.0132)∗
+0.0549
+(0.0164)∗∗∗
+0.1072
+(0.0187)∗∗∗
+
+Indicator for
+completing survey
+(4)
+
+2009 Survey
+Indicator for
+answering the door
+(3)
+
+OLS regressions
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Specification:
+
+TABLE III
+RESULTS FOR SURVEY TREATMENTS
+
+32
+QUARTERLY JOURNAL OF ECONOMICS
+
+Indicator for
+completing survey
+(2)
+
+X
+N = 1865
+
+X
+N = 1865
+
+Baseline ($0/10min)
+0.4138
+0.1025
+
+Indicator for
+answering the door
+(1)
+
+2008 Survey
+
+X
+
+0.1498
+
+−0.0026
+(0.0160)
+0.0259
+(0.0162)
+
+N = 10035
+
+Baseline ($0/5min)
+
+N = 10035
+
+X
+
+0.3915
+
+−0.0583
+(0.0227)∗∗
+−0.0373
+(0.0192)∗
+
+Indicator for
+completing survey
+(4)
+
+2009 Survey
+Indicator for
+answering the door
+(3)
+
+OLS regressions
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Notes. Estimates for a linear probability model with standard errors, clustered by solicitor-date, in parentheses. The omitted treatment is the baseline no-flyer $0–10 minutes
+survey for columns (1) and (2) and the baseline no-flyer $0–5 minutes survey for columns (3) and (4). The regressions include fixed effects for the solicitor, for the date-town combination,
+for the hour of day, and for a subjective rating of home values in the block. ∗ significant at 10%; ∗∗ significant at 5%; ∗∗∗ significant at 1%
+
+Omitted treatment
+Mean of dep. var. for
+omitted treatment
+Fixed effects for solicitor,
+date-location, hour, and
+area rating
+N
+
+Opt-out ($5/5min) treatment
+
+Opt-out ($0/5min) treatment
+
+Dependent variable:
+
+Sample:
+
+Specification:
+
+TABLE III
+(CONTINUED)
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+33
+
+34
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+The 2009 treatments alsoindicate a strong response of survey
+completion with respect to duration and payment. The survey
+completion rate in treatments with flyer increases monotonically
+from 14.8% for a $0 10-minute survey to 25.5% for a $10 5-minute
+survey. The latter completion rate is remarkably high: over 50%
+of the people opening the door took the survey. There is a similar
+increase in survey completion with respect to payment in the
+opt-out treatments, though not in the treatments without flyer.
+
+The reduced-form estimates provide qualitative evidence on
+the importance of both altruism and social pressure, but they
+do not allow for a quantitative estimate of the underlying social preferences. We now estimate the model parameters structurally, combining the results of the fund-raising and the survey
+experiments.
+Set-up. We estimate the model of Section II, imposing seven
+additional assumptions, several of which are relaxed below. First,
+the private utility of consumption is linear, u(W − g) = W − g. This
+assumption is not unduly restrictive since utility should be locally
+linear in a standardexpectedutility framework. Second, the altruism parameter a comes from a normal distribution with mean μ
+and variance σ 2 censored below at 0, with the remaining probability mass assigned to a = 0. Third, the altruism function is v(gi )=
+log (Γ + gi ); the parameter Γ governs the concavity of the altruism
+function for a > 0: a large Γ implies that the marginal utility of
+a
+giving, given by (Γ +g
+, declines only slowly in the individual giving
+i)
+gi , consistent with pure altruism—the individual cares about the
+overall donation and her individual giving is only a small part.
+A small Γ instead indicates that the marginal utility diminishes
+steeply with the individual giving, more consistent with warm
+glow. Fourth, the social pressure cost S is homogeneous. Fifth,
+the level of giving gS from which on there is no social pressure
+cost is $10, the median donation. Sixth, the cost of leaving
+home
+2
+0)
+c(h) is symmetric around h0 and quadratic: c(h) = (h−h
+Seventh,
+.
+2η
+to capture the lack of giving by mail, we set θ = 0.
+To model behavior in the survey treatments, we assume a
+baseline utility s of completing a 10-minute survey for no monetary payment, with s ∼ F s , a normal distribution with parameters μs and σ s . Hence, we allow s to be negative for households
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+V. STRUCTURAL ESTIMATES
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+35
+
+max h max (s + m − t, −Ss ) −
+
+h∈[0,1]
+
+2
+
+(h − h0 )
+.
+2η
+
+Taking into account corner solutions for h∗ , this leads to a solution for the probability of being at home: h∗ = max[min[h0 +
+η max (s + m − t, −Ss ), 1], 0].
+The vector of parameters ξ that we estimate are: (i) h02008
+and h02009 —the probabilities of opening the door in the 2008
+and 2009 no-flyer treatments; (ii) r—the probability of observing
+(and remembering) the flyer; (iii) η—the responsiveness of the
+probability of opening the door to the desirability of being at
+home; (iv) μs and σ s —the mean and standard deviation of the
+distribution F s of the utility of completing a 10-minute survey; (v)
+vs —the value of one hour of time spent completing a survey; (vi)
+Ss —the social pressure associated with saying no to the survey
+request; (vii) μach and σach (where ch = LaR, Ecu)—the mean and
+standard deviation of the censored normal distribution F from
+which the altruism parameter a is drawn; (viii) Γ —the curvature
+of the altruism function, which is assumed to be the same for the
+two charities; (ix) Sch (ch = LaR, Ecu)—the social pressure cost
+associated with a donation request; the tables display the social
+pressure cost associated with giving zero, SgS = 10S.
+To estimate the model, we use a minimum-distance estimator. Denote by m (ξ) the vector of moments predicted by the theory
+as a function of the parameters ξ, and by m̂ the vector of observed
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+that dislike doing surveys without compensation. In addition,
+individuals receive utility from a payment m for completing the
+survey, and receive disutility from the time cost t of the survey,
+both of which are deterministic. Given the assumption above of
+(locally) linear utility, we add these terms to obtain the overall
+utility from completing a survey: s + m − t. The time cost t
+equals τ vs , where τ is the duration of the survey in fraction of
+hours, and vs is the value of one hour of time (see below). We
+denote by Ss the social pressure cost of saying no to a survey
+request.
+The agent undertakes the survey if s + m − t is larger than
+−Ss . The threshold ˉsm,t = −Ss − (m − t) is the lowest level of s such
+that individuals will agree to complete the survey if asked. An
+increase in the social pressure Ss or in the pay m, or a decrease in
+the cost of time t will lower the threshold and hence increase the
+probability of survey completion. The decision problem of staying
+at home conditional on receiving a notice is
+
+36
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+ch
+
+the opt-out treatment (P (OO)OO ); (iii) the unconditional probch
+ability of giving in the various charity treatments (P (G)j );
+(iv) the probability of giving an amount of money in differch
+ch
+ch
+ent ranges (P (0 < G < 10)j , P (G = gs = 10)j , P (10 < G ≤ 20)j ,
+ch
+
+ch
+
+P (20 < G ≤ 50)j , and P (G > 50)j ); (v) the probability of opening
+the door in the various survey treatments k (with varying dollar
+s
+amounts, minutes, and flyer conditional), P (H)k , run in 2008
+and in 2009; (vi) the unconditional probability of completing the
+s
+survey in the various survey treatments, P (SV)k , run in 2008 and
+in 2009; and (vii) the probability of checking the opt-out box in the
+s
+survey opt-out treatments (P (OO)k ). The corresponding empirical
+moments m̂ are estimated in a first-stage model using the same
+controls as in the main regressions, andare listedin the Appendix.
+To calculate the method of simulated moments estimate, we
+employ a common sequential quadratic programming algorithm
+(Powell 1983) implemented in Matlab as the fmincon routine. We
+impose the following constraints: Sch , Ss ≥ 0 (social pressure nonnegative), σ ch , σ s > 0 (positive standard deviation of altruism),
+h02008 , h2009
+, r ∈ [0, 1] (probabilities between 0 and 1), and η ∈
+0
+[0, 9999] (finite elasticity of home presence). We begin each run of
+the optimization routine by randomly choosing a starting point,
+drawn from a uniform distribution over the permitted parameter
+space. The algorithm determines successive search directions
+by solving a quadratic programming subproblem based on an
+16. Given the large number of moments, weighting the estimates by the inverse
+of the full variance-covariance matrix is problematic computationally.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+moments. The minimum-distance estimator chooses the param0
+eters ξˆ that minimize the distance (m (ξ) − m̂) W (m (ξ) − m̂) ,
+where W is a weighting matrix. As a weighting matrix, we use the
+diagonal of the inverse of the variance-covariance matrix. Hence,
+the estimator minimizes the sum of squared distances, weighted
+by the inverse variance of each moment.16 As a robustness check,
+we also use the identity matrix as weight. To calculate the theoretical moments, we use a numerical integration algorithm based
+on adaptive Simpson quadrature, implemented in Matlab as the
+quad routine.
+As moments m (ξ) we use the following probabilities
+(where j = F, NF, OO and ch = LaR, Ecu): (i) the probability of opening the door in the various charity treatments
+ch
+(P (H)j ); (ii) the probability of checking the opt-out box in
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+37
+
+Identification. Though the parameters are estimated jointly,
+it is possible to address the main sources of identification of individual parameters. The baseline probabilities of answering the
+door, h02008 and h2009
+, are identified by the observed probabilities
+0
+of opening the door in treatments without flyer. The probability
+of observing and remembering the flyer, r, is identified by two
+moments in the opt-out treatment: the fraction of households
+checking the opt-out box (10−12%), which equals rh0 F (a0 ), and
+the fraction opening the door. The elasticity of opening the door η
+with respect to incentives is identified by the fraction opening the
+door in the survey treatments for different payments and survey
+durations. In addition, η is identified by the amounts given in the
+different charity treatments.
+The survey parameters are identified using the survey moments. The survey completion rates for varying amounts of
+compensation identify the heterogeneity in the willingness to
+complete the survey, and hence σ s . For example, the completion
+rate of a 10-minute survey increases by 7 percentage point with a
+$10 increase in pay (Figure VII, top). This indicates that h70 = 17%
+of the population assigns negative value to doing a survey for no
+payment, but assigns positive value to completing a survey when
+receiving $10. The survey completion rate also identifies the mean
+willingness to complete a 10-minute survey, μs . The value of time
+vs is identified from the comparison between pay increases for the
+survey (from $0 to $5 to $10) and duration decreases (from 10 to 5
+minutes). Finally, the social pressure Ss is identified by the share
+of people answering the door in the survey treatments. To see
+this, consider a respondent who dislikes answering a survey and
+hence will say no and incur the social pressure cost Ss . In the flyer
+17. For the results presented here, the best estimate is achieved in about 40%
+of all runs.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+approximation of the Lagrangian of the optimization problem. To
+avoidselecting local minima, we choose the run with the minimum
+squared distance of 500 runs.17
+Under standard conditions, the minimum-distance estimator using weighting matrix W achieves asymptotic nor0
+−1
+0
+0
+−1
+mality, with estimated variance (Ĝ W Ĝ) (Ĝ WNΛ̂W Ĝ)(Ĝ W Ĝ) , where
+P
+N
+ˆ and Λ̂ ≡ Var[m(ξ)]
+ˆ (Wooldridge 2002). We
+Ĝ ≡ N −1 i=1 ∇ξ mi (ξ)
+ˆ numerically in Matlab using an adaptive finite
+calculate ∇ξ m(ξ)
+difference algorithm.
+
+38
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Estimates. Column (1) in Table IV reports the benchmark
+estimates of the parameters along with standard errors. The
+probability of being at home h0 is precisely estimated to be 41.4%
+in 2008 and in 2009. The share r of households that have read (and
+remember) the flyer is precisely estimated at 34.1%. Although
+this estimate may appear low, many households may have just
+disregarded the flyer, or a household member may have seen it,
+but not informed the person opening the door. The elasticity of
+home presence η is estimated to be 0.040 (s.e. 0.011), implying
+that the cost of increasing the probability of being at home and
+2
+answering the door by 10 percentage points is 0.1
+2η = $0.13.
+The average utility for survey completion is estimated to
+equal −$26.89, implying that, on average, households dislike
+completing 10-minute surveys for no pay. There is, however,
+significant heterogeneity (σ̂ s = $29.59), implying that a sizable
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+treatment, she will choose to be at home with probability h0 −ηrSs
+(barring corner solutions for h). Hence, knowing h0 , η, and r, it is
+possible to identify Ss .
+Turning to the charity parameters, the information on the
+amounts given identify the standard deviation of altruism σach ,
+mean altruism μach , and the curvature parameter Γ . This is clearest for donations of g > gS , where social pressure plays no role.
+Without social pressure, an individual with altruism a will give
+exactly g dollars if the marginal utility of giving, av0 (g) = (Γ a+g) ,
+equals the private marginal utility of consumption, 1, and hence
+a = Γ + g. Thus, in this example without social pressure, the
+mass of households with altruism higher than Γ + g, that is,
+1 − F(g + Γ ), has to equal the observed share of households that
+give at least g. This pins down the empirical distribution of a for
+a given Γ . Figure VIIIA illustrates the identification mechanism
+for the estimated value of Γ̂ = 10.61 and giving levels g of $0 and
+of $10. The identification of Γ depends on two sets of moments:
+the sorting in of givers of larger amounts, and the giving of
+smaller amount. The more concave the altruism function is (that
+is, smaller Γ ), the more altruistic individuals sort in because of
+higher infra-marginal utility of giving, and the more frequent
+are small donations. Finally, the social pressure Sch is identified
+from two main sources of variation: home presence in the flyer
+treatment (which, to a first approximation, equals h0 − ηrS) and
+the distribution of small giving (the higher the social pressure, the
+more likely is small giving and in particular bunching at gS ).
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+39
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+FIGURE VIII
+(A) Distribution of Altruism and Cut-offs for Giving; (B) Overall Utility of
+Fund-Raiser as Function of Altrusim
+Figure VIIIA plots the estimated distribution of the altruism parameter a > 0.
+The figure displays the threshold for giving $0 and for giving $10 in the absence
+of social pressure, given by a v’ (Γ + g.) -1  0 or α  Γ + g. Figure VIIIB
+plots the implied utility in equilibrium of a standard door-to-door fund-raiser,
+as a function of the altruism parameter a. The parameter values are from the
+benchmark minimum distance estimates (Table IV).
+
+40
+
+QUARTERLY JOURNAL OF ECONOMICS
+TABLE IV
+MINIMUM-DISTANCE ESTIMATES: BENCHMARK RESULTS
+
+Common parameters
+
+Elasticity of home
+presence (eta)
+Implied cost of altering
+prob. home by 10 pp.
+Survey parameters
+Mean utility (in $) of doing
+10-minute survey
+Std. dev. of utility of
+doing survey
+Value of time of
+one-hour survey
+Social pressure cost if saying
+no to survey
+Charity parameters
+Share with zero altruism a
+Mean altruism a,
+conditional on a>0
+Std. dev. of altruism a,
+conditional on a>0
+Curvature of altruism
+function
+Social pressure cost of
+giving 0 in person
+SSE
+
+No social pressure
+(2)
+
+0.414
+(0.004)
+0.414
+(0.007)
+0.341
+(0.012)
+0.040
+(0.011)
+0.126
+
+0.383
+(0.003)
+0.392
+(0.008)
+0.426
+(0.017)
+0.008
+(0.003)
+0.656
+
+−26.863
+(4.204)
+29.591
+(5.129)
+80.656
+(22.762)
+6.197
+(1.492)
+
+−17.203
+(3.466)
+28.347
+(5.374)
+83.039
+(24.898)
+0.000
+(—)
+
+La Rabida
+ECU
+0.753
+0.763
+(0.048)
+(0.071)
+12.786
+9.659
+(1.444)
+(1.485)
+10.545
+7.994
+(1.038)
+(1.103)
+10.606
+(4.466)
+3.751
+1.438
+(0.581)
+(0.784)
+
+La Rabida
+ECU
+0.723
+0.747
+(0.01)
+(0.024)
+14.167
+10.272
+(0.452)
+(0.876)
+11.569
+8.455
+(0.389)
+(0.773)
+10.606
+(—)
+0
+0
+(—)
+(—)
+
+86.618
+
+366.620
+
+Notes. Estimates from minimum-distance estimator with moments listed in the Appendix and weights
+given by inverse of diagonal of variance-covariance matrix. The estimation assumes a normal distribution
+censored below at 0, with the censored mass assigned to zero altruism (a=0). Notice that the share with zero
+altruism is not a separate parameter, but it is the share implied by the censoring of a at a=0. In column
+(2) we estimate the model fixing the social pressure parameters to 0; in addition, since the curvature of the
+altruism function is very poorly identifed, we fix it at the same value as in column (1). Standard errors are in
+parentheses. SSE reports the weighted sum of squared errors.
+
+share of respondents like doing surveys even for no pay. The
+value of time for one hour of survey completion is estimated to
+be $80.66, which corresponds approximately to the value of time
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Prob. of home presence
+(h) year 2008
+Prob. of home presence
+(h) year 2009
+Prob. of observing flyer (r)
+
+Benchmark estimates
+(1)
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+41
+
+18. At an average income of about $100,000 per year, the implied hourly wage
+is $50.
+g
+19. For a < 0, we assume v(a) = eGi .
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+for the households in the wealthy neighborhoods we reached. 18
+Finally, the social pressure cost of turning down a survey request,
+Ss , is estimated to be $6.20, a sizable magnitude.
+Turning to the charity parameters, we estimate that about
+75% of households have no altruism for either charity and that,
+conditional on a positive altruism, the mean altruism is higher
+for the La Rabida charity (12.79) than for the ECU charity
+(9.66). Figure VIIIA plots the implied distribution of the altruism
+parameter a for a > 0 for La Rabida and ECU. The estimated Γ̂
+is small, implying a highly concave altruism function, consistent
+with warm-glow rather than with pure altruism.
+The social pressure parameters are quite precisely estimated,
+and the data reject the null hypothesis of no social pressure cost.
+Turning down a door-to-door giving request is associated with a
+social pressure cost of $3.75 (s.e. $0.58) for La Rabida and $1.44
+(s.e. $0.78) for ECU. That is, it is psychologically more costly to
+say no to a well-liked local nonprofit than to a lesser-known outof-state charity. The sizable social pressure cost suggests that the
+welfare implications of door-to-door campaigns can be large, as we
+explore below.
+While the model with social pressure does a nice job of fitting
+the observed moments (Appendix), the same cannot be said of
+a model with no social pressure. In column (2) of Table IV we
+estimate the parameters forcing S = 0 (and setting Γ , which is
+essentially unidentified, to the value in column (1)). The fit is
+extremely poor, with the mean squared error 4.5 times larger.
+Missing social pressure, the model cannot explain opting out
+nor the decrease in the share answering the door in the flyer
+treatment.
+In Table V we explore the robustness of the estimates to
+alternative model specifications with respect to the distribution
+of altruism, the cost function, and the heterogeneity of social
+pressure. We report the weighted sum of squared errors to allow
+for comparisons among the models. Allowing for negative values
+of altruism (spite) toward the charity with an untruncated normal distribution (column (2)) yields nearly identical estimates
+to the benchmark ones (column (1)).19 Given that social pressure is estimated to be substantially lower than $10, any level
+
+−26.924
+(4.227)
+29.662
+(5.155)
+6.205
+(1.495)
+
+Survey parameters
+Mean utility (in $) of
+−26.863
+doing 10-minute survey
+(4.204)
+Std. dev. of utility of doing
+29.591
+10-minute survey
+(5.129)
+Social pressure cost
+6.197
+of saying no to survey
+(1.492)
+
+Elasticity of home
+presence (eta)
+Probability of type with
+no social preferences (p)
+
+0.342
+(0.012)
+0.040
+(0.011)
+
+−27.771
+(4.332)
+30.166
+(5.296)
+6.990
+(1.416)
+
+0.340
+(0.012)
+0.034
+(0.008)
+
+−26.163
+(4.072)
+29.361
+(5.039)
+5.344
+(1.333)
+
+0.345
+(0.012)
+0.047
+(0.013)
+
+Normal distr. of Exponential distr. Lognormal distr.
+altruism, no
+altruism, allows
+of altruism,
+mass at 0
+of mass at 0
+allows mass at 0
+(2)
+(3)
+(4)
+
+−23.049
+(5.072)
+27.103
+(5.169)
+7.836
+(2.123)
+
+0.412
+(0.079)
+0.033
+(0.009)
+0.142
+(0.13)
+
+0.340
+(0.012)
+0.340 down
+0.055 up
+(0.011)
+(0.051)
+
+−26.947
+(4.152)
+28.947
+(4.927)
+6.550
+(1.725)
+
+Benchmark
+altr., allows for
+no social pref.
+(6)
+
+Benchmark
+asymmetric altruism,
+sorting cost
+(5)
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+0.341
+(0.012)
+0.040
+(0.011)
+
+Prob. observing flyer (r)
+
+Common parameters
+
+Benchmark
+estimate
+(1)
+
+TABLE V
+MINIMUM DISTANCE ESTIMATES: ROBUSTNESS
+
+42
+QUARTERLY JOURNAL OF ECONOMICS
+
+La
+Rabida
+
+La
+Rabida
+
+Lognormal distr.
+of altruism,
+allows mass at 0
+(4)
+
+Benchmark altruism,
+asymmetric
+sorting cost
+(5)
+
+Benchmark altr.,
+allows for no
+social pref.
+(6)
+
+86.623
+
+−
+
+86.618
+
+−
+
+ECU
+
+12.931
+9.789
+(1.503)
+(1.551)
+10.647
+8.080
+(1.076)
+(1.141)
+11.066
+(4.675)
+3.704
+1.413
+(0.596)
+(0.772)
+
+ECU
+
+0.753
+0.763
+(0.048)
+(0.071)
+12.786
+9.659
+(1.444)
+(1.485)
+10.545
+7.994
+(1.038)
+(1.103)
+10.606
+(4.466)
+3.751
+1.438
+(0.581)
+(0.784)
+
+La
+Rabida
+
+−0.708
+(0.411)
+0.528
+(0.097)
+
+90.715
+
+0.807
+0.846
+(0.026)
+(0.035)
+9.838
+7.103
+(0.541)
+(0.929)
+9.838
+7.103
+0.541
+0.929
+4.033
+(2.116)
+4.996
+2.358
+(0.453)
+(1.032)
+
+ECU
+
+ECU
+
+−0.426
+(0.3)
+0.520
+(0.098)
+
+−0.874
+(0.255)
+0.507
+(0.04)
+
+86.233
+
+ECU
+
+86.520
+
+La
+Rabida
+
+0.743
+0.744
+(0.052)
+(0.08)
+13.118
+10.065
+(1.689)
+(1.718)
+10.631
+8.163
+(1.139)
+(1.177)
+11.667
+(4.956)
+3.667
+1.326
+(0.597)
+(0.762)
+
+ECU
+
+0.747
+(0.104)
+9.868
+(1.777)
+8.122
+(1.251)
+11.612
+(6.043)
+3.688
+1.376
+(0.678)
+(0.803)
+
+0.745
+(0.06)
+13.056
+(1.935)
+10.741
+(1.394)
+
+La
+Rabida
+
+−0.700 −0.213 −1.101
+(0.082)
+(0.155)
+(0.164)
+0.524
+0.628
+0.507
+(0.053)
+(0.105)
+(0.05)
+
+86.653
+
+0.812
+0.880
+(0.01)
+(0.012)
+26.482
+26.601
+(1.314)
+(1.11)
+10.710
+6.913
+(0.698)
+(1.183)
+20.976
+(0.869)
+2.420
+0.748
+(0.19)
+(0.391)
+
+La
+Rabida
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Welfare and decomposition of giving
+Average welfare per house. −1.102 −0.442 −1.093 −0.435 −1.330
+of fund-raiser (in $)
+(0.145)
+(0.301)
+(0.15)
+(0.297)
+(0.128)
+Share of givers who seek
+0.518
+0.528
+0.514
+0.526
+0.543
+the fund-raiser
+(0.041)
+(0.095)
+(0.041)
+(0.095)
+(0.056)
+
+SSE
+
+Mean altruism a,
+conditional on a>0
+Std. dev. of altruism a,
+conditional on a>0
+Curvature of altruism
+function
+Social pressure cost
+of giving 0 in person
+
+Share with zero altruism
+
+Charity parameters
+
+Notes. Estimates from minimum-distance estimator with moments listed in the Appendix and weights given by inverse of diagonal of variance-covariance matrix. Benchmark
+estimates in column (1) are from Table IV. Estimates in column (2) assume a (nontruncated) normal distribution for altruism a with no mass at a=0. Estimates in column (3) and (4)
+assume, respectively, an exponential distribution and a log-normal distribution for altruism a as well as a mass at a=0. Estimates in column (5) allow for a different elasticity eta of
+the cost function for increases and decreases in home presence. Estimates in column (6) allow for a share p of the population that have no altruism, nor social pressure. These agents
+do not give to charity and do not complete the survey. In column (6), the share with zero altruism includes the share with no social preferences. Standard errors are in parentheses.
+SSE reports the Weighted Sum of Squared Errors.
+
+Exponential distr.
+altruism, allows
+of mass at 0
+(3)
+
+Normal distr. of
+altruism, no
+mass at 0
+(2)
+
+43
+
+−0.323
+(0.262)
+0.529
+(0.096)
+
+Benchmark
+estimates
+(1)
+
+TABLE V
+(CONTINUED)
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+44
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+The estimates of η+ and η− are close, even though η+ is imprecisely estimated given that only the most favorable surveys
+($10 payment for 5 minutes) increase on average the presence at
+home. As a result, the estimates of the other parameters hardly
+change.
+In column (6) we remove the assumption of homogeneous
+social pressure and allow for a simple form of heterogeneity.
+We assume that a proportion p of households has no social
+preferences, that is, does not exhibit altruism (a = 0) and does
+not respond to social pressure (S = 0), and hence neither gives
+to charity nor completes surveys.21 The remaining portion 1 − p
+is described by the benchmark model. The data provide some
+support for this type of heterogeneity, estimating a share p̂ of
+0.142 (s.e. 0.13). In turn, this raises somewhat the estimated
+share of households that observed the flyer r̂ up to 0.41 and
+lowers the elasticity of the response η̂. Despite these changes, the
+20. The convergence properties for the lognormal distribution are not as
+good, presumably because of one additional parameter to be estimated in the
+distribution of altruism (μ, σ, and z), relative to the censored normal (μ and σ)
+and the exponential (λ and z) distribution.
+21. We assume a deterministic value for doing the survey equal to the μS of the
+social-preference types. Given the estimated values, these types will not complete
+a 5-minute survey even for pay of $10.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+of altruism that is sufficiently small, or negative, is associated
+with identical behavior—turning down the charity and avoidance.
+Hence, the shape of the left tail of the altruism distribution is not
+identified and, importantly, does not affect the estimates of the
+other parameters. Next, we reestimate the model with alternative
+assumptions for the distributions of altruism: in column (3) we
+assume a negative exponential distribution of a (with mean λ1 )
+with additional probability mass z at 0; the results are very
+similar to the ones in the benchmark model. In column (4) we
+assume a log-normal distribution (with parameters μ and σ) and
+an added probability mass z at 0. The results are qualitatively
+similar, but with some quantitative differences, such as lower
+social pressure estimates.20
+In column (5) we remove the assumption of a symmetric cost
+function and allow for the cost of avoidance to differ from the cost
+of sorting in:
+(h−h0 )2
+for h ≥ h0
+2η
+c (h) = (h−h+ )2
+0
+for h < h0 .
+2η−
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+45
+
+Welfare. We evaluate the welfare associated with a standard
+no-flyer door-to-door drive. Figure VIIIB plots the utility for a
+household that opens the door (utility is 0 for the other households) as a function of the altruism a. The utility is negative
+for households with sufficiently low altruism a: these households
+refuse the solicitation and pay the cost 10S. Households with
+positive but small altruism give small amounts, but still experience negative utility because they give more than they prefer
+22. With coarser giving moments (as in column (3)), however, the charity
+moments cannot reliably identify η, indicating that the identification comes from
+the amount given for small magnitudes and the bunching at $10.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+social pressure parameters for the charity hardly move, while the
+estimated social pressure for survey completion increases. The
+added degree of freedom improves to a limited extent the fit of the
+model, in particular regarding the giving moments in the opt-out
+treatments.
+We present further robustness checks for the benchmark distribution of altruism (censored normal, Online Appendix Table 3)
+and for the exponential distribution (Online Appendix Table 4).
+Using more detailed information on the quantity given (that
+is, the moments for giving (0, 3], (3, 7], (7, 10], (10, 20], (20, 50],
+50+, column (2)) has a limited impact on the results. Using a
+rougher set of giving moments, that does not account for bunching
+at $10, ((0, 10], (10, 20], (20, 50], 50+, column (3)) also produces
+similar point estimates, but larger standard errors, including on
+the social pressure parameters. Not surprisingly, the information
+contained in the exact amount given, and especially the bunching
+at $10, helps provide identification. In columns (4) and (5) we
+use, respectively, only the charity moments and only the survey
+moments. The survey moments suffice to identify both the survey
+parameters and the common parameters. The charity moments
+identify the charity parameters, with estimates similar to the
+benchmark ones in column (1). This indicates that the survey
+moments are useful, but not necessary to identify η.22 Importantly, the two sets of estimates—using the charity moments
+and using the survey moments—yield very similar values for
+the common parameters such as η and r, an important validation of the model. Finally, in column (6) we show that the estimates are not sensitive to using the identity matrix as weighting
+matrix.
+
+46
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+23. For larger values of altruism, the utility level for La Rabida and ECU is the
+same, since the only difference between the twocharities is the social pressure, and
+social pressure does not affect larger donations.
+24. The effect exclusively on the households at home is larger by a factor of
+1
+.
+0.414
+25. Notice that these are the estimated amounts raised according to the model,
+and differ somewhat from the observed ones (Table II, column (9)).
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+and because they still incur some social pressure cost. For higher
+altruism, the utility of giving becomes positive. 23
+On net, a fund-raising campaign can either increase
+or decrease welfare of the solicitees, depending on which
+force dominates. Given the estimated distribution of altruism
+(Figure VIIIA), our fund-raiser lowers the utility for a large
+majority (the nondonors and the unhappy donors) while raising
+the welfare of only a small minority (the happy donors). Hence,
+the welfare effect is substantially negative once we average over
+all households contacted, including the ones not at home (whose
+welfare effect is 0): −$1.10 for La Rabida and smaller but still
+negative (−$0.44) for ECU (Panel A of Table VI).24 The welfare
+effect is more negative for the more liked charity, because this
+charity induces higher social pressure to give. The finding of
+negative welfare effects is robust to all the different specifications
+(bottom row of Table V and Online Appendix Tables 3 and 4), and
+is smaller when allowing for types without social preferences. Our
+fund-raising drives are on average welfare-diminishing for the
+solicitees.
+These welfare estimates do not account for the welfare of
+the recipient. For La Rabida, the estimated money raised per
+household contacted is $0.72, which amounts to $0.24 on net after
+taking into account a solicitor wage of $9.50 per hour (visiting 20
+households per hour).25 Hence, the money raised needs to be used
+very efficiently to generate positive societal welfare. For ECU, the
+net money raised is negative, implying a negative societal welfare
+effect.
+The introduction of flyers changes the welfare implications.
+Flyers give the opportunity to sort and hence temper the negative
+welfare implications for the solicitees. Counterintuitively, flyers
+can also increase the amount of money raised. Even though sorting out is more frequent than sorting in, the households sorting
+in contribute substantially higher amounts. This generates, in
+our estimates, a small but positive effect on the amount given.
+After taking into account the added cost of hanging the flyers
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+47
+
+TABLE VI
+WELFARE AND DECOMPOSITION OF GIVING
+Specification:
+Charity:
+
+Benchmark estimates
+ECU charity
+(2)
+
+−1.102 (0.145)
+0.719 (0.035)
+0.244 (0.035)
+
+−0.442 (0.301)
+0.333 (0.046)
+−0.142 (0.046)
+
+−0.952 (0.122)
+0.860 (0.044)
+0.249 (0.044)
+
+−0.410 (0.288)
+0.389 (0.057)
+−0.221 (0.057)
+
+−0.564 (0.077)
+0.808 (0.045)
+0.292 (0.045)
+
+−0.234 (0.201)
+0.370 (0.055)
+−0.145 (0.055)
+
+Panel B. Decomposition of giving in standard (no-flyer) fund-raiser
+Share of givers who would give
+0.745
+without social pressure (S = 0)
+(0.056)
+Share of amount that would be given
+0.726
+without social pressure (S = 0)
+(0.03)
+Share of givers who seek
+0.518
+the fund-raiser (happy givers)
+(0.041)
+
+0.848
+(0.079)
+0.816
+(0.093)
+0.528
+(0.095)
+
+Panel C. Sorting in fund-raiser with flyer
+Increase in answering the door due to
+altruism (sorting in)
+Decrease in answering the door due to
+social pressure (sorting out)
+
+0.003
+(0.001)
+−0.018
+(0.01)
+
+0.007
+(0.001)
+−0.045
+(0.01)
+
+Note. Welfare, decomposition, and sorting are computed using estimates from minimum-distance
+estimator with weights given by inverse of diagonal of variance-covariance matrix (column (1) in Table IV).
+The amount of money raised refers to the predicted amount given the estimated parameters. To compute
+the salary cost of the solicitor we assume an hourly wage of $9.5 and 20 households reached in one hour
+of fund-raising (25 in the opt-out treatment). We also assume that a solicitor flyers 70 households in one
+hour.
+
+(70 households per hour), the net amount raised is about the
+same as in the baseline treatment in our estimates. A flyer with
+opt-out is even more beneficial for the welfare of the households
+visited, since the opt-out option eliminates the cost of sorting
+out (conditional on seeing the flyer), and still makes it possible
+to sort in. In addition, the opt-out option can increase net fundraising because it increases the number of households the solicitor can approach per hour. Hence, providing information about
+an upcoming fund-raiser and allowing solicitees to sort out can
+be a win-win solution for both the charity and the households
+visited.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Panel A. Welfare
+Welfare in standard (no-flyer) fund-raiser
+Welfare per household contacted (in $)
+Money raised per household contacted
+Money raised per household, net of salary
+Welfare in fund-raiser with flyer
+Welfare per household contacted (in $)
+Money raised per household contacted
+Money raised per household, net of salary
+Welfare in fund-raiser with opt-out
+Welfare per household contacted (in $)
+Money raised per household contacted
+Money raised per household, net of salary
+
+Minimum-distance
+La Rabida charity
+(1)
+
+48
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+VI. ALTERNATIVE INTERPRETATIONS
+We discuss four alternative interpretations of our empirical
+results.
+Signaling of Quality of the Charity. Door-hangers are unusual in fund-raising campaigns. It is possible that they were
+taken as a signal of the quality of the charity, even though we
+made sure that they did not convey any different information than
+presented in person. Toexplain our results, the door-hangers with
+a Do-Not-Disturb box must have sent a more negative signal than
+the standard door-hangers. Perhaps, the opt-out box signaled that
+it was acceptable to avoid the fund-raiser. This explanation, however, does not obviously explain why the opt-out box is associated
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Decomposition of Giving and Sorting. We decompose the
+observedgiving intogiving due toaltruism andgiving due tosocial
+pressure, an exercise that is not possible using only the reducedform results. For the no-flyer treatment, which is representative of
+a standard door-to-door campaign, we compute the counterfactual
+giving with social pressure set to 0, holding the other parameters
+at their benchmark estimates (Panel B of Table VI). Interestingly,
+74.5% of the La Rabida donors and84.8% of the ECU donors would
+give even without social pressure. These measures, however,
+neglect a second effect of social pressure: a respondent who would
+happily give, say, $2 in the absence of social pressure may feel
+compelled by social pressure to instead give $5. To avoid this, she
+may sort out.
+Taking into account these distortions, the share of givers who
+assign positive overall utility to the fund-raiser is 51.8% for La
+Rabida and 52.8% for ECU. This result—that about half of the
+observeddonors are not happy givers—is very robust (bottom rows
+in Table V and Online Appendix Tables 3 and 4).
+Next, we use the model to estimate the amount of sorting
+into, and out of, answering the door in the flyer treatment (Panel
+B of Table VI). Notice that the reduced-form estimates only
+identify the sum of the two forces. Sorting in due to altruism is
+limited, contributing on average to an increase in the probability
+of answering the door of only 0.7% for La Rabida and 0.3% for
+ECU. Sorting out, instead, is substantial, equal to 4.5% for La
+Rabida and 1.8% for ECU. (There is less sorting out for the lessliked charity because the estimated social pressure cost is lower).
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+49
+
+with a reduction in small donations, but not of large donations.
+A change in perceived quality would presumably affect the whole
+distribution of giving.
+
+Dislike of Interaction with the Solicitor. A fund-raising visit
+may lower the welfare of the solicitees even in the absence of
+social pressure. Consider individuals who are altruistic toward
+a charity but dislike interacting with solicitors, perhaps because
+of the time involved. In a standard fund-raising campaign, these
+individuals, faced with a surprise home visit, give to the solicitor.
+In a campaign with a flyer, though, the individuals may avoid
+the solicitor, or check the opt-out box, if the disutility from the
+personal interaction is larger than the utility from giving. Hence,
+this interpretation can explain the observed patterns of door
+opening and giving. It even predicts that the opt-out effect is
+concentrated among small giving, since a distaste for interaction
+is more likely to outweigh the utility from giving a small amount.
+This explanation shares several features with social pressure,
+including the negative welfare implications of door-to-door campaigns. A key difference, however, separates the twoexplanations:
+An altruistic donor who dislikes solicitors, when alerted of a
+campaign by a flyer, should seek alternative ways to give that
+do not involve personal interaction, such as via mail or Internet.
+Instead, we observe no such substitution, as predicted by social
+pressure.
+Time Inconsistency. Our estimates use the sorting decision to
+answer the door toestimate the preferences for giving. If the agent
+is time-inconsistent—for example, likes giving when in a warm
+state (e.g., when in a person-to-person interaction), but not in a
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Self- and Other-Signaling. Our model of social pressure assumes that individuals incur disutility when being ungenerous in
+person, but not when avoiding a solicitor. A related explanation
+is that individuals give to (costly) signal to themselves or to
+others (the solicitor) that they are generous types (Bodner and
+Prelec 2003; Benabou and Tirole 2006; Grossman 2010). To the
+extent that avoiding a fund-raiser does not sendthe same negative
+signal as an outright no, this explanation is very similar to the
+one we propose. However, this explanation does not explain as
+easily why so many households made use of the opt-out box,
+which is a clear signal to the solicitor, as well as possibly to the
+neighbors.
+
+50
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+cold state (e.g., when reading a flyer)— we estimate the utility of
+the ex ante self reading the flyer.
+VII. CONCLUSION
+
+26. The campaigns may still improve welfare overall if the charities spend the
+money very effectively.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Are donations welfare-enhancing for the giver? We develop
+a theoretical framework and an empirical design to measure two
+reasons for giving: altruism and social pressure. As an illustration
+of our methodology, we present a fieldexperiment that involves solicitors approaching thousands of households. We vary the extent
+to which the households are informed of the fund-raising drive
+ex ante and also conduct a complementary survey that varies
+cash payments. This design allows us to structurally estimate the
+parameters of interest.
+We find evidence that both altruism and social pressure affect
+door-to-door charitable giving. We estimate that about half of
+donors would prefer not to be contacted by the fund-raiser either
+because they would prefer not to donate, or because they would
+prefer to donate less. We estimate a social pressure cost of turning
+down a giving request of $1 to$4, depending on the type of charity.
+As a result, the estimated average welfare effect of the door-todoor campaigns in our sample is negative.
+If we take our fund-raising campaigns to be representative
+of door-to-door solicitation, our results indicate that unsolicited
+campaigns may lead to utility losses equivalent to hundreds
+of millions of dollars for the givers.26 These results have implications for the optimal taxation regime of charitable giving,
+as they suggest that high-social-pressure solicitations may be
+welfare-decreasing for the giver. Although this could be used as
+an argument to introduce a do-not-solicit or do-not-call list for
+charities, our findings suggest a simple alternative: to provide
+an opportunity to the households to sort or, even better, to
+opt out.
+In this article we focus on only one form of giving—door-todoor fund-raising—to showcase our approach. We conjecture that
+our results are likely to extend to other high-pressure approaches
+to raise money, such as phone-athons, charity banquets, auctions,
+lotteries, and so on, but likely have less explanatory power with
+lower-pressure approaches, such as mail solicitations.
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+51
+
+VIII. MATHEMATICAL APPENDIX
+0
+
+s
+
+)
+ˉ ≡ vu0 (g(W−g
+We define the three thresholds a
+,
+s ,G
+−i )
+
+a (S) ≡
+
+a (S) ≡
+
+ u0 (W−gs )−S
+ v+0 (gs ,G )
+−i
+
+ u0 (W−gs )−S
+v−0 (gs ,G
+
+−i )
+
+ 0
+ vu+0(W)−S
+(0,G )
+−i
+
+ u0 (W)−S
+v−0 (0,G
+
+−i )
+
+if u0 (W − gs ) ≥ S
+if u0 (W − gs ) < S
+if u0 (W) ≥ S
+if u0 (W) < S
+
+,
+
+,
+
+ˉ = a (0). The threshold
+ˉ ≥ a (S) ≥ a (S) for a given S and a
+with a
+ˉ is always positive, while a (S) and a (S) can be negative for
+a
+high S.
+LEMMA 1A (Giving in Person) For any a,there is a unique optimal
+donation g∗ (a, S), conditional on being at home, which is
+weakly increasing in a and takes the form: (i) g∗ (a, S) = 0 for
+a ≤ a (S) ; (ii) 0 < g∗ (a, S) < gs for a (S) < a < a (S) ; (iii)
+ˉ.
+ˉ ; (iv) g∗ (a, S) > gs for a > a
+g∗ (a, S) = gs for a (S) ≤ a ≤ a
+Define am ≡ u0 (W)/θv+0 (0; G−i ), with am ≥ a (S) for all S.
+
+LEMMA 1B (Giving via Mail) For any a and provided 0 < θ < 1,
+there is a unique optimal donation via mail g ∗m (a) (conditional on not being at home), which is weakly increasing in
+a and takes the form: (i) g∗m (a) = 0 for a ≤ am ; (ii) g∗m (a) > 0
+for a > am ; (iii) for a ≤ a (S) , g∗ (a; S) = g∗m (a) = 0 and for
+a > a (S) , g∗ (a; S) > θg∗m (a). If θ = 0, g∗m (a) = 0 for all a.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+In addition to presenting novel empirical findings, this article
+alsodistinguishes itself because of its methodological contribution
+of linking tightly a behavioral model with a field experiment
+designed to test its predictions. We first developed the theoretical model, which then informed the nature of the experimental
+treatments, and the experiments in turn informed the parameters
+of the model. Most of the extant literature, instead, overlays the
+structural model on experimental data already gathered. Our
+approach enables parameter estimates and welfare evaluations
+that complement the reduced-form evidence. We hope that future
+research builds on this strategy to provide more evidence on
+behavioral phenomena.
+
+52
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Lemma 2 characterizes the solution for h∗ as a function of the
+parameters a and S.
+
+The next lemma refers to a0 (S) from Lemma 2. We break ties
+by assuming that if the agent is indifferent between h=h0 and
+h = 0, she does not opt out, that is, h = h0 .
+LEMMA 3 (Opting Out). If S = 0, the agent never opts out. If S > 0,
+the agent opts out for sufficiently low altruism, a < a0 (S).
+Probabilities of Presence at Home and of Giving. Lemmas 2
+and 3 implies that the probabilities of presence at home are
+P(H)NF = h0 ,
+P(H)F = (1 − r)h0 + r
+P(H)OO = (1 − r)h0 + r
+
+Z ∞
+
+−∞
+Z ∞
+aOO
+
+h∗ (a, S)dF,
+h∗ (a, S)dF,
+
+where aOO = −∞ for S = 0 and aOO = a0 (S) for S > 0.
+Lemma 1Aa implies that the probabilities of giving in person are
+P(G)NF = [1 − F(a (S) )]h0
+P(G)F = (1 − r)[1 − F(a (S) )]h0 + r
+
+Z ∞
+
+h∗ (a, S)dF
+
+P(G)OO = (1 − r)[1 − F(a (S) )]h0 + r
+
+Z ∞
+
+h∗ (a, S)dF.
+
+a(S)
+
+a0 (S)
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+LEMMA 2 (Presence at Home) For any a, there is a unique optimal
+probability of being at home h∗ (a, S) that is weakly increasing
+in a. For S = 0, h∗ (a, 0) = h0 for a ≤ a (0) and h∗ (a, 0) > h0
+ˉ)
+for a > a (0). For S > 0, there is a unique a0 (S) ∈ (a (S) , a
+∗
+∗
+such that h (a, S) < h0 for a < a0 (S) , h (a0 (S) , S) = h0 , and
+h∗ (a, S) > h0 for a > a0 (S).
+
+Panel A: Fund-raising
+moments
+P(Home) no flyer
+P(Home) flyer
+P(Home) opt-out
+P(opt out) opt-out
+P(Giving) no flyer
+P(Giving) flyer
+P(Giving) opt-out
+P(0<Giving<10), no flyer
+P(0<Giving<10), flyer
+P(0<Giving<10), opt-out
+P(Giving=10), no flyer
+P(Giving=10), flyer
+P(Giving=10), opt-out
+P(10<Giving<=20), no flyer
+P(10<Giving<=20), flyer
+P(10<Giving<=20), opt-out
+P(20<Giving<=50), no flyer
+P(20<Giving<=50), flyer
+P(20<Giving<=50), opt-out
+P(Giving>50), no flyer
+P(Giving>50), flyer
+P(Giving>50), opt-out
+N
+
+Charity
+
+(2)
+0.4137
+0.3757
+0.2917
+0.1295
+0.0665
+0.0711
+0.0629
+0.0251
+0.0227
+0.0166
+0.0205
+0.0211
+0.0189
+0.0135
+0.0167
+0.0167
+0.0072
+0.0106
+0.0106
+0.0001
+0.0001
+0.0001
+N = 4962
+
+0.4130
+0.3733
+0.3070
+0.1202
+0.0717
+0.0699
+0.0515
+0.0245
+0.0233
+0.0163
+0.0216
+0.0200
+0.0138
+0.0137
+0.0186
+0.0083
+0.0103
+0.0078
+0.0138
+0.0016
+0.0002
+−0.0006
+N = 4962
+
+Estimated
+moments
+
+0.4171
+0.3806
+0.3281
+0.0988
+0.0455
+0.0461
+0.0272
+0.0303
+0.0268
+0.0118
+0.0051
+0.0041
+0.0014
+0.0084
+0.0125
+0.0136
+0.0020
+0.0030
+0.0008
+−0.0003
+−0.0002
+−0.0005
+N = 2706
+
+(3)
+
+Empirical
+moments
+
+Minimum-distance estimates
+
+(1)
+
+Empirical
+moments
+
+La Rabida charity
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Specification:
+
+APPENDIX
+EMPIRICAL MOMENTS AND ESTIMATED MOMENTS
+
+ECU charity
+
+0.4137
+0.3989
+0.2835
+0.1336
+0.0423
+0.0451
+0.0389
+0.0271
+0.0266
+0.0204
+0.0051
+0.0056
+0.0056
+0.0081
+0.0099
+0.0099
+0.0021
+0.0030
+0.0030
+0.0000
+0.0000
+0.0000
+N = 2706
+
+(4)
+
+Estimated
+moments
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+53
+
+0.4137
+0.3725
+0.3891
+0.3984
+N = 1865
+
+0.4138
+0.3576
+0.4118
+0.4033
+N = 1865
+
+0.4009
+0.3913
+0.3812
+0.3816
+0.4038
+0.4377
+0.3427
+0.3637
+N = 10035
+
+Moments 2009
+No flyer $0, 5min
+No flyer $5, 5min
+Flyer $0, 10min
+Flyer $0, 5min
+Flyer $5, 5min
+Flyer $10, 5min
+Opt-out $0, 5min
+Opt-out $5, 5min
+N
+0.1486
+0.1246
+0.1478
+0.1729
+0.2035
+0.2558
+0.1460
+0.1745
+N = 10035
+
+0.1025
+0.1025
+0.1819
+0.1720
+N = 1865
+
+(3)
+
+Empirical
+moments
+
+0.1318
+0.1576
+0.1229
+0.1646
+0.1996
+0.2373
+0.1576
+0.1920
+N = 10035
+
+0.1003
+0.1230
+0.1646
+0.1873
+N = 1865
+
+(4)
+
+Estimated
+moments
+
+P(Do survey)
+
+Estimated
+moments
+(6)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+0.1061
+0.0982
+N = 2704
+
+(5)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+0.1336
+0.0846
+N = 2704
+
+P(Opt-out)
+Empirical
+moments
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Notes. The table presents the empirical moments and the estimated moments from a minimum-distance estimator. The empirical moments are obtained as regression estimates
+after controlling for the randomization fixed effects and as such can occasionally be negative. The minimum-distance estimates are in Table IV, column (1).
+
+0.4135
+0.4135
+0.3723
+0.3889
+0.4033
+0.4193
+0.3432
+0.3605
+N = 10035
+
+(2)
+
+(1)
+
+Estimated
+moments
+
+Panel B: Survey moments
+Moments 2008
+No flyer $0, 10min
+Flyer $0, 10min
+Flyer $0, 5min
+Flyer $10, 10min
+N
+
+Empirical
+moments
+
+P(Home)
+
+APPENDIX
+(CONTINUED)
+
+54
+QUARTERLY JOURNAL OF ECONOMICS
+
+TESTING FOR ALTRUISM AND SOCIAL PRESSURE
+
+55
+
+UNIVERSITY OF CALIFORNIA, BERKELEY, AND NATIONAL BUREAU
+OF ECONOMIC RESEARCH
+UNIVERSITY OF CHICAGO AND NATIONAL BUREAU OF ECONOMIC
+RESEARCH
+UNIVERSITY OF CALIFORNIA, BERKELEY, AND NATIONAL BUREAU
+OF ECONOMIC RESEARCH
+
+An Online Appendix for this article can be found at QJE
+online (qje.oxfordjournals.org).
+REFERENCES
+Akerlof, George A., and Rachel E. Kranton, “Economics and Identity,” Quarterly
+Journal of Economics, 115 (2000), 715–753.
+Andreoni, James. “Giving with Impure Altruism: Applications to Charity and
+Ricardian Equivalence.” Journal of Political Economy, 97(1989), 1447–1458.
+———, “Impure Altruism and Donations to Public Goods: A Theory of Warm-Glow
+Giving.” The Economic Journal, 100(1990), 464–477.
+———, “Philanthropy.” In Handbook of Giving, Altruism, and Reciprocity, SergeChristophe Kolm and Jean Mercier Ythier, eds., 1201–1265. (Amsterdam:
+Elsevier/North-Holland, 2006).
+Ariely, Dan, Anat Bracha, and Stephan Meier, “Doing Good or Doing Well? Image
+Motivation and Monetary Incentives in Behaving Prosocially.” American
+Economic Review, 99(2009), 544–555.
+Asch, Solomon E., “Effects of Group Pressure Upon the Modification and Distortion
+of Judgment.” in Groups, leadership, and men. H. Guetzkow, ed. (Pittsburgh:
+Carnegie Press, 1951).
+Becker, Gary S., “A Theory of Social Interactions” Journal of Political Economy,
+82(1974), 1063–1093.
+Benabou, Roland, and Jean Tirole, “Incentives and Prosocial Behavior,” American
+Economic Review, 96(2006), 1652–1678.
+Bodner, R. and Drazen Prelec, “The Diagnostic Value of Actions in a Self-Signaling
+Model,” in The Psychology of Economic Decisions, Vol.1, I. Brocas and
+J.D. Carrillo, eds., (Oxford: Oxford University Press, 2003).
+Card, David, Stefano DellaVigna, and Ulrike Malmendier, “The Role of Theory in
+Field Experiments”. Journal of Economic Perspectives, 25(2011), 39-62.
+Charness, Gary, and Matthew Rabin, “Understanding Social Preferences with
+Simple Tests,” Quarterly Journal of Economics 117(2002), 817–869.
+Conlin, Michael, Ted O’Donoghue, and Timothy J. Vogelsang, “Projection Bias in
+Catalog Orders,” American Economic Review, 97(2007), 1217–1249.
+Croson, Rachel, and Jen Shang, “A Field Experiment in Charitable Contribution:
+The Impact of Social Information on the Voluntary Provision of Public Goods,”
+Economic Journal, 119(2009), 1422-1439.
+Dana, Jason D., Daylian M. Cain, and Robyn M. Dawes, “What you don’t know
+won’t hurt me: Costly (but quiet) exit in dictator games,” Organizational
+Behavior and Human Decision Processes, 100(2006): 193–201.
+Fehr, Ernst, and Simon Gächter, “Fairness and Retaliation—The Economics of
+Reciprocity,”Journal of Economic Perspectives, 14(2000), 159–181.
+Fong, Christina, and Erzo Luttmer, “What Determines Giving to Hurricane
+Katrina Victims? Experimental Evidence on Racial Group Loyalty,” American
+Economic Journal: Applied Economics, 1(2009), 64–87.
+Garicano, Luis, Ignacio Palacios-Huerta, and Canice Prendergast, “Favoritism
+Under Social Pressure,” The Review of Economics and Statistics, 87(2005):
+208–216.
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+SUPPLEMENTARY MATERIAL
+
+56
+
+QUARTERLY JOURNAL OF ECONOMICS
+
+Downloaded from http://qje.oxfordjournals.org/ at Serials Department on June 12, 2012
+
+Gerber, Alan S., Donald P. Green, and Christopher W. Larimer, “Social Pressure
+and Voter Turnout: The Results of a Large Scale Field Experiment.” American
+Political Science Review, 102(2008), 33–48.
+Grossman, Zack, “Self-Signaling versus Social Signaling in Giving,”UCSB Working paper, 2010.
+Harbaugh, William T., “What do donations buy?: A model of philanthropy based
+on prestige and warm glow,” Journal of Public Economics, 67(1998), 269–284.
+Laibson, David, Andrea Repetto, and Jeremy Tobacman, “Estimating Discount
+Functions with Consumption Choices over the Lifecycle,” Working paper,
+2007.
+Landry, Craig, Andreas Lange, John A. List, Michael K. Price, and Nicholas Rupp,
+“Towards an understanding of the economics of charity: Evidence from a field
+experiment,” Quarterly Journal of Economics, 121(2006), 747–782.
+Lazear, Edward, Ulrike Malmendier, and Roberto Weber,“Sorting in Experiments
+with Application to Social Preferences,” American Economic Journal: Applied
+Economics, Forthcoming.
+Levine, David K., “Modeling Altruism and Spitefulness in Experiment,” Review of
+Economic Dynamics, 1(1998), 593–622.
+List, John A., and David Lucking-Reiley, “The Effects of Seed Money and Refunds
+on Charitable Giving: Experimental Evidence from a University Capital
+Campaign,” Journal of Political Economy, 110(2002), 215–233.
+Mas, Alexander, and EnricoMoretti, “Peers At Work,” American Economic Review,
+99(2009), 112–145.
+Milgram, Stanley., “Behavioral study of obedience,” Journal of Abnormal and
+Social Psychology, 67(1963), 371–378.
+Powell, M. J. D., “Variable Metric Methods for Constrained Optimization,” in
+Mathematical Programming: The State of the Art, A. Bachem, M. Grotschel
+and B. Korte, eds., 288–311 (New York: Springer Verlag, 1983).
+Wooldridge, Jeffrey M., Econometric Analysis of Cross Section and Panel Data
+(Cambridge, MA: MIT Press, 2002).
+
+

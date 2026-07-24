@@ -1,0 +1,1986 @@
+Service Business (2021) 15:445–466
+https://doi.org/10.1007/s11628-021-00447-8
+EMPIRICAL ARTICLE
+
+The size–growth relationship in the social services sector
+in Austria
+Stephanie Reitzinger1
+
+· Astrid Pennerstorfer1
+
+Received: 22 December 2020 / Accepted: 12 May 2021 / Published online: 29 May 2021
+© The Author(s) 2021
+
+Abstract
+The social services sector is among the fastest-growing industries, but it has gained
+little attention in the debate regarding firm growth. This article analyzes firm growth
+in relation to firm size using payroll expenses as our indicator for both firm growth
+and firm size. We apply structural equation modeling and full maximum likelihood
+estimation using Austrian data comprising all non-profit social service providers.
+After 2013, fewer firms have been entering and more have been exiting the sector;
+however, we find that growing in size is still not associated with higher growth rates.
+Our study emphasizes the role of small organizations in remaining a growth sector.
+Keywords Firm size · Firm growth · Gibrat’s law · Social services · Economic
+crisis · Austria
+
+1 Introduction
+In the EU, the social services sector has been among the fastest-growing industries
+with regard to employment during the last two decades (Eurostat 2020a). Employment growth in the sector has persisted even in times of economic crisis (Hora and
+Sirovátka 2014; Costa and Carini 2016; Pennerstorfer et al. 2020). Yet, so far, this
+sector has attracted little attention in debates concerned with job creation, firm
+growth and the relationship of this to firm size. This paper, thus, examines the relationship between employment growth and firm size in the Austrian social services
+sector. To do so, it examines whether Gibrat’s law (1931) is valid in this sector.
+This law states that firm growth is proportionate to firm size, and hence that firms’
+growth rates are independent of firm size. Understanding how firm size relates to
+growth helps predict the sector’s growth trajectories, which are relevant for public
+authorities, service users, and employees.
+
+* Stephanie Reitzinger
+stephanie.reitzinger@wu.ac.at
+1
+
+WU Vienna University of Economics and Business, Vienna, Austria
+
+13
+
+Vol.:(0123456789)
+
+446
+
+S. Reitzinger, A. Pennerstorfer
+
+The majority of studies analyzing the validity of Gibrat’s law have rejected it,
+finding negative size–growth relationships in a range of industries, time periods,
+and methodological approaches (Bentzen et al. 2012; Burghardt and Helm 2015;
+Oliveira and Fortunato 2006); (for an overview of older studies see Santarelli et al.
+2006). For some subsectors of the economy such as small-scale service industries,
+however, Gibrat’s law has been found to be valid (Audretsch et al. 2004). Specific
+sector properties were assumed to explain this finding. What is more, some studies showed that size–growth regularities might change due to changes in macroeconomic circumstances or structural changes within a sector during a specific period
+(Peric and Vitezic 2016; Fotopoulos and Giotopoulos 2010; Lotti et al. 2009). This
+emphasizes the importance of studying the validity of Gibrat’s law for different sectors and periods (Daunfeldt and Elert 2013; Lotti 2007). While the body of literature
+concerned with Gibrat’s law is considerable, it is interesting to note that most existing studies have excluded social services, understating, therefore, the importance
+of this sector, most probably due to data restrictions (Akehurst 2008; Chaves and
+Monzón 2012).
+The social services sector has many properties that stand out compared to other
+industries in an economy. Social services markets are heavily regulated and often
+publicly funded. Frequently, we find mixed-market competition, where public, forprofit, and non-profit firms co-exist. In many countries, non-profit organizations
+dominate the sector, which may not have to achieve a minimum efficient scale as
+profit-seeking firms do (Backus 2012). The sector has high growth rates due to a
+growing need for professional services (Sirovátka and Greve 2014; Bailly et al.
+2013). Another key characteristic of the social services sector is the significant
+change that it has experienced over the last few decades. First, in many countries,
+the sector has undergone profound changes in the funding modes (Neumayr 2020),
+whereby new public management tools are increasingly used. Second, low economic
+growth, together with pressure on public finances—in particular following the
+2008 global economic crisis—has made governments increasingly resort to welfare
+retrenchment, potentially affecting growth opportunities for social service providers
+(Jonssón and Stefánsson 2013; Costa and Carini 2016; Chaves and Monzón 2012;
+Kersbergen et al. 2014).
+These developments could hit providers of different sizes to a varying degree,
+which makes an analysis of Gibrat’s law in the social services sector particularly
+interesting. Indeed, in some countries, larger and mature firms were found to have
+adapted to these changes more successfully. In sectors where public tendering processes have newly been introduced, as is the case in social services, these firms were
+better able to secure funds (Stone et al. 2001), as such processes are often complex and time consuming for bidders (Clifford 2017). In addition, high levels of
+public regulation and a relatively high dependency on public funding could also be
+an important influence on the size–growth relationship in the social services sector.
+Larger firms often have more political connections, which have been shown to relate
+to a higher survival rate as well as higher growth rates (Akcigit et al. 2018).
+Previous research has also pointed out that Gibrat’s law holds for certain subsamples of firms such as mature firms as a result of market selection processes (Lotti
+2007; Lotti et al. 2009). The global economic crisis of 2008 may also have triggered
+
+13
+
+The size–growth relationship in the social services sector…
+
+447
+
+market selection, leading to the survival of only the fittest firms. Therefore, we also
+consider the relevance of macroeconomic circumstances with regard to the validity
+of Gibrat’s law in our study.
+Overall, our study contributes to the literature mentioned above and aims to
+answer the following two questions:
+Q1: What is the relationship between firm size and firm growth in the Austrian
+non-profit social services sector?
+Q2: Did the 2008 economic crisis have an effect on the sector’s size–growth relationship?
+For our analysis, we measure firm size and firm growth using payroll expenses
+as the indicator for both firm size, which serves as independent variable, and firm
+growth, which is the dependent variable. The analysis in this paper relies on a large
+set of administrative data collected by the Austrian Statistics Office. This longitudinal dataset for the years 2003 to 2017 comprises all non-profit social service organizations in Austria.
+We define the social services sector using the European Union’s NACE Rev.2
+classification as firms of the subsectors Q87 ‘residential care activities’ and Q88
+‘social work activities without accommodation.’ Social services, thus, cover a wide
+range of human services such as long-term care for elderly or disabled persons;
+social integration and re-integration (e.g. migrants, drug users, etc.); labor market
+services (with a focus on disadvantaged and disabled people); child welfare services; childcare (pre-school) and afternoon care of school-aged children; and social
+housing.
+We, thus, add to the literature in three ways. First, we analyze the validity of
+Gibrat’s law in a sector in which we know little about growth dynamics. The social
+services sector is often not included in business statistics, and these firms only have
+minimal reporting requirements. We argue that an analysis of firm growth is particularly interesting for the social services industry, given that it is fast growing in many
+countries, both in terms of employment and the foundation of new firms. Moreover, many states have a renewed interest in this industry due to its potential to solve
+new social problems, especially during crises (Belso-Martínez et al. 2020; Bouchard
+2012; Julià and Chaves 2012). Second, our observation period brackets the 2008
+global economic crisis. Therefore, we are able to follow the call by Peric and Vitezic (2016) to investigate the effect of a major recession on size–growth regularities,
+adding the social services sector to this stream of research. Third, we apply maximum likelihood and structural equation modeling, which is novel in the analysis of
+Gibrat’s law. This approach takes into account longitudinal information, fixed effects
+as well as probability values for firm exits. Hence, we can compare findings from the
+total sector with the findings from a sample of surviving firms.
+The remaining of this article is structured as follows. The next section briefly
+summarizes existing research on the relationship between firm size and growth that
+is particularly relevant for our analysis. It specifically addresses studies investigating service sectors, social services, and the use of various methods. The “Methods”
+Section describes the data and the method. Results are presented in the “Results”
+
+13
+
+448
+
+S. Reitzinger, A. Pennerstorfer
+
+Section, and the paper concludes with a discussion of these in “Conclusions”
+Section.
+
+2 Review of the literature and hypotheses development
+As already mentioned, Gibrat’s law has been extensively analyzed by economists for
+many decades, at first mainly in manufacturing sectors (Mansfield 1962; Chesher
+1979; Hall 1987; Wagner 1992; Evans 1987) and later also in services (Bianchini
+et al. 2017; Coad and Hölzl 2009; Lotti 2007; Teruel-Carrizosa 2010). This law,
+also known as the law of proportional effects, states that firm growth is uncorrelated
+with firm size. A large body of literature rejects this law, showing that the relation
+between firm size and growth is negative. However, there are some service industries where Gibrat’s law does hold. These industries include the hospitality sector
+(Audretsch et al. 2004), finance and rental services, and the wholesale industry
+(Bentzen et al. 2006). These mixed findings suggest that the industry context affects
+whether Gibrat’s law holds or not (Daunfeldt and Elert 2013).
+It is interesting to note that most studies do not include those sectors of the economy that have contributed massively to overall job growth in many countries—such
+as health and social services. Existing studies that include social services (or related
+sectors) revealed mixed findings. On the one hand, Bentzen et al. (2012)’s study
+does not reject Gibrat’s law for the ‘publicly regulated sector and social services,’
+and hypothesizes that the partial political regulation of this industry may explain
+this finding. On the other hand, numerous studies have found a negative size–growth
+relationship in a range of different contexts, such as the Italian health and social
+services sector (in a static analysis; Lotti 2007); US non-profit human service organizations (Harrison and Laincz 2008a); and social economy organizations in Montreal (Bouchard and Rousselière 2018). Relatively high survival rates seem to be an
+important explanation of these findings (Harrison and Laincz 2008b). In contrast,
+while Backus (2012) and Backus and Clifford (2013) also reject Gibrat’s law, they
+actually find a positive size–growth relationship among social service charities in
+England and Wales. The authors argue that large charities have gained more growth
+opportunities over their study period because the funding mode changed from grantbased to contract-based public funding, favoring large organizations. Hence, large
+organizations were able to grow at higher rates, while small and medium-sized firms
+confronted difficulties in funding and maintaining their service levels. One explanation for these mixed findings is, thus, the influence of public funding (its levels and
+mode), as it is typically highly context and time specific. Summing up, the extant literature discusses political influence and regulation, public funding and high survival
+rates as relevant sector specifics and potential reasons for their mixed results.
+In addition, the usual regularities concerning the (non-)validity of Gibrat’s
+law may change during periods of low economic growth. The Great Recession
+affected small (and young) firms more negatively than larger and older ones in
+the US (Fort et al. 2013) and employment declines were also greater in small
+firms compared to larger firms (Siemer 2019). For example, an analysis of the
+validity of Gibrat’s law during the Great Recession revealed that the law held in
+
+13
+
+The size–growth relationship in the social services sector…
+
+449
+
+the Croatian manufacturing and hospitality sectors between 2008 and 2013 (Peric
+and Vitezic 2016). Earlier studies concerned with the regularities of the findings
+of Gibrat’s law during recession years pointed in a similar direction (Evans 1987;
+Contini and Revelli 1989). Market selection could help explain these findings
+in relation to economic downturns. Lotti et al. (2009) showed that after market
+selection in the Italian TV and communication sector, the fittest firms survived,
+which then grew proportionally to their size. The authors conclude that the processes of market selection may create a sample of surviving firms which behave
+in accordance with Gibrat’s Law. Consequently, we suppose that an economic
+crisis can lead to market selection and affect small firms more severely, so the
+negative size–growth relationship, prevalent in many studies, might disappear
+during such a period (see Fiala 2017 for such an analysis for Czech manufacturing firms).
+Turning briefly to the Austrian context, social services are largely provided by
+non-profit organizations and mainly rely on public funding (Leisch et al. 2016),
+as in many other European countries. Income from the government accounted
+for almost 80% of total income of non-profit social service organizations in 2013
+(Pennerstorfer et al. 2015). Traditionally, there are strong ties between the largest
+welfare organizations and the state. But, as in other countries, over the last two
+decades, the relationship between public funders and service-providing organizations has become more formal, with increased competition through tendering processes (Heitzmann 2015). The social services market mainly consists of
+small organizations and has a high share of entering firms (see “Methods” Section). This dynamic also persisted during the 2008 economic crisis. Compared
+to other countries, the global economic crisis hit Austria quite moderately. Real
+GDP shrank by 3.8% in 2009; unemployment remained relatively low, reaching
+its peak in 2016 at 6% of the labor force (Eurostat 2020b). While the sum of
+employees rose from 3.5 to 3.9 million (+ 11%) from 2005 to 2013, the sum of
+employees within the non-profit social services sector increased from 100,000 to
+120,000 (+ 20%) during the same period. However, in the aftermath of the recession, Austria’s non-profit social services sector exhibited lower growth rates in
+employment than before. In fact, the social services sector generated on average
+6000 (net) jobs per year during 2003 and 2008 and on average about 3000 (net)
+jobs per year from 2009 to 2017. Lately, i.e., since 2014, the total number of
+non-profit social service organizations has started to decrease (Pennerstorfer et al.
+2020). This development could be indicative of market selection within Austria’s
+social services sector.
+Based on this review, we make two hypotheses with regard to our two research
+questions. Concerning the first question which looks at the relationship between firm
+size and firm growth in the Austrian non-profit social services sector, the hypothesis
+could point in different directions:
+H1a: The size–growth relationship in the Austrian social services sector is negative.
+H1b: The size–growth relationship in the Austrian social services sector is insignificant (i.e. Gibrat’s law is valid).
+
+13
+
+450
+
+S. Reitzinger, A. Pennerstorfer
+
+On the one hand, due to a high share of entering firms, we may expect a negative
+size–growth relationship, emphasizing the role of small non-profit firms for the sector’s
+growth pattern (H1a). On the other hand, Gibrat’s law may hold in the social services
+sector (H1b), for the following reasons. First, it is a service industry with low sunk costs,
+economies of scale and capital intensity and, thus, has similar properties to other service
+industries where the law was found to be valid. Second, properties that are more idiosyncratic to social services, such as public regulation, may also be important, as assumed by
+Bentzen et al. (2012). Additionally, we expect similar findings between the total sector
+sample and the survivor sample, following Audretsch et al. (2004), who hypothesize that
+in industries with minimal sunk costs, low capital intensity and low economies of scale
+the survivor bias are negligible, as is the case in the social services sector.
+The second research question asks if the 2008 economic crisis had an effect on
+the sector’s size–growth relationship. We suppose that in the decade following the
+2008 economic crisis, smaller organizations lost growth opportunities and only the
+fittest organizations survived. Previous studies found that small- and medium-sized
+organizations’ incomes declined more during and after the crisis (Clifford 2017;
+Horvath et al. 2018; Morreale 2011). We thus hypothesize
+H2: After the year 2008, the size–growth relationship became weaker.
+
+3 Methods
+3.1 Methodology
+A variety of methods have been used in existing studies concerned with the analysis of Gibrat’s law. Since about the year 2000, scholars have increasingly relied on
+either non-parametric (Neumark et al. 2010; Backus 2012; Coad et al. 2017), quantile regression (Daunfeldt and Elert 2013; Coad and Hölzl 2009), or dynamic panel
+methods (Teruel-Carrizosa 2010; Bentzen et al. 2012; Nunes and Serrasqueiro 2009;
+Peric and Vitezic 2016; Oliveira and Fortunato 2008). Non-parametric and quantile
+regression techniques have the advantage of investigating growth across the entire
+distribution instead of averages, and they do not require the assumption of normally
+distributed data. Dynamic panel analyses, in contrast, take into account unobserved
+confounders as well as lagged, endogenous regressors. Until now, dynamic panel
+approaches to analyze Gibrat’s law were based on lagged instrumental variables and
+on a sample of survivors (e.g., Nunes et al. 2013; Peric and Vitezic 2016). We chose
+a maximum likelihood and structural equation modeling for linear dynamic paneldata (ML-SEM) approach, which allowed us to control for unobserved and lagged
+variables. Full-information maximum likelihood estimation can deal with missing
+data (i.e., the sample needs to not be restricted to survivors), and it also produces
+consistent estimators if the normality assumption is violated (Moral-Benito 2013).
+ML-SEM is an improvement for testing the size–growth relationship with panel
+data and appropriate for several reasons (Moral-Benito 2013). First, it easily handles
+missing data by using the full information maximum likelihood procedure (explained
+
+13
+
+The size–growth relationship in the social services sector…
+
+451
+
+in more detail in the context of firm exits below). Second, robust standard errors
+can be used to overcome the requirement for multivariate normality for all observed
+endogenous and exogenous variables. Third, size is not strictly exogenous, but rather
+determined by previous growth rates. The dynamic approach specifically takes into
+account previous years’ firm size and firm growth. Additionally, any time-invariant,
+strictly exogenous variables (like any other characteristic of the firms) can be excluded
+from the model but are still controlled for by the latent α term. The resulting model is
+
+gi,t = 𝛽 × sizei,t + 𝜌 × gi,t−1 + 𝛼i + vi,t .
+For instance, if t = 2004, 2007, 2010, this can be specified as follows:
+
+gi,2004∕05 = 𝛽 × sizei,2004 + 𝜌 × gi,2003∕04 + 𝛼i + vi,2004 ,
+gi,2007∕08 = 𝛽 × sizei,2007 + 𝜌 × gi,2006∕07 + 𝛼i + vi,2007 ,
+gi,2010∕11 = 𝛽 × sizei,2010 + 𝜌 × gi,2009∕10 + 𝛼i + vi,2010 ,
+where growth gi,t is the logarithm of gross wage expenses (size) in t + 1 minus the
+logarithm of gross wage expenses (size) in t for firm i with t = 2003,…,2016. Size,
+which is the logarithm of gross wage expenses, is a predetermined time-varying variable, approximately log-normally distributed. αi is the unobservable time-invariant
+fixed effect and vi,t is the time-varying error term.
+Furthermore, there is one assumption required for consistency and asymptotic
+normality (Moral-Benito 2013), which is
+
+E(v(i,t) |gt−1
+, sizeti , 𝛼i ) = 0 ∀i, t)
+i
+where gt−1
+and sizeti denote vectors of the observations accumulated up to t − 1 and
+i
+t, respectively. Accordingly, the time-varying error term is uncorrelated with size
+in time t, but earlier values of the dependent variable, i.e., growth of previous periods, can affect size. In contrast to the generalized method of moments estimation
+for dynamic panel models, growth of t − 1 does not rely on instruments but can be
+included into the model directly. α—the fixed effect—is constrained to be the same
+across time, is allowed to correlate with size and previous growth, and affects each
+dependent variable of the subsequent time periods.1
+In the analyses, we use two samples of the dataset; one sample refers to the total
+sector, while the other sample consists of organizations surviving the entire period
+from 2003 to 2017. The comparison of the two samples provides information on
+whether the survivor bias matters in the social services sector. The total sector sample includes exiting firms. These exiting firms raise a methodical challenge, because
+they have growth rates of minus 100% when they exit the data. Since small firms
+are more likely to exit, this approach will underestimate average growth rates for
+1
+We conducted the likelihood-ratio test and compared the AIC between the random and fixed effects
+model, which both indicated that the model with fixed effects better fits the data (see “Results” Section).
+
+13
+
+452
+
+S. Reitzinger, A. Pennerstorfer
+
+actually existing and operating small firms. However, the exclusion of exiting firms
+causes the so-called survivor bias. Accordingly, by not taking the higher probability of a small firm to exit into account would overestimate the average growth
+rates of small firms. Therefore, some studies applied inverse probability weighting
+(Lotti et al. 2009; Heshmati 2001; Bouchard and Rousselière 2018) or Heckmantype selection corrections (Nunes et al. 2013; Harhoff et al. 1998) to overcome such
+biases. We use full maximum likelihood (FIML), which groups data according to
+missing-value patterns and produces probability values taken into account for by the
+structural equation modeling. This approach is appropriate because we assume that
+the probability for a firm to exit depends on previous years’ size and growth, but not
+any other missing variables (Newman 2003). Moreover, this approach allows us to
+include exiting firms and study the size–growth relationship of the total sector.
+Moreover, FIML estimates values for the lowest and highest growth values in the
+main analysis concerning the total sector. Many existing studies do not discuss if
+and how they handled outliers. Those who do choose varying approaches (Rodríguez
+et al. 2003; Bentzen et al. 2012). In our case, extreme data points are partly entering
+and exiting firms. The dataset has no information about the actual date when a firm
+starts or closes. Therefore, very high positive/negative growth (in absolute terms)
+could refer to the fact that a firm has started/closed late/early in the year. Moreover,
+extreme data points could also be mergers or separating firms, which we actually do
+not want to include in our analysis. Hence, we give the first and last percentile (of
+each year) a missing value, keeping it part of the estimation. As a robustness check,
+we also dropped these organizations (for the relevant year), thereby excluding them
+from the estimation (see Appendix). For the survivor sample, firm entries and exits
+are irrelevant, so we did not correct any values.
+Furthermore, to address the second hypothesis, we conducted total period and
+trend analyses. The trend analysis helps reveal possible changes in the size–growth
+relationship due to the 2008 economic recession (see Lotti et al. 2009, who apply
+a similar approach). Each analysis includes various regressions covering different
+observation periods. Each period includes at least every third year (and not each following year) in order to avoid multicollinearity and to achieve model convergence.
+We provide various regressions to ensure the robustness of the results.
+3.2 Variables
+The dataset in use is an administrative panel dataset obtained from the Austrian Statistical Office comprising all firms in the Austrian non-profit social services sector.
+It comes from the Austrian income tax and sales statistics and captures all non-profit
+firms that employ at least one wage earner. The data are available only for the years
+between 2003 and 2017. In Austria, non-profit firms generate about 90% of total
+value added in the category ‘social work activities without accommodation’ and 45%
+in ‘residential care activities’ (Leisch et al. 2016). Moreover, 4.5% of Austria’s workforce is employed in the social services sector (Bachner et al. 2018) and about 90 percent of those in the non-profit sector (Leisch et al. 2016). Thus, the data on non-profit
+firms cover and represent almost the entire social services sector in Austria.
+
+13
+
+The size–growth relationship in the social services sector…
+Table 1  Number of active firms
+by size category
+
+453
+
+Number of active firms
+Year
+
+Small (< 50)
+
+Medium
+(50–250)
+
+Large (> 250)
+
+2004
+
+777
+
+188
+
+58
+
+2007
+
+925
+
+213
+
+74
+
+2010
+
+1053
+
+250
+
+92
+
+2013
+
+1071
+
+259
+
+97
+
+2016
+
+1003
+
+235
+
+104
+
+Small firms have less than 50 payslips per year, medium-sized firms
+have 50–250 payslips, and large firms have more than 250 payslips
+per year
+
+For the analysis of the size–growth relationship, payslips and payroll expenses
+serve as indicators for a firm’s annual size and growth. For our model, we use payroll
+expenses as the single indicator for both. Payroll expenses are more accurate in the nonprofit social services sector than sales and employees, which are used by most studies
+in the context of Gibrat’s law. Sales are not suitable as an indicator for non-profit organizations because these largely receive public subsidies which are not recorded in the
+sales data. Instead of the number of employees, we prefer payroll expenses, because we
+believe it to be more precise due to the high share of part-time employees in the social
+services sector. As a robustness check, we used payslips as a size indicator (see Appendix). For the static analysis, however, we decided to divide the sector into size categories with respect to a firm’s annual sum of payslips (head count), because it illustrates
+the sector’s firm size distribution more conveniently. For this, we divided organizations
+into three size categories: a small firm has less than 50 payslips per year, a mediumsized firm has 50 to 250 payslips, and a large firm has more than 250 payslips per year.
+An organization can change its size categorization from one year to another.
+
+3.3 Sample characteristics
+As displayed in Table 1, the entire non-profit social services sector consisted of
+about 1000 organizations in 2004. The sector grew in size until 2013 (+ 319). During this period, the number of small enterprises increased most in absolute terms
+(from 777 to 1003 entities) and the group of large enterprises increased most in
+relative terms (+ 79.3%, from 58 to 104 entities). The rise in small organizations
+was the greatest in absolute as well as in relative terms in the period from 2004 to
+2007. Furthermore, between the years 2013 and 2016, the number of large organizations continued to increase, while the number of small and medium-sized organizations declined. In short, Austria’s non-profit social services sector grew over the
+total period, mainly due to small and medium-sized firms; their share of the sector,
+though, decreased slightly during the last years of observation.
+Table 6 in the Appendix additionally illustrates the sample by displaying the
+same information for different sub-categories of the social services sector.
+
+13
+
+454
+Table 2  Static analysis of the
+size–growth relationship
+
+S. Reitzinger, A. Pennerstorfer
+Year
+
+Period
+
+Size
+
+2005
+
+04–07
+
+Small
+
+2010
+
+09–12
+
+2015
+
+14–17
+
+2005
+
+04–07
+
+2010
+
+09–12
+
+2015
+
+14–17
+
+2005
+
+04–07
+
+2010
+
+09–12
+
+2015
+
+14–17
+
+Medium
+
+Large
+
+#
+
+Mean (sd)
+
+752
+
+106.8 (0.17)
+
+1002
+
+102.8 (0.21)
+
+1026
+
+100.4 (0.19)
+
+185
+
+107.2 (0.15)
+
+245
+
+104.2 (0.10)
+
+228
+
+101.5 (0.16)
+
+64
+
+106.8 (0.05)
+
+87
+
+103.4 (0.09)
+
+108
+
+103.5 (0.15)
+
+Mean of 3-year-moving average of growth in annual payroll
+expenses; size categories with payslips as an indicator (small < 50,
+medium 50–250, large > 250); without 1st and 99th growth percentile; growth smaller or equal − 100% replaced by − 99.9%
+
+4 Results
+Before we present the results of the dynamic model, we first explain the results concerned with the mean firm size–growth relationship of the social services sector in
+the static view, displayed in Table 2. For this, we calculated the moving averages of
+a firm’s growth rates over three years. While in the dynamic view our model incorporates the correlation of growth over time, in the static view, we used moving averages. The first column of Table 2 shows the years of observation relating to each
+size category. Column two indicates the period of four years (or three annual growth
+rates) which was used to find the mean value of growth. If firms operated for only
+three instead of four years, we calculated the moving average over two years. We
+found that firms of all size categories exhibited similar growth rates in the beginning of the analyzed period, with a growth rate of about seven percent on average.
+Over time, the average growth rates of small firms decreased to zero and the average
+growth rates of medium-sized firms decreased to a value of 1.5%; for large organizations, average growth decreased to a value of 3.5%. Furthermore, we applied twosample t tests in order to examine whether differences in the growth rates between
+size categories exist. In particular, we compared small and medium, small and large,
+and, medium and large organizations in each period of Table 2. We find that only the
+growth rates of small and large organizations with regard to the years 2014–2017
+are significantly different, if we define the significance level at 10%. Thus, the static
+analysis points towards a greater decrease of growth rates among small firms compared to large firms.
+We also compared average growth rates between the total sector sample and
+the survivor sample in the static view. Accordingly, Table 3 displays the three-year
+moving average growth rates of both samples. For the period 2004–2007, the average growth was about 7% in the total sector sample, and about 4% in the survivor
+sample. Hence, during the period, when the rise in small firms was the greatest (see
+Table 1), the growth rates of firm entries probably offset the negative growth rates of
+
+13
+
+The size–growth relationship in the social services sector…
+Table 3  Static analysis of the
+total sector sample and survivor
+sample
+
+Year
+
+455
+
+Period
+
+Sample
+
+2005
+
+04–07
+
+Total sector
+
+2010
+
+09–12
+
+2015
+
+14–17
+
+2005
+
+04–07
+
+2010
+
+09–12
+
+2015
+
+14–17
+
+Survivor
+
+#
+
+Ø growth (sd)
+
+1001
+
+106.9 (0.16)
+
+1334
+
+103.1 (0.19)
+
+1362
+
+100.9 (0.18)
+
+794
+
+104.4 (0.20)
+
+794
+
+103.1 (0.16)
+
+794
+
+100.2 (0.19)
+
+Mean of three-year-moving average of growth in annual payroll
+expenses; total sector without 1st and 99th growth percentile; growth
+smaller or equal − 100% replaced by − 99.9%
+
+exiting firms, resulting in a higher average growth rate of the total sector compared
+to the survivor sample. For the period 2009–2012, growth rates are about 3% in both
+samples and below 1% in the period 2014–2017. Hence, the static analysis revealed
+similar average growth rates for these two samples from 2009.
+In the next step, we explored the size–growth relationship in the dynamic view in
+order to answer both research questions. Table 4 summarizes the results of the total
+sector sample. Models I to VIII (see Table 4, column 1) refer to the analysis of the
+total period 2003–2017; models IX to XV refer to the trend analysis, thus, investigating Hypothesis 2. Subsequently, Table 5 shows the results for the survivor sample.
+In both tables, the coefficient β shows the relationship between size and growth,
+which is our main interest and is described in detail below. The coefficient ρ
+indicates the growth compared to the previous year’s growth in addition to the
+size–growth relationship. Should the size–growth relationship be negative, ρ specifies if and how the decline in growth (with a one percentage increase) also depends
+on the previous year’s growth. The last three columns display the sample size and
+two goodness-of-fit measures. One of these measures reports the probability that the
+RMSEA (root-mean-squared error of approximation) is less than 0.05 and the second measure is the comparative fit index, which should be higher than 0.9 for an
+acceptable model (Williams et al. 2018).
+The analysis of the total period revealed that the size–growth relationship of the total
+sector sample is negative for every period of the analysis (models I-XV of Table 4), taking a value of approximately − 0.09. According to the likelihood-ratio test and AIC, the
+fixed effects model has turned out to be superior compared to the random effects model
+(e.g., for the years 04–07–10–13–16 the values of the likelihood-ratio test are − 7977
+and − 12,047, and, the AIC is 16,163 and 24,231, respectively). Furthermore, all models are acceptable since the CFI is above 0.90 in all models. Hence, we concluded that
+the prevailing negative relationship between firm size and firm growth (on average) is
+also valid for the Austrian non-profit social services sector. Gibrat’s law can, thus, be
+rejected; accordingly, our findings support H1a, but do not support H1b.
+In the trend analysis, we followed the size–growth relationship from periods that
+are more distant to periods that are more recent. The coefficients are negative in
+each period, and we could not detect any trend in the absolute values. Therefore,
+our study does not support H2 which stated that the size–growth relationship has
+
+13
+
+13
+
+4
+
+***p ≤ 0.001
+
+**p ≤ 0.01
+
+*p ≤ 0.05
+
+XV.)
+
+XIV.)
+
+XIII.)
+
+XII.)
+
+XI.)
+
+X.)
+
+IX.)
+
+Trend analysis
+
+VIII.)
+
+VII.)
+
+5
+
+5
+
+6
+
+6
+
+6
+
+V.)
+
+VI.)
+
+4
+
+4
+
+III.)
+
+IV.)
+
+4
+
+4
+
+I.)
+
+II.)
+
+7
+
+7
+
+7
+
+7
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+8
+
+8
+
+9
+
+9
+
+9
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+11
+
+11
+
+12
+
+12
+
+12
+
+13
+
+13
+
+13
+
+14
+15
+
+15
+
+16
+
+16
+
+16
+
+16
+
+16
+
+− 0.103*** (0.022)
+
+− 0.129*** (0.018)
+
+− 0.175*** (0.017)
+
+− 0.128*** (0.017)
+
+− 0.123*** (0.017)
+
+− 0.143*** (0.020)
+
+− 0.118*** (0.018)
+
+− 0.097*** (0.013)
+
+− 0.129*** (0.013)
+
+− 0.087*** (0.011)
+
+− 0.098*** (0.011)
+
+− 0.109*** (0.011)
+
+− 0.089*** (0.011)
+
+− 0.090*** (0.009)
+
+− 0.094*** (0.008)
+
+8
+
+sd
+
+coeff
+
+β
+
+Total period analysis
+
+Model Years
+
+Table 4  FIML-SEM results for the total sector sample and different periods
+#
+
+(0.025) 1682 0.940
+
+(0.029) 1656 0.986
+
+(0.024) 1672 0.287
+
+0.034
+
+0.023
+
+0.054
+
+0.028
+
+0.037
+
+− 0.025
+
+− 0.034
+
+− 0.002
+
+− 0.044
+
+(0.029) 1658 0.872
+
+(0.029) 1656 0.190
+
+(0.032) 1671 0.913
+
+(0.032) 1639 0.698
+
+(0.033) 1592 0.652
+
+(0.042) 1555 0.926
+
+(0.044) 1507 0.923
+
+(0.037) 1655 0.351
+
+(0.029) 1661 0.985
+
+0.062** (0.024) 1674 0.205
+
+0.983
+
+0.967
+
+0.989
+
+0.982
+
+0.981
+
+0.991
+
+0.989
+
+0.939
+
+0.986
+
+0.955
+
+0.953
+
+0.974
+
+0.976
+
+0.927
+
+0.976
+
+P(RMSEA <  = 0.05) CFI
+
+(0.022) 1695 1.000
+
+sd
+
+n
+
+0.134*** (0.028) 1664 0.487
+
+0.053*
+
+− 0.038
+
+− 0.002
+
+0.028
+
+coeff
+
+ρ
+
+456
+S. Reitzinger, A. Pennerstorfer
+
+4
+
+***p ≤ 0.001
+
+**p ≤ 0.01
+
+*p ≤ 0.05
+
+V)
+
+IV)
+
+III)
+
+II.)
+
+I)
+
+Model Years
+
+6
+
+7
+
+7
+
+7
+
+8
+
+9
+
+10
+
+10
+
+10
+
+11
+
+12
+13
+
+13
+
+13
+
+14
+
+Table 5  ML-SEM results for the survivor sample and different periods
+
+16
+
+16
+
+(0.018)
+
+− 0.194*** (0.042)
+
+− 0.126*** (0.031)
+
+− 0.095*** (0.021)
+
+− 0.099*** (0.022)
+
+− 0.039*
+
+#
+
+(0.031) 794 0.928
+
+− 0.014
+
+0.057
+
+(0.032) 794 0.963
+
+(0.037) 794 0.986
+
+0.998
+
+1.000
+
+0.991
+
+0.991
+
+0.977
+
+P(RMSEA <  = 0.05) CFI
+
+(0.022) 794 0.708
+
+sd
+
+n
+
+− 0.144*** (0.021) 794 0.722
+
+0.092**
+
+0.044
+
+Coeff
+
+Coeff
+
+sd
+
+ρ
+
+β
+
+The size–growth relationship in the social services sector…
+457
+
+13
+
+458
+
+S. Reitzinger, A. Pennerstorfer
+
+become weaker since 2008. Turning to ρ (see Table 4, column 4), we found this
+coefficient to be insignificant in twelve models and significantly positive in three
+out of 15 models. Consequently, when a firm grows in size, the decrease in growth
+opportunities is most likely independent of the firm’s growth in the previous year.
+Next, we turn to the results of the survivor sample in Table 5. We detected a
+significant negative relationship between size and growth in five models, for which
+the estimation was able to deliver converging results and the model fit indices are
+acceptable. The coefficients are similar to the total sector sample, which means that
+a survivor sample bias is negligible for the social services sector, as expected. A
+trend analysis for the survivor sample was not fully possible because not all models converged. The last period of analysis from 2008 to 2014, however, indicated
+a higher coefficient in absolute terms, which also does not support H2. There is no
+sign that the size–growth relationship became weaker after the economic crisis,
+either for the total sector sample or for surviving, more established firms.
+As a final point, we briefly address the results of the robustness exercises, displayed in Tables 7 and 8 in the Appendix. In Table 7, we excluded the first and last
+percentile of growth rates each year. The results are similar to our main results in
+Table 4. The coefficient of the size–growth relationship is negative for every period
+of analysis, at a value of about − 0.08. Estimations with outliers, or other treatments
+of outliers, e.g., winsorization, did not deliver converging results for the model.
+Therefore, the FIML approach to handling outliers is indeed the best way to gain a
+meaningful average firm size–growth relationship for the total sector. In Table 8, we
+present very similar results of the model using payslips instead of payroll expenses
+as a size indicator. Tables 7and8, therefore, substantiate our finding of a negative
+size–growth relationship over the total period. In addition, these results indicated a
+slight decrease in the size–growth coefficient in the aftermath of the recession.
+
+5 Conclusions
+This study analyzed the size–growth relationship in the Austrian social services sector with specific attention devoted to the years following the 2008 global economic
+crisis. So far, social services have hardly been studied in this context, most likely
+due to data restrictions. Concerning the size–growth relationship itself, the analyses
+revealed that Gibrat’s law is not valid; rather, the size–growth relationship is negative
+like in many other industries. This finding is in line with the findings of Bouchard
+and Rousselière (2018), Harrison and Laincz (2008a), and Lotti (2007) who also analyzed the size–growth relationship in the social services or the non-profit sectors for
+other countries. Hence, we, too, conclude that increasing firm size leads to a proportionately lower rate of employment growth in the social services sector.
+Structural equation modeling and full maximum estimation allowed us to compare size–growth relations between the total sector and a sample consisting of surviving firms. According to Audretsch et al. (2004), a survivor bias is less relevant in
+industries with low sunk costs, economies of scale, and capital intensity. Our study
+supports this hypothesis with regard to the social services sector, which holds these
+characteristics. While we did not investigate the underlying reasons specifically, the
+
+13
+
+The size–growth relationship in the social services sector…
+
+459
+
+results are plausible because social service organizations are more likely to survive
+despite negative growth due to public funding (see Harrison and Laincz 2008b). In
+addition, the rising amount of small entering firms could also have an impact, offsetting the higher share of small firms’ negative growth rates. In this regard, the social
+services sector remains interesting in the context of industry dynamics.
+A second research question addressed the period after the 2008 economic crisis.
+Previous research that examined the validity of Gibrat’s law during economic crises or recessions found that a negative size–growth relation might disappear during
+crises (Fiala 2017; Peric and Vitezic 2016). Our findings, in contrast, did not indicate this, either when using the total sector sample, or in terms of surviving, more
+established firms. Previous studies indicated that small and medium-sized organizations were hit more severely by the crisis. Therefore, we expected that market selection processes and the potentially stronger political connections of large incumbents
+(Akcigit et al. 2018) would eliminate growth opportunities for smaller—usually less
+established—firms. The static analysis, indeed, revealed that large organizations
+could maintain their average annual growth rates, while small organizations exhibited smaller average growth after the economic crisis of 2008. Moreover, the number
+of organizations with less than 250 employees decreased after 2013. However, the
+dynamic analysis, which has the advantage of not relying on a size categorization,
+revealed that growing in size did not lead to relatively higher growth, even in the
+aftermath of the economic crisis.
+Comparing the findings from the static and the dynamic analyses, we conclude
+from a methodological point of view that it is important to study the size–growth
+relationship with a multitude of methods. As a more practical implication, we want
+to point out that the findings for Austria do not indicate an increasing market share
+of larger organizations, contrary to the findings for the English and Welsh social services sector (Backus and Clifford 2013). A changing business environment (such as
+changes in the funding modes) did not lead to a drastic dominance of large organizations in Austria. Differing findings for both countries once again point out that
+size–growth relationships are highly context and time specific.
+The resulting mix of different-sized providers in Austria can be regarded as
+advantageous for clients and customers as well as public authorities. Larger organizations grow comparatively less, which leads to the conclusion that public funders
+should award contracts not only to bigger, more established organizations, but also
+to small and new firms. Especially in times of economic crisis when social needs are
+on the rise, the mix of different-sized firms can help cater diverse needs. It has also
+been shown to be a crucial factor for innovations (Bode 2003).
+Our study focused on the relationship between firm size and firm growth; future
+studies could build on that and question the relevance of firm size on different outcome variables, such as innovations, effectiveness (in terms of goal accomplishment with regard to client needs), or worker satisfactions. The study could also be
+expanded to other high growth sectors, such as health and education services. Similar to the social services sector, not much is known concerning the size–growth relationship in these sectors, presumably also because of a lack of data.
+It is important to note that our dataset only included non-profit providers. Although the social services sector in Austria largely consists of non-profit
+
+13
+
+460
+
+S. Reitzinger, A. Pennerstorfer
+
+organizations (as explained in the “Methods” Section, it would still be interesting to
+also investigate whether and how public and for-profit social service providers differ
+from non-profits. Finally, it would be important to include more recent data into the
+analyses. Data were only available until the year 2017. Especially most recent data,
+including the impact of the Covid19 crisis, would be most interesting to study.
+
+Appendix
+See Tables 6,7,8.
+
+Table 6  Number of active firms by size category and type of service
+Number of active firms
+
+Residential care for elderly and disabled
+
+Other residential care
+
+Social work without accomodation for
+elderly and disabled
+
+Social work without accomodation n.e.c
+
+Child day-care activities
+
+Year
+
+Small (< 50)
+
+Medium
+(50–250)
+
+Large (> 250)
+
+2004
+
+45
+
+32
+
+7
+
+2007
+
+56
+
+42
+
+10
+
+2010
+
+54
+
+57
+
+12
+
+2013
+
+56
+
+61
+
+14
+
+2016
+
+56
+
+63
+
+14
+
+2004
+
+58
+
+10
+
+2
+
+2007
+
+63
+
+9
+
+2
+
+2010
+
+57
+
+12
+
+3
+
+2013
+
+52
+
+11
+
+4
+
+2016
+
+47
+
+14
+
+4
+
+2004
+
+79
+
+23
+
+11
+
+2007
+
+99
+
+27
+
+12
+
+2010
+
+101
+
+39
+
+13
+
+2013
+
+101
+
+34
+
+16
+
+2016
+
+95
+
+30
+
+18
+
+2004
+
+497
+
+112
+
+34
+
+2007
+
+589
+
+128
+
+43
+
+2010
+
+696
+
+132
+
+55
+
+2013
+
+708
+
+142
+
+55
+
+2016
+
+671
+
+112
+
+60
+
+2004
+
+98
+
+11
+
+4
+
+2007
+
+118
+
+7
+
+7
+
+2010
+
+145
+
+10
+
+9
+
+2013
+
+154
+
+11
+
+8
+
+2016
+
+134
+
+16
+
+8
+
+Small firms have less than 50 payslips per year, medium-sized firms have 50–250 payslips and large firm
+have more than 250 payslips per year
+
+13
+
+4
+
+***p ≤ 0.001
+
+**p ≤ 0.01
+
+*p ≤ 0.05
+
+XV.)
+
+XIV.)
+
+XIII.)
+
+XII.)
+
+XI.)
+
+X.)
+
+IX.)
+
+Trend analysis
+
+VIII.)
+
+VII.)
+
+5
+
+5
+
+6
+
+6
+
+6
+
+V.)
+
+VI.)
+
+4
+
+4
+
+III.)
+
+IV.)
+
+4
+
+4
+
+I.)
+
+II.)
+
+7
+
+7
+
+7
+
+7
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+8
+
+8
+
+9
+
+9
+
+9
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+11
+
+11
+
+12
+
+12
+
+12
+
+13
+
+13
+
+13
+
+14
+15
+
+15
+
+16
+
+16
+
+16
+
+16
+
+16
+
+− 0.066**
+
+(0.021)
+
+− 0.106*** (0.020)
+
+− 0.149*** (0.017)
+
+− 0.123*** (0.017)
+
+− 0.113*** (0.016)
+
+− 0.116*** (0.020)
+
+− 0.106*** (0.019)
+
+− 0.093*** (0.014)
+
+− 0.116*** (0.020)
+
+− 0.076*** (0.011)
+
+− 0.096*** (0.012)
+
+− 0.092*** (0.011)
+
+− 0.085*** (0.012)
+
+− 0.081*** (0.010)
+
+− 0.079*** (0.008)
+
+8
+
+sd
+
+coeff
+
+β
+
+Total period analysis
+
+Model Years
+#
+
+(0.022) 1663 0.931
+
+(0.028) 1635 0.997
+
+(0.024) 1654 0.335
+
+(0.029) 1640 0.952
+
+(0.037) 1539 0.847
+
+(0.043) 1484 0.956
+
+(0.037) 1633 0.426
+
+(0.029) 1614 0.485
+
+0.031
+
+0.033
+
+(0.026) 1637 0.985
+
+(0.029) 1644 0.118
+
+0.090** (0.029) 1652 0.886
+
+0.033
+
+0.095** (0.030) 1572 0.852
+
+− 0.025
+
+0.006
+
+0.019
+
+− 0.037
+
+0.108*** (0.022) 1665 0.524
+
+0.992
+
+0.968
+
+0.990
+
+0.978
+
+0.987
+
+0.990
+
+0.991
+
+0.944
+
+0.982
+
+0.968
+
+0.961
+
+0.975
+
+0.986
+
+0.934
+
+0.979
+
+P(RMSEA <  = 0.05) CFI
+
+(0.020) 1675 1 000
+
+sd
+
+n
+
+0.138*** (0.028) 1648 0.640
+
+0.056*
+
+− 0.010
+
+0.011
+
+0.044*
+
+coeff
+
+ρ
+
+Table 7  FIML-SEM results for the total sector sample and different periods (WITHOUT first and last percentile)
+
+The size–growth relationship in the social services sector…
+461
+
+13
+
+13
+
+4
+
+4
+
+III.)
+
+***p ≤ 0.001
+
+**p ≤ 0.01
+
+*p ≤ 0.05
+
+IV.)
+
+4
+
+7
+
+7
+
+8
+
+10
+
+10
+
+10
+12
+13
+
+13
+
+16
+
+16
+
+16
+
+− 0.082***
+
+− 0.116***
+
+− 0.094***
+
+− 0.091***
+
+coeff
+
+Payslips as size indicator
+
+II.)
+
+β
+
+Years
+
+I.)
+
+Model
+
+0.034
+
+0.027
+
+0.013
+
+0.011
+
+sd
+
+Table 8  FIML-SEM results for the total sector sample and different periods (PAYSLIPS as size indicator)
+
+0.030
+
+− 0.041
+
+0.055
+
+0.051
+
+coeff
+
+ρ
+
+0.027
+
+0.046
+
+0.025
+
+0.021
+
+sd
+
+1658
+
+1508
+
+1674
+
+1696
+
+#
+
+n
+
+0.964
+
+0.730
+
+0.488
+
+0.999
+
+P(RMSEA <  = 0.05)
+
+0.951
+
+0.918
+
+0.813
+
+0.886
+
+CFI
+
+462
+S. Reitzinger, A. Pennerstorfer
+
+The size–growth relationship in the social services sector…
+
+463
+
+Funding Open access funding provided by Vienna University of Economics and Business (WU).
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is
+not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission
+directly from the copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​
+ses/​by/4.​0/.
+
+References
+Akcigit U, Baslandze S, Lotti F (2018) Connecting to power: political connections innovation and firm
+dynamics working paper, vol 72. Becker Friedman Institute for Economics University of Chicago,
+Chicago. https://​doi.​org/​10.​3386/​w25136
+Akehurst G (2008) What do we really know about services? Serv Bus 2(1):1–15. https://​doi.​org/​10.​1007/​
+s11628-​006-​0015-6
+Audretsch D, Klomp L, Santarelli E, Thurik R (2004) Gibrat’s law: are the services different? Rev Ind
+Organ 24(3):301–324. https://​doi.​org/​10.​1023/B:​REIO.​00000​38273.​50622.​ec
+Bachner F, Bobek J, Haiamana K, Ladurner J, Lepuschütz L, Hostermann H, Rainer L, Schmidt A, Zuba
+M, Quentin W, Winkelmann J (2018) Austria: health system review 2018. Health systems in transition, vol 20. WHO Regional Office for Europe, Copenhagen
+Backus P (2012) Gibrat’s law and legacy for non-profit organisations: a nonparametric analysis. Document de treball de l’IEB. Document de treball de l’IEB, Barcelona. DOI not applicable; http://​hdl.​
+handle.​net/​2445/​116309
+Backus P, Clifford D (2013) Are big charities becoming more dominant? Cross-sectional and longitudinal
+perspectives. J R Stat Soc A Stat Soc 176(3):761–776. https://​doi.​org/​10.​1111/j.​1467-​985X.​2012.​
+01057.x
+Bailly F, Devetter F-X, Horn F (2013) Can working and employment conditions in the personal services
+sector be improved? Camb J Econ 37(2):299–321. https://​doi.​org/​10.​1093/​cje/​bes071
+Belso-Martínez JA, Mas-Tur A, Sánchez M, López-Sánchez MJ (2020) The COVID-19 response system
+and collective social service provision. Strategic network dimensions and proximity considerations.
+Serv Bus 14(3):387–411. https://​doi.​org/​10.​1007/​s11628-​020-​00421-w
+Bentzen J, Madsen ES, Smith V (2006) The growth opportunities for SMC? J Bus Econ Manag 7(3):139–
+145. https://​doi.​org/​10.​1080/​16111​699.​2006.​96361​34
+Bentzen J, Madsen ES, Smith V (2012) Do firms’ growth rates depend on firm size? Small Bus Econ
+39(4):937–947. https://​doi.​org/​10.​1007/​s11187-​011-​9341-8
+Bianchini S, Bottazzi G, Tamagni F (2017) What does (not) characterize persistent corporate highgrowth? Small Bus Econ 48(3):633–656. https://​doi.​org/​10.​1007/​s11187-​016-​9790-1
+Bode I (2003) Flexible response in changing environments: the German third sector model in transition. Nonprofit Volunt Sect Q 32(2):190–210. https://​doi.​org/​10.​1177/​08997​64003​03200​2002
+Bouchard MJ (2012) Social innovation, an analytical grid for understanding the social economy:
+the example of the Québec housing sector. Serv Bus 6(1):47–59. https://​doi.​org/​10.​1007/​
+s11628-​011-​0123-9
+Bouchard MJ, Rousselière D (2018) Does Gibrat’s law hold among urban social economy enterprises?
+A research note on Montreal social economy. Economics Bulletin 38(3):1523–1540
+Burghardt D, Helm M (2015) Firm growth in the course of mergers and acquisitions. Small Bus Econ
+44(4):889–904. https://​doi.​org/​10.​1007/​s11187-​014-​9624-y
+Chaves R, Monzón JL (2012) Beyond the crisis: the social economy, prop of a new model of sustainable economic development. Serv Bus 6(1):5–26. https://​doi.​org/​10.​1007/​s11628-​011-​0125-7
+Chesher A (1979) Testing the law of proportionate effect. J Ind Econ 27(4):403–411. https://​doi.​org/​
+10.​2307/​20979​61
+
+13
+
+464
+
+S. Reitzinger, A. Pennerstorfer
+
+Clifford D (2017) Charitable organisations, the great recession and the age of austerity: longitudinal
+evidence for England and Wales. J Soc Policy 46(1):1–30. https://​doi.​org/​10.​1017/​S0047​27941​
+60003​25
+Coad A, Hölzl W (2009) On the autocorrelation of growth rates. J Ind Compet Trade 9(2):139–166.
+https://​doi.​org/​10.​1007/​s10842-​009-​0048-3
+Coad A, Daunfeldt S-O, Halvarsson D (2017) Bursting into life: firm growth and growth persistence
+by age. Small Bus Econ. https://​doi.​org/​10.​1007/​s11187-​017-​9872-8
+Contini B, Revelli R (1989) The relationship between firm growth and labor demand. Small Bus Econ
+1(4):309–314. https://​doi.​org/​10.​1007/​BF003​93810
+Costa E, Carini C (2016) Northern and southern Italian social cooperatives during the economic crisis:
+a multiple factor analysis. Serv Bus 10(2):369–392. https://​doi.​org/​10.​1007/​s11628-​015-​0274-1
+Daunfeldt S-O, Elert N (2013) When is Gibrat’s law a law? Small Bus Econ 41(1):133–147
+Eurostat (2020a) Employment by sex, age and economic activity (from 2008 onwards, NACE Rev.
+2)–1 000. https://​appsso.​euros​tat.​ec.​europa.​eu/​nui/​submi​tView​Table​Action.​do. Accessed 05 May
+2020
+Eurostat (2020b) Unemployment by sex and age – annual data. https://​appsso.​euros​tat.​ec.​europa.​eu/​
+nui/​show.​do?​datas​et=​une_​r t_​a&​lang=​en. Accessed 05 May 2020
+Evans D (1987) The relationship between firm growth, size, and age: estimates for 100 manufacturing
+industries. J Ind Econ 35(4):567–581
+Fiala R (2017) Testing convergence toward Gibrat’s law for Czech manufacturing firms. Ekonomický
+C̆asopis 65:715–736
+Fort TC, Haltiwanger J, Jarmin RS, Miranda J (2013) How firms respond to business cycles: the role
+of firm age and firm size. IMF Economic Review 61(3):520–559. https://​doi.​org/​10.​1057/​imfer.​
+2013.​15
+Fotopoulos G, Giotopoulos I (2010) Gibrat’s law and persistence of growth in Greek manufacturing.
+Small Bus Econ 35(2):191–202. https://​doi.​org/​10.​1007/​s11187-​008-​9163-5
+Gibrat R (1931) Les inegalités économiques. Librairie Du Receuil Sirey, Paris. https://​doi.​org/​10.​
+4236/​epe.​2011.​35076
+Hall BH (1987) The relationship between firm size and firm growth in the US manufacturing sector. J
+Ind Econ 35(4):583–606. https://​doi.​org/​10.​2307/​20985​89
+Harhoff D, Stahl K, Woywode M (1998) Legal form, growth and exit of West German firms—empirical results for manufacturing, construction, trade and service industries. J Ind Econ 46(4):453–
+488. https://​doi.​org/​10.​1111/​1467-​6451.​00083
+Harrison T, Laincz C (2008a) Does Gibrat’s law apply to nonprofits? DOI not applicable; http://​cites​
+eerx.​ist.​psu.​edu/​viewd​oc/​downl​oad?​doi=​10.1.​1.​540.​8812&​rep=​rep1&​type=​pdf
+Harrison TD, Laincz CA (2008) Entry and exit in the nonprofit sector. BE J Econ Anal Policy. https://​
+doi.​org/​10.​2202/​1935-​1682.​1937
+Heitzmann K, Österle A, Pennerstorfer A (2015) Soziale Dienstleistungen in Österreich: Zwischen
+Anspruch und Wirklichkeit. (Social services in Austria: Between requirements and reality). In:
+Beigewum (ed) Politische Ökonomie Österreichs. Kontinuitäten und Veränderungen seit dem
+EU-Beitritt (Austria’s political economy. Continuities and changes since the EU accession).
+Mandelbaum, Wien, pp. 120-131
+Heshmati A (2001) On the growth of micro and small firms: evidence from Sweden. Small Bus Econ
+17(3):213–228. https://​doi.​org/​10.​1023/a:​10118​86128​912
+Hora O, Sirovátka T (2014) Employment in the health and social services: evidence and problems. In:
+Sirovátka T, Greve B (eds) Innovation in social services: the public-private mix in service provision,
+fiscal policy and employment. Ashgate, Farnham
+Horvath A, Brandtner C, Powell WW (2018) Serve or conserve: mission, strategy, and multi-level nonprofit change during the great recession. VOLUNTAS 29(5):976–993. https://​doi.​org/​10.​1007/​
+s11266-​017-​9948-8
+Jonssón G, Stefánsson K (2013) Retrenchment or renewal? Welfare states in times of economic crisis, vol
+6. NordWel Studies in Historical Welfare State Research Bookwell, Porvoo
+Julià JF, Chaves R (2012) Introduction: social economy, a third sector in a plural people-oriented economy. Serv Bus 6(1):1–4. https://​doi.​org/​10.​1007/​s11628-​011-​0130-x
+Kersbergen K, Vis B, Hemerijck A (2014) The great recession and welfare state reform: is retrenchment
+really the only game left in town? Soc Policy Adm 48(7):883–904. https://​doi.​org/​10.​1111/​spol.​
+12063
+
+13
+
+The size–growth relationship in the social services sector…
+
+465
+
+Leisch R, Pennerstorfer A, Schneider U (2016) Aktualisierte daten für den non-profit bereich (Updated
+data for the non-profit sector). Statistische Nachrichten 2016(5):377–382
+Lotti F (2007) Firm dynamics in manufacturing and services: a broken mirror? Ind Corp Chang
+16(3):347–369. https://​doi.​org/​10.​1093/​icc/​dtm012
+Lotti F, Santarelli E, Vivarelli M (2009) Defending Gibrat’s law as a long-run regularity. Small Bus Econ
+32(1):31–44. https://​doi.​org/​10.​1007/​s11187-​007-​9071-0
+Mansfield E (1962) Entry, Gibrat’s law, innovation, and the growth of firms. Am Econ Rev
+52(5):1023–1051
+Moral-Benito E (2013) Likelihood-based estimation of dynamic panels with predetermined regressors. J
+Bus Econ Stat 31(4):451–472. https://​doi.​org/​10.​1080/​07350​015.​2013.​818003
+Morreale JC (2011) The Impact of the "Great Recession" on the financial resources of nonprofit organizations. Wilson Center for Social Entrepreneurship 5. DOI not applicable; http://​digit​alcom​mons.​pace.​
+edu/​wilson/5
+Neumark D, Wall B, Zhang J (2010) Do small businesses create more jobs? New evidence for the United
+States from the national establishment time series. Rev Econ Stat 93(1):16–29. https://​doi.​org/​10.​
+1162/​REST_a_​00060
+Neumayr M, Pennerstorfer A (2020) Government funding. In: Anheier HK, Toepler S (eds) Routledge
+companion to nonprofit management, Hrsg. Routledge, London, pp. 438–454
+Newman D (2003) Longitudinal modeling with randomly and systematically missing data: a simulation
+of ad hoc, maximum likelihood, and multiple imputation techniques. Organ Res Methods 6(3):328–
+362. https://​doi.​org/​10.​1177/​10944​28103​254673
+Nunes PM, Serrasqueiro Z (2009) Gibrat’s law: empirical test of Portuguese service industries using
+dynamic estimators. Serv Ind J 29(2):219–233. https://​doi.​org/​10.​1080/​02642​06080​22950​26
+Nunes PM, Gonçalves M, Serrasqueiro Z (2013) The influence of age on SMEs’ growth determinants:
+empirical evidence. Small Bus Econ 40(2):249–272. https://​doi.​org/​10.​1007/​s11187-​011-​9363-2
+Oliveira B, Fortunato A (2006) Firm growth and liquidity constraints: a dynamic analysis. Small Bus
+Econ 27(2):139–156. https://​doi.​org/​10.​1007/​s11187-​006-​0006-y
+Oliveira B, Fortunato A (2008) The dynamics of the growth of firms: evidence from the services sector.
+Empirica 35(3):293–312. https://​doi.​org/​10.​1007/​s10663-​008-​9065-4
+Pennerstorfer A, Schneider U, Reitzinger S (2015) Nonprofit organisationen in Österreich 2014 (Nonprofit Organizations in Austria 2014). Research Report, Institute for Social Policy, WU Vienna University of Economics and Business, 2015(1). https://​www.​wu.​ac.​at/​filea​dmin/​wu/d/​i/​sozia​lpoli​tik/​
+FB_​01_​2015_​gesamt.​pdf
+Pennerstorfer A, Reitzinger S, Schneider U (2020) The scarring effect of the 2008 economic crisis:
+growth and growth decline in Austria’s nonprofit social services sector. VOLUNTAS: Int J Volunt
+Nonprofit Organ 31(6):1173–1187. https://​doi.​org/​10.​1007/​s11266-​020-​00234-5
+Peric M, Vitezic V (2016) Impact of global economic crisis on firm growth. Small Bus Econ 46(1):1–12.
+https://​doi.​org/​10.​1007/​s11187-​015-​9671-z
+Rodríguez AC, Molina MA, Pérez ALG, Hernández UM (2003) Size, age and activity sector on the
+growth of the small and medium firm size. Small Bus Econ 21(3):289–307. https://​doi.​org/​10.​
+1023/a:​10257​83505​635
+Santarelli E, Klomp L, Thurik AR (2006) Gibrat’s law: an overview of the empirical literature. In: Santarelli E (ed) Entrepreneurship, growth, and innovation: the dynamics of firms and industries. Springer,
+Boston, pp 41–73. https://​doi.​org/​10.​1007/0-​387-​32314-7_3
+Siemer M (2019) Employment effects of financial constraints during the great recession. Rev Econ Stat
+101(1):16–29. https://​doi.​org/​10.​1162/​rest_a_​00733
+Sirovátka T, Greve B (eds) (2014) Innovation in social services. Ashgate, Farnham
+Stone MM, Hager MA, Griffin JJ (2001) Organizational characteristics and funding environments: a
+study of a population of united way–affiliated nonprofits. Public Adm Rev 61(3):276–289. https://​
+doi.​org/​10.​1111/​0033-​3352.​00030
+Teruel-Carrizosa M (2010) Gibrat’s law and the learning process. Small Bus Econ 34(4):355–373. https://​
+doi.​org/​10.​1007/​s11187-​008-​9127-9
+Wagner J (1992) Firm size, firm growth, and persistence of chance: testing Girbrat’s law with establishment data from Lower Saxony, 1978–1989. Small Bus Econ 4(2):125–131. https://​doi.​org/​10.​1007/​
+BF003​89853
+
+13
+
+466
+
+S. Reitzinger, A. Pennerstorfer
+
+Williams R, Allison PD, Moral-Benito E (2018) Linear dynamic panel-data estimation using maximum
+likelihood and structural equation modeling. Stata J 18(2):293–326. https://​doi.​org/​10.​1177/​15368​
+67x18​01800​201
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+
+13
+
+

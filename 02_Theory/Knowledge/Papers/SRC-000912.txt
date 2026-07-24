@@ -1,0 +1,871 @@
+Vol 15, Issue 8, (2025) E-ISSN: 2222-6990
+
+Integrating Social Cognitive Theory and Brand
+Equity Models: A Framework for Analyzing
+Audience Engagement Behavior in IP Animated
+Films
+Jiewei Wu1,2, Megat Al Imran Yasin1* and Chwee Fang Ng1
+1Faculty of Modern Languages and Communication, Universiti Putra Malaysia, 43400
+
+Serdang, Selangor, Malaysia, 2Faculty of Humanities, Guangzhou City Construction College,
+510925 Conghua District, Guangzhou City, Guangdong Province, People’s Republic of China
+* Corresponding Author Email: megat@upm.edu.my
+DOI Link: http://dx.doi.org/10.6007/IJARBSS/v15-i8/26139
+Published Date: 12 August 2025
+Abstract
+The IP animation industry in China is currently experiencing rapid growth, yet systematic
+theoretical research on audience engagement behavior remains scarce, especially regarding
+an integrated framework that combines personal factors and environmental factors.
+Therefore, this paper proposes a novel theoretical framework combining Bandura’s Social
+Cognitive Theory (SCT) and Aaker’s Brand Equity Model (BEM) to analyze audience
+engagement behaviors in IP animated films. By synthesizing personal factors (IP awareness,
+IP loyalty, IP associations, perceived quality) and environmental factors (film production, film
+promotion, film distribution), this study provides a holistic perspective to understand how
+cognitive, emotional, and environmental factors jointly shape audience engagement
+behavior. The framework is contextualized within China’s booming IP animation sector, with
+implications for global media industries seeking to leverage cultural IPs. The paper highlights
+the mediating role of audience attitudes and provides actionable insights for filmmakers and
+policymakers to enhance engagement strategies.
+Keywords: Social Cognitive Theory, Brand Equity Model, Audience engagement, IP animated
+films, Cultural adaptation
+Introduction
+In recent years, Intellectual property (IP) animated films have become a core force in China's
+cultural industry. IP animated films typically refer to animated works created based on
+existing intellectual properties, such as mythological tales, online novels, games, or classic
+literature (Peng, 2023). IP animated film series are developed based on a specific intellectual
+property and produced as a series of related films (Ji et al., 2024; Wei et al., 2023). These IPs,
+through adaptation, generate a brand aggregation effect, not only attracting high initial
+
+773
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+attention but also evoking emotional resonance among audiences, thereby promoting
+sustained viewing behaviors and brand-related consumption.
+The Ne Zha IP animated film series refers to animated films adapted from the Ne Zha story in
+the traditional Chinese literary classic The Investiture of the Gods. These films form a series
+based on the Ne Zha IP, and in this study, specifically refer to the Ne Zha 1 and Ne Zha 2
+animated films produced by China’s ENLIGHT MEDIA COLOROOM. Ne Zha 1 was released in
+mainland China in July 2019 and achieved a box office revenue of 5.035 billion RMB. Ne Zha
+2, the sequel to Ne Zha 1, was released in mainland China in January 2025. As of April 2025,
+Ne Zha 2 had earned 15.5 billion RMB at the box office, topping the global animated film box
+office rankings and ranking fifth in global box office history.
+The Ne Zha animated film series has not only achieved remarkable commercial success but
+also triggered extensive audience engagement across multiple platforms and levels, including
+repeat viewings, social media sharing, word-of-mouth recommendations, purchasing of
+derivative products, and participation in fan communities. These highly interactive behavioral
+patterns reveal the potential of IP animated films in fostering emotional connection and brand
+identification, while also highlighting the practical necessity of constructing a robust
+theoretical model to systematically analyze the underlying drivers of audience behavior.
+However, most current studies focus on adaptation strategies of IP animated films (Chen &
+Cho, 2024; Feng, 2022; Lau, 2024; Luo, 2020; Zhang & Li, 2020) and development strategies
+(Ju-Ae, 2024; Pan et al., 2019; Yan et al., 2021), while systematic exploration of the
+psychological mechanisms and brand perception logic underlying audience engagement
+behavior remains limited. In particular, at the theoretical level, the construction of models
+related to audience engagement behavior is still underdeveloped.
+To fill this gap, this study integrates Social Cognitive Theory (SCT), which emphasizes the
+interaction between individuals and their environment, with the Brand Equity Model (BEM),
+which focuses on brand-centered metrics, to construct an analytical framework for explaining
+audience engagement behavior in IP animated films. Using the Ne Zha IP animated film series
+as a case study, the research proposes a comprehensive path model that includes personal
+factors, environmental factors, audience attitudes, and audience engagement behavior,
+aiming to provide both theoretical support and practical insights for future IP film marketing
+and brand building.
+Theoretical Framework
+Current Status and Challenges in IP Animated Film Research
+Researchers used the PRISMA method to conduct a content search with the keyword “IP
+animated film” across three databases: Web of Science, Google Scholar, and Scopus,
+retrieving a total of 638 articles. During the screening process, the following criteria were
+applied: first, the publication date had to be between 2019 and 2024; second, the document
+type was limited to research articles, excluding book chapters, newspapers, conference
+papers, and others; third, the language of the articles had to be Chinese, English, or Korean;
+fourth, the articles needed to be openly accessible; and fifth, the research field had to belong
+to social sciences or arts and humanities. Through this process, 300 relevant articles were
+obtained. Then, based on the research questions and objectives, manual screening and
+
+774
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+selection were conducted, resulting in 38 articles. Finally, a quality assessment was performed
+on these 38 articles, and 12 articles were retained for this study.
+Based on the review of 12 articles, the study found that current academic research on IP
+animated films still has the following limitations:
+First, the research topics are primarily focused on IP adaptation strategies and IP development
+strategies, with a lack of systematic analysis of “audience engagement behaviors” themselves.
+This review identified seven major themes related to Chinese IP animated films. Among them,
+five articles focused on adaptation strategies of IP animated films (Chen & Cho, 2024; Feng,
+2022; Lau, 2024; Luo, 2020; Zhang & Li, 2020), and three articles focused on development
+strategies and key developmental factors of IP animated films (Ju-Ae, 2024; Pan et al., 2019;
+Yan et al., 2021). In addition, each of the following themes was explored in one study:
+narrative studies of IP animated films (Xuan & Hoon, 2020), IP character development (Jiang
+& Chung, 2022), traditional cultural elements in IP animated films (Peng, 2023), and aesthetics
+of IP animated films (Kim, 2019). Thus, it is evident that most existing research concentrates
+on the adaptation and development strategies of IP animated films, while audience-related
+studies remain insufficient. The lack of research on audience behavior toward Ne Zha IP
+animated films has led to stagnation in the development of this genre and a gradual
+disconnection from audiences. If this trend continues, IP animated films may fall into a vicious
+cycle of decline (Monaco, 2023). Therefore, understanding the influencing factors of audience
+engagement behavior is particularly important and critical.
+Second, the existing theoretical and empirical research remains limited. The researchers
+systematically reviewed the 12 articles mentioned above and found that 10 of these articles
+did not employ any theoretical frameworks or models (Feng, 2022; Jiang & Chung, 2022; JuAe, 2024; Lau, 2024; Luo, 2020; Pan et al., 2019; Peng, 2023; Xuan & Hoon, 2020; Yan et al.,
+2021; Zhang & Li, 2020), Only two studies involved theoretical frameworks: Space aesthetics
+theory (Kim, 2019) and Defamiliarization theory (Chen & Cho, 2024), however, there is a lack
+of empirical research.
+Third, the selection of behavioral variables is disconnected from the characteristics of IP,
+resulting in research findings that are difficult to generalize. Jia-yi et al. (2022), using Chinese
+animated brand equity as an example, developed an animation brand equity model based on
+the brand resonance model. The study proposed five brand equity dimensions: Brand
+Awareness, Perceived Content Quality, Perceived Culture, Perceived Innovation, and Creative
+Team Association. However, the theoretical variables in the above empirical study are weakly
+related to the specific characteristics of IP, so the findings are not entirely applicable to the
+Nezha IP animated film series.
+The limitations present in the above related studies reveal an urgent need to develop a
+measurable and verifiable theoretical framework of audience engagement behavior
+specifically tailored for IP animated films, in order to address the increasingly complex reality
+of audience interaction.
+Social Cognitive Theory
+Social Cognitive Theory (SCT) was introduced and developed by Bandura and Walters in 1963.
+In SCT, personal factors refer to an individual’s internal psychological and cognitive
+
+775
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+characteristics, which primarily include: cognitive abilities (such as observation, memory,
+reasoning); beliefs and attitudes (views on oneself, others, or behaviors); self-efficacy
+(confidence in one's ability to accomplish specific tasks); emotions and motivation (goals,
+needs, emotional states). These factors directly influence how individuals interpret
+environmental information, choose their behaviors, and shape the learning and development
+process through the dynamic interaction of personal factors, behavior, and the environment
+(known as triadic reciprocal determinism) (Bandura, 2013). As shown in Figure 1.
+
+Figure 1: Social Cognitive Theory Model
+Source : (Bandura, 1986)
+In SCT, the environment refers to factors that influence an individual’s behavior. The
+environment can be divided into physical and social environments. The environment provides
+a framework for understanding behavior (Parraga, 1990), and these three factors—
+environment, personal factors, and behavior—constantly interact and influence each other
+(Bandura, 2013).
+Previous studies have primarily applied Social Cognitive Theory to explore educational
+behaviors (Hosen et al., 2021; Rubenstein et al., 2018) , entrepreneurial behaviors (Madawala
+et al., 2023; Peng et al., 2023; Wang et al., 2019; Zaman et al., 2024), health behaviors (Kim &
+Han, 2021; Rolling & Hong, 2016; Xu et al., 2017), water conservation behaviors (Shahangian
+et al., 2021), green consumption behaviors (Lin & Hsu, 2015), and adolescent gaming
+behaviors (Chen et al., 2024). These studies demonstrate that Social Cognitive Theory has
+strong applicability in explaining individual behavior across various fields. However, there
+remains a gap in research applying Social Cognitive Theory to understand movie audience
+engagement behaviors. To fill this gap, this study attempts to use Social Cognitive Theory to
+explore the relationship between personal factors, environmental factors, and audience
+engagement behaviors in IP animated films.
+Brand Equity Model
+Aaker (1991) describes brand equity as the tangible and intangible assets a brand possesses
+that are relevant to consumers, encompassing all resources and capabilities that can influence
+consumer choice behavior and brand loyalty. Aaker (1991) proposed five components of
+brand equity: brand awareness, brand loyalty, perceived quality, brand associations, and
+
+776
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+other proprietary brand assets (such as patents, trademarks, and channel relationships), as
+shown in Figure 2.
+
+Figure 2 : Brand Equity Model
+Source : Aaker (1991)
+Over the past three decades, brand equity has attracted significant interest from both
+academia and practice (Yoo & Donthu, 2001), and substantial research has been conducted
+in traditional industries such as luxury goods, automobiles, apparel, and agricultural products,
+garnering widespread attention (Husain et al., 2022; Siddiqui, 2022). An outstanding
+animation brand can bring higher customer loyalty, higher profit margins, and more efficient
+marketing strategies to film production companies (Siu et al., 2016). It helps reduce perceived
+monetary risks for customers before making an actual purchase (Zhen & Mansor, 2022). For
+animation brands, building strong brand equity has always been considered a key factor in
+establishing a successful animation brand (Sharma, 2016). Given that brand equity has a
+significant impact on consumer attitudes and behavior (Lu et al., 2015; Ren et al., 2023;
+Siddiqui, 2022), both scholars and managers should gain a deeper understanding of brand
+equity and its influence on business outcomes (Siu et al., 2016). However, the current
+understanding of how brand equity in IP animated films influences audience engagement
+remains limited. Therefore, this study aims to fill this gap.
+Integrated Conceptual Framework
+Personal Factors: Integration of Core Dimensions from the Brand Equity Model
+The core dimensions of brand equity—brand awareness, brand loyalty, perceived quality, and
+brand associations—exhibit significant consumer cognitive characteristics, which closely align
+with the “personal factors” in Social Cognitive Theory. Therefore, incorporating the four
+dimensions of brand equity into the “personal factors” category of Social Cognitive Theory is
+theoretically feasible. First, the elements of the Brand Equity Model are adapted to fit the
+context of IP animated films. Specifically, brand awareness, brand loyalty, brand associations,
+and perceived quality are redefined as IP awareness, IP loyalty, IP associations, and perceived
+quality, as shown in Figure 3. These adapted elements are then integrated into the personal
+factors dimension within the Social Cognitive Theory framework, as shown in Figure 4，
+thereby enhancing the theoretical connection between brand equity and IP animated films.
+This adjustment aims to highlight how IP brand cognition drives audience engagement.
+
+777
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Figure 3 : Integration of Social Cognitive Theory and Brand Equity Model
+Source : Authors’own work
+Environmental Factors
+Social cognitive theory also emphasizes the impact of environmental factors on behavior
+(Bandura, 1986). External environmental factors refer to the conditions that influence a film
+after its production is completed, including distribution strategies, media and critic reviews,
+advertising and promotion, word-of-mouth communication, as well as the broader social
+atmosphere at the time of release (Hwang et al., 2017). The black box model categorizes
+environmental influences into two main types: marketing stimuli and environmental stimuli.
+Marketing stimuli refer to factors that marketers can manipulate, such as product, pricing,
+distribution, and promotional activities. On the other hand, environmental stimuli consist of
+external elements like economic conditions, technological advancements, political
+landscapes, and cultural influences, which are generally outside the marketers' influence
+(Haw et al., 2013). At present, most scholars tend to analyze environmental factors
+influencing audience movie-watching behavior from the perspective of marketing stimuli.
+Many scholars in the past have argued that in the film industry, advertising, promotional
+campaigns, and distribution channels are environmental factors influencing audience
+behavior (Hassija et al., 2024; Kim & 조성근, 2015; Wu & Niyomsilp, 2022; Yoga &
+Hendrawan, 2019). Researchers have identified the common characteristics of these factors
+as three themes: film production, film promotion, and film distribution, which are then
+integrated into the environmental factors dimension of Social Cognitive Theory. This study
+aims to reveal the impact mechanism of environmental factors on audience engagement
+behavior and provide a new theoretical perspective for the study of IP film audience behavior.
+Mediating Variable: Audience Attitude
+External factors can influence behavior by affecting consumer attitudes, a phenomenon that
+has been widely studied across various fields (Muchran & Ahmar, 2019; Rastini & Respati,
+2021). Çabuk et al. (2014) focused on the mediating role of attitude between food safety
+concerns and purchase intention, while Domínguez-Valerio et al. (2019) found a significant
+mediating effect of student attitudes between sustainability awareness and behavior. Verma
+and Sinha (2017) found that perceived ease of use is influenced by attitude, while other
+predictive factors directly impact behavioral intentions, this suggests that addressing attitude
+issues is essential for making agricultural extension services appear easy to use.
+
+778
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Therefore, this study posits that audience attitudes toward the Ne Zha IP animated film series
+have a significant mediating effect on the relationship between personal factors (IP
+awareness, IP loyalty, IP associations, and perceived quality) and audience engagement
+behaviors.
+Audience Engagement Behavior
+In the field of cinema, scholars have provided more specific definitions of audience
+engagement behaviors. Rubin et al. (2022) summarize these behaviors as immersive viewing
+experiences, repeat viewing behaviors, positive word-of-mouth, movie-themed tourism,
+interaction with derivative content (such as playing movie-adapted games, reading related
+books, visiting movie websites), fan creation and consumption of fan works, purchasing
+merchandise, and incorporating movie elements into popular culture (such as quoting lines
+or role-playing). Kohli et al. (2021) emphasize behaviors such as purchasing derivative
+products, recommending films, cross-platform content extension (such as movie-adapted TV
+series or games), and community participation. Engagement not only enhances audience
+satisfaction, but it has been found to be even more explanatory than satisfaction in predicting
+consumer behavior (Calder et al., 2016). Related studies have also discovered that
+engagement behaviors significantly influence key marketing metrics such as trust-building,
+brand loyalty, word-of-mouth communication, purchase intention, and repeat consumption
+(Brodie et al., 2013; Calder et al., 2016; Kumar, 2013).
+Based on the aforementioned research, this study operationalizes the audience engagement
+behaviors for the Ne Zha IP animated film series as follows: repeat viewing, positive word-ofmouth communication, interaction with movie-related content, and purchase intention for
+movie merchandise.
+Conceptual Framework
+The integrated model framework is shown in Figure 4.
+
+Figure 3: Conceptual Framework
+Source : Authors’own work
+
+779
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Case Application: Nezha Ip Series
+This framework will then be applied to a case analysis of the “Ne Zha” IP animated film series
+to demonstrate its applicability and explanatory power in a real-world context.
+Personal Factors
+IP Awareness. Aaker (1991) asserts that brand awareness is the perception that potential
+customers recognize or recall a brand as part of a specific product category. According to
+Keller (2013), brand awareness involves consumer responses triggered by brand-related
+situations or contexts. This study defines IP awareness as the degree to which the audience
+recognizes and recalls the Ne Zha IP animated film series. It includes both IP recognition (the
+ability of consumers to identify the Ne Zha IP animated film series) and brand recall (the ability
+of consumers to remember the Ne Zha IP animated film series in a specific context). Previous
+studies have shown that brand awareness can enhance the advantages of a brand being
+chosen (Keller, 2013), influence market share (Srinivasan et al., 2005), and positively impact
+consumers' evaluations of the brand (Hsu & Chen, 2018; Miniard et al., 2018). It is generally
+believed that brand awareness has a positive effect on consumer attitudes and behavioral
+intentions (Dick & Basu, 1994; Han, 2015).Therefore, this study argues that IP awareness has
+a positive impact on audience attitudes and audience engagement behavior in the Ne Zha IP
+animated film series.
+IP Loyalty. Customer loyalty is critical for a brand's long-term competitive advantage over its
+rivals (Almeida & Coelho, 2019; Sharma & Jain, 2019). This study focuses on attitude loyalty,
+which emphasizes consumers' preference for and commitment to a brand (Bennett et al.,
+2005; Cachero-Martínez & Vázquez-Casielles, 2021; Jones & Taylor, 2007; Pike & Bianchi,
+2016). Extending this concept to the IP movie domain, IP loyalty refers to the emotional
+attachment and psychological commitment to the Ne Zha IP animated film series. Brand
+loyalty indicates that consumers hold a positive attitude toward a specific brand and tend to
+purchase that brand regularly (Yang, 2009). Brand loyalty is crucial for long-term profitability
+(Chaudhuri and Holbrook, 2001; Cossío-Silva et al., 2016) and leads to stronger brand
+evaluations by consumers (Belaid & Temessek Behi, 2011; Chaudhuri & Holbrook, 2001;
+Hollebeek, 2011; Lou & Xie, 2021; Park et al., 2010; Shimul et al., 2019). Based on this, the
+study hypothesizes that if the audience exhibits attitude loyalty toward the Ne Zha IP
+animated film series, they will maintain a consistently positive attitude and continue to
+support the series with sustained behavior.
+IP Associations. Brand associations are any elements related to a brand in the customer’s
+memory (Keller, 1993), and brand associations are considered to encompass "the meaning of
+the brand to consumers" (Keller, 1993). Brand personality and organizational associations
+have been used as measures for brand associations (Pappu et al., 2006), where organizational
+associations refer to consumers' overall impression of a company (Aaker, 1996). Based on the
+characteristics of animated films, this study focuses on the aspect of organizational
+associations. Therefore, in this study, IP associations refer to the audience’s overall
+impression of the company behind the creation of the Ne Zha IP animated film series, ENLIGHT
+MEDIA COLOROOM, in China. Excellent organizational associations are, in themselves, a part
+of brand equity, representing a key element of an organization's image and one of the
+associations consumers hold about it. In the animated film industry, the creative production
+team behind the scenes is particularly important. For instance, the Ne Zha IP animated film
+
+780
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+series—NEZHA1 and NEZHA2—were produced by the Chinese company ENLIGHT MEDIA
+COLOROOM, both of which achieved high box-office earnings. This indicates that animation
+brands with strong organizational associations positively influence audience attitudes and
+behavior.
+Perceive Quality. Aaker (1992) argues that perceived quality is the primary reason consumers
+choose to purchase products from a specific brand. As a key element of brand equity,
+perceived quality is closely tied to the brand and its main function is to showcase or create a
+competitive advantage for the target audience (Wang et al., 2020). In this study, perceived
+quality refers to the audience's subjective overall evaluation of the Ne Zha IP animated film
+series. Perceived content quality is an important factor influencing decisions to consume,
+engage with, and share content, and many studies have explained or evaluated the impact of
+quality on consumer attitudes and behaviors (Fei et al., 2017; Filieri et al., 2023; Hassan
+Fathelrahman Mansour & Mohammed Elzubier Diab, 2016; Hemsworth et al., 2005; Mohd
+Suki, 2014; Owusu Kwateng et al., 2021; Rai et al., 2021; Richardson et al., 1996; Saeed & G.
+Grunert, 2014; Zhou et al., 2023). Therefore, in the current study, the audience's perceived
+quality of the Ne Zha IP animated film series may be a significant factor influencing their
+attitudes and engagement behaviors.
+Environmental Factors
+Film Production. The key creative team members during the film production phase are the
+director, actors, and producers, among others. The reputation of the director and the quality
+of their previous works directly influence the audience's expectations for a new film. For
+example, works by renowned directors typically attract a large fan base, increasing the film's
+visibility and box office performance (Wei & Yang, 2022). Movie stars and directors can be
+regarded as human brands (Yeol et al., 2012). The quality of the actors and director is
+considered a key factor in determining the quality of the film (Niraj & Singh, 2015). Therefore,
+this study posits that there is a positive relationship between film production and the
+audience engagement behavior of the Ne Zha IP animated film series.
+Film Promotion. Film promotion refers to the promotional activities conducted after a film's
+completion to attract viewers (Ulker-Demirel et al., 2018). Previous research has identified
+various Film Promotion factors that influence audience decisions to watch a film. For example,
+Afifah et al. (2022) proposed that Film Promotion elements include others' opinions and
+reviews, as well as media publicity, and focused on examining how these elements influence
+the audience's behavior in watching Chinese animated films. Similarly, Suvattanadilok (2021)
+argued that promotional programs, social media platform activities, and trailer assessments
+affect the audience's decision-making in cinema. Lee et al. (2021) also noted that consumer
+ticket purchases are influenced by external factors like advertisements and media reports.
+Wu and Niyomsilp (2020) further discovered that three types of viewing behaviors in
+university students (paid viewing, preferred viewing, and recommending films to others) are
+influenced by social environments, such as viewing behaviors or support from friends and
+family. Therefore, this study posits that there is a positive relationship between film
+promotion and the audience engagement behavior of the Ne Zha IP animated film series.
+Film Distribution. Film distribution refers to the sales and rental activities of a film, which are
+the core business of film distribution companies. The primary distribution channels for films
+
+781
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+are through cinemas, which include factors such as release timing, ticket prices, ticket sales
+events, cinema lottery promotions, and cinema posters (Rubin et al., 2022). In this study, Film
+Distribution refers to factors related to the Ne Zha IP animated film series, such as the release
+schedule, cinema availability, screening times, and other related factors. Holidays are often
+crucial periods for the movie market, as the demand for travel and entertainment increases.
+Cinemas typically release key films during these times to attract more viewers (Hu et al.,
+2018). Moreover, the scheduling of screening times is equally critical, as it directly influences
+the audience's viewing choices and convenience. Feng (2017) found that more screening
+sessions provide viewers with more flexible viewing times, increasing ticket purchase
+opportunities and ultimately boosting the film's overall box office performance. Therefore,
+this study posits that there is a positive relationship between Film Distribution and the
+audience engagement behavior of the Ne Zha IP animated film series.
+Conclusion
+Implication of the Study
+This study takes the Nezha IP animated film series as an example and integrates Social
+Cognitive Theory (SCT) with the Brand Equity Model to construct a theoretical framework for
+analyzing audience engagement behavior in IP animated films. This paper expands the
+application scope of Social Cognitive Theory by extending SCT from its traditional research
+fields such as education, health, and entrepreneurship to the study of audience engagement
+behavior in IP animated films, thereby enriching the theory’s applicability and explanatory
+power. The structural dimensions of the brand equity model in the context of cultural
+products have been redefined by incorporating IP animated brand equity into the“personal
+factors” dimension of Social Cognitive Theory, thereby enhancing the theoretical
+compatibility between the model and the Ne Zha IP animated films. This integrative approach
+helps provide a more comprehensive understanding of how audience perceptions of the Ne
+Zha IP series influence their engagement behaviors.
+This study offers the following insights into the brand building and content dissemination
+practices of IP animated films: Film producers and marketers should focus on enhancing the
+cultural recognizability of the IP, refining the core character design, and developing a coherent
+symbolic system. These efforts help strengthen audience recognition and emotional
+association with the IP, thereby fostering IP loyalty. At the same time, attention should be
+paid to the overall synergistic effect of environmental factors. The precision of film
+production, the timing of promotional activities, and the distribution strategy must work
+together cohesively. In particular, the breadth of distribution channels and the compatibility
+with various platforms should be emphasized to maximize audience reach and stimulate
+engagement behaviors.
+Limitations and Recommendations for Future Research
+This study constructs an analytical framework for explaining audience engagement behavior
+in IP animated films by innovatively integrating Social Cognitive Theory and the Brand Equity
+Model, thus making a theoretical contribution. But there are several limitations that warrant
+further exploration in future research. First, the lack of large-sample empirical validation: this
+study has not yet conducted a complete questionnaire survey and statistical analysis; future
+research can quantitatively validate the model paths using methods such as Structural
+Equation Modeling (SEM). Second, sample type and geographic limitations: this study focuses
+
+782
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+on the Nezha IP animated film series, primarily targeting the IP animation market in mainland
+China. Future studies could expand to IP products in different cultural contexts, such as
+Japanese anime or Western superhero franchises, to enhance the model’s generalizability.
+Third, the variable dimensions need to be further enriched: future research could introduce
+additional psychological dimensions, such as "cultural identity" and "viewing motivation," to
+improve the model’s explanatory power regarding audience behavior.
+References
+Aaker, D. A. (1991). Managing brand equity: Capitalizing on the value of a brand name. Free
+Press google schola, 2, 102-120.
+Aaker, D. A. (1992). The value of brand equity. Journal of business strategy, 13(4), 27-32.
+Aaker, D. A. (1996). Measuring brand equity across products and markets. California
+management review, 38(3).
+Afifah, N., Daud, I., & Mulyadina, M. (2022). Viewer behavior on social media: Viral marketing
+of a movie trailer in Indonesia. Gadjah Mada International Journal of Business, 24(2),
+178-197.
+Almeida, M. d. G. M. C., & Coelho, A. F. M. (2019). The antecedents of corporate reputation
+and image and their impacts on employee commitment and performance: The
+moderating role of CSR. Corporate Reputation Review, 22, 10-25.
+Bandura, A. (1986). Social foundation of thought and action. In: Englewood cliffs, NJ: prentice
+Hall.
+Bandura, A. (2013). Health promotion from the perspective of social cognitive theory. In
+Understanding and changing health behaviour (pp. 299-339). Psychology Press.
+Belaid, S., & Temessek Behi, A. (2011). The role of attachment in building consumer-brand
+relationships: an empirical investigation in the utilitarian consumption context. Journal
+of
+product
+&
+brand
+management,
+20(1),
+37-47.
+https://doi.org/10.1108/10610421111108003
+Bennett, R., Härtel, C. E., & McColl-Kennedy, J. R. (2005). Experience as a moderator of
+involvement and satisfaction on brand loyalty in a business-to-business setting 02-314R.
+Industrial
+marketing
+management,
+34(1),
+97-107.
+https://doi.org/10.1016/j.indmarman.2004.08.003
+Brodie, R. J., Ilic, A., Juric, B., & Hollebeek, L. (2013). Consumer engagement in a virtual brand
+community: An exploratory analysis. Journal of Business Research, 66(1), 105-114.
+https://doi.org/10.1016/j.jbusres.2011.07.029
+Çabuk, S., Tanrikulu, C., & Gelibolu, L. (2014). Understanding organic food consumption:
+attitude as a mediator. International Journal of consumer studies, 38(4), 337-345.
+https://doi.org/10.1111/ijcs.12094
+Cachero-Martínez, S., & Vázquez-Casielles, R. (2021). Building consumer loyalty through eshopping experiences: The mediating role of emotions. Journal of Retailing and
+Consumer Services, 60, 102481. https://doi.org/10.1016/j.jretconser.2021.102481
+Calder, B. J., Isaac, M. S., & Malthouse, E. C. (2016). How to capture consumer experiences: A
+context-specific approach to measuring engagement: Predicting consumer behavior
+across qualitatively different experiences. Journal of advertising research, 56(1), 39-52.
+https://doi.org/10.2501/JAR-2015-028
+Chaudhuri, A., & Holbrook, M. B. (2001). The chain of effects from brand trust and brand affect
+to brand performance: the role of brand loyalty. Journal of marketing, 65(2), 81-93.
+
+783
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Chen, H., Chen, Y., & Chen, J. (2024). Protecting teenagers' gaming privacy: the roles of
+parental mediation, platform protection, and risky encounters. Behaviour & Information
+Technology, 43(14), 3578-3591. https://doi.org/10.1080/0144929x.2023.2285941
+Chen, K., & Cho, S.-W. (2024). Modernizing Chinese Mythological IP: A Defamiliarization
+Analysis of" Nezha: I am the Destiny. Asia-pacific Journal of Convergent Research
+Interchange (APJCRI), 10, 461-471. https://doi.org/10.47116/apjcri.2024.01.36
+Dick, A. S., & Basu, K. (1994). Customer loyalty: toward an integrated conceptual framework.
+Journal of the academy of marketing science, 22, 99-113.
+Domínguez-Valerio, C. M., Moral-Cuadra, S., Medina-Viruel, M. J., & Orgaz-Agüera, F. (2019).
+Attitude as a mediator between sustainable behaviour and sustainable knowledge: An
+approximation through a case study in the Dominican Republic. Social Sciences, 8(10),
+288. https://doi.org/10.3390/socsci8100288
+Fei, T. P., Kasim, S., Hassan, R., Ismail, M. N., Salikon, M. Z. M., Ruslai, H., Jahidin, K., & Arshad,
+M. S. (2017). SWM: Smart waste management for green environment. 2017 6th ICT
+International Student Project Conference (ICT-ISPC),
+Feng, G. C. (2017). The dynamics of the Chinese film industry: factors affecting Chinese
+audiences’ intentions to see movies. Asia Pacific Business Review, 23(5), 658-676.
+https://doi.org/10.1080/13602381.2017.1294353
+Feng, H. (2022). Reconstruction of Mythic Imagination, Modern Identity, and Cross-media
+Exploration A Case Study of the Gods of Honour-Series Films of COLOROOM. BCP Social
+Sciences & Humanities 18, 540-545. https://doi.org/10.54691/bcpssh.v18i.1159
+Filieri, R., Acikgoz, F., & Du, H. (2023). Electronic word-of-mouth from video bloggers: The role
+of content quality and source homophily across hedonic and utilitarian products. Journal
+of
+Business
+Research,
+160,
+Article
+113774.
+https://doi.org/10.1016/j.jbusres.2023.113774
+Han, H. (2015). Travelers' pro-environmental behavior in a green lodging context: Converging
+value-belief-norm theory and the theory of planned behavior. Tourism Management, 47,
+164-177. https://doi.org/10.1016/j.tourman.2014.09.014
+Hassan Fathelrahman Mansour, I., & Mohammed Elzubier Diab, D. (2016). The relationship
+between celebrities’ credibility and advertising effectiveness: The mediation role of
+religiosity. Journal of Islamic Marketing, 7(2), 148-166. https://doi.org/10.1108/JIMA05-2013-0036
+Hassija, V., Chamola, V., Mahapatra, A., Singal, A., Goel, D., Huang, K., Scardapane, S., Spinelli,
+I., Mahmud, M., & Hussain, A. (2024). Interpreting black-box models: a review on
+explainable artificial intelligence. Cognitive Computation, 16(1), 45-74.
+Haw, W. Y., Ho, E., Lim, Y. L., & Wong, J. W. (2013). The effect of trailer, critic review, star power
+and word of mouth toward decision making on movie consumption UTAR].
+Hemsworth, D., Sánchez-Rodríguez, C., & Bidgood, B. (2005). Determining the impact of
+quality management practices and purchasing-related information systems on
+purchasing performance: A structural model. Journal of Enterprise information
+management, 18(2), 169-194. https://doi.org/10.1108/17410390510579909
+Hollebeek, L. (2011). Exploring customer brand engagement: definition and themes. Journal
+of strategic Marketing, 19(7), 555-573. https://doi.org/10.1080/0965254X.2011.599493
+Hosen, M., Ogbeibu, S., Giridharan, B., Cham, T.-H., Lim, W. M., & Paul, J. (2021). Individual
+motivation and social media influence on student knowledge sharing and learning
+performance: Evidence from an emerging economy. Computers & Education, 172,
+104262. https://doi.org/10.1016/j.compedu.2021.104262
+
+784
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Hsu, C.-L., & Chen, M.-C. (2018). How does gamification improve user experience? An
+empirical investigation on the antecedences and consequences of user experience and
+its mediating role. Technological Forecasting and Social Change, 132, 118-129.
+https://doi.org/10.1016/j.techfore.2018.01.023
+Hu, Y.-H., Shiau, W.-M., Shih, S.-P., & Chen, C.-J. (2018). Considering online consumer reviews
+to predict movie box-office performance between the years 2009 and 2014 in the US.
+The Electronic Library, 36(6), 1010-1026. https://doi.org/10.1108/EL-02-2018-0040
+Husain, R., Ahmad, A., & Khan, B. M. (2022). The impact of brand equity, status consumption,
+and brand trust on purchase intention of luxury brands. Cogent Business & Management,
+9(1), Article 2034234. https://doi.org/10.1080/23311975.2022.2034234
+Hwang, Y., Kim, K., Kwon, O., Moon, I., Shin, G., Ham, J., & Park, J. (2017). Analyzing box-office
+hit factors using big data: Focusing on Korean films for the last 5 years.
+https://doi.org/10.6109/jicce.2017.15.4.217
+Ji, H., Liao, B., & Cheng, J. (2024). Research on brand spillover effect of China’s IP movie based
+on signal theory. 2024 10th International Conference on Humanities and Social Science
+Research (ICHSSR 2024),
+Jia-yi, F., Yan-qiao, L., Qi-xing, Q., & Li, Z. (2022). Creating cultural brand equity from the
+perspective of consumer cognition–a case study of Chinese animation brands. Procedia
+Computer Science, 199, 589-596. https://doi.org/10.1016/j.procs.2022.01.072
+Jiang, Q., & Chung, J.-H. (2022). A Case Study of Intellectual Property Rights Using Animation
+Characters.
+Journal
+of
+Digital
+Convergence,
+20(2),
+361-366.
+https://doi.org/10.14400/JDC.2022.20.2.361
+Jones, T., & Taylor, S. F. (2007). The conceptual domain of service loyalty: how many
+dimensions?
+Journal
+of
+Services
+Marketing,
+21(1),
+36-51.
+https://doi.org/10.1108/08876040710726284
+Ju-Ae, B. (2024). The Revival of Chinese Animation Through Traditional Culture [researcharticle].
+The
+Journal
+of
+Sinology,
+82,
+309-323.
+https://doi.org/10.23004/kchcu.2024..82.017
+Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based brand equity.
+Journal of marketing, 57(1), 1-22.
+Keller, K. L. (2013). Building, Measuring, and Managing Brand Equity.
+Kim, B.-K. (2019). A Study on Development of Chinese xian-xia films and its Space Aesthetics
+in the 21st Century -Foucuse on Journey to the West films [research-article]. Journal of
+Convergence
+for
+Information
+Technology,
+9(2),
+115-120.
+https://doi.org/10.22156/CS4SMB.2019.9.2.115
+Kim, E., & Han, S. (2021). Determinants of Continuance Intention to Use Health Apps among
+Users over 60: A Test of Social Cognitive Model. International Journal of Environmental
+Research
+and
+Public
+Health,
+18(19),
+Article
+10367.
+https://doi.org/10.3390/ijerph181910367
+Kim, J., & 조성근. (2015). Study on Determinants of Intention to Watch Movie Applying the
+Theory of Planned Behavior: Focused on Role of Presentation Format of Movie Poster
+[계획행동 이론을 적용한 영화관람 의도의 결정요인에 관한 연구: 영화포스터
+표현형식의 조절역할을 중심으로] [research-article]. Asia-Pacific Journal of Business
+Venturing
+and
+Entrepreneurship,
+10(6),
+177-186.
+https://doi.org/10.16972/apjbve.10.6.201512.177
+
+785
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Kohli, G. S., Yen, D., Alwi, S., & Gupta, S. (2021). Film or film brand? UK consumers’ engagement
+with films as brands. British Journal of Management, 32(2), 369-398.
+https://doi.org/10.1111/1467-8551.12401
+Kumar, V. (2013). Profitable customer engagement: Concepts, metrics, and strategies. (No
+Title).
+Lau, M.-c. (2024). Research on the Modernization Innovation of the Traditional Chinese God
+Evil Spirit Novel "The Investiture of the Gods" - Centered on “Jiang Ziya” [researcharticle]. The Journal of the Korea Contents Association, 24(7), 227-238.
+https://doi.org/10.5392/JKCA.2024.24.07.227
+Lee, Y., Kim, S. H., & Cha, K. C. (2021). Impact of online information on the diffusion of movies:
+Focusing on cultural differences. Journal of Business Research, 130, 603-609.
+https://doi.org/10.1016/j.jbusres.2019.08.044
+Lin, H. Y., & Hsu, M. H. (2015). Using social cognitive theory to investigate green consumer
+behavior.
+Business
+Strategy
+and
+the
+Environment,
+24(5),
+326-343.
+https://doi.org/10.1002/bse.1820
+Lou, C., & Xie, Q. (2021). Something social, something entertaining? How digital content
+marketing augments consumer experience and brand loyalty. International Journal of
+Advertising, 40(3), 376-402. https://doi.org/10.1080/02650487.2020.1788311
+Lu, A. C. C., Gursoy, D., & Lu, C. Y. (2015). Authenticity perceptions, brand equity and brand
+choice intention: The case of ethnic restaurants. International Journal of Hospitality
+Management, 50, 36-45. https://doi.org/10.1016/j.ijhm.2015.07.008
+Luo, J. (2020). Exploration of Animation Ip Adaptation Mode Based on Internet Plus
+Background and New Media Context. Academic Journal of Humanities & Social Sciences,
+3(10), 35-40. https://doi.org/10.25236/AJHSS.2020.031005
+Madawala, K., Foroudi, P., & Palazzo, M. (2023). Exploring the role played by entrepreneurial
+self-efficacy among women entrepreneurs in tourism sector. Journal of Retailing and
+Consumer
+Services,
+74,
+Article
+103395.
+https://doi.org/10.1016/j.jretconser.2023.103395
+Miniard, P. W., Jayanti, R. K., Alvarez, C. M., & Dickson, P. R. (2018). What brand extensions
+need to fully benefit from their parental heritage. Journal of the academy of marketing
+science, 46, 948-963. https://doi.org/10.1007/s11747-018-0586-5
+Mohd Suki, N. (2014). Does celebrity credibility influence Muslim and non-Muslim consumers’
+attitudes toward brands and purchase intention? Journal of Islamic Marketing, 5(2), 227240. https://doi.org/10.1108/JIMA-04-2013-0024
+Monaco, P. (2023). A history of American movies: a film-by-film look at the art, craft, and
+business of cinema. Rowman & Littlefield.
+Muchran, M., & Ahmar, A. S. (2019). Application of TAM model to the use of information
+technology.
+arXiv
+preprint
+arXiv:1901.11358.
+https://doi.org/10.48550/arXiv.1901.11358
+Niraj, R., & Singh, J. (2015). Impact of user-generated and professional critics reviews on
+Bollywood movie success. Australasian Marketing Journal, 23(3), 179-187.
+https://doi.org/10.1016/j.ausmj.2015.02.001
+Owusu Kwateng, K., Yobanta, A. L., & Amanor, K. (2021). Hedonic and utilitarian perspective
+of mobile phones purchase intention. Journal of Contemporary Marketing Science, 4(1),
+44-68.
+Pan, Y., Choi, C., & Meng, Z. (2019). Research on the Development of One IP(intellectual
+property) Animation & Game in Chinese Market [research-article]. The International
+
+786
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Journal of Internet, Broadcasting and Communication, 11(2), 67-75.
+https://doi.org/10.7236/IJIBC.2019.11.2.67
+Pappu, R., Quester, P. G., & Cooksey, R. W. (2006). Consumer-based brand equity and countryof-origin relationships: Some empirical evidence. European Journal of marketing,
+40(5/6), 696-717. https://doi.org/10.1108/03090560610657903
+Park, C. W., MacInnis, D. J., Priester, J., Eisingerich, A. B., & Iacobucci, D. (2010). Brand
+attachment and brand attitude strength: Conceptual and empirical differentiation of two
+critical brand equity drivers. Journal of marketing, 74(6), 1-17.
+Parraga, I. M. (1990). Determinants of food consumption.
+Peng, B. (2023). Ancient for the Present: Analyzing Traditional Cultural Elements and Unique
+Modernity in Contemporary Animation Films. Highlights in Art and Design, 3(3), 32-37.
+https://doi.org/10.54097/hiaad.v3i3.11184
+Peng, X., Song, X., & Horsey, E. M. (2023). The necessity of others: Entrepreneurial self-efficacy,
+TMT collective efficacy, CEO-TMT interface, and entrepreneurial orientation. Frontiers in
+psychology, 14, Article 1095978. https://doi.org/10.3389/fpsyg.2023.1095978
+Pike, S., & Bianchi, C. (2016). Destination brand equity for Australia: testing a model of CBBE
+in short-haul and long-haul markets. Journal of Hospitality & Tourism Research, 40(1),
+114-134. https://doi.org/10.1177/1096348013491604
+Rai, J. S., Yousaf, A., Itani, M. N., & Singh, A. (2021). Sports celebrity personality and purchase
+intention: the role of endorser-brand congruence, brand credibility and brand image
+transfer. Sport, Business and Management: An International Journal, 11(3), 340-361.
+https://doi.org/10.1108/SBM-06-2020-0062
+Rastini, N. M., & Respati, N. N. R. (2021). Public attitudes and interests in using online
+transactions (TAM application and TRA model). Jurnal Minds: Manajemen Ide Dan
+Inspirasi, 8(1), 175-190. https://doi.org/10.24252/minds.v8i1.21348
+Ren, Y., Choe, Y., & Song, H. (2023). Antecedents and consequences of brand equity: Evidence
+from Starbucks coffee brand. International Journal of Hospitality Management, 108,
+103351. https://doi.org/10.1016/j.ijhm.2022.103351
+Richardson, P. S., Jain, A. K., & Dick, A. (1996). Household store brand proneness: A framework.
+Journal of retailing, 72(2), 159-185.
+Rolling, T. E., & Hong, M. Y. (2016). The effect of social cognitive theory-based interventions
+on dietary behavior within children. J Nutr Health Food Sci, 4(5), 1-9.
+https://doi.org/10.15226/jnhfs.2016.00179
+Rubenstein, L. D., Ridgley, L. M., Callan, G. L., Karami, S., & Ehlinger, J. (2018). How teachers
+perceive factors that influence creativity development: Applying a Social Cognitive
+Theory perspective. Teaching and Teacher Education, 70, 100-110.
+https://doi.org/10.1016/j.tate.2017.11.012
+Rubin, D., Mohr, I., & Kumar, V. (2022). Beyond the box office: A conceptual framework for the
+drivers of audience engagement. Journal of Business Research, 151, 473-488.
+https://doi.org/10.1016/j.jbusres.2022.07.021
+Saeed, F., & G. Grunert, K. (2014). Expected and experienced quality as predictors of intention
+to purchase four new processed beef products. British Food Journal, 116(3), 451-471.
+https://doi.org/10.1108/BFJ-10-2011-0262
+Shahangian, S. A., Tabesh, M., & Yazdanpanah, M. (2021). Psychosocial determinants of
+household adoption of water-efficiency behaviors in Tehran capital, Iran: Application of
+the
+social
+cognitive
+theory.
+Urban
+Climate,
+39,
+100935.
+https://doi.org/10.1016/j.uclim.2021.100935
+
+787
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+Sharma, R. (2016). Effect of celebrity endorsements on dimensions of customer-based brand
+equity: Empirical evidence from Indian luxury market. Journal of Creative
+Communications, 11(3), 264-281. https://doi.org/10.1177/0973258616667185
+Sharma, R., & Jain, V. (2019). CSR, trust, brand loyalty and brand equity: empirical evidences
+from sportswear industry in the NCR region of India. Metamorphosis, 18(1), 57-67.
+https://doi.org/10.1177/0972622519853158
+Shimul, A. S., Phau, I., & Lwin, M. (2019). Conceptualising luxury brand attachment: scale
+development and validation. Journal of Brand Management, 26, 675-690.
+https://doi.org/10.1057/s41262-019-00158-6
+Siddiqui, K. (2022). Brand equity trend analysis for fashion brands (2001-2021). Journal of
+Global
+Fashion
+Marketing,
+13(3),
+238-255.
+https://doi.org/10.1080/20932685.2022.2032792
+Siu, N. Y.-M., Kwan, H. Y., & Zeng, C. Y. (2016). The role of brand equity and face saving in
+Chinese luxury consumption. Journal of Consumer Marketing, 33(4), 245-256.
+https://doi.org/10.1108/JCM-08-2014-1116
+Srinivasan, V., Park, C. S., & Chang, D. R. (2005). An approach to the measurement, analysis,
+and prediction of brand equity and its sources. Management science, 51(9), 1433-1448.
+https://doi.org/10.1287/mnsc.1050.0405
+Suvattanadilok, M. (2021). Social media activities impact on the decision of watching films in
+cinema.
+Cogent
+Business
+&
+Management,
+8(1),
+1920558.
+https://doi.org/10.1080/23311975.2021.1920558
+Ulker-Demirel, E., Akyol, A., & Simsek, G. G. (2018). Marketing and consumption of art
+products: the movie industry. Arts and the Market, 8(1), 80-98.
+https://doi.org/10.1108/AAM-06-2017-0011
+Verma, P., & Sinha, N. (2017). Role of attitude as mediator of the perceived ease of use and
+behavioural intention relationship. International Journal of Management Concepts and
+Philosophy, 10(3), 227-245. https://doi.org/10.1504/IJMCP.2017.085831
+Wang, S., Hung, K., & Huang, W.-J. (2019). Motivations for entrepreneurship in the tourism
+and hospitality sector: A social cognitive theory perspective. International Journal of
+Hospitality Management, 78, 78-88. https://doi.org/10.1016/j.ijhm.2018.11.018
+Wang, Y.-C., Qu, H., & Yang, J. (2020). Love spillover from a hotel sub-brand to its corporate
+brand: An associative network theory perspective. Journal of Hospitality and Tourism
+Management, 44, 263-271. https://doi.org/10.1016/j.jhtm.2020.07.006
+Wei, L., & Yang, Y. (2022). An empirical investigation of director selection in movie
+preproduction: A two-sided matching approach. International Journal of Research in
+Marketing, 39(3), 888-906. https://doi.org/10.1016/j.ijresmar.2021.11.001
+Wei, Y., Perumal, V., & Sitharan, R. (2023). Analysis of Chinese animation movies and its impact
+on cultural identity. Proceedings of the 2nd International Conference on Creative
+Multimedia 2022,
+Wu, Q., & Niyomsilp, E. (2022). THE INFLUENCE OF EXTERNAL ENVIRONMENTAL FACTORS ON
+THE CONSUMPTION BEHAVIOUR OF CHINA’S NEW MAINSTREAM FILM AUDIENCES.
+Sripatum Chonburi Academic Journal, 19(1), 24-38.
+Wu, X., & Niyomsilp, E. (2020). Factors Influencing Viewing Behavior of Streaming Self—
+produced Movies Among Shanxi Province Chinese College Students. Hum. Behav. Dev.
+Soc, 21, 97-107.
+Xu, X., Pu, Y., Sharma, M., Rao, Y., Cai, Y., & Zhao, Y. (2017). Predicting physical activity and
+healthy nutrition behaviors using social cognitive theory: Cross-sectional survey among
+
+788
+
+INTERNATIONAL JOURNAL OF ACADEMIC RESEARCH IN BUSINESS AND SOCIAL SCIENCES
+Vol. 1 5 , No. 8, 2025, E-ISSN: 2 2 2 2 -6990 © 2025
+
+undergraduate students in Chongqing, China. International Journal of Environmental
+Research and Public Health, 14(11), 1346. https://doi.org/10.3390/ijerph14111346
+Xuan, Y., & Hoon, K. S. (2020). Interactive Innovation of Chinese Animation Contents in Transmedia Strategy - take "One Hundred Thousand Cold Jokes" as an example [researcharticle].
+Journal
+of
+Basic
+Design
+&
+Art,
+21(1),
+323-334.
+https://doi.org/10.47294/ksbda.21.1.24
+Yan, J., Lee, B. C., & Yun, T. (2021). A study on the elements of Chinese animation IP
+(intellectual property) development based on the pan-entertainment industry.
+International Journal of Internet, Broadcasting and Communication, 13(1), 168-179.
+https://doi.org/10.7236/IJIBC.2021.13.1.168
+Yang, Y. S. (2009). The resort hotel experience: Conceptualization, measurement, and relation
+to antecedents and consequences.
+Yeol, C. H., Daechun, A., & Lee, H.-J. (2012). The Effects of Human Brand Powers on Selecting
+Movies: In Case of Actors and Directors in Hallyu Renaissance [신한류 열풍시대의
+휴먼브랜드 파워가 영화 관람의도에 미치는 영향 - 한국 영화배우와 감독을
+중심으로 -] [research-article]. International Journal of Tourism and Hospitality Research,
+26(4), 135-153.
+Yoga, I. M. S., & Hendrawan, I. G. Y. (2019). Blackbox movies: the transformation of private
+cinema into multi-channel advertising media. International Journal of Business,
+Economics and Management, 3(1), 41-47. https://doi.org/10.31295/ijbem.v3n1.112
+Yoo, B., & Donthu, N. (2001). Developing and validating a multidimensional consumer-based
+brand equity scale. Journal of Business Research, 52(1), 1-14.
+Zaman, S., Ahmed, H., Shakil, M. H., Rafiq, M., & Ali, F. (2024). Navigating ambitions: unveiling
+entrepreneurial intentions in family business through social cognitive theory. Kybernetes.
+https://doi.org/10.1108/K-12-2023-2543
+Zhang, W., & Li, Y. (2020). Research on Subversive Adaptation from Domestic Classic Originals
+to Animations by Using Films “Ne Zha” and “Monkey King: Hero is Back” as Examples.
+Frontiers in Art Research, 2(4), 05-08. https://doi.org/10.25236/FAR.2020.020402
+Zhen, F., & Mansor, N. (2022). Conditions for comic-animation adaptation of network
+literature in China: A preliminary study amongst undergraduate students. SEARCH
+Journal of Media and Communication Research, 15(1), 43-58.
+Zhou, W., Dong, J., & Zhang, W. (2023). The impact of interpersonal interaction factors on
+consumers’ purchase intention in social commerce: a relationship quality perspective.
+Industrial
+management
+&
+data
+systems,
+123(3),
+697-721.
+https://doi.org/10.1108/IMDS-06-2022-0392
+
+789
+
+

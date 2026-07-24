@@ -1,0 +1,3875 @@
+JSS
+
+Journal of Statistical Software
+
+April 2020, Volume 93, Issue 6.
+
+doi: 10.18637/jss.v093.i06
+
+Bayesian Random-Eﬀects Meta-Analysis
+Using the bayesmeta R Package
+
+Christian Röver
+University Medical Center Göttingen
+
+Abstract
+
+The random-eﬀects or normal-normal hierarchical model is commonly utilized in a
+wide range of meta-analysis applications. A Bayesian approach to inference is very at-
+tractive in this context, especially when a meta-analysis is based only on few studies. The
+bayesmeta R package provides readily accessible tools to perform Bayesian meta-analyses
+and generate plots and summaries, without having to worry about computational details.
+It allows for ﬂexible prior speciﬁcation and instant access to the resulting posterior distri-
+butions, including prediction and shrinkage estimation, and facilitating for example quick
+sensitivity checks. The present paper introduces the underlying theory and showcases its
+usage.
+
+Keywords: evidence synthesis, NNHM, between-study heterogeneity.
+
+1. Introduction
+
+1.1. Meta-analysis
+
+Evidence commonly comes in separate bits, and not necessarily from a single experiment. In
+contemporary science, the careful conduct of systematic reviews of the available evidence from
+diverse data sources is an eﬀective and ubiquitously practiced means of compiling relevant
+information. In this context, meta-analyses allow for the formal, mathematical combination
+of information to merge data from individual investigations to a joint result. Along with
+qualitative, often informal assessment and evaluation of the present evidence, meta-analytic
+methods have become a powerful tool to guide objective decision-making (Chalmers, Hedges,
+and Cooper 2002; Liberati et al. 2009; Hedges and Olkin 1985; Hartung, Knapp, and Sinha
+2008; Borenstein, Hedges, Higgins, and Rothstein 2009). Applications of meta-analytic meth-
+ods span such diverse ﬁelds as agriculture, astronomy, biology, ecology, education, health
+research, medicine, psychology, and many more (Chalmers et al. 2002).
+
+2
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+When empirical data from separate experiments are to be combined, one usually needs to
+be concerned about the straight one-to-one comparability of the provided results. There
+may be obvious or concealed sources of heterogeneity between diﬀerent studies, originating,
+e.g., from diﬀerences in the selection and treatment of subjects, or in the exact deﬁnition of
+outcomes. Residual heterogeneity may be anticipated in the modeling stage and considered in
+the estimation process; a common approach is to include an additional variance component
+to account for between-study variability. On the technical side, the consideration of such
+a heterogeneity parameter leads to a random-eﬀects model rather than a ﬁxed-eﬀect model
+(Hedges and Olkin 1985; Hartung et al. 2008; Borenstein et al. 2009).
+
+Inclusion of a non-zero heterogeneity will generally lead to more conservative results, as
+opposed to a “naive” merging of the given data without consideration of potentially hetero-
+geneous data sources.
+
+1.2. The normal-normal hierarchical model (NNHM)
+
+A wide range of problems may be approached using the normal-normal hierarchical model
+(NNHM); this generic random-eﬀects model is applicable when the estimates to be combined
+are given along with their uncertainties (standard errors) on a real-valued scale. Many prob-
+lems are commonly solved this way, often after a transformation stage to re-formulate the
+problem on an appropriate scale. For example, binary data given in terms of contingency
+tables are routinely expressed in terms of logarithmic odds ratios (and associated standard
+errors), which are then readily processed via the NNHM.
+
+In the NNHM, measurements and standard errors are modeled via normal distributions,
+using means and their standard errors as suﬃcient statistics, while on a second hierarchy
+level the heterogeneity is modeled as an additive normal variance component as well. The
+model then has two parameters, the (real-valued) eﬀect, and the (positive) heterogeneity. If
+the heterogeneity is zero, then the model reduces to the special case of a ﬁxed-eﬀect model
+(Hedges and Olkin 1985; Hartung et al. 2008; Higgins and Green 2011; Borenstein et al.
+2009). The model and terminology are described in detail in Section 2.1. The bayesmeta
+(Röver 2020) R package is based on this simple yet ubiquitous form of the NNHM.
+
+1.3. Analysis within the NNHM framework
+
+The Bayesian solution
+
+The bayesmeta package implements a Bayesian approach to inference. Bayesian modeling
+has previously been advocated and used in the meta-analysis context (Smith, Spiegelhal-
+ter, and Thomas 1995; Sutton and Abrams 2001; Spiegelhalter 2004; Spiegelhalter, Abrams,
+and Myles 2004; Higgins, Thompson, and Spiegelhalter 2009; Lunn, Barrett, Sweeting, and
+Thompson 2013); the diﬀerence to the more common “frequentist” methods is that the prob-
+lem is approached by expressing states of information via probability distributions, where
+the consideration of new data then constitutes an update to a previous information state
+(Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin 2014; Jaynes 2003; Spiegelhalter, Myles,
+Jones, and Abrams 1999). A Bayesian analysis allows (and in fact requires) the speciﬁcation
+of prior information, expressing the a priori knowledge, before data are taken into account.
+Technically this means the deﬁnition of a probability distribution, the prior distribution, over
+
+Journal of Statistical Software
+
+3
+
+the unknowns in the statistical model. Once model and prior are speciﬁed, the results of a
+Bayesian analysis are uniquely determined; however, implementing the necessary computa-
+tions to derive these in practice may still be tricky.
+
+While analysis results will of course depend on the prior setting, the range of reasonable
+speciﬁcations however is usually limited. In the meta-analysis context, non-informative or
+weakly informative priors for the eﬀect are readily deﬁned, if required. For the between-study
+heterogeneity an informative speciﬁcation is often appropriate, especially when only a small
+number of studies is involved. Interestingly, the number of studies combined in the meta-
+analyses archived in the Cochrane Library is reported by both Davey, Turner, Clarke, and
+Higgins (2011) and Kontopantelis, Springate, and Reeves (2013) with a median of 3 and a
+75% quantile of 6, so that in practice a majority of analyses (including subgroup analyses and
+secondary outcomes) here is based on as few as 2–3 studies; such cases may not be as unusual
+as one might expect, at least in medical contexts. Typical meta-analysis sizes may vary across
+ﬁelds; for example, the data collected by Van Erp, Verhagen, Grasman, and Wagenmakers
+(2017) indicate a median number of 12 and ﬁrst and third quartiles of 5 and 33 studies,
+respectively, for meta-analyses published in the Psychological Bulletin. Standard options for
+priors are available here, conﬁning the prior probability within reasonable ranges (Spiegel-
+halter et al. 2004). Long-run properties of Bayesian methods have also been compared with
+common frequentist approaches by Friede, Röver, Wandel, and Neuenschwander (2017a,b),
+with a focus on the common case of very few studies.
+
+Bayesian methods commonly are computationally more demanding than other methods; usu-
+ally these require the determination of high-dimensional integrals. In some (usually simpler)
+cases, the necessary integrals can be solved analytically, but it was mostly with the advent of
+modern computers and especially the development of Markov chain Monte Carlo (MCMC)
+methods that Bayesian analyses have become more generally tractable (Metropolis and Ulam
+1949; Gilks, Richardson, and Spiegelhalter 1996). In the present case of random-eﬀects meta-
+analysis within the NNHM, where only two unknown parameters are to be inferred, computa-
+tions may be simpliﬁed by utilizing numerical integration or importance resampling (Turner,
+Jackson, Wei, Thompson, and Higgins 2015), both of which require relatively little manual
+tweaking in order to get them to work. It turns out that computations may be done partly
+analytically and partly numerically, oﬀering another approach to simplify calculations via
+the direct algorithm (Röver and Friede 2017). Utilizing this method, the bayesmeta pack-
+age provides direct access to quasi-analytical posterior distributions without having to worry
+about setup, diagnosis or post-processing of MCMC algorithms. The present paper describes
+some of the methods along with the usage of the bayesmeta package.
+
+Other common approaches
+
+A frequentist approach to inference is largely focused on long-run average operating charac-
+teristics of estimators. In this framework, meta-analysis using the NNHM is most commonly
+done in two stages, where ﬁrst the heterogeneity parameter is estimated, and then the eﬀect
+estimate is derived based on the heterogeneity estimate. The choice of a heterogeneity es-
+timator poses a problem on its own; a host of diﬀerent heterogeneity estimators have been
+described, for a comprehensive summary of the most common ones see, e.g., Veroniki et al.
+(2016). A common problem with such estimators of the heterogeneity variance component
+is that they frequently turn out as zero, eﬀectively resulting in a ﬁxed-eﬀect model, which is
+usually seen as an undesirable feature. Within this context, Chung, Rabe-Hesketh, and Choi
+
+4
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+(2013) proposed a penalized likelihood approach, utilizing a Gamma type “prior” penalty
+term in order to guarantee non-zero heterogeneity estimates.
+
+The treatment and estimation of heterogeneity in practice has been investigated, e.g., by Pul-
+lenayegum (2011), Turner, Davey, Clarke, Thompson, and Higgins (2012) and Kontopantelis
+et al. (2013). When looking at large numbers of meta-analyses published by the Cochrane Col-
+laboration, the majority (57%) of heterogeneity estimates in fact turned out as zero (Turner
+et al. 2012), while the numbers are higher for “small” meta-analyses, and lower for analyses
+involving many studies (Kontopantelis et al. 2013). Meanwhile the choice of analysis method
+(ﬁxed- or random-eﬀects) also correlates with the number of studies involved, with larger
+numbers of studies increasing the chances of a random-eﬀects model being employed (Kon-
+topantelis et al. 2013). Kontopantelis et al. (2013) also compared the fraction of heterogeneity
+estimates resulting as zero in actual meta-analyses with that obtained from simulation, sug-
+gesting that heterogeneity is commonly underestimated or remains undetected.
+
+Once an estimate for the amount of heterogeneity has been arrived at, what is commonly
+done is to use this as a plug-in estimate and proceed to compute further tests and estimates
+conditioning on the heterogeneity estimate as if its true value were known (Hedges and Olkin
+1985; Hartung et al. 2008; Borenstein et al. 2009). Such a procedure would be warranted if the
+heterogeneity estimate was estimated with relatively great precision. Notable exceptions here
+are the methods proposed by Follmann and Proschan (1999); Hartung and Knapp (2001a,b)
+and Sidik and Jonkman (2002), where the estimation uncertainty in heterogeneity is accounted
+for (on the technical side resulting in an inﬂated standard error and a heavier-tailed Student-t
+distribution to be utilized for deriving tests or conﬁdence intervals), or bootstrap methods
+(Van den Noortgate and Onghena 2005) and parameter estimation in the generalized inference
+framework (Friedrich and Knapp 2013).
+
+Bayesian and frequentist approaches in comparison
+
+While the interpretation of results from a frequentist analysis, especially signiﬁcance tests
+and conﬁdence intervals, is commonly challenging and often misunderstood (Morey, Hoek-
+stra, Rouder, Lee, and Wagenmakers 2016; Hoekstra, Morey, Rouder, and Wagenmakers
+2014), Bayesian results usually address the actual research question more directly and may
+be interpreted more intuitively (Jaynes 2003; Spiegelhalter et al. 2004; Szucs and Ioannidis
+2017; Kruschke and Liddell 2018). On the one hand, frequentist conﬁdence intervals aim
+to uniformly provide a pre-speciﬁed coverage probability conditionally on any single point
+in parameter space, while Bayesian credible intervals account for the prior distribution and
+consequently provide proper coverage on average over the prior (Dawid 1982; see also Ap-
+pendix E, page 49). By their construction, they directly relate to the information on the
+parameters after considering the data at hand, which is not quite the intention behind clas-
+sical conﬁdence statements; even if a proper (“frequentist”) coverage probability is attained,
+this may still lead to rather counterintuitive conclusions in the face of actual data (Jaynes
+1976; Morey et al. 2016).
+
+In some statistical applications, there is little diﬀerence between the results from frequentist
+and Bayesian analyses; often one may be considered a limiting or special case of the other,
+while interpretations remain somewhat diﬀerent (Bartholomew 1965; Jaynes 1976; Lindley
+1977; Severini 1991; Spiegelhalter et al. 1999; Bayarri and Berger 2004). This is not neces-
+sarily the case in the present context, as meta-analyses are quite commonly based on few
+
+Journal of Statistical Software
+
+5
+
+studies, so that certain large-sample asymptotics may not apply. A common misconception,
+namely that a Bayesian analysis based on a uniform prior generally yielded identical results
+to a frequentist, purely likelihood-based analysis, is exposed as such here. A crucial fea-
+ture of meta-analysis problems is that one of the parameters, the heterogeneity, is conﬁned
+to a bounded parameter space, which sometimes causes problems for frequentist methods
+(Mandelkern 2002), partly because heterogeneity estimates commonly are not adequately
+characterized through a mere point estimate and an associated standard error. The com-
+mon use of a plug-in estimate for the heterogeneity in frequentist procedures then turns out
+problematic, as such a strategy usually only makes sense when the estimated parameter is
+associated with relatively little uncertainty. Choice of a suitable heterogeneity estimator adds
+to the complication, as, despite their common aim, actual estimates may turn out quite dif-
+ferently, adding some degree of arbitrariness to the inference (Veroniki et al. 2016). Within a
+Bayesian context, these issues do not pose diﬃculties, and inference on some parameters while
+accounting for uncertainty in other nuisance parameters is straightforwardly solved through
+marginalization. This way, uncertainty in heterogeneity is readily accommodated, and since
+no asymptotic arguments need to be invoked, results are valid also for small sample sizes.
+For such reasons Bayesian methods have been considered particularly well-suited for hier-
+archical models in general (Browne and Draper 2006; Kruschke and Liddell 2018), and for
+meta-analysis problems in particular (Smith et al. 1995; Sutton and Abrams 2001). While
+Bayesian modeling necessitates the speciﬁcation of a prior probability distribution over all
+parameters, the range of plausible formulations in a given context is usually limited. Diﬀer-
+ences in results corresponding to diﬀerent prior settings are quite natural, as eﬀectively these
+correspond to diﬀering answers to diﬀerently posed questions.
+
+Use of a coherent Bayesian framework also naturally facilitates advanced computations, in
+which the posterior from a previous analysis constitutes the prior for a subsequent analysis.
+This is useful for example in sequential meta-analyses (Spence, Steinsaltz, and Fanshawe
+2016), in the design of future experiments (Schmidli, Neuenschwander, and Friede 2017),
+or when utilizing historical data in the analysis of clinical trials (Wandel, Neuenschwander,
+Röver, and Friede 2017).
+
+Implementation
+
+A number of software packages have been developed for frequentist inference within the
+NNHM framework, for example the Review Manager (RevMan), that is freely available from
+the Cochrane Collaboration (The Cochrane Collaboration 2014; Higgins and Green 2011), or,
+within R (R Core Team 2020), the metafor and meta packages (Viechtbauer 2010; Balduzzi,
+Rücker, and Schwarzer 2019; Schwarzer, Carpenter, and Rücker 2015).
+
+Bayesian analyses are usually computationally more demanding, and quite generally these
+can be approached using MCMC methods (Gilks et al. 1996). For example, meta-analysis
+along with the extension to meta-regression is implemented in the bmeta R package (Ding
+and Baio 2016) by utilizing Gibbs sampling via JAGS (Plummer 2003, 2008). An MCMC
+approach oﬀers great ﬂexibility, and a number of model variations are also available, for
+example, a nonparametric generalization of the NNHM in the bspmma package (Burr 2012),
+a generalized approach based on model averaging in the metaBMA package (Heck, Gronau,
+and Wagenmakers 2019), or methods suitable for the special problem of meta-analysis of
+diagnostic studies in the bamdit and metamisc packages (Verde 2018; Debray and De Jong
+2019).
+
+6
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+In certain model constellations, it may be possible to derive exact posterior distributions,
+as for example implemented in the mmeta R package, which utilizes a parametric model for
+meta-analysis of count data that are provided in terms of contingency tables (Luo, Chen,
+Su, and Chu 2014). Otherwise, inference in a range of model classes may be approached via
+integrated nested Laplace approximations (INLA), as utilized, e.g., in the meta4diag package
+for meta-analysis of diagnostic studies (Guo and Riebler 2018), or in the nmaINLA package
+for network-meta-analysis and -regression (Günhan 2017).
+
+The bayesmeta package aims to provide easy access to a fully Bayesian analysis approach
+within the common NNHM framework. While the use of MCMC methods would be an op-
+tion here, these usually require a certain amount of expertise and experience in set-up and
+convergence diagnostics. Also, inference based on MCMC output always contains a certain
+noise component due to the ﬁnite number of samples, which may sometimes constitute a
+nuisance. Use of the bayesmeta packages instantly provides accurate posterior summary ﬁg-
+ures analogous to output familiar from common (frequentist) meta-analysis output. Posterior
+distributions may be accessed in quasi-analytical form, and advanced methods, e.g., for pre-
+diction or shrinkage estimation, are also provided. Computations are fast and reproducible,
+allowing for quick sensitivity checks and facilitating larger-scale simulations. Accuracy of the
+implementation (calibration) may be veriﬁed via simulation (see also Appendix E).
+
+1.4. Outline
+
+The remaining paper is mostly arranged in two major parts. In the following Section 2, the
+underlying theory is introduced; ﬁrst the common NNHM (random-eﬀects) model and its
+notation are explained, and prior distributions for the two parameters are discussed. Then
+the resulting likelihood, marginal likelihood and posterior distributions are presented and
+some general points are introduced.
+
+In Section 3, the actual usage of the bayesmeta package is demonstrated; an example data set
+is introduced, along which the steps of a Bayesian meta-analysis are shown. The determination
+of summary statistics and plots, as well as possible variations in the analysis setup and the
+computation of posterior predictive p values are presented. Section 4 then concludes with a
+summary.
+
+2. Random-eﬀects meta-analysis
+
+2.1. The normal-normal hierarchical model
+
+The aim is to infer a quantity µ, the eﬀect, based on a number k of diﬀerent measurements
+which are provided along with their corresponding uncertainties. What is known are the em-
+pirical estimates yi (of µ) that are associated with known standard errors σi; these constitute
+the “input data”. The ith study’s measurement yi (where i = 1, . . . , k) is assumed to arise as
+exchangeable and normally distributed around the study’s true parameter value θi:
+
+yi | θi, σi ∼ N(θi, σ2
+
+i ),
+
+where the variability is due to the sampling error, whose magnitude is given by the (known)
+standard error σi. All studies do not necessarily have identical true values θi; in order to ac-
+commodate potential between-study heterogeneity in the model, we assume that each study i
+
+Journal of Statistical Software
+
+7
+
+measures a quantity θi that diﬀers from the overall mean µ by another exchangeable, normally
+distributed oﬀset with variance τ 2 ≥ 0:
+
+θi | µ, τ ∼ N(µ, τ 2).
+
+(1)
+
+This second model stage implements the random eﬀects assumption.
+Especially when the study-speciﬁc parameters θi are not of primary interest, the notation
+may be simpliﬁed by integrating out the “intermediate” θi terms and stating the model in its
+marginal form as
+
+yi | µ, τ, σi ∼ N(µ, σ2
+
+i + τ 2)
+
+(2)
+
+(Hedges and Olkin 1985; Hartung et al. 2008; Borenstein et al. 2009; Borenstein, Hedges,
+Higgins, and Rothstein 2010). The two unknowns remaining to be inferred are the mean eﬀect
+µ and the heterogeneity τ , which is commonly considered a nuisance parameter. The studies’
+shrinkage estimates of θi are however sometimes also of interest and may be inferred from
+the model as well. In the special case of zero heterogeneity (τ = 0), the model simpliﬁes to a
+ﬁxed-eﬀect model in which the study-speciﬁc means θi are all identical (θ1 = . . . = θk = µ).
+Such two-stage hierarchical models of an overall mean (µ) and study-speciﬁc parameters (θi)
+with a random eﬀect for each study are commonly utilized in meta-analysis applications.
+The simple case of normally distributed error terms at both stages is often convenient and
+easily tractable, and it also constitutes a good approximation in many cases. So, while the
+eﬀect here is treated as a continuous parameter, the model is quite commonly utilized to
+also process diﬀerent types of data (e.g., logarithmic odds ratios from dichotomous data, etc.)
+after transformation to a real-valued eﬀect scale (Hedges and Olkin 1985; Hartung et al. 2008;
+Borenstein et al. 2009; Viechtbauer 2010; Higgins and Green 2011).
+
+2.2. Prior distributions
+
+General
+
+Among the two unknowns, the eﬀect µ is commonly of primary interest, while the hetero-
+geneity τ usually is considered a nuisance parameter. In order to infer the parameters, we
+need to specify our prior information about µ and τ in terms of their joint prior probability
+density function p(µ, τ ). What exactly constitutes a reasonable prior distribution always de-
+pends on the given context (Gelman et al. 2014; Spiegelhalter et al. 2004; Jaynes 2003). For
+computational convenience, in the following we assume that we can factor the prior density
+into independent marginals: p(µ, τ ) = p(µ) × p(τ ). While this may not seem unreasonable,
+depending on the context, one may also argue in favor of a dependent prior speciﬁcation
+(e.g., Senn 2007; Pullenayegum 2011). In the following, we aim to provide a comprehensive
+overview of popular or sensible options. We will discuss proper as well as improper priors;
+when using improper priors, the usual care must be taken, as the resulting posterior then
+may or may not be a proper probability distribution (Gelman et al. 2014). The discussed
+heterogeneity priors are also summarized in Table 1.
+
+The eﬀect parameter µ
+
+An obvious choice of a non-informative prior for the eﬀect µ, being a location parameter, is
+an improper uniform distribution over the real line (Gelman et al. 2014; Spiegelhalter et al.
+
+8
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+2004; Jaynes 2003). A normal prior (with mean µp and variance σ2
+p) is a natural choice as an
+informative prior for the eﬀect µ, and these two are also the cases we will restrict ourselves
+to for computational convenience and feasibility in the following. The normal prior here
+constitutes the conditionally conjugate prior distribution for the eﬀect (see also Section 2.5).
+The uninformative uniform prior would also result as the limiting case for increasing prior
+uncertainty (σp → ∞).
+
+A way to guide the choice of a vague prior is by consideration of unit information priors
+(Kass and Wasserman 1995). The idea here is to specify the prior such that its information
+content (variance) is in some way, possibly somewhat heuristically, equivalent to a single
+observational unit. For example, if the endpoint is a logarithmic odds ratio (log-OR), a
+neutral unit information prior may be given by a normal prior with zero mean (centered
+around an odds ratio of 1, i.e., “no eﬀect”) and a standard deviation of σp = 4. For a
+derivation, see also Appendix A.
+
+The heterogeneity parameter τ : Proper, informative priors
+
+Especially since in the meta-analysis context one is commonly dealing with very small numbers
+of studies k, where not much information on between-study heterogeneity may be expected
+to be gained from the data, it may be worth while considering the use of informative pri-
+ors. Depending on the exact context, there often is some information on what values for the
+heterogeneity are more plausible and which ones are less so, and making use of the present
+information may make a diﬀerence in the end. For example, if the meta-analysis is based on
+logarithmic odds ratios, it will usually make sense to assume that heterogeneity is unlikely
+to exceed, say, τ = log(10) ≈ 2.3, which would correspond to roughly an expected factor 10
+diﬀerence in eﬀects (odds ratios) between trials due to heterogeneity. An extensive discussion
+of such cases is provided in Spiegelhalter et al. (2004, Section 5.7). Values for τ between 0.1
+and 0.5 here are considered “reasonable”, values between 0.5 and 1.0 are “fairly high” and
+values beyond 1.0 are “fairly extreme”. An analogous reasoning would apply for similarly
+deﬁned outcomes, for example, logarithmic relative risks, logarithmic hazard ratios, or loga-
+rithmic variances (Schmidli et al. 2017). Consideration of the magnitude of unit information
+variances (see previous paragraph) may also be helpful in this context, as variability (het-
+erogeneity) between studies will usually be expected to be substantially below the variability
+between individuals. Along these lines, it is often useful to also consider the implications
+of prior speciﬁcations in terms of the corresponding prior predictive distributions; see also
+Section 3.4. The impact of variations of how exactly prior information is implemented in the
+model may eventually also be checked via sensitivity analyses.
+
+A sensible informative choice for p(τ ) may be the maximum entropy prior for a pre-speciﬁed
+prior expectation E[τ ], the exponential distribution with rate λ = 1
+E[τ ] (Jaynes 1968, 2003;
+Gregory 2005). Log-normal or half-normal prior distributions, e.g., with pre-speciﬁed quan-
+tiles, may also be useful alternatives. For example, for log-OR (or similar) endpoints, the
+routine use of half-normal distributions with scale 0.5 or 1.0 has been suggested by Friede
+et al. (2017a,b) and was shown to work well in simulations. In order to gain robustness, one
+may also consider mixture distributions as informative priors, for example half-Student-t, half-
+Cauchy, or Lomax distributions, which may be considered heavy-tailed variants of half-normal
+or exponential distributions (Johnson, Kotz, and Balakrishnan 1994). Use of a heavy-tailed
+prior distribution will allow for discounting of the prior in favor of the data in case the data ap-
+
+Journal of Statistical Software
+
+9
+
+pear to be in conﬂict with prior expectations (O’Hagan and Pericchi 2012; Schmidli, Gsteiger,
+Roychoudhury, O’Hagan, Spiegelhalter, and Neuenschwander 2014). The use of weakly infor-
+mative half-Student-t or half-Cauchy priors may also be motivated via theoretical arguments,
+as these can be shown to also exhibit favorable frequentist properties (Gelman 2006; Polson
+and Scott 2012).
+
+Although an inverse-Gamma distribution for an informative prior may seem to be an obvious
+choice, use of this distribution is generally not recommended (Gelman 2006; Polson and Scott
+2012). More on informative (as well as uninformative) priors may be found in Spiegelhalter
+et al. (2004), Gelman (2006) and Polson and Scott (2012). Some empirical evidence to consider
+for informative priors for certain types of endpoints may be found e.g., in Pullenayegum
+(2011), Turner et al. (2012), Kontopantelis et al. (2013) and Van Erp et al. (2017).
+In
+particular, Rhodes, Turner, and Higgins (2015) and Turner et al. (2015) derived empirical
+priors based on data from the Cochrane database of systematic reviews; prior information
+here is expressed in terms of log-normal or log-Student-t distributions.
+
+The heterogeneity parameter τ : Proper, “non-informative” priors
+
+Some “non-informative” proper priors have been proposed that are scale-invariant in the
+sense that (like the Jeﬀreys prior discussed below as well) they depend only on the stan-
+dard errors σi. A re-expression of the estimation problem on a diﬀerent measurement scale
+would entail a proportional re-scaling of standard errors and so inference eﬀectively remains
+unaﬀected. Such priors are discussed e.g., by Spiegelhalter et al. (2004, Section 5.7.3) and
+Berger and Deely (1988). Priors like these, however, are somewhat problematic from a logical
+perspective, as these imply that the prior information on the heterogeneity depended on the
+accuracy of the individual studies’ estimates (Senn 2007).
+The following two priors both depend on the harmonic mean s2
+i.e.,
+
+0 of squared standard errors,
+
+s2
+0 =
+
+k
+i=1 σ−2
+i
+
+.
+
+Pk
+
+The uniform shrinkage prior results from considering the “average shrinkage” S(τ ) = s2
+0+τ 2 ;
+s2
+placing a uniform prior on S(τ ) results in a prior density
+
+0
+
+p(τ ) =
+
+2τ s2
+0
+0 + τ 2(cid:1)2
+
+(cid:0)s2
+
+(3)
+
+for the heterogeneity, which has a median of s0. For a detailed discussion see, e.g., Spiegel-
+halter et al. (2004) or Daniels (1999). A uniform prior in S(τ ) is equivalent to a uniform
+prior in 1−S(τ ) = τ 2
+0+τ 2 (Spiegelhalter et al. 2004), which is an expression very similar to the
+s2
+I 2 measure of heterogeneity due to Higgins and Thompson (2002). Substituting the harmonic
+mean s2
+The DuMouchel prior has a similar form and is deﬁned through
+
+0 for their average (ˆs2) in the prior density (3) hence yields a uniform prior in I 2.
+
+p(τ ) =
+
+s0
+(s0 + τ )2 .
+
+(4)
+
+This implies a log-logistic distribution for the heterogeneity τ that has its mode at τ = 0 and
+its median at τ = s0 (Spiegelhalter et al. 2004; DuMouchel and Normand 2000).
+
+10
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+A conventional prior as a proper variation of the Jeﬀreys prior (see also the closely related
+variant in Equation 8) was given by Berger and Deely (1988) as
+
+p(τ ) ∝
+
+k
+Y
+
+i=1
+
+τ
+i + τ 2(cid:1)3/2
+
+(cid:0)σ2
+
+!1/k
+
+.
+
+(5)
+
+This prior is in particular intended as a non-informative but proper choice for testing or model
+selection purposes (Berger and Deely 1988; Berger and Pericchi 2001).
+
+The heterogeneity parameter τ : Improper priors
+
+Uninformative priors.
+It is not so obvious what exactly would qualify a prior for τ as
+“uninformative”. One might argue that an uninformative prior should have a probability
+density function that is monotonically decreasing in τ ; another question would be whether
+the density’s intercept p(τ = 0) should be positive or ﬁnite, or what the density’s derivative
+near zero should be. In general, the uninformative prior for a scale parameter in a simple
+normal model is commonly taken to be uniform in log(τ ) (and log(τ 2)) with density p(τ ) ∝ 1
+τ
+(Jeﬀreys 1946; Gelman et al. 2014), however, this “log-uniform” prior will not lead to proper,
+integrable posteriors in the present context (Gelman 2006). Another reasonable choice may be
+the improper uniform prior on the positive real line, but care must be taken here as usual, as
+the posterior may end up improper as well; this will not result in a proper posterior when there
+are only one or two estimates available (i.e., when k ≤ 2) and an (improper) uniform eﬀect
+prior is used (Gelman 2006). The uniform prior may be considered a conservative choice in a
+particular sense, as shown in Appendix B, but on the other hand it may also be considered
+overly conservative, as it tends to attach a lot of weight to potentially unreasonably large
+heterogeneity values. Gelman (2006) generally recommends a uniform heterogeneity prior as
+an uninformative default, unless the number of studies k is small, or an informative prior is
+desired or for other reasons.
+
+One may also argue via certain requirements that an uninformative prior should meet (Jaynes
+1968, 2003). For example, it may be reasonable to demand invariance with respect to re-
+scaling of τ for the prior density p(τ ), leading to a constraint of the form
+
+1
+
+s p(cid:0) τ
+
+s
+
+(cid:1) = f (s) p(τ )
+
+for any scaling factor s > 0 and some positive-valued function f (s) (i.e., re-scaling should not
+aﬀect the density’s shape). This requirement obviously restricts the range of priors to those
+with monotonic density functions. It leads to a family of improper prior distributions with
+densities
+
+p(τ ) ∝ τ a
+(6)
+for a ∈ R. This family includes (for a = −1) the common log-uniform prior for a scale
+parameter mentioned above, or (for a = 0) the uniform prior. But this class also includes
+further interesting cases, like, for −1 < a < 0, a compromise between the above two uniform
+and log-uniform priors that is (locally) integrable over any interval [0, u] with 0 < u < ∞
+while also being shorter-tailed on the right than the improper uniform prior. An obvious
+example is (for a = −0.5) the prior with monotonically decreasing density function
+
+p(τ ) ∝ 1√
+τ
+
+ 
+Journal of Statistical Software
+
+11
+
+√
+
+which corresponds to a uniform prior in
+τ . This prior has the unusual property that the
+prior density, and with that the posterior as well, exhibits a pole (i.e., approaches inﬁnity) at
+the origin. A value of a = 1 would lead to a uniform prior in τ 2, with an even higher preference
+for large heterogeneity values, which requires at least k ≥ 4 studies for a proper posterior; this
+prior is generally not recommended (Gelman 2006).
+
+q
+
+The Jeﬀreys prior. The non-informative Jeﬀreys prior (Gelman et al. 2014; Jeﬀreys 1946)
+for this problem results from the form of the likelihood (see Equation 2 or 9), or more specif-
+ically, the associated expected Fisher information J(µ, τ ); its probability density function is
+det(cid:0)J(µ, τ )(cid:1). This general form of Jeﬀreys’ prior however is generally
+given by p(µ, τ ) ∝
+not recommended when the set of parameters includes a location parameter as in the present
+case; see, e.g., Jeﬀreys (1946), Jeﬀreys (1961, Section III.3.10), Berger (1985, Section 3.3.3)
+and Kass and Wasserman (1996, Section 2.2). Instead, location parameters are commonly
+treated as ﬁxed and are conditioned upon (Berger 1985; Kass and Wasserman 1996). In the
+present case (since µ and τ are orthogonal in the sense that the Fisher information matrix’
+oﬀ-diagonal elements are zero), this leads to Tibshirani’s non-informative prior (Tibshirani
+1989; Kass and Wasserman 1996, Section 3.7), a variation of the general Jeﬀreys prior, which
+is of the form
+
+p(τ ) ∝
+
+v
+u
+u
+t
+
+k
+X
+
+i=1
+
+(cid:16)
+
+τ
+σ2
+i + τ 2
+
+(cid:17)2
+
+.
+
+(7)
+
+In the following, we will consider this variant as the Jeﬀreys prior for the NNHM. This prior
+also constitutes the Berger-Bernardo reference prior for the present problem (Bodnar, Link,
+and Elster 2016; Bodnar, Link, Arendacká, Possolo, and Elster 2017). The prior is improper,
+as the right tail asymptotically behaves like p(τ ) ∝ 1
+τ , but it is locally integrable in the left
+tail with p(0) = 0. The resulting posterior is proper as long as k ≥ 2 (Bodnar et al. 2017).
+
+In case of constant standard errors σi = σ, the prior’s mode is at τ = σ. Otherwise the
+mode tends to be near the smallest σi, but the prior may also be multimodal. The Jeﬀreys
+prior’s dependence on the standard errors σi implies that the prior information varies with
+the precision of the underlying data yi. With greater precision, lower heterogeneity values
+are considered plausible. On the other hand, the prior is invariant to the overall scale of
+the problem (as it scales with the standard errors σi) like the proper non-informative priors
+mentioned above.
+
+Another variation of the Jeﬀreys prior was given by Berger and Deely (1988) and is deﬁned
+as
+
+p(τ ) ∝
+
+k
+Y
+
+(cid:18)
+
+i=1
+
+τ
+σ2
+i + τ 2
+
+(cid:19)1/k
+
+.
+
+(8)
+
+This prior is also improper, and it equals the Jeﬀreys prior in case all standard errors σi are
+identical.
+
+Choice of a prior
+
+The selection of a prior for the eﬀect µ is relatively straightforward. The normal prior’s vari-
+ance allows to vary the width from narrow/informative to wide/uninformative; the improper
+uniform prior as a limiting case is also available, and this may be the obvious default choice
+
+12
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Proper
+
+Improper
+
+Examples
+
+Informative
+half-normal,
+half-Student-t,
+half-Cauchy,
+log-normal,
+exponential,
+. . .
+Dependent on σi? no
+no
+Scale-invariant?
+—
+k restrictions?
+
+Non-informative Non-informative Scale-invariant
+uniform
+shrinkage (3),
+DuMouchel (4),
+conventional
+(5)
+
+uniform in τ ,
+√
+uniform in
+. . . (6)
+
+Jeﬀreys (7),
+Berger-Deely (8)
+
+τ ,
+
+yes
+scales with σi
+k ≥ 1
+
+yes
+scales with σi
+k ≥ 2∗
+
+no
+yes
+k ≥ 3∗
+
+∗(less if combined with a proper eﬀect prior)
+
+Table 1: The heterogeneity priors discussed in Section 2.2 may roughly be divided into
+4 classes; some of their properties are summarized below.
+
+in many cases. Consideration of the unit information prior’s width may also help judging the
+amount of information conveyed by a given informative prior.
+
+The heterogeneity priors discussed above may roughly be categorized in four classes, as shown
+in Table 1. First of all, one needs to decide whether a proper prior is desired or required.
+Arguments in favor of a proper prior may include the need for ﬁnite marginal likelihoods
+and Bayes factors in model selection problems, general preference, or a small number (k) of
+studies. Among the proper priors one then has the choice between informative distributions,
+and priors that are supposed to be non-informative, which however depend on the involved
+studies’ standard errors σi. The improper priors discussed here are all uninformative in one
+or another sense; the Jeﬀreys and Berger-Deely priors also depend on the σi, they require at
+least k = 2 available studies, the uniform prior is independent of the σi and requires at least
+3 studies.
+
+Some prior densities are illustrated in Figure 1. As the choice of a sensible informative prior
+depends on the context, and some other priors depend on the σi values, the priors shown here
+correspond to the example discussed in Section 3. The proper informative half-normal and
+half-Cauchy priors with scale 0.5 are reasonable choices for log-ORs and similar endpoints.
+The log-normal prior’s parameters are recommended for the type of investigation based on the
+analysis by Turner et al. (2015). The proper uniform shrinkage, DuMouchel and conventional
+priors depend on the involved studies’ standard errors σi. The improper Jeﬀreys and Berger-
+Deely prior densities do not integrate to a ﬁnite value, so their overall scaling is somewhat
+arbitrary here. Gelman (2006) generally recommends the improper uniform heterogeneity
+prior, unless the number of studies k is small, or an informative prior is desired or for other
+reasons. In those cases, an informative prior from the half-Student-t family is recommended,
+which includes half-Cauchy and half-normal priors as special or limiting cases. Use of the
+half-Cauchy family is further supported by Polson and Scott (2012) based also on classical
+frequentist properties. If, for example, the endpoint is a log-OR, then, using the categorization
+by Spiegelhalter et al. (2004, Section 5.7), a half-normal prior with scale 0.5 may conﬁne
+heterogeneity mostly to “reasonable” to “fairly high” values and leave about 5% probability
+for “fairly extreme” heterogeneity. A larger scale parameter or a heavier-tailed distribution
+may then serve as a more conservative or more robust reference for a sensitivity check (Friede
+
+Journal of Statistical Software
+
+13
+
+Figure 1: A selection of prior distributions for the example data discussed in Section 3.
+Half-normal and half-Cauchy parameters are reasonable choices for log-OR endpoints. The
+log-normal parameters are chosen according to Turner et al. (2015). The uniform shrinkage
+and DuMouchel priors are scaled relative to the harmonic mean of squared standard errors s2
+0.
+The Jeﬀreys and Berger-Deely priors are improper, so their densities do not integrate to a
+ﬁnite value.
+
+et al. 2017a,b). The Jeﬀreys prior constitutes another default choice of an uninformative
+prior; as the Berger-Bernardo reference prior it represents the least informative prior in a
+certain sense (Bodnar et al. 2017), and it will yield a proper posterior as long as at least
+2 studies are available.
+
+2.3. Likelihood
+
+The form of the likelihood follows from the assumptions introduced in Section 2.1. The
+NNHM is essentially a simple normal model with unknown mean and an unknown variance
+component; the resulting likelihood function is given by
+
+p(~y | µ, τ, ~σ) = (2π)− k
+
+2 ×
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i + τ 2
+
+(cid:18)
+
+−
+
+exp
+
+1
+2
+
+(yi − µ)2
+σ2
+i + τ 2
+
+(cid:19)
+
+,
+
+where ~y and ~σ denote the vectors of k eﬀect measures yi and their standard errors σi. For
+any practical application it is often more useful to consider the logarithmic likelihood, i.e.,
+
+log(cid:0)p(~y | µ, τ, ~σ)(cid:1) = − k
+
+2 log(2π) − 1
+
+2
+
+k
+X
+
+i=1
+
+(cid:18)
+
+log(σ2
+
+i + τ 2) +
+
+(yi − µ)2
+σ2
+i + τ 2
+
+(cid:19)
+
+.
+
+(9)
+
+tp(t)s00.00.51.01.52.0half−normal(0.5)half−Cauchy(0.5)log−normal(−1.07, 0.87)uniform shrinkageDuMouchelconventionalJeffreysBerger−Deely14
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+2.4. Marginal likelihood
+
+Marginalization
+
+In order to do inference within a Bayesian framework, it is usually necessary to compute
+integrals involving the posterior distribution (Gelman et al. 2014). For example, in a multi-
+parameter model, one may be interested in the marginal posterior distribution or in the
+posterior expectation of a certain parameter, both of which result as integrals. Key to the
+bayesmeta implementation is the partly analytical and partly numerical integration over pa-
+rameter space.
+In the following, we will derive the marginal posterior distribution of the
+heterogeneity parameter via the marginal likelihood, and we will later see how marginal and
+conditional distributions may be utilized to evaluate the required integrals. The likelihood
+is initially a function of both parameters (µ and τ ), and the marginal likelihood of the het-
+erogeneity τ results from integration over the eﬀect µ, using its prior distribution, which we
+speciﬁed to be either uniform or normal.
+
+Uniform prior
+
+Using the improper uniform prior for the eﬀect µ (p(µ) ∝ 1), we can derive the marginal
+likelihood, marginalized over µ,
+
+p(~y | τ, ~σ) =
+
+Z
+
+p(~y | µ, τ, ~σ) p(µ) dµ.
+
+(10)
+
+For the NNHM, the integral turns out as
+
+p(~y | τ, ~σ) = (cid:0)2π(cid:1)− k−1
+
+2 ×
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i + τ 2
+
+× exp
+
+(cid:18)
+
+−
+
+1
+2
+
+(cid:0)yi − bµ(τ )(cid:1)2
+σ2
+i + τ 2
+
+(cid:19)
+
+×
+
+r
+
+1
+
+Pk
+
+i=1
+
+1
+σ2
+i +τ 2
+
+, (11)
+
+where bµ(τ ) is the conditional posterior mean of µ for a given heterogeneity τ . Conditional
+mean and standard deviation are given by
+
+bµ(τ ) = E[µ | τ, ~y, ~σ] =
+
+Pk
+
+i=1
+
+Pk
+
+i=1
+
+yi
+σ2
+i +τ 2
+1
+σ2
+i +τ 2
+
+,
+
+bσ(τ ) =
+
+q
+
+Var(µ | τ, ~y, ~σ) =
+
+v
+u
+u
+t
+
+1
+
+Pk
+
+i=1
+
+1
+σ2
+i +τ 2
+
+.
+
+(12)
+
+A derivation is provided in Appendix C; the standard deviation bσ(τ ) will become relevant
+later on. On the logarithmic scale the marginal likelihood then is:
+
+log(cid:0)p(~y | τ, ~σ)(cid:1) =
+
+−
+
+1
+2
+
+(k−1) log(2π) +
+
+k
+X
+
+i=1
+
+Conjugate normal prior
+
+(cid:18)
+
+log(cid:0)σ2
+
+i +τ 2(cid:1) +
+
+(cid:0)yi − bµ(τ )(cid:1)2
+σ2
+i + τ 2
+
+(cid:19)
+
++ log
+
+(cid:18) k
+X
+
+i=1
+
+1
+σ2
+i +τ 2
+
+(cid:19)!
+.
+
+(13)
+
+The normal eﬀect prior here is the conditionally conjugate prior distribution, since the result-
+ing conditional posterior (for a given τ value) again is of a normal form. Calculations for the
+
+ 
+Journal of Statistical Software
+
+15
+
+(proper) normal prior for the eﬀect µ work similarly to the previous derivation. Assume the
+prior for µ is normal with mean µp and variance σ2
+p, i.e., it is deﬁned through the probabil-
+(cid:17)
+ity density function p(µ) = 1√
+. The necessary integral for the marginal
+likelihood then results as
+
+(µ−µp)2
+σ2
+p
+
+− 1
+2
+
+exp
+
+2π σp
+
+(cid:16)
+
+p(~y |τ, ~σ) =
+
+Z
+
+p(~y | µ, τ, ~σ) p(µ) dµ
+
+= (cid:0)2π(cid:1)− k+1
+
+2 ×
+
+1
+q
+
+σ2
+p
+
+×
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i + τ 2
+
+Z
+
+×
+
+(cid:18)
+
+−
+
+exp
+
+1
+2
+
+h (µ − µp)2
+σ2
+p
+
++
+
+k
+X
+
+i=1
+
+(yi − µ)2
+σ2
+i + τ 2
+
+i(cid:19)
+
+dµ.
+
+One can see that the prior parameters (µp and σp) enter in a similar manner as the data
+points (yi and σi).
+In analogy to the previous derivation, deﬁne the conditional posterior
+mean and standard deviation
+
+bµ(τ ) =
+
+µp
+σ2
+p
+1
+σ2
+p
+
++ Pk
++ Pk
+
+i=1
+
+i=1
+
+yi
+σ2
+i +τ 2
+1
+σ2
+i +τ 2
+
+and
+
+bσ(τ ) =
+
+r
+
+1
++ Pk
+
+i=1
+
+1
+σ2
+p
+
+,
+
+1
+σ2
+i +τ 2
+
+(14)
+
+and the logarithmic marginal likelihood turns out as
+
+log(cid:0)p(~y | τ, ~σ)(cid:1) = −
+
+1
+2
+
+k log(2π) + log(cid:0)σ2
+p
+
+(cid:1) +
+
+k
+X
+
+i=1
+
+log(cid:0)σ2
+
+i +τ 2(cid:1)
+
++
+
+(cid:0)µp − bµ(τ )(cid:1)2
+σ2
+p
+
++
+
+k
+X
+
+i=1
+
+(cid:0)yi − bµ(τ )(cid:1)2
+
+i + τ 2 + log
+σ2
+
+(cid:18) 1
+σ2
+p
+
++
+
+k
+X
+
+i=1
+
+1
+σ2
+i +τ 2
+
+(cid:19)!
+.
+
+(15)
+
+Note that, comparing Equations 13 and 15 (as well as Equations 12 and 14), as expected, use
+of the uniform prior constitutes the limiting case of large prior uncertainty (σp → ∞).
+
+2.5. Conditional eﬀect posteriors
+
+As long as a uniform or normal prior for the eﬀect µ is used, the eﬀect’s conditional posterior
+distribution for a given heterogeneity value, p(µ | τ, ~y, ~σ), again is normal with mean bµ(τ )
+and standard deviation bσ(τ ) as given in Equation 12 or 14, respectively (Gelman et al. 2014).
+Note that the conditional posterior moments (Equation 12) are also commonly utilized in
+frequentist ﬁxed-eﬀect and random-eﬀects meta-analyses. The mean bµ(τ ) constitutes the
+conditional maximum likelihood estimate (of µ), conditional on a particular amount of het-
+erogeneity τ , while bσ(τ ) gives the corresponding (conditional) standard error. Plugging in
+τ = 0 yields the ﬁxed-eﬀect estimate of µ, while a value τ > 0 yields a random-eﬀects estimate
+(Hedges and Olkin 1985, Section 6); see also Section 3.5 for an example.
+
+2.6. Marginal and joint posterior
+
+Having derived the marginal likelihood p(~y | τ, ~σ) in Section 2.4, the (one-dimensional) mar-
+ginal posterior density of τ may be computed (up to a normalizing constant) by multiplication
+with the heterogeneity prior
+
+p(τ | ~y, ~σ) ∝ p(~y | τ, ~σ) × p(τ ).
+
+(16)
+
+ 
+16
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+This feature was one of the reasons for specifying the priors for µ and τ as independent (see
+Section 2.2). One-dimensional integration can now easily be done numerically for arbitrary
+priors p(τ ), as long as the resulting posterior is proper.
+
+The eﬀect’s conditional posterior p(µ | τ, ~y, ~σ) (see Section 2.5) is of particular interest, since
+the joint posterior may be re-expressed in terms of the conditional as
+
+p(µ, τ | ~y, ~σ) = p(µ | τ, ~y, ~σ) × p(τ | ~y, ~σ).
+
+(17)
+
+In this formulation, it becomes obvious that the eﬀect’s marginal distribution is a continuous
+mixture distribution, in which the normal conditionals p(µ | τ, ~y, ~σ) are mixed via the marginal
+p(τ | ~y, ~σ) with
+
+p(µ | ~y, ~σ) =
+
+Z
+
+p(µ, τ | ~y, ~σ) dτ =
+
+Z
+
+p(µ | τ, ~y, ~σ) × p(τ | ~y, ~σ) dτ
+
+(Seidel 2010; Lindsay 1995). This expression allows for easy numerical approximation of
+posterior integrals of interest. For example, the marginal distribution of the eﬀect µ (the
+normal mixture) may be approximated by using a discrete grid of τ values and summing up
+the normal conditionals using weights deﬁned through τ ’s marginal density:
+
+Z
+
+p(µ) =
+
+p(µ | τ ) p(τ ) dτ ≈ X
+j
+
+p(µ | τj) wj,
+
+(18)
+
+where the set of τj is appropriately chosen and corresponding “weights” wj (with P
+j wj = 1)
+are based on the marginal p(τ ). With that, it is now relatively straightforward to work with
+the joint distribution, derive marginals, moments, implement Monte Carlo integration, and so
+on. A general prescription of how to approach a discrete approximation as sketched in Equa-
+tion 18 while keeping the accuracy under control is given by the direct algorithm described
+by Röver and Friede (2017). A few more technical details are also given in Section 2.11 and
+Appendix D.
+
+2.7. Predictive distribution
+
+The predictive distribution expresses the posterior knowledge about a “future” observation,
+i.e., an additional draw θk+1 from the underlying population of studies. This is commonly of
+interest in order to judge the amount of heterogeneity relative to the estimation uncertainty
+(Riley, Higgins, and Deeks 2011; Guddat, Grouven, Bender, and Skipka 2012; Bender, Kuß,
+Koch, Schwenke, and Hauschke 2014), or for extrapolation in the design and analysis of future
+studies (Schmidli et al. 2014). Technically, the predictive distribution p(θk+1 | ~y, ~σ) is similar
+to the marginal distribution of the eﬀect µ (see previous section). Conditionally on a given
+heterogeneity τ , and for the uniform or normal eﬀect prior, the predictive distribution again
+is normal with moments
+
+E[θk+1 | τ, ~y, ~σ] = bµ(τ )
+
+and
+
+Var(θk+1 | τ, ~y, ~σ) = bσ2(τ ) + τ 2.
+
+2.8. Shrinkage estimates of study-speciﬁc means
+
+Sometimes it is of interest to also infer the posterior distributions of the study-speciﬁc param-
+eters θj. These may for example in the focus if a meta-analysis is performed in order support
+
+Journal of Statistical Software
+
+17
+
+the analysis of a particular study by borrowing strength from a number of related studies
+(Gelman et al. 2014; Schmidli et al. 2014; Wandel et al. 2017). Conditionally on a particular
+heterogeneity value τ , these distributions are again normal with moments given by
+
+E[θj | τ, ~y, ~σ] =
+
+Var(θj | τ, ~y, ~σ) =
+
+1
+σ2
+j
+
+yj + 1
+τ 2 bµ(τ )
+1
++ 1
+τ 2
+σ2
+j
+
+,
+
+1
++ 1
+τ 2
+
+1
+σ2
+j
+
++
+
+!2
+
+1
+τ 2
++ 1
+τ 2
+
+bσ
+
+1
+σ2
+j
+
+(Gelman et al. 2014, Section 5.5). These expressions illustrate the shrinkage of posterior
+estimates towards the common mean as a function of the heterogeneity. Analogously to
+the eﬀect’s posterior and predictive distribution, these conditional moments again allow to
+approximate each individual θi’s marginal posterior distribution via a discrete mixture to
+marginalize over the heterogeneity.
+
+2.9. Credible intervals
+
+2 and (1− α
+
+Credible intervals derived from a posterior probability distribution may be computed, e.g.,
+using the distribution’s α
+2 ) quantiles. However, such a simple central interval may
+not necessarily be the most sensible summary of a posterior distribution, especially if it is
+skewed or extends to the boundary of its parameter space. In such cases, it usually makes
+more sense to consider the highest posterior density (HPD) region, i.e., a (1−α) credible region
+enclosing the (1−α) posterior probability where the posterior density is largest (Gelman et al.
+2014). Such a region may be disjoint and hard to determine, but closely related (and identical
+for unimodal distributions) is the shortest credible interval. Both types of intervals, central
+and shortest, will be considered in the following.
+
+2.10. Posterior predictive checks and p values
+
+Posterior predictive model checks allow to investigate the ﬁt of a model to a given data set
+(Gelman, Meng, and Stern 1996; Gelman 2003; Gelman et al. 2014). The consistency of data
+and model is explored by comparing the actual data to data sets predicted via the posterior
+distribution. The comparison is usually done graphically, or via suitable summary statistics
+of actual and predicted data; a discrepancy then is an indicator of a poor model ﬁt.
+
+If the summary statistic is one-dimensional, then the comparison may be formalized by fo-
+cusing on the fractions of predicted values above or below the actually observed value. This
+leads to the concept of posterior predictive p values, which are closely related to classical
+p values (Meng 1994; Berkhof, Van Mechelen, and Hoijting 2000; Gelman 2013; Wasserstein
+2016). Posterior predictive p values have been applied and advocated in a range of contexts,
+including, e.g., educational testing (Sinharay, Johnson, and Stern 2006), metrology (Kacker,
+Forbes, Kessel, and Sommer 2008), psychology (Van de Schoot, Kaplan, Denissen, Asendorpf,
+Neyer, and Van Aken 2014) and biology (Chambert, Rotella, and Higgs 2014).
+
+In the context of the NNHM, posterior predictive checks are useful, as they allow to investigate
+certain hypotheses of interest, like for example µ ≥ 0, τ = 0 or θi = 0. The posterior predictive
+distribution conditional on a particular hypothesis may then be explored in order to derive a
+corresponding posterior predictive p value. The choice of a suitable summary statistic however
+
+ 
+18
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+may still pose a challenge. The posterior predictive checks here are implemented via Monte
+Carlo sampling, therefore parts of these procedures are computationally expensive.
+
+2.11. How the bayesmeta() function works internally
+
+The bayesmeta() function utilizes the fact that in the context of the NNHM the resulting
+posterior is only 2-dimensional (for now ignoring the θi parameters) and may be expressed
+as a mixture distribution (see Equation 17) where the heterogeneity’s marginal p(τ | ~y, ~σ) is
+known, and the eﬀect’s conditionals p(µ | τ, ~y, ~σ) are all of a normal form. This setup allows
+to approximate the eﬀect marginal by a discrete mixture (see Equation 18) while keeping the
+accuracy under control; the accuracy requirements are formulated via the direct algorithm’s
+two tuning parameters δ and (cid:15) (Röver and Friede 2017).
+
+An example of joint and marginal posterior densities of the two parameters is illustrated in
+Figure 3 (see page 24). The joint posterior density (top right) is easily evaluated based on
+likelihood and prior density, both of which are available in analytical form (see Sections 2.2
+and 2.3). The heterogeneity’s marginal density (bottom right) is also easily computed, based
+on marginal likelihood and prior (see Equation 16); only its normalizing constant needs to be
+computed numerically (using the integrate() function available in R; R Core Team 2020).
+The CDF is also computed using numerical integration, and the quantile function is evaluated
+using again the CDF and inverting it via R’s uniroot() root-ﬁnding function.
+Now the eﬀect’s marginal density (bottom left panel of Figure 3) is approximated by a mixture
+of a ﬁnite number of normal distributions. In terms of Equation 18, what is required is a ﬁnite
+set of support points τj, the parameters (means and standard deviations) of the associated
+normal conditionals p(µ | τj), and the corresponding weights wj. These are all determined
+using the direct algorithm, and in the bayesmeta() output (see the following section) one
+can ﬁnd these in the ...$support element. In the example shown in Figure 3, the eﬀect
+marginal is based on a 17-component normal mixture; this number of components is suﬃcient
+to bound the discrepancy between actual marginal and mixture approximation to amount to
+a Kullback-Leibler divergence below δ = 1%. The desired accuracy can be pre-speciﬁed via
+the delta and epsilon arguments (Röver and Friede 2017).
+Computations related to such discrete, ﬁnite mixtures are relatively straightforward; density
+and CDF are linear combination of the components’ (normal) densities and CDFs, random
+number generation is simple, and moments are also easily derived (Seidel 2010; Lindsay 1995).
+A few more details on the implementation are given in Appendix D. Many of the internal
+computations heavily rely on numerical integration, root-ﬁnding and optimization via R’s
+integrate(), uniroot(), optimize() and optim() functions. Accuracy of the eventual
+implementation is conﬁrmed using simulations in Appendix E.
+
+3. Using the bayesmeta package
+
+3.1. General
+
+Before proceeding to an exemplary analysis, we will ﬁrst introduce an example data set and
+go through the common procedure of eﬀect size derivation step-by-step. This will serve to
+introduce some context and generate a set of estimates (yi) and associated standard errors (σi);
+the subsequent section will then pick up the analysis from that starting point.
+
+Journal of Statistical Software
+
+19
+
+Event
+Yes No
+
+Total
+b n1 = a+b
+d n2 = c+d
+
+Treatment
+Control
+
+a
+c
+
+IL-2RA patients
+Control patients
+
+AR event
+Yes No Total
+61
+47
+20
+5
+
+14
+15
+
+Table 2: The general setup of a 2×2 contingency table for dichotomous outcomes (left) and
+a concrete example from the pediatric liver transplantation data set (right). Note that one
+of the three data columns is redundant here, as it may be derived from the remaining two.
+
+3.2. Example data: A systematic review in immunosuppression
+
+Interleukin-2 receptor antagonists (IL-2RA) are commonly used as part of immunosuppres-
+sive therapy after organ transplantation. Treatment strategies and responses are diﬀerent
+for adults and children, and it was of interest to investigate the eﬀectiveness of IL-2RA in
+preventing acute rejection (AR) events following liver transplantation in pediatric patients.
+A systematic literature review was performed, and six controlled studies were found reporting
+on the occurrence of AR events in pediatric liver transplant recipients (Crins, Röver, Goral-
+czyk, and Friede 2014). The binary data on AR events from each of the six studies may be
+summarized in a 2×2-table as shown in Table 2. The data shown here come from the earliest
+of the studies found in the review (Heﬀron, Pillen, Smallwood, Welch, Oakley, and Romero
+2003). Here one can already see that the treatment appears to be eﬀective, as roughly only a
+quarter of patients in the IL-2RA group experienced an AR event, compared to three quarters
+in the control group.
+
+In order to compare the eﬀect magnitude between diﬀerent studies, a common eﬀect mea-
+sure is computed from each contingency table (for each study i). One such measure is the
+logarithmic odds ratio (log-OR), comparing the odds of an event in treatment- and control-
+groups. The log-OR estimate is given by yi = log
+, where a to d are the event counts
+
+(cid:17)
+
+(cid:16) a/b
+c/d
+
+q 1
+
+14 + 1
+
+47 + 1
+
+15/5 = 14
+
+as deﬁned in Table 2; the corresponding standard error is σi =
+above example, the odds ratio is 14/47
+15 + 1
+
+141 ≈ 0.10; we have y1 = log
+5 = 0.60. A wide range of other measures is available for contingency
+σ1 =
+tables as well as other types of study outcomes; for example, in the present case one might
+alternatively be interested in (logarithmic) relative risks (RR) (log
+) instead of the
+log-ORs (Hedges and Olkin 1985; Hartung et al. 2008; Borenstein et al. 2009; Viechtbauer
+2010; Higgins and Green 2011; Deeks 2002). The original data and derived log-ORs for all six
+studies from the systematic review are shown in Table 3. The transplantation data set is also
+contained in the bayesmeta package; the data need to be loaded via the data() function:
+
+c + 1
+b + 1
+d .
+(cid:17)
+= −2.31 and
+
+a + 1
+(cid:16) 14/47
+15/5
+
+(cid:16) a/(a+b)
+c/(c+d)
+
+In the
+
+(cid:17)
+
+q 1
+
+R> library("bayesmeta")
+R> data("CrinsEtAl2014", package = "bayesmeta")
+R> CrinsEtAl2014
+
+Eﬀect sizes and standard errors can be calculated from the plain count data either by imple-
+menting the corresponding formulas (see above), or, much easier and recommended, by using,
+e.g., the metafor (Viechtbauer 2010) package’s escalc() function:
+
+R> library("metafor")
+
+20
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Study
+
+i Author
+1 Heﬀron et al.
+2 Gibelli et al.
+3 Schuller et al.
+4 Ganschow et al.
+5 Spada et al.
+6 Gras et al.
+
+Year
+2003
+2004
+2005
+2005
+2006
+2008
+
+IL-2RA group Control group
+Events Total Events Total
+(n2;i)
+
+(ai)
+14
+16
+3
+9
+4
+0
+
+(n1;i)
+61
+28
+18
+54
+36
+50
+
+(ci)
+15
+19
+8
+29
+11
+3
+
+Log-OR
+
+yi
+20 −2.31
+28 −0.46
+12 −2.30
+54 −1.76
+36 −1.26
+34 −2.42
+
+σi
+0.60
+0.56
+0.88
+0.46
+0.64
+1.53
+
+Table 3: Data from the immunosuppression example. Each row here summarizes a 2 × 2
+contingency table, the last two columns show the corresponding derived log-ORs (yi) and
+their associated standard errors (σi).
+
+R> crins.es <- escalc(measure = "OR", ai = exp.AR.events, n1i = exp.total,
++
++
+R> crins.es
+
+ci = cont.AR.events, n2i = cont.total, slab = publication,
+data = CrinsEtAl2014)
+
+One can see that the escalc() function uses a terminology analogous to that in Table 2 to
+interface with binary outcome data; the ai input argument corresponds to the ai table entries
+(number a of events in the treatment group for each study i), and so on. The output of the
+escalc() function (here: the data frame named crins.es) will then be the original data
+along with two additional columns named yi and vi containing the calculated eﬀect sizes (yi)
+and the squared (!) standard errors (σ2
+i ), respectively.
+Note that for computing the 6th study’s log-OR (see Table 3), a continuity correction was nec-
+essary, because one of the contingency table entries was zero (Sweeting, Sutton, and Lambert
+2004). For more details on eﬀect size calculation and default behavior, see also Viechtbauer
+(2010) or the escalc() function’s online documentation.
+
+3.3. Performing a Bayesian random-eﬀects meta-analysis
+
+The bayesmeta() function
+
+In order to perform a random-eﬀects meta-analysis, we need to specify the data, as well as
+the prior for the unknown parameters µ and τ (see Section 2.2). For the eﬀect µ we are
+restricted to normal or uniform priors; here we use a vague prior centered at µp = 0, which
+corresponds to an OR of 1, i.e., no eﬀect. The prior standard deviation we set to σp = 4,
+corresponding to the vague unit information prior (see Section 2.2). For the heterogeneity,
+we use a half-normal prior with scale 0.5, conﬁning the a priori expected heterogeneity to
+τ ≤ 0.98 with 95% probability (i.e., allowing for “fairly extreme” values with only about 5%
+prior probability).
+
+With the log-ORs computed as in the previous section, we can now execute the analysis using
+the following call
+
+R> ma01 <- bayesmeta(y = crins.es[, "yi"], sigma = sqrt(crins.es[, "vi"]),
++
++
+
+labels = crins.es[, "publication"], mu.prior.mean = 0, mu.prior.sd = 4,
+tau.prior = function(t) dhalfnormal(t, scale = 0.5))
+
+Journal of Statistical Software
+
+21
+
+The ﬁrst three arguments pass the data (vectors of estimates yi and standard errors σi) and
+(optionally) a vector of corresponding study labels to the bayesmeta() function. Note that the
+metafor package’s escalc() function returned variances (i.e., squared standard errors), while
+the bayesmeta() function’s sigma argument requires the standard errors (i.e., the square
+root of the variances); hence the additional square-root-transformation here. The following
+arguments specify the prior mean and standard deviation of the (normal) prior for the eﬀect µ.
+Finally, the last argument speciﬁes the prior for the heterogeneity τ . While for the eﬀect prior
+we are restricted to using normal or improper uniform priors, the heterogeneity prior can be
+of essentially any type. Speciﬁcation of the heterogeneity prior works via speciﬁcation of its
+prior density function. While this type of argument speciﬁcation is somewhat unusual, it is
+reasonably straightforward, as one can see above. The dhalfnormal() function here is the
+half-normal distribution’s density function; see also the corresponding online help (e.g., via
+entering ?dhalfnormal in R; R Core Team 2020).
+Retrieving and processing the yi and vi elements (as well as study labels, if available) from
+an escalc() result in general is not complicated, and the bayesmeta() function can also do
+this automatically for any escalc() output, including the many types of eﬀect sizes that are
+available (Viechtbauer 2010). Using simply the escalc() function’s output as an input, the
+identical result can be achieved by calling
+
+R> ma01 <- bayesmeta(crins.es, mu.prior.mean = 0, mu.prior.sd = 4,
++
+
+tau.prior = function(t) dhalfnormal(t, scale = 0.5))
+
+The bayesmeta() computations may take up to a few seconds, but with that the main
+calculations are done, and the essential results are stored in the generated object of class
+‘bayesmeta’ (here named ma01). One can inspect the results by printing the returned object:
+
+R> ma01
+
+'bayesmeta' object.
+
+6 estimates:
+Heffron (2003), Gibelli (2004), Schuller (2005), Ganschow (2005),
+Spada (2006), Gras (2008)
+
+tau prior (proper):
+function(t) dhalfnormal(t, scale=0.5)
+
+mu prior (proper):
+normal(mean=0, sd=4)
+
+ML and MAP estimates:
+
+tau
+
+mu
+0.32581341 -1.578262
+ML joint
+ML marginal 0.46441292 -1.578003
+MAP joint
+0.08690907 -1.559376
+MAP marginal 0.24531385 -1.569122
+
+22
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Figure 2: A forest plot, generated using the forestplot() function with default settings,
+showing the input data, eﬀect estimate, prediction interval and shrinkage estimates.
+
+marginal posterior summary:
+
+tau
+
+mu
+0.2453139 -1.5691216
+mode
+0.3445022 -1.5734823
+median
+0.3810562 -1.5764366
+mean
+sd
+0.2593672 0.3295298
+95% lower 0.0000000 -2.2312306
+95% upper 0.8607305 -0.9264079
+
+(quoted intervals are shortest credible intervals.)
+
+One can see that the analysis was based on k = 6 studies, that both parameters’ priors were
+found to be proper, and maximum-likelihood (ML) as well as maximum-a-posteriori (MAP)
+values are quoted. Probably most interestingly, under “marginal posterior summary” one can
+ﬁnd summary statistics describing the marginal posterior distributions of heterogeneity (τ )
+and eﬀect (µ), which may often be the most relevant ﬁgures. The resulting posterior median
+and 95% credible interval for the eﬀect µ here are at a log-OR of −1.57 [−2.23, −0.93]; this
+information may eventually constitute the essential result in many cases.
+
+The forestplot() function
+
+To illustrate data and results, one can use the forestplot() function. This function is actu-
+ally a ‘bayesmeta’-speciﬁc method based on the forestplot package’s generic forestplot()
+function (Gordon and Lumley 2017). In its simplest form, it may be used as
+
+R> forestplot(ma01)
+
+Figure 2 shows the forestplot() function’s default output for the example analysis. In the
+ﬁgure one can see all estimates yi along with 95% intervals based on the provided standard
+errors σi. At the bottom, 95% credible intervals for the eﬀect and for the predictive distri-
+bution are shown (Lewis and Clarke 2001; Guddat et al. 2012). Next to each of the quoted
+estimates (as speciﬁed through yi and σi), the shrinkage intervals for the study-speciﬁc ef-
+fects θi are also shown in gray; these illustrate the posterior of each individual study’s true
+
+quoted estimateshrinkage estimatestudyHeffron (2003)Gibelli (2004)Schuller (2005)Ganschow (2005)Spada (2006)Gras (2008)meanpredictionestimate−2.31−0.46−2.30−1.76−1.26−2.42−1.57−1.5795% CI[−3.48, −1.13][−1.55, 0.63][−4.03, −0.58][−2.65, −0.86][−2.52, −0.00][−5.41, 0.58][−2.23, −0.93][−2.77, −0.41]−5−4−3−2−101Journal of Statistical Software
+
+23
+
+eﬀect (see Equation 1 and Section 2.8). The forest plot can be customized in many ways; one
+can add columns to the table, change axis scaling and labels, omit shrinkage or prediction
+intervals, etc. For all the options see the online documentation for the forestplot method
+for ‘bayesmeta’ objects.
+
+The plot() function
+
+The analysis output may be inspected more closely using the plot() function:
+
+R> plot(ma01)
+
+The output for our example is shown in Figure 3;
+in particular, the joint and marginal
+posterior distributions are illustrated in detail. Prior densities may be superimposed by using
+the prior = TRUE argument, and axis ranges may also be speciﬁed manually; see also the
+online help for the plot method for ‘bayesmeta’ objects.
+
+Elements of the bayesmeta() output
+
+It is possible to access the joint and marginal densities shown in Figure 3 (and more) directly
+from the bayesmeta() output. As usual for an object returned from a non-trivial analysis
+function, the result of a bayesmeta() call is a list object of class ‘bayesmeta’ containing a
+number of further individual objects. One can check the complete listing of available entries
+in the online documentation. For example, there is the ...$summary entry giving some basic
+summary statistics:
+
+R> ma01$summary
+
+mu
+
+tau
+
+theta
+0.2453139 -1.5691214 -1.5632732
+mode
+0.3445023 -1.5734819 -1.5701653
+median
+0.3810562 -1.5764365 -1.5764365
+mean
+0.2593672 0.3295301 0.5671855
+sd
+95% lower 0.0000000 -2.2311251 -2.7661319
+95% upper 0.8607193 -0.9263075 -0.4072970
+
+Some of these we already saw in the output when simply printing the object (see above). The
+additional third column here shows summary statistics for the predictive distribution of a
+“future” study (θk+1). One can also access the original data (the yi and σi) in the ...$y and
+...$sigma entries, or the study labels and the total number of studies (k) in the ...$labels
+and ...$k entries.
+Most importantly, some of the elements are functions allowing to access and evaluate the
+various posterior distributions. For example, the posterior density can be accessed via the
+...$dposterior() function; this function has a mu or a tau argument, specifying either of
+these results in a marginal density, and specifying both gives the joint density. So a simple
+plot of the eﬀect’s marginal posterior density can be generated by
+
+R> x <- seq(-3, 0.5, length=200)
+
+24
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Figure 3: The four plots generated via the plot() function. The top left plot is a simple forest
+plot showing estimates and 95% intervals illustrating the input data (yi and σi) along with the
+estimated mean eﬀect µ and a prediction interval for the eﬀect θk+1 in a future study. The top
+right plot illustrates the joint posterior density of heterogeneity τ and eﬀect µ, with darker
+shading corresponding to higher probability density. The red lines indicate (approximate)
+2-dimensional credible regions, and the green lines show marginal posterior medians and
+95% credible intervals. The blue lines show the conditional posterior mean eﬀect bµ(τ ) as a
+function of the heterogeneity τ along with a 95% interval based on its conditional standard
+error bσ(τ ) (see also Section 2.4). The red cross (+) indicates the posterior mode, while the
+pink cross (×) shows the ML estimate. The two bottom plots show the marginal posterior
+densities of eﬀect µ and heterogeneity τ . 95% credible intervals are indicated with a darker
+shading, and the posterior median is shown by a vertical line.
+
+R> plot(x, ma01$dposterior(mu = x), type = "l", xlab = "effect",
++
+ylab = "posterior density")
+R> abline(h = 0, v = 0, col = "gray")
+
+In order to calculate the posterior probability of a non-beneﬁcial eﬀect (P(µ > 0 | ~y, ~σ) =
+
+ma01effectGras (2008)Spada (2006)Ganschow (2005)Schuller (2005)Gibelli (2004)Heffron (2003)prediction qk+1effect m−5−4−3−2−10ma01(joint posterior density) 50%  90%  95%  99%  99%  99% 0.00.20.40.60.81.01.2−2.5−2.0−1.5−1.0heterogeneity teffect meffect mmarginal posterior density−2.5−2.0−1.5−1.0ma01heterogeneity tmarginal posterior density0.00.20.40.60.81.01.2ma01Journal of Statistical Software
+
+25
+
+1 − P(µ ≤ 0 | ~y, ~σ)), one needs to evaluate the marginal posterior cumulative distribution
+function (CDF). This is provided via the ...$pposterior() function:
+
+R> 1 - ma01$pposterior(mu = 0)
+
+[1] 6.187343e-05
+
+Or one can also plot the complete CDF using the following code:
+
+R> x <- seq(-3, 0.5, length = 200)
+R> plot(x, ma01$pposterior(mu = x), type = "l", xlab = "effect",
++
+R> abline(h = 0:1, v = 0, col = "gray")
+
+ylab = "posterior CDF")
+
+The same works also for the heterogeneity parameter τ ; in order to derive for example the
+posterior probability for a “fairly extreme” heterogeneity (τ > 1), one simply needs to supply
+the tau parameter instead:
+
+R> 1 - ma01$pposterior(tau = 1)
+
+[1] 0.02097488
+
+so the posterior probability is at 2.1% here. The quantile function (inverse CDF) is also
+available in the ...$qposterior() function; in order to derive for example a 99% upper
+limit on the heterogeneity parameter, one needs to evaluate
+
+R> ma01$qposterior(tau.p = 0.99)
+
+[1] 1.109186
+
+so the 99% upper limit would here be at τ = 1.11.
+
+In many cases it is useful to use Monte Carlo simulation to derive other non-trivial quantities
+from the posterior distribution. One can generate samples from the posterior distribution
+using the ...$rposterior() function. A call of
+
+R> ma01$rposterior(n = 5)
+
+mu
+tau
+[1,] 0.2001671 -2.025604
+[2,] 0.5817517 -1.136931
+[3,] 0.2821377 -1.598258
+[4,] 0.7066918 -1.648216
+[5,] 0.8308250 -1.528641
+
+will generate a sample of 5 draws from the joint (bivariate) posterior distribution of τ and µ.
+If one is only interested in the marginal distribution of µ, it is (substantially!) more eﬃcient
+to omit the τ draws and use
+
+26
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+R> ma01$rposterior(n = 5, tau.sample = FALSE)
+
+[1] -1.875240 -1.027339 -1.463065 -1.406058 -1.711925
+
+to generate a vector of µ values only.
+
+For example, suppose that we assume a rate of AR events of pc = 50% for the control group,
+and we are interested in the implied risk diﬀerence based on our analysis. The risk diﬀerence
+is simply pt − pc, where pt is the event rate in the treatment (IL-2RA) group. To determine
+the distribution of the risk diﬀerence we can now simply use Monte Carlo sampling and run
+
+R> prob.control <- 0.5
+R> logodds.control <- log(prob.control / (1 - prob.control))
+R> logodds.treat <- (logodds.control +
++
+R> prob.treat <- exp(logodds.treat) / (1 + exp(logodds.treat))
+R> riskdiff <- (prob.treat - prob.control)
+R> median(riskdiff)
+
+ma01$rposterior(n = 10000, tau.sample = FALSE))
+
+[1] -0.3284975
+
+R> quantile(riskdiff, c(0.025, 0.975))
+
+2.5%
+
+97.5%
+-0.4028368 -0.2149175
+
+So here we ﬁnd a median risk diﬀerence of −0.33 and a 95% credible interval of [−0.40, −0.21]
+for this example. The risk diﬀerence distribution could now also be investigated further using
+histograms etc.
+
+Credible intervals
+
+Central credible intervals can be computed using the corresponding posterior quantiles via
+the ...$qposterior() function (see above). By default however, shortest intervals (see
+Section 2.9) are provided in the bayesmeta() output, or they can also be computed using the
+...$post.interval() function. The bayesmeta() function’s default behavior may also be
+controlled by setting the interval.type argument. Looking at Figure 3 (marginal posteriors
+at the bottom), one can see that, depending on the posterior’s shape, the shortest intervals
+may turn out one- or two-sided, at least for the heterogeneity parameter. For example a 99%
+credible interval for the heterogeneity can then be computed via
+
+R> ma01$post.interval(tau.level = 0.99)
+
+[1] 0.000000 1.109186
+attr(,"interval.type")
+[1] "shortest"
+
+Journal of Statistical Software
+
+27
+
+One can also see that the returned interval contains an attribute indicating the type of
+interval. A central interval then is derived by explicitly specifying the method to be used for
+computation:
+
+R> ma01$post.interval(tau.level = 0.99, method = "central")
+
+[1] 0.003547657 1.205400562
+attr(,"interval.type")
+[1] "central"
+
+Such an interval then is actually simply based on the corresponding “central” quantiles, as
+one may conﬁrm by running:
+
+R> ma01$qposterior(tau.p = c(0.005, 0.995))
+
+[1] 0.003547657 1.205400562
+
+Prediction
+
+Besides inferring the “main” parameters µ and τ , one can do the same computations for
+prediction, i.e., a future study’s parameter θk+1. Basic summary statistics for the poste-
+rior predictive distribution are already contained in the ...$summary element (see above).
+The ...$dposterior(), ...$pposterior(), ...$qposterior(), ...$rposterior() and
+...$post.interval() functions all have an optional predict argument to request the pre-
+dictive distribution. That way, one can for example combine the posterior and predictive
+densities of µ and θk+1 in a plot:
+
+ylab = "probability density")
+
+R> x <- seq(-3.5, 0.5, length = 200)
+R> plot(x, ma01$dposterior(mu = x), type = "n", xlab = "effect",
++
+R> abline(h = 0, v = 0, col = "gray")
+R> lines(x, ma01$dposterior(mu = x), col = "red")
+R> lines(x, ma01$dposterior(mu = x, predict = TRUE), col = "blue")
+
+The resulting plot is shown in Figure 4 (left panel). Analogously, the predict argument may
+be used to compute, e.g., CDFs, quantile functions or credible intervals.
+
+Shrinkage
+
+The “shrinkage” posterior distributions of the study-speciﬁc parameters θi are also accessible
+from the bayesmeta() output. They are also summarized in the ...$theta element; for
+example, shrinkage for the ﬁrst two studies is shown in the ﬁrst two columns:
+
+R> ma01$theta[, 1:2]
+
+y
+
+Heffron (2003) Gibelli (2004)
+-0.4595323
+
+-2.3097026
+
+28
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Figure 4: Posterior and posterior predictive densities for the overall eﬀect µ and a “future”
+study’s parameter θk+1 (left panel), and original (y1, σ1) and shrinkage (posterior θ1 | ~y, ~σ)
+estimates for the ﬁrst (i = 1) study (right panel). The corresponding estimates (medians and
+95% credible intervals) are also shown in the forest plot in Figure 2.
+
+sigma
+mode
+median
+mean
+sd
+95% lower
+95% upper
+
+0.5994763
+-1.6711220
+-1.7411356
+-1.7778965
+0.4229425
+-2.6561049
+-0.9920023
+
+0.5563956
+-1.3895876
+-1.2821722
+-1.2339736
+0.4488759
+-2.0455088
+-0.3089461
+
+One can see the original data (yi and σi) along with the posterior summaries (see also the
+forest plot in Figure 2). The ...$dposterior(), ...$pposterior(), ...$qposterior(),
+...$rposterior() and ...$post.interval() functions again also have an optional argu-
+ment individual to specify one of the individual studies (either by their index or by their
+name). For example, one can illustrate the ﬁrst study’s (i = 1) input data (y1, σ1) and
+shrinkage estimate (θ1) in a single plot using the following code
+
+xlab = "effect", ylab = "probability density")
+
+R> x <- seq(-4, 0.5, length = 200)
+R> plot(x, ma01$dposterior(theta = x, individual = 1), type = "n",
++
+R> abline(h = 0, v = 0, col = "gray")
+R> lines(x, dnorm(x, mean = ma01$y[1], sd = ma01$sigma[1]),
++
+R> lines(x, ma01$dposterior(theta = x, individual = 1), col = "green")
+
+col = "green", lty = "dashed")
+
+The resulting two densities are shown in Figure 4 (right panel). Analogously, the individual
+argument may be used to compute, e.g., CDFs, quantile functions or credible intervals.
+
+−3−2−100.00.51.01.5effectprobability densityposterior (m)posterior predictive (qk+1)−4−3−2−100.00.20.40.60.81.01.2effectprobability densityinitial estimate (y1–s1)shrinkage estimate (q1|y,s)Journal of Statistical Software
+
+29
+
+3.4. Investigating prior variations
+
+Prior predictive distributions
+
+In order to judge the implications of settings of the heterogeneity prior, it is often useful
+to consider prior predictive distributions (Gelman et al. 2014). Any ﬁxed value of τ will
+imply a certain (prior) distribution p(θi | µ, τ ) and variability among the true study-speciﬁc
+means θ1, . . . , θk, namely, a normal distribution with Var(θi | µ, τ ) = τ 2 (see also Equation 1).
+Depending on the type of endpoint (e.g., log-ORs), the implied variability can be interpreted
+and judged on the corresponding outcome scale (Spiegelhalter et al. 2004, Section 5.7).
+
+Assuming a prior distribution for τ , rather than a ﬁxed value, also implies assumptions on
+the a priori expected distribution and variability of the true study parameters θi. The prior
+predictive distribution p(θi | µ) of the θi values then is a mixture of normal distributions, with
+mean µ and with the prior p(τ ) as the mixing distribution for the normal standard deviation
+(Seidel 2010; Lindsay 1995). As the name suggests, the prior predictive distribution is actually
+closely related to the (posterior) predictive distribution discussed above (Gelman et al. 2014).
+This mixture distribution can again be evaluated using the direct algorithm (Röver and
+Friede 2017); this approach is implemented in the normalmixture() function.
+Consider the half-normal prior distribution with scale 0.5 that was used for the heterogene-
+ity in the above analysis. We can now check what prior predictive distribution this prior
+corresponds to. We only need to supply the prior CDF (the mean µ is by default set to zero):
+
+R> hn05 <- normalmixture(cdf = function(t) phalfnormal(t, scale = 0.5))
+
+One can check the returned result (e.g., via str(hn05)); the result is a list with several
+elements, among which most importantly are the mixture’s density, cumulative distribution
+and quantile functions (...$density(), ...$cdf() and ...$quantile(), respectively).
+For comparison, we can also check the implications of a half-Cauchy prior of the same scale,
+or a half-normal prior of doubled scale:
+
+R> hn10 <- normalmixture(cdf=function(t) phalfnormal(t, scale = 1.0))
+R> hc05 <- normalmixture(cdf=function(t) phalfcauchy(t, scale = 0.5))
+
+and compare these graphically via their implied prior predictive CDFs by accessing the three
+mixtures’ ...$cdf() functions:
+
+xlab = expression(theta[i]), ylab = "prior predictive CDF")
+
+R> x <- seq(-1, 3, by = 0.01)
+R> plot(x, hn05$cdf(x), type = "l", col = "blue", ylim = 0:1,
++
+R> lines(x, hn10$cdf(x), col = "green")
+R> lines(x, hc05$cdf(x), col = "red")
+R> abline(h = 0:1, v = 0, col = "gray")
+R> axis(3, at = log(c(0.5, 1, 2, 5, 10, 20)), lab = c(0.5, 1, 2, 5, 10, 20))
+R> mtext(expression(exp(theta[i])), side = 3, line = 2.5)
+
+The resulting plot is shown in Figure 5. In our example, the eﬀect measure is a log-OR, so
+the θi need to be interpreted on the exponentiated scale (see the top axis). A priori, 95% of
+θi values are assumed to be within ± the 97.5% quantile of the (symmetric) prior predictive
+distribution. We can now check what this means for our three cases:
+
+30
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Figure 5: Prior predictive distributions for the true study means θi assuming several hetero-
+geneity priors (and µ = 0) as computed using the normalmixture() function.
+
+R> q975 <- c("half-normal(0.5)" = hn05$quantile(0.975),
++
++
+R> print(cbind("theta" = q975, "exp(theta)" = exp(q975)))
+
+"half-normal(1.0)" = hn10$quantile(0.975),
+"half-Cauchy(0.5)" = hc05$quantile(0.975))
+
+theta exp(theta)
+2.981083
+half-normal(0.5) 1.092287
+half-normal(1.0) 2.184573
+8.886857
+half-Cauchy(0.5) 5.050571 156.111517
+
+So for the half-normal prior with scale 0.5 we have 95% probability roughly within a factor
+of 1
+3 or 3 around the overall mean odds ratio (exp(µ)). For the other two priors, the numbers
+are much more extreme.
+
+Informative heterogeneity priors
+
+It may also make sense to consider empirical information for the setup of an informative
+In medical or
+heterogeneity prior, for example, when other evidence is extremely sparse.
+psychological contexts, some evidence for certain types of endpoints may be found, e.g., in
+Pullenayegum (2011), Turner et al. (2012), Kontopantelis et al. (2013) and Van Erp et al.
+(2017). Instantly applicable for a meta-analysis are the numbers given by Rhodes et al. (2015)
+and Turner et al. (2015), where in both cases the complete Cochrane Database of Systematic
+Reviews was analyzed to infer the predictive distribution of heterogeneity for speciﬁc appli-
+cations. The investigation by Rhodes et al. (2015) here was concerned with mean diﬀerence
+endpoints, while Turner et al. (2015) focused on log-OR endpoints. The derived prior dis-
+tributions are directly available in the bayesmeta package via the RhodesEtAlPrior() and
+
+−101230.00.20.40.60.81.0qiprior predictive CDFhalf−Normal(0.5)half−Normal(1.0)half−Cauchy(0.5)0.51251020exp(qi)Journal of Statistical Software
+
+31
+
+TurnerEtAlPrior() functions. For our present example (a log-OR endpoint whose deﬁnition
+may be categorized as “surgical / device related success / failure”, and where the comparison
+is between pharmacological treatment and control), we can derive the prior simply as
+
+R> tp <- TurnerEtAlPrior(outcome = "surgical",
++
+
+comparator1 = "pharmacological", comparator2 = "placebo / control")
+
+For a complete description of the possible input options see the online documentation; the
+RhodesEtAlPrior() function then works similarly. The function output is a list with several
+entries, including the prior density, cumulative distribution and quantile function (in this case
+a log-normal distribution) in the ...$dprior(), ...$pprior() and ...$qprior() elements.
+This way we can for example check what magnitude of heterogeneity values is a priori expected
+for this setting by determining the median as well as 2.5% and 97.5% quantiles:
+
+R> tp$qprior(c(0.025, 0.5, 0.975))
+
+[1] 0.06233896 0.34300852 1.88734045
+
+The prior density can now immediately be used and passed on to the bayesmeta() function;
+for example, we can use the same eﬀect prior as before and the “empirical” prior for the
+heterogeneity:
+
+R> ma02 <- bayesmeta(crins.es, mu.prior.mean = 0, mu.prior.sd = 4,
++
+
+tau.prior = tp$dprior)
+
+Comparing the results to the previous analysis (e.g., via their ...$summary outputs), one can
+see that in this case they are very similar. The two corresponding prior densities are also
+shown in Figure 1 (page 13; solid and dotted blue lines).
+
+Non-informative priors
+
+As discussed in Section 2.2, an obvious choice of an uninformative prior for the eﬀect µ
+would be the (improper) uniform prior on the real line; this one can be utilized by simply
+leaving the mu.prior.mean and mu.prior.sd parameters unspeciﬁed. In order to use one
+of the uninformative heterogeneity priors discussed in Section 2.2, these do not need to be
+speciﬁed “manually” in terms of their probability density function; a set of priors is already
+pre-implemented and may be speciﬁed via a character string. The default setting for example
+is tau.prior = "uniform". If one wants to use, say, the uniform eﬀect prior along with the
+Jeﬀreys prior for the heterogeneity τ (see Section 2.2 and Bodnar et al. 2017), one can run
+
+R> ma03 <- bayesmeta(crins.es, tau.prior = "Jeffreys")
+
+The complete list of possible options is described in detail in the online documentation.
+
+3.5. Making the connection with frequentist results
+
+Frequentist and Bayesian approaches to inference within the NNHM framework are obviously
+related, and it may be interesting to highlight the connection between the corresponding
+results. A simple frequentist analysis may be performed, e.g., using the metafor (Viechtbauer
+2010) package’s rma() function via
+
+32
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+R> ma04 <- rma(crins.es)
+
+By default, the restricted ML (REML) heterogeneity estimator ˆτREML is used, but the exact
+type of estimator does not matter here. The heterogeneity point estimate here turns out as:
+
+R> sqrt(ma04$tau2)
+
+[1] 0.4670268
+
+and we can retrieve the eﬀect estimate and its standard error via:
+
+R> ma04$b
+
+[,1]
+intrcpt -1.591513
+
+R> ma04$se
+
+[1] 0.3340882
+
+In the Bayesian setup, these numbers correspond to conditional posterior moments of the
+eﬀect (µ | τ = ˆτREML) in an analysis using the uniform eﬀect prior. Such an analysis was
+performed in the previous section (uniform eﬀect prior and Jeﬀreys heterogeneity prior; the
+heterogeneity prior does not matter here) and stored in the ma03 object. From this we
+can retrieve the eﬀect’s conditional posterior moments (mean and standard deviation for
+τ = ˆτREML) using the ...$cond.moment() function:
+
+R> ma03$cond.moment(tau = sqrt(ma04$tau2))
+
+sd
+mean
+[1,] -1.591513 0.3340882
+
+and we can see that these correspond exactly to the frequentist eﬀect estimate. Both analysis
+approaches are related through the use of the same likelihood function;
+in the Bayesian
+analysis uncertainty (e.g., in the heterogeneity) is accounted for via integration, and a prior
+distribution for both parameters is considered.
+
+3.6. Posterior predictive checks
+
+A meta-analysis of two studies
+
+Posterior predictive p values allow to quantify the consistency of the data with certain para-
+metric hypotheses; see Section 2.10. In the following we will determine some p values from
+the bayesmeta() output; to this end, we will investigate a second meta-analysis example
+involving only two studies.
+
+Of the six studies considered in the pediatric transplantation example (see Figure 2), only
+two were randomized (Heﬀron et al. 2003; Spada et al. 2006). Since randomized studies are
+usually considered as evidence of higher quality, now suppose one was interested in combining
+the randomized studies only. Computations analogous to the preceding example may be done
+via
+
+Journal of Statistical Software
+
+33
+
+Figure 6: Forest plot showing the data and derived estimates for the analysis of the two
+randomized studies only.
+
+R> ma05 <- bayesmeta(crins.es[crins.es[, "randomized"] == "yes", ],
++
++
+
+mu.prior.mean = 0, mu.prior.sd = 4,
+tau.prior = function(t) dhalfnormal(t, scale = 0.5))
+
+Figure 6 shows the forest plot for this analysis. Based on these two studies only, we can
+now inspect, e.g., the estimate of the overall eﬀect µ; comparing to the previous analysis
+(Figure 2), the (absolute) estimate is slightly larger, but the credible interval is wider.
+
+Posterior predictive p values for the eﬀect (µ)
+
+The obvious “null” hypothesis to be tested here is H0 : µ ≥ 0 (i.e., no eﬀect or a harmful
+eﬀect) versus the alternative H1 : µ < 0 (a beneﬁcial eﬀect). We may now derive a posterior
+predictive p value in order to express to what extent the data are consistent with or in
+contradiction to the null hypothesis. In order to evaluate the “discrepancy” between data and
+null hypothesis, we need a test statistic or discrepancy variable that in some sense measures
+or captures this (in-) compatibility.
+
+An obvious candidate may, e.g., be the posterior probability of a beneﬁcial eﬀect, P(µ < 0 |
+y). This probability here is identical to the posterior cumulative distribution function (CDF)
+evaluated at the hypothesized value µ = 0. Large values then are evidence against, and small
+values speak in favor of the null hypothesis. In the present example data set we can evaluate
+this ﬁgure as
+
+R> ma05$pposterior(mu = 0)
+
+[1] 0.9974968
+
+Regarding our hypothesis setup, the question then is, how (un-)likely our observed value of
+0.9975 is under the null hypothesis (H0 : µ ≥ 0).
+In order to answer that question, we
+need the posterior distribution of the test statistic conditional on the null hypothesis (and
+the data). Using Monte Carlo sampling, we can generate draws of parameters from the
+conditional posterior distribution (µ?, τ ?, θ? | y, µ ≥ 0) and then generate new data based
+on these (y? | µ?, τ ?, θ?) from which we can compute replications of the test statistic and
+determine its distribution.
+
+quoted estimateshrinkage estimatestudyHeffron (2003)Spada (2006)meanpredictionestimate−2.31−1.26−1.78−1.7895% CI[−3.48, −1.13][−2.52, −0.00][−2.86, −0.69][−3.25, −0.28]−3.5−3−2.5−2−1.5−1−0.500.534
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+In the bayesmeta package, posterior predictive checks are implemented in the pppvalue()
+In order to generate posterior predictive draws, we need to specify the involved
+function.
+hypotheses, the test statistic, and the number of Monte Carlo replications to be generated;
+here we use n = 1000, which may take a few minutes to compute:
+
+R> p1 <- pppvalue(ma05, parameter = "mu", value = 0, alternative = "less",
++
+
+statistic = "cdf", n = 1000)
+
+Since the p value is eventually computed based on the generated Monte Carlo samples, a
+value of n (cid:29) 100 will usually be appropriate. By default, a progress bar is shown during
+computation, allowing to estimate the remaining computation time. We can then inspect the
+result by printing the returned object:
+
+R> p1
+
+'bayesmeta' posterior predictive p-value (one-sided)
+
+ma05
+
+data:
+cdf = 0.9975, Monte Carlo replicates = 1000, p-value = 0.01
+alternative hypothesis: true effect (mu) is less than 0
+
+The default output restates the hypothesis setup and shows a posterior predictive p value of
+0.01. This means that in 10 of the 1000 replications generated (1%) the statistic was larger
+than our observed 0.9975. One can also do a quick check of the uncertainty in this Monte-
+Carlo’ed p value using, e.g., the prop.test() function, which here yields a 95% conﬁdence
+interval ranging roughly from 0.5% to 2%.
+The replications are also stored in detail in the generated object (here: p1). The list object
+contains a ...$replicates element, which again contains vectors of generated τ ? and µ?
+draws, matrices of the corresponding θ? and y? draws, and ﬁnally the test statistic values
+along with an indicator showing which ones constitute the “tail area” the p value is based on.
+Using the provided output, one can visualize how the posterior predictive p value is computed;
+executing
+
+R> plot(ma05, which = 2, mulim = c(-3.5, 1), taulim = c(0, 2))
+R> abline(h = p1$null.value)
+R> points(p1$replicates$tau, p1$replicates$mu, col = "cyan")
+
+one can see the joint posterior distribution of heterogeneity τ and eﬀect µ along with the
+generated samples, which, according to the speciﬁed null hypothesis, are conﬁned to µ ≥ 0
+(see Figure 7, left panel). The resulting test statistic values can be illustrated via their
+empirical cumulative distribution function, which can be generated by
+
+R> plot(ecdf(p1$replicates$statistic[, 1]))
+R> abline(v = p1$statistic, col = "red")
+R> abline(h = 1 - p1$p.value, col = "green")
+
+(see Figure 7, right panel). The “test statistic” values range between 0 and 1, and their
+distribution is clearly not uniform. The actualized value in the present data set (0.9975,
+
+Journal of Statistical Software
+
+35
+
+Figure 7: Illustration of the computation of a posterior predictive p value using Monte Carlo
+sampling. The left panel shows the distribution of replicated µ? and τ ? values, the right panel
+shows the empirical (cumulative) distribution of the associated “test statistic” values.
+
+vertical red line) is situated in the upper tail of the distribution of replicated statistics values,
+and the remaining tail area (horizontal green line) eventually deﬁnes the p value.
+
+Posterior predictive p values for the heterogeneity (τ )
+
+Computation of posterior predictive p values for the heterogeneity works analogously. Use of
+the posterior CDF (P(τ ≤ 0 | y)) to test for zero heterogeneity does not make sense, as this
+ﬁgure will always be zero, for the original as well as any replicated data. In order to test for
+zero heterogeneity, we could use the classical Cochran’s Q statistic:
+
+R> p2 <- pppvalue(ma05, parameter = "tau", value = 0, alternative = "greater",
++
+
+statistic = "q", n = 1000)
+
+which here yields a p value of 24.4%.
+In this case computations are much faster, since
+computationally expensive re-analyses of the data are not necessary to compute the test
+statistic. The resulting p value should be identical to the “classical” result, since under the
+null hypothesis considered (here: τ = 0) the Q-statistic follows a χ2-distribution, as in the
+frequentist setting.
+
+In a Bayesian context, it may also make sense to consider using for example the Bayes factor
+of the hypothesis of τ = 0 as the “test statistic” or “discrepancy measure”. The pppvalue()
+function is able to utilize arbitrary functions as a statistic; to use the Bayes factor, we can
+deﬁne the function
+
+bm <- bayesmeta(y = y, sigma = sigma,
+mu.prior.mean = 0, mu.prior.sd = 4,
+tau.prior = function(t) dhalfnormal(t, scale = 0.5),
+interval.type = "central")
+
+R> BF <- function(y, sigma) {
++
++
++
++
++
++
+
+return(bm$bayesfactor[1, "tau=0"])
+
+}
+
+(joint posterior density) 50%  90%  95%  99% 0.00.51.01.52.0−3−2−101heterogeneity teffect mllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll0.00.20.40.60.81.00.00.20.40.60.81.0xFn(x)36
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Two things are worth noting here. Firstly, it makes sense to use matching (especially prior)
+speciﬁcations for the bayesmeta() call within the BF() function as for the original analysis
+(here: the previously generated ma05 object). Secondly, the use of central intervals (see
+the interval.type argument) is more eﬃcient, since these are faster to compute, and the
+intervals are otherwise irrelevant here. In order to utilize the function for a posterior predictive
+p value, we can then call
+
+R> p3 <- pppvalue(ma05, parameter = "tau", value = 0,
++
++
+
+alternative = "greater", statistic = BF,
+rejection.region = "lower.tail", n = 1000, sigma = ma05$sigma)
+
+Note that the rejection region needs to be speciﬁed explicitly here (small Bayes factors con-
+stitute evidence against the null hypothesis). Additional arguments may be passed to the
+statistic function, like the sigma argument above. The Bayes factor in this case yields a
+similar p value to Cochran’s Q statistic (p = 22.2%).
+
+Posterior predictive p values for individual eﬀects (θi)
+
+Quite commonly in a meta-analysis, interest may also be in one of the study speciﬁc param-
+eters θi (Schmidli et al. 2014; Wandel et al. 2017). For example, suppose that at the end of
+the latter of the two concerned studies (Spada, 2006) a meta-analysis was performed to eval-
+uate the cumulative evidence, but main interest still was in the outcome of the second study
+that had just been conducted; it would then only be considered in the light of the previous
+evidence. In such a scenario, we can then evaluate a posterior predictive p value for the 2nd
+study’s eﬀect (θ2); this shrinkage estimate is also shown in Figure 6. Using the pppvalue()
+function, we can simply refer to a particular study’s parameter by its index or its label:
+
+R> p4 <- pppvalue(ma05, parameter = "Spada", value = 0,
+alternative = "less", statistic = "cdf", n = 1000)
++
+
+which here results in a p value of around 16.1%.
+
+4. Summary
+
+A Bayesian approach has distinct advantages in the context of meta-analysis; it allows to
+coherently process the uncertainty in the heterogeneity (nuisance) parameter while focusing
+on inference for the eﬀect parameter(s), small sample sizes (numbers of studies) do not pose
+a diﬃculty, and interpretation of the results is very straightforward. Since meta-analyses are
+quite commonly based on only very few studies, the opportunity to formally utilize external
+information in the analysis via the prior speciﬁcation may be a welcome feature. Unlike for
+some other methods whose results depend on the speciﬁcation of secondary details, a Bayesian
+analysis result is uniquely deﬁned once the model (likelihood and prior) is speciﬁed.
+
+The application of Bayesian reasoning for this purpose is not a novelty (Spiegelhalter et al.
+2004), but it usually comes with a certain computational burden; often MCMC methods
+are necessary, which demand a substantial amount of attention on their own (Gilks et al.
+1996). The bayesmeta package (Röver 2020) allows to perform Bayesian random-eﬀects meta-
+analyses without the need to worry too much about the computational details. Package
+
+Journal of Statistical Software
+
+37
+
+bayesmeta (Röver 2020) is available from the Comprehensive R Archive Network (CRAN) at
+https://CRAN.R-project.org/package=bayesmeta.
+Some of the technical details of the computational approach underlying the package have
+been described elsewhere (Röver and Friede 2017). The simple normal-normal hierarchical
+model (NNHM) treated here is applicable in a wide range of contexts and is routinely used
+for many types of input data and eﬀect measures (Hedges and Olkin 1985; Hartung et al.
+2008; Viechtbauer 2010; Borenstein et al. 2009). The bayesmeta implementation allows for
+quick, accurate and reproducible computation, and it has already facilitated some larger-
+scale simulation studies to compare Bayesian results with common alternative approaches and
+evaluate their relative performance (Friede et al. 2017a,b). Usage of the bayesmeta package is
+not more complicated to use than many other common meta-analysis tools. The availability
+of predictive distributions and shrinkage estimates makes the package attractive also for
+advanced evidence synthesis applications, like extrapolation to future studies (Schmidli et al.
+2014, 2017; Wandel et al. 2017). Since the generic NNHM appears in diﬀerent ﬁelds of
+application, use of the bayesmeta package may also be extended to other areas of research
+beyond common meta-analysis. For example, it could as well be used to model hierarchical
+structures within a study (e.g., groups of patients), or a two-stage approach may be useful
+for meta-analysis based on individual-patient data. In future, the same numerical approach
+might be extended to the more general case of meta-regression.
+
+Acknowledgments
+
+This project has received funding from the European Union’s Seventh Framework Programme
+for research, technological development and demonstration under grant agreement number
+FP HEALTH 2013-602144 through the InSPiRe project. Much of the present work evolved in
+close collaboration with Tim Friede, Beat Neuenschwander and Simon Wandel. Many thanks
+for helpful comments go to Thomas Asendorf, Burak Günhan, Markus Harden, Judith Heinz,
+Barbora Kessel, Tobias Mütze, Sibylle Sturtz, Steﬀen Unkel, and an anonymous reviewer.
+
+References
+
+Balduzzi S, Rücker G, Schwarzer G (2019).
+
+“How to Perform a Meta-Analysis with R:
+A Practical Tutorial.” Evidence-Based Mental Health, 22(4), 153–160. doi:10.1136/
+ebmental-2019-300117.
+
+Bartholomew DJ (1965). “A Comparison of Some Bayesian and Frequentist Inferences.”
+
+Biometrika, 52(1–2), 19–35. doi:10.2307/2333809.
+
+Bayarri MJ, Berger JO (2004). “The Interplay of Bayesian and Frequentist Analysis.” Sta-
+
+tistical Science, 19(1), 58–80. doi:10.1214/088342304000000116.
+
+Bender R, Kuß O, Koch A, Schwenke C, Hauschke D (2014). “Application of Prediction
+Intervals in Meta-Analyses with Random Eﬀects.” Joint Statement of IQWiG, GMDS
+and IBS-DR. URL https://www.iqwig.de/download/2014-03-07_Joint_Statement_
+Prediction_Intervals.pdf.
+
+38
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Berger J, Pericchi LR (2001). “Objective Bayesian Methods for Model Selection: Introduction
+and Comparison.” In P Lahiri (ed.), Model Selection, volume 38 of IMS Lecture Notes,
+pp. 135–193. Institute of Mathematical Statistics, Beachwood, OH. doi:10.1214/lnms/
+1215540968.
+
+Berger JO (1985). Statistical Decision Theory and Bayesian Analysis. 2nd edition. Springer-
+
+Verlag. doi:10.1007/978-1-4757-4286-2.
+
+Berger JO, Deely J (1988). “A Bayesian Approach to Ranking and Selection of Related
+Means with Alternatives to Analysis-of-Variance Methodology.” Journal of the American
+Statistical Association, 83(402), 364–373. doi:10.1080/01621459.1988.10478606.
+
+Berkhof J, Van Mechelen I, Hoijting H (2000). “Posterior Predictive Checks: Principles and
+Discussion.” Computational Statistics, 15(3), 337–354. doi:10.1007/s001800000038.
+
+Bodnar O, Link A, Arendacká B, Possolo A, Elster C (2017). “Bayesian Estimation in
+Random Eﬀects Meta-Analysis Using a Non-Informative Prior.” Statistics in Medicine,
+36(2), 378–399. doi:10.1002/sim.7156.
+
+Bodnar O, Link A, Elster C (2016). “Objective Bayesian Inference for a Generalized Marginal
+
+Random Eﬀects Model.” Bayesian Analysis, 11(1), 25–45. doi:10.1214/14-ba933.
+
+Borenstein M, Hedges LV, Higgins JPT, Rothstein HR (2009). Introduction to Meta-Analysis.
+
+John Wiley & Sons, Chichester.
+
+Borenstein M, Hedges LV, Higgins JPT, Rothstein HR (2010). “A Basic Introduction to
+Fixed-Eﬀect and Random-Eﬀects Models for Meta-Analysis.” Research Synthesis Methods,
+1(2), 97–111. doi:10.1002/jrsm.12.
+
+Browne WJ, Draper D (2006). “A Comparison of Bayesian and Likelihood-Based Methods
+for Fitting Multilevel Models.” Bayesian Analysis, 1(3), 473–514. doi:10.1214/06-ba117.
+
+Burr D (2012). “bspmma: An R Package for Bayesian Semiparametric Models for Meta-
+Analysis.” Journal of Statistical Software, 50(4), 1–23. doi:10.18637/jss.v050.i04.
+
+Chalmers I, Hedges LV, Cooper H (2002). “A Brief History of Research Synthesis.” Evaluation
+
+& the Health Professions, 25(1), 12–37. doi:10.1177/0163278702025001003.
+
+Chambert T, Rotella JJ, Higgs MD (2014). “Use of Posterior Predictive Checks as an Infer-
+ential Tool for Investigating Individual Heterogeneity in Animal Population Vital Rates.”
+Ecology and Evolution, 4(8), 1389–1397. doi:10.1002/ece3.993.
+
+Chung Y, Rabe-Hesketh S, Choi IH (2013). “Avoiding Zero Between-Study Variance Estimates
+in Random-Eﬀects Meta-Analysis.” Statistics in Medicine, 32(23), 4071–4089. doi:10.
+1002/sim.5821.
+
+Cook SR, Gelman A, Rubin DB (2006). “Validation of Software for Bayesian Models Using
+Posterior Quantiles.” Journal of Computational and Graphical Statistics, 15(3), 675–692.
+doi:10.1198/106186006x136976.
+
+Crins ND, Röver C, Goralczyk AD, Friede T (2014). “Interleukin-2 Receptor Antagonists
+for Pediatric Liver Transplant Recipients: A Systematic Review and Meta-Analysis of
+Controlled Studies.” Pediatric Transplantation, 18(8), 839–850. doi:10.1111/petr.12362.
+
+Journal of Statistical Software
+
+39
+
+Daniels M (1999). “A Prior for the Variance in Hierarchical Models.” The Canadian Journal
+
+of Statistics, 27(3), 567–578. doi:10.2307/3316112.
+
+Davey J, Turner RM, Clarke MJ, Higgins JPT (2011). “Characteristics of Meta-Analyses
+and Their Component Studies in the Cochrane Database of Systematic Reviews: a Cross-
+Sectional, Descriptive Analysis.” BMC Medical Research Methodology, 11(1), 160. doi:
+10.1186/1471-2288-11-160.
+
+Dawid AP (1982). “The Well-Calibrated Bayesian.” Journal of the American Statistical
+
+Association, 77(379), 605–610. doi:10.1080/01621459.1982.10477856.
+
+Debray T, De Jong V (2019). metamisc: Diagnostic and Prognostic Meta-Analysis. R package
+
+version 0.2.2, URL https://CRAN.R-project.org/package=metamisc.
+
+Deeks JJ (2002). “Issues in the Selection of a Summary Statistic for Meta-Analysis of Clinical
+Trials with Binary Outcomes.” Statistics in Medicine, 21(11), 1575–1600. doi:10.1002/
+sim.1188.
+
+Ding T, Baio G (2016). bmeta: Bayesian Meta-Analysis and Meta-Regression. R package
+
+version 0.1.2, URL https://CRAN.R-project.org/package=bmeta.
+
+DuMouchel WH, Normand SL (2000). “Computer Modeling Strategies for Meta-Analysis.”
+In DK Stangl, DA Berry (eds.), Meta-Analysis in Medicine and Health Policy, pp. 127–178.
+CRC Press.
+
+Follmann DA, Proschan MA (1999). “Valid Inference in Random Eﬀects Meta-Analysis.”
+
+Biometrics, 55(3), 732–737. doi:10.1111/j.0006-341x.1999.00732.x.
+
+Friede T, Röver C, Wandel S, Neuenschwander B (2017a). “Meta-Analysis of Few Small
+Studies in Orphan Diseases.” Research Synthesis Methods, 8(1), 79–91. doi:10.1002/
+jrsm.1217.
+
+Friede T, Röver C, Wandel S, Neuenschwander B (2017b). “Meta-Analysis of Two Studies in
+the Presence of Heterogeneity with Applications in Rare Diseases.” Biometrical Journal,
+59(4), 658–671. doi:10.1002/bimj.201500236.
+
+Friedrich T, Knapp G (2013). “Generalized Interval Estimation in the Random Eﬀects Meta
+Regression Model.” Computational Statistics & Data Analysis, 64, 165–179. doi:10.1016/
+j.csda.2013.03.011.
+
+Ganschow R, Grabhorn E, Schulz A, von Hugo A, Rogiers X, Burdelski A (2005). “Long-
+Term Results of Basiliximab Induction Immunosuppression in Pediatric Liver Transplant
+Recipients.” Pediatric Transplantation, 9(6), 741–745. doi:10.1111/j.1399-3046.2005.
+00371.x.
+
+Gelman A (2003). “A Bayesian Formulation of Exploratory Data Analysis and Goodness-of-
+Fit Testing.” International Statistical Review, 71(2), 369–382. doi:10.1111/j.1751-5823.
+2003.tb00203.x.
+
+Gelman A (2006). “Prior Distributions for Variance Parameters in Hierarchical Models.”
+
+Bayesian Analysis, 1(3), 515–534. doi:10.1214/06-ba117a.
+
+40
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Gelman A (2013). “Two Simple Examples for Understanding Posterior p-Values Whose Dis-
+tributions Are Far from Uniform.” Electronic Journal of Statistics, 7, 2595–2602. doi:
+10.1214/13-ejs854.
+
+Gelman A, Carlin JB, Stern H, Dunson DB, Vehtari A, Rubin DB (2014). Bayesian Data
+
+Analysis. 3rd edition. Chapman & Hall/CRC, Boca Raton.
+
+Gelman A, Meng XL, Stern H (1996). “Posterior Predictive Assessment of Model Fitness via
+
+Realized Discrepancies.” Statistica Sinica, 6(4), 733–760.
+
+Gibelli NEM, Pinho-Apezzato ML, Miyatani HT, Maksoud-Filho JG, Silva MM, Ayoub
+AAR, Santos MM, Velhote MCP, Tannuri U, Maksoud JG (2004). “Basiliximab-Chimeric
+anti-IL2-R Monoclonal Antibody in Pediatric Liver Transplantation: Comparative Study.”
+Transplantation Proceedings, 36(4), 956–957. doi:10.1016/j.transproceed.2004.04.
+070.
+
+Gilks WR, Richardson S, Spiegelhalter DJ (1996). Markov Chain Monte Carlo in Practice.
+
+Chapman & Hall/CRC, Boca Raton. doi:10.1201/b14835.
+
+Gneiting T, Balabdaoui F, Raftery AE (2007). “Probabilistic Forecasts, Calibration and
+Sharpness.” Journal of the Royal Statistical Society B, 69(2), 243–268. doi:10.1111/j.
+1467-9868.2007.00587.x.
+
+Gordon M, Lumley T (2017). forestplot: Advanced Forest Plot Using grid Graphics. R package
+
+version 1.7.2, URL http://CRAN.R-project.org/package=forestplot.
+
+Gras JM, Gerkens S, Beguin C, Janssen M, Smets F, Otte JB, Sokal E, Reding R (2008).
+“Steroid-Free, Tacrolimus-Basiliximab Immunosuppression in Pediatric Liver Transplanta-
+tion: Clinical and Pharmacoeconomic Study in 50 Children.” Liver Transplantation, 14(4),
+469–477. doi:10.1002/lt.21397.
+
+Gregory PC (2005). Bayesian Logical Data Analysis for the Physical Sciences. Cambridge
+
+University Press, Cambridge.
+
+Guddat C, Grouven U, Bender R, Skipka G (2012). “A Note on the Graphical Presentation
+of Prediction Intervals in Random-Eﬀects Meta-Analyses.” Systematic Reviews, 1(34), 1–5.
+doi:10.1186/2046-4053-1-34.
+
+Günhan BK (2017). nmaINLA: Network Meta-Analysis Using Integrated Nested Laplace
+Approximations. R package version 0.1.1, URL http://CRAN.R-project.org/package=
+nmaINLA.
+
+Guo J, Riebler A (2018). “meta4diag: Bayesian Bivariate Meta-Analysis of Diagnostic Test
+Studies for Routine Practice.” Journal of Statistical Software, 83(1), 1–31. doi:10.18637/
+jss.v083.i01.
+
+Hartung J, Knapp G (2001a). “On Tests of the Overall Treatment Eﬀect in Meta-Analysis
+with Normally Distributed Responses.” Statistics in Medicine, 20(12), 1771–1782. doi:
+10.1002/sim.791.
+
+Journal of Statistical Software
+
+41
+
+Hartung J, Knapp G (2001b). “A Reﬁned Method for the Meta-Analysis of Controlled Clinical
+Trials with Binary Outcome.” Statistics in Medicine, 20(24), 3875–3889. doi:10.1002/
+sim.1009.
+
+Hartung J, Knapp G, Sinha BK (2008). Statistical Meta-Analysis with Applications. John
+
+Wiley & Sons, Hoboken.
+
+Heck DW, Gronau QF, Wagenmakers EJ (2019). metaBMA: Bayesian Model Averaging for
+Random and Fixed Eﬀects Meta-Analysis. R package version 0.6.2, URL https://CRAN.
+R-project.org/package=metaBMA.
+
+Hedges LV, Olkin I (1985). Statistical Methods for Meta-Analysis. Academic Press, San Diego.
+
+Heﬀron TG, Pillen T, Smallwood GA, Welch D, Oakley B, Romero R (2003). “Pediatric Liver
+Transplantation with Daclizumab Induction Therapy.” Transplantation, 75(12), 2040–2043.
+doi:10.1097/01.tp.0000065740.69296.da.
+
+Higgins JP, Green S (2011). Cochrane Handbook for Systematic Reviews of Interventions,
+
+volume 4. John Wiley & Sons.
+
+Higgins JPT, Thompson SG (2002). “Quantifying Heterogeneity in a Meta-Analysis.” Statis-
+
+tics in Medicine, 21(11), 1539–1558. doi:10.1002/sim.1186.
+
+Higgins JPT, Thompson SG, Spiegelhalter DJ (2009). “A Re-Evaluation of Random-Eﬀects
+Meta-Analysis.” Journal of the Royal Statistical Society A, 172(1), 137–159. doi:10.1111/
+j.1467-985x.2008.00552.x.
+
+Hoekstra R, Morey RD, Rouder JN, Wagenmakers EJ (2014). “Robust Misinterpretation of
+Conﬁdence Intervals.” Psychonomic Bulletin & Review, 21(5), 1157–1164. doi:10.3758/
+s13423-013-0572-3.
+
+Jaynes ET (1968). “Prior Probabilities.” IEEE Transactions on Systems Science and Cyber-
+
+netics, 4(3), 227–241. doi:10.1109/tssc.1968.300117.
+
+Jaynes ET (1976). “Conﬁdence Intervals vs. Bayesian Intervals.” In WL Harper, CA Hooker
+(eds.), Foundations of Probability Theory, Statistical Inference, and Statistical Theories of
+Science, pp. 175–257. D. Reidel, Dordrecht. doi:10.1007/978-94-010-1436-6_6.
+
+Jaynes ET (2003). Probability Theory: The Logic of Science. Cambridge University Press,
+
+Cambridge.
+
+Jeﬀreys H (1946). “An Invariant Form for the Prior Probability in Estimation Problems.”
+Proceedings of the Royal Society of London, Series A, 186(1007), 453–461. doi:10.1098/
+rspa.1946.0056.
+
+Jeﬀreys H (1961). Theory of Probability. 3rd edition. Clarendon Press, Oxford.
+
+Johnson NL, Kotz S, Balakrishnan N (1994). Continuous Univariate Distributions. 2nd
+
+edition. John Wiley & Sons, New York.
+
+Kacker RN, Forbes A, Kessel R, Sommer KD (2008). “Bayesian Posterior Predictive p-Value
+of Statistical Consistency in Interlaboratory Evaluations.” Metrologia, 45(5), 512–523.
+doi:10.1088/0026-1394/45/5/004.
+
+42
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Kass RE, Wasserman L (1995). “A Reference Bayesian Test for Nested Hypotheses and Its
+Relationship to the Schwarz Criterion.” Journal of the American Statistical Association,
+90(431), 928–934. doi:10.2307/2291327.
+
+Kass RE, Wasserman L (1996). “The Selection of Prior Distributions by Formal Rules.” Jour-
+nal of the American Statistical Association, 91(435), 1343–1370. doi:10.1080/01621459.
+1996.10477003.
+
+Kontopantelis E, Springate DA, Reeves D (2013). “A Re-Analysis of the Cochrane Library
+Data: The Dangers of Unobserved Heterogeneity in Meta-Analyses.” PLoS ONE, 8(7),
+e69930. doi:10.1371/journal.pone.0069930.
+
+Kruschke JK, Liddell TM (2018). “The Bayesian New Statistics: Hypothesis Testing, Esti-
+mation, Meta-Analysis, and Power Analysis from a Bayesian Perspective.” Psychonomic
+Bulletin & Review, 25(1), 178–206. doi:10.3758/s13423-016-1221-4.
+
+Lewis S, Clarke M (2001). “Forest Plots: Trying to See the Wood and the Trees.” BMJ,
+
+322(7300), 1479–1480. doi:10.1136/bmj.322.7300.1479.
+
+Liberati A, Altman DG, Tetzlaﬀ J, Mulrow C, Gøtzsche PC, Ioannidis JPA, Clarke M,
+Devereaux PJ, Kleijnen J, Moher D (2009).
+“The PRISMA Statement for Report-
+ing Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care In-
+doi:
+terventions: Explanation and Elaboration.” PLoS Medicine, 6(7), e1000100.
+10.1371/journal.pmed.1000100.
+
+Lindley DV (1977). “The Distinction between Inference and Decision.” Synthese, 36(1),
+
+51–58. doi:10.1007/bf00485691.
+
+Lindsay BG (1995). Mixture Models: Theory, Geometry and Applications, volume 5 of NSF-
+CBMS Regional Conference Series in Probability and Statistics. Institute of Mathematical
+Statistics, Hayward. URL http://www.jstor.org/stable/4153184.
+
+Lunn D, Barrett J, Sweeting A, Thompson S (2013). “Fully Bayesian Hierarchical Modelling
+in Two Stages with Application to Meta-Analysis.” Journal of the Royal Statistical Society
+C, 62(4), 551–572. doi:10.1111/rssc.12007.
+
+Luo S, Chen Y, Su X, Chu H (2014). “mmeta: An R Package for Multivariate Meta-Analysis.”
+
+Journal of Statistical Software, 56(11), 1–48. doi:10.18637/jss.v056.i11.
+
+Mandelkern M (2002). “Setting Conﬁdence Intervals for Bounded Parameters.” Statistical
+
+Science, 17(2), 149–172. doi:10.1214/ss/1030550859.
+
+Meng XL (1994). “Posterior Predictive p-Values.” The Annals of Statistics, 22(3), 1142–1160.
+
+doi:10.1214/aos/1176325622.
+
+Metropolis N, Ulam S (1949). “The Monte Carlo Method.” Journal of the American Statistical
+
+Association, 44(247), 335–341. doi:10.1080/01621459.1949.10483310.
+
+Morey RD, Hoekstra R, Rouder JN, Lee MD, Wagenmakers EJ (2016). “The Fallacy of
+Placing Conﬁdence in Conﬁdence Intervals.” Psychonomic Bulletin & Review, 23(1), 103–
+123. doi:10.3758/s13423-015-0947-8.
+
+Journal of Statistical Software
+
+43
+
+O’Hagan A, Pericchi L (2012). “Bayesian Heavy-Tailed Models and Conﬂict Resolution: A
+Review.” Brazilian Journal of Probability and Statistics, 26(4), 372–401. doi:10.1214/
+11-bjps164.
+
+Plummer M (2003). “JAGS: A Program for Analysis of Bayesian Graphical Models Us-
+ing Gibbs Sampling.” In K Hornik, F Leisch, A Zeileis (eds.), Proceedings of the 3rd
+International Workshop on Distributed Statistical Computing (DSC 2003). Technische
+Universität Wien, Vienna, Austria. URL https://www.R-project.org/conferences/
+DSC-2003/Proceedings/Plummer.pdf.
+
+Plummer M (2008). rjags: Bayesian Graphical Models Using MCMC. R package version 4-10,
+
+URL http://CRAN.R-project.org/package=rjags.
+
+Polson NG, Scott JG (2012). “On the Half-Cauchy Prior for a Global Scale Parameter.”
+
+Bayesian Analysis, 7(4), 887–902. doi:10.1214/12-ba730.
+
+Poole C, Greenland S (1999). “Random-Eﬀects Meta-Analyses Are Not Always Conservative.”
+American Journal of Epidemiology, 150(5), 469–475. doi:10.1093/oxfordjournals.aje.
+a010035.
+
+Pullenayegum EM (2011). “An Informed Reference Prior for Between-Study Heterogeneity
+in Meta-Analyses of Binary Outcomes.” Statistics in Medicine, 30(26), 3082–3094. doi:
+10.1002/sim.4326.
+
+R Core Team (2020). R: A Language and Environment for Statistical Computing. R Founda-
+tion for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
+Rhodes KM, Turner RM, Higgins JPT (2015). “Predictive Distributions Were Developed for
+the Extent of Heterogeneity in Meta-Analyses of Continuous Outcome Data.” Journal of
+Clinical Epidemiology, 68(1), 52–60. doi:10.1016/j.jclinepi.2014.08.012.
+
+Riley RD, Higgins JP, Deeks JJ (2011). “Interpretation of Random Eﬀects Meta-Analyses.”
+
+BMJ, 342, d549. doi:10.1136/bmj.d549.
+
+Röver C (2020). bayesmeta: Bayesian Random-Eﬀects Meta-Analysis. R package version 2.5,
+
+URL http://CRAN.R-project.org/package=bayesmeta.
+
+Röver C, Friede T (2017). “Discrete Approximation of a Mixture Distribution via Restricted
+Divergence.” Journal of Computational and Graphical Statistics, 26(1), 217–222. doi:
+10.1080/10618600.2016.1276840.
+
+Schmidli H, Gsteiger S, Roychoudhury S, O’Hagan A, Spiegelhalter D, Neuenschwander B
+(2014). “Robust Meta-Analytic-Predictive Priors in Clinical Trials with Historical Control
+Information.” Biometrics, 70(4), 1023–1032. doi:10.1111/biom.12242.
+
+Schmidli H, Neuenschwander B, Friede T (2017). “Meta-Analytic-Predictive Use of Historical
+Variance Data for the Design and Analysis of Clinical Trials.” Computational Statistics &
+Data Analysis, 113, 100–110. doi:10.1016/j.csda.2016.08.007.
+
+Schuller S, Wiederkehr JC, Coelho-Lemos IM, Avilla SG, Schultz C (2005). “Daclizumab
+Induction Therapy Associated with Tacrolimus-MMF Has Better Outcome Compared with
+
+44
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Tacrolimus-MMF Alone in Pediatric Living Donor Liver Transplantation.” Transplantation
+Proceedings, 37(2), 1151–1152. doi:10.1016/j.transproceed.2005.01.023.
+
+Schwarzer G, Carpenter JR, Rücker G (2015). Meta-Analysis with R. Springer-Verlag.
+
+Seidel WE (2010). “Mixture Models.” In M Lovric (ed.), International Encyclopedia of Statisti-
+cal Science, pp. 827–829. Springer-Verlag, Heidelberg. doi:10.1007/978-3-642-04898-2.
+
+Senn S (2007). “Trying to be Precise about Vagueness.” Statistics in Medicine, 26(7), 1417–
+
+1430. doi:10.1002/sim.2639.
+
+Severini TA (1991).
+val Estimation.”
+10.1111/j.2517-6161.1991.tb01849.x.
+
+“On the Relationship between Bayesian and Non-Bayesian Inter-
+doi:
+
+Journal of the Royal Statistical Society B, 53(3), 611–618.
+
+Shaked M, Shanthikumar JG (2007). Stochastic Orders. Springer-Verlag, New York. doi:
+
+10.1007/978-0-387-34675-5.
+
+Sidik K, Jonkman JN (2002). “A Simple Conﬁdence Interval for Meta-Analysis.” Statistics
+
+in Medicine, 21(21), 3153–3159. doi:10.1002/sim.1262.
+
+Sinharay S, Johnson MJ, Stern HS (2006).
+
+“Posterior Predictive Assessment of Item
+Response Theory Models.” Applied Psychological Measurement, 30(4), 298–321. doi:
+10.1177/0146621605285517.
+
+Smith TC, Spiegelhalter DJ, Thomas A (1995). “Bayesian Approaches to Random-Eﬀects
+Meta-Analysis: A Comparative Study.” Statistics in Medicine, 14(24), 2685–2699. doi:
+10.1002/sim.4780142408.
+
+Spada M, Petz W, Bertani A, Riva S, Sonzogni A, Giovannelli M, Torri E, Torre G, Colledan
+M, Gridelli B (2006). “Randomized Trial of Basiliximab Induction versus Steroid Therapy
+in Pediatric Liver Allograft Recipients under Tacrolimus Immunosuppression.” American
+Journal of Transplantation, 6(8), 1913–1921. doi:10.1111/j.1600-6143.2006.01406.x.
+
+Spence GT, Steinsaltz D, Fanshawe TR (2016). “A Bayesian Approach to Sequential Meta-
+
+Analysis.” Statistics in Medicine, 35(29), 5356–5375. doi:10.1002/sim.7052.
+
+Spiegelhalter DJ (2004). “Incorporating Bayesian Ideas into Health-Care Evaluation.” Sta-
+
+tistical Science, 19(1), 156–174. doi:10.1214/088342304000000080.
+
+Spiegelhalter DJ, Abrams KR, Myles JP (2004). Bayesian Approaches to Clinical Trials and
+
+Health-Care Evaluation. John Wiley & Sons. doi:10.1002/0470092602.
+
+Spiegelhalter DJ, Myles JP, Jones DR, Abrams KR (1999). “An Introduction to Bayesian
+Methods in Health Technology Assessment.” BMJ, 319, 508–512. doi:10.1136/bmj.319.
+7208.508.
+
+Sutton AJ, Abrams KR (2001).
+
+Statistical Methods in Medical Research, 10(4), 277–303.
+
+“Bayesian Methods in Meta-Analysis and Evidence
+doi:10.1177/
+
+Synthesis.”
+096228020101000404.
+
+Journal of Statistical Software
+
+45
+
+Sweeting MJ, Sutton AJ, Lambert PC (2004). “What to Add to Nothing? Use and Avoidance
+of Continuity Corrections in Meta-Analysis of Sparse Data.” Statistics in Medicine, 23(9),
+1351–1375. doi:10.1002/sim.1761.
+
+Szucs D, Ioannidis JPA (2017). “When Null Hypothesis Signiﬁcance Testing Is Unsuitable
+for Research: A Reassessment.” Frontiers in Human Neuroscience, 11, 390. doi:10.3389/
+fnhum.2017.00390.
+
+The Cochrane Collaboration (2014). Review Manager (RevMan). Copenhagen. Version 5.3,
+
+URL http://ims.cochrane.org/revman.
+
+Tibshirani R (1989). “Noninformative Priors for One Parameter of Many.” Biometrika, 76(3),
+
+604–608. doi:10.1093/biomet/76.3.604.
+
+Turner RM, Davey J, Clarke MJ, Thompson SG, Higgins JPT (2012). “Predicting the Extent
+of Heterogeneity in Meta-Analysis, Using Empirical Data from the Cochrane Database
+of Systematic Reviews.” International Journal of Epidemiology, 41(3), 818–827. doi:
+10.1093/ije/dys041.
+
+Turner RM, Jackson D, Wei Y, Thompson SG, Higgins PT (2015). “Predictive Distributions
+for Between-Study Heterogeneity and Simple Methods for Their Application in Bayesian
+Meta-Analysis.” Statistics in Medicine, 34(6), 984–998. doi:10.1002/sim.6381.
+
+Van de Schoot R, Kaplan D, Denissen J, Asendorpf JB, Neyer FJ, Van Aken MAG (2014).
+“A Gentle Introduction to Bayesian Analysis: Applications to Developmental Research.”
+Child Development, 85(3), 842–860. doi:10.1111/cdev.12169.
+
+Van den Noortgate W, Onghena P (2005).
+
+“Parametric and Nonparametric Bootstrap
+Methods for Meta-Analysis.” Behavior Research Methods, 37(1), 11–22. doi:10.3758/
+bf03206394.
+
+Van Erp S, Verhagen J, Grasman RPPP, Wagenmakers EJ (2017). “Estimates of Between-
+Study Heterogeneity for 705 Meta-Analyses Reported in Psychological Bulletin from 1990–
+2013.” Journal of Open Psychology Data, 5(4). doi:10.5334/jopd.33.
+
+Verde PE (2018). “bamdit: An R Package for Bayesian Meta-Analysis of Diagnostic Test
+
+Data.” Journal of Statistical Software, 86(10), 1–32. doi:10.18637/jss.v086.i10.
+
+Veroniki AA, Jackson D, Viechtbauer W, Bender R, Bowden J, Knapp G, Kuß O, Higgins
+JPT, Langan D, Salanti G (2016). “Methods to Estimate the Between-Study Variance
+and Its Uncertainty in Meta-Analysis.” Research Synthesis Methods, 7(1), 55–79. doi:
+10.1002/jrsm.1164.
+
+Viechtbauer W (2010). “Conducting Meta-Analyses in R with the metafor Package.” Journal
+
+of Statistical Software, 36(3). doi:10.18637/jss.v036.i03.
+
+Wandel S, Neuenschwander B, Röver C, Friede T (2017). “Using Phase II Data for the
+Analysis of Phase III Studies: An Application in Rare Diseases.” Clinical Trials, 14(3),
+277–285. doi:10.1177/1740774517699409.
+
+Wasserstein RL (2016). “ASA Statement on Statistical Signiﬁcance and p-Values.” The
+
+American Statistician, 70(2), 131–133. doi:10.1080/00031305.2016.1154108.
+
+46
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+A. Unit information priors for binary outcomes
+
+A.1. Logarithmic odds ratios (log-OR)
+
+q 1
+
+If the eﬀect measure of an analysis is a logarithmic odds ratio (log-OR; see Section 3.2),
+c + 1
+then the standard error derived from a 2×2 contingency table amounts to
+d ,
+where a, b, c and d are the four entries (counts) and N = a + b + c + d is the total number of
+subjects (Hedges and Olkin 1985; Hartung et al. 2008; Borenstein et al. 2009). Assuming equal
+allocation and a neutral eﬀect, we can simply set the table allocation to a = b = c = d = N
+4 . If
+we further plug in a total sample size of N = 1, this leads (heuristically) to a unit information
+prior for the log-OR with zero mean and a standard deviation of 4. For this prior distribution,
+log-ORs are within a range of ±7.84 with 95% probability, corresponding to ORs roughly
+within a range from 1
+If more generally we consider the case of a particular event probability p ∈ [0, 1], we can
+derive a unit information prior by assuming a = c = p N
+2 and b = d = (1−p) N
+2 , leading to a
+.
+generally even larger prior standard deviation of
+
+2500 to 2500.
+
+a + 1
+
+b + 1
+
+2√
+
+p(1−p)
+
+A.2. Logarithmic relative risks (log-RR)
+
+Similarly to the previous section, the logarithmic relative risk (log-RR) is given by log
+a − 1
+
+c+d (Hedges and Olkin 1985; Hartung
+and its associated standard error is
+et al. 2008; Borenstein et al. 2009). Again plugging in a = b = c = d = N
+4 , this now amounts
+to a standard deviation of 2. If we introduce a certain event probability p (and plugging in
+a = c = p N
+2 and smaller
+for p > 1
+2 .
+
+p , which is larger for p < 1
+
+2 and a + b = c + d = N
+
+2 , the error is 2
+
+a+b + 1
+
+c − 1
+
+q 1−p
+
+q 1
+
+(cid:16) a/(a+b)
+c/(c+d)
+
+(cid:17)
+
+,
+
+B. Conservatism of the uniform heterogeneity prior
+
+As discussed in Section 2.2, it is hard to deﬁne an “uninformative” prior for the heterogeneity
+parameter τ . A larger heterogeneity will ﬁrst of all generally lead to a larger variance of
+the eﬀect’s marginal posterior (via the larger variance of the conditional distribution; see
+Equations 12 and 14). One may then argue that an overestimation of heterogeneity may be
+considered a conservative form of bias, so that, for example, among two exponential prior
+distributions the one with the larger expectation was “more conservative” in a certain sense.
+
+A shift in heterogeneity causes a change in both the conditional standard deviation and mean.
+If the shift in bµ(τ ) happens to be larger than the shift in bσ(τ ), then the resulting (conditional)
+conﬁdence interval for a larger heterogeneity value does not necessarily completely contain the
+interval corresponding to a smaller heterogeneity. Such cases may then lead to counterintuitive
+results for (frequentist) ﬁxed- and random-eﬀects analysis results especially in settings with
+imbalanced standard errors (Poole and Greenland 1999). Although it is not obvious whether
+such pathologies are also realistic in a Bayesian analysis, a priori, this is unlikely to lead to
+any systematic bias.
+
+Nevertheless, along these lines it is possible to show a particular “conservatism” property for
+
+Journal of Statistical Software
+
+47
+
+the improper uniform prior. The derivation goes as follows. Suppose we have a bounded
+parameter domain [a, ∞], a likelihood function f (x) ≥ 0 (x ∈ [a, ∞]) with R ∞
+a f (x) dx < ∞,
+and a prior with monotonically decreasing probability density function p(·), so that 0 < p(a) <
+∞, and a ≤ x < y ⇒ 0 ≤ p(y) ≤ p(x). Using the (improper) uniform prior or prior p we
+get diﬀerent posteriors with cumulative distribution functions F1(·) and Fp(·), respectively.
+From the above assumptions follows that
+
+Fp(y) =
+
+R y
+a f (x) p(x) dx
+R ∞
+a f (x) p(x) dx
+
+≥
+
+≥
+
+=
+
+p(y)
+p(a)
+
+R y
+a f (x) dx
+R ∞
+a f (x) dx
+
+R y
+a f (x) p(y) dx
+R ∞
+a f (x) p(a) dx
+R y
+a f (x) dx
+R ∞
+a f (x) dx
+
+= F1(y)
+
+for all y > a. This means that with Fp(y) ≥ F1(y), the posterior using the uniform prior
+is stochastically larger than the posterior based on any other prior among the class of priors
+with monotonically decreasing density p(·) and ﬁnite p(a) (provided the uniform prior yields a
+proper posterior). In our context, this especially implies that quantiles or expectations based
+on the uniform prior are larger (Shaked and Shanthikumar 2007).
+
+The class of priors with ﬁnite intercept and monotonically decreasing density to which the
+above property applies includes, e.g., the exponential, half-normal, half-Student-t, half-Cauchy
+and Lomax distributions (Johnson et al. 1994), or uniform distributions with a ﬁnite upper
+bound.
+
+C. Marginal likelihood derivation
+
+Using the improper uniform prior for µ (p(µ) ∝ 1), the marginal likelihood, marginalized
+over µ, is
+
+p(~y | τ, ~σ) =
+
+Z
+
+p(~y | µ, τ, ~σ) p(µ) dµ
+
+= (cid:0)2π(cid:1)− k
+
+2 ×
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i +τ 2
+
+Z
+
+×
+
+exp
+
+−
+
+1
+2
+
+k
+X
+
+i=1
+
+(yi − µ)2
+σ2
+i +τ 2
+
+!
+
+dµ
+
+where
+
+k
+X
+
+i=1
+
+(yi − µ)2
+i + τ 2 =
+σ2
+
++µ
+
+k
+X
+
+i=1
+|
+
+y2
+i
+σ2
+i + τ 2
+}
+{z
+=:a
+= a + b µ + c µ2
+(µ − −b
+p1/c
+
+=
+
+−2
+
+|
+
+k
+X
+
+i=1
+
+yi
+σ2
+i + τ 2
+{z
+=:b
+
++µ2
+
+!
+
+}
+
+k
+X
+
+i=1
+|
+
+1
+σ2
+i + τ 2
+}
+{z
+=:c
+
+2c )2
+2 + a − b2
+
+4c =
+
+(cid:0)µ − bµ(τ )(cid:1)2
+bσ(τ )2
+
++ ∆(τ )
+
+ 
+ 
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+48
+
+and
+
+bµ(τ ) =
+
+−b
+2c
+
+=
+
+bσ(τ ) =
+
+q
+
+1/c =
+
+yi
+σ2
+i +τ 2
+1
+σ2
+i +τ 2
+1
+
+Pk
+
+i=1
+
+Pk
+
+i=1
+v
+u
+u
+t
+
+Pk
+
+i=1
+
+1
+σ2
+i +τ 2
+
+∆(τ ) = a − b2
+
+4c =
+
+k
+X
+
+i=1
+
+y2
+i
+i + τ 2 −
+σ2
+
+(cid:16)Pk
+
+i=1
+
+Pk
+
+i=1
+
+=
+
+k
+X
+
+i=1
+
+1
+σ2
+i + τ 2
+
+yi −
+
+k
+X
+
+j=1
+
+1
+
+j +τ 2 yj
+σ2
+Pk
+
+‘=1
+
+1
+σ2
+‘ +τ 2
+
+(cid:17)2
+
+yi
+σ2
+i +τ 2
+1
+σ2
+i +τ 2
+!2
+
+=
+
+(19)
+
+(20)
+
+.
+
+k
+X
+
+i=1
+
+(cid:0)yi − bµ(τ )(cid:1)2
+σ2
+i + τ 2
+
+.
+
+Note that bµ(τ ) (Equation 19) and bσ(τ ) (Equation 20) are the conditional posterior mean and
+standard deviation of µ | τ . With that the marginal likelihood turns out as
+
+p(~y | τ, ~σ) = (cid:0)2π(cid:1)− k
+
+2 ×
+
+= (cid:0)2π(cid:1)− k
+
+2 ×
+
+= (cid:0)2π(cid:1)− k
+
+2 ×
+
+k
+Y
+
+i=1
+
+k
+Y
+
+i=1
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i + τ 2
+
+q
+
+1
+σ2
+i + τ 2
+
+q
+
+1
+σ2
+i + τ 2
+
+Z
+
+×
+
+(cid:18)
+
+−
+
+exp
+
+1
+2
+
+(cid:0)µ − bµ(τ )(cid:1)2
+bσ2(τ )
+
+−
+
+× exp(cid:0)− 1
+
+2 ∆(τ )(cid:1) ×
+
+Z
+
+(cid:18)
+
+−
+
+exp
+
+1
+2
+
+1
+2
+
+× exp(cid:0)− 1
+
+2 ∆(τ )(cid:1) ×
+
+√
+
+2π bσ(τ )
+
+(cid:19)
+
+dµ
+
+∆(τ )
+
+(cid:19)
+
+(cid:0)µ − bµ(τ )(cid:1)2
+bσ2(τ )
+
+dµ
+
+= (cid:0)2π(cid:1)− k−1
+
+2 ×
+
+k
+Y
+
+i=1
+
+q
+
+1
+σ2
+i + τ 2
+
+× exp
+
+(cid:18)
+
+−
+
+1
+2
+
+(cid:0)yi − bµ(τ )(cid:1)2
+σ2
+i + τ 2
+
+(cid:19)
+
+×
+
+1
+
+r
+
+Pk
+
+i=1
+
+.
+
+1
+σ2
+i +τ 2
+
+The derivation for an informative normal eﬀect prior (with mean µp and variance σ2
+similarly.
+
+p) works
+
+D. Mixture implementation details
+
+The approximation of marginal eﬀect distributions etc. is implemented via the direct algo-
+rithm as described by Röver and Friede (2017). This approximation is utilized to evaluate
+posterior distributions of the overall eﬀect µ as well as shrinkage estimates θi and predic-
+tions θk+1.
+In all three cases, the distributions of interest are mixtures of conditionally
+normal distributions; in order to construct the approximate discrete mixture, it is necessary
+to evaluate symmetrized divergences of the conditional distributions. The symmetrized di-
+vergence (relative entropy) for two normal distributions with mean and variance parameters
+(µA, σ2
+
+B), respectively, is given by
+
+A) and (µB, σ2
+
+Ds
+
+(cid:0)p(ϑ | µA, σA) (cid:12)
+
+(cid:12) p(ϑ | µB, σB)(cid:1) =
+
+(µA−µB)2
+A +σ−2
+
+B ))−1 + (σ2
+
+B)2
+A−σ2
+2 σ2
+A σ2
+B
+
+2 (σ−2
+( 1
+
+ 
+Journal of Statistical Software
+
+49
+
+(Röver and Friede 2017). Since the conditional means of µ | τ and θk+1 | τ are identical,
+while the conditional variance of the latter is always equal to or larger than the former (see
+Section 2.8), a grid constructed for the eﬀect’s posterior (µ) can always be used for the
+predictive distribution (θk+1) without loss of accuracy. In order not to have to construct and
+consider several separate τ grids also for the diﬀerent shrinkage distributions, the general
+Instead of determining divergences corresponding to pairs
+algorithm is slightly extended.
+of τ values with respect to each of the shrinkage distributions individually, the maximum
+divergence across eﬀect posterior as well as all k shrinkage distributions is considered. The
+result is a single grid in τ values that may be re-used for all three types of distributions.
+
+E. Calibration check
+
+The inferential statements returned by a Bayesian analysis diﬀer in their probabilistic claims
+from those returned by frequentist analyses. For example, while a frequentist 95% conﬁdence
+interval usually is supposed to yield 95% coverage for repeated data generation and analysis
+conditional on any single point in parameter space, a Bayesian analysis is to be understood
+conditional on the assumed prior distribution, and hence the coverage holds for repeated
+sampling of parameters from the prior and subsequent data generation and analysis. While
+frequentist analyses often rely on large-sample-size asymptotics (here:
+large k), Bayesian
+posterior analyses generally should (at least for proper priors) yield exact coverages, indepen-
+dent of sample sizes (Dawid 1982; Gneiting, Balabdaoui, and Raftery 2007). The accuracy
+(calibration) of Bayesian analysis software may be checked exploiting this property (Cook,
+Gelman, and Rubin 2006). The aim of this section is to demonstrate that the bayesmeta
+implementation in fact yields consistent results.
+
+If a Bayesian analysis method is properly calibrated, then the repeated subsequent generation
+of (i) parameter values θ? from the prior distribution p(θ), (ii) data y? from the conditional
+sampling distribution p(y | θ?), and (iii) posterior probabilities p? = P(θ ≤ θ? | y?) will yield a
+sample of so-called probability integral transform (PIT) values p? (Gneiting et al. 2007). If the
+implementation is accurate, then these PIT values follow a uniform probability distribution.
+Investigation of the empirical cumulative distribution function(s) of individual parameters’
+PIT values returns the empirical frequency with which a one-sided credible interval of a given
+credible level would have covered the true value across the generated parameter and data
+samples. This way it allows to investigate the ﬁdelity of the analysis procedure across the
+prior’s domain as well as across credible levels (Cook et al. 2006). For the meta-analysis
+problem within the NNHM, such a calibration check may be implemented as follows:
+
+R> mupriormean <- 0.0
+R> mupriorsd <- 4.0
+R> taupriorscale <- 0.5
+R> Nsim <- 1000
+R> pit <- matrix(NA_real_, nrow = Nsim, ncol = 2,
+dimnames = list(NULL, c("mu", "tau")))
++
+R> for (i in 1:Nsim) {
++
++
++
+
+mu <- rnorm(n = 1, mean = mupriormean, sd = mupriorsd)
+tau <- rhalfnormal(n = 1, scale = taupriorscale)
+k <- sample(c(2, 3, 5, 10, 20), size = 1)
+
+50
+
+bayesmeta: Bayesian Random-Eﬀects Meta-Analysis in R
+
+Figure 8: Empirical cumulative distribution functions of a sample of PIT values for eﬀect and
+heterogeneity parameters. If the analysis is properly calibrated, the PIT values should follow
+a uniform distribution (black dashed line).
+
++
++
++
++
++
++
++
++
++
++
+
+sigma <- runif(n = k, min = 0.2, max = 1.0)
+y <- rnorm(n = k, mean = mu, sd = sqrt(sigma^2 + tau^2))
+bma <- try(bayesmeta(y = y, sigma = sigma,
+
+tau.prior = function(t) dhalfnormal(t, scale = taupriorscale),
+mu.prior = c(mupriormean, mupriorsd)))
+
+if (!is(bma, "try-error")) {
+
+pit[i, "mu"] <- bma$pposterior(mu = mu)
+pit[i, "tau"] <- bma$pposterior(tau = tau)
+
+}
+
+}
+
+Prior parameters are set at the beginning, and matching settings are used for the analysis.
+Sample sizes (k) here are varied between 2 and 20, and standard errors (σi) between 0.2 and
+1.0. The pit matrix consists of two column vectors of PIT values for the marginal eﬀect (µ)
+and heterogeneity (τ ) posteriors, respectively. We may now illustrate the empirical cumulative
+distribution function of the 1000 PIT values, e.g., using the following commands:
+
+main = "effect (mu)", xlab = "PIT value", ylab = "CDF")
+
+R> plot(ecdf(pit[, "mu"]), col = "blue",
++
+R> lines(0:1, 0:1, lty = "dashed", lwd = 2)
+R> plot(ecdf(pit[, "tau"]), col = "red",
++
+R> lines(0:1, 0:1, lty = "dashed", lwd = 2)
+
+main = "heterogeneity (tau)", xlab = "PIT value", ylab = "CDF")
+
+(see Figure 8). The black dashed lines here indicate the limiting uniform distribution that
+should be approached for large numbers of simulations. The empirical distribution is in close
+agreement with the uniform distribution here.
+
+What one can read oﬀ from the plots directly is the empirical coverage of one-sided upper
+credible limits. For example, one-sided 95% credible limits empirically exhibited a coverage of
+
+0.00.20.40.60.81.00.00.20.40.60.81.0effect mPIT valueCDF0.00.20.40.60.81.00.00.20.40.60.81.0heterogeneity tPIT valueCDFJournal of Statistical Software
+
+51
+
+close to 95% in the simulations. For the heterogeneity, a curve above the main diagonal may
+be interpreted as “conservative” (in the sense of a tendency to overestimate heterogeneity),
+while for the eﬀect, a conservative procedure should yield a curve below the diagonal at the
+lower end and above the diagonal at the upper end (i.e., leading to intervals that tend to be
+wider than necessary).
+
+Aﬃliation:
+
+Christian Röver
+Department of Medical Statistics
+University Medical Center Göttingen
+Georg-August-Universität
+37073 Göttingen, Germany
+E-mail: christian.roever@med.uni-goettingen.de
+URL: http://www.gwdg.de/~croever/
+ORCID iD: 0000-0002-6911-698X
+
+Journal of Statistical Software
+published by the Foundation for Open Access Statistics
+
+http://www.jstatsoft.org/
+http://www.foastat.org/
+
+April 2020, Volume 93, Issue 6
+doi:10.18637/jss.v093.i06
+
+Submitted: 2017-11-23
+Accepted: 2018-10-22

@@ -1,0 +1,1446 @@
+WARM-GLOW GIVING: EARNED MONEY AND THE OPTION TO TAKE
+
+ANDREW LUCCASEN and PHILIP J. GROSSMAN∗
+
+Giving in dictator games has been shown to vary with the nature of the endowment
+(earned vs. house money) and the action space (give only vs. the option to give or take).
+This article is the first to test if these factors similarly affect warm-glow giving alone.
+There is no reason that one would expect the same outcomes given that the motivations
+for warm-glow giving are different from the motivations for total (warm-glow plus purely
+altruistic) giving. We find that warm-glow giving to charity or philanthropic institutions
+in a real-donation experiment increases when the endowment is earned. The option
+to take does reduce warm-glow giving to charity, but significant giving remains. Our
+results suggest that donating earned income creates greater utility than donating an
+equal amount from a windfall gain, and that warm glow comes not merely from the act
+of giving, but also from the characteristics of the recipient. (JEL C90, D64, H41)
+
+I.
+
+INTRODUCTION
+
+What motivates giving? A pure altruist gives
+solely out of concern for the well-being of recip-
+ients; giving makes the giver better off because it
+has made the recipient better off. Caring only that
+the recipient is cared for, how and by whom the
+care is provided is irrelevant to the pure altruist.
+For a pure altruist, a dollar of charitable contri-
+bution is completely crowded out by giving by
+any other third party. The act of giving for a pure
+warm-glow giver is what provides satisfaction
+(Andreoni 1989, 1990). A pure warm-glow giver
+does not care about the well-being of recipients;
+giving is purely egotistical.1 Even if the recipient
+is not benefited, it makes the giver feel better
+
+∗The authors thank M. Kathleen Thomas for help admin-
+istering the experiment, and participants at the 2012 South-
+ern Economic Association meeting, Texas A&M University,
+Mississippi State University, and Monash University for help-
+ful comments. We also thank the editor and two referees for
+their helpful comments. Financial support from Mississippi
+University for Women and Monash University is gratefully
+acknowledged.
+
+Luccasen: Associate Professor, Department of Business,
+Mississippi University for Women, Columbus, MS
+39701. Phone 662-329-7256, Fax 662-329-7458, E-mail
+Andrew.Luccasen@gmail.com
+
+Grossman: Professor, Department of Economics, Monash
+University, Clayton, Australia. Phone 61399020052, Fax
+61399055476, E-mail philip.grossman@monash.edu
+
+1. As an illustrative example, CBS Sunday Morning
+reported that 67,000 teddy bears were donated to Newtown,
+Connecticut after a gunman killed 20 children and 6 adults
+at Sandy Hook Elementary School. A resident of the town
+stated, “I think a lot of the stuff that came into the warehouse
+
+about herself; it increases her self-esteem, it gar-
+ners praise and prestige, it satisfies a social norm.
+It is the warm-glow motivation that is likely
+relevant for giving in large economies. Ribar
+and Wilhelm (2002) show that under plausible
+assumptions, as the size of a population increases,
+the marginal effect of one’s contribution on the
+aggregate provision of a public good approaches
+zero. As a result, only the warm-glow motivation
+for giving to a public good remains. Many aspects
+of charitable giving are consistent with a model of
+warm-glow giving, including the number of indi-
+viduals who give to charity, the amounts given
+to charity, and the non-neutrality of voluntary
+donations to government donations financed by
+taxation (Andreoni 1989, 1990, 2006; see also
+Cornes and Sandler 1984). While “total giving”
+(i.e., purely altruistic giving plus warm-glow giv-
+ing) has been extensively studied, the same is not
+true for the warm-glow component. The potential
+importance of warm-glow giving for charitable
+giving argues for a better understanding of warm-
+glow behavior.
+
+The Dictator Game has been widely used to
+study the extent to which individuals behave
+altruistically toward others.2
+the
+
+In general,
+
+was more for the people that sent it, than it was for the people
+in Newtown” (Simon 2016).
+
+2. The literature on dictator giving is vast. Recent
+contributions include Brock, Lange, and Ozbay (2013),
+Dreber, Fudenberg, and Randvid (2014), Dreber et al. (2013),
+Korenok, Millner, and Razzolini (2013), Schulz et al. (2014),
+Stoop (2014), and Tonin and Vlassopoulosl (2014). A good,
+but not exhaustive, overview is provided by Vesterlund
+(2006).
+
+1
+
+Economic Inquiry
+(ISSN 0095-2583)
+
+doi:10.1111/ecin.12417
+© 2016 Western Economic Association International
+
+2
+
+ECONOMIC INQUIRY
+
+giving measured is total giving. Two findings
+are of interest to this study. The first is Cherry,
+Frykblom, and Shogren (2002) and List’s (2007)
+finding that dictators give less from earned
+endowments than from house money endow-
+ments (for other examples, see Burrows and
+Loomes 1994 and Hoffman and Spitzer 1985).
+The second is Bardsley (2008) and List’s (2007)
+finding of fewer dictators giving and less gen-
+erous giving when the action space is expanded
+to include the possibility of taking from the
+recipient.3
+
+The contribution of this article is that it is
+the first to test if these two findings hold for
+warm-glow giving alone. There is no reason that
+one would expect the same outcomes given that
+what motivates warm-glow giving is different
+from what motivates purely altruistic giving (see
+Andreoni 1989, 1990).
+
+Crumpler and Grossman (2008) provide a
+direct test of warm-glow giving in a laboratory
+experiment in which own-money motivated par-
+ticipants have no incentive to contribute money to
+a charity. Any contribution to charity was known
+to be offset by an equal reduction of the charity’s
+endowment by the experimenter. A majority of
+participants gave to charity, and on average gave
+a significant portion of their endowment. Using
+the Crumpler and Grossman (2008; henceforth
+CG) design for testing for warm-glow giving, we
+examine the relative effect of earned versus house
+money endowments on warm-glow giving with
+two decision frames: one in which participants
+can only give to charity and a second with a sym-
+metric decision space in which participants can
+either give to or take from a charity.
+
+Our major findings are as follows. First and
+most novel is how earned endowments affect
+warm-glow giving. When the recipient is a char-
+ity, we observe larger warm-glow contributions
+with earned money than with house money.
+Indeed, significantly more subjects contribute,
+and mean contributions to charity are signifi-
+cantly higher, when the endowment is earned.
+This result is consistent with the interpretation
+provided by Cherry et al., that dictator bargaining
+is “more self-interested” when endowments are
+earned relative to house money, but this result
+
+3. Eckel and Grossman (1996) report that dictators are
+less generous to other student subjects than to recipients (a
+charity) known to be more in need than the dictators. We
+investigate this effect in supplemental treatments reported
+in Appendix S2, Supporting Information (http://ssrn.com/
+abstract=2791025).
+
+demonstrates that this self-interest can include
+the warm glow from charitable giving.
+
+Our second major finding extends the results
+of Bardsley (2008) and List (2007). When the
+action space is expanded to permit taking, warm-
+glow giving is reduced, though giving does not
+“vanish” as in List (2007).
+
+It should be noted that our
+
+results are
+consistent with the model of self-image or
+self-signaling developed by Benabou and Tirole
+(2006). The authors state the importance in
+moving beyond the simple dichotomy between
+purely altruistic and purely egoistic motivations
+for giving, and to distinguish, within egoistic (or
+warm-glow) giving, a fixed preference for giving
+and factors that relate behavior to self-image.
+Benabou and Tirole contend that these factors are
+context dependent. Our results identify important
+elements that affect how giving is perceived by
+the donor.
+
+II. RELATED LITERATURE
+
+An ongoing debate concerns the interpreta-
+tion of giving in dictator experiments (Camerer
+2015; Levitt and List 2007; and List 2007). Some
+the standard action
+authors have argued that
+space, in which the dictator can only give, engen-
+ders on the part of the dictator the expectation
+that a contribution should be made. This expec-
+tation is further enhanced by the fact that the
+experimenter, the authority figure in the rooms,
+has provided the dictator with the endowment
+(“house money”) from which any contribution
+will be made. Finally, the expectation is even fur-
+ther enhanced by the experimenter asking the dic-
+tator if she would like to make a contribution to
+the recipient. In this context, it is questionable if
+any contribution can be truly interpreted as a self-
+less action on the part of the dictator.
+
+Cherry, Frykblom, and Shogren (2002) and
+List (2007) consider the house money effect on
+giving. Dictators in the Cherry et al. study earned
+money by successfully answering quiz questions
+prior to playing the dictator game. These par-
+ticipants are paired with subjects who did not
+participate in the quiz activity. List has both par-
+ticipants earn their endowments, but the dictator
+earns a larger endowment than the second par-
+ticipant. In both studies, dictators who earn their
+endowments are significantly less generous and
+approximately three times more likely to make
+a $0 offer than dictators in the respective house
+money treatments.
+
+LUCCASEN & GROSSMAN: WARM-GLOW GIVING
+
+3
+
+To address the action space question, Bards-
+ley (2008) and List (2007) adapt the basic dictator
+experiment. They give the passive second partic-
+ipant his own endowment and permit the dictator
+to either give or take from the second participant.
+Both researchers find that expanding the action
+space significantly reduces, and can even elimi-
+nate, dictator giving.
+
+None of these studies, however, use the real
+donation design where preferences for giving to
+a public good or charity could be expressed.
+Matching dictators with charities increases the
+parallelism between the laboratory and the field
+(Eckel and Grossman 1996, henceforth EG; and
+Eckel, Grossman, and Johnston 2005). In the con-
+text of a real-donation experiment, preferences
+that motivate charitable giving in practice are
+more likely to be active compared to allocating
+money to an anonymous participant.4
+
+The dictator experiment has also been
+employed to directly test the warm-glow giving
+hypothesis. Such tests often use the “real dona-
+tion” design of EG, in which each participant
+is matched with a charity of her choosing. For
+example, Eckel, Grossman, and Johnston (2005)
+do so by varying the degree of fiscal illusion in
+a real donation dictator experiment. The results
+are consistent with warm-glow giving. CG iso-
+late the warm-glow giving in a real donation
+experiment by completely crowding out dona-
+tions made by participants. They report
+that
+participants donated 20% of their endowments
+on average, and 57% of the participants made
+a donation. Gangadharan, Grossman, and Jones
+(2014) sequence the CG game with a standard
+real donation dictator game to categorize givers
+by type: nongivers, pure warm-glow givers,
+pure altruists, and impure altruists. They find
+substantial numbers in each category, as well as
+warm-glow giving results consistent with those
+reported by CG.
+
+III. EXPERIMENTAL DESIGN AND PROCEDURE
+
+Our basic design combines elements of CG
+and List (2007). Each participant is endowed with
+$10US, and a charity, selected by the partici-
+pant, is also endowed with $10. The participant
+can pass any amount from her endowment to the
+selected charity with the understanding that any
+amount passed will result in an equal reduction
+
+TABLE 1
+Treatment Characteristics
+
+Action Space
+
+Give Only Give or Take
+
+Source of
+
+endowment
+
+House money Treatment 1 Treatment 2
+Treatment 3 Treatment 4
+Earned
+
+endowment
+
+FIGURE 1
+Payoff Possibilities for the Standard Dictator
+Game, and the CG Game with and without the
+Option to Take
+
+Π
+
+R
+
+A’ 
+
+20
+
+B
+
+10
+
+10 – t
+
+A 
+
+B’ 
+
+0
+
+10 – g
+
+10
+
+A’’ 
+
+20
+
+IID
+
+in the charity’s endowment by the experimenter.
+The fact that the charity will receive $10 regard-
+less of the allocation decision by the dictator is
+common information.5 The altruistic motivation
+to give to charity is removed because passing
+money to charity does not increase the amount
+received by the charity; only the warm-glow
+motivation for giving remains.
+
+The principal treatments involve a 2 by 2
+design. We vary the source of the endowment as
+either house money or earned. We also vary the
+action set between either only giving to charity
+or giving to or taking from charity (see Table 1
+for the design summary).
+
+Figure 1 depicts and contrasts the action
+spaces for a standard dictator game and the give
+
+4. EG report that giving to charity was, on average, three
+times the giving to the anonymous participants. We find simi-
+lar results (Appendix S2, http://ssrn.com/abstract=2791025).
+
+5. All participants successfully completed a question-
+naire indicating that the participants understood how their
+allocation decision would affect both own earnings and the
+amount received by charity.
+
+4
+
+ECONOMIC INQUIRY
+
+only and give or take treatments. The figure illus-
+trates how the amount given affects the dictator’s
+earnings (ΠD) and the recipient’s earnings (ΠR).
+Let the initial endowment allocation be desig-
+nated as point A. For the standard dictator game,
+the action space is defined by segment AA’ for a
+give only treatment, and A’AA” for a give or take
+treatment. The slope of each segment is −1. For
+the give only warm-glow treatment, the action
+space is segment AB. Denote the amount the dic-
+tator passes to her selected charity as g. Passing
+money to the selected charity reduces the dicta-
+tor’s earnings by g. Although passing money to
+charity does not increase the charity’s earnings,
+it does affect the perceived composition of the
+charity’s earnings: the amount donated by the
+experimenter is $10 − g, and the amount donated
+by the participant is equal to g. In the give or
+take treatment, the action space is segment AB if
+the dictator gives and AB’ if the dictator takes.
+Denote the amount the dictator takes from his
+selected charity as t. Taking money from the
+selected charity reduces the charity’s earnings
+by t. Although taking money from the charity
+does not increase the dictator’s earnings, it does
+alter the perceived composition of the dictator’s
+earnings: the amount (earned or received from
+the experimenter) is $10 − t, and the amount
+received from the charity is equal to t.
+
+We modify the CG design by adding a real-
+effort task before the real donation experiment.
+We vary whether the real-effort task earns the par-
+ticipants $3, with the $10 endowment provided
+by the experimenter (the house money treatment;
+1 and 2 in Table 1), or $13, with $10 of this
+endowment used in the dictator allocation deci-
+sion (the earned endowment treatment: 3 and 4).6
+We also vary the feasible actions between giving
+only (give only treatment: 1 and 3) and either giv-
+ing or taking (give or take treatment: 2 and 4).
+In all treatments, the charity’s $10 endowment is
+bestowed by the experimenter.
+
+All sessions followed a standard three-part
+procedure designed to maintain comparability
+and to ensure participant anonymity. Consent
+forms were read to and signed by participants.
+Packets containing written instructions and slips
+
+6. In a supplemental treatment, we excluded the preallo-
+cation task in a give-only environment, to determine if the task
+itself affects behavior. This treatment also provides a replica-
+tion of the CG results. The rates and amounts of giving are
+similar with and without the real effort task. We conclude
+the task does not affect behavior, and therefore our results
+are comparable to CG. See Appendix S2 (http://ssrn.com/
+abstract=2791025) for these results.
+
+of paper printed with random, five-digit code
+numbers were distributed. An urn containing the
+five-digit code numbers was shown to partici-
+pants, and one participant drew a number from an
+urn containing the five-digit numbers. The num-
+ber designated the monitor who observed and
+assisted in conducting the experiment. The mon-
+itor received a flat fee of $15.
+
+Part 1 of the experiment is the real effort task.
+The task was designed to require all participants
+to exert some effort but simple enough to ensure
+that all participants successfully completed it.7
+Participants were asked to count the number of
+zeros in a row of numbers. Successfully com-
+pleting the task involved correctly counting all
+15 rows. The experimenter marked any mistakes
+and the participant could attempt the incorrect
+rows again. Successful completion of the task
+resulted in earning $3 for oneself (house money
+treatments: 1 and 2) or $13 for oneself (earned
+endowment treatments: 3 and 4).
+
+Instructions for Part 2 of the experiment were
+then read. The instructions informed participants
+in the give only treatment that any amount passed
+to the charities would reduce their own earnings
+and any amount passed to the charities would be
+offset by an equal reduction by the experimenter
+so that the selected charities would receive nei-
+ther more nor less than $10. In the give or take
+treatment, the instructions informed participants
+of the effects of passing money to the charities
+as in the give only treatment. Additionally, par-
+ticipants were informed that money taken from
+their selected charities would reduce the amount
+received by the charities although their own earn-
+ings would not increase.
+
+Applying Charness and Rabin’s (2002) topol-
+ogy of social preferences, players exhibiting nar-
+row self-interest might give, take, or neither. They
+would be inclined to give if they were Andreoni
+egoists; they would not give if warm glow did
+not enter their utility functions. If such players
+were motivated by malice toward a charity, that
+malice could be acted on by selecting that charity
+and then taking from it.8 Players exhibiting com-
+petitive preferences would be disinclined to give
+but might take if the desire to do better than the
+other party was sufficiently strong and the con-
+cern for the other party was sufficiently weak.
+Players with difference aversion or social welfare
+preferences would neither give nor take.
+
+7. Eighty-one percent of the participants successfully
+
+completed the task on the first try.
+
+8. Charness and Rabin (2002) do not find many people to
+
+be motivated by this kind of preference.
+
+LUCCASEN & GROSSMAN: WARM-GLOW GIVING
+
+5
+
+After reading the instructions, a question-
+naire was administered to ensure participants
+knew how their choices would affect their own
+earnings and the amounts received by their
+selected charities.9 Once all questionnaires were
+answered correctly, the charity selection sheets
+were distributed (see Appendix S1, http://ssrn
+.com/abstract=2791025, for the instructions and
+decision sheets for the house money/give only
+and house money/give or take treatments). The
+charity selection sheet is a list of ten charities
+with a brief description of the services provided
+by the charities. After reading a summary of the
+instructions for Part 2, each participant selected
+one charity. This charity received $10 from the
+experimenter. At the bottom of the sheet, a par-
+ticipant indicated how she wished to allocate her
+$10, or if applicable, how much of the $10 to take
+from charity. The instruction made clear that giv-
+ing to the charity would not increase the amount
+the charity received, and that
+taking money
+would not increase the participant’s earnings.
+
+While earnings were tabulated, participants
+were given a survey to complete as Part 3 of the
+experiment. The survey collected demographic
+information, and also contained manipulation
+check questions as well as the open-ended
+questions “Please indicate what you believe
+the experimenters were testing for and explain
+what motivated you to make the decision you
+made” and “Please indicate what you intend to
+do with the money you have earned in today’s
+experiment in general terms.” A few participants
+(3 of 102) indicated they would give a portion of
+their earnings to different charities. No partici-
+pants connected the effort task to the allocation
+decision, and no participants speculated on the
+design of other treatments.
+
+All participants were invited to witness
+the mailing of checks to charities. Earnings
+envelopes with the five-digit code numbers
+were placed on a table near the front of the
+room, and participants collected their envelopes
+as they exited the room. The donations to the
+charities were totaled, checks were written and
+inserted in preaddressed and stamped envelopes,
+and the monitor and experimenter walked to
+the nearest mailbox and posted the envelopes.
+Responses to survey questions suggest that par-
+ticipants believed that the charities would receive
+
+TABLE 2
+Mean Response to Manipulation Check
+Questions
+
+Question
+
+The procedure followed in
+
+this experiment preserved
+your anonymity.
+The instructions for the
+
+experiment were clear and
+easy to follow.
+
+Give Only
+Treatments
+
+Give or Take
+Treatments
+
+4.575
+
+4.756
+
+4.475
+
+4.105
+
+The charities selected will
+
+4.733
+
+4.733
+
+receive a donation from the
+experimenter.
+
+The charity you selected
+
+efficiently uses donations
+for their stated cause.
+
+4.542
+
+4.465
+
+that
+
+their own decisions were
+the donations,
+anonymous, and that the instructions were clear.
+Using a Likert scale from 1 (strongly disagree)
+to 5 (strongly agree), the mean response to each
+of these questions is more than 4 (see Table 2).
+
+IV. RESULTS
+
+Participants were recruited from undergradu-
+ate classes at Mississippi State University. One
+hundred and two participants took part in the
+experiment, excluding those selected as moni-
+tors.10 Five sessions were conducted. Treatment
+1 consists of two sessions of 17 and 10 partici-
+pants each; treatments 2, 3, and 4 were conducted
+in single sessions of 25, 27, and 23, respec-
+tively. Each session lasted between 45 minutes
+and 1 hour. Table 3 provides summary statistics
+by treatment.
+
+We begin by testing the null hypothesis that,
+for all treatments, the distributions of choices
+are drawn from parent populations with the
+same arithmetic mean. A Kruskal-Wallis test
+rejects this null hypothesis at
+the 10% level
+when correcting for ties (X2 = 7.88, p = 0.09),
+suggesting that at least one sample distribution is
+significantly different.
+
+To determine which treatments differ, we con-
+duct pairwise comparisons of the distribution of
+contributions using the Wilcoxon rank-sum test.
+The null hypothesis is that each pair of sam-
+ples is drawn from populations with the same
+distribution. Table 4 displays the Wilcoxon test
+
+9. Subjects who responded incorrectly to the question-
+naire were counseled how to correctly determine own and
+charity’s earnings, and were given additional opportunities to
+answer correctly.
+
+10. An additional 91 participants took part in supplemen-
+tal treatments referenced in Appendix S2 (http://ssrn.com/
+abstract=2791025).
+
+6
+
+ECONOMIC INQUIRY
+
+TABLE 3
+Summary Statistics by Treatment
+
+Primary Treatments
+
+Treatment
+
+1
+
+2
+
+3
+
+4
+
+Feasible actions
+Source of endowment
+% Donating
+% Taking
+Mean donation (unconditional)
+Standard deviation
+Mean donation (conditional)
+n
+
+Note: n/a, not applicable.
+
+Give only
+House money
+40.7%
+n/a
+$1.52
+2.55
+$3.73
+27
+
+Give or take
+House money
+20.0%
+0
+$0.60
+1.44
+$3.00
+25
+
+Give only
+Earned endowment
+59.3%
+n/a
+$2.41
+3.18
+$4.06
+27
+
+Give or take
+Earned endowment
+43.5%
+0
+$2.09
+3.15
+$4.80
+23
+
+TABLE 4
+Comparisons of Giving: Two-Sample Wilcoxon Rank-Sum Tests
+
+Earned endowment/give only
+House money/give or take
+Earned endowment/give or take
+
+House Money/
+Give Only
+
+1.23 (0.22)
+−1.62 (0.11)
+0.49 (0.62)
+
+Earned Endowment/
+Give Only
+
+—
+−2.81*** (0.01)
+−0.68 (0.50)
+
+House Money/
+Give or Take
+
+—
+—
+1.91* (0.06)
+
+Note: Test statistic z, with pr > |z| in parentheses.
+*pr |z| < 10%; ***pr |z| < 1%.
+
+results. For each decision frame, we do not
+observe lower, but on the contrary, higher con-
+tributions when endowments are earned. In the
+give only treatments, the mean donation is $1.52
+in the house money treatment and $2.41 in the
+earned endowment treatment. In the give or take
+treatments, the mean donation is $0.60 in the
+house money treatment and $2.09 in the earned
+endowment treatment. We now formally test our
+null hypotheses.
+
+A. The Effect of Earned and House Money
+Endowments on the Number of Warm-Glow
+Givers and the Amount of Warm-Glow Giving
+(Treatments 1 vs. 3; 2 vs. 4)
+
+HYPOTHESIS 1: The proportion of givers and the
+average amount given will decline when endowments
+are earned rather than house money.
+
+In both the give only and the give
+RESULT 1.
+or take treatments, we find the proportion of dic-
+tators does not decrease and may even increase.
+Earned endowments are associated with equal or
+increased giving in both decision frames.
+
+Support. In stark contrast with Cherry, Fryk-
+blom, and Shogren (2002) and List (2007),
+
+we do not find a decrease in the proportion
+of dictators giving in the earned endowment
+treatment relative to the house money treatment.
+Figure 2A displays the histogram of choices
+in the give only treatments; Figure 2B displays
+this information for the give or take treatments.
+Visual inspection of these figures suggests that,
+for a given decision space, giving not only per-
+sists, but actually increases, when participants
+earn the endowment. In our give only/house
+money treatment, 40.7% (11 of 27) pass money;
+in the give only/earned endowment treatment,
+59.3% (16 of 27) pass money. The difference
+(χ2(1) = 1.85,
+is not
+p = .17). Nor are the distributions significantly
+different
+statistic
+(Kolmogorov-Smirnov test
+D = 0.19, p = .65). Although the nonparametric
+Kolmogorov-Smirnov test cannot distinguish
+between the distribution of giving in the give or
+take treatments (D = 0.23, p = .42), in the give
+or take/house money treatment, 20% (5 of 25)
+pass money; in the give or take/earned endow-
+ment
+treatment 44% (10 of 23) pass money.
+(χ2(1) = 2.08,
+This difference is
+significant
+p = .08). Furthermore, none of the participants
+took from the charity when they had the option
+to do so.
+
+statistically significant
+
+LUCCASEN & GROSSMAN: WARM-GLOW GIVING
+
+7
+
+FIGURE 2
+Distribution of Donations to Charity as a Percentage of the Endowment
+
+House Money/Give Only (combined)
+
+Earned Endowment/Give Only
+
+40.7%
+
+14.8%
+
+14.8%
+
+9.7%
+
+9.7%
+
+8.1%
+
+3.7%
+
+3.7%
+
+3.7%
+
+3.7%
+
+3.7%
+
+3.2%
+
+1.6%
+
+3.2%
+
+3.2%
+
+3.7%
+
+1.6%
+
+7.4%
+
+3.2%
+
+A
+frequency
+
+0.8
+
+0.7
+
+0.6
+
+56.5%
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+0
+
+1 - 10% 11 - 20% 21 - 30% 31 - 40% 41 - 50% 51 - 60% 61 - 70% 71 - 80% 81 - 90% 91 - 100%
+
+percentage of endowment passed to charity
+
+B
+frequency
+80.0%
+
+House Money - Give or Take
+
+Earned Endowment - Give or Take
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+56.5%
+
+13.0%
+
+4.3%
+
+4.0%
+
+8.0%
+
+4.3%
+
+4.0%
+
+8.7%
+
+4.3%
+
+4.0%
+
+8.7%
+
+0
+
+1 - 10% 11 - 20% 21 - 30% 31 - 40% 41 - 50% 51 - 60% 61 - 70% 71 - 80% 81 - 90% 91 - 100%
+
+percentage of endowment passed to charity
+
+Note: (A) Give only, house money and earned endowment treatments. (B) Give or take treatments, house money and earned
+
+endowment treatments.
+
+8
+
+ECONOMIC INQUIRY
+
+TABLE 5
+Giving to Charity: Probit Model Results
+
+Demographic
+Characteristics
+
+Earned endowment
+Take
+Female
+Non-White
+Constant
+Log-likelihood
+Observations
+
+1
+No
+
+2
+Yes
+
+0.560*** (0.060)
+0.578*** (0.032)
+−0.498*** (0.060) −0.457*** (0.016)
+
+−0.377 (0.295)
+1.025*** (0.138)
+−0.280*** (0.048) −0.856*** (0.137)
+
+−64.836
+102
+
+−58.968
+102
+
+Notes: The dependent variable is equal to 1 if the partic-
+ipant passed a positive amount to charity. Robust standard
+errors are in parentheses. Models 1 and 2 cluster standard
+errors on the treatment level.
+
+***Significant at 1% level.
+
+While the differences are not significant or
+only weakly significant,
+the direction of the
+change is the opposite of the significant negative
+change reported by Cherry et al. and List for
+total (warm-glow plus altruistic) giving. It must
+be remembered that our comparison is not really
+to a null hypothesis of no effect, but rather to
+the findings of Cherry et al. and List that earned
+endowments significantly decrease the number
+of givers and the amount of giving. Our finding
+that earned endowments leave unchanged or
+increase both the number of warm-glow givers
+and the amount of warm-glow giving, still raises
+important
+issues with the Cherry et al. and
+List findings.
+
+Table 5 presents results from probit models.
+Models 1 and 2 decompose the treatment effects
+by the source of the endowment (Earned Endow-
+ment equals 1 if the endowment is earned) and
+the option to take (Take equals 1 if participants
+have the option to take). Model 1 controls only
+for the source of the endowment and the option
+to take; Model 2 additionally controls for gen-
+der and race. The dependent variable equals 1
+if the participant passed a positive amount to a
+charity and zero otherwise. Earned Endowment
+equals 1 if the endowment is earned, and Take
+equals 1 if participants have the option to take.
+Results from Models 1 and 2 indicate that partic-
+ipants are significantly more likely to give when
+the endowment is earned.11 Expanding the deci-
+sion set to include taking does reduce giving, yet
+no participant took money from a charity. We dis-
+cuss the effect of the decision space in more detail
+in subsection B below.
+
+11. Logit models yield similar results.
+
+B. The Effect of the Action Space on the
+Number of Warm-Glow Givers and the Amount
+of Warm-Glow Giving
+
+HYPOTHESIS 2: The proportion of giving dictators
+and the average amount given will decline when the
+action space is expanded to permit taking.
+
+RESULT 2. An expanded action space is asso-
+ciated with a reduction in the proportion of giv-
+ing dictators, and a decrease in the average
+amount given.
+
+Support. In the house money treatments, dicta-
+tors passed on average $1.52 to charity in the
+give only treatment and $0.60 in the give or
+take treatment. This difference approaches sta-
+tistical significance, but is not significant at con-
+ventional levels with the Wilcoxon rank-sum test
+(see Table 4). The effect of the action space
+is more muted with earned endowments. With
+earned endowments, dictators passed on average
+$2.41 in the give only treatment and $2.09 in the
+give or take treatment, an insignificant difference
+(see again Table 4). Fifty percent (27 of 54) of the
+dictators in give only treatment passed a positive
+amount; 31% (15 of 48) of the dictators in the give
+or take treatment passed a positive amount. This
+difference is significant (χ2(1) = 3.69, p = .06).
+This result is supported by probit results reported
+in Table 5. In both models, we find that the
+expanded action space significantly reduces the
+probability that a dictator will pass a positive
+amount to charity. This finding is consistent with
+the Bardsley (2008) and List (2007) finding for
+total giving.
+
+Additional insight for both endowment and
+action space effects is provided by examining the
+determinants and likelihood of giving. Because
+data are censored at the upper and lower limits,
+we run tobit models with the amount passed to
+charity as the dependent variable. Results are
+shown in Table 6.
+
+Models 1 and 2 decompose the treatment
+effects by the source of the endowment (Earned
+Endowment equals 1 if the endowment is earned)
+and the option to take (Take equals 1 if partic-
+ipants have the option to take). Model 1 con-
+trols only for the source of the endowment and
+the option to take; Model 2 additionally con-
+trols for gender and race. Both models indi-
+cate that donations are significantly higher with
+earned own endowments relative to the house
+money sessions, and the option to take signifi-
+cantly reduces donations.
+
+LUCCASEN & GROSSMAN: WARM-GLOW GIVING
+
+9
+
+TABLE 6
+Amount Given: Tobit Model Results
+
+Demographic
+Variables
+
+(1)
+No
+
+(2)
+Yes
+
+Earned Endowment
+Take
+Female
+Non-White
+Constant
+Log-likelihood
+Observations
+
+3.262** (0.752)
+
+3.084*** (0.420)
+−2.249*** (0.586) −2.161*** (0.357)
+
+−1.834 (1.818)
+2.823*** (1.045)
+−2.014*** (0.676) −3.930* (1.211)
+
+−158.202
+102
+
+−156.252
+102
+
+Notes: Dependent variable is amount passed to charity.
+Robust standard errors are in parentheses. Standard errors are
+clustered on the treatment level.
+
+*Significant at 10% level; **significant at 5% level;
+
+***significant at 1% level.
+
+C. Supplemental Treatments
+
+Two additional supplemental treatments were
+conducted to ensure internal and external valid-
+ity. Participants were paired with other partici-
+pants instead of a charity (one house money, one
+earned endowment). If observed giving is due to
+confusion or a demand effect in the way the deci-
+sion sheet is presented, we should observe similar
+rates of giving, which we did not. As in EG, we
+find that context matters: giving is significantly
+reduced when participants are paired with other
+participants (see Appendix S2, http://ssrn.com/
+abstract=2791025).
+
+V. SUMMARY AND CONCLUDING REMARKS
+
+Previous work employing the Dictator Game
+has shown that total (warm-glow plus purely
+altruistic) giving is drastically reduced when par-
+ticipants earn their endowments in a pregame task
+(Cherry, Frykblom, and Shogren 2002 and List
+2007), and that total giving is reduced, and con-
+siderable taking occurs, when the action space
+is expanded to include taking as well as giving
+(Bardsley 2008 and List 2007). We test if these
+results are robust for warm-glow giving alone.
+The fact that the motivations for warm-glow giv-
+ing are different from the motivations for purely
+altruistic giving suggests that one should not nec-
+essarily expect the same outcomes for warm-
+glow giving as for total giving.
+
+To test our hypotheses, we adopt the CG
+design. The treatments provide context by pair-
+ing dictators with charities of their own choice. A
+donation to charity does not increase the amount
+the charity receives. Instead, it alters the per-
+ceived composition of the donation to charity
+
+between the experimenter and the participant. We
+employ a real effort task that either earns $3
+for the participant, separate from the $10 used
+in the real donation experiment (house money
+treatment), or earns $13 for the participant, of
+which $10 is used in the real donation experiment
+(earned endowment treatment). We examine the
+effect of earned endowments with two decision
+frames. Participants can only pass money to a
+charity in the give only treatment; participants can
+either pass money to charity or take money from
+charity in the give or take treatments.
+
+While Cherry, Frykblom, and Shogren (2002)
+and List (2007) find that earning the endowment
+significantly reduces dictator (total) giving, we
+find that earning the endowment increases warm-
+glow giving. We observe statistically insignifi-
+cant increased warm-glow giving in our give-only
+treatments and statistically significant increased
+warm-glow giving in our give or take treatments.
+In our give only treatments, approximately 50%
+more participants give and they give approxi-
+mately 50% more when endowments are earned
+rather than house money. The difference in our
+give or take treatments is even more pronounced;
+100% more participants give and average giving
+is about 300% higher. The qualitative dependent
+variable and limited-dependent variable mod-
+els indicate that the proportion of subjects who
+donate to charity and the amount given to char-
+ity are higher in treatments in which the endow-
+ment is earned. When we expand the action
+space, we find results consistent with Bards-
+ley (2008) and List (2007). Allowing subjects
+to take as well as give reduces, but does not
+eliminate warm-glow giving, and we observe
+no taking.12
+
+Our results are consistent with the hypothe-
+sis that participants receive a warm glow from
+giving. Although a selected charity receives $10
+regardless of the amount passed to the charity,
+a participant who passes $2 to charity may feel
+as if her contribution accounts for $2 of the $10
+total. It must be recognized, as the Lei, Noussair,
+and Plott (2001) Active Participation Hypothe-
+sis would suggest, that at least some of the giv-
+ing we report is due to a desire on the part of
+experiment participants to do something. While
+our subjects in the give or take treatments have
+two action options, the taking action may be
+
+12. EG find that context matters for a dictator game; total
+giving was greater when dictators were paired with a charity
+rather than another anonymous participant. We find that this
+result holds for warm-glow giving (see Appendix S2, http://
+ssrn.com/abstract=2791025).
+
+10
+
+ECONOMIC INQUIRY
+
+sufficiently distasteful as to not be considered
+an option. However, while the Active Participa-
+tion Hypothesis may explain some of the giv-
+ing behavior observed, it does not explain the
+increased number of givers when the option to
+take is available.13
+
+The results in this article allow us to refine
+the interpretation of earned endowments on
+dictator giving. To declare that earned endow-
+ments decrease giving is an overstatement. We
+do observe decreased giving in response to
+earned endowments in treatments when other
+anonymous participants are the recipients of
+the dictators’ allocations. The results from
+the real donation experiments are consistent
+with the hypothesis that dictators make more
+self-interested decisions when endowments
+are earned. Self-interest, for a subset of dicta-
+tors, includes the warm glow of donating to a
+charitable organization. Therefore, more self-
+interested behavior is not always equivalent to
+less giving.
+
+Our results suggest that donating one’s earned
+income creates greater utility than donating
+an equal amount of a windfall gain.14 These
+results are consistent with the Benabou and
+Tirole (2006) model of self-image. Actions
+allow individuals to define their self-image.
+However, Benabou and Tirole state the impor-
+tance of delineating between a preference for
+warm glow and “ … motives that relate to what a
+person’s behavior says about him or her, which
+will depend on the informational and economic
+context … ” The results in this article indicate
+that donating earned money is seen as more of
+a sacrifice than donating house money, and this
+is compounded by the social norm regarding the
+recipient of donated money.
+
+13. Our findings may also understate the level of giving.
+Players could make donations from their earnings after the
+experiment and our design only targets “internal” sources
+of warm glow, that is, feeling good about one’s self and
+satisfying a social norm. It does not target “external” sources
+such as prestige and the acclaim of others.
+
+14. Also, warm glow comes not merely from just the act
+of giving, but also from the characteristics of the recipient (see
+Appendix S2, http://ssrn.com/abstract=2791025). Gangadha-
+ran, Grossman, and Jones (2014) report results consistent with
+ours. They find that warm-glow givers are more generous to
+needy Indigenous Australians than to needy non-Indigenous
+Australians. They argue that “.... Indigenous Australians are
+likely to be viewed as more in need than Australians in
+general … the social and economic outcomes of Indige-
+nous Australians are significantly worse than non-Indigenous
+Australians.”
+
+REFERENCES
+
+Andreoni, J. “Giving with Impure Altruism: Applications to
+Charity and Ricardian Equivalence.” Journal of Politi-
+cal Economy, 97(6), 1989, 1447–58.
+
+. “Impure Altruism and Donations to Public Goods: A
+Theory of Warm-Glow Giving.” The Economic Journal,
+100(401), 1990, 464–77.
+
+“Philanthropy,” in Handbook of the Economics of
+Giving, Altruism, and Reciprocity, edited by S.-C.
+Kolm and J. M. Ythier. Amsterdam, The Netherlands:
+Elsevier/North-Holland, 2006, 1201–69.
+
+Bardsley, N. “Dictator Game Giving: Altruism or Artefact?”
+Experimental Economics, 11(2), 2008, 122–33.
+Benabou, R., and J. Tirole. “Incentives and Prosocial
+Behavior.” American Economic Review, 96(5), 2006,
+1652–78.
+
+Brock, J. M., A. Lange, and E. Y. Ozbay. “Dictating the
+Risk: Experimental Evidence on Giving in Risky Envi-
+ronments.” American Economic Review, 103(1), 2013,
+415–37.
+
+Burrows, P., and G. Loomes. “The Impact of Fairness on
+Bargaining Behaviour.” Empirical Economics, 19(2),
+1994, 201–21.
+
+Camerer, C. F. “The Promise and Success of Lab-Field Gen-
+eralizability in Experimental Economics: A Reply to
+Levitt and List,” in The Handbook of Experimental
+Economic Methodology, edited by G. Frechette and A.
+Schotter. Oxford: Oxford University Press, 2015.
+Charness, G., and M. Rabin. “Understanding Social Prefer-
+ences with Simple Tests.” Quarterly Journal of Eco-
+nomics, 117, 2002, 817–69.
+
+Cherry, T. L., P. Frykblom, and J. F. Shogren. “Hardnose
+the Dictator.” American Economic Review, 92(4), 2002,
+1218–21.
+
+Cornes, R., and T. Sandler. “Easy Riders, Joint Production,
+and Public Goods.” The Economic Journal, 94(375),
+1984, 580–98.
+
+Crumpler, H., and P. J. Grossman. “An Experimental Test
+of Warm Glow Giving.” Journal of Public Economics,
+92(5-6), 2008, 1011–21.
+
+Dreber, A., T. Ellingsen, M. Johannesson, and D. G. Rand.
+“Do People Care about Social Context? Framing Effects
+in Dictator Games.” Experimental Economics, 16(3),
+2013, 349–71.
+
+Dreber, A., D. Fudenberg, and D. G. Randvid. “Who Cooper-
+ates in Repeated Games: The Role of Altruism, Inequity
+Aversion, and Demographics.” Journal of Economic
+Behavior and Organization, 98, 2014, 41–55.
+
+Eckel, C. C., and P. J. Grossman. “Altruism in Anony-
+mous Dictator Games.” Games and Economic Behav-
+ior, 16(2), 1996, 181–91.
+
+Eckel, C. C., P. J. Grossman, and R. M. Johnston. “An
+Experimental Test of the Crowding Out Hypothesis.”
+Journal of Public Economics, 89(8), 2005, 1543–60.
+
+Gangadharan, L., P. J. Grossman, and K. Jones. “Donor Types
+and Paternalism.” Monash University, Department of
+Economics, Working Paper RDP 53-14, 2014.
+
+Hoffman, E., and M. Spitzer. “Entitlements, Rights, and Fair-
+ness: An Experimental Examination of Subjects’ Con-
+cepts of Distributive Justice.” Journal of Legal Studies,
+15, 1985, 254–97.
+
+Korenok, O., E. L. Millner, and L. Razzolini. “Are Dictators
+Averse to Inequality?” Journal of Economic Behavior
+and Organization, 82(2-3), 2013, 543–47.
+
+Lei, V., C. N. Noussair, and C. R. Plott. “Nonspeculative
+Bubbles in Experimental Asset Markets: Lack of Com-
+mon Knowledge of Rationality vs. Actual Irrationality.”
+Econometrica, 69, 2001, 831–59.
+
+Levitt, S. D., and J. A. List. “What Do Laboratory Experi-
+ments Measuring Social Preferences Reveal about the
+
+LUCCASEN & GROSSMAN: WARM-GLOW GIVING
+
+11
+
+Real World?” Journal of Economic Perspectives, 21(2),
+2007, 153–74.
+
+List, J. A. “On the Interpretation of Giving in Dictator
+Games.” Journal of Political Economy, 115(3), 2007,
+482–93.
+
+Ribar, D. C., and M. O. Wilhelm. “Altruistic and Joy-of-
+Giving Motivations in Charitable Behavior.” Journal of
+Political Economy, 110(21), 2002, 425–57.
+
+Schulz, J. F., U. Fischbacher, C. Thoeni, and V. Utikal. “Affect
+and Fairness: Dictator Games under Cognitive Load.”
+Journal of Economic Psychology, 41, 2014, 77–87.
+Simon, S. “When Disaster Relief Brings Anything but
+Relief.” CBS Sunday Morning, 2016. Accessed
+May 30, 2016. http://www.cbsnews.com/news/when-
+disaster-relief-brings-anything-but-relief/.
+
+Stoop, J. “From the Lab to the Field: Envelopes, Dictators
+and Manners.” Experimental Economics, 17(2), 2014,
+304–13.
+
+Tonin, M., and M. Vlassopoulosl. “An Experimental Investi-
+gation of Intrinsic Motivations for Giving.” Theory and
+Decision, 76(1), 2014, 47–67.
+
+Vesterlund, L. “Why Do People Give?” in The Nonprofit
+Sector: A Research Handbook. 2nd ed., edited by W.
+W. Powell and R. Steinberg. New Haven, CT: Yale
+University Press, 2006, 168–90.
+
+SUPPORTING INFORMATION
+
+Additional Supporting Information may be found in the
+
+online version of this article:
+
+Appendix S1. Instructions for house money/give and
+
+house money/give or take treatments
+
+Appendix S2. Analysis of supplemental treatments
+Table S1. Summary statistics by treatment
+Figure S1. Distribution of amount passed to charity as
+a percentage of the endowment: House money/Give only
+treatments, without and with the real-effort task

@@ -1,0 +1,1741 @@
+Article
+
+The Saga of Brand Equity: A
+Comprehensive Bibliometric Analysis
+
+NMIMS Management Review
+31(3) 165–177, 2023
+© 2023 The Author(s)
+Article reuse guidelines:
+in.sagepub.com/journals-permissions-india
+DOI: 10.1177/0974150X231205447
+journals.sagepub.com/home/nrm
+
+Mikul1 and Ishwar Mittal1
+Abstract
+Purpose: The purpose of this research is to undertake a rigorous bibliometric analysis of the trends and patterns in brand equity
+research; to map the intellectual and social structure of brand equity; and to propose a transition plan for future work in this discipline.
+Methodology: This study has adopted (SPAR-4) systematic performance analysis and review technique. Following a specified search
+string, 1,842 journal articles from the previous 31 years (1992–2022) were pulled from the Scopus database. In order to comprehend the field’s knowledge base, various techniques of performance analysis and science mapping were employed using RStudio and
+VOSviewer.
+Findings: The results suggest that over the past three decades, both the volume and influence of brand equity studies have surged.
+Using co-citation analysis, we discovered four distinct subfields within the brand equity literature. Furthermore, the co-authorship
+network revealed that nations with little geographical, historical, and cultural proximity, such as the United States and South Korea
+exhibited the most active cross-country brand equity collaborations.
+Originality/Value: Despite the increasing amount of research being done on brand equity, the current look back is not adequate.
+This research is the first of its kind to provide practitioners, academics, and future scholars with valuable information about the intellectual and social structure of brand equity.
+
+Keywords
+Brand equity, bibliometric analysis, performance analysis, science mapping
+
+Introduction
+Little in today’s society is unbranded, making branding a
+significant yet elusive notion (Davcik et al., 2015) and establishing a brand is considered the most ethical way to conduct
+business due to the ongoing changes in the marketing landscape (Emari et al., 2012). Creating a successful brand can
+be a challenging endeavor, and sustaining it over time can be
+even more challenging (Chatzipanagiotou et al., 2016).
+Businesses with strong brands generally have an edge over
+their competitors since these brands are easy to remember,
+recognize, and recall (Hanaysha, 2016; Pinar et al., 2020).
+As a result, multinational corporations are willing to shell
+out millions and do whatever it takes to establish a powerful
+brand (Ahmad & Guzmán, 2020).
+The term “brand” is a contextualized concept vulnerable to various current perspectives and notions (Lim et al.,
+2020) and ultimately to a never-ending theoretical developmental process (Gabbott & Jevons, 2009). The moment
+a buyer learns about a product and conceptualizes it in their
+mind to inform future purchasing decisions, the product
+becomes a brand (Krishnan, 1996). The new phrase “Brand
+
+equity” was introduced to the marketing literature in the
+early 1980s and immediately became a topic of interest for
+marketing professionals and academics. As a result, even
+after four decades of considerable research, where multiple
+perspectives and countless definitions have arisen, no consensus has been reached on the conceptualization and
+assessment of brand equity (Punj & Hillyer, 2004). A brand
+is different from a product, and the consumer invests in that
+difference, most of the definitions of brand equity emphasize this difference (Blackston, 2000). A generally accepted
+interpretation arising from marketing research defines
+brand equity as the enhanced worth of a product due to its
+brand name (Farquhar, 1988; Louis & Lombart, 2010;
+Mohd et al., 2007; Park & Srinivasan, 1994). While branding has dominated consumer goods marketing, initially the
+1 IMSAR, Maharshi Dayanand University, Rohtak, Haryana, India
+
+Corresponding author:
+Mikul, IMSAR, Maharshi Dayanand University, Rohtak, Haryana 124001,
+India.
+E-mail: mikulbudhiraja@gmail.com
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons AttributionNonCommercial 4.0 License (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-Commercial use,
+reproduction and distribution of the work without further permission provided the original work is attributed as specified on the Sage and Open
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+166
+notion was reluctant to take root in services and B2B marketing. However, studies have been more inclined toward
+service and B2B branding in the past few years.
+Multiple approaches to measuring and estimating brand
+equity lend an additional layer of complexity to the brand
+equity construct. The numerous factions of the marketing
+research field have acknowledged two essential viewpoints: the financial and the customer perspectives to comprehend brand equity (Tasci, 2021). The financial approach
+determines the worth of a brand based on monetary factors.
+It looks at how much more money a brand name generates
+for a product (Simon & Sullivan, 1993). The customerbased approach explores the linkage between the brand and
+the user, including the repercussions that garner that interrelationship (Aaker, 1991; Cuneo et al., 2012; Pappu et al.,
+2005; Veloutsou et al., 2013). Although a financial
+approach can provide considerably more specific information regarding a brand’s valuation, this is not necessarily
+useful for marketing experts when developing plans
+(Keller, 1993). The customer-centric strategy is more realistic since it provides a strategic perspective on consumer
+behavior, allowing marketing managers to develop strategies and prepare accordingly (Kim et al., 2008).
+Brands with substantial brand equity can help managers
+enjoy immense profitability, deeper loyalty, lower exposure to competitor strikes, brand extensions, improved customer response, premium pricing, and optimized licensing
+opportunities (Aaker, 1991; Gill & Dawra, 2010; Keller,
+2003; Kim & Kim, 2005; Morgan, 1999). Overall, brand
+equity is an essential intangible asset of a firm; therefore,
+developing it is a prudent investment (Rios & Riquelme,
+2010). Authors concur somewhat on the perks of strong
+brand equity, yet, no consensus prevails on brand equity’s
+conceptualization and measurement (Christodoulides
+et al., 2006). Brand equity still seems dubious in academia
+as it is vague on how it is created, controlled, and managed
+(Keller, 2003). To better understand this elusive construct
+and uncover the knowledge base structure of the research
+field, the present study employs bibliometric analysis.
+
+The Rationale of the Study
+In order to understand how disciplines have evolved,
+researchers have been exploring epistemology and the
+knowledge base structure of the field. Considering numerous fields have matured (Koseoglu et al., 2016), scholars
+are keen to gauge and track the advancement of fields
+based on specific subjects using cutting-edge software
+applications (Köseoglu et al., 2015). In this way, bibliometric analysis is widely employed to characterize the
+composition and progression of scientific areas. It is noteworthy that there are bibliometric studies on auxiliary
+themes in branding academia, including place branding
+(Ma et al., 2019), brand personality (Lara-Rodríguez et al.,
+2019), and brand experience (Zha et al., 2020). Using bibliographic coupling and co-word analysis, Rojas-Lamorena
+
+NMIMS Management Review 31(3)
+et al. (2022) discovered the prevailing and arising themes
+of brand equity but failed to explore the intellectual and
+social structure of the field, thus leaving huge opportunities
+for future research. This study aims to precisely address
+these gaps in the literature in order to acquire a better grasp
+of the knowledge base of the area. Additionally, we analyzed the performance of research constituents more rigorously than Rojas-Lamorena et al. (2022), by employing
+various publication and citation-related metrics. A series of
+research questions are addressed to unravel the saga of
+brand equity:
+Q1. What is the yearly publication trend and citation
+structure of brand equity research?
+Q2. In the realm of brand equity, which works are the
+most impactful?
+Q3. What is the intellectual and social structure of the
+field?
+Q4. What are the prospective research avenues in this
+domain?
+The following is the structure of this article: the second
+section provides an overview of the methodology employed
+in this research. The third section dives into a lot of depth
+about this topic by using performance analysis and science
+mapping. In the fourth section, the conclusion and future
+research directions are presented. The study’s implications
+are summarized in the fifth section, whereas its limitations
+are discussed in the sixth section.
+
+Methodology
+Bibliometric is a way to look at how different fields change
+over time based on their intellectual, conceptual, and
+social structure (Zupic & Čater, 2015). This study adopts
+Scientific Procedures and Rationales for Systematic
+Literature Reviews (SPAR-4-SLR) a three-stage procedure
+devised by Paul et al. (2021) as shown in Figure 1.
+The first stage is Assembling, which collectively entails
+identifying and acquiring publications for review. Our
+research relies on information culled from the Scopus database, which is extensively utilized in bibliometric studies.
+A multitude of reasons led to the selection of this database
+(a) it houses a large collection of abstracts and citations
+(Mugomeri et al., 2017), (b) data administration and bugfixing capabilities (Aznar-Sánchez et al., 2019), (c) rapid
+refresh rate (Borrett et al., 2018). Designing a search query
+for literature search is a pivotal step, as a simple, clear, and
+replicable query is essential for the bibliometric analysis
+(Khatib et al., 2021). As brand equity is transversal and to
+encompass its entire spectrum, we used brand equity as a
+keyword while screening the database, and the field used
+was “Article title, Abstract, and Keywords.” The first
+seminal work on brand equity appeared in 1992, so this
+study analyzed articles from 1992 to 2022. Further, to
+ensure the quality of the review, the study included only
+
+Mikul and Mittal
+
+167
+
+Figure 1. SPAR-4 Structure.
+
+articles and reviews published in journals and excluded
+book chapters, conference papers, and other forms of grey
+literature. The search was conducted at a single point in time
+(12 November 2022) to avoid any potential bias caused by
+the Scopus database’s ongoing upgrade. After limiting the
+study based on the above-mentioned criteria, the search
+yielded 3,026 documents. In the next stage of arranging, we
+categorized the articles, cleaned the data file by screening
+the articles, and removed four duplicates and one retracted
+article. Following the initial screening, we scanned titles and
+keywords, and thoroughly reviewed the abstract and/or full
+
+text. Based on the detailed reading, we excluded academic
+studies that did not focus exclusively on brand equity as a
+topic (Radler, 2018) and shortlisted 1,842 papers for bibliometric analysis. The last stage of assessment consists of
+evaluation and report writing. The SPAR-4-SLR protocol as
+mentioned in Figure 1, offers helpful guidelines that might
+assist academics in justifying the rationale behind review
+conclusions (Ramya & Alur, 2023). We used the R programming’s Biblioshiny package and the interactive mapping
+features of VOSviewer because of their higher acceptability in bibliometric reviews (Goel et al., 2022).
+
+168
+
+Results and Discussion
+Performance Analysis
+It looked at the various constituents that contribute to a
+specific field of inquiry. Several accepted bibliometric
+metrics are employed for evaluating performance over the
+course of time, including TP, TC, AC, ACPY, citationbased thresholds, and indexes (h, g, m).
+Publication Trend and Citation Structure
+Figure 2 illustrates a year-to-year trend analysis of
+the brand equity research corpora and its impact (Q1).
+The elevation of the “black” rectangles in this figure
+directly corresponds to the frequency of manuscripts (volume), 1,842 total, whereas the “zigzag” line indicates the
+annual citations (influence). Based on the trend equation in
+Figure 2, this field of knowledge has experienced exponential growth. The model fit is excellent, as evidenced by the
+high coefficient of determination (R2: 0.8835) while considering the regression coefficient (0.143) annual growth
+appears to be remarkable. It is evident, the body of scientific work on brand equity has grown significantly.
+The growth in volume is due to the expanding definition
+of brand equity, which has now been incorporated into services, industrial goods, and business-to-business marketing contexts.
+A glance at the “zigzag” line in Figure 2 reveals that
+research on brand equity has a significant impact. In order
+to understand the influence, Table 1 provides a profile of
+the citation structure observed in brand equity research.
+The best bibliometric scores are highlighted in bold in
+Tables 1 and 2.
+A total of 66,633 citations were garnered by this corpus,
+including an average citation rate of 36.17, and the average
+citation per year is 4.84. In general, the h-index indicates
+that the research unit’s h frequency of articles received
+minimum citations of h times (Hirsch & Buela-Casal,
+
+Figure 2. Growth of Brand Equity.
+
+NMIMS Management Review 31(3)
+2014). Our data set has an h-index of 123, which means
+123 articles received at least 123 citations each. The
+g-index, a refined variant of the h-index, takes into account
+the sum of citations also (Egghe & Rousseau, 2019), and
+our dataset has a g-index of 210. Likewise, the m-index
+equals h/n, wherein n represents the frequency of years
+since the research unit’s first contribution was assessed
+(Bornmann et al., 2008). The m-index of the dataset is 3.96.
+In addition, the i-10 index offers an interesting analysis.
+Our dataset has an i-10 index of 903, which implies that
+903 articles have garnered a minimum of ten citations. The
+findings suggest that research on brand equity will continue to have a significant impact in the years to come.
+Most Influential Works in Brand Equity Research
+In the realm of brand equity, which works are the most
+impactful (Q2)? In order to respond to this query, the number of total citations serves as a gauge for determining
+which research publications are the most influential. In
+Table 2, we listed the 10 most-cited studies on the topic of
+brand equity.
+The most cited article (TC:1641) is authored by Aaker
+(1996) and entitled “Measuring Brand Equity Across
+Products and Markets,” In an effort to harmonize brand
+equity metrics across sectors and products, the author of
+this article advocate the use of the “brand equity ten” as an
+initial guide. The four facets of brand equity (awareness,
+loyalty, associations, and perceived quality) served as the
+foundation and driving force behind these measurements.
+Over the decades, multiple approaches have been devised
+to assess brand equity, and academics have made numerous
+facets operational. Nonetheless, most of the models share
+the use of one or more Aaker (1996) facets. The secondhighest cited piece of research (TC:1578) is authored by
+Yoo et al. (2000), entitled “An Examination of Selected
+Marketing Mix Elements and Brand Equity.” In this article,
+the authors explored the mediating function of brand equity
+
+169
+
+Mikul and Mittal
+Table 1. Citation Structure.
+Year
+
+TP
+
+TC
+
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Total
+
+2
+5
+2
+6
+9
+5
+10
+10
+17
+18
+15
+17
+17
+23
+18
+24
+40
+67
+76
+66
+91
+68
+96
+98
+108
+137
+145
+149
+198
+149
+156
+1842
+
+372
+878
+96
+1760
+2511
+252
+1744
+471
+4022
+2673
+1843
+2072
+1634
+2753
+1632
+2081
+2640
+3588
+5484
+3245
+4738
+2310
+2261
+2744
+3063
+2018
+2577
+2155
+1903
+811
+302
+66633
+
+ACPY
+
+≥100
+
+≥50
+
+≥25
+
+≥10
+
+≥5
+
+≥1
+
+h
+
+g
+
+m
+
+186
+6.00
+175.6
+5.85
+48
+1.66
+293.3 10.48
+279
+10.33
+50.4
+1.94
+174.4
+6.98
+47.1
+1.96
+236.6
+10.29
+148.5
+6.75
+122.9
+5.85
+121.9
+6.09
+96.1
+5.06
+119.7
+6.65
+90.7
+5.33
+86.7
+5.42
+66
+4.40
+53.6
+3.83
+72.2
+5.55
+49.2
+4.10
+52.1
+4.73
+34
+3.40
+23.6
+2.62
+28
+3.50
+28.4
+4.05
+14.7
+2.45
+17.8
+3.55
+14.5
+3.62
+9.6
+3.20
+5.4
+2.72
+1.9
+1.94
+36.17
+4.84
+
+1
+5
+0
+4
+5
+2
+5
+1
+7
+8
+6
+8
+5
+11
+8
+7
+13
+9
+13
+7
+12
+6
+2
+9
+5
+3
+2
+2
+1
+0
+0
+167
+
+1
+5
+1
+6
+6
+2
+6
+4
+8
+10
+9
+11
+7
+13
+10
+10
+21
+18
+24
+18
+23
+13
+11
+19
+13
+9
+12
+9
+5
+0
+0
+304
+
+2
+5
+1
+6
+6
+2
+6
+7
+10
+11
+11
+14
+11
+17
+13
+13
+23
+29
+40
+32
+43
+23
+31
+32
+33
+27
+38
+29
+13
+3
+1
+532
+
+2
+5
+1
+6
+6
+3
+7
+7
+14
+14
+13
+16
+13
+20
+16
+18
+28
+46
+62
+47
+61
+37
+56
+54
+63
+56
+72
+57
+67
+31
+5
+903
+
+2
+5
+1
+6
+7
+4
+7
+8
+15
+14
+15
+16
+14
+21
+16
+22
+35
+52
+69
+54
+70
+48
+67
+70
+79
+84
+100
+82
+102
+57
+19
+1161
+
+2
+2
+2
+6
+8
+5
+8
+9
+16
+17
+15
+17
+16
+22
+17
+24
+35
+62
+72
+63
+85
+58
+87
+91
+97
+119
+131
+126
+162
+124
+70
+1568
+
+2
+5
+2
+6
+6
+4
+7
+8
+13
+13
+12
+15
+12
+21
+12
+16
+23
+28
+32
+27
+34
+24
+28
+27
+29
+25
+29
+26
+22
+15
+8
+123
+
+2
+5
+2
+6
+9
+5
+10
+10
+17
+18
+15
+17
+17
+23
+18
+24
+40
+59
+72
+56
+68
+47
+44
+50
+53
+39
+43
+40
+32
+19
+13
+210
+
+0.06
+0.17
+0.07
+0.21
+0.22
+0.15
+0.28
+0.33
+0.57
+0.59
+0.57
+0.75
+0.63
+1.17
+0.71
+1.00
+1.53
+2.00
+2.46
+2.25
+3.09
+2.40
+3.11
+3.38
+4.14
+4.17
+5.80
+6.50
+7.33
+7.50
+8.00
+3.96
+
+AC
+
+Note: TP = Total publication, TC = Total citations, AC = Average citations, ACPY = Average citations per year, ≥ = Number of publications cited
+equal to or greater than specific threshold level, h = h-index exclusively based on corpus, g = g-index. exclusively based on corpus, and m = m-index
+exclusively based on corpus. The best bibliometric scores are highlighted in bold.
+
+facets in the causal connection between marketing actions
+and overall brand equity. In the year 2001, Yoo B. &
+Donthu N. made a further contribution to the field of brand
+equity and co-published a paper entitled “Developing and
+Validating a Multidimensional Consumer-based Brand
+Equity Scale,” which received a total of 1,455 citations. In
+this paper, the authors developed and validated a multidimensional consumer-based brand equity scale (MBE).
+The fourth article on the list is Park et al. (2010), entitled “Brand Attachment and Brand Attitude Strength:
+Conceptual and Empirical Differentiation of Two Critical
+Brand Equity Drivers.” In this paper, the authors conceptually distinguish brand attachment from brand attitude
+strength, proposing that the two constructs have separate
+cognitive features and involve different creative processes,
+and further empirically validate this distinction by creating
+a new scale that maps the conceptual features of brand
+attachment and assesses its link to attitude strength. This
+article has the highest citation density (86.30) as well as the
+
+highest field-weighted citation impact (FWCI: 17.83). The
+fifth article on the list is by Erdem and Swait (1998), entitled “Brand Equity as a Signaling Phenomenon.” This
+article explored the theoretical framework of brand equity
+which is rooted in the fields of data economics and signaling theory. In the current year (2022), the article by Kim
+and Ko (2012), entitled “Do Social Media Marketing
+Activities Enhance Customer Equity? An Empirical Study
+of Luxury Fashion Brand” published in the Journal of
+Business Research received the maximum number of citations (CCY:176). Using a structural equation model, this
+study looked at the links between how luxury fashion
+brands are perceived on social media, brand equity, and
+buying intent. A further noteworthy contribution to brand
+equity theory was given by Berry (2000), entitled
+“Cultivating Service Brand Equity.” In this article, the
+author establishes branding as the bedrock of contemporary service marketing and develops a framework of
+service brand equity that highlights the paramount
+
+170
+
+NMIMS Management Review 31(3)
+
+Table 2. Top Papers.
+R
+
+Title
+
+Year
+
+Author(s)
+
+Journal
+
+N
+
+TC
+
+CCY
+
+CD
+
+CGS
+
+CWoS FWCI
+
+1
+
+“Measuring Brand Equity
+Across Products and
+Markets”
+“An Examination of
+Selected Marketing Mix
+Elements and Brand
+Equity”
+“Developing and Validating
+a Multidimensional
+Consumer-based Brand
+Equity Scale”
+“Brand Attachment and
+Brand Attitude Strength:
+Conceptual and Empirical
+Differentiation of Two
+Critical Brand Equity
+Drivers”
+“Brand Equity as a Signaling
+Phenomenon”
+“Do Social Media
+Marketing Activities
+Enhance Customer Equity?
+An Empirical Study of
+Luxury Fashion Brand”
+“Cultivating Service Brand
+Equity”
+“Brand Equity, Brand
+Preference, and Purchase
+Intent”
+“Developing and Validating
+Measures of Facets of
+Customer-based Brand
+Equity”
+
+1996
+
+Aaker D.A.
+
+CMR
+
+1
+
+1641
+
+172
+
+60.77
+
+7535
+
+1779
+
+3.1
+
+2000
+
+Yoo B., Donthu
+N., Lee S.
+
+JAMS
+
+3
+
+1578
+
+156
+
+68.60
+
+5682
+
+1323
+
+10.84
+
+2001
+
+Yoo B.,
+Donthu N.
+
+JBR
+
+2
+
+1455
+
+170
+
+66.13
+
+4722
+
+1231
+
+6.44
+
+2010
+
+Whan Park
+C., Maclnnis
+D.J., Priester J.,
+Eisingerich A.B.,
+Lacobucci D.
+
+JM
+
+5
+
+1122
+
+160
+
+86.30
+
+2627
+
+994
+
+17.83
+
+1998
+
+JCP
+
+2
+
+1041
+
+96
+
+41.64
+
+2916
+
+NA
+
+5.3
+
+2012
+
+Erdem T.,
+Swait J.
+Kim A.J., Ko E.
+
+JBR
+
+2
+
+999
+
+176
+
+76.84
+
+2994
+
+789
+
+14.91
+
+2000
+
+Berry L.L.
+
+JAMS
+
+1
+
+950
+
+89
+
+41.30
+
+3403
+
+797
+
+8.24
+
+1995
+
+Cobb-Walgren C.J., JA
+Ruble C.A.,
+Donthu N.
+Netemeyer R.G.,
+JBR
+Krishnan B., Pullig
+C., Wang G., Yagci
+M., Dean D., Ricks J.,
+Wirth F.
+Lassar W., Mittal B., JCM
+Sharma A.
+
+3
+
+673
+
+60
+
+24.03
+
+283
+
+531
+
+NA
+
+8
+
+645
+
+76
+
+33.94
+
+1908
+
+561
+
+2.57
+
+3
+
+632
+
+53
+
+22.57
+
+2892
+
+NA
+
+NA
+
+2
+
+3
+
+4
+
+5
+6
+
+7
+8
+9
+
+10
+
+“Measuring Customerbased Brand Equity”
+
+2004
+
+1995
+
+Note: CMR = California Management Review, JAMS = Journal of the Academy of Marketing Science, JBR = Journal of Business Research, JM = Journal
+of Marketing, JCP = Journal of Consumer Psychology, JA = Journal of Advertising, JCM = Journal of Consumer Marketing, N = Number of Author(s),
+CCY = Citation in Current Year (2022), CD = Citation Density measured as TC divided number of years since publication of the document, CGS =
+Citation Count on Google Scholar, CWoS = Citation Count on Web of Science, FWCI = Field Weighted citation count. The best bibliometric scores
+are highlighted in bold.
+
+importance of customers’ service experiences in brand creation. The eighth article on the list is Cobb-Walgren et al.
+(1995). In this document, the outcomes of brand equity are
+discussed. In terms of the number of authors, the article
+“Developing and validating measures of facets of customer-based brand equity” tops the list (N: 8). Measures of
+“core/primary” aspects of CBBE were developed and
+reported in four distinct studies in this article. The tenth
+article on the list is Lassar et al. (1995), entitled “Measuring
+Customer-based Brand Equity.” The article presented a
+simple pen-and-paper instrument to measure customerbased brand equity. A further insight drawn from Table 2. is
+that four out of the top ten articles are related to the measurement of brand equity, seven out of the top ten articles
+are published in the first decade (1992–2001), and all
+ten articles are related to customer-based brand equity.
+
+There were no articles on the list that conceptualized or
+measured brand equity from a financial or employee standpoint. A comparative analysis of the total citations reported
+in column 7 (TC), column 10 (CGS), and column 11 (CWoS)
+of Table 2. clarified that compared to Web of Science and
+Scopus, Google Scholar delivers an exhaustive listing of
+citations generated by scholarly papers. The Scopus-based
+citations (TC) and Web of Science-based citations (CWoS)
+are positively associated (r = 0.96). This result validates the
+selection of Scopus as the research database of choice.
+
+Science Mapping
+The notion of “science mapping” alludes to the visual display of the interconnections between various scientific
+domains, subfields, and specific works or authors (Small, 1999).
+
+Mikul and Mittal
+Linkage and intellectual exchange among research elements are the primary goals of this examination (Donthu
+et al., 2021). Co-word, co-citation, co-authorship analysis,
+and bibliographic coupling are some of the tools employed
+in science mapping.
+Co-citation Analysis
+Co-citation is how often two units are referenced together
+(Small, 1973). It relies on the premise that there is a substantial connection between the content of two items if
+they are frequently cited together. To analyze the intellectual structure of the brand equity field (Q3), we presented
+the co-citation network of the references using the association strength method in Figure 3. Only those references
+that have been cited at least 25 times are chosen to be
+displayed in this network; 86 cited references meet the
+threshold among the 91,520 cited references. The network
+developed in Figure 3 has four clusters, 5958 links (L), and
+33,092 total link strengths (TLS).
+Cluster 1: Brand equity, Structural Equation Modelling,
+and Common Method bias. Cluster 1, which is shown
+in black, is the biggest of all the clusters in the network.
+The biggest black bubble (L: 85, TLS: 1943) refers to
+Keller (1993) classic study of brand equity, entitled
+
+Figure 3. Co-citation Network of Cited References.
+Note: For references to colour, please see the online version.
+
+171
+“Conceptualizing, Measuring, and Managing Customerbased Brand Equity,” published in the Journal of Marketing.
+In this document, the author introduces the concept of
+customer-based brand equity (CBBE) and deconstructs
+brand knowledge into two components: brand awareness
+and brand image. This cluster also covers the influential
+documents related to the conceptualization of brand equity
+in B2B marketing (Bendixen et al., 2004; Biedenbach &
+Marell, 2010; Michell et al., 2001). Most scholars measure
+the construct (CBBE) with a set of items and try to explore
+its linkage with other constructs. To test the model
+hypothesis, they prefer to use structural equation modeling,
+usually citing the seminal work of Fornell & Larcker
+(1981), (L:83, TLS:940) and Anderson and Gerbing (1988)
+(L:75, TLS:365). Authors are experiencing increasing
+competition for their articles to be published, and one
+specific phenomenon that can affect the rigor of research is
+common method bias (CMB). Authors who determine
+that a common method is necessary for their study,
+acknowledge the ground-breaking work of Podsakoff
+et al. (2003), (L:64, TLS:202), and consider strategies to
+attenuate CMB’s negative effects. A deeper analysis of
+the cluster revealed that seminal works from different
+domains are co-cited, confirming the transversal nature of
+brand equity.
+
+172
+Cluster 2: Measurement of Brand equity. Studies in this
+cluster (yellow) mainly focused on the measurement aspect
+of brand equity. Based on insights from Aaker (1991) and
+Keller (1993) conceptualization of brand equity, several
+other researchers devised a scale to measure the CBBE
+(Christodoulides et al., 2015; Netemeyer et al., 2004; Yoo
+& Donthu, 2001). Most of the endeavors employ one of
+two measurement methodologies: (a) the direct (outcome)
+approach, which assesses CBBE by evaluating the
+underlying impact of brand understanding on customer
+reactions to various marketing aspects and (b) the indirect
+(dimensional) approach; it considers various causes of
+CBBE by recognizing and monitoring customers’ brand
+conceptual understanding (Keller, 1993, 2003). The direct
+approach concentrates more on assessing a brand’s
+differential and preferential effects and evaluating the
+whole brand’s equity (Washburn et al., 2004). Conversely,
+the indirect method suggests that brand equity is a
+multifaceted notion that can be assessed by examining its
+constituents. Put another way, the direct route captures the
+customers’ preferences (Christodoulides et al., 2006),
+while the indirect approach operationalizes the concept
+through its representation (Yoo & Donthu, 2001).
+Cluster 3: Antecedents and Consequences of Brand equity.
+The blue bubbles depict this cluster, which encompasses the
+various precursors and outcomes of brand equity. The
+biggest blue bubble (L:85, TLS:1759) denotes Yoo et al.
+(2000), In this paper, the authors propose five marketing mix
+elements as the precursors of the OBE construct. Buil, de
+Chernatony, et al. (2013) suggested two elements of
+the marketing mix (advertising and sales promotion) as the
+forerunners of brand equity. Researchers also explored
+the various outcomes of brand equity, Buil, Martínez, et al.
+(2013) in their paper, entitled “The Influence of Brand
+Equity on Consumer Responses,” investigated the impact of
+the OBE construct on consumers’ propensity to pay the
+premium, interest in brand extensions, and buying intent.
+Chang and Liu (2009) developed an integrated framework
+for the underlying factors and outcomes of service brand
+equity. The study considered attitude towards brand and
+brand image as precursors, whereas buying intent and brand
+preference were deemed to be outcomes of brand equity.
+Cluster 4: Destination Brand equity. The primary emphasis
+of this cluster (red) is destination branding. Konecnik and
+Gartner (2007) published a seminal paper in the field of
+destination brand equity, entitled “Customer-based Brand
+Equity for a Destination.” In this paper, the authors applied
+the concept of consumer-based brand equity to a destination
+and proposed a scale (CBBETD) for quantifying a
+destination’s brand equity, from a traveler’s point of view.
+Both Boo et al. (2009) and Im et al. (2012) adapted and
+expanded a multidimensional CBBE scale for application
+within a tourism context, thereby extending the concept of
+brand equity to destination brand measurement and creating
+
+NMIMS Management Review 31(3)
+a theoretical structure for destination brand equity that goes
+beyond the image. Pike et al. (2010) measured the brand
+equity of a nation (Australia) as a long-haul destination in an
+emerging market, while Bianchi et al. (2014) assessed three
+South American countries’ viability as long-haul travel
+destinations for Australians using a CBBE model. This
+cluster also focuses on measuring customer-based brand
+equity in the hospitality sector (Kayaman & Arasli, 2007;
+Nam et al., 2011; Prasad & Dev, 2000) and service brand
+equity (Berry, 2000; Kimpakorn & Tocquer, 2010).
+Co-authorship Analysis
+Analysis of co-authorship exposes the pattern of academic
+association among scholars from various institutions and
+nations in a particular research field (Donthu et al., 2020).
+A relationship between two authors is established when
+they co-publish a paper, and to study social networks, coauthorship is superior to other relatedness measures
+because it accurately captures the strength of social links
+(Zupic & Čater, 2015). To illustrate the social structure of
+the field (Q3), we displayed the clustered co-authorship
+web of the nations that shared authorship for at least
+10 scholarly works (see Figure 4). Only 37 of the 112
+countries fit this criterion, resulting in a network of six
+hubs connected by 490 ties with a total strength of 1338.
+The groupings are structured based on relatedness among
+manuscripts from various nations.
+With 32 linkages and 173 total connection strengths, the
+United States (black cluster) stands out as the largest node,
+while the edge connecting it to South Korea (red cluster) is
+the strongest in the entire network. It suggests that scholars
+in the United States work closely with their counterparts in
+South Korean academic institutions. The third largest
+bubble is China (blue cluster), with 24 links and 98 link
+strength. The researchers from China mainly co-authored
+with Pakistani scholars, followed by those from the United
+States. A birdʼs-eye view reveals that most of the blue
+bubbles represent Asian countries, including India,
+Malaysia, Taiwan, Thailand, and Vietnam. The yellow
+cluster represents a coordinated effort by researchers from
+many European institutions, most notably those located in
+France, Finland, Italy, and Sweden. Authors from a variety
+of developed-world universities (Australia, Spain,
+Denmark, and Chile) work together to form the green
+cluster. A cursory view indicates that the scholars from
+Spain mainly collaborate with the United Kingdom (black
+cluster) researchers. Notably, the grey cluster consists of
+just two special administrative regions (Hong Kong and
+Macau) of China. Many nodes are relatively tiny, which
+bodes well for expanding existing global collaborations.
+
+Conclusion and Future Directions
+Mainstream marketing theories and operations have
+acknowledged that brand equity is crucial for every organization, yet no study has examined the evolution of brand
+
+173
+
+Mikul and Mittal
+
+Figure 4. Co-authorship Network of Countries.
+Note: For references to colour, please see the online version.
+
+equity research comprehensively. Thus, the study’s relevance resides in its deconstruction of past advancements in
+brand equity research and its suggestions of potential future
+possibilities for the field. As the field is interdisciplinaritydriven and diverse, bibliometrics provides a highly
+systematic and objective approach to analyzing the extant
+literature. A comprehensive framework for the research
+domain was developed by studying its intellectual and
+social structure. Using the Scopus academic database, articles published between 1992 and 2022 regarding brand
+equity were retrieved for this study. The final dataset comprises 1,842 articles, and the corpus has been cited 66,633
+times. A multifold increase in annual publications is evident, rising from two papers in 1992 to 156 papers in 2022,
+with citations rising dramatically as well. In addition, the
+analysis shows that 2020 was the most productive year and
+2010 was the most influential. Furthermore, our study
+found that the article by Aaker (1996) is the most influential scholarly work, followed by Yoo et al. (2000).
+After that, using a co-citation analysis, we mapped the
+intellectual structure of brand equity literature, identifying
+four research clusters: brand equity, structural equation
+modeling, and common method bias; measurement of
+brand equity; antecedents and consequences of brand
+equity; and destination brand equity. We also offered a coauthorship network based on countries to better understand
+author collaboration patterns. Intriguingly, nations with
+little geographical, historical, and cultural proximity, such
+
+as the United States and South Korea and the United States
+and China, exhibited the most active cross-country brand
+equity collaborations.
+In addition to presenting the theoretical underpinnings
+of brand equity research, it is imperative to illustrate the
+field’s future prospects. Reviewing the existing corpus of
+brand equity research indicated various possibilities for
+future exploration. This leads to the discussion of a research
+question concerning emerging topics and directions for
+brand equity research (Q4). The recommendations are built
+on a content analysis of each cluster’s articles as shown in
+the co-citation network (Figure 3) of the research field.
+By relying on the implications and burgeoning themes of
+more recent work, it is feasible to determine that each
+research cluster still contains unsolved research concerns.
+Consequently, we recognized the primary issues and information gaps in the brand equity research and suggested a
+range of new research directions to fill them (see Table 3
+for future avenues).
+
+Research Implications
+Theoretical Implications
+The extensive analysis of existing scholarly works on
+brand equity reveals a wide range of theoretical perspectives that span several aspects of consumer behavior, marketing strategy, and brand management. This section
+
+174
+
+NMIMS Management Review 31(3)
+
+Table 3. Intellectual Structure and Research Avenues.
+S. No.
+
+Cluster
+
+1
+
+Brand equity, structural equation Eventually, a pursuit of the unified theory of branding is desired, so researchers need
+modeling, and common method to uncover some universal factors that are cross-contextual in nature and relevant to
+bias
+varied types of brands and economic activity sectors. Furthermore, scholars should
+incorporate advanced statistical approaches, network analysis, machine learning, or big
+data analytics to unravel the intricate interplay between brand awareness, image, and
+equity.
+Measurement of brand equity
+Scholars should focus on the integration of brand equity measurement from consumers,
+employees, and financial perspectives. Explore the incorporation of multimodal
+measurement techniques. Blend traditional survey methods with innovative technologies
+such as eye-tracking, biometric sensors, and facial expression analysis. Uncover how
+sensory-rich VR/AR experiences reshape the landscape of brand equity assessment.
+Antecedents and consequences Analyze how the existence of brand equity antecedents affects consumers’ attachment
+of brand equity
+to the brand, their sensory experiences, and the narratives they weave regarding the
+brand. Discover how aspects like as online engagement, influencer marketing, and
+user-generated content influence brand equity, and whether these modern antecedents
+have equivalent influence to classic marketing mix parts or add novel dynamics to the
+equation.
+Destination brand equity
+Look at how a destination’s brand equity evolves over time in response to shifting
+traveler choices, world events, and marketing initiatives. Investigate how social
+media interactions, online reviews, and virtual reality experiences influence travelers’
+perceptions of destination brand equity and the ways destinations reposition themselves,
+rebuild traveler trust, and innovate their offerings to revive brand equity after the
+pandemic.
+
+2
+
+3
+
+4
+
+Research Avenues
+
+explores the theoretical implications that emerge from the
+juxtaposition of influential works and current research in
+the area of brand equity. First, the primary theoretical
+aspect that emerges is the evolving character of brand
+equity. Recognizing the influence of temporal elements,
+technological progress, and shifting customer preferences
+on brand equity necessitates adopting an evolving outlook
+in both scholarly inquiry and practical applications.
+Second, as emotional and experiential components are
+acknowledged, the theoretical landscape of brand equity is
+becoming more and more enriched. This theoretical development suggests that brand management methods must go
+beyond functional characteristics and incorporate elements
+of emotional engagement and sensory stimulation. Finally,
+a new theoretical space is opened up by the incorporation
+of technological improvements into brand equity theories.
+The advent of digital media, social platforms, and virtual
+reality necessitates a reassessment of the processes
+involved in establishing, conveying, and encountering
+brand equity. This theoretical confluence highlights the
+necessity for brand managers to capitalize on technology’s
+ability to develop captivating brand experiences, encourage engagement, and establish a digital brand identity. As
+we explore the theoretical terrain of brand equity, these
+multifaceted implications intertwine to create a more
+nuanced and comprehensive understanding of brand equity.
+
+Practical Implications
+A voyage through the changing landscape of brand equity
+offers an array of practical suggestions that hold the potential
+
+to propel brands to new heights. First, businesses can
+develop a distinctive brand image that resonates with and
+sets them apart in competitive markets by matching brand
+features with the values and preferences of their target
+audiences. Second, marketers possess the ability to strategically utilize brand equity as a means to rationalize the
+implementation of higher prices, under the condition that
+the brand continuously upholds the commitments insinuated by its equity. Lastly, brands can establish genuine
+relationships with conscientious consumers by exhibiting
+ethical behavior and social responsibility, improving brand
+equity through values-driven storylines. As the businesses
+leverage the strength of brand equity to engage with customers and leave a lasting impression. These insights assist
+marketers, brand managers, and executives in crafting strategies that resonate, engage, and differentiate while
+navigating the real world of brand equity.
+
+Limitations
+This research has certain drawbacks. The first drawback
+stems from the bibliometric source of data. This research
+relies solely on the Scopus database, leaving it susceptible
+to inaccuracies in the dataset. Data cleaning was performed, including the removal of duplicate articles and
+retractions. While this may reduce errors, sources’ errors
+can still have a substantial impact on analysis. Developing
+custom databases and covering other databases such as
+Dimensions and Web of Science may help future scholars
+overcome this issue. Second, conference articles, books,
+chapters, and dissertations were not included in the current
+
+Mikul and Mittal
+study. Future scholars can cover all forms of grey literature
+in their research. In turn, this would lead to a deeper comprehension of the new developments in brand equity.
+Lastly, in addition to the bibliometric review, different
+kinds of SLRs, such as methodology or theory-based
+reviews, may be conducted in future studies.
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+
+Funding
+The authors received no financial support for the research,
+authorship, and/or publication of this article.
+
+References
+Aaker, D. (1991). Managing brand equity. Free Press.
+Aaker, D. A. (1996). Measuring brand equity across products and
+markets. California Management Review, 38(3), 102–120.
+https://doi.org/10.2307/41165845
+Ahmad, F., & Guzmán, F. (2020). Brand equity, online reviews,
+and message trust: The moderating role of persuasion knowledge. Journal of Product and Brand Management, 30(4),
+549–564. https://doi.org/10.1108/JPBM-09-2019-2564
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation
+modeling in practice: A review and recommended two-step
+approach. Psychological Bulletin, 103(3), 411–423. https://
+doi.org/10.1037/0033-2909.103.3.411
+Aznar-Sánchez, J. A., Velasco-Muñoz, J. F., Belmonte-Ureña, L.
+J., & Manzano-Agugliaro, F. (2019). The worldwide research
+trends on water ecosystem services. Ecological Indicators,
+99, 310–323. https://doi.org/10.1016/j.ecolind.2018.12.045
+Bendixen, M., Bukasa, K. A., & Abratt, R. (2004). Brand equity
+in the business-to-business market. Industrial Marketing
+Management, 33(5), 371–380. https://doi.org/10.1016/J.
+INDMARMAN.2003.10.001
+Berry, L. L. (2000). Cultivating service brand equity. Journal of
+the Academy of Marketing Science, 28(1), 128–137. https://
+doi.org/10.1177/0092070300281012
+Bianchi, C., Pike, S., & Lings, I. (2014). Investigating attitudes
+towards three South American destinations in an emerging
+long haul market using a model of consumer-based brand
+equity (CBBE). Tourism Management, 42, 215–223. https://
+doi.org/10.1016/j.tourman.2013.11.014
+Biedenbach, G., & Marell, A. (2010). The impact of customer
+experience on brand equity in a business-to-business services
+setting. Journal of Brand Management, 17(6), 446–458.
+https://doi.org/10.1057/BM.2009.37
+Blackston, M. (2000). Observations: Building brand equity by
+managing the brand’s relationships. Journal of Advertising
+Research, 40(6), 101–105. https://doi.org/10.2501/JAR40-6-101-105
+Boo, S., Busser, J., & Baloglu, S. (2009). A model of customer-based brand equity and its application to multiple
+destinations. Tourism Management, 30(2), 219–231. https://
+doi.org/10.1016/j.tourman.2008.06.003
+Bornmann, L., Mutz, R., Neuhaus, C., & Daniel, H. D. (2008).
+Citation counts for research evaluation: Standards of good
+practice for analyzing bibliometric data and presenting and
+
+175
+interpreting results. Ethics in Science and Environmental
+Politics, 8(1), 93–102. https://doi.org/10.3354/ESEP00084
+Borrett, S. R., Sheble, L., Moody, J., & Anway, E. C. (2018).
+Bibliometric review of ecological network analysis:
+2010–2016. Ecological Modelling, 382, 63–82. https://doi.
+org/10.1016/j.ecolmodel.2018.04.020
+Buil, I., de Chernatony, L., & Martínez, E. (2013). Examining the
+role of advertising and sales promotions in brand equity creation. Journal of Business Research, 66(1), 115–122. https://
+doi.org/10.1016/j.jbusres.2011.07.030
+Buil, I., Martínez, E., & de Chernatony, L. (2013). The influence of brand equity on consumer responses. Journal of
+Consumer Marketing, 30(1), 62–74. https://doi.org/10.1108/
+07363761311290849
+Chang, H. H., & Liu, Y. M. (2009). The impact of brand equity
+on brand preference and purchase intentions in the service
+industries. Service Industries Journal, 29(12), 1687–1706.
+https://doi.org/10.1080/02642060902793557
+Chatzipanagiotou, K., Veloutsou, C., & Christodoulides, G.
+(2016). Decoding the complexity of the consumer-based
+brand equity process. Journal of Business Research, 69(11),
+5479–5486. https://doi.org/10.1016/j.jbusres.2016.04.159
+Christodoulides, G., Cadogan, J. W., & Veloutsou, C. (2015).
+Consumer-based brand equity measurement: Lessons
+learned from an international study. International Marketing
+Review, 32(3–4), 307–328. https://doi.org/10.1108/IMR-102013-0242
+Christodoulides, G., De Chernatony, L., Furrer, O., Shiu, E., &
+Abimbola, T. (2006). Conceptualising and measuring the
+equity of online brands. Journal of Marketing Management, 22
+(7–8), 799–825. https://doi.org/10.1362/026725706778612149
+Cobb-Walgren, C. J., Ruble, C. A., & Donthu, N. (1995). Brand
+equity, brand preference, and purchase intent. Journal of
+Advertising, 24(3), 25–40. https://doi.org/10.1080/00913367.
+1995.10673481
+Cuneo, A., Lopez, P., & Yagüe, M. J. (2012). Measuring
+private labels brand equity: A consumer perspective.
+European Journal of Marketing, 46(7), 952–964. https://doi.
+org/10.1108/03090561211230124/FULL/PDF
+Davcik, N. S., da Silva, R. V., & Hair, J. F. (2015). Towards
+a unified theory of brand equity: Conceptualizations, taxonomy and avenues for future research. Journal of Product and
+Brand Management, 24(1), 3–17. https://doi.org/10.1108/
+JPBM-06-2014-0639
+Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., & Lim, W. M.
+(2021). How to conduct a bibliometric analysis: An overview
+and guidelines. Journal of Business Research, 133(May),
+285–296. https://doi.org/10.1016/j.jbusres.2021.04.070
+Donthu, N., Kumar, S., & Pattnaik, D. (2020). Forty-five years
+of Journal of Business Research: A bibliometric analysis.
+Journal of Business Research, 109(October 2019), 1–14.
+https://doi.org/10.1016/j.jbusres.2019.10.039
+Egghe, L., & Rousseau, R. (2019). Infinite sequences and their
+h-type indices. Journal of Informetrics, 13(1), 291–298.
+https://doi.org/10.1016/J.JOI.2019.01.005
+Emari, H., Jafari, A., & Mogaddam, M. (2012). The mediatory
+impact of brand loyalty and brand image on brand equity.
+Undefined, 6(17). https://doi.org/10.5897/AJBM11.788
+Erdem, T., & Swait, J. (1998). Brand equity as a signaling phenomenon. Journal of Consumer Psychology, 7(2), 131–157.
+https://doi.org/10.1207/s15327663jcp0702_02
+
+176
+Farquhar, P. H. (1988). Managing brand equity. Journal of
+Advertising Research, 30(4), RC-7-RC12.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement
+error. Journal of Marketing Research, 18(1), 39–50. https://
+doi.org/10.1177/002224378101800104
+Gabbott, M., & Jevons, C. (2009). Brand community in search
+of theory: An endless spiral of ambiguity. Marketing Theory,
+9(1), 119–122. https://doi.org/10.1177/1470593108100066
+Gill, M. S., & Dawra, J. (2010). Evaluating Aaker’s sources of
+brand equity and the mediating role of brand image. Journal
+of Targeting, Measurement and Analysis for Marketing,
+18(3–4), 189–198. https://doi.org/10.1057/jt.2010.11
+Goel, P., Garg, A., Walia, N., Kaur, R., Jain, M., & Singh, S.
+(2022). Contagious diseases and tourism: A systematic review
+based on bibliometric and content analysis methods. Quality
+& Quantity, 56(5), 3085–3110. https://doi.org/10.1007/
+s11135-021-01270-z
+Hanaysha, J. (2016). Testing the effect of service quality on
+brand equity of automotive industry: Empirical insights
+from Malaysia. Global Business Review, 17(5), 1060–1072.
+https://doi.org/10.1177/0972150916656656
+Hirsch, J. E., & Buela-Casal, G. (2014). The meaning of the h-index.
+International Journal of Clinical and Health Psychology,
+14(2), 161–164. https://doi.org/10.1016/S1697-2600(14)
+70050-X
+Im, H. H., Kim, S. S., Elliot, S., & Han, H. (2012). Conceptualizing
+destination brand equity dimensions from a consumer-based
+brand equity perspective. Journal of Travel and Tourism
+Marketing, 29(4), 385–403. https://doi.org/10.1080/105484
+08.2012.674884
+Kayaman, R., & Arasli, H. (2007). Customer based brand equity:
+Evidence from the hotel industry. Managing Service Quality,
+17(1), 92–109. https://doi.org/10.1108/09604520710720692
+Keller, K. L. (1993). Conceptualizing, measuring, and managing
+customer-based brand equity. Journal of Marketing, 57(1).
+Keller, K. L. (2003). Understanding brands, branding and
+brand equity. Interactive Marketing, 5(1), 7–20. https://doi.
+org/10.1057/palgrave.im.4340213
+Khatib, S. F. A., Abdullah, D. F., Elamer, A., Yahaya, I. S., &
+Owusu, A. (2021). Global trends in board diversity research:
+A bibliometric view. Meditari Accountancy Research. https://
+doi.org/10.1108/MEDAR-02-2021-1194
+Kim, A. J., & Ko, E. (2012). Do social media marketing activities
+enhance customer equity? An empirical study of luxury fashion brand. Journal of Business Research, 65(10), 1480–1486.
+https://doi.org/10.1016/j.jbusres.2011.10.014
+Kim, H., & Kim, W. G. (2005). The relationship between brand
+equity and firms’ performance in luxury hotels and chain restaurants. Tourism Management, 26(4), 549–560. https://doi.
+org/10.1016/j.tourman.2004.03.010
+Kim, W. G., Jin-Sun, B., & Kim, H. J. (2008). Multidimensional
+customer-based brand equity and its consequences in midpriced hotels. Journal of Hospitality and Tourism Research,
+32(2), 235–254. https://doi.org/10.1177/1096348007313265
+Kimpakorn, N., & Tocquer, G. (2010). Service brand equity and
+employee brand commitment. Journal of Services Marketing,
+24(5), 378–388. https://doi.org/10.1108/08876041011060486
+Konecnik, M., & Gartner, W. C. (2007). Customer-based brand
+equity for a destination. Annals of Tourism Research, 34(2),
+400–421. https://doi.org/10.1016/j.annals.2006.10.005
+
+NMIMS Management Review 31(3)
+Koseoglu, M. A., Rahimi, R., Okumus, F., & Liu, J. (2016).
+Bibliometric studies in tourism. Annals of Tourism Research,
+61, 180–198. https://doi.org/10.1016/j.annals.2016.10.006
+Köseoglu, M. A., Sehitoglu, Y., & Craft, J. (2015). Academic
+foundations of hospitality management research with an
+emerging country focus: A citation and co-citation analysis. International Journal of Hospitality Management, 45,
+130–144. https://doi.org/10.1016/j.ijhm.2014.12.004
+Krishnan, H. S. (1996). Characteristics of memory associations:
+A consumer-based brand equity perspective. International
+Journal of Research in Marketing, 13(4), 389–405. https://
+doi.org/10.1016/S0167-8116(96)00021-3
+Lara-Rodríguez, J. S., Rojas-Contreras, C., & Duque Oliva, E.
+J. (2019). Discovering emerging research topics for brand
+personality: A bibliometric analysis. Australasian Marketing
+Journal, 27(4), 261–272. https://doi.org/10.1016/j.ausmj.
+2019.06.002
+Lassar, W., Mittal, B., & Sharma, A. (1995). Measuring customer-based brand equity. Journal of Consumer Marketing,
+12(4), 11–19. https://doi.org/10.1108/07363769510095270
+Lim, J. S., Pham, P., & Heinrichs, J. H. (2020). Impact of
+social media activity outcomes on brand equity. Journal of
+Product and Brand Management, 29(7), 927–937. https://doi.
+org/10.1108/JPBM-03-2019-2298/FULL/PDF
+Louis, D., & Lombart, C. (2010). Impact of brand personality on
+three major relational consequences (trust, attachment, and
+commitment to the brand). Journal of Product and Brand
+Management, 19(2), 114–130. https://doi.org/10.1108/
+10610421011033467/FULL/PDF
+Ma, W., Schraven, D., de Bruijne, M., de Jong, M., & Lu, H.
+(2019). Tracing the origins of place branding research: A bibliometric study of concepts in use (1980–2018). Sustainability,
+11(11), 2999. https://doi.org/10.3390/su11112999
+Michell, P., King, J., & Reast, J. (2001). Brand values related
+to industrial products. Industrial Marketing Management,
+30(5), 415–425.
+Mohd, N. Y., Nasser, M. N., & Mohamad, O. (2007). Does
+image of country-of-origin matter to brand equity? Journal
+of Product and Brand Management, 16(1), 38–48. https://doi.
+org/10.1108/10610420710731142
+Morgan, R. P. (1999). A consumer-orientated framework of brand
+equity and loyalty. International Journal of Market Research,
+42(1), 65–78. https://doi.org/10.1177/147078530004200105
+Mugomeri, E., Bekele, B. S., Mafaesa, M., Maibvise, C.,
+Tarirai, C., & Aiyuk, S. E. (2017). A 30-year bibliometric
+analysis of research coverage on HIV and AIDS in Lesotho.
+Health Research Policy and Systems, 15(1), 1–9. https://doi.
+org/10.1186/S12961-017-0183-Y/FIGURES/5
+Nam, J., Ekinci, Y., & Whyatt, G. (2011). Brand equity, brand loyalty and consumer satisfaction. Annals of Tourism Research,
+38(3), 1009–1030. https://doi.org/10.1016/j.annals.2011.
+01.015
+Netemeyer, R. G., Krishnan, B., Pullig, C., Wang, G., Yagci,
+M., Dean, D., Ricks, J., & Wirth, F. (2004). Developing and
+validating measures of facets of customer-based brand equity.
+Journal of Business Research, 57(2), 209–224. https://doi.
+org/10.1016/S0148-2963(01)00303-4
+Pappu, R., Cooksey, R. W., & Quester, P. G. (2005). Consumerbased brand equity: Improving the measurement – empirical
+evidence. Journal of Product & Brand Management, 14(3),
+143–154. https://doi.org/10.1108/10610420510601012
+
+Mikul and Mittal
+Park, C. S., & Srinivasan, V. (1994). A survey-based method for
+measuring and understanding brand equity and its extendibility. Journal of Marketing Research, 31(2), 271. https://doi.
+org/10.2307/3152199
+Park, C. W., Macinnis, D. J., Priester, J., Eisingerich, A. B., &
+Iacobucci, D. (2010). Brand attachment and brand attitude
+strength: Conceptual and empirical differentiation of two critical brand equity drivers. Journal of Marketing, 74(6), 1–17.
+https://doi.org/10.1509/jmkg.74.6.1
+Paul, J., Lim, W. M., O’Cass, A., Hao, A. W., & Bresciani, S.
+(2021). Scientific procedures and rationales for systematic
+literature reviews (SPAR-4-SLR). International Journal of
+Consumer Studies, 45(4). https://doi.org/10.1111/ijcs.12695
+Pike, S., Bianchi, C., Kerr, G., & Patti, C. (2010). Consumer-based
+brand equity for Australia as a long-haul tourism destination
+in an emerging market. International Marketing Review, 27
+(4), 434–449. https://doi.org/10.1108/02651331011058590/
+FULL/HTML
+Pinar, M., Girard, T., & Basfirinci, C. (2020). Examining the
+relationship between brand equity dimensions and university
+brand equity: An empirical study in Turkey. International
+Journal of Educational Management, 34(7), 1119–1141.
+https://doi.org/10.1108/IJEM-08-2019-0313/FULL/PDF
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff, N.
+P. (2003). Common method biases in behavioral research: A
+critical review of the literature and recommended remedies.
+Journal of Applied Psychology, 88(5), 879–903. https://doi.
+org/10.1037/0021-9010.88.5.879
+Prasad, K., & Dev, C. S. (2000). Managing hotel brand equity.
+Cornell Hotel and Restaurant Administration Quarterly,
+41(3), 22–31. https://doi.org/10.1177/001088040004100314
+Punj, G. N., & Hillyer, C. L. (2004). A cognitive model of customer-based brand equity for frequently purchased products: Conceptual framework and empirical results. Journal
+of Consumer Psychology, 14(1–2), 124–131. https://doi.
+org/10.1207/s15327663jcp1401&amp;2_14
+Radler, V. M. (2018). 20 years of brand personality: A bibliometric
+review and research agenda. Journal of Brand Management,
+25(4), 370–383. https://doi.org/10.1057/s41262-017-0083-z
+Ramya, J. B., & Alur, S. (2023). Unleashing the potential of chatbots in business: A bibliometric analysis. Business Information
+Review. https://doi.org/10.1177/02663821231189344
+Rios, R. E., & Riquelme, H. E. (2010). Sources of brand equity
+for online companies. Journal of Research in Interactive
+Marketing, 4(3), 214–240. https://doi.org/10.1108/175059
+31011070587
+Rojas-Lamorena, Á. J., Del Barrio-García, S., & Alcántara-Pilar,
+J. M. (2022). A review of three decades of academic research
+
+177
+on brand equity: A bibliometric approach using co-word
+analysis and bibliographic coupling. Journal of Business
+Research, 139, 1067–1083. https://doi.org/10.1016/j.jbusres.
+2021.10.025
+Simon, C. J., & Sullivan, M. W. (1993). The measurement
+and determinants of brand equity: A financial approach.
+Marketing Science, 12(1), 28–52. https://doi.org/10.1287/
+MKSC.12.1.28
+Small, H. (1973). Co-citation in the scientific literature: A new
+measure of the relationship between two documents. Journal
+of the American Society for Information Science, 24(4),
+265–269. https://doi.org/10.1002/ASI.4630240406
+Small, H. (1999). Visualizing science by citation mapping.
+Journal of the American Society for Information Science,
+50(9), 799–813. https://doi.org/10.1002/(SICI)1097-4571
+(1999)50:9<799::AID-ASI9>3.0.CO;2-G
+Tasci, A. D. A. (2021). A critical review and reconstruction of perceptual brand equity. International Journal of Contemporary
+Hospitality Management, 33(1), 166–198. Emerald Group
+Holdings Ltd. https://doi.org/10.1108/IJCHM-03-2020-0186
+Veloutsou, C., Christodoulides, G., & de Chernatony, L. (2013).
+A taxonomy of measures for consumer-based brand equity:
+Drawing on the views of managers in Europe. Journal of
+Product and Brand Management, 22(3), 238–248. https://doi.
+org/10.1108/JPBM-02-2013-0256
+Washburn, J. H., Till, B. D., & Priluck, R. (2004). Brand alliance and customer-based brand-equity effects. Psychology
+& Marketing, 21(7), 487–508. https://doi.org/10.1002/MAR.
+20016
+Yoo, B., & Donthu, N. (2001). Developing and validating a multidimensional consumer-based brand equity scale. Journal
+of Business Research, 52(1), 1–14. https://doi.org/10.1016/
+S0148-2963(99)00098-3
+Yoo, B., Donthu, N., & Lee, S. (2000). An examination of
+selected marketing mix elements and brand equity. Journal of
+the Academy of Marketing Science, 28(2), 195–211. https://
+doi.org/10.1177/0092070300282002
+Zha, D., Melewar, T. C., Foroudi, P., & Jin, Z. (2020). An assessment of brand experience knowledge literature: Using bibliometric data to identify future research direction. International
+Journal of Management Reviews, 22(3), 287–317. https://doi.
+org/10.1111/IJMR.12226
+Zupic, I., & Čater, T. (2015). Bibliometric methods in management and organization. Organizational Research Methods,
+18(3), 429–472. https://doi.org/10.1177/1094428114562629
+
+

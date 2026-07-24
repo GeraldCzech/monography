@@ -1,0 +1,1344 @@
+EUROPEAN SOCIETIES
+2026, VOL. 28, NO. 1, 254–281
+https://doi.org/10.1162/euso.a.22
+
+How perceived income inequality affects charitable
+giving and volunteering: assessing four mechanisms
+Michaela Neumayr
+
+a
+
+and Joris Melchior Schröder
+
+b,c
+
+a
+
+Institute for Nonprofit Management, Vienna University of Economics and
+Business, Vienna, Austria; b Department of Sociology, Vrije Universiteit Amsterdam,
+Amsterdam, The Netherlands; c Department of Donor Medicine Research, Sanquin
+Research, Amsterdam, The Netherlands
+CONTACT Michaela Neumayr (michaela.neumayr@wu.ac.at), Institute for Nonprofit
+Management, Vienna University of Economics and Business, Welthandelsplatz
+1/D2, 1020 Vienna, Austria
+ABSTRACT
+Public concerns about economic inequality are large and growing, and they have
+been shown to affect people’s charitable giving and volunteering. While empirical
+literature addresses this issue, it provides little evidence on the underlying mechanisms linking inequality and civic engagement. Scholars from different disciplines
+have proposed numerous hypotheses about these mechanisms, with the social disintegration, conflict, relative power, and unmet needs hypotheses among the most
+frequently suggested. In this study, we apply mediation analysis to survey data from
+Austria and Germany (N = 1,691) to assess which of these mechanisms help explain the relationship. Our results support the social disintegration and unmet needs
+hypotheses: individuals who completely agree that income inequality is too high
+are slightly less likely to give to charity (volunteer) due to the indirect relationship
+through generalised social trust and substantially more likely to give to charity (volunteer) due to the indirect relationship through impure altruism compared to those
+who completely disagree that income inequality is too high. These findings imply
+that multiple mechanisms work in opposing directions. Our study provides an important step in theory development in this field and serves as a basis for future
+experimental studies.
+KEYWORDS Perceived income inequality; charitable giving; volunteering; social disintegration hypothesis; unmet needs hypothesis; conflict hypothesis; relative power hypothesis
+
+ARTICLE HISTORY Received 23 January 2024; Accepted 13 October 2024
+Edited by Jan Mewes
+© 2025 European Sociological Association. Published under a Creative Commons Attribution-NonCommercial 4.0
+International (CC BY-NC 4.0) license.
+This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0
+International (CC BY-NC 4.0) license, which permits unrestricted use, distribution, and reproduction in any medium, provided
+the use is non-commercial and the original work is properly cited. For a full description of the license, please visit
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+255
+
+1. Introduction
+The question ‘Does inequality matter?’ (OECD, 2021, p. 1) can be unambiguously answered with ‘yes’ when it comes to public concerns: across 32 OECD
+countries, an average of 80% of the population agree that income differences in
+their country are too large (OECD, 2021). In public perception and historical
+sources, donating money and volunteering for charity are often seen as a potential remedy to the problem of growing inequality (Duquette, 2018; Mohan and
+Breeze, 2016). The data, however, rarely support this narrative. Two recent reviews of the evidence on that issue show, on average, a small negative relationship
+between economic inequality and civic engagement in the forms of giving and
+volunteering (Schröder and Neumayr, 2023; Yang and Konrath, 2023). While
+there is a lot of heterogeneity across studies, people seem to generally decrease
+their level of civic engagement when inequality increases. A clear limitation of
+our current understanding pointed out by these two reviews, however, is the lack
+of knowledge about the potential underlying mechanisms linking inequality to
+individuals’ civic engagement. Across different disciplines, numerous hypotheses have been put forward to explain the relationship (Alesina and La Ferrara,
+2000; Duquette, 2018; Lancee and Van de Werfhorst, 2012; Payne and Smith,
+2015; Rotolo and Wilson, 2014). To improve our understanding of why inequality affects civic engagement, we set out to test these explanations.
+The purpose of this study is to empirically examine competing but also complementary hypotheses explaining the relationship between economic inequality and civic engagement and therefore identify how (through which channels)
+economic inequality is linked to charitable giving and volunteering. Many of
+the explanations proposed in the literature suggest that civic engagement is affected by inequality because individuals’ perceptions of inequality affect their
+attitudes and values, such as their trust in others, which in turn affect their civic
+engagement. However, recent literature has shown that there is sometimes little overlap between actual and perceived economic inequality (Gimpelson and
+Treisman, 2018; Hauser and Norton, 2017; Kenworthy and McCall, 2008; Mijs,
+2018). Peoples’ beliefs about inequality are not simply (potentially inaccurate)
+reflections of actual societal inequalities; they are individually and socially constructed, based on experiences and information obtained throughout socialisation, including within the family, schools, and the labour market (Mijs, 2018).
+For many of the proposed mechanisms, it is individuals’ perceptions of inequality
+that are thought to be crucial for behavioural consequences. We therefore formulate the corresponding research question: What underlying mechanisms explain the relationship between perceived income inequality and individual giving
+and volunteering? Our empirical analysis is based on survey data on monetary
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+256
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+donations to nonprofit organisations and formal volunteering by individuals in
+Austria and Germany (n = 1,691). The data include information on individuals’
+perceptions of income inequality in the respective countries and individual values that are assumed to be affected by perceived income inequality (generalised
+social trust, perceived injustice, perceived powerlessness, and impure altruism).
+On average, empirical studies show a similarly sized negative association with
+economic inequality for both charitable giving and volunteering (Yang and Konrath, 2023), and underlying mechanisms have been proposed to work similarly
+for both forms of civic engagement (Schröder and Neumayr, 2023). However, individual studies have found diverging results (e.g., Okten and Osili, 2004; Payne
+and Smith, 2015; Uslaner and Brown, 2005), and conceptually, charitable giving
+and volunteering are clearly distinct behaviours ( Jones, 2006; Lee et al., 1999).
+While our hypotheses about the mechanisms are therefore almost always the
+same, we analyse the link between inequality and giving and volunteering separately. In addition, we examine how perceptions of income inequality are related
+to giving and volunteering for different fields of nonprofit activity, as engagement
+in fields that pursue more redistributive goals, such as social services, may have a
+different relationship with inequality than, for example, engagement in arts and
+culture.
+The main contribution of this study is the joint and systematic test of several competing and complementary hypotheses about the effect of economic
+inequality on civic engagement. By bringing together hypotheses from different schools of thought, our interdisciplinary approach can provide an important
+piece of the puzzle in understanding how the often observed (positive or negative) relationship between economic inequality and civic engagement might
+come about. In addition, by eliciting participants’ perceived income inequality,
+we go beyond the crucial but not necessarily realistic assumption implicit in most
+research of a tight link between actual and perceived economic inequality.
+2. Theory and hypotheses
+Explanations of how economic inequality affects people’s civic engagement are
+manifold and come from a variety of disciplines, including economics, political science, psychology, and sociology. In two recent studies, these explanations have been reviewed and distilled down to their main theoretical arguments
+(Schröder and Neumayr, 2023; Yang and Konrath, 2023).
+In principle, economic inequality may affect civic engagement through both
+its material consequences and its effects on perceptions of inequality. On the
+one hand, inequality may leave some individuals with less monetary resources
+or social capital (e.g., associational membership, social network density) that are
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+257
+
+necessary for civic engagement (Lancee and Van de Werfhorst, 2012; Putnam,
+2000; Schröder and Neumayr, 2023). On the other hand, economic inequality may shape perceptions and subjective evaluations of the level of inequality,
+which in turn determine the attitudes and values that influence civic engagement (e.g., generalised social trust). But how are these perceptions formed, and
+how do they relate to actual levels of inequality? Actual levels of inequality may
+translate into perceptions of income inequality through the media and personal
+observations of the social environment (Gugushvili et al., 2020; Hauser and
+Norton, 2017). However, personal observations are often biased by homophilous interactions and heterogeneous reference groups (Knell and Stix,
+2021). In addition, individuals’ perceptions and evaluation of income inequality depend on the extent to which they perceive it as legitimate or unfair (Du
+and King, 2022; Mijs, 2019). Because of these ways in which economic inequality is perceived and rationalised, the level of inequality and concerns about it do
+not necessarily coincide (Gimpelson and Treisman, 2018; Hauser and Norton,
+2017; Kenworthy and McCall, 2008; Mijs, 2018). For example, in both Austria and Germany, the countries under study in this paper, most people agree
+or strongly agree that income differences are too large, while actual inequality
+is relatively average in international comparison (OECD, 2021), although it has
+increased in recent decades in Germany (Hoffmann et al., 2020).
+In this paper, we aim to test four of the theoretical explanations for why perceptions of economic inequality might affect civic engagement. Next, we describe the specific mechanisms underlying each of the four hypotheses in more
+detail.
+2.1. Social disintegration hypothesis
+
+The social disintegration hypothesis is the most often cited explanation in the
+literature and suggests that economic inequality leads to a decline in civic engagement in a society. Based on sociological theories of social integration and
+social structure (Blau, 1960; Tomeh, 1969), it argues that the unequal distribution of resources leads to status differences among people and increases social distance, social disorganisation, and segregation among them (Buttrick and
+Oishi, 2017; Collins and Guidry, 2018; McVeigh, 2006). Such inequalities in
+turn undermine the social integration of a community and reduce social cohesion among its members. Social disorganisation on the societal level translates
+to reduced generalised social trust (GST, hereafter also referred to as “trust”) on
+the individual level, as trust is more likely to develop between people who can
+identify with each other and therefore likely lower in more heterogeneous groups
+(e.g., Alesina and La Ferrara, 2000; Uslaner and Brown, 2005). Lower GST on
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+258
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+the individual level, in turn, leads to lower levels of civic engagement (Chapman
+et al., 2021).
+Therefore, we derive the following two hypotheses for our study:
+• H1-C (charitable giving): There is a negative indirect relationship between perceived inequality and the incidence of charitable giving that is mediated by the
+lack of generalised social trust of individuals.
+• H1-V (volunteering): There is a negative indirect relationship between perceived inequality and the incidence of volunteering that is mediated by the lack
+of generalised social trust of individuals.
+2.2. Relative power hypothesis
+
+According to the relative power hypothesis, the link between economic inequality and civic engagement is because an unequal distribution of resources leads
+to an unequal distribution of power between people. It postulates that inequality in resources also gives wealthier people more power, which they use to influence political and civic affairs in their favour. In this way, they can also prevent
+issues relevant to less affluent people from becoming part of the public debate
+(Collins and Guidry, 2018; Filetti and Janmaat, 2018; Solt, 2008; Uslaner and
+Brown, 2005). This makes it very difficult for less affluent people to make their
+voices heard. Their confidence in the law and political institutions diminishes,
+and they feel that they are at the mercy of others and no longer have control over
+many things in their lives, increasing their sense of powerlessness (Uslaner and
+Brown, 2005). Finally, they realise that the political system is incapable of defending their interest and decide to abandon their civic engagement (Filetti and
+Janmaat, 2018), so ‘as not to waste their time and energy on an unfair system’
+(Godfrey and Cherng, 2016, p. 2221). The relative power hypothesis thus postulates a negative effect of inequality on civic engagement, mediated by individuals’
+level of perceived powerlessness. Our hypotheses therefore are
+• H2-C (charitable giving): There is a negative indirect relationship between perceived inequality and the incidence of charitable giving that is mediated by the
+perceived powerlessness of individuals.
+• H2-V (volunteering): There is a negative indirect relationship between perceived inequality and the incidence of volunteering that is mediated by the perceived powerlessness of individuals.
+2.3. Conflict hypothesis
+
+The conflict hypothesis assumes that economic inequality leads to an increase
+in civic engagement because inequality gives rise to class conflicts and a sense of
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+259
+
+injustice among the population (Fieldhouse and Cutts, 2010; Gurr, 1970;
+Karakoc, 2013; McVeigh, 2006; Meltzer and Richard, 1981; Oliver, 1999). As
+economic inequality increases, affluent and less affluent citizens develop different policy preferences in many respects, such as toward redistributive measures.
+While these become more expensive for the wealthy, they become more attractive to the have-nots, placing these groups in distributional conflict (McVeigh,
+2006; Solt, 2008). Such an increase in divergent policy preferences creates a
+sense of injustice among the population and, in particular, encourages the havenots to organise (e.g., in a nonprofit) in opposition of policies that favour the
+wealthy with the aim of bringing about social change (Duncan, 2010; Karakoc,
+2013; Solt, 2008). At the same time, it encourages the wealthy to express their
+opposition, such as to redistributive measures. Thus, the conflict hypothesis
+proposes that a rise in economic inequality specifically promotes activist forms
+of engagement that ‘draw together individuals with common interests and
+place them in confrontation with the state or with other opponents in society’
+(McVeigh, 2006, p. 515). We therefore propose two effects: first, that higher levels of inequality have a positive indirect effect on civic engagement through individuals’ perceived injustice, and second, that people get particularly committed
+to causes that aim to bring about social change, which we label “activist causes.”
+• H3-C (charitable giving): There is a positive indirect relationship between perceived inequality and the incidence of charitable giving that is mediated by the
+perceived injustice of individuals.
+• H3-V (volunteering): There is a positive indirect relationship between perceived
+inequality and the incidence of volunteering that is mediated by the perceived
+injustice of individuals.
+• H3a-C (charitable giving): The higher the perceived income inequality, the
+higher the incidence of charitable giving for activist causes.
+• H3a-V (volunteering): The higher the perceived income inequality, the higher
+the incidence of volunteering for activist causes.
+2.4. Unmet needs hypothesis
+
+The unmet needs hypothesis1 is rooted in economic thinking and postulates a
+positive correlation between inequality and civic engagement that is explained
+by the impure altruism of individuals (Andreoni, 1990; Batson and Shaw, 1991;
+Duquette and Hargaden, 2021; Mastromatteo and Russo, 2017; Schröder and
+Neumayr, 2023). It argues that an increase in inequality tends to make unmet
+1 This is discussed as the inequality aversion hypothesis in Schröder and Neumayr (2023)
+
+and Yang and Konrath (2023).
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+260
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+needs in society more pronounced and visible, as resources are concentrated
+among a privileged few to the detriment of the broader population (Yang and
+Konrath, 2023). As rising perceived inequality increases the perceived number
+of people in need and the demand for public goods, it may activate individuals’
+impurely altruistic motivation (Batson and Shaw, 1991). The concept of impure
+altruism consists of two components. First, it is defined as the selfless concern for
+the well-being of others, which makes people engage because they derive benefits
+from contributing to the well-being of the recipient or, more generally, the public
+good. Second, the ‘warm glow’ makes people engage because of their own wellbeing, as they earn a ‘joy of giving’ utility from the act of helping itself (Andreoni,
+1990; Mastromatteo and Russo, 2017). Since impure altruism is among the main
+mechanisms driving civic engagement (Bekkers and Wiepking, 2011a), higher
+perceptions of inequality that activate impure altruism are suggested to increase
+levels of engagement. While this mechanism has been primarily used to explain
+an effect of economic inequality on charitable giving, it has also been applied to
+volunteering (Okten and Osili, 2004). We therefore hypothesise
+• H4-C (charitable giving): There is a positive indirect relationship between perceived inequality and the incidence of charitable giving that is mediated by the
+impure altruism of individuals.
+• H4-V (volunteering): There is a positive indirect relationship between perceived
+inequality and the incidence of volunteering that is mediated by the impure altruism of individuals.
+For both charitable giving and volunteering, the unmet needs hypothesis would
+predict that higher levels of inequality lead people to most strongly support
+nonprofit organisations that serve redistributive purposes, such as social services (Duquette, 2018; Nair, 2018; Yang, 2022). Therefore, we formulate further,
+more specific hypotheses:
+• H4a-C (charitable giving): The higher the perceived income inequality, the
+higher the incidence of charitable giving for redistributive causes.
+• H4a-V (volunteering): The higher the perceived income inequality, the higher
+the incidence of volunteering for redistributive causes.
+• H4b-C (charitable giving): There is a positive indirect relationship between perceived inequality and the incidence of charitable giving for redistributive causes
+that is mediated by the impure altruism of individuals.
+• H4b-V (volunteering): There is a positive indirect relationship between perceived inequality and the incidence of volunteering for redistributive causes that
+is mediated by the impure altruism of individuals.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+261
+
+Figure 1. Conceptual model of the mechanisms between perceived income inequality
+and giving and volunteering.
+
+Figure 1 summarises the hypothesised mechanisms between perceived income
+inequality and giving and volunteering. Hypotheses related to specific causes
+(H3a, H4a, H4b) are not shown.
+Of the four mechanisms hypothesised to translate inequality into civic engagement, it is unlikely that only one will operate. Rather, they are likely to operate simultaneously, which can cause their effects to cancel out, mitigate, or
+amplify each other. To our knowledge, these mechanisms have never been studied together, which means that no theoretical basis exists for saying whether
+the overall relationship between perceptions of income inequality and civic engagement is positive or negative. Our final hypothesis about the total effect of
+perceived income inequality on civic engagement is therefore based on empirical results. As noted, study results have a large heterogeneity, observing positive, negative, and no associations. In aggregate, the relationship between income
+inequality and the incidence and amount of charitable giving and volunteering
+is weakly negative (Schröder and Neumayr, 2023; Yang and Konrath, 2023).
+Therefore, our last set of hypotheses reads
+• H5 (charitable giving): The higher the perceived income inequality, the lower
+the incidence of charitable giving.
+• H5 (volunteering): The higher the perceived income inequality, the lower the
+incidence of volunteering.
+3. Data and methods
+For our analysis, we use survey data including information on charitable giving
+and volunteering behaviour of 2,000 individuals located in Austria (n = 1,000)
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+262
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+and Germany (n = 1,000) (Institute for Nonprofit Management, WU, 2024).
+Data were collected via computer-assisted web interviews conducted by a market research company, and participants were first recruited randomly and then
+according to quotas from a web panel. The sample represents the resident population aged 18 and older in both countries in terms of gender, age, education,
+occupation, region, and number of inhabitants of place of residence but may not
+be representative of the country’s population in terms of other characteristics
+(e.g., higher affinity of participants for the internet). The survey was conducted
+in 2021, between September 29 and October 12 (Austria) and October 1 and
+October 15 (Germany), and includes information on individuals’ charitable giving to and volunteering with organisations in 2019, on individual psychological
+preferences, values, and sociodemographic characteristics.2 All participants provided informed consent. The response rates measured by the number of online
+invitations sent out to participate in the survey is 28% for Austria and 20% for
+Germany. Our analysis bases on 1,691 observations after the exclusion of cases
+with missing data on independent variables.
+We preregistered our hypotheses, variable operationalisation, and analysis
+plan through the Open Science Framework.3
+3.1. Dependent variables
+
+Our two main dependent variables to test our hypotheses are the self-reported
+incidence of charitable giving to an organisation and incidence of volunteering. Both
+variables are dichotomous, taking the value 1 if individuals indicate that they
+gave to/volunteered in an organisation in 2019 and 0 otherwise. They are based
+on the following survey question: ‘Try to remember the time before Corona
+erupted, the still “normal” year 2019. Please tick which of the following activities
+you did in 2019.’ We use the responses for giving and volunteering in 2019 to capture pre-pandemic behaviour that was not affected by disruptions caused by the
+virus and policy responses. Individuals could select multiple options among five
+types of civic engagement, including ‘Did volunteer work’ and ‘Donated money
+to a charity’. As can be seen from Table 1, 29% of respondents report that they
+donated money to an organisation, and 16% volunteered in 2019.
+Two additional dependent variables refer to the incidence of charitable giving
+and volunteering for specific causes. To obtain this variable, survey participants
+who indicated that they donated (volunteered) were asked whether they engaged
+2 The overall purpose of the questionnaire was to capture individual formal and informal civic
+
+engagement before the outbreak of the COVID-19 pandemic in Austria and Germany in 2019,
+right after the outbreak of the pandemic in 2020, and in 2021.
+3 See https://osf.io/t7rvb.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+263
+
+Table 1. Descriptive statistics.
+
+Dependent Variables
+Have donated money in 2019
+Have volunteered in 2019
+Incidence donating money for
+activist causes
+Incidence donating money for
+redistributive causes
+Incidence volunteering for
+activist causes
+Incidence volunteering for
+redistributive causes
+Independent Variables
+Perceived inequality at country
+level
+Level of generalised social
+trust
+Perceived injustice
+Altruistic values
+Warm glow
+Impure altruism
+Perceived powerlessness
+Inequality aversion
+Control Variables
+Age of respondent in years
+Gender—dummy for being male
+Gender—dummy for being
+diverse
+Have children below 12 living in
+same household
+Level of education
+Income in Euro
+Income in categories
+Being born in the EU but
+outside of AT and DE
+Being born outside of the EU
+Being employed
+Living in a city with more than
+50,000 inhabitants
+Filter for Sample Germany
+
+N
+
+Miss
+
+Mean
+
+SD
+
+Min
+
+Max
+
+2,000
+2,000
+2,000
+
+0
+0
+0
+
+0.290
+0.160
+0.041
+
+0.455
+0.370
+0.197
+
+0
+0
+0
+
+1
+1
+1
+
+2,000
+
+0
+
+0.192
+
+0.394
+
+0
+
+1
+
+2,000
+
+0
+
+0.012
+
+0.109
+
+0
+
+1
+
+2,000
+
+0
+
+0.089
+
+0.285
+
+0
+
+1
+
+1,928
+
+72
+
+3.277
+
+0.875
+
+1
+
+4
+
+2,000
+
+0
+
+4
+
+1.510
+
+1
+
+7
+
+2,000
+1,983
+2,000
+1,988
+1,991
+2,000
+
+0
+17
+0
+12
+9
+0
+
+3.904
+2.797
+3.013
+2.529
+1.969
+6.114
+
+1.004
+0.716
+0.954
+0.548
+0.592
+2.930
+
+1
+1
+1
+1
+1
+0
+
+5
+4
+5
+4
+4
+10
+
+2,000
+2,000
+2,000
+
+0
+0
+0
+
+48.490
+0.486
+0.001
+
+16.415
+0.500
+0.022
+
+18
+0
+0
+
+87
+1
+1
+
+2,000
+
+0
+
+0.156
+
+0.363
+
+0
+
+1
+
+2,000
+1,750
+1,750
+1,996
+
+0
+250
+250
+4
+
+1.879
+2,670
+5.124
+0.033
+
+0.644
+1384
+2.647
+0.178
+
+1
+150
+1
+0
+
+3
+8,500
+10
+1
+
+1,996
+2,000
+2,000
+
+4
+0
+0
+
+0.023
+0.549
+0.414
+
+0.148
+0.498
+0.493
+
+0
+0
+0
+
+1
+1
+1
+
+2,000
+
+0
+
+0.500
+
+0.500
+
+0
+
+1
+
+Notes: Data are unweighted. Descriptive statistics for altruistic values, impure altruism, and perceived
+powerlessness are for sum scores created based on the corresponding items. In the empirical analysis,
+we instead use factor scores based on confirmative factor analysis. SD = standard deviation.
+
+in the following areas (yes/no for each of them):4 health, religion, social causes
+(poverty, disability assistance, children and youth welfare, elderly, volunteer
+firefighters, etc.), international aid, human rights and advocacy, arts and culture,
+4 The survey question reads: ‘You have indicated that you have volunteered with (donated to)
+
+an organization. In which of the following areas is/are the organization(s) you have volunteered for [donated to] in 2019’?
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+264
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+education (e.g., parents’ associations) and research, environmental and animal
+protection, neighbourhood groups and housing and infrastructure projects,
+sports and leisure, and others. The incidence of charitable giving (volunteering) for
+activist causes is 1 if individuals indicated that they donated to (volunteered for)
+‘human rights and advocacy’ in 2019 and 0 otherwise. The incidence of charitable
+giving (volunteering) for redistributive causes is 1 if individuals indicated that they
+donated to (volunteered for) ‘social causes’ or ‘international aid’ in 2019 and 0
+otherwise. Four percent of the sample donated and 1% volunteered for activist
+causes; 19% donated and 9% volunteered for redistributive causes.
+3.2. Independent variables
+
+Perception of income inequality: Perceived income inequality was measured using
+participants’ responses to the statement ‘I think that the income differences in
+Austria/Germany are too large’ on a four-point scale ranging from ‘completely
+agree’ (1) to ‘completely disagree’ (4), adapted from the International Social
+Survey Programme (ISSP) question ‘Differences in income in [country] are too
+large’ (ISSP Research Group, 2021). This question is commonly used to measure perceptions of income inequality (Kenworthy and McCall, 2008; OECD,
+2021) and combines a positive and normative measure of perceived inequality:
+it captures participants’ perception of the tension between the actual extent of
+inequality and the assessment of how high it should be. We reverse coded the
+variable such that higher values reflect higher perceived income inequality. The
+mean value was 3.3.
+3.3. Mediator variables
+
+GST is measured following Lundmark et al. (2016), using the question ‘In your
+opinion, to what extent is it generally possible to trust people?’ on a seven-point
+scale ranging from ‘People cannot generally be trusted’ (1) to ‘Most people can
+be trusted’ (7).
+Perceived powerlessness is measured using a four-point Likert scale based on
+four items developed to measure individuals’ locus of control (Kovaleva et al.,
+2012)—to what extent individuals perceive outcomes of behaviour to be determined by their own actions or forces outside of their control. It is therefore tightly
+connected to a feeling of powerlessness (the feeling that one can no longer control many things in one’s life). The items used to measure perceived powerlessness are given in Table 2.5 In our sample, internal consistency of the scale is low
+
+5 We used the German version of the scale provided in Kovaleva et al. (2012); the translations
+
+to English for this paper are taken from Appendix C of Kovaleva et al. (2012, p. 25).
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+265
+
+Table 2. Confirmatory factor analysis.
+Variable
+Impure altruism
+‘I try to work towards the wellbeing of society’
+‘It is important to me that I help others’
+‘I think it is important to help the poor and the needy’
+‘Doing something for others gives me a good feeling’
+Perceived powerlessness
+‘I am my own boss’
+‘If I work hard, I will succeed’
+‘Whether at work or in my private life: What I do is
+mainly determined by others’
+‘My fate often gets in the way of my plans’
+
+lambda
+
+SE
+
+0.622
+0.818
+0.655
+0.759
+
+0.021
+0.017
+0.020
+0.018
+
+0.742
+0.364
+0.198
+
+0.036
+0.034
+0.039
+
+0.485
+
+0.034
+
+lambda = standardised factor loading; SE = standard error; Root Mean Square Error of Approximation
+(RMSEA) = 0.093; Comparative Fit Index (CFI) = 0.898; Tucker-Lewis Index (TLI) = 0.849.
+
+(composite reliability (CR) = 0.51, alpha = 0.51), which means that statistical
+power to detect relationships based on this variable is reduced.
+Perceived injustice is measured using an item taken from the ISSP 2019 (ISSP
+Research Group, 2021): ‘How fair or unfair do you think the income distribution
+is in Austria/Germany?’ Responses were on a five-point scale from ‘Very fair’ (1)
+to ‘Very unfair’ (5).
+Impure altruism consists of items intended to measure altruistic values and
+warm glow. It is measured on a four-point Likert scale from ‘completely agree’
+to ‘completely disagree’ based on three items originally from the Survey of Interpersonal Values (Gordon, 1960) intended to measure altruistic values and one
+item measuring warm glow adapted from the Giving in the Netherlands Panel
+Survey (Bekkers et al., 2021). The items are given in Table 2. Internal reliability
+of the scale is good (CR = 0.81, alpha = 0.8).
+3.4. Control variables
+
+We control for sociodemographic factors that are likely confounders of the
+relationship between perceived income inequality and giving and volunteering
+or between the mediators and giving and volunteering, as they have been shown
+to be associated with charitable giving and volunteering (Bekkers and Wiepking,
+2011a, 2011b; Niebuur et al., 2018; Wiepking and Bekkers, 2012; Wilson and
+Musick, 1997). Among them are respondent’s age (measured in years), gender
+(measured by two dummies for ‘male’ and ‘diverse’), and level of education
+(measured by three categories, with the first one serving as the category of
+reference: less than lower secondary school, lower secondary or higher secondary school, more than higher secondary school). For the same reason, we
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+266
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+include dummies for having children below the age of 12 that are living in the
+same household, being employed, and living in a city (with more than 50,000 inhabitants). In addition, we control for the respondent’s place of birth (measured
+by a dummy for being born in the EU but outside of Austria/Germany (0/1))
+and a second dummy for being born outside of the EU (0/1). We also include a
+dummy for living in Germany to capture whether giving and volunteering differ
+between Austria and Germany.6 Finally, we control for net household income in
+Euros elicited with the question ‘If you add up the net income of all household
+members and all other cash benefits (e.g., pension, family allowance), what is
+the approximate amount of income available to your household per month?’
+Respondents named an amount in Euros, and if they refused to do so, they were
+asked to provide their income in 10 categories ranging from ‘Less than 1,100
+Euro’ to ‘more than 5,500 Euro’. For respondents that did not state an amount
+in Euros, we used the midpoint imputed value based on the question about
+income in categories. For the lowest and highest categories, we use the average
+of the income in Euros by other respondents that are lower than 1,100 Euros
+and higher than 5,500 Euros, respectively.
+3.5. Statistical analysis
+
+We first use confirmatory factor analysis (CFA) to assess the reliability of multiitem measures and obtain factor scores of latent variables using the regression
+method (Rosseel, 2012; Skrondal and Laake, 2001). We use these predicted
+factor scores in the mediation analyses, since causal mediation analysis with latent variables is not possible using free and open-source software (Valente et al.,
+2020). The CFA includes the multi-item scales for the latent variables impure
+altruism and perceived powerlessness, which are measured by the items given in
+Table 2. All CFA models are estimated using full information maximum likelihood, and missing values are therefore treated as missing at random.
+For the mediated relationships, we use causal mediation analysis following
+the approach developed by Imai et al. (2010), which is implemented in the R
+package ‘mediation’ (Tingley et al., 2014). The main advantage of causal mediation analysis for our setting is that it provides unbiased estimates of indirect effects for nonlinear models. In addition, it clarifies the assumptions necessary to
+interpret the findings on indirect relationships as causal effects. For our study,
+these assumptions are no unmeasured confounding of the relationship between
+
+6 The supplementary material shows that the distribution of perceptions of income inequality
+
+is very similar between Austria and Germany and that there is no evidence that the mediated
+relationships differ between countries.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+267
+
+perceived inequality and charitable giving and volunteering, perceived inequality and the mediators, or the mediators and charitable giving and volunteering
+(Rijnhart et al., 2021; Valente et al., 2020). Due to the observational nature of
+our data, these assumptions are unlikely to be met. We therefore condition on
+these covariates, which are likely confounders of the relationship between perceived inequality, the mediators, and charitable giving and volunteering. However, additional confounders that we have not measured might exist, especially
+for the relationship between the different mediators and charitable giving or volunteering. We therefore conduct sensitivity analyses on the extent to which this
+key assumption may be violated for our results to still hold (see supplementary
+material section 2.1). This is done by varying the correlation between the error
+of the mediation model and the outcome model and observing how the estimate
+for the average causal mediation effect (ACME) changes (Imai et al., 2010). The
+sensitivity analysis shows how large the violation of the assumption of no unmeasured confounders between mediator and outcome (sequential ignorability)
+would have to be for the results to no longer hold. This assumption would also
+be violated if the different mediators in our analyses were causally related to one
+another (since the alternative mediators would be confounders of the relationship between the focal mediator and the outcome). We therefore also conduct a
+robustness check that allows mediators to be causally dependent following Imai
+and Yamamoto (2013) (see supplementary material section 2.2).
+In the causal mediation analyses, we use the percentile bootstrap with 5,000
+simulations to obtain parameter estimates and confidence intervals, which has
+been shown to perform well in terms of balance between type I and type II error
+rates (Rijnhart et al., 2021). For the analysis of total effects on the incidence of
+charitable giving or volunteering, we use Probit regression with heteroscedasticity robust standard errors (Zeileis, 2004).
+4. Results
+Our results on the presumed mechanisms linking perceived income inequality
+and civic engagement are presented in two separate subsections, first for charitable giving and then for volunteering. Subsequently, we present the findings on
+the overall association between perceived income inequality and charitable giving and volunteering.
+4.1. Mechanisms linking perceived income inequality
+and charitable giving
+
+Figure 2 displays a path diagram showing the associations between perceived income inequality and the four mediators studied and between these mediators
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+268
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+Figure 2. Results for the four mechanisms linking perceived income inequality to charitable giving.
+Notes: Coefficients on paths to mediators are coefficients from a linear regression. Coefficients from the
+mediators to charitable giving are average marginal effects from a Probit regression. Control variables given
+in the main text were included in the model estimation but not included in the figure for clarity.
+
+and charitable giving. Figure 3 shows the estimates for the indirect relationship
+between perceived income inequality and charitable giving through each of the
+mediators.
+Social disintegration hypothesis: As Figure 2 shows, perceived income inequality is negatively related to GST, which in turn is positively associated with the incidence of charitable giving, both of which are consistent with the mechanisms
+proposed by the social disintegration hypothesis. From Figure 3, we can see a
+negative indirect relationship between perceived income inequality and charitable giving through GST. Thus, the social disintegration hypothesis (H1-C) for
+charitable giving is confirmed. Individuals who completely agree that income inequality is too high have about a 1.1 percentage point lower probability of giving
+to charity due to the indirect relationship through GST (ACME = −0.011, 95%
+CI = −0.021, −0.003), compared to those who completely disagree.
+Relative power hypothesis: In contrast, our results do not support the relative
+power hypothesis for charitable giving (H2-C). While perceived powerlessness
+is negatively associated with charitable giving, it is also negatively related to
+the level of perceived income inequality, which is against the predictions of
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+269
+
+Figure 3. Coefficient plot for the mechanisms linking perceived income inequality to
+charitable giving. Displayed are the average causal mediation effects when going from
+completely disagreeing that income inequality is too high (1) to completely agreeing that
+income inequality is too high (4).
+
+the relative power hypothesis. In addition, neither these associations nor the
+estimate for the indirect relationship (ACME = 0.002, 95% CI = −0.001,
+0.009) are statistically significant (see Figures 2 and 3).
+Conflict hypothesis: The conflict hypothesis is also not supported by our results for charitable giving. In line with our expectations, perceived income inequality is strongly and positively associated with perceived injustice. However,
+in contrast to the conflict hypothesis, perceived injustice is negatively associated
+with charitable giving. From Figure 3, we can see a statistically significant negative
+indirect relationship. Respondents who completely agree that income inequality
+is too high have about a 6.9 percentage point lower probability of giving to charity
+due to the indirect relationship through perceived injustice (ACME = −0.069,
+95% CI = −0.114, −0.025) compared to those who completely disagree. The
+result is therefore in the opposite direction of the conflict hypothesis (H3-C).
+We further hypothesised that if the conflict hypothesis were true, higher perceived income inequality should particularly lead to higher donations to activist
+causes (H3a-C). As can be seen from Figure 2, this is what we found (b =
+0.219, 95% CI = 0.064, 0.374, AME = 0.019). However, exploratory analysis
+did not show that this is due to an indirect relationship through perceived injustice (ACME = −0.001, 95% CI = −0.021, 0.016).
+Unmet needs hypothesis: The unmet needs hypothesis is clearly confirmed by
+our data for charitable giving. Perceived income inequality is positively and significantly associated with impure altruism, which in turn is positively and significantly associated with charitable giving. Figure 3 shows that respondents who
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+270
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+completely agree that income inequality is too high have about an 8 percentage point higher probability of giving to charity due to the indirect relationship
+through impure altruism (ACME = 0.081, 95% CI = 0.058, 0.106) compared
+to those who completely disagree.
+While we do not find a positive total association between perceived income
+inequality and the incidence of giving for redistributive causes (H4a-C) (b =
+0.004, 95% CI = −0.078, 0.086, AME = 0.001), we find that the unmet needs
+hypothesis for charitable giving to redistributive causes is confirmed (H4bC) (ACME = 0.071, 95% CI = 0.050, 0.94). Due to the indirect relationship
+through impure altruism, people who completely agree that income inequality
+is too high have about a 7.1 percentage point higher probability of giving for redistributive causes, compared to those who completely disagree.
+4.2. Mechanisms linking perceived income inequality and volunteering
+
+Figures 4 and 5 summarise the results for the four mechanisms linking perceived
+income inequality to volunteering. Figure 4 displays a path diagram showing the
+
+Figure 4. Results for the four mechanisms linking perceived income inequality to volunteering.
+Notes: Coefficients on paths to mediators are coefficients from a linear regression. Coefficients from the
+mediators to volunteering are average marginal effects from a Probit regression. Control variables given in
+the main text were included in the model estimation but not included in the figure for clarity.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+271
+
+Figure 5. Coefficient plot for the mechanisms linking perceived income inequality to
+volunteering. Displayed are the average causal mediation effects when going from completely disagreeing that income inequality is too high (1) to completely agreeing that
+income inequality is too high (4).
+
+associations between perceived income inequality and the four mediators studied and between these mediators and volunteering. Figure 5 shows the estimates
+for the indirect relationship between inequality and volunteering through each
+of the mediators.
+Social disintegration hypothesis: In line with the social disintegration hypothesis, perceived income inequality is negatively related to GST, which in turn is
+positively associated with the incidence of volunteering. From Figure 5, we can
+see that people who completely agree that income inequality is too high have a
+0.8 percentage point lower probability of volunteering due to the indirect negative relationship through GST (ACME = −0.008, 95% CI = −0.016, −0.002),
+compared to those who completely disagree. The social disintegration hypothesis (H1-V) for volunteering is therefore confirmed.
+Relative power hypothesis: Our results do not support the relative power hypothesis for volunteering (H2-V), which is consistent with the results for charitable giving. While perceived powerlessness is negatively associated with volunteering, it is also negatively related to the level of perceived income inequality,
+which is against the predictions of the relative power hypothesis. In addition, neither these associations nor the estimate for the indirect relationship (ACME =
+0.003, 95% CI = −0.001, 0.009) are statistically significant (see Figure 4 and
+Figure 5).
+Conflict hypothesis: The conflict hypothesis for volunteering (H3-V) is also
+not supported by our data. Perceived income inequality is strongly and positively associated with perceived injustice, which is in line with the hypothesis,
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+272
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+but perceived injustice in turn is negatively associated with volunteering, which
+is inconsistent with the conflict hypothesis. From Figure 5, we can see no statistically significant indirect relationship through perceived injustice to volunteering
+(ACME = −0.014, 95% CI = −0.052, 0.024). These findings are in line with
+our results for charitable giving. In contrast to these results, however, we do not
+find evidence that higher perceived income inequality is associated with higher
+volunteering for activist causes (H3a-V) (b = 0.051, 95% CI = −0.263, 0.160,
+AME = 0.002). However, only 1% of respondents have volunteered for activist
+causes, which leads to low statistical power for this test.
+Unmet needs hypothesis: The unmet needs hypothesis (H4-V) is supported
+for volunteering just as it was for charitable giving. In line with the hypothesis,
+perceived income inequality is positively associated with impure altruism, which
+in turn is positively associated with volunteering. From Figure 5, we can see that
+people who completely agree that income inequality is too high have about a 7
+percentage point higher probability of volunteering due to the indirect positive
+relationship through impure altruism (ACME = 0.074, 95% CI = 0.054, 0.094)
+compared to those who completely disagree.
+We do not find evidence for the hypothesised positive total association between perceived income inequality and the probability of volunteering for redistributive causes (H4a-V) (b = 0.025, 95% CI = −0.083, 0.133, AME = 0.004).
+However, as for charitable giving, we do find an indirect relationship through impure altruism in line with hypothesis H4b-V (ACME = 0.048, 95% CI = 0.032,
+0.066). Due to this indirect relationship, people who completely agree that income inequality is too high have about a 5 percentage point higher probability
+of volunteering compared to those who completely disagree.
+4.3 Overall association between perceived income inequality
+and giving and volunteering
+
+Our results show that the overall association between perceived income inequality and civic engagement is small and statistically insignificant for both charitable
+giving (b = 0.007, 95% CI = −0.082, 0.068, AME = 0.002) and volunteering
+(b = 0.015, 95% CI = −0.073, 0.103, AME = 0.004). Therefore, Hypothesis 5
+about the total effect of perceived inequality on giving and volunteering cannot
+be confirmed.7 On aggregate, higher levels of perceived income inequality are
+
+7 We also assessed whether the relationship between perceived income inequality and giving
+
+and volunteering is moderated by income but did not find statistically significant interaction
+effects (charitable giving: β = −0.000, p = 0.470; volunteering: 0.000, p = 0.056). In additional exploratory analyses, we tested whether individuals’ income moderates the relative
+power, conflict, and unmet needs hypotheses but did not find any evidence to support these
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+273
+
+not related to a lower probability of giving or volunteering in our data for Austria
+and Germany.
+4.4. Robustness checks
+
+The results of the sensitivity analysis for unmeasured confounders between the
+mediators and the outcome (see supplementary material section 2) shows that
+the indirect relationship through GST is relatively sensitive to potential omitted
+confounders for both giving and volunteering: the correlation between mediator
+and outcome (ρ) would only have to be between 0.1 and 0.15 for the confidence
+interval of the mediated relationship to include zero. The negative indirect relationship between perceived inequality and giving through perceived injustice is
+similarly fairly sensitive to unmeasured confounding, since ρ would only have to
+be between 0.05 and 0.1 for the confidence interval of the mediated relationship
+to include zero. The influence of omitted confounders would have to be fairly
+sizeable for the indirect relationship through impure altruism to no longer hold
+for both charitable giving (ρ > 0.2) and volunteering (ρ > 0.2).
+The analyses accounting for potentially causally related mediators show qualitatively similar results on the indirect relationships for both charitable giving and
+volunteering (see Figures S11 and S12 of the supplementary material).
+In addition, we assess whether the indirect relationship through GST holds
+when using individuals’ perceptions of income inequality in their district (instead of their country), and trust toward others in their district (see section 1.4
+of the supplementary material). Interestingly, even though the correlations between perceptions of general and local income inequality and general and local
+GST are relatively low, with r = 0.65 and 0.68, the mediation analyses again reveal a negative indirect relationship in line with the social disintegration hypothesis for both charitable giving and volunteering.
+5. Discussion
+While the effect of economic inequality on individuals’ civic engagement in
+terms of giving and volunteering has frequently been studied empirically, the underlying mechanisms that cause and may thus explain this influence have hardly
+been examined. We tested various competing and complementing hypotheses
+about how perceived income inequality is related to civic engagement.
+
+predictions (see Table S2). Furthermore, we tested whether the relationship between perceived income inequality and the incidence of giving for redistributive causes is moderated
+by inequality aversion but did not find a significant interaction effect (β = 0.003, p = 0.825).
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+274
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+Our findings provide evidence for two mechanisms proposed in previous
+studies. First, our results indicate that the link between perceived income inequality and both charitable giving and volunteering is mediated by impure altruism, as proposed by the unmet needs hypothesis. We find a clear positive relationship between perceived income inequality and individuals’ impure altruism,
+which in turn is positively related to charitable giving and volunteering. This indirect relationship is substantial in size, with an eight (seven) percentage point
+higher probability of giving to charity (volunteering) due to the indirect relationship through impure altruism. This mechanism is further supported by our
+results on civic engagement for redistributive causes (i.e., for nonprofit organisations active in the field of social services and international aid). For these causes,
+we also observe a positive indirect relationship through people’s impure altruism.
+In addition, the relative increase in the probability of giving and volunteering due
+to the indirect relationship through impure altruism is larger for redistributive
+causes than the indirect relationship for all causes.
+A second explanation for the relationship between inequality and civic engagement supported by our data is the social disintegration hypothesis. Higher
+levels of perceived income inequality are related to lower GST among individuals, which in turn is related to lower engagement. The indirect negative relationship through lower GST, however, was rather weak, accounting for only about a
+one percentage point difference in the probability of charitable giving and volunteering between those who completely agree and those who completely disagree
+that income inequality is too high.
+In contrast, the results for the other two mechanisms tested are not in line
+with our hypotheses. We did not find support for the relative power hypothesis,
+which states that higher perceived income inequality decreases civic engagement
+due to its positive effect on perceived powerlessness. The estimated indirect relationship is very small and not statistically significant.
+As for the conflict hypothesis, our results challenge its applicability for
+explaining the relationship between inequality and charitable giving and volunteering. It argues that inequality fuels a sense of injustice among the population,
+which increases civic engagement, particularly for activist causes. For volunteering, we do not find a substantial indirect relationship through perceived
+injustice. For charitable giving, we instead find a substantial negative indirect
+relationship indicating a seven percentage point lower probability of charitable
+giving due to this mechanism, which is the opposite of our expectations. While
+perceived income inequality is positively related to perceived injustice, people
+with greater perceived injustice are less rather than more likely to donate, even
+when accounting for individual income. Perceived injustice therefore associated
+with resignation rather than a desire to make a difference, a result that we
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+275
+
+expected to find when examining perceived powerlessness rather than perceived
+injustice. Interestingly, we did find support for the empirical prediction derived
+from the conflict hypothesis that perceived inequality increases charitable giving
+to activist causes (i.e., human rights and advocacy). This is consistent with the
+literature, which mentions the conflict hypothesis mainly in the context of
+activism. However, it is mainly used to explain volunteering or even political
+engagement (rather than charitable giving) for activist causes (Karakoc, 2013),
+while we find it for charitable giving but not volunteering. Yet, this finding
+could not be attributed to an indirect relationship through perceived injustice
+in exploratory analysis. Our study therefore supports an empirical prediction
+derived from the conflict hypothesis for charitable giving but not the explanation proposed by the conflict hypothesis that this association is mediated by
+individuals perceived injustice.
+Taken together, our results imply that several of the previously hypothesised
+pathways linking (perceived) inequality to civic engagement seem to hold explanatory value and partly work in opposing directions. Estimating the total association between perceived income inequality and civic engagement, we did not
+find a significant association with charitable giving or volunteering. In the context of results on the underlying mechanisms, it seems that these thus cancel each
+other out. For example, the observed positive indirect relationship through impure altruism postulated by the unmet needs hypothesis seems to be partially
+offset by the negative indirect relationship though GST postulated by the social disintegration hypothesis. One explanation for this observation may be that
+the positive relationship between impure altruism and charitable giving and volunteering depends on the extent to which potential beneficiaries are perceived
+as in-group members (Balliet et al., 2014; Batson and Shaw, 1991; Nair, 2018).
+Since people prefer to give to members of their in-group, the mechanisms proposed by the unmet needs hypothesis may only come into play if inequality is
+not accompanied by social segregation. For charitable giving, the positive indirect relationship seems to be additionally offset by the unexpected indirect
+negative relationship through perceived injustice. For volunteering, it is likely
+that additional, unknown mechanisms determine the total association. Yang and
+Konrath (2023) suggest two potentially distinct additional mechanisms through
+which higher perceived income inequality may exert a negative effect on civic engagement, namely, status anxiety and perceived increased government spending
+(crowding-out hypothesis), which should be taken into account in future studies. Another promising direction of research for future studies with larger sample sizes is the analysis of moderated mediation to detect to what extent these
+mechanisms operate for different groups of people, such as differentiated by their
+income.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+276
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+Adding to a body of empirical literature showing mixed results on the association between economic inequality and civic engagement, our results reveal an
+overall null-effect of perceived income inequality on giving and volunteering in
+Austria and Germany. Given this finding and that almost 80% of the population
+in Austria and Germany—and similar proportions in other OECD countries—
+agree or completely agree that income inequality in their country is too large,
+there seems limited potential for public policy to use increased awareness of
+this issue to increase private civic engagement. Though many people perceive
+inequality in their countries as too high, these perceptions are not associated
+with a higher likelihood of donating money or volunteering for a nonprofit
+organisation.
+However, some limitations need to be considered when interpreting the
+results of this study. The first limitation is its observational design, which means
+that the estimated relationships should not be considered causal effects. Our
+sensitivity analysis shows that the indirect relationship through GST is relatively sensitive to potential omitted confounders between the mediator and
+giving/volunteering, while the influence of omitted confounders would have
+to be fairly sizeable for the indirect relationship through impure altruism to no
+longer hold. The results of this study should therefore be interpreted as first
+evidence on the plausibility of different mechanisms being at work. Future
+studies using a causal design should be conducted to validate our findings, such
+as by conducting a survey experiment where one group is exposed to an ‘informational shock’ about the level of income inequality in their country (versus no
+information in the control group). Such a study could also provide insights into
+the malleability of the different mediators in response to changing perceptions of
+inequality when they are measured with a similar degree of specificity in relation
+to perceptions of income inequality. Another limitation, as mentioned, is that
+the variable measuring perceived powerlessness, one out of our four mediator
+variables, does not have satisfactory internal reliability, resulting in reduced
+statistical power for a test of the mediated relationship. In this respect, another
+scale to measure perceived powerlessness should be used in future studies. In addition, our results are based on individuals’ perceived income inequality, which
+is measured with a single item. Although this measure is established in the field,
+a differentiated analysis of the effects of a positive and normative assessment of
+inequality would be desirable. A final limitation of our study is generalisability,
+since results are based on data from Austria and Germany, two countries with
+similar and moderate levels of perceived income inequality by international
+comparison (OECD, 2021). Absolute levels of income inequality are rather low
+in both countries, and we did not find significant differences in the total association between perceived income inequality and giving or volunteering between
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+277
+
+these countries (see supplementary material sections 1.1 and 1.2). While the
+literature does not provide strong arguments that mechanisms should depend
+on the absolute level of inequality, it might be fruitful to test to what extent the
+findings are similar when using a larger and more diverse set of countries.
+In conclusion, our interdisciplinary study advances the literature by providing a comprehensive and systematic examination of mechanisms that explain the
+relationship between perceived income inequality and civic engagement. It provides evidence for the various ways in which perceived income inequality relates
+to people’s likelihood of charitable giving and volunteering, demonstrating that
+this relationship is mediated by individuals’ impure altruism and GST. While our
+study covers a broad range of explanatory mechanisms, there are likely additional
+consequences of the actual (as opposed to perceived) distribution of resources.
+For example, the resource hypothesis argues that the unequal distribution of resources leaves a larger proportion of the population with little opportunity to
+engage (Lancee and Van de Werfhorst, 2012; Schröder and Neumayr, 2023).
+Since actual and perceived inequality do not necessarily go hand in hand, our
+findings do not necessarily generalise to the consequences of actual inequality.
+Studies should therefore look at both the actual and perceived levels of inequality to move toward a holistic understanding of the relationship between it and
+civic engagement, which is highly relevant when (perceived) inequality in many
+countries is increasing.
+
+Acknowledgements
+We thank Astrid Pennerstorfer and Pamala Wiepking for valuable remarks on an earlier
+version of the manuscript. We are also grateful for the helpful comments from our editor
+Dr. Jan Mewes and the three anonymous reviewers.
+
+AI use disclosure
+No AI tools were used in the writing of this paper.
+
+Data availability statement
+The data that support the findings of this study are openly available on OSF at https:
+//doi.org/10.17605/OSF.IO/ZB89R.
+
+Declaration of interest statement
+The authors declare no conflict of interest.
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+278
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+Ethical approval
+Because of its noninterventional nature, the study was exempted from an ethics review
+procedure at the Vienna University of Economics and Business.
+
+Funding
+This research received no specific funding.
+
+Supplements
+Supplemental data for this article can be accessed online at https://doi.org/10.1162/
+euso.a.22.
+
+References
+Alesina, A. and La Ferrara, E. (2000) ‘Participation in heterogeneous communities’, Quarterly Journal of Economics, 115(3), pp. 847–904. Available at: https://doi.org/10.1162/
+003355300554935
+Andreoni, J. (1990) ‘Impure altruism and donations to public goods: A theory of warm-glow
+giving’, Economic Journal, 100(401), pp. 464–477. Available at: https://doi.org/10.2307/
+2234133
+Balliet, D., Wu, J. and De Dreu, C. K. W. (2014) ‘Ingroup favoritism in cooperation: A metaanalysis’, Psychological Bulletin, 140(6), pp. 1556–1581.
+Batson, C. D. and Shaw, L. L. (1991) ‘Evidence for altruism: Toward a pluralism of prosocial
+motives’, Psychological Inquiry, 2(2), pp. 107–122. Available at: https://doi.org/10.1207/
+s15327965pli0202_1
+Bekkers, R., Boonstoppel, E., de Wit, A. and van Teunenbroek, C. (2021) Giving in the Netherlands Panel Survey. Available at: https://doi.org/10.17605/OSF.IO/4UNF9
+Bekkers, R. and Wiepking, P. (2011a) ‘A literature review of empirical studies of philanthropy: Eight mechanisms that drive charitable giving’, Nonprofit and Voluntary Sector
+Quarterly, 40(5). Available at: https://doi.org/10.1177/0899764010380927
+Bekkers, R. and Wiepking, P. (2011b) ‘Who gives? A literature review of predictors of charitable giving part one: Religion, education, age and socialisation’, Voluntary Sector Review,
+2(3), pp. 337–365. Available at: https://doi.org/10.1332/204080511X6087712
+Blau, P. M. (1960) ‘A theory of social integration’, American Journal of Sociology, 65(6),
+pp. 545–556.
+Buttrick, N. R. and Oishi, S. (2017) ‘The psychological consequences of income inequality’, Social and Personality Psychology Compass, 11(3), pp. e12304. Available at: https:
+//doi.org/10.1111/spc3.12304
+Chapman, C. M., Hornsey, M. J. and Gillespie, N. (2021) ‘To what extent is trust a prerequisite for charitable giving? A systematic review and meta-analysis’, Nonprofit and Voluntary Sector Quarterly, 50(6), pp. 1274–1303. Available at: https://doi.org/10.1177/
+08997640211003250
+Collins, C. R. and Guidry, S. (2018) ‘What effect does inequality have on residents’ sense
+of safety? Exploring the mediating processes of social capital and civic engagement’,
+Journal of Urban Affairs, 40(7), pp. 1009–1026. Available at: https://doi.org/10.1080/
+07352166.2018.1439338
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+279
+
+Du, H. and King, R. B. (2022) ‘What predicts perceived economic inequality? The roles of
+actual inequality, system justification, and fairness considerations’, British Journal of Social
+Psychology, 61(1), pp. 19–36. Available at: https://doi.org/10.1111/bjso.12468
+Duncan, L. (2010) ‘Money and membership: Effects of neighbourhood poverty, income inequality and individual income on voluntary association membership in Canada’, Canadian Journal of Sociology, 35(4), pp. 573–593.
+Duquette, N. J. (2018) ‘Inequality and philanthropy: High-income giving in the United
+States 1917–2012’, Explorations in Economic History, 70, pp. 25–41. Available at: https:
+//doi.org/10.1016/j.eeh.2018.08.002
+Duquette, N. J. and Hargaden, E. P. (2021) ‘Inequality and giving’, Journal of Economic
+Behavior and Organization, 186, pp. 189–200. Available at: https://doi.org/10.1016/
+j.jebo.2021.03.030
+Fieldhouse, E. and Cutts, D. (2010) ‘Does diversity damage social capital? A comparative
+study of neighbourhood diversity and social capital in the US and Britain’, Canadian Journal of Political Science/Revue Canadienne de Science Politique, 43(2), pp. 289–318. Available
+at: https://doi.org/10.1017/S0008423910000065
+Filetti, A. and Janmaat, J. G. (2018) ‘Income inequality and economic downturn in Europe:
+A multilevel analysis of their consequences for political participation’, Acta Politica, 53(3),
+pp. 327–347. Available at: https://doi.org/10.1057/s41269-017-0053-1
+Gimpelson, V. and Treisman, D. (2018) ‘Misperceiving inequality’, Economics and Politics,
+30(1), pp. 27–54. https://doi.org/10.1111/ecpo.12103
+Godfrey, E. B. and Cherng, H. Y. S. (2016) ‘The kids are all right? Income inequality and
+civic engagement among our nation’s youth’, Journal of Youth and Adolescence, 45(11),
+pp. 2218–2232. Available at: https://doi.org/10.1007/s10964-016-0557-4
+Gordon, L. V. (1960) Survey of interpersonal values. Science Research Associates.
+Gugushvili, A., Reeves, A. and Jarosz, E. (2020) ‘How do perceived changes in inequality
+affect health?’, Health and Place, 62, pp. 102276. Available at: https://doi.org/10.1016/
+j.healthplace.2019.102276
+Gurr, T. R. (1970) Why men rebel. Princeton University Press.
+Hauser, O. P. and Norton, M. I. (2017) ‘(Mis)perceptions of inequality’, Current Opinion in
+Psychology, 18, pp. 21–25. Available at: https://doi.org/10.1016/j.copsyc.2017.07.024
+Hoffmann, F., Lee, D. S. and Lemieux, T. (2020) ‘Growing income inequality in the United
+States and other advanced economies’, Journal of Economic Perspectives, 34(4), pp. 52–78.
+Available at: https://doi.org/10.1257/jep.34.4.52
+Imai, K., Keele, L. and Tingley, D. (2010) ‘A general approach to causal mediation analysis’, Psychological Methods, 15(4), pp. 309–334. Available at: https://doi.org/10.1037/
+a0020761
+Imai, K., and Yamamoto, T. (2013) ‘Identification and sensitivity analysis for multiple causal
+mechanisms: Revisiting evidence from framing experiments’, Political Analysis, 21(2),
+pp. 141–171.
+Institute for Nonprofit Management, WU (2024) Perceived income inequality, charitable giving and volunteering in Austria and Germany. [Dataset]. Available at: https://doi.org/
+10.17605/OSF.IO/ZB89R
+ISSP Research Group (2021) International social survey programme: Social Inequality V - ISSP
+2019. Available at: https://doi.org/10.4232/1.13599
+Jones, K. S. (2006) ‘Giving and volunteering as distinct forms of civic engagement: The
+role of community integration and personal resources in formal helping’, Nonprofit and
+Voluntary Sector Quarterly, 35(2), pp. 249–266. Available at: https://doi.org/10.1177/
+0899764006287464
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+280
+
+M. NEUMAYR AND J. M. SCHRÖDER
+
+Karakoc, E. (2013) ‘Economic inequality and its asymmetric effect on civic engagement: Evidence from post-communist countries’, European Political Science Review, 5(2), pp. 197–
+223. Available at: https://doi.org/10.1017/s1755773912000100
+Kenworthy, L. and McCall, L. (2008) ‘Inequality, public opinion and redistribution’, SocioEconomic Review, 6(1), pp. 35–68. Available at: https://doi.org/10.1093/ser/mwm006
+Knell, M. and Stix, H. (2021) ‘Inequality, perception biases and trust’, The Journal
+of Economic Inequality, 19(4), pp. 801–824. Available at: https://doi.org/10.1007/
+s10888-021-09490-x
+Kovaleva, A., Beierlein, C., Kemper, C. J. and Rammstedt, B. (2012) Eine Kurzskala zur Messung von Kontrollüberzeugung: Die Skala Internale-Externale-Kontrollüberzeugung-4 (IE-4).
+2012/19.
+Lancee, B. and Van de Werfhorst, H. G. (2012) ‘Income inequality and participation: A comparison of 24 European countries. Social Science Research, 41(5), pp. 1166–1178. Available
+at: https://doi.org/10.1016/j.ssresearch.2012.04.005
+Lee, L., Piliavin, J. A. and Call, V. R. A. (1999) ‘Giving time, money, and blood: similarities
+and differences’, Social Psychology Quarterly, 62(3), pp. 276–290.
+Lundmark, S., Gilljam, M. and Dahlberg, S. (2016) ‘Measuring generalized trust’, Public Opinion Quarterly, 80(1), pp. 26–43. Available at: https://doi.org/10.1093/poq/nfv042
+Mastromatteo, G. and Russo, F. F. (2017) ‘Inequality and charity. World Development, 96,
+pp. 136–144. Available at: https://doi.org/10.1016/j.worlddev.2017.03.003
+McVeigh, R. (2006) ‘Structural influences on activism and crime: Identifying the social structure of discontent’, American Journal of Sociology, 112(2), pp. 510–566. Available at: https:
+//doi.org/10.1086/506414
+Meltzer, A. H. and Richard, S. F. (1981) ‘A rational theory of the size of government’, Journal
+of Political Economy, 89(5), pp. 914–927.
+Mijs, J. J. B. (2018) Inequality is a problem of inference: ‘How people solve the social puzzle
+of unequal outcomes’, Societies, 8(3), Article 3. Available at: https://doi.org/10.3390/
+soc8030064
+Mijs, J. J. B. (2019) ‘The paradox of inequality: Income inequality and belief in meritocracy go hand in hand’, Socio-Economic Review. Available at: https://doi.org/10.1093/ser/
+mwy051
+Mohan, J. and Breeze, B. (2016) The logic of charity: Great expectations in hard times. Palgrave
+Macmillan UK. Available at: https://doi.org/10.1057/9781137522658
+Nair, G. (2018) ‘Misperceptions of relative affluence and support for international redistribution’, Journal of Politics, 80(3), pp. 815–830. Available at: https://doi.org/10.1086/
+696991
+Niebuur, J., van Lente, L., Liefbroer, A. C., Steverink, N. and Smidt, N. (2018) ‘Determinants
+of participation in voluntary work: A systematic review and meta-analysis of longitudinal cohort studies’, BMC Public Health, 18(1), pp. 1213. Available at: https://doi.org/
+10.1186/s12889-018-6077-2
+OECD. (2021) Does inequality matter? OECD Publishing. Available at: https://doi.org/
+10.1787/3023ed40-en
+Okten, C. and Osili, U. O. (2004) ‘Contributions in heterogeneous communities: Evidence
+from Indonesia’, Journal of Population Economics, 17(4), pp. 603–626. Available at: https:
+//doi.org/10.1007/s00148-004-0189-y
+Oliver, J. E. (1999) ‘The effects of metropolitan economic segregation on local civic participation’, American Journal of Political Science, 43(1), pp. 186–212. Available at: https:
+//doi.org/10.2307/2991790
+Payne, A. A. and Smith, J. (2015) ‘Does income inequality increase charitable giving?’, Canadian Journal of Economics, 48(2), pp. 793–818. Available at: https://doi.org/10.1111/
+caje.12144
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+EUROPEAN SOCIETIES
+
+281
+
+Putnam, R. D. (2000) Bowling alone: The collapse and revival of American community. Simon
+and Schuster.
+Rijnhart, J. J. M., Lamp, S. J., Valente, M. J., MacKinnon, D. P., Twisk, J. W. R. and Heymans, M.
+W. (2021) ‘Mediation analysis methods used in observational research: A scoping review
+and recommendations’, BMC Medical Research Methodology, 21(1), pp. 226. Available at:
+https://doi.org/10.1186/s12874-021-01426-3
+Rosseel, Y. (2012) ‘lavaan: An R package for structural equation modeling’, Journal of Statistical Software, 48(1), Article 1. Available at: https://doi.org/10.18637/jss.v048.i02
+Rotolo, T. and Wilson, J. (2014) ‘Social heterogeneity and volunteering in U.S. cities’, Sociological Forum, 29(2), pp. 429–452. Available at: https://doi.org/10.1111/socf.12091
+Schröder, J. M. and Neumayr, M. (2023) ‘How socio-economic inequality affects individuals’ civic engagement: A systematic literature review of empirical findings and theoretical
+explanations’, Socio-Economic Review, 21(1), pp. 665–694. Available at: https://doi.org/
+10.1093/ser/mwab058
+Skrondal, A. and Laake, P. (2001) ‘Regression among factor scores’, Psychometrika, 66(4),
+563–575. Available at: https://doi.org/10.1007/BF02296196
+Solt, F. (2008) ‘Economic inequality and democratic political engagement’, American
+Journal of Political Science, 52(1), pp. 48–60. Available at: https://doi.org/10.1111/
+j.1540-5907.2007.00298.x
+Tingley, D., Yamamoto, T., Hirose, K., Keele, L. and Imai, K. (2014) ‘mediation: R package
+for causal mediation analysis’, Journal of Statistical Software, 59(1), Article 1. Available at:
+https://doi.org/10.18637/jss.v059.i05
+Tomeh, A. K. (1969) ‘Empirical considerations on the problem of social integration’,
+Sociological Inquiry, 39(1), pp. 65–76. Available at: https://doi.org/10.1111/j.1475
+-682X.1969.tb00941.x
+Uslaner, E. M. and Brown, M. (2005) ‘Inequality, trust, and civic engagement’, American Politics Research, 33(6), pp. 868–894. Available at: https://doi.org/10.1177/
+1532673x04271903
+Valente, M. J., Rijnhart, J. J. M., Smyth, H. L., Muniz, F. B. and MacKinnon, D.P. (2020)
+‘Causal mediation programs in R, Mplus, SAS, SPSS, and Stata’, Structural Equation
+Modeling, 27(6), pp. 975–984. Available at: https://doi.org/10.1080/10705511.2020
+.1777133
+Wiepking, P. and Bekkers, R. (2012) ‘Who gives? A literature review of predictors of charitable giving. Part two: Gender, family composition and income’, Voluntary Sector Review,
+3(2), pp. 217–245. Available at: https://doi.org/10.1332/204080512X649379
+Wilson, J. and Musick, M. (1997) ‘Who cares? Toward an integrated theory of volunteer
+work’, American Sociological Review, 62(5), pp. 694–713.
+Yang, Y. (2022) Economic inequality and prosocial behavior: A multidimensional analysis. PhD
+dissertation. Indiana University. Available at: https://hdl.handle.net/1805/29513
+Yang, Y. and Konrath, S. (2023) ‘A systematic review and meta-analysis of the relationship
+between economic inequality and prosocial behaviour’, Nature Human Behaviour, pp. 1–
+18. Available at: https://doi.org/10.1038/s41562-023-01681-y
+Zeileis, A. (2004) ‘Econometric computing with HC and HAC covariance matrix estimators’, Journal of Statistical Software, 11, pp. 1–17. Available at: https://doi.org/10.18637/
+jss.v011.i10
+
+Downloaded from http://direct.mit.edu/euso/article-pdf/28/1/254/2524245/euso.a.22.pdf by WIRTSCHAFTSUNIVERSITAET WIEN user
+
+
